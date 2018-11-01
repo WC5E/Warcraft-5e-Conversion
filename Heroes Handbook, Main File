@@ -1040,48 +1040,52 @@ Your orc character share certain traits no matter what clan you deriving from.
 
 ***Alignment.*** Orcs might not have an innate tendency toward evil, but many end up there. Evil or not, many orcs lean toward a chaotic alignment.
 
-***Size.*** Orcs are muscularly built, only just towering above humans, with a height of 6 to 6'6 feet. Your size is Medium.
+***Size.*** Orcs are muscularly built, only just towering above humans, with a height of 6 to 7 feet. Your size is Medium.
 
 ***Speed.*** Your base walking speed is 30 feet. 
 
 ***Darkvision.*** Thanks to your blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-***Relentless Endurance.*** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
+***Relentless Endurance.*** When you are reduced to 0 hit points but not killed, you can drop to 1 hit point instead. You must then finish a long rest to use this feature again.
 
-***Savage Attacks.*** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+***Languages.*** You can speak, read, and write Common and Orcish. Orcish is a harsh, grating language with hard consonants. It has no script of its own but is written in a mix of dwarven runes and common.
+
+***Orc Clan.*** Orcs come from many clans, these clans have been put into three categories: Hunter, Mystic, and Warrior clans. Choose one of these clans.
 
 \columnbreak
 
 <br>
 
-&nbsp;&nbsp;&nbsp; ***Languages.*** You can speak, read, and write Common and Orcish. Orcish is a harsh, grating language with hard consonants. It has no script of its own but is written in a mix of dwarven runes and common.
-
-***Orc Clan.*** Orcs come from many clans, these clans have been put into three categories: Agile, Brute, and Mystic clans. Choose one of these clans.
-
 #### Hunter Clans
-Some orc clans, prefer a more stealth approach to things, hiding and waiting for the perfect time to ambush, such clans include The Shattered Hand, and Bleeding Hollow. Two large orc clans, that go in for a much more stealthy approach to things, these clans highly favor hunters, rogues, and occasionally warriors or shamans.
+Some orc clans, prefer a more stealth approach to things, hiding and waiting for the perfect time to ambush, such clans include The Shattered Hand, and Bleeding Hollow. Two large orc clans, that go in for a much more stealthy approach to things.
 
 ***Ability Score Increase.*** Your Dexterity increases by 1.
 
+***Agility.*** Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.
+
 ***Ambusher.*** You gain proficiency in the Stealth skill.
 
+#### Mystic Clans
+Not many orc clans go in for the use of magic, and those that do are usually more secretive than the rest. Generally less keen on working with other clans are spend their time as a nomadic folk rather than settling in a certain area. Such clans include The Shadowmoon, and Stormreaver. 
+
+***Ability Score Increase.*** Increase your Wisdom by 1.
+
+***Ancestral Call.*** You can cast the *augury* spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Wisdom is your spellcasting ability for this spell.
+
+***Mystic Lore.*** You gain proficiency in the Arcana skill.
+
 #### Warrior Clans
-Most known orc clans go for the brute forced approach, entering combat gladly with raised weapons, hammering down everything in their way. Some of the larger clans include Warsong, Burning Blade, and the Frostwolves. These clans favor warriors and hunters, and occasionally shamans.
+Most known orc clans go for the brute forced approach, entering combat gladly with raised weapons, hammering down everything in their way. Some of the larger clans include Warsong, Burning Blade, and the Frostwolves. 
 
 ***Ability Score Increase.*** Your Strength increases by 1.
 
 ***Powerful Build.*** You count as one size larger when determining your carrying capacity and weight you can push, drag, or lift.
 
-#### Mystic Clans
-Not many orc clans go in for the use of magic, and those that do are usually more secretive than the rest. Generally less keen on working with other clans are spend their time as a nomadic folk rather than settling in a certain area. Such clans include The Shadowmoon, and Steamreaver. These clans favor mages, shamans, or warlocks. 
-
-***Ability Score Increase.*** Increase your Wisdom by 1.
-
-***Mystic Lore.*** You gain proficiency in the Arcana skill.
+***Savage Attacks.*** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/BiY1eMt.jpg' style='position:absolute; top:660px; right:-300px; width:1200px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-150px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-130px; right:0px; width:900px' />
 
 \pagebreakNum
 
