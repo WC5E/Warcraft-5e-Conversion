@@ -1257,17 +1257,15 @@ Tauren share certain characteristics no matter what tribe they come from.
 
 ***Speed.*** Your base walking speed is 30 feet.
 
+***Gore.*** Your horns are natural weapons, which you can use to make an unarmed strike. If you hit with them, you deal 1d8 + your Strength modifier piercing damage.
+
 ***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+***Tribal Training.*** You are proficient with the halbard, tauren totem, shortbow, and longbow.
 
 \columnbreak
 
-&nbsp;&nbsp;&nbsp; ***Gore.*** Your horns are natural weapons, which you can use to make an unarmed strike. If you hit with them, you deal 1d8 + your Strength modifier piercing damage.
-
-***Tribal Training.*** You are proficient in longbows, halberds, and tauren totems.
-
-***War Stomp.*** You can cast the *earth tremor* spell once per day, stomping your hoof into the ground. Strength is your spellcasting ability for this spell.
-
-***Languages.*** You can speak, read, and write Common and Taur-ahe. Taur-ahe is a harsh, and low sounding language, without a proper alphabet, their written language is made of elaborate pictograms and pictoforms.
+&nbsp;&nbsp;&nbsp; ***Languages.*** You can speak, read, and write Common and Taur-ahe. Taur-ahe is a harsh, and low sounding language, without a proper alphabet, their written language is made of elaborate pictograms and pictoforms.
 
 ***Tribe.*** Tauren are a tribe people, many tribes exist, but Bloodhoof, Grimtotem, and Highmountain is by far the 3 largest. Choose one of these tribes.
 
@@ -1276,25 +1274,31 @@ Bloodhoofs are widely spread, their kin is the keepers of Thunder Bluff, the tau
 
 ***Ability Score Increase.*** Your Charisma increases by 1.
 
-***Far traveled.*** You are proficiency in the History skill.
+***Brave.*** You have advantage on saving throws against being frightened.
+
+***War Stomp.*** You can cast the *earth tremor* spell once per day, stomping your hoof into the ground. Strength is your spellcasting ability for this spell.
 
 #### Grimtotem Tribe
 Grimtotems are the most aggressive and vicious tauren, wishing to eradicate lesser races from Kalimdor, and reclaim tauren long lost ancestral holdings.
 
 ***Ability Score Increase.*** Your Strength increases by 1.
 
-***Fearful.*** You have proficiency in the Intimidation skill.
+***Menacing.*** You are trained in the Intimidation skill.
+
+***Rugged Tenacity.*** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can't use it again until you finish a short or long rest.
 
 #### Highmountain Tribe
-Highmountains are among the more secluded tauren, residing atop highmountain on the broken isles, they are a peaceful, and generally kind hearted tauren kin. These tauren has massive thick antler instead of  horns.
+Highmountains are among the more secluded tauren, residing atop highmountain on the broken isles, they are a peaceful, and generally kind hearted tauren kin. These tauren has massive thick antler instead of horns.
 
 ***Ability Score Increase.*** Your Wisdom increases by 1.
 
-***Animal Handler.*** You are proficiency in the Animal Handling skill.
+***Beast's Respect.*** You can cast the *beast bond* spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Wisdom is your spellcasting ability for this spell.
+
+***Mountaineer.*** You're acclimated to high altitude, including elevations above 20,000 feet. You're also naturally adapted to cold climates, as described in chapter 5 of the *Dungeon Master's Guide.*
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/BNzbONd.jpg' style='position:absolute; top:630px; right:-400px; width:1300px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-200px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/BNzbONd.jpg' style='position:absolute; top:700px; right:-400px; width:1300px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-100px; right:0px; width:900px' />
 
 \pagebreakNum
 
