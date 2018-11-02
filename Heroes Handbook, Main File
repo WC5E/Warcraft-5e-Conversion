@@ -526,46 +526,52 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 ***Darkvision.*** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-\columnbreak
-
-<br>
-
-&nbsp;&nbsp;&nbsp; ***Dwarven Resilience.*** You have advantage on saving throws against poison, and you have resistance against poison damage.
-
 ***Stonecunning.*** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
-***Languages.*** You can speak, read, and write Common and Dwarven. Dwarven is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+\columnbreak
 
-***Subrace.*** Three main subraces of dwarves populate the world of Azeroth: dark iron dwarves, bronzebeard dwarves and wildhammer dwarves. Choose one of these subraces.
+&nbsp;&nbsp;&nbsp; ***Languages.*** You can speak, read, and write Common and Dwarven. Dwarven is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
-#### Bronzebeard Dwarf
-Bronzebeard dwarves are hardy and strong, the most military organized of the dwarven kin, being keen combatants, both in close quarters or from a distance, living in the snowy mountains of Dun Morogh, They tend to have lighter colorations than the rest of their kin. 
-
-***Ability Score Increase.*** Your Strength increases by 1.
-
-***Bronzebeard Training.*** You are proficent in light armor, and firearms.
-
-***Dwarven Toughness.*** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+***Subrace.*** Ancient divides among dwarves have resulted in three main subraces: dark iron, ironforge, and wild-hammer dwarves. Choose one of these subraces.
 
 #### Dark Iron Dwarf
 Dark iron dwarves are cunning and nimble in comparison to the rest of their kin, preferring a less straight on approach to combat, and the use of darker magics. They commonly have dark grey to coal black skin, with red glowing eyes, and fiery red or black hair.
 
 ***Ability Score Increase.*** Your Intelligence increases by 1.
 
+***Fireblood.*** You can cast the *lesser restoration* spell on yourself once with this trait, and you regain the ability to cast it this way when you finish a long rest.
+
 ***Forged in Flames.*** You have resistance to fire damage.
+
+***Superior Darkvision.*** Your darkvision has a radius <br> of 120 feet
+
+***Sunlight Sensitivity.*** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
+#### Ironforge Dwarf
+Ironforge dwarves are hardy and strong, the most military organized of the dwarven kin, being keen combatants, both in close quarters or from a distance, living in the snowy mountains of Dun Morogh, They tend to have lighter colorations than the rest of their kin. 
+
+***Ability Score Increase.*** Your Strength increases by 1.
+
+***Dwarven Toughness.*** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+
+***Ironforge Training.*** You have proficiency with light armor, and the battleaxe, heavy crossbow, and firearm.
+
+***Stoneform.*** You can use your reaction upon being hit by a melee weapon attack to give yourself resistance towards bludgeoning, piercing, and slashing damage until the start of your next turn. You must then finish a long rest to use this feature again.
 
 #### Wildhammer Dwarf
 Wildhammer dwarves are untamed in comparison, they live further north in the Eastern Kingdoms, minding their own business and shamanistic ways. They are taller and slenderer than other dwarves, with tanned skin, and often wearing tribal tattoos.
 
 ***Ability Score Increase.*** Your Wisdom increases by 1.
 
-***Natural Handler.*** You are proficient in the Animal Handling skill.
-
 ***Brave Beyond Reason.*** You have advantage on saving throws against being frightened.
 
+***Gryphon Rider.*** You gain proficiency with the Animal Handling skill, and have advantage on Wisdom (animal handling) checks made towards gryphons.
+
+***Dwarven Resilience.*** You have advantage on saving throws against poison, and you have resistance against poison damage.
+
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/YtBuE5O.jpg' style='position:absolute; top:740px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-30px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/YtBuE5O.jpg' style='position:absolute; top:770px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-25px; right:0px; width:1000px' />
 
 \pagebreakNum
 
