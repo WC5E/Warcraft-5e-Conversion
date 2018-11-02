@@ -1148,9 +1148,9 @@ Your forsaken character has certain traits deriving from humans, as well as fors
 
 ***Darkvision.*** Forsakens can see normal in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-***Cannibalism.*** You can spend a minute cannibalizing the corpse of a humanoid or beast that has been dead for less than hour. When done, you can expend hit dies as if you had finished a short rest.
+***Cannibalism.*** Using a minute, you can cannibalize the corpse of a humanoid or beast that has been dead for less than 1 hour. When done, you regain a number of hit point sequal to your level + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short rest.
 
-***Undead Nature.*** You have two creature types: humanoid and undead. You can be affected by a game effect if it works on either of your creature types. In addition, you gain the following benefits:
+***Undead.*** You have two creature types: humanoid and undead. You can be affected by a game effect if it works on either of your creature types. In addition, you gain the following benefits:
 <div style='margin-top:-7px;'></div>
 
  - You don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.
