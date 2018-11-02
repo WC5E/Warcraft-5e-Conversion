@@ -1144,39 +1144,39 @@ Your forsaken character has certain traits deriving from humans, as well as fors
 
 ***Size.*** Forsaken size reflects that of their living counter-parts. Many getting more hunched over with the decades. Your size is Medium.
 
-***Speed.*** Your base walking speed is 30 feet. 
-
-***Cannibalism.*** You can spend a minute cannibalizing the corpse of a humanoid or beast that has been dead for less than hour. When done, you can expend hit dies as if you had finished a short rest.
+***Speed.*** Your base walking speed is 30 feet.
 
 ***Darkvision.*** Forsakens can see normal in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-***Undead.*** Your creature type is undead instead of human-oid. Being undead gives you the following benefits:
- - You have two creature types: humanoid and undead. You can be affected by a game effect if it works on either of your creature types.
- - You have advantage on saving throws against effects that turn undead.
- - You don't require food, water or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.
+***Cannibalism.*** You can spend a minute cannibalizing the corpse of a humanoid or beast that has been dead for less than hour. When done, you can expend hit dies as if you had finished a short rest.
+
+***Undead Nature.*** You have two creature types: humanoid and undead. You can be affected by a game effect if it works on either of your creature types. In addition, you gain the following benefits:
+<div style='margin-top:-7px;'></div>
+
+ - You don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.
  - You have resistance to poison damage, and advantage on saving throws against being poisoned.
 
-***Will of the Forsaken.*** You have advantage on saving throws against being charmed or frightened, and magic can't put you to sleep.
+***Will of the Forsaken.*** You have advantage on saving throws against being charmed, and effects that turn undead, and magic can't put you to sleep.
 
-***Languages.*** You can speak, read, and write Common and Gutterspeak. Gutterspeak is a simple form of common mixed with dwarven and thalassian, originally the language of underground rogues, it has since been adapted as the forsakens official language.
+***Languages.*** You can speak, read, and write Common and Gutterspeak. Gutterspeak is a simple form of common that mixes in Dwarven and Thalassian slurs. 
 
 ***Subrace.*** Two kinds of forsaken exist on Azeroth, elves and humans. Choose one of these subraces.
 
 #### Forsaken Elf
-As a forsaken elf, you were once a high elf off quel'thalas, overtaken by the scourge. Now usually serving as high and powerful members within Sylvanas' rule.
+As a forsaken elf, you were once a high elf off Quel'thalas, overtaken by the scourge. Now usually serving as high and powerful members within Sylvanas' rule.
 
 ***Ability Score Increase.*** Your Intelligence increases by 1.
 
-***Thalassian Knowledge.*** You gain proficiency in the Arcana skill.
+***Quel'dorei Legacy.*** You can cast *magic missiles* and *shield* with this trait, using Intelligence as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest.
 
 ***Languages.*** You can speak, read, and write Thalassian.
 
 #### Forsaken Human
-As a forsaken human, you were once a proud human of lordaeron. A human society at the top of the eastern kingdoms, that the scourge all but leveled with the ground in its passing. Now, broken from the scourges will, you serve under Queen Sylvanas' rule.
+As a forsaken human, you were once a proud human of Lordaeron. A human society at the top of the Eastern Kingdoms, that the scourge all but leveled with the ground in its passing. Now, broken from the scourges will, you serve under Queen Sylvanas' rule.
 
-***Ability Score Increase.*** One ability scores of your choice increase by 1.
+***Ability Score Increase.*** One other ability scores of your choice increases by 1.
 
-***Skills.*** You gain proficiency in one skill of your choice.
+***Human Resolve.*** When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can't use it again until you finish a short or long rest.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/M8d875w.jpg' style='position:absolute; top:350px; right:260px; width:730px' />
