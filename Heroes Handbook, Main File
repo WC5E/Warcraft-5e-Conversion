@@ -1123,6 +1123,8 @@ Forsaken, unsurprisingly, look like dead people. Their skin is gray and rotting,
 
 \pagebreakNum
 
+<div style='margin-top:320px;'></div>
+
 ### Affiliation
 Though the Forsaken do not trust anyone and no one trusts them, they are members of the Horde and, for now, do their best to help their allies and placate their ambassadors. Forsaken have even less love for the Alliance, particularly because they clash constantly with the human organization called the Scarlet Crusade.
 
@@ -1130,8 +1132,6 @@ The only other Horde faction they have a semblance of trust with is Silvermoon C
 
 ### Names
 Most forsaken keep the human or blood elven name they had when they were alive. If a forsaken cannot remember their name, or simply wishes to change it, they make up a suitable name or read one from a headstone. Some invent surnames that imply their desire to eradicate the Scourge or about their undead nature.
-
-\columnbreak
 
 ### Forsaken Traits
 Your forsaken character has certain traits deriving from humans, as well as forsaken traits.
@@ -1148,13 +1148,20 @@ Your forsaken character has certain traits deriving from humans, as well as fors
 
 ***Darkvision.*** Forsakens can see normal in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-***Cannibalism.*** Using a minute, you can cannibalize the corpse of a humanoid or beast that has been dead for less than 1 hour. When done, you regain a number of hit point sequal to your level + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short rest.
+***Cannibalism.*** Using 1 minute, you can cannibalize the corpse of a humanoid that has been dead for less than 1 hour. When done, you regain a number of hit point sequal to your level + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short rest.
+
+\columnbreak
+
+<div style='margin-top:350px;'></div>
+
+&nbsp;&nbsp;&nbsp; ***Touch of the Grave.*** Forsaken don't need to sleep. Instead, they enter a semiconscious state of the afterlife for 4 hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 ***Undead.*** You have two creature types: humanoid and undead. You can be affected by a game effect if it works on either of your creature types. In addition, you gain the following benefits:
-<div style='margin-top:-7px;'></div>
+<div style='margin-top:-10px;'></div>
 
- - You don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.
+ - You don't require food, or water.
  - You have resistance to poison damage, and advantage on saving throws against being poisoned.
+<div style='margin-top:-7px;'></div>
 
 ***Will of the Forsaken.*** You have advantage on saving throws against being charmed, effects that turn undead, and magic can't put you to sleep.
 
@@ -1179,9 +1186,8 @@ As a forsaken human, you were once a proud human of Lordaeron. A human society a
 ***Human Resolve.*** When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can't use it again until you finish a short or long rest.
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/M8d875w.jpg' style='position:absolute; top:350px; right:260px; width:730px' />
-<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-90px; width:900px' />
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-470px; right:0px; width:900px;transform:rotate(5deg)' />
+<img src='https://www.gmbinder.com/images/M8d875w.jpg' style='position:absolute; top:-400px; right:0px; width:800px' />
+<img src='https://i.imgur.com/Mgi0q18.png' style='position:absolute; top:30px; right:0px; width:900px' />
 
 \pagebreakNum
 
