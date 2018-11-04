@@ -645,7 +645,7 @@ Oakwalker, Nightwing, Staghorn, Bladeleaf, Deeprunner
 ### Night Elf Traits
 Your night elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
 
-***Ability Score Increase.*** Your Wisdom increases by 2.
+***Ability Score Increase.*** Your Dexterity increases by 2.
 
 ***Age.*** Although night elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. A night elf typically claims adulthood and an adult name around the age of 100 and can live to become several thousand years old.
 
@@ -655,33 +655,35 @@ Your night elf character has a variety of natural abilities, the result of thous
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Darkvision.*** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+***Darkvision.*** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim. You can't discern color in darkness, only shades of gray.
 
-***Shadowmeld.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+***Natures Respect.*** You are proficient in the Nature skill.
 
 ***Trance.*** Night elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
-***Touch of Elune.*** When rolling damage for a critical hit on a target, you may reroll one die of your choosing once, you have to use the new number rolled.
-
-***Languages.*** You can speak, read, and write Common and Darnassian. Darnassian is fluid, with subtle intonations and intricate grammar. Darnassian literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Darnassian ballads to their repertoires.
+***Languages.*** You can speak, read, and write Common and Darnassian. Darnassian is fluid, with subtle intonations and intricate grammar. Its literature is rich and varied, and their songs and poems are famous among other races.
 
 ***Subrace.*** Ancient divides among the elven people resulted in two subraces: highbornes elves, and kaldorei elves. Choose one of these subraces.
 
 #### Highborne
-Highborne elves are the 'nobility' amongst elves, becoming their spellcasters, and priestess', they are keen minded arcanists all with at least a basic mastery of arcane.
+As a highborne, you have an innate ability to wield arcane magic, and understand its inner workings. These keen minded arcanists often raise to become the Night elves priestess' and spellcasters.
 
-***Ability Score Increase.*** Your Intelligence score increases by 1.
+***Ability Score Increase.*** Your Intelligence increases by 1.
 
-***Highborne Magic.*** You know the *minor illusion* cantrip. When you reach 3rd level, you can cast the *sleep* spell once per long rest. When you reach 5th level, you can also cast the *hold person* spell once per long rest. Intelligence is your spellcasting ability for these spells.
+***Mystic Lore.*** Whenever you make an Intelligence (Arcana) check related to magic items, lore, or spells, you are considered proficient in the Arcana skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+
+***Cantrips.*** You know two cantrips of your choice from the mage spell list. Intelligence is your spellcasting ability for these spells.
 
 #### Kaldorei
-Common night elves are the foundation of the elven society, they embody the average night elven warrior. Generally having had a harsher life than highbornes, with more physical training than training of the mind.
+As a kaldorei, you have keen senses, deep intuition, and remarkable physical abilities. The kaldorei make up the vast majority of Night elven society, having undergone more physical training and teachings of the land than their highborne nobility.
 
-***Ability Score Increase.*** Your Dexterity increases by 1.
+***Ability Score Increase.*** Your Wisdom increases by 1.
+
+***Fleet of Foot.*** Your base speed increases to 35 feet.
 
 ***Kaldorei Training.*** You are proficient in longbows, kal-dorei moonglaives, kaldorei moon swords, and warglaives.
 
-***Respect of Nature.*** You gain proficiency with one of the following skills of your choice: Animal Handling or Nature.
+***Shadowmeld.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
