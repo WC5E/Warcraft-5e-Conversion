@@ -841,20 +841,22 @@ Nerii, Asara, Velbus, Fuma, Oren, Suhe, Vumo
 <img src='https://www.gmbinder.com/images/m97J1Oq.png' style='position:absolute; top:20px; right:380px; width:400px' />
 
 \pagebreakNum
-
+ 
 ### Draenei Traits
 Draenei share certain racial traits given to them upon their renewal by the naaru.
-
-***Ability Score Increase.*** Your Wisdom increases by 2.
-
-***Age.*** draenei mature slightly slower than humans, reaching adulthood in their early 20's, and can live to extraordinarily old, become thousands of years old, often exceeding the ancient ages of night elves.
-
-***Alignment.*** draenei are mostly good. Those who strive towards law are sages, priests, paladins, vindicators, or scholars. Those who tend toward chaos are warriors, rangers, or in other ways people more fond of pure fighting.
-
-***Size.*** draenei are between 7 and 8 feet tall and somewhat muscular. Your size is Medium.
-
+ 
+***Ability Score Increase.*** Your Wisdom score increases by 1, and your Strength score increases by 1.
+ 
+***Age.*** Draenei mature slightly slower than humans, reaching adulthood in their early 20's, and can live to extraordinary age, become thousands of years old, often exceeding the ancient ages of night elves.
+ 
+***Alignment.*** Draenei are mostly good. Those who strive towards law are sages, priests, paladins, vindicators, or scholars. Those who tend toward chaos are warriors, rangers, or in other ways people more fond of pure fighting.
+ 
+***Size.*** Draenei are between 7 and 8 feet tall and somewhat muscular. Your size is Medium.
+ 
 ***Speed.*** Your base walking speed is 30 feet.
-
+ 
+***Shadow Resistance.*** You have resistance against necrotic damage.
+ 
 ***Languages.*** You can speak, read, and write Common and Draenei. The Draenei language, is a strange and compli-cated language for other races to learn. Seemingly having no resemblance with any Azerothian languages.
 
 ***Subrace.*** Three subraces of draenei exist: broken draenei, exodar draenei, and lightforged draenei. Choose one of them for your character.
@@ -868,27 +870,29 @@ As a broken draenei, you were left on Draenor as the legion invaded, your connec
 
 ***Darkvision.*** Accustomed to the unlit sky of Outland, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
+***Elemental Bond.*** You know the *frostbite* cantrip. When you reach 3rd level, you can cast the *earth tremor* spell once per long rest. When you reach 5th level, you can also cast the *gust of wind* spell once per long rest. Wisdom is your spellcasting ability for these spells.
+
 #### Exodar Draenei
 As an exodar draenei, you have a natural connection with the Naaru, strengthening your bond to the light. You've fled your planet of Argus from the Burning Legions crusade, forced into exile, for centuries you fled its legions before crash landing on the planet of Azeroth in the Exodar.
 
 ***Ability Score Increase.*** Your Intelligence increases by 1.
-
+ 
 ***Gemcutting.*** You are proficient with the jeweler's tools.
-
-***Gift of the Naaru.*** As an action, you can touch a creature and cause it to regain a number of hit points equal to twice your level. Once you use this trait, you can't use it again until you finish a long rest.
-
+ 
+***Gift of the Naaru.*** As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can’t use it again until you finish a long rest.
+ 
+***Heroic Presence.*** You can cast *heroism* and *divine favor* with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can’t cast it again with this trait until you finish a short or long rest.
+ 
 #### Lightforged Draenei
 Need to watch Nobbels vid on Lightforged, no idea about their lore or backstory.
 
 ***Ability Score Increase.*** Your Charisma increases by 1.
-
-***Forged of Light.*** The holy light's warmth envelopes you. When you aren't wearing armor, your AC is 12 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use natural armor.
-
+ 
+***Blacksmithing.*** You are proficient with the smith's tools. 
+ 
 ***Holy Resistance*** You have resistance to radiant damage.
-
-***Light Bearer.*** You know the *light* cantrip. Charisma is your spellcasting ability for it.
-
-***Light's Judgement.*** You can cast the *guiding bolt* spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Charisma is your spell-casting ability for this spell.
+ 
+***Light's Judgement:*** You know the *light* cantrip. When you reach 3rd level, you can cast the *guiding bolt* spell once per long rest. When you reach 5th level, you can cast the *branding smite* spell once per long rest. Wisdom is your spellcasting ability for these spells.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
