@@ -1367,7 +1367,7 @@ Zhokre, Xullah, Joz, Fahze, Zil, Ruso, Mooh
 ### Troll Traits
 Your troll character has certain characteristics in common with all other trolls.
 
-***Ability Score Increase.*** Your Dexterity score increases by 1.
+***Ability Score Increase.*** Your Dexterity increases by 1.
 
 ***Age.*** A troll reaches adulthood in their late teens and generally dies within a century, although they can live to become well over a century old.
 
@@ -1394,11 +1394,13 @@ As a forest troll, you have a keen sense of the natural world, a cunning for war
 
 ***Wilderness Knowledge.*** You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival.
 
-***Affiliation.*** *Independent or Horde.* Forest trolls are very secluded, preferring to remain in their once great empires ashes. They openly practice cannibalism, making them disliked by members of the Horde. These trolls few other races as beneath them, but will not hesitate to ally them-selves with them if it means their survival.
+***Affiliation.*** *Independent or Horde.* Forest trolls are very secluded, remaining in the ashes of their old empire. 
 
 \columnbreak
 
 <br>
+
+&nbsp;&nbsp;&nbsp; They openly practice cannibalism, making them disliked by members of the Horde. These trolls few other races as beneath them, but will not hesitate to ally them-selves with them if it means their survival.
 
 #### Ice Troll
 As an ice troll, you're strong and hardy, accustomed to cold climates. You rise above other troll subspecies, and tend toward lighter coloration. The ice trolls hail from the frigid regions of Dun Morogh and Northrend.
@@ -1408,6 +1410,8 @@ As an ice troll, you're strong and hardy, accustomed to cold climates. You rise 
 ***Frostworn Skin.*** You have resistance to cold damage.
 
 ***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+***Tundra Walker.*** You can move across difficult terrain made of ice or snow without expending extra movement.
 
 ***Affiliation.*** *Independent.* Ice trolls are steadfastly loyal to themselves above all others, their harsh society and brutal way of life makes them notorious amongst the Horde. They disobey their demand of ending their ways of cannibalism, making them uncommon members of the horde.
 
@@ -1432,7 +1436,8 @@ As a zandalari troll, you have a unparalleled connection to the loas, a strong i
 ***Loa's Embrace.*** You know the *guidance* cantrip. When you reach 3rd level, you can cast the *guiding hand* spell once per long rest. When you reach 5th level, you can also cast the *enhance ability* spell once per long rest. Wisdom is your spellcasting ability for these spells. When you cast this version of *guiding hand*, the hand appears as a tiny animal, representing a specific loa.
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/DoR7t7I.jpg' style='position:absolute; top:800px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1000px' />
 
 \pagebreakNum
 
