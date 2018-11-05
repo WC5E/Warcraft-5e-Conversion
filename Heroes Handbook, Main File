@@ -841,54 +841,62 @@ Nerii, Asara, Velbus, Fuma, Oren, Suhe, Vumo
 <img src='https://www.gmbinder.com/images/m97J1Oq.png' style='position:absolute; top:20px; right:380px; width:400px' />
 
 \pagebreakNum
-
+ 
 ### Draenei Traits
 Draenei share certain racial traits given to them upon their renewal by the naaru.
-
-***Ability Score Increase.*** Your Wisdom increases by 2.
-
-***Age.*** draenei mature slightly slower than humans, reaching adulthood in their early 20's, and can live to extraordinarily old, become thousands of years old, often exceeding the ancient ages of night elves.
-
-***Alignment.*** draenei are mostly good. Those who strive towards law are sages, priests, paladins, vindicators, or scholars. Those who tend toward chaos are warriors, rangers, or in other ways people more fond of pure fighting.
-
-***Size.*** draenei are between 7 and 8 feet tall and somewhat muscular. Your size is Medium.
-
+ 
+***Ability Score Increase.*** Your Wisdom score increases by 1, and your Strength score increases by 1.
+ 
+***Age.*** Draenei mature slightly slower than humans, reaching adulthood in their early 20's, and can live to extraordinary age, become thousands of years old, often exceeding the ancient ages of night elves.
+ 
+***Alignment.*** Draenei are mostly good. Those who strive towards law are sages, priests, paladins, vindicators, or scholars. Those who tend toward chaos are warriors, rangers, or in other ways people more fond of pure fighting.
+ 
+***Size.*** Draenei are between 7 and 8 feet tall and somewhat muscular. Your size is Medium.
+ 
 ***Speed.*** Your base walking speed is 30 feet.
-
-***Gemcutting.*** You are proficient with the jeweler's tools.
-
+ 
+***Shadow Resistance.*** You have resistance against necrotic damage.
+ 
 ***Languages.*** You can speak, read, and write Common and Draenei. The Draenei language, is a strange and compli-cated language for other races to learn. Seemingly having no resemblance with any Azerothian languages.
 
-***Subrace.*** Two subraces of draenei exist in the world: broken draenei and exodar draenei. <br> 
-
-Choose one of these subraces.
+***Subrace.*** Three subraces of draenei exist: broken draenei, exodar draenei, and lightforged draenei. Choose one of them for your character.
 
 #### Broken Draenei
-As a broken draenei, you were left on draenor as the burning legion invaded, your connection to the divine Naaru having been severed, leaving you an empty shell of the former draenei. You've been tainted with the fel of the burning legion, miss figuring your form and making you an outcast amongst your reunited exodar kin. 
+As a broken draenei, you were left on Draenor as the legion invaded, your connection to the Naaru have been severed, leaving you an empty shell of your kin. The severance has disfigured your form, leaving you an outcast amongst the Exodar Draenei.
 
 ***Ability Score Increase.*** Your Constitution score increases by 1.
 
-***Torturous Resistance.*** You have resistance against necrotic damage.
+***Darkvision.*** Accustomed to the unlit sky of Outland, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-***Broken Spirit.*** Your connection to the naaru has been severed, taking the lights power with it, whenever you cast a spell that deals radiant damage its damage is changed to your choice of cold, fire, lightning or thunder damage.
+***Elemental Bond.*** You know the *frostbite* cantrip. When you reach 3rd level, you can cast the *earth tremor* spell once per long rest. When you reach 5th level, you can also cast the *gust of wind* spell once per long rest. Wisdom is your spellcasting ability for these spells.
 
-***Elemental Bond.*** You know the *frostbite* cantrip. When you reach 3rd level, you can cast the *absorb elements* spell once per long rest. When you reach 5th level, you can also cast the *dragon's breath* spell once per long rest. Wisdom is your spellcasting ability for these spells.
+\columnbreak
 
 #### Exodar Draenei
-As a draenei, you have a natural connection with the Naaru, strengthening your bond to the light. Exodar draenei are the uncorrupted eredars, who fled their home planet of Argus from the demonic Burning Legion, to settle on Draenor for centuries, later to be forced to flee once again, and crash landing on Azeroth in their vessel the Exodar.
+As an exodar draenei, you have a natural connection with the Naaru, strengthening your bond to the light. You've fled your planet of Argus from the Burning Legions crusade, forced into exile, for centuries you fled its legions before crash landing on the planet of Azeroth in the Exodar.
 
-***Ability Score Increase.*** Your Intelligence score increases by 2.
+***Ability Score Increase.*** Your Intelligence increases by 1.
+ 
+***Gemcutting.*** You are proficient with the jeweler's tools.
+ 
+***Gift of the Naaru.*** As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can’t use it again until you finish a long rest.
+ 
+***Heroic Presence.*** You can cast *heroism* and *divine favor* with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can’t cast it again with this trait until you finish a short or long rest.
+ 
+#### Lightforged Draenei
+As a lightforged draenei, you've commited yourself to a crusade against the burning legion, infusing your body with the holy light. After the legions defeat on Outland, you've traveled to the planet of Azeroth to lend your aid to its residents against the eternal Burning Legion.
 
-***Lights Guidance*** You have resistance against radiant damage.
+***Ability Score Increase.*** Your Charisma increases by 1.
 
-***Gift of the Naaru.*** as an action, you can place a Gift of the Naaru on a friendly target within 30 feet, healing the target for 1d6 + your level, the target is healed for an additional 1d6 at the beginning of your next turn. You can't use this feature again until you finish a short or long rest.
+***Forged of Light.*** The holy light's warmth envelopes you. When you aren't wearing armor, your AC is 12 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use natural armor.
 
-This feature's healing increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+***Holy Resistance*** You have resistance to radiant damage.
+ 
+***Light's Judgement:*** You know the *light* cantrip. When you reach 3rd level, you can cast the *guiding bolt* spell once per long rest. When you reach 5th level, you can cast the *branding smite* spell once per long rest. Wisdom is your spellcasting ability for these spells.
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/EPh9F1N.jpg' style='position:absolute; top:0px; right:-200px; width:732px' />
-<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/51yF5of.png' style='position:absolute; top:1000px; right:500px; width:340px;transform:rotate(30deg)' />
+<img src='https://www.gmbinder.com/images/AlOBLkD.jpg' style='position:absolute; top:700px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-130px; right:0px; width:900px' />
 
 \pagebreakNum
 
