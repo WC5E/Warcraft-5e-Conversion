@@ -1365,60 +1365,78 @@ Goz, Akash, Vithek, Tian, Vazkono, Rhas, Vog
 Zhokre, Xullah, Joz, Fahze, Zil, Ruso, Mooh
 
 ### Troll Traits
-All trolls originate from the Zandalar trolls, giving them certain common traits.
+Your troll character has certain characteristics in common with all other trolls.
 
 ***Ability Score Increase.*** Your Dexterity increases by 2.
 
-***Age.*** Trolls mature at the same rate as humans, reaching adulthood in their late teens. Most trolls live until their early 70, but are able to live to 150.
+***Age.*** A troll reaches adulthood in their late teens and generally dies within a century, although they can live to become well over a century old.
 
-***Alignment.*** Trolls are a neutral race, their alignment varying drastically between them. Most trolls tend to avoid evil, and those who do become evil are almost always corrupted in some way.
+***Alignment.*** Trolls are a neutral race, their alignment varying drastically between them. Most trolls tend to be lawful, their tribes often having particular customs and rules for them to abide by.
 
-***Size.*** Even though most trolls stand slightly bend over, they still tower above most other races, with their height between 7 to 8 feet, and their muscular slender build. <br> Your size is Medium. 
+***Size.*** Even though most trolls stand bend forward with their slender builds and broad shoulders, they still tower above other races with an average height of 7 feet. Your size is Medium. 
 
 ***Speed.*** Your base walking speed is 30 feet. 
 
 ***Darkvision.*** Trolls retain their vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-***Rapid Regeneration.*** As bonus action you can regain 1d6 + your Constitution modifier hit points. The amount healed increases by 1d6 at 5th, 11th, and 17th level.
-
-You can use this feature a number of times equal to your Constitution modifier (minimum of 1), regaining expended uses after a long rest.
-
-\columnbreak
-
-<br><br>
+***Regeneration.*** For each Hit Die spent at the end of a short rest, you add twice your Constitution modifier to it.
 
 ***Languages.*** You can speak, read, and write Common and Zandali. Zandali is the tongue of all trolls. It is a largely syllabic language, and taught down through generations as it has no physical script.
 
-***Subrace*** Ancient divides among the Zandalari trolls resulted in three main subraces: forest trolls, ice trolls, and jungle trolls. Choose one of these subraces.
+***Subrace*** Four main subraces of troll populate the sur-face of Azeroth: forest trolls, ice trolls, jungle trolls, and zandalari trolls. Choose one of these subraces.
 
 #### Forest Troll
-Forest trolls are a secluded kin, preferring the company of plants before other races. Their skin is green, with a thin layer of a moss-like substance growing on it. As broad shouldered as ice trolls, but not nearly as fierce.
+As a forest troll, you have a keen sense of the natural world, a cunning for warfare, and a hatred of men and elves. Their skin is often a lush green, with a moss like substance grow-ing on its surface. The forest trolls of Azeroth once ruled an empire that has been brought to its knees by an alliance of human and high elves, liberating the region of Lordaeron.
 
 ***Ability Score Increase.*** Your Constitution score increases by 1.
 
-***Omnivorous.*** You are able to gain nourishment from plants and foliage as well as common food.
+***Omnivorous.*** You are able to gain nourishment from plants, foliage, and humanoid meat to fill your daily require-ment of food. 
 
-***Natural Camouflage.*** You have advantage on Stealth checks, when hiding in foliage or undergrowth.
+***Mask of the Wild.*** You have advantage on Stealth checks when lightly obscured by plants, or other types of foliage. 
+
+***Wilderness Knowledge.*** You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival.
+
+***Affiliation.*** *Independent or Horde.* Forest trolls are very secluded, preferring to remain in their once great empires ashes. They openly practice cannibalism, making them disliked by members of the Horde. These trolls few other races as beneath them, but will not hesitate to ally them-selves with them if it means their survival.
+
+\columnbreak
+
+<br>
 
 #### Ice Troll
-Ice trolls are the most barbaric of the trollkins, living in cold climates easily, with their thick hide, and large build. They share little of the slenderness of their kin, being exceptionally muscular, with skin and hair of pale colors.
+As an ice troll, you're strong and hardy, accustomed to cold climates. You rise above other troll subspecies, and tend toward lighter coloration. The ice trolls hail from the frigid regions of Dun Morogh and Northrend.
 
 ***Ability Score Increase.*** Your Strength increases by 1.
 
-***Hardened Skinned.*** You have resistance against cold damage, and ignore effects of extreme cold.
+***Cannibal.*** You are able to gain nourishment from human-oid meat to fill your daily requirement of food.
+
+***Frostworn Skin.*** You have resistance to cold damage, and ignore the effects of extreme cold.
+
+***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+***Affiliation.*** *Independent.* Ice trolls are steadfastly loyal to themselves above all others, their harsh society and brutal way of life makes them notorious amongst the Horde. They disobey their demand of ending their ways of cannibalism, making them uncommon members of the horde.
 
 #### Jungle Troll
-Jungle trolls are the most civilized troll species. They are organized around tribes, with bloodlines led by powerful warriors. Their skin tend to be light blue to dark grey.
+As a jungle troll, you have a knowledge of voodoo, a ferocity unmatched by your kin, and a uniformed tribal society. You stand shorter than any other troll specie, and tend to have skin of purple or gray colorations. The jungle trolls of Stranglethorn are by many considered the most brutal of all troll races, yet the ones that have joined the Horde have been forced to leave much of their brutality behind.
 
 ***Ability Score Increase.*** Your Charisma increases by 1.
 
-***Gurubashi Training.*** You have proficiency with the handaxe, javelin, and spear.
+***Berserking.*** Whenever you score a critical hit with a weapon attack, you can reroll one of the weapon's damage die and use either roll for the hit.
 
-***Survivalist.*** You gain proficiency in the Survival skill.
+***Darkspear Weapon Training.*** You have proficiency with the hand axe, javelin, and spear.
+
+***Voodoo Shuffle.*** You ignore non-magical difficult terrain, and your base walking speed increases to 35 feet.
+
+#### Zandalari Troll
+As a zandalari troll, you have a unparalleled connection to the loas, a strong intuition, and ancient traditions to uphold. Unlike most trolls, you stand upright, and tend toward a gray stone like complexion. The zandalari trolls are the pinnacle of all troll society, their temple city on Zandalar sits as a union for all trolls to converge to for meetings.
+
+***Ability Score Increase.*** Your Wisdom increases by 1.
+
+***Ancient lore.*** You gain proficiency in the History skill.
+
+***Loa's Embrace.*** You know the *guidance* cantrip. When you reach 3rd level, you can cast the *guiding hand* spell once per long rest. When you reach 5th level, you can also cast the *enhance ability* spell once per long rest. Wisdom is your spellcasting ability for these spells. When you cast this version of *guiding hand*, the hand appears as a tiny animal, representing a specific loa.
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/DoR7t7I.jpg' style='position:absolute; top:650px; right:-100px; width:950px' />
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-190px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
