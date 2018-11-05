@@ -1253,7 +1253,7 @@ Quillsplitter, Stonebreaker, Plainstalker, Spiritwalker
 ### Tauren Traits
 Tauren share certain characteristics no matter what tribe they come from.
 
-***Ability Score Increase.*** Your Constitution score increases by 2.
+***Ability Score Increase.*** Your Constitution score increases by 2, and your Strength or Wisdom score increases by 1.
 
 ***Age.*** Tauren reaches adulthood in their mid teens, and most grow to be 80 years old, few live beyond a century. 
 
@@ -1263,7 +1263,7 @@ Tauren share certain characteristics no matter what tribe they come from.
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Gore.*** Your horns are natural weapons, which you can use to make an unarmed strike. When you hit with them, the target takes piercing damage equal to 1d6 + your Strength modifier.
+***Horns.*** Your horns are natural weapons, which you can use to make an unarmed strike. When you hit with them, the target takes piercing damage equal to 1d6 + your Strength modifier.
 
 ***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
@@ -1273,34 +1273,30 @@ Tauren share certain characteristics no matter what tribe they come from.
 
 &nbsp;&nbsp;&nbsp; ***Languages.*** You can speak, read, and write Common and Taur-ahe. Taur-ahe is a harsh, and low sounding language, without a proper alphabet, their written language is made of elaborate pictograms and pictoforms.
 
-***Tribe.*** Tauren are a tribe people, many tribes exist, but Bloodhoof, Grimtotem, and Highmountain is by far the 3 largest. Choose one of these tribes.
+***Subrace.*** Three subraces of tauren exist: mulgore tauren, winter tauren, and highmountain tauren. Choose one of them for your character.
 
-#### Bloodhoof Tribe
-Bloodhoofs are widely spread, their kin is the keepers of Thunder Bluff, the tauren capital. They reside all over Azeroth, in attempts to restore the balance of the world after the occupation of the burning legion. 
+#### Mulgore Tauren
+The tauren of Mulgore are a peaceful and honorable people, that nonetheless are fierce fighters when roused. Hunting and shamanism are held in high regard in their culture, as is their worship of the Earth Mother and respect for the land and nature.
 
-***Ability Score Increase.*** Your Charisma increases by 1.
+***Endurance.*** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
-***Brave.*** You have advantage on saving throws against being frightened.
+***War Stomp.*** You can cast the *earth tremor* once with this trait, by stomping your hoof into the ground, and regain the ability to do so when you finish a long rest. Strength is your spellcasting ability for this spell.
 
-***War Stomp.*** You can cast the *earth tremor* spell once per day, stomping your hoof into the ground. Strength is your spellcasting ability for this spell.
+#### Winter Tauren (Taunka)
+The taunka (also known as winter tauren) are an ancient offshoot of the yaungol and relatives to the tauren who have adapted to the harsh environment in Northrend. Unlike their more peaceful tauren relatives, the taunka forcibly bend nature and the elements to their will in order to survive.
 
-#### Grimtotem Tribe
-Grimtotems are the most aggressive and vicious tauren, wishing to eradicate lesser races from Kalimdor, and reclaim tauren long lost ancestral holdings.
+***Cold Resistance.*** You have resistance to cold damage.
 
-***Ability Score Increase.*** Your Strength increases by 1.
+***Natural Athlete.*** You have proficiency in the Athletics skill.
 
-***Menacing.*** You are trained in the Intimidation skill.
+***Tundra Footing.*** You can move across difficult terrain made of ice or snow without expending extra movement.
 
-***Rugged Tenacity.*** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can't use it again until you finish a short or long rest.
-
-#### Highmountain Tribe
+#### Highmountain Tauren
 Highmountains are among the more secluded tauren, residing atop highmountain on the broken isles, they are a peaceful, and generally kind hearted tauren kin. These tauren has massive thick antler instead of horns.
 
-***Ability Score Increase.*** Your Wisdom increases by 1.
-
-***Animal Kinship.*** You can cast the *beast bond* spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Wisdom is your spellcasting ability for this spell.
-
 ***Mountaineer.*** You're acclimated to high altitude, including elevations above 20,000 feet. You're also naturally adapted to cold climates, as described in chapter 5 of the *Dungeon Master's Guide.*
+
+***Rugged Tenacity*** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/BNzbONd.jpg' style='position:absolute; top:700px; right:-400px; width:1300px' />
