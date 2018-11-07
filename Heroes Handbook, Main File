@@ -331,24 +331,40 @@ Many races have subraces. Members of a subrace have the traits of the parent rac
 \pagebreakNum
 
 # Alliance Class Suggestions
+ The following are a set of class suggestions, pulled from World of Wacraft, as the classes the Alliance races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
+ 
+ You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the races of the Alliance began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the Alliance races were not as open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race. A few of the subraces of the Alliance are part of races that split along faction lines. They are in the Faction Split Races section. 
+ 
+<div class='wide'>
+ 
+## Pre-Cataclysm
+ 
+| **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
+|:----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Draenei, Exodar*** | | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ |
+| ***Draenei, broken*** | | ✦ | ✦ | | | ✦ | ✦ | ✦ | ✦ | |
+| ***Dwarf, bronzebeard*** | | ✦ | | ✦ | ✦ | ✦ | | | ✦ | ✦ |
+| ***Dwarf, wildhammer*** | | ✦ | | | | |  ✦ | | ✦ | |
+| ***Gnome*** | | | ✦ | | | ✦ | | ✦ | ✦ | ✦ |
+| ***Human*** | | | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
 
-The following are a set of class suggestions, pulled from World of Wacraft, as the classes the Alliance races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
-
-You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the races of the Alliance began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the Alliance races were not as open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race.
-
+</div>
+ 
 <div class='wide'>
 
-## Pre-Cataclysm
-| Race | Class Suggestions |
-|:----|:-------------|
-| Human  | Mage, Paladin, Priest, Rogue, Warrior, Warlock, Death Knight |
-| Bronzebeard Dwarf  | Hunter, Paladin, Priest, Rogue, Warrior, Death Knight |
-| Wildhammer Dwarf | Hunter, Shaman, Warrior |
-| Gnome | Mage, Rogue, Warlock, Warrior, Death Knight |
-| Exodar Draenei | Hunter, Mage, Paladin, Priest, Shaman, Warrior, Death Knight |
-| Broken Draenei (Krokul) | Hunter, Mage, Rogue, Shaman, Warlock, Warrior |
-| Night Elf (Kaldorei) | Druid, Hunter, Priest, Rogue, Warrior, Death Knight |
-| High Elf (Quel'dorei) | Hunter, Mage, Paladin, Priest, Rogue, Warlock, Warrior, Death Knight |
+## Post-Cataclysm
+
+| **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Draenei, exodar*** | | ✦ | ✦ |  ✦ | ✦ | ✦ | | ✦ | | ✦ | ✦ | 
+| ***Draenei, broken*** | | ✦ | ✦ | | | | ✦ | ✦ | ✦ | ✦ | | |
+| ***Draenei, lightforged*** | | ✦ | ✦ | | ✦ | ✦ | | | | ✦ | | |
+| ***Dwarf, bronzebeard*** | | ✦ | ✦ |  ✦ |✦ | ✦ | ✦ | ✦ |  ✦ | ✦ | ✦ | |
+| ***Dwarf, wildhammer*** | ✦ | ✦ | | ✦ | | | | ✦ | | ✦ | | |
+| ***Dwarf, dark iron*** | | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | |
+| ***Gnome*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
+| ***Human*** | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | |
+| ***Worgen*** | ✦ | ✦ | ✦ | | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
 
 </div>
 
@@ -1026,46 +1042,40 @@ The worgen curse has transformed your body into that of a worgen, giving you the
 \pagebreakNum
 
 # Horde Class Suggestions
-
-The following are a set of class suggestions, pulled from World of Wacraft, as the classes the Horde races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
-
-You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the races of the Horde began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the Horde races were not as open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race.
-
+ The following are a set of class suggestions, pulled from World of Wacraft, as the classes the Horde races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
+ 
+ You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the races of the Horde began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the Horde races were not as open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race. A few of the subraces of the Horde are part of races that split along faction lines. They are in the Faction Split Races section. 
+ 
 <div class='wide'>
 
 ## Pre-Cataclysm
-
-| Race | Class Suggestions |
-|:----|:-------------|
-| Orc (All Tribes) | Hunter, Rogue, Shaman, Warlock, Warrior, Death Knight |
-| Forsaken (Elf and Human) | Mage, Priest, Rogue, Warlock, Warrior, Death Knight |
-| Mulgore Tauren | Druid, Hunter, Shaman, Warrior, Death Knight |
-| Winter Tauren (Taunka) | Druid, Hunter, Shaman, Warrior |
-| Forest Troll | Hunter, Mage, Priest, Rogue, Shaman, Warlock, Warrior |
-| Frost Troll | Hunter, Priest, Warrior |
-| Jungle Troll | Hunter, Mage, Priest, Rogue, Shaman, Warrior, Death Knight | 
-| Blood Elf (Sin'dorei) | Hunter, Mage, Paladin, Priest, Rogue, Warlock, Death Knight |
-
+| **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Forsaken*** | | | ✦ | | ✦ | ✦ | | ✦ | ✦ | ✦ |
+| ***Orc*** | | ✦ | | | | ✦ | ✦ | ✦ | ✦ | ✦ |
+| ***Tauren, mulgore*** | ✦ | ✦ | | | | | ✦ | | ✦ | ✦ |
+| ***Tauren, taunka*** | ✦ | ✦ | | | | | ✦ | | ✦ | |
+| ***Troll, forest*** | | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ | ✦ |
+| ***Troll, ice*** | | ✦ | | | ✦ | | | | ✦ |
+| ***Troll, jungle*** | | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | ✦ |
+ 
 </div>
 
 <div class='wide'>
 
 ## Post-Cataclysm
-
-| Race | Class Suggestions |
-|:----|:-------------|
-| Orc (All Tribes) | Hunter, Mage, Monk, Rogue, Shaman, Warlock, Warrior, Death Knight |
-| Forsaken (Elf and Human) | Hunter, Mage, Monk, Priest, Rogue, Warlock, Warrior, Death Knight |
-| Mulgore Tauren | Druid, Hunter, Monk, Paladin, Priest,Shaman, Warrior, Death Knight |
-| Winter Tauren (Taunka) | Druid, Hunter, Shaman, Warrior |
-| Highmountain Tauren | Druid, Hunter, Monk, Shaman, Warrior |
-| Forest Troll | Hunter, Mage, Priest, Rogue, Shaman, Warlock, Warrior |
-| Frost Troll | Hunter, Priest, Warrior |
-| Jungle Troll | Druid, Hunter, Mage, Monk, Priest, Rogue, Shaman, Warlock, Warrior, Death Knight | 
-| Zandalari Troll | Druid, Hunter, Mage, Monk, Paladin, Priest, Rogue, Shaman, Warlock, Warrior |
-| Blood Elf (Sin'dorei) | Hunter, Mage, Monk, Paladin, Priest, Rogue, Warlock, Warrior, Death Knight, Demon Hunter |
-| Nightborne Elf (Shal'dorei) | Hunter, Mage, Monk, Priest, Rogue, Warlock, Warrior |
-| Pandaren, Huojin Faction | Hunter, Mage, Monk, Priest, Rogue, Shaman, Warrior |
+| **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Forsaken*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
+| ***Goblin*** | | ✦ | ✦ | | |  ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | |
+| ***Orc*** | | ✦ | ✦ | ✦ | | | ✦ | ✦ | ✦ | ✦ | ✦ | |
+| ***Tauren, mulgore*** | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | | ✦ | ✦ | |
+| ***Tauren, taunka*** | ✦ | ✦ | | | | | | ✦ | | ✦ | | |
+| ***Tauren, highmountain*** | ✦ | ✦ | | ✦ | | | | ✦ | | ✦ | | |
+| ***Troll, forest*** | | ✦ | ✦ | | | ✦ | ✦ | ✦ | ✦ | ✦ |
+| ***Troll, ice*** | | ✦ | | | | ✦ | | | | ✦ | | |
+| ***Troll, jungle*** | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | |
+| ***Troll, zandalari*** | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | | |
 
 </div>
 
@@ -1717,6 +1727,40 @@ Your gnome character has certain abilities, learned through generations of gnome
 <img src='https://www.gmbinder.com/images/QQhhu9s.jpg' style='position:absolute; top:0px; right:-240px; width:840px' />
 <img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/OT3bM1A.png' style='position:absolute; top:990px; right:425px; width:300px;transform:rotate(10deg)' />
+
+\pagebreakNum
+
+# Faction Split Class Suggestions
+The following are a set of class suggestions, pulled from World of Wacraft, as the classes the faction split races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
+
+You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the people of the faction split races began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the faction split races were not as open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race. In the case of the Pandaren, their homelands were hidden, and they were mostly unknown before the Cataclysm.
+
+<div class='wide'>
+
+## Pre-Cataclysm
+ 
+| **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Elf, blood*** | | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | | ✦ |
+| ***Elf, high*** | | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
+| ***Elf, night*** | ✦ | ✦ | | | ✦ | ✦ | | | ✦ | ✦ |
+
+</div>
+
+<div class='wide'>
+
+## Post-Cataclysm
+| **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Elf, blood*** | | ✦ | ✦ |  ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ |
+| ***Elf, high*** | | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
+| ***Elf, highborne*** | | ✦ | ✦ | | | ✦ | ✦ | | ✦ | ✦ | | |
+| ***Elf, night*** | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | | ✦ | ✦ | ✦ |
+| ***Elf, nightborne*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
+| ***Elf, void*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
+| ***Pandaren*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | | |
+
+</div>
 
 \pagebreakNum
 
