@@ -330,14 +330,21 @@ Many races have subraces. Members of a subrace have the traits of the parent rac
 
 \pagebreakNum
 
+<div style="text-align:Center"> 
+
 # Alliance Class Suggestions
- The following are a set of class suggestions, pulled from World of Wacraft, as the classes the Alliance races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
+</div>
+
+The following are a set of class suggestions, pulled from World of Wacraft, as the classes the Alliance races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
+
+You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the races of the Alliance began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the Alliance races were less open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race.
  
- You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the races of the Alliance began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the Alliance races were not as open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race. A few of the subraces of the Alliance are part of races that split along faction lines. They are in the Faction Split Races section. 
- 
-<div class='wide'>
- 
-## Pre-Cataclysm
+<div class='wide'; style="text-align:Center"> 
+
+# Pre-Cataclysm
+</div>
+
+<div class='classTable wide'>
  
 | **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
 |:----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -347,12 +354,14 @@ Many races have subraces. Members of a subrace have the traits of the parent rac
 | ***Dwarf, wildhammer*** | | ✦ | | | | |  ✦ | | ✦ | |
 | ***Gnome*** | | | ✦ | | | ✦ | | ✦ | ✦ | ✦ |
 | ***Human*** | | | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
-
 </div>
  
-<div class='wide'>
+<div class='wide'; style="text-align:Center"> 
 
-## Post-Cataclysm
+# Post-Cataclysm
+</div>
+
+<div class='classTable wide'>
 
 | **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -365,30 +374,11 @@ Many races have subraces. Members of a subrace have the traits of the parent rac
 | ***Gnome*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
 | ***Human*** | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | |
 | ***Worgen*** | ✦ | ✦ | ✦ | | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
-
 </div>
 
-<div class='wide'>
-
-## Post-Cataclysm
-| Race | Class Suggestions |
-|:----|:-------------|
-| Human | Hunter, Mage, Monk, Paladin, Priest, Rogue, Warrior, Warlock, Death Knight |
-| Bronzebeard Dwarf  | Hunter, Mage, Monk, Paladin, Priest, Rogue, Shaman, Warlock, Warrior, Death Knight|
-| Wildhammer Dwarf | Druid, Hunter, Monk, Shaman, Warrior |
-| Dark Iron Dwarf | Hunter, Mage, Monk, Paladin, Priest, Rogue, Shaman, Warlock, Warrior |
-| Gnome | Hunter, Mage, Monk, Priest, Rogue, Warlock, Warrior, Death Knight|
-| Exodar Draenei | Hunter, Mage, Paladin, Priest, Shaman, Warrior, Death Knight |
-| Broken Draenei (Krokul) | Hunter, Mage, Rogue, Shaman, Warlock, Warrior |
-| Lightforged Draenei | Hunter, Mage, Paladin, Priest, Warrior |
-| Worgen | Druid, Hunter, Mage, Priest, Rogue, Warlock, Warrior, Death Knight |
-| Night Elf (Kaldorei) | Druid, Hunter, Mage, Monk, Priest, Rogue, Warrior, Death Knight, Demon Hunter |
-| High Elf (Quel'dorei) | Hunter, Mage, Paladin, Priest, Rogue, Warlock, Warrior, Death Knight |
-| Highborne Elf (Shen'dralar) | Hunter, Mage, Priest, Rogue, Warlock, Warrior |
-| Void Elf (Ren'dorei) | Hunter, Mage, Monk, Priest, Rogue, Warlock, Warrior |
-| Pandaren, Tushui Faction | Hunter, Mage, Monk, Priest, Rogue, Shaman, Warrior |
-
-</div>
+<div class='footnote'>PART 1 | RACES </div>
+<img src='https://www.gmbinder.com/images/c1MzTlS.jpg' style='position:absolute; top:730px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-100px; right:0px; width:900px' />
 
 \pagebreakNum
 
