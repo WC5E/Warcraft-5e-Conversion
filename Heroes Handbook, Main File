@@ -901,35 +901,43 @@ As a lightforged draenei, you've commited yourself to a crusade against the burn
 
 \pagebreakNum
 
-<div style='margin-top:500px'></div>
+<div style='margin-top:550px'></div>
 
 ## Worgen
-*Resembling a cross between human and dire wolf, the hunched over creature is roughly humanoid. Its body is covered in coarse, fur with twitching claws and snarling teeth. The creature's eyes are mottled yellow in colour, unblinking and devoid of any discernible emotion.*
+*When I told you that I wanted to retake Gilneas City from these Forsaken. There were those who said that it was impossible. I say that we no longer let our fears control us! For too long it has controlled me, fear that if all of you knew the whole truth, you would reject me. I give in no longer. Look at me... Now that you know the truth, I ask of you, who will stand with me, who will fight by my side?*
+<div style="text-align:Right"> 
 
-### Introduction
-Worgens were created during the War of the Satyr by the priestess Belysra Starbreeze and the druid Ralaar Fangfire who were trying to find a solution to the wolf pack form's uncontrollable nature. The form embodied the full fury of the wolf Ancient Goldrinn, something the druids had never been able to command. Belysra and Ralaar believed that the magic of Elune could tame its uncontrollable rage. Leading a ritual and mixing the power of the moon Elune, with the Druids of the Pack's pack form, resulting in the creation of the worgen. Unfortunately Goldrinn's fury was overwhelming. The worgen turned against the night elves, and Malfurion was forced to seal them within the Emerald Dream after it was discovered that their bite turned other night elves into more worgen, through what is now called the worgen curse.
+*— Genn Greymane* &nbsp;</div>
+<div style='margin-top:-5px'></div>
 
-Centuries later, they were freed from the Dream in order to fight the undead Scourge for Gilneas. While extremely effective against the undead army, the worgen then turned on the Gilnean, prompting them to close the Greymane Wall. While no worgen managed to enter the city, humans who had been bitten by them did. They would turn into worgen themselves and spread the curse to the whole of Gilneas, including King Genn Greymane. After being taught how to control their inner beast by the night elves, many worgen are now members of the Alliance.
+Worgens are vicious humanoid wolves, a curse thrown upon them by careless druids mingling in powers that were beyond them. The druids turned into the first worgen, feral and uncontrollable, they were sealed away for countless years when night elves realized that their base was able to transfer the curse to others.
+
+When the forsaken sieged the kingdom of Gilneas, the worgens were released from their imprisonment to fight the undead. The feral worgens were effective, but did not differentiate undead from human. The feral worgens never entered Gilneas, but the humans did. Spreading the curse through the kingdom like wildfire. Realizing their mistake, the night elves came to gilneas rescue to offer their aid, they evacuated as many people as they could, and sailed them to their homeland in Teldrassil. There, night elven druids taught the gilnean people how to control the feral curse that lingered in their veins. Some gilneas were so fascinated by the elves magic and connection to druidism, that they were taught their ways.
 
 \columnbreak
 
-<br>
-<div style='margin-top:570px'></div>
+<div style='margin-top:434px'></div>
 
-### Mindful Hunters
-Worgens generally prefer more natural habitats like forests, they are experienced hunters and have a propensity to hunt. Once bitten, worgen go through stages of the mindless ferocity,eventually losing their last vestiges of their former lives and gaining a full feral mentality.
+### Fierce and Vicious
+With their massive shapes of a cross between a human and wolf, and the razor sharp claws, worgens appear like evil of a children's tale to those unaware of their existence. They loom over the heads of humans, ranging well over 6 feet to just under 8 feet. Their furry bodies often make them seem much larger than they are, yet with their massive bodies they weigh between 220 to 310 pounds. Males and females are about the same height and build, with the only distinct difference being a males mane.
 
-Worgen must always control their emotions lest they lose themselves to their feral instincts. They can temporarily keep their sanity in dire moments through an injection created by Gilnean alchemists, called Krennan Aranas.
+Worgen fur varies widely in coloration, with shades of black, gray, and brown being the most common amongst the worgen kin, even if the worgen had light colorations in skin or hair as a human. Worgen eyes vary like humans, from a light blue to a deep brown.
+
+### More than just Ferocious
+With their wild appearance it is easy to think of a worgen as a vicious beast. Yet most still carries the properties they had in their human life. The curse will always linger in their blood, giving many worgen's a shorter temper than they might've had before. Yet they carry the same compas-sion and determination as humans do, pushing themselves forward to achieve ever greater things for themselves, their newfound kin and that of the human.
+
 
 ### Affiliation
-Worgens that are in control of their emotions are a part of the alliance, originally being humans themselves, they have a deep connection with the Stormwind Humans.
+Worgens are still humans at their cores, they began the Alliance and it could not exist without them. Besides the respect given to all affiliated races, the gilnean humans carry a great gratitude for night elves. Their curse may be the result of rogue night elven druids, but without their aid the worgens would still be feral and hostile to all.
 
-The respect the night elves, even though they were the origin of their curse, yet without them, the worgens would be feral beasts. They have a deep hatred for the forsaken and the scourge, after their successful overtaking of the Gilnean Kingdom. 
+Although no one trusts or likes the forsaken, the gilnean hatred of the undead goes deeper than most. The forsaken are the cause of their kingdoms demise, a fact the worgens have and will not forget.
+
+
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/6KLqzUJ.jpg' style='position:absolute; top:0px; right:0px; width:1200px' />
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-100px; right:0px; width:950px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/ZFeHsoA.png' style='position:absolute; top:150px; right:-150px; width:750px' />
+<img src='https://www.gmbinder.com/images/GYEohuL.png' style='position:absolute; top:50px; right:-150px; width:750px' />
 
 \pagebreakNum
 
@@ -956,17 +964,17 @@ The worgen curse has transformed your body into that of a worgen, giving you the
 
 ***Alignment.*** Worgen tend to become chaotic, while originating from humans, the infection of their blood with the wolves has made them more unpredictable.
 
-***Size.*** Like humans, they vary widely in height and build, most standing well over 6 feet tall, most weighing around 250 pounds. Your size is Medium.
+***Size.*** Like humans, they vary widely in height and build, most standing well over 6 feet tall, and weigh around 250 pounds. Your size is Medium.
 
 ***Speed.*** Your base walking speed is 35 feet, and you have a climbing speed of 20 feet.
 
-***Superior Darkvision.*** Accustomed to the black nights, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+***Darkvision.*** Accustomed to the black nights, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
 ***Beastly Appearance.*** You gain proficiency in the Intimidation skill.
 
-***Human Resolve.*** When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest.
+***Human Resolve.*** When you make an attack roll, an ability check, or a saving throw, you can do so with advan-tage. Once you use this ability, you can’t use it again until you finish a short or long rest.
 
-***Natural Weapons.*** Your claws and bite are natural weapons, which you can use to make unarmed strikes. Your bite claws deal 1d4 + your Strength modifier slashing damage, and your bite deals 1d6 + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike.
+***Natural Weapons.*** Your claws and bite are natural weapons, which you can use to make unarmed strikes. Your claws deal 1d4 + your Strength modifier slashing damage, and your bite deals 1d6 + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ***Speak with Wolves.*** Through sounds and gestures, you can communicate simple ideas with wolves.
 
