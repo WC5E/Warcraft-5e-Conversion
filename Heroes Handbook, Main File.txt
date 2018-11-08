@@ -143,18 +143,18 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
      - [<span>5</span><span>Choosing a Side                                  </span>](#p5)
      - [<span>6</span><span>Choosing a Race                                  </span>](#p6)
      - [<span>7</span><span>*Races of the Alliance*                          </span>](#p7)
-       - [<span>8</span><span>Human                                          </span>](#p8)
-       - [<span>10</span><span>Dwarf                                         </span>](#p10)
-       - [<span>14</span><span>Gnome                                         </span>](#p14)
-       - [<span>16</span><span>Draenei                                       </span>](#p16)
-       - [<span>18</span><span>Worgen                                        </span>](#p18)
-     - [<span>20</span><span>*Races of the Horde*                            </span>](#p20)
+       - [<span>9</span><span>Human                                          </span>](#p9)
+       - [<span>11</span><span>Dwarf                                         </span>](#p11)
+       - [<span>13</span><span>Gnome                                         </span>](#p13)
+       - [<span>15</span><span>Draenei                                       </span>](#p15)
+       - [<span>17</span><span>Worgen                                        </span>](#p17)
+     - [<span>19</span><span>*Races of the Horde*                            </span>](#p19)
        - [<span>21</span><span>Orc                                           </span>](#p21)
        - [<span>23</span><span>Forsaken                                      </span>](#p23)
        - [<span>25</span><span>Tauren                                        </span>](#p25)
        - [<span>27</span><span>Troll                                         </span>](#p27)
-       - [<span>31</span><span>Goblin                                        </span>](#p31)
-     - [<span>20</span><span>*Independent Races*                             </span>](#p20)
+       - [<span>29</span><span>Goblin                                        </span>](#p29)
+     - [<span>31</span><span>*Faction Split Races*                           </span>](#p31)
        - [<span>21</span><span>Elves                                         </span>](#p21)
        - [<span>34</span><span>Pandaren                                      </span>](#p34)
   - #### [<span>37</span><span>Chapter 2: Classes                            </span>](#p37)
@@ -326,6 +326,58 @@ Many races have subraces. Members of a subrace have the traits of the parent rac
 
 <div class='cover-header'> <div style='margin-top:50px;'></div> Races of the Alliance </div>
 <img src='https://www.gmbinder.com/images/c1ja74s.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
+
+\pagebreakNum
+
+<div style="text-align:Center"> 
+
+# Alliance Class Suggestions
+</div>
+
+The following are a set of class suggestions, pulled from World of Wacraft, as the classes the Alliance races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
+
+You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the races of the Alliance began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the Alliance races were less open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race.
+ 
+<div class='wide'; style="text-align:Center"> 
+
+# Pre-Cataclysm
+</div>
+
+<div class='classTable wide'>
+ 
+| **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
+|:----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Draenei, Exodar*** | | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ |
+| ***Draenei, broken*** | | ✦ | ✦ | | | ✦ | ✦ | ✦ | ✦ | |
+| ***Dwarf, bronzebeard*** | | ✦ | | ✦ | ✦ | ✦ | | | ✦ | ✦ |
+| ***Dwarf, wildhammer*** | | ✦ | | | | |  ✦ | | ✦ | |
+| ***Gnome*** | | | ✦ | | | ✦ | | ✦ | ✦ | ✦ |
+| ***Human*** | | | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
+</div>
+ 
+<div class='wide'; style="text-align:Center"> 
+
+# Post-Cataclysm
+</div>
+
+<div class='classTable wide'>
+
+| **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Draenei, exodar*** | | ✦ | ✦ |  ✦ | ✦ | ✦ | | ✦ | | ✦ | ✦ | 
+| ***Draenei, broken*** | | ✦ | ✦ | | | | ✦ | ✦ | ✦ | ✦ | | |
+| ***Draenei, lightforged*** | | ✦ | ✦ | | ✦ | ✦ | | | | ✦ | | |
+| ***Dwarf, bronzebeard*** | | ✦ | ✦ |  ✦ |✦ | ✦ | ✦ | ✦ |  ✦ | ✦ | ✦ | |
+| ***Dwarf, wildhammer*** | ✦ | ✦ | | ✦ | | | | ✦ | | ✦ | | |
+| ***Dwarf, dark iron*** | | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | |
+| ***Gnome*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
+| ***Human*** | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | |
+| ***Worgen*** | ✦ | ✦ | ✦ | | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
+</div>
+
+<div class='footnote'>PART 1 | RACES </div>
+<img src='https://www.gmbinder.com/images/c1MzTlS.jpg' style='position:absolute; top:730px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-100px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -575,121 +627,7 @@ Wildhammer dwarves are untamed in comparison, they live further north in the Eas
 \pagebreakNum
 
 <br>
-<div style='margin-top:390px'></div>
 
-## Night Elf
-*Darkness covered us in the beginning, and we could not see. We cried for guidance and the moon shone down bright upon us. Her soft light not only illuminated the night for us but also gave comfort.
-Her light touched us from within, enabling us to see even when the moon was not visible...*
-<div style="text-align:Right"> 
-
-*— Tyrande Whisperwind* &nbsp;</div>
-
-### Introduction
-The night elves are the direct descendants of dark trolls. This peace loving and fiercely independent tribe took up residence at the Well of Eternity. The magic contained within elevated their forms to match their graceful spirits, completely transforming them into highly intelligent and near immortal beings, forever changing them into the night elves known today.
-
-The reclusive Night Elves were the first race to awaken in the world of Azeroth. These shadowy, ancient beings were the first to study magic and let it loose throughout the world nearly ten thousand years before the First War. The Night Elves' reckless use of magic drew the Burning Legion into the world and led to a catastrophic war between the two titanic races. The Night Elves barely managed to banish the Legion from the world, but their beautiful homeland was shattered and drowned by the sea.
-
-### Graceful Creatures
-The night elves are imposing in stature, males being on average 7 feet tall. Male kaldorei are very muscular, with broad chests and shoulders, indicative of the strength that lies within both their minds and bodies. Female night elves have that same strength lying in their minds and bodies; they are stunningly beautiful, lithe and curvaceous, yet extremely muscular and strong. 
-
-The race’s prominent eyebrows, long pointed ears and natural aspects imply a feral grace. 
-
-\columnbreak
-
-<br>
-<div style='margin-top:500px'></div>
-
-Skin tones range from pale white to blue to violet or even ruddy red, and hair in colors from bright white to woodland green to lustrous black.
-
-Many night elves wear markings of some meaning on their faces. The tattooing marks, mark an earlier rite of passage. Most commonly the markings symbolize an animal totem, or others indicative perhaps of the Wild, of the Grove, or of the Fang, thus recognizing that night elven society is indeed deeply druidic and spiritual and that even before druids these animalistic and spiritual beliefs existed, and that gender is irrelevant in the case of worship and that truly they are an equal society.
-
-### A Timeless Perspective
-Night Elves can live to become thousands of years old, giving them a broad perspective on events that might trouble the shorter lived races more deeply. They are more often amused than excited, and more likely to be curious than greedy. They tend to remain aloof and unfazed by petty happenstance. When pursuing a goal, however, whether adventuring on a mission or learning a new skill or art, elves can be focused and relentless. They are slow to make friends and enemies, and even slower to forget them. They reply to petty insults with disdain and to serious insults with vengeance.
-
-Like the branches of a young tree, elves are flexible in the face of danger. They trust in diplomacy and compromise to resolve differences before they escalate to violence. They have been known to retreat from intrusions into their woodland homes, confident that they can simply wait the invaders out. But when the need arises, elves reveal a stern martial side, demonstrating skill with sword, bow, and strategy.
-
-<div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/ZRQhHxE.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-350px; right:-30px; width:1200px;transform:rotate(340deg)' />
-<img src='https://www.gmbinder.com/images/Cshlwp4.png' style='position:absolute; top:130px; right:0px; width:500px' />
-
-\pagebreakNum
-
-<div style='margin-top:90px;'></div>
-
-### Affiliation
-The night elves are members of the Alliance, but they are not the most trusted or highest regarded members of this group of races. Although honorable and just, the elves’ natural distrust has tainted their relations somewhat. Combined with their mystical appearances and mysterious natures, interactions with other races become uncomfortable at times. There is a strong streak of isolationism in the Kaldorei, for they are uncomfortable leaving the verdant mists of Teldrassil.
-
-Still, the night elves’ leaders see wisdom in an alliance with the younger races. The younger races show potential, and because of this the night elves see themselves as observers, waiting to step in to correct any dangerous mistakes. 
-
-Their hatred of orcs has also fueled their participation in the Alliance. After the death of Cenarius during the Third War, many sentinels, druids and warrior night elves began a great hunt. Some night elves happily hunt orcs as a repayment for Cenarius’ murder.
-
-### Names
-Night Elven names always have a special meaning. First names derive from an elven word or the name of a famous hero having a totemic or ancestral connection. Surnames are indicative of the family line and sometimes date back thousands of years.
-
-<div style='margin-top:-18px;'></div>
-
-<br>**Male Names:** Ilthilior, Mellitharn, Khardona, Andissiel, 
-
-Mardant, Tanavar, Sillarn, Gasul, Asydrin, Lanoth
-<br>**Female Names:** Keina, Deliantha, Meridia, Freja, 
-
-Alannaria, Nevarial, Evi, Nyrcarieth, Ethush
-<br>**Family Names:** Moonblade, Glaivestorm, Proudstrider, 
-
-Oakwalker, Nightwing, Staghorn, Bladeleaf, Deeprunner
-
-\columnbreak
-
-### Night Elf Traits
-Your night elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
-
-***Ability Score Increase.*** Your Wisdom increases by 2.
-
-***Age.*** Although night elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. A night elf typically claims adulthood and an adult name around the age of 100 and can live to become several thousand years old.
-
-***Alignment.*** Night Elves love freedom, variety, and self expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.
-
-***Size.*** Night Elves range from under 6 to aver 8 feet tall and have slender builds. Your size is Medium.
-
-***Speed.*** Your base walking speed is 30 feet.
-
-***Darkvision.*** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-***Shadowmeld.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
-
-***Trance.*** Night elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
-
-***Touch of Elune.*** When rolling damage for a critical hit on a target, you may reroll one die of your choosing once, you have to use the new number rolled.
-
-***Languages.*** You can speak, read, and write Common and Darnassian. Darnassian is fluid, with subtle intonations and intricate grammar. Darnassian literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Darnassian ballads to their repertoires.
-
-***Subrace.*** Ancient divides among the elven people resulted in two subraces: highbornes elves, and kaldorei elves. Choose one of these subraces.
-
-#### Highborne
-Highborne elves are the 'nobility' amongst elves, becoming their spellcasters, and priestess', they are keen minded arcanists all with at least a basic mastery of arcane.
-
-***Ability Score Increase.*** Your Intelligence score increases by 1.
-
-***Highborne Magic.*** You know the *minor illusion* cantrip. When you reach 3rd level, you can cast the *sleep* spell once per long rest. When you reach 5th level, you can also cast the *hold person* spell once per long rest. Intelligence is your spellcasting ability for these spells.
-
-#### Kaldorei
-Common night elves are the foundation of the elven society, they embody the average night elven warrior. Generally having had a harsher life than highbornes, with more physical training than training of the mind.
-
-***Ability Score Increase.*** Your Dexterity increases by 1.
-
-***Kaldorei Training.*** You are proficient in longbows, kal-dorei moonglaives, kaldorei moon swords, and warglaives.
-
-***Respect of Nature.*** You gain proficiency with one of the following skills of your choice: Animal Handling or Nature.
-
-<div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/ILMF7yO.png' style='position:absolute; top:-105px; right:370px; width:750px;transform:rotate(30deg)' />
-<img src='https://www.gmbinder.com/images/09pcB9T.png' style='position:absolute; top:610px; right:360px; width:550px;transform:scalex(-1)' />
-
-\pagebreakNum
-
-<br>
 <div style='margin-top:450px'></div>
 
 ## Gnome
@@ -978,6 +916,60 @@ The worgen curse has transformed your body into that of a worgen, giving you the
 
 \pagebreakNum
 
+<div style="text-align:Center"> 
+
+# Horde Class Suggestions
+</div>
+
+The following are a set of class suggestions, pulled from World of Wacraft, as the classes the Horde races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
+
+You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the races of the Horde began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the Horde races were less open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race.
+
+<div class='wide'; style="text-align:Center"> 
+
+# Pre-Cataclysm
+</div>
+
+<div class='classTable wide'>
+
+| **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Forsaken*** | | | ✦ | | ✦ | ✦ | | ✦ | ✦ | ✦ |
+| ***Orc*** | | ✦ | | | | ✦ | ✦ | ✦ | ✦ | ✦ |
+| ***Tauren, mulgore*** | ✦ | ✦ | | | | | ✦ | | ✦ | ✦ |
+| ***Tauren, taunka*** | ✦ | ✦ | | | | | ✦ | | ✦ | |
+| ***Troll, forest*** | | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ | ✦ |
+| ***Troll, ice*** | | ✦ | | | ✦ | | | | ✦ |
+| ***Troll, jungle*** | | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | ✦ |
+</div>
+
+<div class='wide'; style="text-align:Center"> 
+
+# Post-Cataclysm
+</div>
+
+<div class='classTable wide'>
+
+| **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Forsaken*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
+| ***Goblin*** | | ✦ | ✦ | | |  ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | |
+| ***Orc*** | | ✦ | ✦ | ✦ | | | ✦ | ✦ | ✦ | ✦ | ✦ | |
+| ***Tauren, mulgore*** | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | | ✦ | ✦ | |
+| ***Tauren, taunka*** | ✦ | ✦ | | | | | | ✦ | | ✦ | | |
+| ***Tauren, highmountain*** | ✦ | ✦ | | ✦ | | | | ✦ | | ✦ | | |
+| ***Troll, forest*** | | ✦ | ✦ | | | ✦ | ✦ | ✦ | ✦ | ✦ |
+| ***Troll, ice*** | | ✦ | | | | ✦ | | | | ✦ | | |
+| ***Troll, jungle*** | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | |
+| ***Troll, zandalari*** | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | | |
+</div>
+
+<div class='footnote'>PART 1 | RACES </div>
+<img src='https://www.gmbinder.com/images/YVPlr7M.jpg' style='position:absolute; top:750px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-100px; right:0px; width:900px' />
+
+\pagebreakNum
+
 <div style='margin-top:450px'></div>
 
 ## Orc
@@ -1195,7 +1187,7 @@ As a forsaken human, you were once a proud human of Lordaeron. A human society a
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/M8d875w.jpg' style='position:absolute; top:-400px; right:0px; width:800px' />
-<img src='https://i.imgur.com/Mgi0q18.png' style='position:absolute; top:30px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:30px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -1283,7 +1275,16 @@ Tauren share certain characteristics no matter what tribe they come from.
 
 <br>
 
-&nbsp;&nbsp;&nbsp; ***Subrace.*** Three subraces of tauren exist: mulgore tauren, winter tauren, and highmountain tauren. Choose one of them for your character.
+&nbsp;&nbsp;&nbsp; ***Subrace.*** Three subraces of tauren exist: highmountain tauren, mulgore tauren, and winter tauren. Choose one of them for your character.
+
+#### Highmountain Tauren
+Highmountains are among the more secluded tauren, residing atop highmountain on the broken isles, they are a peaceful, and generally kind hearted tauren kin. These tauren has massive thick antler instead of horns.
+
+***Ability Score Increase.*** Your Wisdom increases by 1.
+
+***Mountaineer.*** You're acclimated to high altitude, including elevations above 20,000 feet. You're also naturally adapted to cold climates, as described in chapter 5 of the *Dungeon Master's Guide.*
+
+***Rugged Tenacity*** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest.
 
 #### Mulgore Tauren
 The tauren of Mulgore are a peaceful and honorable people, that nonetheless are fierce fighters when roused. Hunting and shamanism are held in high regard in their culture, as is their worship of the Earth Mother and respect for the land and nature.
@@ -1304,15 +1305,6 @@ The taunka are an ancient offshoot of the yaungol and relatives to the tauren wh
 ***Natural Athlete.*** You are proficient in the Athletics skill.
 
 ***Tundra Walker.*** You can move across difficult terrain made of ice or snow without expending extra movement.
-
-#### Highmountain Tauren
-Highmountains are among the more secluded tauren, residing atop highmountain on the broken isles, they are a peaceful, and generally kind hearted tauren kin. These tauren has massive thick antler instead of horns.
-
-***Ability Score Increase.*** Your Wisdom increases by 1.
-
-***Mountaineer.*** You're acclimated to high altitude, including elevations above 20,000 feet. You're also naturally adapted to cold climates, as described in chapter 5 of the *Dungeon Master's Guide.*
-
-***Rugged Tenacity*** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/BNzbONd.jpg' style='position:absolute; top:700px; right:-400px; width:1300px' />
@@ -1453,107 +1445,6 @@ As a zandalari troll, you have a unparalleled connection to the loas, a strong i
 
 \pagebreakNum
 
-<div style='margin-top:480px'></div>
-
-## Blood Elf
-*We must put this misery behind us. We must enter a new chapter! And so I say to you that, as of this day, we are no longer high elves! In honor of the sacrifices of our brothers and sisters, our parents, and our children, as of this day we will take the name of our royal lineage! As of this day, we are sin'dorei! For Quel'Thalas!*
-
-<div style="text-align:Right"> 
-
-*— Kael'thas Sunstrider* &nbsp;</div>
-
-### Introduction
-Nourished and strengthened by the Sunwell’s potent energies, the high elves’ enchanted kingdom of Quel'Thalas prospered within the verdant forests north of Lordaeron. 
-
-During the Third War, the high elves were nearly scoured from Azeroth. Led by the death knight Arthas, the scourge army slaughtered almost all of the kingdom’s population. In the slaughter, Arthas tainted the sunwell, reanimating a lost necromancer. Prince Kael'thas rushed to his homeland's aid, and the survivors of the onslaught were renamed 'blood elves' in honor of their fallen kin. The blood elves grew addicted to the sunwells tainted energies. Kael'thas desperately searching for a cure for his kin, traveling the world to avenge his people and find a way to sate their hunger for magic.
-
-Kael'thas assured his people he would return to Quel'Thalas and lead them to paradise, yet on Outland, the prince became twisted with the corrupting essence wielded by the demonic Burning Legion. Getting under the sway of the Legion's commander. The prince was later killed on his return to Quel'Thalas for his treachery, and with the aid of the draenei prophet, Velen, the magic taint lingering on the sunwell was vanquished, restore it as a fount of both arcane and holy energy.
-
-\columnbreak
-
-<br>
-<div style='margin-top:400px'></div>
-
-Inspired by the Sunwell's rebirth, the blood elves have since entered into a shining new era in their ancient race's history. Although some elves remain hesitant to abandon their dependence on arcane magic, others have embraced change for the betterment of Quel'Thalas. 
-
-### Crimson
-As a culture, the sin'dorei have retained the look and feel of their fallen high elven kingdom, though have developed a greater penchant for the colour of crimson: the colour of their namesake. Crimson-red robes, decor and armour have become far more commonplace within blood elven society prior to the fall of the high elven people, a reference to the blood of their many brethren who had perished in the Third War. The iconic and traditional blood elven colours are red, gold, and to a lesser extent, blue – all of which can be seen on their racial crest, the Icon of Blood.
-
-### Proud Society
-In general, the blood elves are a proud, pragmatic, and somewhat jingoistic people; they place great emphasis on their love for their homeland, and are ruthless to their enemies. Their reputation for isolationism is well-earned, and they prefer to keep to their own kind, although excep-tions to this stereotype exist. Blood elves are a resilient race of survivors, and their most prominent figures stand as beacons of courage, tenacity, and the strength to fight on, regardless of what foes stand in their way.
-
-### Beautiful and Graceful
-Blood elves are, biologically and physiologically high elves. With the largest difference being their emerald glowing eyes compared to the high elves blue.
-
-They are slenderly built, standing at 5 feet tall to just over 6 feet, and averaging at 150 pounds. They have long pointy ears, high cheekbones, and are generally considered highly attractive by the standards of most mortal races. Both males and females commonly have long hair in light colorations, and males ability to grow facial hair is—
-
-<div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/yEfh2ws.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-370px; right:0px; width:1200px;transform:rotate(-10deg)' />
-<img src='https://www.gmbinder.com/images/8ehRmpR.png' style='position:absolute; top:0px; right:280px; width:550px' />
-
-\pagebreakNum
-
-<br>
-<div style='margin-top:444px'></div>
-
-&nbsp;&nbsp;&nbsp; —limited, resulting in very few having beards beyond an inch, and large facial hairs being completely absent.
-
-### Affiliation
-Blood elves are members of the Horde. Though the Horde was reluctant to forge allegiances with the sin'dorei, the vouching of Sylvanas, and the general consensus that the blood elves could bring to the table what the Horde had previously lacked, paved the way to Quel'Thalas being accepted as an equal independent nation of the Horde.
-
-### Names
-Blood elves for the most part use high elven names, origi-nally being of high elven kin, many have either kept their past name, or given high elven names to their children. Unlike high elves, blood elven surnames are generally more aggressive, blood elves don't keep family names, with the exception of highborne wanting to carry on a certain name.
-
-<div style='margin-top:-18px;'></div>
-
-<br>**Male Names:** Mariel, Athaniar, Anador, Tharama, Viridiel,
-
-Malanior, Eraeth, Ulorath, Yehru, Kithadre
-<br>**Female Names:** Anarial, Freja, Driana, Coria, Alanassori, 
-
-Melanion, Azshara, Curlih, Setori, Amorly, Zama
-<br>**Surnames:** Coldtrail, Nightfeast, Darkgift, Glowvein, 
-
-Warmblood, Dawntrick, Solarmind, Phoenixdreamer
-
-### Blood Elf Traits
-Your blood elf character has a variety of natural abilities, the result of the sunwells influence mixed with their high elven blood.
-
-***Ability Score Increase.*** Your Intelligence score increases by 2, and your Dexterity by 1.
-
-***Age.*** Blood elves reach adulthood at much the rate of humans, but are not considered to have entered adulthood until they reach 60, and can live to become many hundreds of years old with ease.
-
-\columnbreak
-
-<br>
-<div style='margin-top:547px'></div>
-
-&nbsp;&nbsp;&nbsp; ***Alignment.*** Most blood elves tend to be lawful, being a very militant people. Those who do become chaotic is usually mages, or warlocks out of control.
-
-***Size.*** Blood elves in many ways resemble humans, but with slender builds, and much more refined features. Usually just over 6-ft, with very little difference between male and females. 
-
-***Speed.*** Your base walking speed is 30 feet. 
-
-***Darkvision.*** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-***Ancient Lore.*** You gain proficiency with two of the following skills of your choice: Arcana, History, Insight, Perception.
-
-***Arcane Influence.*** You know the *blade ward* cantrip. When you reach 3rd level you can cast the *magic missiles* spell once per long rest. When you reach 5th level, you can also cast the *see invisibility* spell once per long rest. Intelligence is your spellcasting ability for these spells.
-
-***High Elven Heredity.*** You have advantage on saving throws against being charmed, and you can't be put to sleep through magical means.
-
-***Sin'dorei Familiarity.*** You are proficiency in longbows, sin'dorei warblades, and warglaives.
-
-***Languages.*** You can speak, read, and write Common and Thalassian. Thalassian is a derivative of the Darnassian language, and in many ways sound the same to an inexperienced ear.
-
-<div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/ogQwKDu.jpg' style='position:absolute; top:0px; right:0px; width:800px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:170px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/0PKNdEQ.png' style='position:absolute; top:190px; right:-30px; width:500px' />
-
-\pagebreakNum
-
 <div style='margin-top:350px'></div>
 
 ## Goblin
@@ -1650,7 +1541,55 @@ Your gnome character has certain abilities, learned through generations of gnome
 
 \pagebreakNum
 
-<img src='https://www.gmbinder.com/images/kkjaoG4.jpg' style='position:absolute; top:0px; right:-50px; width:900px' />
+<div class='cover-header'> <div style='margin-top:50px;'></div> Faction-Split Races </div>
+<img src='https://www.gmbinder.com/images/kkjaoG4.jpg' style='position:absolute; top:0px; right:-65px; width:900px' />
+
+\pagebreakNum
+
+<div style="text-align:Center"> 
+
+# Faction Split Class Suggestions
+</div>
+
+The following are a set of class suggestions, pulled from World of Wacraft, as the classes the faction split races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
+
+You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the people of the faction split races began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the faction split races were not as open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race. In the case of the Pandaren, their homelands were hidden, and they were mostly unknown before the Cataclysm.
+
+<div class='wide'; style="text-align:Center"> 
+
+# Pre-Cataclysm
+</div>
+
+<div class='classTable wide'>
+
+| **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Elf, blood*** | | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | | ✦ |
+| ***Elf, high*** | | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
+| ***Elf, night*** | ✦ | ✦ | | | ✦ | ✦ | | | ✦ | ✦ |
+</div>
+
+<div class='wide'; style="text-align:Center"> 
+
+# Post-Cataclysm
+</div>
+
+<div class='classTable wide'>
+
+| **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ***Elf, blood*** | | ✦ | ✦ |  ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ |
+| ***Elf, high*** | | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
+| ***Elf, highborne*** | | ✦ | ✦ | | | ✦ | ✦ | | ✦ | ✦ | | |
+| ***Elf, night*** | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | | ✦ | ✦ | ✦ |
+| ***Elf, nightborne*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
+| ***Elf, void*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
+| ***Pandaren*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | | |
+ </div>
+
+<div class='footnote'>PART 1 | RACES </div>
+<img src='https://www.gmbinder.com/images/7l6giKu.jpg' style='position:absolute; top:700px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-150px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -1716,34 +1655,32 @@ Zheng, Yan, Wei Zhelan, Xuefeng, Li, Liuxian
 Keenwalker, Calmbrow, Mellowcoil, Ironshadow, Wildfur
 
 ### Pandaren Traits
-Your pandaren character has certain traits deriving from their ancient heritage.
+Pandaren has the following characteristics, harnessed through their immense training.
 
-***Ability Score Increase.*** Your Wisdom score increases by 1, and your Charisma score increases by 2.
+***Ability Score Increase.*** Your Wisdom score increases by 2, and your Charisma score increases by 2.
 
-***Age.*** Pandaren age much like humans, reaching adult-hood in their late teens, and generally die before they reach their first century.
+***Age.*** Much like humans, pandaren reach adulthood in their late teens, and live approximately to become the same age as strong humans, most dying within a century.
 
-***Alignment.*** Pandaren are a peaceful race, and for most parts tend to their own, making many pandarens neutral or good aligned. Finding an evil aligned pandaren is unusual.
+***Alignment.*** Pandaren are a peaceful folk, and for the most part tend towards neutral or good, finding a pandaren that is of an evil alignment, is uncommon.
 
-***Size.*** Most pandaren stands just short of 7 feet tall and average about 260 pounds, you will never find a pandaren who is 'slim'. Your size is medium.
+***Size.*** Pandaren are between 5 to 6 feet tall, and always on the chubby side, but never lets that hinder them or take offence from it. Your size is Medium.
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Gourmand.*** You gain proficiency with the artisan's tool (cook's utensils) and (brewer's supplies). 
+***Bouncy.*** You have resistance against bludgeoning damage taken from falling.
 
-***Iron Palms.*** Your unarmed strikes deal 1d4 + Strength modifier bludgeoning damage on a hit.
+***Gourmand.*** You are proficient in the brewer's supplies and cook's utensils.
 
-***Pandaren Resilience.*** You have advantage on saving throws against poison, and you have resistance against poison damage.
+***Pandaren Stomach.*** You have advantage on saving throws against poison.
 
-***Pandaren Weapon Training.*** You have proficiency with the club, quarterstaff, and spear.
+***Quaking Palm.*** Upon hitting a target with an unarmed strike, you may transfer chi from your body to the targets, the target must succeed on a Constitution saving throw, or be stunned until the end of your next turn. Wisdom is your saving throw ability for this feature. You can't use this fea-ture again until you finish a short or long rest.
 
-***Quaking Palm.*** When you hit another creature with an unarmed strike, you may transfer chi from your body to the targets, the target must succeed on a Constitution saving throw, or be stunned until the end of your next turn. Wisdom is your saving throw ability for this feature. You can't use this feature again until you finish a long rest.
-
-***Languages.*** You can speak, read, and write, Common and Mogu. Mogu is the language of Pandaria, forced upon the inhabitants of Pandaria by the mogu empire. It is a strange and unfamiliar language to the rest of Azeroth, with a multitide of words meaning one common thing.
+***Languages.*** You can speak, read, and write, Common and Mogu. Mogu is the language of Pandaria, forced upon the inhabitants by the mogu empire. It is a strange and unfamiliar language to the rest of Azeroth, with a multitide of words meaning one common thing.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/lgAoG6G.jpg' style='position:absolute; top:-0px; right:200px; width:800px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-95px; width:900px' />
-<img src='https://www.gmbinder.com/images/eec1Qjq.png' style='position:absolute; top:890px; right:-220px; width:650px;transform:rotate(-10deg)' />
+<img src='https://www.gmbinder.com/images/eec1Qjq.png' style='position:absolute; top:880px; right:-200px; width:650px;transform:scalex(-1)' />
 
 \pagebreakNum
 
@@ -5675,7 +5612,6 @@ Think about what affect the transformation has done on you, physically as well a
 In order to undergo the transformation required to advance as a demon hunter, you must meet the following prerequi-sites (in addition to the multiclassing prerequisites for your existing class):
  - **Dexterity 13.** Demon Hunters need to be swift and acrobatic to out maneuver their foes.
  - **Intelligence 13.** Bonding with a demon requires a strong mind to overcome the mental strain.
- - **Elven or Human Origin.** These races are the only known to be able to undergo the demon hunter rituals and come out alive.
  - **Character Level 5th.** Demon hunters are exposed to deadly amounts of fel energy when created, killing most who attempt the transformation, as such you must be a 5th-level character before you can gain levels in the demon hunter prestige class.
  - **Complete a Special Task.** You must find one or more demon hunters willing to lead you through the array of complex rituals required to become a demon hunter. See Appendix B for an indepth of the special task.
 
@@ -5690,7 +5626,7 @@ ___
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/ARDxiQB.jpg' style='position:absolute; top:0px; right:0px; width:1200px' />
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-170px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/MzuVWpF.png' style='position:absolute; top:840px; right:460px; width:220px;transform:rotate(100deg)' />
+<img src='https://www.gmbinder.com/images/MzuVWpF.png' style='position:absolute; top:840px; right:400px; width:220px;transform:rotate(100deg)' />
 
 \pagebreakNum
 
