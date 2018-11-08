@@ -1593,40 +1593,40 @@ You will likely notice that there are two class suggestion charts. One for Pre-C
 
 \pagebreakNum
 
-<div style='margin-top:610px'></div>
+<div style='margin-top:507px'></div>
 
 ## Pandaren
-*To ask why we fight... is to ask why the leaves fall. It is in their nature. Perhaps, there is a better question. Why do we fight? To protect Home, and Family... To preserve Balance, and bring Harmony. For my kind, the true question is: What is worth fighting for?*
+*To ask why we fight... is to ask why the leaves fall. It is in their nature. Perhaps, there is a better question. <br>Why do we fight? To protect home, and family... To preserve balance, and bring harmony. <br> For my kind, the true question is, what is worth fighting for?*
 <div style="text-align:Right"> 
 
 *— Chen Stormstout* &nbsp;</div>
+<div style='margin-top:-5px'></div>
 
-### Introduction
-The pandaren have long been a mystery to other races of Azeroth, their history stretching back thousands of years, to before the raise of the kaldorei. Denizens of a wondrous and fertile land, the pandaren were slaves to the ancient warlords known as the mogu. Through tenacity, diplomacy, and a unique form of unarmed combat, they staged a successful revolution that deposed the mogu, and established the foundation of the pandaren empire that would prosper for thousands of years.
+The pandaren have long been a mystery to other races of Azeroth, their history stretching back thousands of years, to before the raise of the kaldorei. Denizens of a wondrous and fertile land, the pandaren were slaves to the ancient titan-forged mogu. Through tenacity, diplomacy, and a unique form of unarmed combat, they staged a successful revolution that deposed the mogu, and established the foundation of the pandaren empire that would prosper for thousands of years.
 
-During the bleak days that preceded the sundering of the world, the pandaren emperor shrouded their land in an impenetrable mist for ten thousand years. As the years unveiled, and the pandarian isle reentered Azeroth, both factions wanted a part of the unexplored isle and what lied upon it.
+As the sundering took place, Pandaria was shrouded in a magical mist that would last for thousand of years. As the years came to an end, the mist around Pandaria unveiled. Drawing the attention of both factions, wishing to claim this 'unexplored' land, and learn of what lied on its surface.
+
+### Harmony in All Things
+Pandarens are slow to anger, they prefer a measured solution to problems. It takes a great deal to wound up a pandaren. On their homeland Pandaria, negative emotions are harnessed, and take physical form to wreak havoc on the isle. Pandarens emphasize and cultivate a quiet life of inner harmony and focus. Conflicts, no matter how bitter, are quickly forgotten over cold drinks once the matter is resolved.
 
 \columnbreak
 
-<br>
-<div style='margin-top:530px'></div>
+<div style='margin-top:540px'></div>
 
 ### A Spiritual Race
-Pandaren have a fierce and deep belief in the connection of the material and spiritual worlds. In many ways their faith mirrors the ancient beliefs of the night elves, and the tribal beliefs of the tauren, troll, and orc races. 
+Pandaren have a fierce and deep belief in the connection of the material and spiritual world. In many ways their faith mirrors the ancient beliefs of night elves, and beliefs of the tribal races of Kalimdor.
 
-Like the Tauren, and Wildhammer dwarves, the pandaren follow a shamanistic faith, worshiping the Earth Mother and giving passage to their dead. They also follow a new philosophy, they are a society that reacts, instead of acting first. They claim to be the water that flows around a rock: "*The water does not push the rock out of the way, it merely goes around it*". 
-
-They use this uncomplicated way of thinking in their everyday life. If they set their minds to a task, and they fail, then they believe they went about it the wrong way and try again.
+Like the races of Kalimdor, the pandaren follow a shamanistic faith, they worship the Earth Mother and give passage to their dead. They are a society that reacts, rather than being the ones to act first. Many pandarens claim to be the water that flows around a rock -- it never pushes the rocks out of its way, but merely goes around it. This stands as the core of their society, a simple means of everyday life. If they set their mind to a task and fail, then they believe they went about it the wrong way, and try again.
 
 ### Covered in Fur
-Pandaren are humanoid bears, generally between 5 and 6 feet tall, covered in fur from head to toe. Every pandaren has two colors of fur; one is always white but the other color ranges from black to brown to red. They have paws for hands and feet, with three fingers, a thumb and three toes. Each digit is tipped with a black claw. They refer to their hands directly as paws. While the species has a tail, there are two distinct forms. The common form is a round stub of fur, but the second form, which is long and thickens out by the end, is exclusive to red-and-white females.
+Covered in colorful fur from head to toe, pandaren appear like massive humanoid bears towering above the heads of most of Azeroth's inhabitants. They stand far over the head of humans, ranging from just under 7 feet to a few inches short of 8 feet. Pandarens are naturally curvy, only made larger in size by their thick fur, weighing between 310 to 440 pounds. Males stand slightly taller than females, and males are often much heavier than females.
 
-Pandaren are usually very rotund, which tend to be a point of pride in their society
+Pandaren colorations varies widely, from a dark brown to a golden yellow, one thing that is consistent throughout all pandarens are their white markings, all pandarens have these upon their face, and many also have patches of white on their paws of torso. Pandarens don't have hair, but many stylize their fur on top of their head, letting it grow longer to resemble hair.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/6XAsG6F.jpg' style='position:absolute; top:0px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/NATL0ok.png' style='position:absolute; top:70px; right:150px; width:900px' />
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-115px; right:0px; width:1000px;transform:rotate(-10deg)' />
+<img src='https://www.gmbinder.com/images/i2gfrKP.png' style='position:absolute; top:-80px; right:200px; width:700px' />
 
 \pagebreakNum
 
@@ -1635,12 +1635,14 @@ Pandaren are usually very rotund, which tend to be a point of pride in their soc
 \columnbreak
 
 ### Affiliation
-The pandaren are neutral, and relatively new upon the face of Azeroth, having been welcomed into both Alliance and Horde cities due to the members interest in the race.
+Most pandaren are independent, preferring to avoid the con-flict of Alliance and Horde, but few amongst them have decided to join the ranks of either factions, believing that their philosophy aligns with that of the faction.
 
-They carry no personal ill feelings against races of Azeroth, having only had a brief time to learn the history of every race. They do though carry a certain fondness for the dwarves because of their brewing of ale, and the taurens because of their spirituality. As they stand now, pandaren as a race have not pledged their allegiance with either side, a few exceptions have occurred of individuals officially siding with one faction or the other.
+The Tushui pandaren have joined the alliance, believing that one should live a life through meditation, rigorous training, and moral convictions. The Huojin pandaren have joined the horde. believing that inaction is the greatest injustice, and that there is no shame in defending one's home and loved ones, regardless of the cost.
+
+Pandaria have been hidden from the world for many thousand years, the inhabitants of Azeroth are new to the pandarens. Because of this they have no hatred or distrust for any of the new races they've met.
 
 ### Names
-Pandaren naming practices are similar to those of humans, each pandaren are given a name at birth, and carries on the family name of their parents. Some pandaren are known to take a new family name reflecting their own achieve-ments in life, yet such practices are uncommon.
+Pandaren naming practices are similar to those of humans, each pandaren are given a name at birth, and carries on the family name of their parents. Some pandaren are known to take a new family name reflecting their own achievements in life, yet such practices are uncommon.
 
 <div style='margin-top:-18px;'></div>
 
@@ -1677,12 +1679,11 @@ Your pandaren character has certain traits deriving from their ancient heritage.
 
 ***Quaking Palm.*** When you hit another creature with an unarmed strike, you may transfer chi from your body to the targets, the target must succeed on a Constitution saving throw, or be stunned until the end of your next turn. Wisdom is your saving throw ability for this feature. You can't use this feature again until you finish a long rest.
 
-***Languages.*** You can speak, read, and write, Common and Mogu. Mogu is the language of Pandaria, forced upon the inhabitants of Pandaria by the mogu empire. It is a strange and unfamiliar language to the rest of Azeroth, with a multitide of words meaning one common thing.
+***Languages.*** You can speak, read, and write, Common and Mogu. Mogu is the language of Pandaria, forced upon the inhabitants of Pandaria by the mogu empire. It is a strange and unfamiliar language to the rest of Azeroth, with a multitude of words meaning one common thing.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/lgAoG6G.jpg' style='position:absolute; top:-0px; right:200px; width:800px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-95px; width:900px' />
-<img src='https://www.gmbinder.com/images/eec1Qjq.png' style='position:absolute; top:890px; right:-220px; width:650px;transform:rotate(-10deg)' />
 
 \pagebreakNum
 
