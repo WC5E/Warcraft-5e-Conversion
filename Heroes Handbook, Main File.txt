@@ -837,38 +837,40 @@ As a lightforged draenei, you've commited yourself to a crusade against the burn
 
 \pagebreakNum
 
-<div style='margin-top:500px'></div>
+<div style='margin-top:550px'></div>
 
 ## Worgen
-*Resembling a cross between human and dire wolf, the hunched over creature is roughly humanoid. Its body is covered in coarse, fur with twitching claws and snarling teeth. The creature's eyes are mottled yellow in colour, unblinking and devoid of any discernible emotion.*
+*When I told you that I wanted to retake Gilneas City from these Forsaken. There were those who said that it was impossible. I say that we no longer let our fears control us! For too long it has controlled me, fear that if all of you knew the whole truth, you would reject me. I give in no longer. Look at me... Now that you know the truth, I ask of you, who will stand with me, who will fight by my side?*
+<div style="text-align:Right"> 
 
-### Introduction
-Worgens were created during the War of the Satyr by the priestess Belysra Starbreeze and the druid Ralaar Fangfire who were trying to find a solution to the wolf pack form's uncontrollable nature. The form embodied the full fury of the wolf Ancient Goldrinn, something the druids had never been able to command. Belysra and Ralaar believed that the magic of Elune could tame its uncontrollable rage. Leading a ritual and mixing the power of the moon Elune, with the Druids of the Pack's pack form, resulting in the creation of the worgen. Unfortunately Goldrinn's fury was overwhelming. The worgen turned against the night elves, and Malfurion was forced to seal them within the Emerald Dream after it was discovered that their bite turned other night elves into more worgen, through what is now called the worgen curse.
+*— Genn Greymane* &nbsp;</div>
+<div style='margin-top:-5px'></div>
 
-Centuries later, they were freed from the Dream in order to fight the undead Scourge for Gilneas. While extremely effective against the undead army, the worgen then turned on the Gilnean, prompting them to close the Greymane Wall. While no worgen managed to enter the city, humans who had been bitten by them did. They would turn into worgen themselves and spread the curse to the whole of Gilneas, including King Genn Greymane. After being taught how to control their inner beast by the night elves, many worgen are now members of the Alliance.
+Worgens are vicious humanoid wolves, a curse thrown upon them by careless druids mingling in powers that were beyond them. The druids turned into the first worgen, feral and uncontrollable, they were sealed away for countless years when night elves realized that their bite was able to transfer the curse to others.
+
+When the forsaken sieged the kingdom of Gilneas, the worgens were released from their imprisonment to fight the undead. The feral worgens were effective, but did not differentiate undead from human. The feral worgens never entered Gilneas, but the humans did. Spreading the curse through the kingdom like wildfire. Realizing their mistake, the night elves came to gilneas rescue to offer their aid, they evacuated as many people as they could, and sailed them to their homeland in Teldrassil. There, night elven druids taught the gilnean people how to control the feral curse that lingered in their veins. Some gilneas were so fascinated by the elves magic and connection to druidism, that they were taught their ways.
 
 \columnbreak
 
-<br>
-<div style='margin-top:570px'></div>
+<div style='margin-top:434px'></div>
 
-### Mindful Hunters
-Worgens generally prefer more natural habitats like forests, they are experienced hunters and have a propensity to hunt. Once bitten, worgen go through stages of the mindless ferocity,eventually losing their last vestiges of their former lives and gaining a full feral mentality.
+### Fierce and Vicious
+With their massive shapes of a cross between a human and wolf, and the razor sharp claws, worgens appear like evil of a children's tale to those unaware of their existence. They loom over the heads of humans, ranging well over 6 feet to just under 8 feet. Their furry bodies often make them seem much larger than they are, yet with their massive bodies they weigh between 220 to 310 pounds. Males and females are about the same height and build, with the only distinct difference being a males mane.
 
-Worgen must always control their emotions lest they lose themselves to their feral instincts. They can temporarily keep their sanity in dire moments through an injection created by Gilnean alchemists, called Krennan Aranas.
+Worgen fur varies widely in coloration, with shades of black, gray, and brown being the most common amongst the worgen kin, even if the worgen had light colorations in skin or hair as a human. Worgen eyes vary like humans, from a light blue to a deep brown.
+
+### More than just Ferocious
+With their wild appearance it is easy to think of a worgen as a vicious beast. Yet most still carries the properties they had in their human life. The curse will always linger in their blood, giving many worgen's a shorter temper than they might've had before. Yet they carry the same compas-sion and determination as humans do, pushing themselves forward to achieve ever greater things for themselves, their newfound kin and that of the human.
 
 ### Affiliation
-Worgens that are in control of their emotions are a part of the alliance, originally being humans themselves, they have a deep connection with the Stormwind Humans.
+Worgens are still humans at their cores, they began the Alliance and it could not exist without them. Besides the respect given to all affiliated races, the gilnean humans carry a great gratitude for night elves. Their curse may be the result of rogue night elven druids, but without their aid the worgens would still be feral and hostile to all.
 
-The respect the night elves, even though they were the origin of their curse, yet without them, the worgens would be feral beasts. They have a deep hatred for the forsaken and the scourge, after their successful overtaking of the Gilnean Kingdom. 
-
-### Names
-Worgens were once gilnean humans, and uses human naming conventions. Many worgens though have forgotten their full name, and often go only by their first name, and take on last names of their own based on their achievements as a worgen.
+Although no one trusts or likes the forsaken, the gilnean hatred of the undead goes deeper than most. The forsaken are the cause of their kingdoms demise, a fact the worgens have and will not forget.
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/6KLqzUJ.jpg' style='position:absolute; top:0px; right:-100px; width:1100px' />
-<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:180px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/ZFeHsoA.png' style='position:absolute; top:150px; right:-150px; width:750px' />
+<img src='https://www.gmbinder.com/images/6KLqzUJ.jpg' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-100px; right:0px; width:950px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/GYEohuL.png' style='position:absolute; top:50px; right:-150px; width:750px' />
 
 \pagebreakNum
 
@@ -876,37 +878,49 @@ Worgens were once gilnean humans, and uses human naming conventions. Many worgen
 
 \columnbreak
 
+#### Names
+Worgen names follow that of humans, as the worgens were once humans of Gilneas. Through the ages some worgen have forgotten their last names, replacing it with a name of their own, based on their achievements in their cursed life.
+
+<div style='margin-top:-5px;'></div>
+
+**Male Names:** Blake, Chris, Fenegan, Gerard, James, Sean, <br>&nbsp;&nbsp;&nbsp;Sebastian, Vincent, Slain, Tobias, Vitus
+<br> **Female Names:** Amelia, Ashley, Celestine, Loren, Mary, <br>&nbsp;&nbsp;&nbsp; Melinda, Mia, Tess, Almyra
+<br> **Gilnean Surnames:** Broderick, Cleese, Crowly, Godfrey, <br>&nbsp;&nbsp;&nbsp;  Walden, Whitewall, Hammond, Hayward
+<br> **Worgen Surnames:** Greymane, Moonfang, Mistmantle, <br>&nbsp;&nbsp;&nbsp; Bloodfang, Darkwalker
+
 ### Worgen Traits
 The worgen curse has transformed your body into that of a worgen, giving you the following traits.
 
 ***Ability Score Increase.*** Your Strength increases by 2, and your Dexterity increases by 1.
 
-***Age.*** Worgens age like humans, reaching adulthood slightly before, at the age of 16, and can live to be up to 300 years old.
+***Age.*** Worgen age like humans, but even though their bodies continue to age, they never feel the strain of old age, and continue to fight as if they were a young human. 
 
-***Alignment.*** Worgens tend to become chaotic, while originating from humans, the infection of their blood with the wolves has made them more unpredictable
+***Alignment.*** Worgen tend to become chaotic, while originating from humans, the infection of their blood with the wolves has made them more unpredictable.
 
-***Size.*** Humanly varying widely in height and build, from barely 5 feet to well over 6 feet tall. In worgen form, they range from 7 to 9 feet. Your size is Medium.
+***Size.*** Like humans, they vary widely in height and build, most standing well over 6 feet tall, and weigh around 250 pounds. Your size is Medium.
 
-***Speed.*** Your base walking speed is 30 feet.
+***Speed.*** Your base walking speed is 30 feet
 
-***Beastly Appearance.*** You are proficient in the Intimi-dation skill, and add twice your proficiency bonus to it.
+***Speed (Worgen form).*** You base walking speed is 35 ftt, and you have a climbing speed of 20 feet.
 
-***Superior Darkvision.*** Accustomed to the black nights, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+***Darkvision.*** Accustomed to the black nights, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-***Language of Wolves.*** You are able to communicate with wolves, as the spell *commune with animals*.
+***Bite (Worgen form).*** Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier.
 
-***Natural Weapons.*** Your claws and bite are natural weapons, which you can use to make unarmed strikes. If you hit with your claws, you deal 1d4 + your Strength modifier slashing damage, and with your bite, you deal 1d6 + your Strength modifier piercing damage.
+***Hunter's Lore.*** You gain proficiency with one of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, or Survival.
 
-***Truesilver Vulnerability.*** You are vulnerable to damage taken by silvered weapons.
+***Two Forms.*** Using 1 minute, you can transform yourself into a human. While human, you appear as you did before getting affected by the worgen curse. You always appear as the same human when you transform. You can transform back into a worgen as a free action on your turn.
 
-***Viciousness.*** When you score a critical hit with a melee attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+As a human, your speed is reduced by 5 feet, and you loose any traits marked (Worgen Form). If you make an attack, cast a spell that affects an enemy creature, or try to use an ability only available in worgen form, you imme-diately revert into your worgen form.
+
+***Viciousness (Worgen form).*** You can throw yourself into a vicious frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points (minimum of 1) equal to your Constitution modifier, and you can't use this trait again until you finish a short or long rest.
 
 ***Languages.*** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/ymeA1sL.jpg' style='position:absolute; top:0px; right:200px; width:750px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-100px; width:900px' />
-<img src='https://www.gmbinder.com/images/3RBiFq9.png' style='position:absolute; top:640px; right:30px; width:370px' />
+<img src='https://www.gmbinder.com/images/3RBiFq9.png' style='position:absolute; top:960px; right:30px; width:370px' />
 
 \pagebreakNum
 
