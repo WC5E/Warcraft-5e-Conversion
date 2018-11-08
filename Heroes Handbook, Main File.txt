@@ -901,26 +901,31 @@ The worgen curse has transformed your body into that of a worgen, giving you the
 
 ***Speed.*** Your base walking speed is 30 feet
 
-***Speed (Worgen form).*** You base walking speed is 35 ftt, and you have a climbing speed of 20 feet.
-
 ***Darkvision.*** Accustomed to the black nights, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-***Bite (Worgen form).*** Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier.
 
 ***Hunter's Lore.*** You gain proficiency with one of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, or Survival.
 
-***Two Forms.*** Using 1 minute, you can transform yourself into a human. While human, you appear as you did before getting affected by the worgen curse. You always appear as the same human when you transform. You can transform back into a worgen as a free action on your turn.
-
-As a human, your speed is reduced by 5 feet, and you loose any traits marked (Worgen Form). If you make an attack, cast a spell that affects an enemy creature, or try to use an ability only available in worgen form, you imme-diately revert into your worgen form.
-
-***Viciousness (Worgen form).*** You can throw yourself into a vicious frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points (minimum of 1) equal to your Constitution modifier, and you can't use this trait again until you finish a short or long rest.
-
 ***Languages.*** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects.
 
+***Two Forms.*** Using 1 minute, you can transform yourself into a human. While human, you appear as you did before getting affected by the worgen curse. You always appear as the same human when you transform. You can transform back into a worgen as a free action on your turn.
+
+As a human, you loose all worgen form traits. If you make an attack, cast a spell that affects an enemy creature, or try to use an ability only available in worgen form, you imme-diately revert into your worgen form.
+
+<div style="text-align:Center"> 
+
+#### Worgen Form Traits
+</div>
+
+&nbsp;&nbsp;&nbsp; ***Speed.*** You base walking speed is 35 ftt, and you have a climbing speed of 20 feet.
+
+***Bite .*** Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier.
+
+***Viciousness .*** You can throw yourself into a vicious frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points (minimum of 1) equal to your Constitution modifier, and you can't use this trait again until you finish a short or long rest.
+
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/ymeA1sL.jpg' style='position:absolute; top:0px; right:200px; width:750px' />
+<img src='https://www.gmbinder.com/images/ymeA1sL.jpg' style='position:absolute; top:-70px; right:200px; width:800px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-100px; width:900px' />
-<img src='https://www.gmbinder.com/images/3RBiFq9.png' style='position:absolute; top:960px; right:30px; width:370px' />
+<img src='https://www.gmbinder.com/images/3RBiFq9.png' style='position:absolute; top:650px; right:418px; width:370px' />
 
 \pagebreakNum
 
