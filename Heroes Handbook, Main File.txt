@@ -1655,32 +1655,34 @@ Zheng, Yan, Wei Zhelan, Xuefeng, Li, Liuxian
 Keenwalker, Calmbrow, Mellowcoil, Ironshadow, Wildfur
 
 ### Pandaren Traits
-Pandaren has the following characteristics, harnessed through their immense training.
+Your pandaren character has certain traits deriving from their ancient heritage.
 
-***Ability Score Increase.*** Your Wisdom score increases by 2, and your Charisma score increases by 2.
+***Ability Score Increase.*** Your Wisdom score increases by 1, and your Charisma score increases by 2.
 
-***Age.*** Much like humans, pandaren reach adulthood in their late teens, and live approximately to become the same age as strong humans, most dying within a century.
+***Age.*** Pandaren age much like humans, reaching adult-hood in their late teens, and generally die before they reach their first century.
 
-***Alignment.*** Pandaren are a peaceful folk, and for the most part tend towards neutral or good, finding a pandaren that is of an evil alignment, is uncommon.
+***Alignment.*** Pandaren are a peaceful race, and for most parts tend to their own, making many pandarens neutral or good aligned. Finding an evil aligned pandaren is unusual.
 
-***Size.*** Pandaren are between 5 to 6 feet tall, and always on the chubby side, but never lets that hinder them or take offence from it. Your size is Medium.
+***Size.*** Most pandaren stands just short of 7 feet tall and average about 260 pounds, you will never find a pandaren who is 'slim'. Your size is medium.
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Bouncy.*** You have resistance against bludgeoning damage taken from falling.
+***Gourmand.*** You gain proficiency with the artisan's tool (cook's utensils) and (brewer's supplies). 
 
-***Gourmand.*** You are proficient in the brewer's supplies and cook's utensils.
+***Iron Palms.*** Your unarmed strikes deal 1d4 + Strength modifier bludgeoning damage on a hit.
 
-***Pandaren Stomach.*** You have advantage on saving throws against poison.
+***Pandaren Resilience.*** You have advantage on saving throws against poison, and you have resistance against poison damage.
 
-***Quaking Palm.*** Upon hitting a target with an unarmed strike, you may transfer chi from your body to the targets, the target must succeed on a Constitution saving throw, or be stunned until the end of your next turn. Wisdom is your saving throw ability for this feature. You can't use this fea-ture again until you finish a short or long rest.
+***Pandaren Weapon Training.*** You have proficiency with the club, quarterstaff, and spear.
 
-***Languages.*** You can speak, read, and write, Common and Mogu. Mogu is the language of Pandaria, forced upon the inhabitants by the mogu empire. It is a strange and unfamiliar language to the rest of Azeroth, with a multitide of words meaning one common thing.
+***Quaking Palm.*** When you hit another creature with an unarmed strike, you may transfer chi from your body to the targets, the target must succeed on a Constitution saving throw, or be stunned until the end of your next turn. Wisdom is your saving throw ability for this feature. You can't use this feature again until you finish a long rest.
+
+***Languages.*** You can speak, read, and write, Common and Mogu. Mogu is the language of Pandaria, forced upon the inhabitants of Pandaria by the mogu empire. It is a strange and unfamiliar language to the rest of Azeroth, with a multitide of words meaning one common thing.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/lgAoG6G.jpg' style='position:absolute; top:-0px; right:200px; width:800px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-95px; width:900px' />
-<img src='https://www.gmbinder.com/images/eec1Qjq.png' style='position:absolute; top:880px; right:-200px; width:650px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/eec1Qjq.png' style='position:absolute; top:890px; right:-220px; width:650px;transform:rotate(-10deg)' />
 
 \pagebreakNum
 
