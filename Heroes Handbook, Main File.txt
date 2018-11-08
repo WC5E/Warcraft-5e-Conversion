@@ -926,13 +926,10 @@ Worgen fur varies widely in coloration, with shades of black, gray, and brown be
 ### More than just Ferocious
 With their wild appearance it is easy to think of a worgen as a vicious beast. Yet most still carries the properties they had in their human life. The curse will always linger in their blood, giving many worgen's a shorter temper than they might've had before. Yet they carry the same compas-sion and determination as humans do, pushing themselves forward to achieve ever greater things for themselves, their newfound kin and that of the human.
 
-
 ### Affiliation
 Worgens are still humans at their cores, they began the Alliance and it could not exist without them. Besides the respect given to all affiliated races, the gilnean humans carry a great gratitude for night elves. Their curse may be the result of rogue night elven druids, but without their aid the worgens would still be feral and hostile to all.
 
 Although no one trusts or likes the forsaken, the gilnean hatred of the undead goes deeper than most. The forsaken are the cause of their kingdoms demise, a fact the worgens have and will not forget.
-
-
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/6KLqzUJ.jpg' style='position:absolute; top:0px; right:0px; width:1200px' />
@@ -970,22 +967,18 @@ The worgen curse has transformed your body into that of a worgen, giving you the
 
 ***Darkvision.*** Accustomed to the black nights, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-***Beastly Appearance.*** You gain proficiency in the Intimidation skill.
+***Bite.*** Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier.
 
-***Human Resolve.*** When you make an attack roll, an ability check, or a saving throw, you can do so with advan-tage. Once you use this ability, you can’t use it again until you finish a short or long rest.
+***Hunter's Lore.*** You gain proficiency with one of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, or Survival.
 
-***Natural Weapons.*** Your claws and bite are natural weapons, which you can use to make unarmed strikes. Your claws deal 1d4 + your Strength modifier slashing damage, and your bite deals 1d6 + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike.
-
-***Speak with Wolves.*** Through sounds and gestures, you can communicate simple ideas with wolves.
-
-***Truesilver Vulnerability.*** You are vulnerable to damage done by silvered weapons.
+***Viciousness.*** In battle, you can throw yourself into a vicious frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points (minimum of 1) equal to your Constitution modifier, and you can't use this trait again until you finish a short or long rest.
 
 ***Languages.*** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/ymeA1sL.jpg' style='position:absolute; top:0px; right:200px; width:750px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-100px; width:900px' />
-<img src='https://www.gmbinder.com/images/3RBiFq9.png' style='position:absolute; top:840px; right:30px; width:370px' />
+<img src='https://www.gmbinder.com/images/3RBiFq9.png' style='position:absolute; top:790px; right:30px; width:370px' />
 
 \pagebreakNum
 
