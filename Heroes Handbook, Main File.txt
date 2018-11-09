@@ -916,7 +916,7 @@ As a human, you loose all worgen form traits. If you make an attack, cast a spel
 #### Worgen Form Traits
 </div>
 
-&nbsp;&nbsp;&nbsp; ***Speed.*** You base walking speed is 35 ftt, and you have a climbing speed of 20 feet.
+&nbsp;&nbsp;&nbsp; ***Speed.*** You base walking speed is 35 feet, and you have a climbing speed of 20 feet.
 
 ***Bite .*** Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier.
 
