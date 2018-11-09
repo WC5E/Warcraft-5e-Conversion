@@ -1677,7 +1677,7 @@ Your pandaren character has certain traits deriving from their ancient heritage.
 
 ***Pandaren Weapon Training.*** You have proficiency with the club, quarterstaff, and spear.
 
-***Quaking Palm.*** When you hit another creature with an unarmed strike, you may transfer chi from your body to the targets, the target must succeed on a Constitution saving throw, or be stunned until the end of your next turn. Wisdom is your saving throw ability for this feature. You can't use this feature again until you finish a long rest.
+***Quaking Palm.*** When you hit another creature with an unarmed strike, you may use your innate powers to attempt to disable the target. The target must succeed on a Consti-tution saving throw, or be stunned until the end of your next turn. Wisdom is your saving throw ability for this feature. You can't use this feature again until you finish a long rest.
 
 ***Languages.*** You can speak, read, and write, Common and Mogu. Mogu is the language of Pandaria, forced upon the inhabitants of Pandaria by the mogu empire. It is a strange and unfamiliar language to the rest of Azeroth, with a multitude of words meaning one common thing.
 
