@@ -29,13 +29,13 @@ Jacinto, Brian Huang, Richard Suwono, PersonalAmi,
 
 Bren Rodri, Krysdecker, James Ryman, Alex Garner,
 
-Nina Ikävalko, Shuzong, Howard Pak, Dan Scott,
+Nina Ikävalko, Shuzong, Howard Pak, Dan Scott, Jojo 
 
-Matthew McKeown, Astri Lohne, Jason Wang, Peet 
+So, Matthew McKeown, Astri Lohne, Jason Wang, Peet 
 
 Cooper, Wei Wang, Ryan Metcalf, Ina Wong, Tyson
 
-Murphy, Jerry Mascho, Aaron Lovett
+Murphy, Jerry Mascho, Aaron Lovett, 
 
 <br> **Based on the original D&D game created by** 
 <br>&nbsp;&nbsp;&nbsp; E. Gary Gygax and Dave Arneson, as well as <br>&nbsp;&nbsp;&nbsp; Brian Blume, Rob Kuntz, James Ward and Don Kaye.
@@ -53,7 +53,7 @@ Murphy, Jerry Mascho, Aaron Lovett
 *ClockWorkTank, Wyken, 123jrf*
 
 <br> **Special thanks to** 
-<br>&nbsp;&nbsp;&nbsp; This entire book was made using GmBinder, it is an <br>&nbsp;&nbsp;&nbsp; amazing tool for creating authentic looking homebrew <br>&nbsp;&nbsp;&nbsp; material for 5th Edition Dungeons and Dragons, and <br>&nbsp;&nbsp;&nbsp; without it I would never have considered this project.
+<br>&nbsp;&nbsp;&nbsp; This entire book was made using GmBinder, it is an <br>&nbsp;&nbsp;&nbsp; amazing tool for creating authentic looking homebrew <br>&nbsp;&nbsp;&nbsp; material for 5th Edition Dungeons and Dragons, and <br>&nbsp;&nbsp;&nbsp; without it this project would've never been considered.
 
 <div style='margin-top:105px'></div>
 <div style="text-align:Center">
@@ -65,18 +65,17 @@ Murphy, Jerry Mascho, Aaron Lovett
 <div style="text-align:Right"> 
 
 ## Foreword </div>
-I've made this book in an attempt to bring the beloved Warcraft franchise into the 5th Edition of Dungeons and Dragons. It is a task that has taken me months to do, and many more to come I am sure as I continue to work on this in my spare time.
+We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of Dungeons & Dragons. It is a task that has taken us months to do, and many more to come as we continue to work on this in our spare time, in the hopes of bringing a genuine recreation of Warcraft into a tabletop game.
 
-My intention with this book have been from the start to make it as a free resource for all to use, and never to be bought or paid for, I do this because I want others to enjoy it, not because I want to earn money from it.
+This book is made to compliment Dungeons & Dragons 5th edition **Player's Handbook, Dungeon Master's Guide**, and **Monster Manuals**. Using the rules presented in those books, and balanced around being playable in a standard D&D setting without requiring balancing.
 
-This books is made to compliment 5th Edition **Player's Handbook, Dungeon Master's Guide**, and **Monster Manual**. Using the rules presented in those and balanced around being playable in a standard D&D setting without requiring modifications.
+This books is made in our spare time with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe in a Dungeons & Dragons format. Not for any monetary gain.
 
-All changes made in a new version of the handbook can be found by checking the link below. I've also provided a link to the races balancing document, in case someone likes numbers like me, Enjoy!
+With each coming update, all changes will be noted in the Changelog--Link is provided below. Likewise we've provided a link to our racial balance shreadsheet, using the rules of Detect Balance by  Eleazzaar.
 
 <div style="text-align:Center"> 
 
-### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A)
-### [Race Balance](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
+### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A) &nbsp;&nbsp;&nbsp;&nbsp; [Race Balance](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
 </div>
 
 <div style='margin-top:130px'></div>
@@ -88,7 +87,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 </div>
 
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:680px; right:498px; width:150px' />
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:685px; right:498px; width:150px' />
 
 \pagebreakNum
 
