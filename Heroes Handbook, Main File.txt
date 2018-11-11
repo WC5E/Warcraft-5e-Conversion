@@ -3589,7 +3589,6 @@ You start with the following equipment, in addition to the equipment granted by 
 
 \pagebreakNum
 
-
 ### Spellcasting
 As a conduit for divine power. you can cast priest spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the priest spell list.
 
@@ -3637,7 +3636,7 @@ Once you gain a priesthood spell, you always have it pre-pared, and it doesn't c
 If you have a priesthood spell that doesn't appear on the priest spell list, the spell is considered a priest spell for you.
 
 ### Unarmored Defense
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Wisdom modifier. You can use a shield and still gain this benefit.
 
 ### Channel Divinity
 At 2nd level, you gain the ability to channel divine energy directly from the holy light, using that energy to fuel magical effects. You start with two such effects: Shackle Undead and an effect determined by your priesthood.
