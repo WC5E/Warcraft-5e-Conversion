@@ -78,7 +78,13 @@ With each coming update, all changes will be noted in the Changelog--Link is pro
 ### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A) &nbsp;&nbsp;&nbsp;&nbsp; [Race Balance](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
 </div>
 
-<div style='margin-top:130px'></div>
+<br>
+
+**Want to help grow a community?**
+
+We're a relatively small group working together on this, <br>&nbsp;&nbsp;&nbsp; and as such our ability to playtest all of this is limited in <br>&nbsp;&nbsp;&nbsp; scope. If you want to help better this book, improve and <br>&nbsp;&nbsp;&nbsp; balance what's inside it, suggest changes, or talk with <br>&nbsp;&nbsp;&nbsp; others using this to create a Warcraft campaign. Then <br>&nbsp;&nbsp;&nbsp; feel free to head over to the [r/WC5e](https://old.reddit.com/r/wc5e/), a new subreddit <br>&nbsp;&nbsp;&nbsp; we're hoping to make the official subreddit for this book!
+
+<div style='margin-top:100px'></div>
 <div class='wide'> 
 
 #### Legal Stuff
