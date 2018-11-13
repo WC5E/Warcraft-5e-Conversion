@@ -1612,6 +1612,144 @@ You will likely notice that there are two class suggestion charts. One for Pre-C
 
 \pagebreakNum
 
+### Elf Traits
+An elf is a member of one of the longest lived species on Azeroth known for keen perception, grace, and great spellwork. The specific origins of elves remained lost to history for millennia, until Brann Bronzebeard confirmed that the first elves were originally dark trolls that were transformed by the Well of Eternity.
+
+***Ability Score Increase.*** Your Dexterity score increases by 1.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Darkvision.*** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+***Keen Senses.*** You have proficiency in the Perception skill.
+
+***Subrace.*** Six subraces of elves exist: blood elf, highborne elf, high elf, nightborne elf, night elf, and void elf. Choose one of these for your character.
+
+#### Blood Elf
+The blood elves (or sin'dorei, "children of the blood" in Thalassian) are high elves who changed their name after the Scourge invasion of Quel'Thalas. Their new name is a dirge, referencing both the blood of their many brethren who fell during the Third War, and their royal lineage. Due to the loss of the Sunwell, some of the Blood Elves drew upon Fel magic to sate their magical addiction, and as a result tainted all of the Blood Elves with the Fel. This is most evident in the green eyes that Blood Elves posses.
+
+***Ability Score Increase.*** Your Dexterity and Intelligence scores each increase by 1.
+
+***Age.*** Blood elves reach adulthood at much the rate of humans, but are not considered to have entered adulthood until they reach 60, and can live to become many hundreds of years old with ease. That said, many of the blood elves have lived for thousands of years due to the power of the Sunwell extending their lifespan.
+
+***Alignment.*** Most blood elves tend to be lawful, being a very militant people. Those who do become chaotic are usually mages, or warlocks out of control.
+
+***Affiliation.*** The blood elves are members of the Horde. After the third war, their mistreatment by Grand Marshal Garithos caused them to distrust the Alliance. They ended up joining the Horde, due to Sylvanas Windrunner convincing them to join and her speaking on their behalf. 
+
+***Arcane Acuity.*** You know the *true strike* cantrip. When you reach 3rd level, you can cast the *shield* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *silence* spell once with this trait and regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+
+***Languages.*** You can speak, read, and write Common and Thalassian. Thalassian is a derivative of the Darnassian language, and in many ways sound the same to an inexperienced ear.
+
+#### Highborne Elf (Shen'dralar)
+The Shen'dralar, meaning "Those Who Remain Hidden" were a secretive Highborne society who dwelled in the Athenaeum within Eldre'Thalas. 
+
+A part of them were accepted back into the night elven society shortly before the Cataclysm and now serve as mages for the night elves, as well as train night elven mages.
+
+***Ability Score Increase.*** Your Intelligence and Wisdom scores each increase by 1.
+
+***Age.*** Although highborne elves reach physical maturity at about the same age as humans, their understanding of adulthood goes beyond physical growth to encompass worldly experience. A highborne elf typically claims adulthood and an adult name around the age of 100 and can live to become several thousand years old.
+
+***Alignment.*** Most highborne elves tend to be lawful, as order and structure are very important to them. Their society believes that reputation and status are of greater concern than night elven society does. The Shen'dralar, having grown closer with their night elven brethren again, and tend to be more neutral, as they still value order and structure, but now also hold individual personal freedom as important as well. They are more often good than not.
+
+***Affiliation.*** For 10,000 years the Shen'dralar were part of no faction, being truly neutral in the conflicts around them. Since the rekindling of their connection with the night elves, they have become full fledged members of the Alliance.
+
+***Shadowmeld.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+
+***Cantrip.*** You know one cantrip of your choice from the mage spell list. Intelligence is your spellcasting ability for it.
+
+***Lorekeeper.*** You gain proficiency with the arcana skill and with calligrapher's supplies.
+
+***Languages.*** You can speak, read, and write Common and Darnassian. Darnassian is fluid, with subtle intonations and intricate grammar. Its literature is rich and varied, and their songs and poems are famous among other races.
+
+#### High Elf (Quel'dorei)
+The high elves, or quel'dorei ("children of noble birth" in Darnassian and Thalassian), are a race descended from the Highborne night elves who left Kalimdor and settled in the Eastern Kingdoms, founding Quel'Thalas. The high elves were once a significant force on the continent. 
+
+In recent times though, their numbers have been dramatically reduced: approximately 90% of their population was slaughtered during the Third War. Following this, 90% of the surviving high elves changed their name to "blood elves" or sin'dorei (children of the blood in Thalassian) in remembrance of their fallen brethren, and no longer consider themselves high elven.
+
+***Ability Score Increase.*** Your Dexterity and Intelligence scores each increase by 1.
+
+***Age.*** High elves reach adulthood at much the rate of humans, but are not considered to have entered adulthood until they reach 60, and can live to become many hundreds of years old with ease. That said, many of the high elves have lived for thousands of years due to the power of the Sunwell extending their lifespan.
+
+***Alignment.*** Most high elves tend to be lawful, being a very militant people. Those who do become chaotic are usually mages, or warlocks out of control, though this is much less common than it would be for blood elves.
+
+***Affiliation.*** The high elves are members of the Alliance. While some are members of neutral factions, like the Argent Dawn, most maintain close ties to the Alliance.
+
+\pagebreakNum
+
+The high elves, are one of the founding races of the Alliance, and they have a strong dislike of the blood elves, seeing them as corrupt and traitors.
+
+***Cantrip.*** You know one cantrip of your choice from the mage spell list. Intelligence is your spellcasting ability for it.
+
+***Arcane Affinity.*** You can cast *detect magic* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 3rd level, you can cast the *magic weapon* spell once with this trait and regain the ability to do so when you finish a long rest.
+
+***Languages.*** You can speak, read, and write Common and Thalassian, and one additional language of your choice. Thalassian is a derivative of the Darnassian language, and in many ways sound the same to an inexperienced ear.
+
+#### Nightborne Elf (Shal'dorei)
+The nightborne or shal'dorei in the native tongue are a powerful and mystical race of elves who live in Suramar. Since the city was first separated from the rest of the world over 10,000 years ago, they are no longer true night elves and have evolved by the Nightwell into a unique elven species. For the majority of their secluded existence, virtually the entire group resided in the ancient city of Suramar, and were led solely until recent times by Grand Magistrix Elisande.
+
+***Ability Score Increase.*** Your Intelligence score increases by 2.
+
+***Age.*** Although nightborne elves reach physical maturity at about the same age as humans, their understanding of adulthood goes beyond physical growth to encompass worldly experience. A nightborne elf typically claims adulthood and an adult name around the age of 100 and can live to become several thousand years old. Due to the power of the Nightwell, the nightborne elves have many among their ranks who are over 10,000 years old.
+
+***Alignment.*** Most nightborne elves tend to be lawful, as order and structure are very important to them. Their society believes that reputation and status are of the utmost concern, and morality and principles of right and wrong are viewed too often in that light.
+
+***Affiliation.*** The night elves are members of the Alliance, but some belong to neutral factions like the Cenarion Circle.
+
+***Size.*** Night Elves range from under 6 feet to over 8 feet tall and have slender builds. Your size is Medium.
+
+***Mental Warding.*** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+
+***Lorekeeper.*** You gain proficiency with the arcana skill and with calligrapher's supplies.
+
+***Languages.*** You can speak, read, and write Common and Shalassian. Shalassian is the language of the nightborne. It is an offshoot of Darnassian, similar to Thalassian. This ancient nightborne language is so archaic only the oldest non nightborne elves might be able to read it.
+
+#### Night Elf (Kaldorei)
+Night elves (or kaldorei, for "Children of the Stars" in Darnassian), are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War.
+
+***Ability Score Increase.*** Your Dexterity and Wisdom scores each increase by 1.
+
+***Age.*** Although night elves reach physical maturity at about the same age as humans, their understanding of adulthood goes beyond physical growth to encompass worldly experience. A night elf typically claims adulthood and an adult name around the age of 100 and can live to become several thousand years old. Many night elves are thousands of years old, as until the destruction of Teldrassil, the night elves were immortal.
+
+***Alignment.*** Night Elves love freedom, variety, and self expression, so they lean strongly toward the gentler aspects of chaos. They value and protect the freedom of others as well as their own, and they are more often good than not.
+
+***Affiliation.*** The night elves are members of the Alliance, but some belong to neutral factions like the Cenarion Circle.
+ 
+***Size.*** Night Elves range from under 6 feet to over 8 feet tall and have slender builds. Your size is Medium.
+
+***Nature Resistance.*** You have advantage on saving throws against poison, and you have resistance against poison damage.
+
+***Quickness.*** Your base walking speed increases to 35 feet.
+
+***Shadowmeld.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+
+***Languages.*** You can speak, read, and write Common and Darnassian. Darnassian is fluid, with subtle intonations and intricate grammar. Its literature is rich and varied, and their songs and poems are famous among other races.
+
+#### Void Elf (Ren'dorei)
+Void elves (or ren'dorei, "children of the Void" in Thalassian) are a race of Void-infused elves affiliated with the Alliance. Their origins lie with the blood elf magister Umbric who was exiled from Silvermoon along with his followers because of their research into the Void. They were transformed by void ethereals but rescued by Alleria Windrunner, who had gained mastery of the Void herself on Argus. Pledging their loyalty to her and the Alliance, they established themselves as the ren'dorei.
+
+***Ability Score Increase.*** Your Constitution and Intelligence scores each increase by 1.
+
+***Age.*** Void elves reach adulthood at much the rate of humans, but are not considered to have entered adulthood until they reach 60. Some are already a few hundred years old, and if they are still similar enough to their blood elven physiology, they can live to be about 350 years old. That said, many of the blood elves have lived for thousands of years due to the power of the Sunwell, so a source of magical power, like the void energy that fuels these elves, could drastically increase their lifespans.
+
+***Alignment.*** Most void elves tend to be lawful, much like their blood elven kin. Those who do become chaotic are
+those who lose control of their void powers and become consumed by them.
+
+***Affiliation.*** The void elves are currently members of the Alliance. Truly they serve Alleria Windrunner, and joined the Alliance due to her allegiance to the faction. They are all former members of the Horde, having been blood elves prior to their transformation, but none of them are currently welcome in blood elven society.
+
+***Size.*** Void elves in many ways resemble humans, but with slender builds, and much more refined features. Usually just over 6 feet tall, with very little difference between male and females. Your size is Medium.
+
+\pagebreakNum
+
+&nbsp;&nbsp;&nbsp; ***Chill of Night.*** You have resistance to Necrotic damage.
+
+***Spatial Rift.*** As a bonus action, you can open a rift in space and time to an unoccupied space you can see, within 30 feet of your current position. Once you use this trait, you can’t do so again until you finish a long rest.
+
+Starting at 3rd level, you also gain resistance to all damage when you go through the the spatial rift. The resistance lasts until the start of your next turn. During that time, you are enveloped in void energy.
+
+***Languages.*** You can speak, read, and write Common and Thalassian. Thalassian is a derivative of the Darnassian language, and in many ways sound the same to an inexperienced ear.
+
+\pagebreakNum
+
 <div style='margin-top:507px'></div>
 
 ## Pandaren
