@@ -1724,25 +1724,26 @@ Heroes sometimes advance in more than one class. A rogue might switch direction 
 
 Optional rules for combining classes in this way, called multiclassing, appear in chapter 5.
 
-Ten classes — listed in the Classes table — are found in the World of Warcraft and define the spectrum of heroes.
-
-<br><br><br>
+Ten classes — listed in the Classes table — define the average spectrum of heroes on Azeroth, these are made as standable classes, but are intended to be playable alongside classes from the Player's Handbook.
+<div style='margin-top:50px;'></div>
 
 <div class='classTable wide'>
 
 ##### Classes
 | Class | Description | Hit Die |&nbsp;| Primary Ability |&nbsp;| Saving Throws | Armor and Weapons |
-|:--------------|:---------------------------------------------------------------------------------------------|:--|:-|:---------|:-|:----|:-------|
-| &nbsp;Druid   |A watcher of nature, wielding powers of elune, and able to transform into animals.             | d8 ||Wisdom      || Intelligence<br>& Wisdom|Light and medium armor, simple weapons|
-| &nbsp;Hunter  |A prowess ranger, with keen skills and knowledge of the wild and its animals.       | d10||Dexterity   || Strength &<br>Dexterity|Light and medium armor, simple and martial weapons, firearms|
-| &nbsp;Mage    |A scholar of magic, capable of evoking arcane, shaping it to their needs.                      | d6 ||Intelligence|| Intelligence<br>& Wisdom|Simple weapons|
-| &nbsp;Monk    |A martial artist, harnessing the power of the body in pursuit of spiritual perfection. | d8 ||Dexterity   || Strength &<br>Dexterity|Light armor, simple weapons and shortswords|
-| &nbsp;Paladin |A holy warrior, wielding the light to aid their allies and defeat their enemies.               | d10||Strength or Charisma|| Wisdom &<br>Charisma|All armor, shields, simple and martial weapons|
-| &nbsp;Priest  |A divine healer, who wields the powers of the light and the void.                              | d6 ||Wisdom      || Wisdom &<br>Charisma|Simple weapons|
-| &nbsp;Rogue   |A master assassin who uses stealth and trickery to overcome obstacles.             | d8 ||Dexterity   || Dexterity &<br>Intelligence|Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords|
-| &nbsp;Shaman  |A wielder of elements, calling them to his aid, and bending them to his will.              | d8 ||Wisdom      || Strength &<br>Wisdom|Light and medium armor, shields, simple and martial weapons|
-| &nbsp;Warlock |A wielder of void and fel magic, gaining power through a secret grimoire.                      | d8 ||Intelligence|| Intelligence & Wisdom|Simple weapons, longswords, rapiers, scimitars, shortswords|
-| &nbsp;Warrior |An exceptional fighter, skilled with a variety of weapons and armor.                    | d10||Strength    || Strength &<br>Constitution|All armor, shields, simple and martial weapons, firearms|
+|:--------------|:-----------------------------------------------------------------------------------------------|:---|:-|:---------|:-|:----|:-------|
+| &nbsp;Druid   |A watcher of nature, wielding powers of elune, and able to transform into animals.              | d8 ||Wisdom      || Intelligence<br>& Wisdom|Light and medium armor, simple weapons|
+| &nbsp;Hunter  |A prowess ranger, with keen skills and knowledge of the wild and its animals.                   | d10||Dexterity   || Strength &<br>Dexterity|Light and medium armor, simple and martial weapons, firearms|
+| &nbsp;Mage    |A scholar of magic, capable of evoking arcane, shaping it to their needs.                       | d6 ||Intelligence|| Intelligence<br>& Wisdom|Simple weapons|
+| &nbsp;Monk    |A martial artist, harnessing the power of the body in pursuit of spiritual perfection.          | d8 ||Dexterity   || Strength &<br>Dexterity|Light armor, simple weapons and shortswords|
+| &nbsp;Paladin |A holy warrior, wielding the light to aid their allies and defeat their enemies.                | d10||Strength or Charisma|| Wisdom &<br>Charisma|All armor, shields, simple and martial weapons|
+| &nbsp;Priest  |A divine healer, who wields the powers of the light and the void.                               | d6 ||Wisdom      || Wisdom &<br>Charisma|Simple weapons|
+| &nbsp;Rogue   |A master assassin who uses stealth and trickery to overcome obstacles.                          | d8 ||Dexterity   || Dexterity &<br>Intelligence|Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords|
+| &nbsp;Shaman  |A wielder of elements, calling them to his aid, and bending them to his will.                   | d8 ||Wisdom      || Strength &<br>Wisdom|Light and medium armor, shields, simple and martial weapons|
+| &nbsp;Warlock |A wielder of void and fel magic, gaining power through a secret grimoire.                       | d8 ||Intelligence|| Intelligence & Wisdom|Simple weapons, longswords, rapiers, scimitars, shortswords|
+| &nbsp;Warrior |An exceptional fighter, skilled with a variety of weapons and armor.                            | d10||Strength    || Strength &<br>Constitution|All armor, shields, simple and martial weapons, firearms|
+| &nbsp;Death <br>&nbsp;Knight |A knight of undeath, resurrected by dark powers, wielding sword and magic alike. | d8 ||Strength or Charisma|| Strength|All armor, simple and martial weapons|
+| &nbsp;Demon <br>&nbsp;Hunter |A fighter infused with fel, made for the sole purpose of destryong demons.       | d6 ||Dexterity   || Dexterity|Simple and martial weapons, warglaives|
 </div>
 
 <div class='footnote'>PART 1 | CLASSES</div>
