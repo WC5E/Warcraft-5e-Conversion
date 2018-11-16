@@ -3905,7 +3905,7 @@ As you create your rogue character, consider the charac-ter's relationship to th
 What was the trigger that led you away from your previous life? Did a great con or heist gone terribly wrong cause you to reevaluate your career? Maybe you were lucky and successful robbery gave you the coin you needed to escape the squalor of your life. Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself cut off from your family or your mentor, and you had to find a new means of support. Or maybe you made a new friend, who showed you new possibilities for earning a living and employing your particular talents.
 
 #### Quick Build
-You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make intelligence your next-highest if you want to excel at Investigation. Choose Charisma instead if you plan to emphasize deception and social interaction.
+You can make a rogue quickly by following these sugges-tions. First, Dexterity should be your highest ability score. Make intelligence your next-highest if you want to excel at Investigation. Choose Charisma instead if you plan to emphasize deception and social interaction.
 
 <br>
 <div style='margin-top:550px'></div>
@@ -3996,35 +3996,37 @@ Once you use this feature, you can't use it again until you finish a short or lo
 Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directi-ons, embodied by the rogue specializations. Your choice of specialization is a reflection of your preferred techniques. 
 
 ### Assassin
-You focus your training on the grim art of death. Favoring stealth and vicious poisons over direct approaches. Those who adhere to this specialization are diverse: hired killers, spies, and bounty hunters. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.
+You focus your training on the grim art of death. Favoring stealth and vicious poisons over direct approaches. Those who adhere to this specialization are diverse: hired killers, spies, and bounty hunters. Stealth, and poison help you eliminate your foes with deadly efficiency.
 
-#### Bonus Proficiencies
-When you choose this specialization at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.
-
-#### Assassin's Intuition
-Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
+#### Poisoned Knife
+When you choose this specialization at 3rd level, you gain proficiency with the poisoner's kit, and you are able to lace your sneak attacks with poisons that can weaken your enemy. When you roll damage for your Sneak Attack feature, you may choose to inflict poison damage instead of weapon damage. The target must then succeed on a Con-stitution save against a DC of 8 + your Intelligence modifer + your proficiency bonus, or be poisoned for 1 minute. The creature can make another saving throw at the end of each of its turns, ending the poisoned effect on a successful save.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/7s4FCzT.png' style='position:absolute; top:950px; right:450px; width:320px;transform:rotate(15deg)' />
+<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:880px; right:470px; width:200px;transform:rotate(-70deg)' />
 
 \pagebreakNum
 
-#### Elaborate Planning
-Beginning at 9th level, you can unfailingly create false iden-tities for yourself. You must spend seven days and 25gp to establish the history, profession, and affiliations for an iden-tity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official-looking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.
+&nbsp;&nbsp;&nbsp; When you poison a creature with this feature, and if the creature fails their saving throw. You may choose to apply one of the following additional poisoned effects to them. You can only affect a creature with one of these additional poison effects for as long as it is poisoned.
+ - The creature can't regain hit points.
+ - The creature's speed is reduced by 10 feet.
+ - The creature can't take reactions.
 
-Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.
+You can use this feature a number of times equal to your rogue level. You regain all spent uses after finishing a short or long rest.
 
-#### Ambush Master
-Starting at 13th level, you excel at leading ambushes and acting first in a fight.
+#### Assassinate
+Beginning at 9rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first turn of each combat deals additional damage equal to your Rogue level.
 
-You have advantage on initiative rolls. In addition, the first creature you hit during the first round of a combat becomes easier for you and others to strike; attack rolls against that target have advantage until the start of your next turn.
+#### Venomous Wounds
+Starting at 13th level, when you use your Poisoned Knife feature and successfully poison a creature, the creature gains disadvantage on one ability saving throw of your choice for the poisoned conditions duration.
 
 #### Seal Fate
-At 17th level, you have become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dex-terity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.
+At 17th level, you have become a master of instant death. When you hit a creature with a weapon attack, you can force it to make a Constitution saving throw against a DC of 8 + your Strength or Dexterity modifier (your choice) + your proficiency bonus. On a failed save, the damage of your attack is doubled, and it automatically fails its saving throw against your Poisoned Knife feature. 
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Outlaw
-You hone your skills in larcenous arts. Burglars, bandits, pirates, and other criminals typically follow this specializa-tion, but so do rogues who prefer to not fight fair, using dirty tricks to gain the upper hand in combat. These rogues care little for tactics or discretion, and happily engages in a brawl head on.
+You hone your skills in larcenous arts. Burglars, bandits, pirates, and other criminals typically follow this specializa-tion, but so do rogues who prefer to not fight fair, using dirty tricks to gain the upper hand in combat. They care little for discretion, and happily engages in brawls head on.
 
 #### Firearm Intrigue
 When you choose this specialization at 3rd level, you gain proficiency with firearms.
@@ -4037,12 +4039,12 @@ You also gain an additional way to use your Sneak Attack you don't need advantag
 #### Quick Combatant
 Starting at 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this in-crease applies to that speed as well.
 
+\columnbreak
+
 #### Misdirection
 Starting at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature is within 5 feet of you, you can use your reaction to have the attack target that creature instead of you.
 
 You can use this feature a number of times equal to your Dexterity modifier, regaining uses after a short or long rest.
-
-\columnbreak
 
 #### Adrenaline Rush
 At 17th level, the rush of battle runs to your head. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your se-cond turn at your initiative minus 10. You can't use this feature when you are surprised.
@@ -4073,7 +4075,6 @@ Additionally, no matter what you say, magic that would determine if you are tell
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:790px; right:100px; width:200px;transform:rotate(70deg)' />
 
 \pagebreakNum
 
