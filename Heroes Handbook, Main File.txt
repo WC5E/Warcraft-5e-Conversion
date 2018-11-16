@@ -6030,18 +6030,6 @@ New backgrounds are presented later in this chapter, see also the Player's Handb
 \columnbreak
 
 #### Personality Traits
-
-
-
-
-
-
-
-
-
-
-
-
 Give your character two personality traits. Personality traits are small, simple ways to help you set your character apart from every other character. Your personality traits should tell you something interesting and fun about your character. They should be self-descriptions that are specific about what makes your character stand out. "I'm smart" is not a good trait, because it describes a lot of characters. "I've read every book in Dalaran" tells you something specific about your character's interests and disposition.
 
 Personality traits might describe the things your char-acter likes, his or her past accomplishments, things your character dislikes or fears, your character's self-attitude or mannerisms, or the influence of his or her ability scores.
@@ -6685,7 +6673,6 @@ If you have more than one spellcasting class, this table might give you spell sl
 
 For example, if you are the aforementioned shaman 3 / priest 4, you count as a 7th-level character when—
 
-
 \columnbreak
 
 determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level shaman spells. You can use the spell slots of those levels to cast the spells you do know.
@@ -6741,7 +6728,7 @@ A feat represents a talent or an area of expertise that gives a character specia
 
 At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
 
-You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow you can't benefit from the Grappler feat until your Strength is restored.
+You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Battlemage feat requires you to be able to cast a spell. If you lose your ability to cast spells somehow you can't bene-fit from the Battlemage spell until that ability is restored.
 
 The feats presented in this book are meant as additions to those presented in the 5th edition Player's Handbook.
 
@@ -6752,55 +6739,35 @@ The feats presented in this book are meant as additions to those presented in th
 You have improved you technique with spells in the heat of battle, you gain the following benefits:
  - You learn two cantrips of your choice from the mage spell list.
  - When you make a ranged spell attack, you do not suffer disadvantage on the attack roll if you are within 5 feet of the hostile creature.
- - Before you cast an instantaneous spell that requires a spell attack and are unable of hitting more than a single target, you can choose to take a -5 penalty to the spell attack roll. If the spell hits, you add +10 to the attack's damage.
+ - Before you cast an instantaneous spell that requires a spell attack and are unable of hitting more than a single target, you can choose to take a -5 penalty to the spell attack roll. If the spell hits, you add +10 to the spell's damage.
 
 ### Firearm Expert
-Thanks to extensive practice with firearms, you gain the following benefits:
- - You ignore the reload quality of firearms with which you are proficient.
+You have become excellent at the usages of firearms, gaining the following benefits:
+ - You ignore the reload quality of firearms with which <br>you are proficient.
  - Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.
  - When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a loaded one-handed firearm you are holding.
 
-### Firearm Weapon Adept
-Your have gained interest in firearms and their uses, you gain the following benefits:
+### Firearm Adept
+Your have become interested in the mechanical firearms and their uses, gaining the following benefits:
  - Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
  - You gain proficiency in the Tinker's tools.
  - You gain proficiency with firearms.
 
-### Racial Weapon Adept
-You have caught eye of the special weapons used by other races, you gain the following benefits:
+### Racial Weapon Master
+You have practiced extensively with the exotic weapons used by certain races, gaining the following benefits:
  - Increase your Strength or Dexterity score by 1, to a maximum of 20.
  - You gain proficiency with racial weapons.
 
-<div class='footnote'>PART 1 | CUSTOMIZATION OPTIONS</div>
-<img src='https://www.gmbinder.com/images/VOm1476.jpg' style='position:absolute; top:0px; right:-250px; width:900px' />
-<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
+\columnbreak
 
 ## Racial Feats
-Races on Azeroth are not equal in strength, the average tauren is considerably stronger than the average human. This section introduces a collection of special feats that allow you to empower your character's race further. These feats are each associated with a race from earlier in this book, and summarized in the Racial Feats table. A racial feat represents either a deepening connection to your race's culture or a physical transformation that brings you closer to an aspect of your
-race's lineage.
-
-The cause of a particular transformation is up to you and your DM. A transformational feat can symbolize a latent quality that has emerged as you age, or a transformation might be the result of an event in the campaign, such as exposure to powerful magic or visiting a place of ancient significance to your race. 
-
-##### Racial Feats
-|&nbsp; Race                    | Feat                     |
-|:------------------------------|:-------------------------|
-|&nbsp; Dwarf (wildhammer)      | Spiritual Guidance       |
-|&nbsp; Night Elf               | Darnassian Knowledge     |
-|&nbsp; Orc                     | Spiritual Guidance       |
-|&nbsp; Tauren                  | Spiritual Guidance       |
-|&nbsp; Tauren                  | Tauren Endurance         |
-|&nbsp; Troll                   | Spiritual Guidance       |
-|&nbsp; Troll                   | Zandalari Fury           |
-|&nbsp; Worgen                  | Hardened Predator        |
-|&nbsp; Worgen                  | Neither Beast nor Man    |
+A recial feat represents the power difference between Azeroths races. For example, a tauren is considerably stronger than the average human. Racial feats follow all the rules of normal feats.
 
 ### Darnassian Knowledge
-*Prerequisite: Night elf*
+*Prerequisite: Elf, kaldorei/shen'dralar*
 <div style='margin-top:-7px;'></div>
 
-Your studies and training have given you a deeper under-standing of your kin, unlocking unique gifts. You gain the following benefits:
+You have deeped your understanding of Night elves, unlocking unique gifts, gaining the following benefits:
  - Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
  - You have advantage on stealth checks made in dim or unlit surroundings, and any ability checks made to notice you are made with disadvantage.
  - When you fail a death saving throw, you can call upon a wisp to guide your path, changing the failure to a success. Once done, the essence of the wisp continues to linger in you for two long rests, making you unable to call upon the aid of another.
@@ -6809,29 +6776,19 @@ Your studies and training have given you a deeper under-standing of your kin, un
 *Prerequisite: Worgen*
 <div style='margin-top:-7px;'></div>
 
-You have become accustomed with your worgen worm, realizing some of the benefits that comes with the wolf-like shape. You gain the following benefits:
- - You have advantage on Wisdom (perception) checks that rely on hearing or smell.
+You have grown accustom to being a worgen, realizing the benefits that come with it, gaining the following benefits:
+
+ - You have advantage on Wisdom (perception) checks that rely on smell.
  - Whilst your hands are empty, you can take the dash action as a bonus action, using all four limbs to run.
  - Your fur has grown longer and thicker, making you unaffected by the effects of extreme cold.
  - When you roll a Hit Die to regain hit points, you roll the Hit Die twice and use either roll.
 
-<br>
-
-### Neither Beast nor Man
-*Prerequisite: Worgen*
-<div style='margin-top:-7px;'></div>
-
-You have managed to control your worgen curse in a way most cannot, keeping it suppressed inside and regaining a glimpse of your former self. You gain the following benefits:
- - Increase your Wisdom score by 1, to a maximum of 20.
- - As part of a short or long rest, you can transform your-self into a human. While human, you appear as you did before getting affected by the curse. When subject to a saving throw to not go feral, you roll the dice twice with advantage, and use either roll. Making an attack roll whilst human stirs your blood, immediately trans-forming you back into a worgen.
-
 ### Spiritual Guidance
-*Prerequisite: Dwarf (wildhammer), orc, tauren or troll*
+*Prerequisite: Dwarf, wildhamnmer, Orc, Tauren or Troll*
 <div style='margin-top:-7px;'></div>
 
-You've delved into the energy of spirits, the everlasting balance and harmony they bring to all life. You gain the following benefits:
- - Increase your Charisma score by 1, to a maximum of 20.
- - You gain proficiency in either Nature or Survival.
+You have seen the balance and harmony they bring to life, gaining the following benefits:
+ - Increase your Wisdom or Charisma score by 1, to a maximum of 20.
  - You have advantage on saving throws against being frightened.
  - You learn the *healing spirit* spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest.
 
@@ -6841,21 +6798,11 @@ You've delved into the energy of spirits, the everlasting balance and harmony th
 
 You gain leather tough hide and improved recovery through hard training. You gain the following benefits:
  - Increase your Strength, Dexterity or Constitution score by 1, to a maximum of 20.
- - Your hide thickens. While you aren't wearing armor, you add your Constitution modifier to your AC. You can use a shield and still gain this benefit.
+ - While you aren't wearing armor, you add your Constitu-tion modifier to your AC. You can use a shield and still gain this benefit.
  - Your hit point maximum increases by an amount equal to your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 1 hit point.
 
-### Zandalari Fury
-*Prerequisite: Troll*
-<div style='margin-top:-7px;'></div>
-
-The Zandalari trolls were able to channel their fury, a trait that has been passed down through ancient bloodlines to you. Making you a furious combatant for a short while.
-
-As an action, you enter a berserk for a number of rounds equal to your Strength modifier (minimum of 1), granting you a second action on each of your turns. This action can't be used on spells or spell-like abilities. 
-
-Once the berserk ends, you gain one level of exhaustion, and cannot use this ability again until you finish a long rest.
-
-<img src='https://www.gmbinder.com/images/nSelxYT.jpg' style='position:absolute; top:940px; right:0px; width:520px' />
-<img src='https://www.gmbinder.com/images/x5MXJJ4.png' style='position:absolute; top:-100px; right:-50px; width:1200px;transform:rotate(185deg)' />
+<div class='footnote'>PART 1 | CUSTOMIZATION OPTIONS</div>
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
