@@ -626,14 +626,15 @@ Wildhammer dwarves are untamed in comparison, they live further north in the Eas
 
 \pagebreakNum
 
-<br>
-
-<div style='margin-top:450px'></div>
+<div style='margin-top:470px'></div>
 
 ## Gnome
-*The clever, spunky, and oftentimes eccentric gnomes present a unique paradox among the civilized races of Azeroth. Brilliant inventors with an irrepressibly cheerful disposition, this race has suffered treachery, displacement, and near-genocide. It is their remarkable optimism in the face of such calamity that symbolizes the truly unshakable spirit of the gnomes.*
+*You never really understood, did you? It is our loyalty to our friends that provides our truest, greatest strength... <br> My friends. It is a power that numbers cannot match.*
+<div style="text-align:Right"> 
 
-### Introduction
+*— Gelbin Mekkatorque* &nbsp;</div>
+<div style='margin-top:-5px'></div>
+
 Gnomes are a diminutive, wiry race of tinkers who live underground. In the Second War, they built vehicles and gadgets for the Alliance, submarines and flying machines, to combat the Horde. They are great mechanics and inventors, and are renowned for their knowledge and eccentric natures. The gnomes had a city, Gnomeregan, built into Ironforge Mountain. But invading troggs destroyed it and slaughtered its citizens.
 
 Many survivors moved into Khaz Modan and now live with the Dun Morogh dwarves, and a few traveled with their dwarven friends to Kalimdor. 
@@ -641,30 +642,27 @@ Many survivors moved into Khaz Modan and now live with the Dun Morogh dwarves, a
 The gnomes are still reeling from the destruction of their home city and are loath to leave the safety of the dwarven tunnels. Most gnomes on Kalimdor remain secluded in Bael Modan.
 
 ### Cheerful Expression
-Even after the decimation of their race and the destruction of their city, gnomes are an amiable and kind hearted lot. They make and keep friends easily; others find disliking a gnome to be difficult.
+Even after the decimation of their race and the destruction of their city, gnomes are an amiable and kind hearted lot. They make and keep friends easily; others find disliking a gnome to be difficult. A gnome's energy and enthusiasm for living shines through every inch of his or her tiny body. Gnomes average slightly over 3 feet tall and weigh 40 to 45 pounds. Their tan or brown faces are usually adorned with broad smiles (beneath their prodigious noses), and their bright eyes shine with excitement. Their fair hair has a tendency to stick out in every direction, as if expressing the gnome's insatiable interest in everything around.
 
-A gnome's energy and enthusiasm for living shines through every inch of his or her tiny body. Gnomes average slightly over 3 feet tall and weigh 40 to 45 pounds. 
+\columnbreak
 
-<br>  
-<div style='margin-top:835px'></div>
-
-Their tan or brown faces are usually adorned with broad smiles (beneath their prodigious noses), and their bright eyes shine with excitement. Their fair hair has a tendency to stick out in every direction, as if expressing the gnome's insatiable interest in everything around.
+<div style='margin-top:600px'></div>
 
 A gnome's personality is writ large in his or her appearance. A male gnome's beard, in contrast to his wild hair, is kept carefully trimmed but often styled into curious forks or neat points. A gnome's clothing, though usually made in modest earth tones, is elaborately decorated with embroidery, embossing, or gleaming jewels.
 
-<div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/xbICtyn.jpg' style='position:absolute; top:0px; right:-200px; width:1400px' />
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-250px; right:-30px; width:1200px;transform:rotate(340deg)' />
-<img src='https://www.gmbinder.com/images/IhYJ9D7.png' style='position:absolute; top:280px; right:10px; width:400px' />
-
-\pagebreakNum
-
-### Exceptional Tinker
+### Exceptional Tinkers
 Gnomes tend to design complicated devices that are relatively safe. Gnomes are in many ways commensurate organizers: a gnome can spend as much time organizing and planning a project as they do actually working on it. If the design fails, they try to learn why, and fix it if they can. 
 
 If they meet with success, they will continue to tinker with it and improve the design, often for years afterward. Thus, many gnomish designs feature a high degree of complexity and a low chance of failure, the exceptions being those that dabble with chaos energy — but even then, they take steps to ensure the worst that could happen is a brief, non-fatal failure.
 
 While a goblin would scream and flee at the mere thought of a cost overrun, a gnome simply shrugs and presses on. If a project fails to work correctly the first time, a gnome will continue to tinker with it, while a goblin would usually give up and move to something else. Thus, gnomish items have very low failure rates compared to goblin items.
+
+<div class='footnote'>PART 1 | RACES</div>
+<img src='https://www.gmbinder.com/images/8cYzWBs.jpg' style='position:absolute; top:0px; right:0px; width:1200px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-250px; right:-30px; width:1200px;transform:rotate(340deg)' />
+<img src='https://www.gmbinder.com/images/5twb0Gb.png' style='position:absolute; top:-100px; right:-50px; width:650px' />
+
+\pagebreakNum
 
 ### Affiliation
 Gnomes are members of the alliance, they are great friends of the dwarves and have fought and died alongside human soldiers. They are wary of the blood elves, but so is everyone else, so they don’t feel too bad about that. They battled the Horde in the Second
@@ -687,8 +685,6 @@ Munkull, Inku, Fixi, Mekin, Mitkla, Dapeek
 
 Greatgear, Togglefield, Luyckbreak, Stormhammer
 
-\columnbreak
-
 ### Gnome Traits
 Your gnome character has certain abilities, learned through generations of gnomes.
 
@@ -696,19 +692,25 @@ Your gnome character has certain abilities, learned through generations of gnome
 
 ***Age.*** Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
 
-***Alignment.*** Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers, Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.
+***Alignment.*** Gnomes are good-hearted, and even the tricksters amongst them are more playful than vicious. Those of evil alignment are often the result of madness. An innovative idea that consumed them.
 
 ***Size.*** Gnomes are between 3 and 4 feet and generally compactly built. Your size is Small.
 
 ***Speed.*** Your base walking speed is 25 feet.
 
-***Artificer's Lore.*** Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
+\columnbreak
+
+<br>
+
+&nbsp;&nbsp;&nbsp; ***Artificer's Lore.*** Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
 
 ***Darkvision.*** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
+***Escape Artist.*** You can move through the space of any creature that is of a size larger than yours.
+
 ***Gnome Cunning.*** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
 
-***Tinker.*** You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
+***Gnomish Engineering.*** You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
 
 When you create a device, choose one of the following:
 
@@ -716,11 +718,12 @@ When you create a device, choose one of the following:
  - *Fire Starter.* The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
  - *Music Box.* When opened. this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
 
-***Languages.*** You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
+***Languages.*** You can speak, read, and write Common and Gnomish. Gnomish in many ways look like dwarven, it uses the same script, and is renowned for its technical treatises and its catalogs of knowledge about the natural world.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/xbICtyn.jpg' style='position:absolute; top:700px; right:-200px; width:1400px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-45px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-140px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/fWCMgX5.png' style='position:absolute; top:690px; right:65px; width:300px' />
 
 \pagebreakNum
 
