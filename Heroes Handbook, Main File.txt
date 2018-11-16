@@ -1511,6 +1511,8 @@ Female goblins are on average taller than most male goblins, even though the dif
 
 \pagebreakNum
 
+<div style='margin-top:392px;'></div>
+
 ### Affiliation
 Goblins have found a recent enemy in the Alliance. Unpro-fitable encounters with the secretive SI:7 forces have driven them away from comfortable neutrality with both sides. Forcing them to reforge old pacts with their business partners and now allies the horde.
 
@@ -1544,22 +1546,32 @@ Your gnome character has certain abilities, learned through generations of gnome
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Best Deals Anywhere.*** You have advantage on any checks made to appraise the price of items. Goblins are born traders, and love gold more than anything, giving them an inherited ability to appraise. 
+\columnbreak
 
-***Resourceful.*** You are proficient in one skill or tool of your choice.
+<div style='margin-top:410px;'></div>
 
-***Darkvision.*** Goblins naturally have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+&nbsp;&nbsp;&nbsp; ***Darkvision.*** Goblins naturally have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-***Time is Money.*** As a bonus action you can shout at an ally and command them to move. That creature can use it's reaction to move up to its speed without provoking opportunity attacks. You can't use this feature again until you finish a short or long rest.
+***Best Deals Anywhere.*** You have advantage on any ability check made to appraise the price of an item.
+
+***Goblin Engineering.*** You are proficient with the artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct an explosive device. The device ceases to function after 24 hours, when a creature uses their action to activate it or when you dis-mantle it; if you dismantle a device, you can reclaim the materials used to create it. You can only have one explosive device constructed at a time.
+
+When you create a device, choose one of the following:
+
+ - *Rocket Jump.* This explosive container can be strapped to a person's belt or boot. As an action, that person can fire the rocket, launching them 30 feet in a direction of their choice. For example, a creature can choose to launch 25 feet into the air, 5 feet forward, and so on.
+ - *Rocket Blast.* A crude rocket fixed with flash powder. <br>As an action you, you can choose a point within 30 feet. Each creature within 10-ft of the point must succeed a DC 11 Dexterity saving throw, or be blinded until the start of their next turn.
+
+***Living Through Chemistry.*** You gain proficiency with the artisan's tool (alchemist's supplies).
 
 ***Mechanical Familiarity.*** You are proficient in firearms.
 
-***Languages.*** You can speak, read, and write Common, Goblin and two languages of your choice. Goblins are traders, and trade with every race willing to buy from them, picking up languages as they go. 
+***Time is Money.*** As a bonus action you can shout at an ally and command them to move. That creature can use it's reaction to move up to its speed without provoking opportunity attacks. You can't use this feature again until you finish a short or long rest.
+
+***Languages.*** You can speak, read, and write Common, Goblin and one language of your choice. Goblins are traders, and trade with every race willing to buy from them, picking up languages as they go. 
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/QQhhu9s.jpg' style='position:absolute; top:0px; right:-240px; width:840px' />
-<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/OT3bM1A.png' style='position:absolute; top:990px; right:425px; width:300px;transform:rotate(10deg)' />
+<img src='https://www.gmbinder.com/images/QQhhu9s.jpg' style='position:absolute; top:-250px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:100px; right:0px; width:900px' />
 
 \pagebreakNum
 
