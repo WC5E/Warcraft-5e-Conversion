@@ -35,7 +35,9 @@ Matthew McKeown, Astri Lohne, Jason Wang, Peet
 
 Cooper, Wei Wang, Ryan Metcalf, Ina Wong, Tyson
 
-Murphy, Jerry Mascho, Aaron Lovett
+Murphy, Jerry Mascho, Aaron Lovett, Kristina
+
+Toxicpanda
 
 <br> **Based on the original D&D game created by** 
 <br>&nbsp;&nbsp;&nbsp; E. Gary Gygax and Dave Arneson, as well as <br>&nbsp;&nbsp;&nbsp; Brian Blume, Rob Kuntz, James Ward and Don Kaye.
@@ -1583,7 +1585,7 @@ You will likely notice that there are two class suggestion charts. One for Pre-C
 
 | **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ***Elf, high*** | | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
+| ***Elf, high***  | | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
 | ***Elf, night*** | ✦ | ✦ | | | ✦ | ✦ | | | ✦ | ✦ |
 </div>
 
@@ -1596,16 +1598,16 @@ You will likely notice that there are two class suggestion charts. One for Pre-C
 
 | **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ***Elf, high*** | | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
-| ***Elf, night*** | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | | ✦ | ✦ | ✦ |
+| ***Elf, high***       | | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ |
+| ***Elf, night***      | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | | ✦ | ✦ | ✦ |
 | ***Elf, nightborne*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
-| ***Elf, void*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
-| ***Pandaren*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | | |
+| ***Elf, void***       | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
+| ***Pandaren***        | | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | | |
  </div>
 
 <div class='footnote'>PART 1 | RACES </div>
-<img src='https://www.gmbinder.com/images/7l6giKu.jpg' style='position:absolute; top:700px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-150px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/8SWMqKb.jpg' style='position:absolute; top:650px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-200px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -1709,7 +1711,7 @@ Your elf character has few natural abilities that are shared amongst all of the 
 
 ***Subrace.*** Ancient and recent divides among the elven people resulted in six main subraces: blood elves, high-borne elves, high elves, nightborne elves, night elves, and void elves. Choose one of these subraces.
 
-#### High Elf (Quel'dorei)
+#### High Elf
 Hailing from the proud empire of Quel'Thalas, high elves are exceptional arcanists, descended from the exiled high-bornes who left their Kaldorei kin thousands of years ago. These elves were nearly extinct during the Third war, and what remains of them have renamed themselves Sin'dorei, blood elves, in honor of their fallen kin.
 
 ##### Affiliation
@@ -1730,15 +1732,15 @@ The Sin'dorei have joined the Horde. After the third war, the atrocities dealt t
 
 ***Size.*** High elves are just under 6 feet tall and weigh between 100 and 175 pounds. Your size is medium.
 
-***Arcane Affinity.*** You can cast *detect magic* and *magic missiles* with this trait, Intelligence is your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest.
+***Arcane Affinity.*** You can cast *detect magic* and *magic weapon* with this trait, Intelligence is your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest.
 
 ***Cantrip.*** You know one cantrip of your choice from the mage spell list. Intelligence is your spellcasting ability for it.
 
-***Sin'dorei Weapon Training.*** You are proficiency in longbows, sin'dorei warblades, and warglaives.
+***Quel'dorei Weapon Training.*** You are proficiency in longbows, sin'dorei warblades, and warglaives.
 
 ***Languages.*** You can speak, read, and write Common, Thalassian, and one extra language of your choice. Tha-lassian is a derivative of the Darnassian language, and in many ways sound the same to an inexperienced ear.
 
-#### Nightborne Elf (Shal'dorei)
+#### Nightborne Elf
 Since the war of the ancient, the Shal'dorei have been sealed away from the rest of the world, locked within their city of Suramar. Without sunlight, and their ever present Nightwell, the highborne elves of the city began to chance. They evolved into Nightborne, elves unique from the rest of their kin. They've become masters of Arcane, capable of wielding it with great ease to perform extraordinary feats.
 
 ##### Affiliation
@@ -1759,7 +1761,7 @@ Most Nightbornes have joined the horde, seeing the hunger the blood elves had fo
 
 \pagebreakNum
 
-&nbsp;&nbsp;&nbsp; ***Lorekeeper.*** You gain proficiency with the Arcana <br>and History skill.
+&nbsp;&nbsp;&nbsp; ***Lorekeeper.*** You gain proficiency with the Arcana and the artisan's tool (calligrapher's supplies).
 
 ***Mental Warding.*** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
 
@@ -1769,7 +1771,7 @@ Most Nightbornes have joined the horde, seeing the hunger the blood elves had fo
 
 ***Languages.*** You can speak, read, and write Common and Shalassian. Shalassian, like Thalassian, originates from the Darnassian language. Its dialect has been scrutinized through the ages, making it nearly impossible for members outside of the Nightborne to read or write.
 
-#### Night Elf (Kaldorei)
+#### Night Elf
 Proud and ancient, the kaldorei once ruled Azeroth as one powerful nation. They were the first to study magic and let it loose throughout the world during the First war. Since then most night elves have abandoned arcane, remember-ing the chaos it brought, turning their attention to raw strength, or the powers of nature.
 
 ##### Affiliation
@@ -1790,7 +1792,7 @@ Night elves have a disgust and suspicion of the high elves. They remember the at
 
 ***Nature Resistance.*** You have advantage on saving throws against poison, and you have resistance against poison damage.
 
-***Quickness.*** Your walking speed increases to 35 feet.
+***Quickness.*** Your base walking speed increases to 35 ft.
 
 \columnbreak
 
@@ -1800,7 +1802,7 @@ Night elves have a disgust and suspicion of the high elves. They remember the at
 
 ***Languages.*** You can speak, read, and write Common and Darnassian. Darnassian is fluid, with subtle intonations and intricate grammar. Its literature is rich and varied, and their songs and poems are famous among other races.
 
-#### Void Elf (Ren'dorei)
+#### Void Elf
 Infused by the void itself, the Ren'dorei were exiled from their homeland of Quel'Thalas for researching the void itself. They were left in dark beyond, and transformed by ethereals of the void. They were rescued by the high elf Alleria Windrunner, who had gained mastery of the void on the planet of Argus, and pledged their loyalty to her.
 
 ##### Affiliation
