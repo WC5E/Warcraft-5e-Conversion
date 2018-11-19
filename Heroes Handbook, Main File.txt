@@ -29,15 +29,15 @@ Jacinto, Brian Huang, Richard Suwono, PersonalAmi,
 
 Bren Rodri, Krysdecker, James Ryman, Alex Garner,
 
-Nina Ikävalko, Shuzong, Howard Pak, Dan Scott,
+Nina Ikävalko, Shuzong, Howard Pak, Dan Scott, Jojo 
 
-Matthew McKeown, Astri Lohne, Jason Wang, Peet 
+So, Matthew McKeown, Astri Lohne, Jason Wang, Peet 
 
 Cooper, Wei Wang, Ryan Metcalf, Ina Wong, Tyson
 
 Murphy, Jerry Mascho, Aaron Lovett, Kristina
 
-Toxicpanda
+Toxicpanda, Dariia Kasimova
 
 <br> **Based on the original D&D game created by** 
 <br>&nbsp;&nbsp;&nbsp; E. Gary Gygax and Dave Arneson, as well as <br>&nbsp;&nbsp;&nbsp; Brian Blume, Rob Kuntz, James Ward and Don Kaye.
@@ -55,7 +55,7 @@ Toxicpanda
 *ClockWorkTank, Wyken, 123jrf*
 
 <br> **Special thanks to** 
-<br>&nbsp;&nbsp;&nbsp; This entire book was made using GmBinder, it is an <br>&nbsp;&nbsp;&nbsp; amazing tool for creating authentic looking homebrew <br>&nbsp;&nbsp;&nbsp; material for 5th Edition Dungeons and Dragons, and <br>&nbsp;&nbsp;&nbsp; without it I would never have considered this project.
+<br>&nbsp;&nbsp;&nbsp; This entire book was made using GmBinder, it is an <br>&nbsp;&nbsp;&nbsp; amazing tool for creating authentic looking homebrew <br>&nbsp;&nbsp;&nbsp; material for 5th Edition Dungeons and Dragons, and <br>&nbsp;&nbsp;&nbsp; without it this project would've never been considered.
 
 <div style='margin-top:105px'></div>
 <div style="text-align:Center">
@@ -67,21 +67,26 @@ Toxicpanda
 <div style="text-align:Right"> 
 
 ## Foreword </div>
-I've made this book in an attempt to bring the beloved Warcraft franchise into the 5th Edition of Dungeons and Dragons. It is a task that has taken me months to do, and many more to come I am sure as I continue to work on this in my spare time.
+We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of Dungeons & Dragons. It is a task that has taken us months to do, and many more to come as we continue to work on this in our spare time, in the hopes of bringing a genuine recreation of Warcraft into a tabletop game.
 
-My intention with this book have been from the start to make it as a free resource for all to use, and never to be bought or paid for, I do this because I want others to enjoy it, not because I want to earn money from it.
+This book is made to compliment Dungeons & Dragons 5th edition **Player's Handbook, Dungeon Master's Guide**, and **Monster Manuals**. Using the rules presented in those books, and balanced around being playable in a standard D&D setting without requiring balancing.
 
-This books is made to compliment 5th Edition **Player's Handbook, Dungeon Master's Guide**, and **Monster Manual**. Using the rules presented in those and balanced around being playable in a standard D&D setting without requiring modifications.
+This books is made in our spare time with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe in a Dungeons & Dragons format. Not for any monetary gain.
 
-All changes made in a new version of the handbook can be found by checking the link below. I've also provided a link to the races balancing document, in case someone likes numbers like me, Enjoy!
+With each coming update, all changes will be noted in the Changelog--Link is provided below. Likewise we've provided a link to our racial balance shreadsheet, using the rules of Detect Balance by  Eleazzaar.
 
 <div style="text-align:Center"> 
 
-### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A)
-### [Race Balance](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
+### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A) &nbsp;&nbsp;&nbsp;&nbsp; [Race Balance](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
 </div>
 
-<div style='margin-top:130px'></div>
+<br>
+
+**Want to help grow a community?**
+
+We're a relatively small group working together on this, <br>&nbsp;&nbsp;&nbsp; and as such our ability to playtest all of this is limited in <br>&nbsp;&nbsp;&nbsp; scope. If you want to help better this book, improve and <br>&nbsp;&nbsp;&nbsp; balance what's inside it, suggest changes, or talk with <br>&nbsp;&nbsp;&nbsp; others using this to create a Warcraft campaign. Then <br>&nbsp;&nbsp;&nbsp; feel free to head over to the [r/WC5e](https://old.reddit.com/r/wc5e/), a new subreddit <br>&nbsp;&nbsp;&nbsp; we're hoping to make the official subreddit for this book!
+
+<div style='margin-top:100px'></div>
 <div class='wide'> 
 
 #### Legal Stuff
@@ -90,7 +95,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 </div>
 
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:680px; right:498px; width:150px' />
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:685px; right:498px; width:150px' />
 
 \pagebreakNum
 
@@ -628,14 +633,15 @@ Wildhammer dwarves are untamed in comparison, they live further north in the Eas
 
 \pagebreakNum
 
-<br>
-
-<div style='margin-top:450px'></div>
+<div style='margin-top:470px'></div>
 
 ## Gnome
-*The clever, spunky, and oftentimes eccentric gnomes present a unique paradox among the civilized races of Azeroth. Brilliant inventors with an irrepressibly cheerful disposition, this race has suffered treachery, displacement, and near-genocide. It is their remarkable optimism in the face of such calamity that symbolizes the truly unshakable spirit of the gnomes.*
+*You never really understood, did you? It is our loyalty to our friends that provides our truest, greatest strength... <br> My friends. It is a power that numbers cannot match.*
+<div style="text-align:Right"> 
 
-### Introduction
+*— Gelbin Mekkatorque* &nbsp;</div>
+<div style='margin-top:-5px'></div>
+
 Gnomes are a diminutive, wiry race of tinkers who live underground. In the Second War, they built vehicles and gadgets for the Alliance, submarines and flying machines, to combat the Horde. They are great mechanics and inventors, and are renowned for their knowledge and eccentric natures. The gnomes had a city, Gnomeregan, built into Ironforge Mountain. But invading troggs destroyed it and slaughtered its citizens.
 
 Many survivors moved into Khaz Modan and now live with the Dun Morogh dwarves, and a few traveled with their dwarven friends to Kalimdor. 
@@ -643,30 +649,27 @@ Many survivors moved into Khaz Modan and now live with the Dun Morogh dwarves, a
 The gnomes are still reeling from the destruction of their home city and are loath to leave the safety of the dwarven tunnels. Most gnomes on Kalimdor remain secluded in Bael Modan.
 
 ### Cheerful Expression
-Even after the decimation of their race and the destruction of their city, gnomes are an amiable and kind hearted lot. They make and keep friends easily; others find disliking a gnome to be difficult.
+Even after the decimation of their race and the destruction of their city, gnomes are an amiable and kind hearted lot. They make and keep friends easily; others find disliking a gnome to be difficult. A gnome's energy and enthusiasm for living shines through every inch of his or her tiny body. Gnomes average slightly over 3 feet tall and weigh 40 to 45 pounds. Their tan or brown faces are usually adorned with broad smiles (beneath their prodigious noses), and their bright eyes shine with excitement. Their fair hair has a tendency to stick out in every direction, as if expressing the gnome's insatiable interest in everything around.
 
-A gnome's energy and enthusiasm for living shines through every inch of his or her tiny body. Gnomes average slightly over 3 feet tall and weigh 40 to 45 pounds. 
+\columnbreak
 
-<br>  
-<div style='margin-top:835px'></div>
-
-Their tan or brown faces are usually adorned with broad smiles (beneath their prodigious noses), and their bright eyes shine with excitement. Their fair hair has a tendency to stick out in every direction, as if expressing the gnome's insatiable interest in everything around.
+<div style='margin-top:600px'></div>
 
 A gnome's personality is writ large in his or her appearance. A male gnome's beard, in contrast to his wild hair, is kept carefully trimmed but often styled into curious forks or neat points. A gnome's clothing, though usually made in modest earth tones, is elaborately decorated with embroidery, embossing, or gleaming jewels.
 
-<div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/xbICtyn.jpg' style='position:absolute; top:0px; right:-200px; width:1400px' />
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-250px; right:-30px; width:1200px;transform:rotate(340deg)' />
-<img src='https://www.gmbinder.com/images/IhYJ9D7.png' style='position:absolute; top:280px; right:10px; width:400px' />
-
-\pagebreakNum
-
-### Exceptional Tinker
+### Exceptional Tinkers
 Gnomes tend to design complicated devices that are relatively safe. Gnomes are in many ways commensurate organizers: a gnome can spend as much time organizing and planning a project as they do actually working on it. If the design fails, they try to learn why, and fix it if they can. 
 
 If they meet with success, they will continue to tinker with it and improve the design, often for years afterward. Thus, many gnomish designs feature a high degree of complexity and a low chance of failure, the exceptions being those that dabble with chaos energy — but even then, they take steps to ensure the worst that could happen is a brief, non-fatal failure.
 
 While a goblin would scream and flee at the mere thought of a cost overrun, a gnome simply shrugs and presses on. If a project fails to work correctly the first time, a gnome will continue to tinker with it, while a goblin would usually give up and move to something else. Thus, gnomish items have very low failure rates compared to goblin items.
+
+<div class='footnote'>PART 1 | RACES</div>
+<img src='https://www.gmbinder.com/images/8cYzWBs.jpg' style='position:absolute; top:0px; right:0px; width:1200px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-250px; right:-30px; width:1200px;transform:rotate(340deg)' />
+<img src='https://www.gmbinder.com/images/5twb0Gb.png' style='position:absolute; top:-100px; right:-50px; width:650px' />
+
+\pagebreakNum
 
 ### Affiliation
 Gnomes are members of the alliance, they are great friends of the dwarves and have fought and died alongside human soldiers. They are wary of the blood elves, but so is everyone else, so they don’t feel too bad about that. They battled the Horde in the Second
@@ -689,8 +692,6 @@ Munkull, Inku, Fixi, Mekin, Mitkla, Dapeek
 
 Greatgear, Togglefield, Luyckbreak, Stormhammer
 
-\columnbreak
-
 ### Gnome Traits
 Your gnome character has certain abilities, learned through generations of gnomes.
 
@@ -698,19 +699,25 @@ Your gnome character has certain abilities, learned through generations of gnome
 
 ***Age.*** Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
 
-***Alignment.*** Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers, Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.
+***Alignment.*** Gnomes are good-hearted, and even the tricksters amongst them are more playful than vicious. Those of evil alignment are often the result of madness. An innovative idea that consumed them.
 
 ***Size.*** Gnomes are between 3 and 4 feet and generally compactly built. Your size is Small.
 
 ***Speed.*** Your base walking speed is 25 feet.
 
-***Artificer's Lore.*** Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
+\columnbreak
+
+<br>
+
+&nbsp;&nbsp;&nbsp; ***Artificer's Lore.*** Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
 
 ***Darkvision.*** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
+***Escape Artist.*** You can move through the space of any creature that is of a size larger than yours.
+
 ***Gnome Cunning.*** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
 
-***Tinker.*** You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
+***Gnomish Engineering.*** You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
 
 When you create a device, choose one of the following:
 
@@ -718,11 +725,12 @@ When you create a device, choose one of the following:
  - *Fire Starter.* The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
  - *Music Box.* When opened. this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
 
-***Languages.*** You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
+***Languages.*** You can speak, read, and write Common and Gnomish. Gnomish in many ways look like dwarven, it uses the same script, and is renowned for its technical treatises and its catalogs of knowledge about the natural world.
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/xbICtyn.jpg' style='position:absolute; top:700px; right:-200px; width:1400px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-45px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-140px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/fWCMgX5.png' style='position:absolute; top:690px; right:65px; width:300px' />
 
 \pagebreakNum
 
@@ -1510,6 +1518,8 @@ Female goblins are on average taller than most male goblins, even though the dif
 
 \pagebreakNum
 
+<div style='margin-top:392px;'></div>
+
 ### Affiliation
 Goblins have found a recent enemy in the Alliance. Unpro-fitable encounters with the secretive SI:7 forces have driven them away from comfortable neutrality with both sides. Forcing them to reforge old pacts with their business partners and now allies the horde.
 
@@ -1543,22 +1553,32 @@ Your gnome character has certain abilities, learned through generations of gnome
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Best Deals Anywhere.*** You have advantage on any checks made to appraise the price of items. Goblins are born traders, and love gold more than anything, giving them an inherited ability to appraise. 
+\columnbreak
 
-***Resourceful.*** You are proficient in one skill or tool of your choice.
+<div style='margin-top:410px;'></div>
 
-***Darkvision.*** Goblins naturally have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+&nbsp;&nbsp;&nbsp; ***Darkvision.*** Goblins naturally have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-***Time is Money.*** As a bonus action you can shout at an ally and command them to move. That creature can use it's reaction to move up to its speed without provoking opportunity attacks. You can't use this feature again until you finish a short or long rest.
+***Best Deals Anywhere.*** You have advantage on any ability check made to appraise the price of an item.
+
+***Goblin Engineering.*** You are proficient with the artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct an explosive device. The device ceases to function after 24 hours, when a creature uses their action to activate it or when you dis-mantle it; if you dismantle a device, you can reclaim the materials used to create it. You can only have one explosive device constructed at a time.
+
+When you create a device, choose one of the following:
+
+ - *Rocket Jump.* This explosive container can be strapped to a person's belt or boot. As an action, that person can fire the rocket, launching them 30 feet in a direction of their choice. For example, a creature can choose to launch 25 feet into the air, 5 feet forward, and so on.
+ - *Rocket Blast.* A crude rocket fixed with flash powder. <br>As an action you, you can choose a point within 30 feet. Each creature within 10-ft of the point must succeed a DC 11 Dexterity saving throw, or be blinded until the start of their next turn.
+
+***Living Through Chemistry.*** You gain proficiency with the artisan's tool (alchemist's supplies).
 
 ***Mechanical Familiarity.*** You are proficient in firearms.
 
-***Languages.*** You can speak, read, and write Common, Goblin and two languages of your choice. Goblins are traders, and trade with every race willing to buy from them, picking up languages as they go. 
+***Time is Money.*** As a bonus action you can shout at an ally and command them to move. That creature can use it's reaction to move up to its speed without provoking opportunity attacks. You can't use this feature again until you finish a short or long rest.
+
+***Languages.*** You can speak, read, and write Common, Goblin and one language of your choice. Goblins are traders, and trade with every race willing to buy from them, picking up languages as they go. 
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/QQhhu9s.jpg' style='position:absolute; top:0px; right:-240px; width:840px' />
-<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/OT3bM1A.png' style='position:absolute; top:990px; right:425px; width:300px;transform:rotate(10deg)' />
+<img src='https://www.gmbinder.com/images/QQhhu9s.jpg' style='position:absolute; top:-250px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:100px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -1946,25 +1966,26 @@ Heroes sometimes advance in more than one class. A rogue might switch direction 
 
 Optional rules for combining classes in this way, called multiclassing, appear in chapter 5.
 
-Ten classes — listed in the Classes table — are found in the World of Warcraft and define the spectrum of heroes.
-
-<br><br><br>
+Ten classes — listed in the Classes table — define the average spectrum of heroes on Azeroth, these are made as standable classes, but are intended to be playable alongside classes from the Player's Handbook.
+<div style='margin-top:50px;'></div>
 
 <div class='classTable wide'>
 
 ##### Classes
 | Class | Description | Hit Die |&nbsp;| Primary Ability |&nbsp;| Saving Throws | Armor and Weapons |
-|:--------------|:---------------------------------------------------------------------------------------------|:--|:-|:---------|:-|:----|:-------|
-| &nbsp;Druid   |A watcher of nature, wielding powers of elune, and able to transform into animals.             | d8 ||Wisdom      || Intelligence<br>& Wisdom|Light and medium armor, simple weapons|
-| &nbsp;Hunter  |A prowess ranger, with keen skills and knowledge of the wild and its animals.       | d10||Dexterity   || Strength &<br>Dexterity|Light and medium armor, simple and martial weapons, firearms|
-| &nbsp;Mage    |A scholar of magic, capable of evoking arcane, shaping it to their needs.                      | d6 ||Intelligence|| Intelligence<br>& Wisdom|Simple weapons|
-| &nbsp;Monk    |A martial artist, harnessing the power of the body in pursuit of spiritual perfection. | d8 ||Dexterity   || Strength &<br>Dexterity|Light armor, simple weapons and shortswords|
-| &nbsp;Paladin |A holy warrior, wielding the light to aid their allies and defeat their enemies.               | d10||Strength or Charisma|| Wisdom &<br>Charisma|All armor, shields, simple and martial weapons|
-| &nbsp;Priest  |A divine healer, who wields the powers of the light and the void.                              | d6 ||Wisdom      || Wisdom &<br>Charisma|Simple weapons|
-| &nbsp;Rogue   |A master assassin who uses stealth and trickery to overcome obstacles.             | d8 ||Dexterity   || Dexterity &<br>Intelligence|Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords|
-| &nbsp;Shaman  |A wielder of elements, calling them to his aid, and bending them to his will.              | d8 ||Wisdom      || Strength &<br>Wisdom|Light and medium armor, shields, simple and martial weapons|
-| &nbsp;Warlock |A wielder of void and fel magic, gaining power through a secret grimoire.                      | d8 ||Intelligence|| Intelligence & Wisdom|Simple weapons, longswords, rapiers, scimitars, shortswords|
-| &nbsp;Warrior |An exceptional fighter, skilled with a variety of weapons and armor.                    | d10||Strength    || Strength &<br>Constitution|All armor, shields, simple and martial weapons, firearms|
+|:--------------|:-----------------------------------------------------------------------------------------------|:---|:-|:---------|:-|:----|:-------|
+| &nbsp;Druid   |A watcher of nature, wielding powers of elune, and able to transform into animals.              | d8 ||Wisdom      || Intelligence<br>& Wisdom|Light and medium armor, simple weapons|
+| &nbsp;Hunter  |A prowess ranger, with keen skills and knowledge of the wild and its animals.                   | d10||Dexterity   || Strength &<br>Dexterity|Light and medium armor, simple and martial weapons, firearms|
+| &nbsp;Mage    |A scholar of magic, capable of evoking arcane, shaping it to their needs.                       | d6 ||Intelligence|| Intelligence<br>& Wisdom|Simple weapons|
+| &nbsp;Monk    |A martial artist, harnessing the power of the body in pursuit of spiritual perfection.          | d8 ||Dexterity   || Strength &<br>Dexterity|Light armor, simple weapons and shortswords|
+| &nbsp;Paladin |A holy warrior, wielding the light to aid their allies and defeat their enemies.                | d10||Strength or Charisma|| Wisdom &<br>Charisma|All armor, shields, simple and martial weapons|
+| &nbsp;Priest  |A divine healer, who wields the powers of the light and the void.                               | d6 ||Wisdom      || Wisdom &<br>Charisma|Simple weapons|
+| &nbsp;Rogue   |A master assassin who uses stealth and trickery to overcome obstacles.                          | d8 ||Dexterity   || Dexterity &<br>Intelligence|Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords|
+| &nbsp;Shaman  |A wielder of elements, calling them to his aid, and bending them to his will.                   | d8 ||Wisdom      || Strength &<br>Wisdom|Light and medium armor, shields, simple and martial weapons|
+| &nbsp;Warlock |A wielder of void and fel magic, gaining power through a secret grimoire.                       | d8 ||Intelligence|| Intelligence & Wisdom|Simple weapons, longswords, rapiers, scimitars, shortswords|
+| &nbsp;Warrior |An exceptional fighter, skilled with a variety of weapons and armor.                            | d10||Strength    || Strength &<br>Constitution|All armor, shields, simple and martial weapons, firearms|
+| &nbsp;Death <br>&nbsp;Knight |A knight of undeath, resurrected by dark powers, wielding sword and magic alike. | d8 ||Strength or Charisma|| Strength|All armor, simple and martial weapons|
+| &nbsp;Demon <br>&nbsp;Hunter |A fighter infused with fel, made for the sole purpose of destryong demons.       | d6 ||Dexterity   || Dexterity|Simple and martial weapons, warglaives|
 </div>
 
 <div class='footnote'>PART 1 | CLASSES</div>
@@ -3811,7 +3832,6 @@ You start with the following equipment, in addition to the equipment granted by 
 
 \pagebreakNum
 
-
 ### Spellcasting
 As a conduit for divine power. you can cast priest spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the priest spell list.
 
@@ -3859,7 +3879,7 @@ Once you gain a priesthood spell, you always have it pre-pared, and it doesn't c
 If you have a priesthood spell that doesn't appear on the priest spell list, the spell is considered a priest spell for you.
 
 ### Unarmored Defense
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Wisdom modifier. You can use a shield and still gain this benefit.
 
 ### Channel Divinity
 At 2nd level, you gain the ability to channel divine energy directly from the holy light, using that energy to fuel magical effects. You start with two such effects: Shackle Undead and an effect determined by your priesthood.
@@ -4105,7 +4125,7 @@ As you create your rogue character, consider the charac-ter's relationship to th
 What was the trigger that led you away from your previous life? Did a great con or heist gone terribly wrong cause you to reevaluate your career? Maybe you were lucky and successful robbery gave you the coin you needed to escape the squalor of your life. Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself cut off from your family or your mentor, and you had to find a new means of support. Or maybe you made a new friend, who showed you new possibilities for earning a living and employing your particular talents.
 
 #### Quick Build
-You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make intelligence your next-highest if you want to excel at Investigation. Choose Charisma instead if you plan to emphasize deception and social interaction.
+You can make a rogue quickly by following these sugges-tions. First, Dexterity should be your highest ability score. Make intelligence your next-highest if you want to excel at Investigation. Choose Charisma instead if you plan to emphasize deception and social interaction.
 
 <br>
 <div style='margin-top:550px'></div>
@@ -4196,35 +4216,37 @@ Once you use this feature, you can't use it again until you finish a short or lo
 Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directi-ons, embodied by the rogue specializations. Your choice of specialization is a reflection of your preferred techniques. 
 
 ### Assassin
-You focus your training on the grim art of death. Favoring stealth and vicious poisons over direct approaches. Those who adhere to this specialization are diverse: hired killers, spies, and bounty hunters. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.
+You focus your training on the grim art of death. Favoring stealth and vicious poisons over direct approaches. Those who adhere to this specialization are diverse: hired killers, spies, and bounty hunters. Stealth, and poison help you eliminate your foes with deadly efficiency.
 
-#### Bonus Proficiencies
-When you choose this specialization at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.
-
-#### Assassin's Intuition
-Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
+#### Poisoned Knife
+When you choose this specialization at 3rd level, you gain proficiency with the poisoner's kit, and you are able to lace your sneak attacks with poisons that can weaken your enemy. When you roll damage for your Sneak Attack feature, you may choose to inflict poison damage instead of weapon damage. The target must then succeed on a Con-stitution save against a DC of 8 + your Intelligence modifer + your proficiency bonus, or be poisoned for 1 minute. The creature can make another saving throw at the end of each of its turns, ending the poisoned effect on a successful save.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/7s4FCzT.png' style='position:absolute; top:950px; right:450px; width:320px;transform:rotate(15deg)' />
+<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:880px; right:470px; width:200px;transform:rotate(-70deg)' />
 
 \pagebreakNum
 
-#### Elaborate Planning
-Beginning at 9th level, you can unfailingly create false iden-tities for yourself. You must spend seven days and 25gp to establish the history, profession, and affiliations for an iden-tity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official-looking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.
+&nbsp;&nbsp;&nbsp; When you poison a creature with this feature, and if the creature fails their saving throw. You may choose to apply one of the following additional poisoned effects to them. You can only affect a creature with one of these additional poison effects for as long as it is poisoned.
+ - The creature can't regain hit points.
+ - The creature's speed is reduced by 10 feet.
+ - The creature can't take reactions.
 
-Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.
+You can use this feature a number of times equal to your rogue level. You regain all spent uses after finishing a short or long rest.
 
-#### Ambush Master
-Starting at 13th level, you excel at leading ambushes and acting first in a fight.
+#### Assassinate
+Beginning at 9rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first turn of each combat deals additional damage equal to your Rogue level.
 
-You have advantage on initiative rolls. In addition, the first creature you hit during the first round of a combat becomes easier for you and others to strike; attack rolls against that target have advantage until the start of your next turn.
+#### Venomous Wounds
+Starting at 13th level, when you use your Poisoned Knife feature and successfully poison a creature, the creature gains disadvantage on one ability saving throw of your choice for the poisoned conditions duration.
 
 #### Seal Fate
-At 17th level, you have become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dex-terity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.
+At 17th level, you have become a master of instant death. When you hit a creature with a weapon attack, you can force it to make a Constitution saving throw against a DC of 8 + your Strength or Dexterity modifier (your choice) + your proficiency bonus. On a failed save, the damage of your attack is doubled, and it automatically fails its saving throw against your Poisoned Knife feature. 
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Outlaw
-You hone your skills in larcenous arts. Burglars, bandits, pirates, and other criminals typically follow this specializa-tion, but so do rogues who prefer to not fight fair, using dirty tricks to gain the upper hand in combat. These rogues care little for tactics or discretion, and happily engages in a brawl head on.
+You hone your skills in larcenous arts. Burglars, bandits, pirates, and other criminals typically follow this specializa-tion, but so do rogues who prefer to not fight fair, using dirty tricks to gain the upper hand in combat. They care little for discretion, and happily engages in brawls head on.
 
 #### Firearm Intrigue
 When you choose this specialization at 3rd level, you gain proficiency with firearms.
@@ -4237,12 +4259,12 @@ You also gain an additional way to use your Sneak Attack you don't need advantag
 #### Quick Combatant
 Starting at 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this in-crease applies to that speed as well.
 
+\columnbreak
+
 #### Misdirection
 Starting at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature is within 5 feet of you, you can use your reaction to have the attack target that creature instead of you.
 
 You can use this feature a number of times equal to your Dexterity modifier, regaining uses after a short or long rest.
-
-\columnbreak
 
 #### Adrenaline Rush
 At 17th level, the rush of battle runs to your head. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your se-cond turn at your initiative minus 10. You can't use this feature when you are surprised.
@@ -4273,7 +4295,6 @@ Additionally, no matter what you say, magic that would determine if you are tell
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:790px; right:100px; width:200px;transform:rotate(70deg)' />
 
 \pagebreakNum
 
@@ -6230,18 +6251,6 @@ New backgrounds are presented later in this chapter, see also the Player's Handb
 \columnbreak
 
 #### Personality Traits
-
-
-
-
-
-
-
-
-
-
-
-
 Give your character two personality traits. Personality traits are small, simple ways to help you set your character apart from every other character. Your personality traits should tell you something interesting and fun about your character. They should be self-descriptions that are specific about what makes your character stand out. "I'm smart" is not a good trait, because it describes a lot of characters. "I've read every book in Dalaran" tells you something specific about your character's interests and disposition.
 
 Personality traits might describe the things your char-acter likes, his or her past accomplishments, things your character dislikes or fears, your character's self-attitude or mannerisms, or the influence of his or her ability scores.
@@ -6885,7 +6894,6 @@ If you have more than one spellcasting class, this table might give you spell sl
 
 For example, if you are the aforementioned shaman 3 / priest 4, you count as a 7th-level character when—
 
-
 \columnbreak
 
 determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level shaman spells. You can use the spell slots of those levels to cast the spells you do know.
@@ -6941,7 +6949,7 @@ A feat represents a talent or an area of expertise that gives a character specia
 
 At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
 
-You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow you can't benefit from the Grappler feat until your Strength is restored.
+You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Battlemage feat requires you to be able to cast a spell. If you lose your ability to cast spells somehow you can't bene-fit from the Battlemage spell until that ability is restored.
 
 The feats presented in this book are meant as additions to those presented in the 5th edition Player's Handbook.
 
@@ -6952,55 +6960,35 @@ The feats presented in this book are meant as additions to those presented in th
 You have improved you technique with spells in the heat of battle, you gain the following benefits:
  - You learn two cantrips of your choice from the mage spell list.
  - When you make a ranged spell attack, you do not suffer disadvantage on the attack roll if you are within 5 feet of the hostile creature.
- - Before you cast an instantaneous spell that requires a spell attack and are unable of hitting more than a single target, you can choose to take a -5 penalty to the spell attack roll. If the spell hits, you add +10 to the attack's damage.
+ - Before you cast an instantaneous spell that requires a spell attack and are unable of hitting more than a single target, you can choose to take a -5 penalty to the spell attack roll. If the spell hits, you add +10 to the spell's damage.
 
 ### Firearm Expert
-Thanks to extensive practice with firearms, you gain the following benefits:
- - You ignore the reload quality of firearms with which you are proficient.
+You have become excellent at the usages of firearms, gaining the following benefits:
+ - You ignore the reload quality of firearms with which <br>you are proficient.
  - Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.
  - When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a loaded one-handed firearm you are holding.
 
-### Firearm Weapon Adept
-Your have gained interest in firearms and their uses, you gain the following benefits:
+### Firearm Adept
+Your have become interested in the mechanical firearms and their uses, gaining the following benefits:
  - Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
  - You gain proficiency in the Tinker's tools.
  - You gain proficiency with firearms.
 
-### Racial Weapon Adept
-You have caught eye of the special weapons used by other races, you gain the following benefits:
+### Racial Weapon Master
+You have practiced extensively with the exotic weapons used by certain races, gaining the following benefits:
  - Increase your Strength or Dexterity score by 1, to a maximum of 20.
  - You gain proficiency with racial weapons.
 
-<div class='footnote'>PART 1 | CUSTOMIZATION OPTIONS</div>
-<img src='https://www.gmbinder.com/images/VOm1476.jpg' style='position:absolute; top:0px; right:-250px; width:900px' />
-<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
+\columnbreak
 
 ## Racial Feats
-Races on Azeroth are not equal in strength, the average tauren is considerably stronger than the average human. This section introduces a collection of special feats that allow you to empower your character's race further. These feats are each associated with a race from earlier in this book, and summarized in the Racial Feats table. A racial feat represents either a deepening connection to your race's culture or a physical transformation that brings you closer to an aspect of your
-race's lineage.
-
-The cause of a particular transformation is up to you and your DM. A transformational feat can symbolize a latent quality that has emerged as you age, or a transformation might be the result of an event in the campaign, such as exposure to powerful magic or visiting a place of ancient significance to your race. 
-
-##### Racial Feats
-|&nbsp; Race                    | Feat                     |
-|:------------------------------|:-------------------------|
-|&nbsp; Dwarf (wildhammer)      | Spiritual Guidance       |
-|&nbsp; Night Elf               | Darnassian Knowledge     |
-|&nbsp; Orc                     | Spiritual Guidance       |
-|&nbsp; Tauren                  | Spiritual Guidance       |
-|&nbsp; Tauren                  | Tauren Endurance         |
-|&nbsp; Troll                   | Spiritual Guidance       |
-|&nbsp; Troll                   | Zandalari Fury           |
-|&nbsp; Worgen                  | Hardened Predator        |
-|&nbsp; Worgen                  | Neither Beast nor Man    |
+A recial feat represents the power difference between Azeroths races. For example, a tauren is considerably stronger than the average human. Racial feats follow all the rules of normal feats.
 
 ### Darnassian Knowledge
-*Prerequisite: Night elf*
+*Prerequisite: Elf, kaldorei/shen'dralar*
 <div style='margin-top:-7px;'></div>
 
-Your studies and training have given you a deeper under-standing of your kin, unlocking unique gifts. You gain the following benefits:
+You have deeped your understanding of Night elves, unlocking unique gifts, gaining the following benefits:
  - Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
  - You have advantage on stealth checks made in dim or unlit surroundings, and any ability checks made to notice you are made with disadvantage.
  - When you fail a death saving throw, you can call upon a wisp to guide your path, changing the failure to a success. Once done, the essence of the wisp continues to linger in you for two long rests, making you unable to call upon the aid of another.
@@ -7009,29 +6997,19 @@ Your studies and training have given you a deeper under-standing of your kin, un
 *Prerequisite: Worgen*
 <div style='margin-top:-7px;'></div>
 
-You have become accustomed with your worgen worm, realizing some of the benefits that comes with the wolf-like shape. You gain the following benefits:
- - You have advantage on Wisdom (perception) checks that rely on hearing or smell.
+You have grown accustom to being a worgen, realizing the benefits that come with it, gaining the following benefits:
+
+ - You have advantage on Wisdom (perception) checks that rely on smell.
  - Whilst your hands are empty, you can take the dash action as a bonus action, using all four limbs to run.
  - Your fur has grown longer and thicker, making you unaffected by the effects of extreme cold.
  - When you roll a Hit Die to regain hit points, you roll the Hit Die twice and use either roll.
 
-<br>
-
-### Neither Beast nor Man
-*Prerequisite: Worgen*
-<div style='margin-top:-7px;'></div>
-
-You have managed to control your worgen curse in a way most cannot, keeping it suppressed inside and regaining a glimpse of your former self. You gain the following benefits:
- - Increase your Wisdom score by 1, to a maximum of 20.
- - As part of a short or long rest, you can transform your-self into a human. While human, you appear as you did before getting affected by the curse. When subject to a saving throw to not go feral, you roll the dice twice with advantage, and use either roll. Making an attack roll whilst human stirs your blood, immediately trans-forming you back into a worgen.
-
 ### Spiritual Guidance
-*Prerequisite: Dwarf (wildhammer), orc, tauren or troll*
+*Prerequisite: Dwarf, wildhamnmer, Orc, Tauren or Troll*
 <div style='margin-top:-7px;'></div>
 
-You've delved into the energy of spirits, the everlasting balance and harmony they bring to all life. You gain the following benefits:
- - Increase your Charisma score by 1, to a maximum of 20.
- - You gain proficiency in either Nature or Survival.
+You have seen the balance and harmony they bring to life, gaining the following benefits:
+ - Increase your Wisdom or Charisma score by 1, to a maximum of 20.
  - You have advantage on saving throws against being frightened.
  - You learn the *healing spirit* spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest.
 
@@ -7041,21 +7019,11 @@ You've delved into the energy of spirits, the everlasting balance and harmony th
 
 You gain leather tough hide and improved recovery through hard training. You gain the following benefits:
  - Increase your Strength, Dexterity or Constitution score by 1, to a maximum of 20.
- - Your hide thickens. While you aren't wearing armor, you add your Constitution modifier to your AC. You can use a shield and still gain this benefit.
+ - While you aren't wearing armor, you add your Constitu-tion modifier to your AC. You can use a shield and still gain this benefit.
  - Your hit point maximum increases by an amount equal to your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 1 hit point.
 
-### Zandalari Fury
-*Prerequisite: Troll*
-<div style='margin-top:-7px;'></div>
-
-The Zandalari trolls were able to channel their fury, a trait that has been passed down through ancient bloodlines to you. Making you a furious combatant for a short while.
-
-As an action, you enter a berserk for a number of rounds equal to your Strength modifier (minimum of 1), granting you a second action on each of your turns. This action can't be used on spells or spell-like abilities. 
-
-Once the berserk ends, you gain one level of exhaustion, and cannot use this ability again until you finish a long rest.
-
-<img src='https://www.gmbinder.com/images/nSelxYT.jpg' style='position:absolute; top:940px; right:0px; width:520px' />
-<img src='https://www.gmbinder.com/images/x5MXJJ4.png' style='position:absolute; top:-100px; right:-50px; width:1200px;transform:rotate(185deg)' />
+<div class='footnote'>PART 1 | CUSTOMIZATION OPTIONS</div>
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
