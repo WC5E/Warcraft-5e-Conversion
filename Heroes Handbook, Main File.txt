@@ -35,9 +35,9 @@ So, Matthew McKeown, Astri Lohne, Jason Wang, Peet
 
 Cooper, Wei Wang, Ryan Metcalf, Ina Wong, Tyson
 
-Murphy, Jerry Mascho, Aaron Lovett, Dariia
+Murphy, Jerry Mascho, Aaron Lovett, Kristina
 
-Kasimova
+Toxicpanda, Dariia Kasimova
 
 <br> **Based on the original D&D game created by** 
 <br>&nbsp;&nbsp;&nbsp; E. Gary Gygax and Dave Arneson, as well as <br>&nbsp;&nbsp;&nbsp; Brian Blume, Rob Kuntz, James Ward and Don Kaye.
@@ -1605,8 +1605,7 @@ You will likely notice that there are two class suggestion charts. One for Pre-C
 
 | **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ***Elf, blood*** | | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | | ✦ |
-| ***Elf, high*** | | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
+| ***Elf, high***  | | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
 | ***Elf, night*** | ✦ | ✦ | | | ✦ | ✦ | | | ✦ | ✦ |
 </div>
 
@@ -1619,18 +1618,239 @@ You will likely notice that there are two class suggestion charts. One for Pre-C
 
 | **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ***Elf, blood*** | | ✦ | ✦ |  ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ |
-| ***Elf, high*** | | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
-| ***Elf, highborne*** | | ✦ | ✦ | | | ✦ | ✦ | | ✦ | ✦ | | |
-| ***Elf, night*** | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | | ✦ | ✦ | ✦ |
+| ***Elf, high***       | | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ |
+| ***Elf, night***      | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | | ✦ | ✦ | ✦ |
 | ***Elf, nightborne*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
-| ***Elf, void*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
-| ***Pandaren*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | | |
+| ***Elf, void***       | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
+| ***Pandaren***        | | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | | |
  </div>
 
 <div class='footnote'>PART 1 | RACES </div>
-<img src='https://www.gmbinder.com/images/7l6giKu.jpg' style='position:absolute; top:700px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-150px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/8SWMqKb.jpg' style='position:absolute; top:650px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-200px; right:0px; width:900px' />
+
+\pagebreakNum
+
+<div style='margin-top:560px;'></div>
+
+## Elves
+*Magic has long been a vice of the elves. It shaped us, and lifted us out of the darkness --but without balance, it also threatens to unmake us*
+<div style="text-align:Right"> 
+
+*— Valewalker Farodin* &nbsp;</div>
+<div style='margin-top:-5px'></div>
+
+Elves are amongst the longest lived species on Azeroth, know for their keen perception, extraordinary grace, and unfathomable spellwork. The origin of their race had been lost to history for thousands of years, until the young Brann Bronzebeard confirmed that the first elves were originally dark trolls, transformed by the influence of the Well of Eternity, a fact night elves have refused to accept due to their hatred to the trolls on Azeroth.
+
+Elves come in many flavors, the four most dominant of which are the high elves, most of whom are now known as blood elves, nightborne, night elves, and void elves.
+
+### Proud Nations
+All elven societies are fiercely proud of their heritage, they place great emphasis on the love their profess for their homeland. This is especially true of high elves and night elves, these species of elves have claimed vast regions as their own, having made it their home, and will protect it with their full force if it is threatened. Their isolated king-doms sit as prominent beacons for the rest of their kin to return too, and many amongst them prefer this isolation over the shared borders of other rulers on Azeroth.
+
+\columnbreak
+
+<div style='margin-top:650px;'></div>
+
+### The Long View
+Elves have a natural life span that far exceeds that or other races on Azeroth, only extended further by their magical founts of power. Not surprisingly, this trait affects their attitude and outlook toward every aspect of mortal life.
+
+Events from centuries ago that are distant or even ancient history to other races might have been experienced firsthand by many elves who are still alive. And an elf's memory of such events is likely more accurate than a well-researched historian's. 
+
+The elven sense of value as it relates to time is hard for humans to comprehend. An elf seldom becomes sentimen-tally attached to physical objects such as manufactured structures and furnishings, except those of personal signi-ficance, for the simple reason that the object is likely to become decrepit before the elf does. Even fine jewelry and steel swords become tarnished and pitted, succumbing to the ravages of age before the years of their elven owner comes to an end.
+
+<div class='footnote'>PART 1 | RACES</div>
+<img src='https://www.gmbinder.com/images/ZRQhHxE.jpg' style='position:absolute; top:0px; right:0px; width:1100px' />
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-200px; right:-90px; width:1200px;transform:rotate(-30deg)' />
+<img src='https://www.gmbinder.com/images/IkDIKdW.png' style='position:absolute; top:30px; right:-60px; width:500px' />
+<img src='https://www.gmbinder.com/images/PQRFzDH.png' style='position:absolute; top:910px; right:40px; width:330px;transform:rotate(90deg)' />
+
+\pagebreakNum
+
+### A Timeless Perspective
+Elves can live to become thousands of years of age, giving them a broad perspective on events that might trouble the shorter-lived races more deeply. Often more amused than excited, and more likely to be curious than greedy. They tend to remain aloof and unfazed by petty happenstance. When pursuing a goal however, whether adventuring on a mission or learning a new skill or art, elves can be focused and relentless. They are slow to make friends and enemies, and even slower to forget them. They reply to petty insults with disdain and to serious insults with vengeance.
+
+Like the branches of a young tree, elves are flexible in the face of danger. They trust in diplomacy and compro-mise to resolve differences before they escalate to violence. When the need arises, elves reveal in stern martial side, demonstrating skill with sword, bow, arcane and strategy.
+
+### Elven Names and Ethnicities
+Even though all elves originate from the night elves, each subrace has changed since the ancient times. Unique cultures have been established, and meddling with founts of power has altered the elves appearance from the night elven forefathers.
+
+#### High Elf
+Founders of the Quel'Thalas empire at the north peak of the Eastern Kingdoms. High elves stand much shorter than the rest of their kin, looking more like exceptionally stun-ning humans, with skin in hues of pale and fair skin, and long ears. Their hair varying from blond to black. There is little physical distinction between high elves and blood elves, except for their eyes. High elves eyes glow with a dim light gray to blue color, whilst blood elves produce an emerald green. 
+
+There is no difference between high and blood elven first names. Blood elves commonly take more aggressive sur-names compared to their uncorrupted kin.
+<div style='margin-top:-5px;'></div>
+
+**Male Names:** Mariel, Athaniar, Anador, Tharama, Viridiel, <br>&nbsp;&nbsp;&nbsp; Malanior, Eraeth, Ulorath, Yehru, Kithadre
+<br>**Female Names:** Anarial, Freja, Driana, Coria, Alanassori, <br>&nbsp;&nbsp;&nbsp; Melanion, Azshara, Curlih, Setori, Amorly, Zama
+<br>**Surnames:** Coldtrail, Nightfeast, Darkgift, Glowvein, <br>&nbsp;&nbsp;&nbsp; Warmblood, Dawntrick, Solarmind, Phoenixdreamer
+
+#### Nightborne
+Sealed off in their city of Suramar, without sunlight and their Nightwells arcane seeping out. Nightborne resemble night elves, their slender bodies meager in comparison, just imposing with their height. Nightbornes skin is hues of purple, and their bodies often show magical tattoos that dimly shine over the body, depicting arcane symbols of various kinds. Their hair ranges from white to shades of gray, always with a tint of blue or purple.
+
+To outsiders their names appear Darnassian, and some still are. Yet Nightbornes language have changed from their ancient tongue, as have their names, but the elves still follow the Kaldorei naming traditions.
+
+<div style='margin-top:-5px;'></div>
+
+**Male Names:** Absolon, Astoril, Oculeth, Lespin, Silgryn, <br>&nbsp;&nbsp;&nbsp; Almon, Ailen, Vanthir, Sylverin, Rosaine, Thorendis
+<br>**Female Names:** Valtrois, Iadreth, Anastae, Ly'leth, Theryn, <br>&nbsp;&nbsp;&nbsp; Ambrena, Anaryys, Naran, Ke'lorin, Arluelle, Noressa
+<br>**Surnames Names:** Luneastre, Astravar, Swiftmeadow, <br>&nbsp;&nbsp;&nbsp; Moonblade, Silverleaf
+
+<div class='footnote'>PART 1 | RACES</div>
+<img src='https://www.gmbinder.com/images/UWr8pFE.jpg' style='position:absolute; top:0px; right:-400px; width:1910px' />
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/YybtIq9.png' style='position:absolute; top:965px; right:435px; width:300px;transform:rotate(60deg)' />
+
+\pagebreakNum
+
+#### Night Elf
+Imposing in stature, night elves stand as one of the highest race of elves and on Azeroth, with their muscular bodies and slender builds, and long narrow ears. Their skin range in hues of blue, from a light blue sky to the deep blue of the water. With hair varying from a lush green, to blue, to dark purple. It is customary among night elves to paint tattoos across their faces, generally depicting an animal or leaf like design. Their eyes shine with a dim glow of gold.
+
+Kaldorei names commonly have a hidden meaning or a meaning in Darnassian, and their surnames aren family names, derived from personal feats of the night elves ancestors, yet some amongst night elves take new family names showing their own achievements.
+<div style='margin-top:-5px;'></div>
+
+**Male Names:** Alegorn, Daros, Eiron, Mathrengyl, Mardant, <br>&nbsp;&nbsp;&nbsp; Gasul, Lanoth, Khardona, Andissiel, Sillarn
+<br>**Female Names:** Astaia, Saelienne, Jeen'ra, Lelanai, Keina, <br>&nbsp;&nbsp;&nbsp; Alathea, Lotherias, Cordessa, Aquinne
+<br>**Family Names:** Moonlance, Shadewhisper, Nightrunner, <br>&nbsp;&nbsp;&nbsp; Bearwalker, Briarbow, Moonblade, Proudstrider
+
+#### Void Elf
+Void elves were blood elves in the past, a fact that is easily seen by their features, as they physically resemble the rest of their kin. Void elves skin protrudes a hue of purple that varies from subtle to intensely so. Their hair have turned dark, varying from dark blue, to gray, to black. These elves eyes show a dim light of deep blue or purple.
+<div style='margin-top:-5px;'></div>
+
+**Void Elf Names:** Void elves are blood elves, exiled and transformed by the void. Because of that these elves still use blood elven names and traditions.
+
+### Elf Traits
+Your elf character has few natural abilities that are shared amongst all of the elven kin.
+
+***Ability Score Increase.*** Your Dexterity increases by 1.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Darkvision.*** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+***Keen Senses.*** You are proficient in the Perception skill.
+
+***Subrace.*** Ancient and recent divides among the elven people resulted in six main subraces: blood elves, high-borne elves, high elves, nightborne elves, night elves, and void elves. Choose one of these subraces.
+
+#### High Elf
+Hailing from the proud empire of Quel'Thalas, high elves are exceptional arcanists, descended from the exiled high-bornes who left their Kaldorei kin thousands of years ago. These elves were nearly extinct during the Third war, and what remains of them have renamed themselves Sin'dorei, blood elves, in honor of their fallen kin.
+
+##### Affiliation
+The Quel'dorei have long been allies with races of the Alliance, being one of its founding races. They have a close connection to the humans, who they have fought besides in past wars, and taught how to use arcane.
+
+The Sin'dorei have joined the Horde. After the third war, the atrocities dealt to their kin by the ill-informed humans lead them to distrust the Alliance greatly. Convinced by the former high elven General Sylvanas Windrunner, and with her speak-ing on their behalf to the leaders of the Horde.
+
+<br>
+
+&nbsp;&nbsp;&nbsp; Even though high elves and blood elves are physically the same, the elves do not get along well. What remains of the high elves see their other kin as traitors, and tainted. And blood elves are split between wishing to reunite their empire, and seeing their high elven kin as dishonored for their actions against them.
+<div style='margin-top:0px;'></div>
+
+&nbsp;&nbsp;&nbsp; ***Ability Score Increase.*** Your Dexterity increases by 1, and your Intelligence increases by 1.
+
+***Age.*** High elves reach adulthood at the rate of humans, but are not considered to have entered adulthood until they reach 60, and can live to become many hundreds of years old with ease. That said, many of the high elves have lived for thousands of years due to the power of the Sunwell extending their lifespan.
+
+***Alignment.*** High elves lies in a very militant society, strict rules have been made for people to uphold, pushing most towards a lawful alignment.
+
+***Size.*** High elves are just under 6 feet tall and weigh between 100 and 175 pounds. Your size is medium.
+
+***Arcane Affinity.*** You can cast *detect magic* and *magic weapon* with this trait, Intelligence is your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest.
+
+***Cantrip.*** You know one cantrip of your choice from the mage spell list. Intelligence is your spellcasting ability for it.
+
+***Quel'dorei Weapon Training.*** You are proficiency in longbows, sin'dorei warblades, and warglaives.
+
+***Languages.*** You can speak, read, and write Common, Thalassian, and one extra language of your choice. Tha-lassian is a derivative of the Darnassian language, and in many ways sound the same to an inexperienced ear.
+
+#### Nightborne Elf
+Since the war of the ancient, the Shal'dorei have been sealed away from the rest of the world, locked within their city of Suramar. Without sunlight, and their ever present Nightwell, the highborne elves of the city began to chance. They evolved into Nightborne, elves unique from the rest of their kin. They've become masters of Arcane, capable of wielding it with great ease to perform extraordinary feats.
+
+##### Affiliation
+The Shal'dorei have been severed from the world for many thousands of years, originally hailing from the Highborne night elves, many Nightborne wished to return to their kin. The night elves saw the careless use of arcane in the elves, knowing what it did to their civilization so many years ago.
+Most Nightbornes have joined the horde, seeing the hunger the blood elves had for their Sunwell in the past. 
+<div style='margin-top:0px;'></div>
+
+&nbsp;&nbsp;&nbsp; ***Ability Score Increase.*** Your Intelligence increases by 2.
+
+***Age.*** Although nightborne elves reach physical maturity at about the same age as humans, their understanding of adulthood goes beyond physical growth to encompass worldly experience. Nightborne typically claims adulthood and an adult name around the age of 100 and can live to become several thousand years old. Sustained by the Night-well, many have lived since the War of the Ancient.
+
+***Alignment.*** Order and structure are key to nightborne. Their society believes that reputation and status are of the utmost concern, and that mortality and principles of right and wrong are viewed too often in that light. Giving most nightborne a lawful alignment.
+
+***Size.*** Nightborne are around 7 feet tall and weigh between 180 and 240 pounds. Your size is medium.
+
+<div class='footnote'>PART 1 | RACES</div>
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+
+\pagebreakNum
+
+&nbsp;&nbsp;&nbsp; ***Lorekeeper.*** You gain proficiency with the Arcana and the artisan's tool (calligrapher's supplies).
+
+***Mental Warding.*** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+
+***Superior Darkvision.*** Your darkvision has a <br>radius of 120 feet.
+
+***Sunlight Sensitivity.*** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
+***Languages.*** You can speak, read, and write Common and Shalassian. Shalassian, like Thalassian, originates from the Darnassian language. Its dialect has been scrutinized through the ages, making it nearly impossible for members outside of the Nightborne to read or write.
+
+#### Night Elf
+Proud and ancient, the kaldorei once ruled Azeroth as one powerful nation. They were the first to study magic and let it loose throughout the world during the First war. Since then most night elves have abandoned arcane, remember-ing the chaos it brought, turning their attention to raw strength, or the powers of nature.
+
+##### Affiliation
+The Kaldorei joined the alliance after the third great war. The war had cost the elves many of their former allies, who had fallen into madness and abandoned the alliance they had with the night elves.
+
+Even though much of the kaldorei nation has joined the Alliance, many among them have chosen to stay neutral. Night elves of the Cenarion Circle, for example, choose to stay out of the faction conflict, and turned their attention towards the protection of Azeroth's nature.
+
+Night elves have a disgust and suspicion of the high elves. They remember the atrocities their forefathers the highborne did, and have not forgiven them for it. Despite the grudge, they have worked together in the past when it was deemed a necessity for survival.
+<div style='margin-top:0px;'></div>
+
+&nbsp;&nbsp;&nbsp; ***Ability Score Increase.*** Your Dexterity increases by 1, and your Wisdom increases by 1.
+
+***Age.*** Night elves reach physical maturity at the pace of humans, but the night elven understanding of adulthood goes beyond physical growth. Night elves typically claim adulthood and an adult name around the age of 100, and can live to become thousands of years old. 
+
+***Alignment.*** Night elves live in close ties with the natural world, they have an unprecedented connection to nature and protect it fiercely, pulling many night elves towards good. They love freedom and variety, making most lean toward the gentler aspects of chaos as well.
+
+***Size.*** Night elves are between 7 and 8 feet tall and weigh between 210 and 250 pounds. Your size is medium.
+
+***Nature Resistance.*** You have advantage on saving throws against poison, and you have resistance against poison damage.
+
+***Quickness.*** Your base walking speed increases to 35 ft.
+
+\columnbreak
+
+&nbsp;&nbsp;&nbsp; ***Shadowmeld.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+
+***Kaldorei Weapon Training.*** You are proficient in longbows, kaldorei moonglaives, kaldorei moon swords, and warglaives.
+
+***Languages.*** You can speak, read, and write Common and Darnassian. Darnassian is fluid, with subtle intonations and intricate grammar. Its literature is rich and varied, and their songs and poems are famous among other races.
+
+#### Void Elf
+Infused by the void itself, the Ren'dorei were exiled from their homeland of Quel'Thalas for researching the void itself. They were left in dark beyond, and transformed by ethereals of the void. They were rescued by the high elf Alleria Windrunner, who had gained mastery of the void on the planet of Argus, and pledged their loyalty to her.
+
+##### Affiliation
+The Ren'dorei were exiled by their blood elven kin for what they meddled with, because of that they have little respect for the rest of their kin. When the offer of rejoining the Alliance came by the high elf Alleria Windrunner, the elves were quick to accept, and have been welcomed into the Alliance with open arms.
+
+They care little for the rest of their blood elven kin, and have been deemed outcasts. Unwelcome within their old kingdom of Quel'Thalas.
+<div style='margin-top:0px;'></div>
+
+&nbsp;&nbsp;&nbsp; ***Ability Score Increase.*** Your Constitution score increases by 1, and Intelligence score increases by 1.
+
+***Age.*** Void elves reach adulthood at the rate of humans, but are not considered to have entered adulthood until they reach 60, and can live to become many hundreds of years old with ease. That said, many of the void elves have lived for thousands of years due to the power of the Sunwell extending their lifespan.
+
+***Alignment.*** Most void elves tend to be lawful, much like their blood elven kin. Those who do become chaotic are
+those who lose control of their void powers and become consumed by them.
+
+***Size.*** Void elves in many ways resemble humans, but with slender builds, and much more refined features. Usually just over 6 feet tall, with very little difference between male and females. Your size is Medium.
+
+***Chill of Night.*** You have resistance to Necrotic damage.
+
+***Spatial Rift.*** As a bonus action, you can open a rift in space and time to an unoccupied space you can see, within 30 feet of your current position. Once you use this trait, you can’t do so again until you finish a long rest.
+
+Starting at 3rd level, you also gain resistance to all damage when you go through the the spatial rift. The resistance lasts until the start of your next turn. During that time, you are enveloped in void energy.
+
+***Languages.*** You can speak, read, and write Common and Thalassian. Thalassian is a derivative of the Darnassian language, and in many ways sound the same to an inexperienced ear.
+
+<div class='footnote'>PART 1 | RACES</div>
+<img src='https://www.gmbinder.com/images/BVDovE1.jpg' style='position:absolute; top:900px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:990px' />
 
 \pagebreakNum
 
