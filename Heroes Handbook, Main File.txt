@@ -3392,35 +3392,35 @@ Almost by definition, the life of a paladin is an adventuring life. Unless a las
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/FZTQ2lN.jpg' style='position:absolute; top:0px; right:0px; width:1000px' />
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-400px; right:-200px; width:1500px;transform:rotate(-25deg' />
-<img src='https://www.gmbinder.com/images/0n7W30Z.png' style='position:absolute; top:100px; right:250px; width:600px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/0n7W30Z.png' style='position:absolute; top:130px; right:250px; width:600px;transform:scalex(-1)' />
 
 \pagebreakNum
 
 <div class='classTable wide'>
 
 ##### The Paladin
-|Level|Proficiency<br>Bonus|Features|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;|Auras<br> Known|
-|:---:|:--:|:------------------------------------------|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|
-| 1st | +2 | Divine Sense, Lay on Hands                               |—||—||—||—||—||—|
-| 2nd | +2 | Fighting Style, Spellcasting, Crusader Strike            |2||—||—||—||—||—|
-| 3rd | +2 | Sacred Oath, Divine Auras                                |3||—||—||—||—||1|
-| 4th | +2 | Ability Score Improvement                                |3||—||—||—||—||1|
-| 5th | +3 | Extra Attack                                             |4||2||—||—||—||1|
-| 6th | +3 | —                                                        |4||2||—||—||—||2|
-| 7th | +3 | Sacred Oath feature                                      |4||3||—||—||—||2|
-| 8th | +3 | Ability Score Improvement                                |4||3||—||—||—||2|
-| 9th | +4 | —                                                        |4||3||2||—||—||3|
-| 10th| +4 | —                                                        |4||3||2||—||—||3|
-| 11th| +4 | Improved Crusader Strike                                 |4||3||3||—||—||3|
-| 12th| +4 | Ability Score Improvement                                |4||3||3||—||—||3|
-| 13th| +5 | —                                                        |4||3||3||1||—||4|
-| 14th| +5 | Cleansing Touch                                          |4||3||3||1||—||4|
-| 15th| +5 | Sacred Oath feature                                      |4||3||3||2||—||4|
-| 16th| +5 | Ability Score Improvement                                |4||3||3||2||—||4|
-| 17th| +6 | —                                                        |4||3||3||3||1||5|
-| 18th| +6 | Divine Aura Improvement                                  |4||3||3||3||1||5|
-| 19th| +6 | Ability Score Improvement                                |4||3||3||3||2||5|
-| 20th| +6 | Avenging Wrath                                           |4||3||3||3||2||5|
+|Level|Proficiency<br>Bonus|Features|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|
+|:---:|:--:|:----------------------------------|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|
+| 1st | +2 | Divine Sense, Lay on Hands                               |—||—||—||—||—|
+| 2nd | +2 | Fighting Style, Spellcasting, Crusader Strike            |2||—||—||—||—|
+| 3rd | +2 | Sacred Oath, Divine Aura (1/rest)                        |3||—||—||—||—|
+| 4th | +2 | Ability Score Improvement                                |3||—||—||—||—|
+| 5th | +3 | Extra Attack                                             |4||2||—||—||—|
+| 6th | +3 | Divine Aura (2/rest)                                     |4||2||—||—||—|
+| 7th | +3 | Sacred Oath feature                                      |4||3||—||—||—|
+| 8th | +3 | Ability Score Improvement                                |4||3||—||—||—|
+| 9th | +4 | —                                                        |4||3||2||—||—|
+| 10th| +4 | Divine Aura (3/rest)                                     |4||3||2||—||—|
+| 11th| +4 | Improved Crusader Strike                                 |4||3||3||—||—|
+| 12th| +4 | Ability Score Improvement                                |4||3||3||—||—|
+| 13th| +5 | —                                                        |4||3||3||1||—|
+| 14th| +5 | Cleansing Touch, Divine Aura (4/rest)                    |4||3||3||1||—|
+| 15th| +5 | Sacred Oath feature                                      |4||3||3||2||—|
+| 16th| +5 | Ability Score Improvement                                |4||3||3||2||—|
+| 17th| +6 | Divine Aura (5/rest)                                     |4||3||3||3||1|
+| 18th| +6 | Divine Aura Improvement                                  |4||3||3||3||1|
+| 19th| +6 | Ability Score Improvement                                |4||3||3||3||2|
+| 20th| +6 | Sacred Oath feature                                      |4||3||3||3||2|
 </div>
 
 &nbsp;&nbsp;&nbsp; Adventuring paladins take their work seriously. A delve into an ancient ruin or dusty crypt can be a quest driven by a higher purpose than the acquisition of treasure. Evil lurks in dungeons and primeval forests, and even the smallest victory against it can tilt the cosmic balance away from oblivion.
@@ -3516,7 +3516,6 @@ Charisma is your spellcasting ability for your paladin spells, since their power
 **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
 
 **Spell attack modifier** = your proficiency bonus + your Charisma modifier
-
 </div>
 
 #### Spellcasting Focus
@@ -3533,7 +3532,9 @@ When you reach 3rd level, you swear the oath that binds you as a paladin forever
 
 \pagebreakNum
 
-&nbsp;&nbsp;&nbsp; Your choice grants you features at 3rd level and again at 7th, and 15th level. Those features include oath spells and the Channel Divinity feature.
+<div style='margin-top:140px;'></div>
+
+&nbsp;&nbsp;&nbsp; Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
 
 #### Oath Spells
 Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.
@@ -3548,30 +3549,32 @@ When you use your Channel Divinity, you choose which option to use. You must the
 Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
 
 ### Divine Auras
-Starting at 3rd level, you are able to emit parts of your divi-nity onto creatures within 10 feet of you. At 3rd level you know one aura of your choice from the list below. When you gain certain paladin levels, you learn additional auras of your choice as shown in the Auras Known column of the Paladin table. Additionally, when you learn a new aura, you can choose one of the auras you know and replace it with another aura from the list. 
+Upon reaching 3rd level, you are able to emit your divinity onto creatures within 10 feet of you as divine auras. You know all divine auras detailed below.
 
-Upon reaching 18th level, the range of your auras increase to 30 feet.
+When you use your Divine Aura, you choose which effect to create. The aura persists for 1 hour before vanishing. You must then finish a long rest to use a Divine Aura again.
 
-You can active a known aura as a bonus action. The aura lasts until you dismiss it using a free action, or until your concentration is broken. You can have multiple auras active at once, each taking a bonus action to active, and sharing a single concentration check.
+Beginning at 6th level, you can use your Divine Aura twice between rests, and you gain an additional use at 10th, 14th, and 17th level. When you finish a long rest, you regain your expended uses.
 
-You can use this feature a number of times equal to your Charisma modifier, regaining expended uses when you finish a short or long rest.
+At 18th level, the range of your aura increases to 30 feet.
 
 #### Aura of Courage
-The light stirs the soul of your allies, empowering their courage to keep fighting. You and friendly creatures within range can't be frightened or charmed.
+You and friendly creatures can't be charmed or frightened.
 
 #### Aura of Devotion
-Whenever you or a friendly creature within range must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1).
+Whenever you or a friendly creature must make a saving throw, the creature gains a bonus to their saving throw equal to your Charisma modifier (minimum of 1).
 
 #### Aura of Protection
-When a creature within range takes damage, you can use your reaction to magically take that damage, instead of that creature taking it. This feature doesn't transfer any other effects that might accompany the damage, and this damage can't be reduced in any way.
+Whenever you or a friendly creature is hit by a weapon attack, its damage is reduced by an amount equal to your Charisma modifier. Damage can't be reduced below 1.
 
 #### Aura of Resistance
-Your divine energy wraps around allies, guarding them from harmful spells. You and friendly creatures within range gain resistance to damage dealt by spells. 
+You and friendly creatures within range gain resistance to damage dealt by spells. 
+
+#### Aura of the Crusader
+Whenever you or a friendly creature hits with a weapon attack, the creatures attack deals additional fire damage equal to your Charisma modifier (minimum of 1).
 
 \columnbreak
 
-#### Aura of the Crusader
-Whenever you or a friendly creature within range hits with a weapon attack, the creatures attack deals additional fire damage equal to your Charisma modifier (minimum of 1).
+<div style='margin-top:130px;'></div>
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -3587,30 +3590,8 @@ Beginning at 14th level, you can use your action to end one spell on yourself or
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of one), regaining expend-ed uses when you finish a long rest.
 
-### Avenging Wrath
-At 20th level, you may draw upon the empowerment of the light. As a bonus action, you get empowered by the divine energy of the light, sprouting wings of pure light from your back, giving you a fly speed equal to your movement speed. Avenging Wrath lasts for 1 minute, giving you an additional benefit depending on your Sacred Oath.
-
-Once you have used this feature, you can't use it again until you finish a long rest.
-
-#### Holy: Lightbringer
-When you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
-
-#### Protection: Guardian of Kings
-You have resistance to all damage dealt by other creatures, and all allies within 30 feet of you feel the holy lights presence, granting them advantage on death saving throws.
-
-#### Retribution: Divine Judgment
-Your Crusader Strike and Improved Crusader Strike deals 1d12 radiant damage instead of 1d8. Additionally, you over-flow with daylight, as if affected by a *Daylight* spell, giving attack rolls against you disadvantage.
-
 ## Sacred Oath
-Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the paladin's training. Some characters with this class don't consider—
-
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/K77CAeV.png' style='position:absolute; top:910px; right:440px; width:350px;transform:rotate(40deg)' />
-
-\pagebreakNum
-
-&nbsp;&nbsp;&nbsp; themselves true paladins until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin's heart.
+Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the paladin's training. Some characters with this class don't consider themselves true paladins until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin's heart.
 
 ### Oath of the Holy
 Like priests who serve the Light, holy paladins are devout in their faith. Those who pledge themselves to the holy oath becomes beacons of the Light for their allies in conflict, taking up the heavy armor and weaponry of justice.
@@ -3627,29 +3608,35 @@ You gain oath spells at the paladin levels listed.
 | 13th | death ward, guardian of faith            |
 | 17th | holy weapon, mass cure wounds            |
 
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/FZTQ2lN.jpg' style='position:absolute; top:-200px; right:0px; width:1050px' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-200px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:0px; right:0px; width:1000px' />
+
+\pagebreakNum
+
 #### Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-***Light of Dawn.*** As an action, you present your holy symbol and release a burst of radiant healing that can restore a number of hit points equal to five times your paladin level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point max-imum. You can't use this feature on an undead or construct.
+***Light of Dawn.*** As an action, you present the holy light and release a burst of radiant healing that can restore a number of hit points equal to three times your paladin level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. <br> You can't use this feature on an undead or construct.
 
-***Light's Hammer.*** As an action, you slam a divine maul into the ground at a point within 30 feet of you, causing the ground to erupt in holy light in a 10-ft radius. Any ally within range is healed for twice your paladin level. Any enemy within range must make a Constitution saving throw, taking your paladin level in radiant damage on a failed save, and half as much on a successful one.
+***Light's Hammer.*** As an action, you slam a divine maul into the ground at a point within 30 feet of you, causing the ground to erupt in holy light in a 10-ft radius. Any ally within range is healed equal to your paladin level, and all enemies within range must make a Constitution saving throw, taking your paladin level in radiant damage on a failed save, and half as much on a successful one.
 
 #### Soothing Hand
-At 3rd level, you are able to channel the effects of your Lay on Hands over a distance, being able of targeting a creature of up to 30 feets away from you, instead of requiring to touch them.
+Beginning at 7th level, you are able to use your Lay on Hands on targets that are within 30 feet of you, instead of requiring to touch them.
 
-#### Holy Radiance
-Starting at 7th level, holy light flows through your spells for a short distance. Whenever you heal a target within 20 feet of you with a spell, the target gains additional hit points equal to half your paladin level.
+#### Divine Shield
+Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can't use it again until you finish a long rest. 
 
-#### Beacon of Light
-At 15th level, you are able to mark an ally through the holy light. Using a bonus action you mark an ally within 60 feet of you. Whenever you target a creature with a spell that regains hit points, the marked ally is healed for half of the hit points regained. If the marked ally moves beyond 120 feet of you, the bond is broken and the beacon of light ends.
+#### Lightbringer
+At 20th level, you can envelope your body in the warmth of the holy light, making your skin shine a bright golden light. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
+ - At the start of your turns, you regain 10 hit points.
+ - Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using a bonus action instead.
+ - Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options.
+ - You shine bright light in a 20-ft radius around you, and dim light for an additional 20 feet.
+<div style='margin-top:-5px;'></div>
 
-Beacon of Light requires your concentration, and lasts for up to 1 minute. Once you have used this feature, you can't use it again until you finish a short or long rest.
-
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/psqmVcl.jpg' style='position:absolute; top:0px; right:-205px; width:790px' />
-<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
+&nbsp;&nbsp;&nbsp; Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Oath of Protection
 Stalwart and steadfast, these protectors are ardent defen-ders of the Light and all that it touches, and are rejuvenated by its radiance in return. Dedicated to their cause, they con-secrate the very ground upon which they battle corruption.
@@ -3666,33 +3653,42 @@ You gain oath spells at the paladin levels listed.
 | 13th | aura of purity, death ward          |
 | 17th | banishing smite, reincarnate        |
 
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/psqmVcl.jpg' style='position:absolute; top:0px; right:-205px; width:790px' />
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/K77CAeV.png' style='position:absolute; top:910px; right:440px; width:350px;transform:rotate(40deg)' />
+
+\pagebreakNum
+
 #### Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-***Avenger's Shield.*** As an action, you embude your shield with divine energy, making you able to throw a radiant copy of it. Make a ranged weapon attack using your strength modifier against a target within a range of 30/90 feet. On a hit, the target takes 1d6 + your Strength modifier radiant damage. If the creature is concentration on a spell, checks made to keep concentration is made with disadvantage.
+***Avenger's Shield.*** As an action, you can toss a radiant copy of a wielded shield against a target within 60 feet of you as part of the same action. The target must make a Constitution saving throw. On a failed save, the target takes radiant damage equal to your paladin level, or half as much damage on a successful one. If the target is concentrating on a spell, their check made to keep concentration is made with disadvantage.
 
-Upon reaching 7th level, your shields damage increases by 1d6 (2d6), 13th level (3d6), and 20th level (4d6). Additionally, each time its damage increases, your shield is able to bounce to an additional target beyond the first, making a seperate ranged attack against each target. Each target beyond the first has to be within 30 feet of the last target hit.
-
-***Consecration.*** As an action, you consecrate the land around you, causing the terrain in a 15 foot radius around you to become difficult terrain, any creature enters, or ends their turn within consecration must make a Constitution saving throw, taking half your paladin level in fire damage on a failed save, and half the damage dealt on a success.
-
-Consecration requires your concentration, and lasts for up to a minute. When you use this feature, you may choose a number of creatures equal to your Charisma modifier that is unaffected by Consecrations difficult terrain and fire damage.
-
-#### Divine Health
-At 3rd level, the holy light flows through your veins, making you immune to diseases.
+***Consecration.*** As an action, you consecrate the land around you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die, or if the creature is moved more than 30 feet away from you.
 
 #### Holy Shield
-Starting at 7th level, whenever an enemy makes a melee weapon attack against you, and does not hit you with the attack, you can use your reaction to deal half your paladin level in radiant damage back onto the target. 
+Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can't be reduced or prevented in any way.
 
-#### Divine Guardian
-At 15th level, when you finish a short or long rest, you can choose any number of allies within 30 feet of you to grant temporary hit points equal to half your paladin level + your Charisma modifier. The temporary hit points lasts for 1 hour before vanishing.
+#### Guarded by the Light
+At 15th level, the holy light mends your wounds in battle.  You regain hit points equal to 1d6 + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't incapacitated.
 
-\columnbreak
+#### Ardent Defender
+At 20th level, you armor is replaced by heavy plates of divine energy, your presence on the field of battle becoming an inspiration to those around you. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
+ - You have resistance to bludgeoning, piercing, and slashing from nonmagical weapons.
+ - Your allies have advantage on death saving throws while within 30 feet of you.
+ - You have advantage on Wisdom saving throws, as do your allies within 30 feet of you.
+<div style='margin-top:-5px;'></div>
+
+&nbsp;&nbsp;&nbsp; Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Oath of Retribution
 Retribution paladins are vengeful guardians of the weak, crusaders judging and punishing the wicked. Their resolute conviction in the divine order of all things assures them that victory is inevitable, but they will fight to the end to ensure that the Light prevails.
 
 #### Oath Spells
 You gain oath spells at the paladin levels listed.
+
+\columnbreak
 
 ##### Oath of Retribution Spells
 | Paladin Level| Spells                         |
@@ -3706,25 +3702,30 @@ You gain oath spells at the paladin levels listed.
 #### Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-***Weapon of Justice.*** As an action, you slam a divine weapon down upon an enemy within 30 feet, the target has to make a Constitution saving throw, or be stunned for a number of rounds equal to you Charisma modifier, or until it takes damage. The target can make a new saving throw at the end of its turns, ending the effect on a success.
+***Sword of Light.*** As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
 
-***Mark of Vengeance.*** As a bonus action, you place a divine mark ono a creature, giving you advantage on all attack rolls against it. Upon your marked enemies death, you can use your reaction to transfer the mark to another creature within sight.
+You can end this effect on your turn as part of any other action, If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 
-If you fail to move your mark immediately upon your targets death, it vanishes.
-Your mark of vengeance requires concentration, and lasts for up to 10 minutes.
+***Weapon of Justice.*** As an action, you slam a divine weapon down upon an enemy within 30 feet, the target must succeed a Constitution saving throw, or be stunned for a number of rounds equal to your Charisma modifier, or until it takes damage. The target makes another saving throw at the end of each of its turns, ending the sun on a successful save.
 
-#### Light's Blessing
-At 3rd level, the light empowers you, granting you proficiency in Strength saving throws.
+#### Final Verdict
+By 7th level, your relentless spirit to see retribution done helps you close off a foe's retreat. When you hit a creature with an opportunity attack, you can move up to half your movement speed immediately after the attack and as part of the same reaction. This movement doesn't provoke opportunity attacks.
 
-#### Weapon of Light
-Starting at 7th level, your melee weapon attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+#### Shield of Vengeance
+Starting at 15th level, those who dare to strike you are psychically punished for their crimes. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 1) if you're not incapacitated.
 
-#### Exorcism
-At 15th level, your radiant attacks carries the will of the light with them. Whenever you hit a target with your Crusaders Strike, the target must succeed on a Consti-tution saving throw. On a failed save, the target becomes vulnerable to radiant damage for 1 minute. If the target has resistance or immunity towards radiant damage, it instead loses that resistance, or becomes resistant to radiant damage if it was immune to it.
+#### Divine Judgement
+At 20th level, you gain the ability to harness extraordinary martial prowess. Using your action, you undergo a trans-formation. For 1 minute, you gain the following benefits:
+ - You have resistance to all damage.
+ - When you take the Attack action on your turn, you can make one additional attack as part of that action.
+ - Your melee weapon attacks score a critical hit on a roll of 20 or 20 on the d20.
+<div style='margin-top:-5px;'></div>
+
+&nbsp;&nbsp;&nbsp; Once you use this feature, you can't use it again until you finish a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/v9vjBgu.png' style='position:absolute; top:910px; right:20px; width:350px;transform:rotate(-36deg)' />
+<img src='https://www.gmbinder.com/images/GbZUCT7.jpg' style='position:absolute; top:940px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1020px' />
 
 \pagebreakNum
 
