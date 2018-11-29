@@ -2237,7 +2237,7 @@ Upon reaching 10th level, the powers of elune flows within you, giving you resis
 In addition, when you cast a spell in moonkin form that deals damage, you may spend 1 affinity point to reroll a number of damage dice equal to your Wisdom modifier.
 
 #### Fury of Elune
-At 14th level, when you are hit by a melee attack, you can use your reaction to deal radiant damage to the attacker. The damage equals your druid level. The attacker must also make a Strength saving throw against your sorcerer spell save DC. On a failed save, the attacker is pushed in a straight line up to 20 feet away from you.
+At 14th level, when you are hit by a melee attack, you can use your reaction to deal radiant damage to the attacker. The damage equals your druid level. The attacker must also make a Strength saving throw against your druid spell save DC. On a failed save, the attacker is pushed in a straight line up to 20 feet away from you.
 
 ### Path of Feral
 Druids that wander the feral path seek an understanding, and visceral connection to the wild. In combat, these druids take the form of a deadly feline predator, becoming fero-cious and agile stalkers. After a while, many feral druids come to prefer the appearance of their feline form over their humanoid shape.
