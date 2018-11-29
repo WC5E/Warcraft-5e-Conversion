@@ -8527,6 +8527,11 @@ The majority of demon hunter takes years to master their new found powers, takin
 
 \pagebreakNum
 
+<style> .phb#p135:after { display:none; } </style>
+<img src='https://www.gmbinder.com/images/VV3bz4T.jpg' style='position:absolute; top:150px; right:-205px; width:1200px;transform:rotate(90deg)' />
+
+\pagebreak
+
 <style> .phb#p137:after { display:none; } </style>
 <div style='margin-top:20px;'></div>
 <div class='back-cover-header'>
