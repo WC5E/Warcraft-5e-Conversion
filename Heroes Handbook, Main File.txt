@@ -37,7 +37,7 @@ Cooper, Wei Wang, Ryan Metcalf, Ina Wong, Tyson
 
 Murphy, Jerry Mascho, Aaron Lovett, Kristina
 
-Toxicpanda, Dariia Kasimova
+Toxicpanda, Dariia Kasimova, Phillip Zhang
 
 <br> **Based on the original D&D game created by** 
 <br>&nbsp;&nbsp;&nbsp; E. Gary Gygax and Dave Arneson, as well as <br>&nbsp;&nbsp;&nbsp; Brian Blume, Rob Kuntz, James Ward and Don Kaye.
@@ -1998,8 +1998,7 @@ Ten classes — listed in the Classes table — define the average spectrum of h
 
 \columnbreak
 
-<br>
-<div style='margin-top:360px;'></div>
+<div style='margin-top:370px;'></div>
 
 ## Druid
 *Standing in the way of nature is heresy. Even when nature's force is a destructive one.*
@@ -2030,28 +2029,28 @@ They are deeply in tune with the animal spirits of Azeroth. As master shapeshift
 <div class='classTable wide'>
 
 ##### The Druid
-| Level | Proficiency<br> Bonus | Features | Cantrips<br>Known |&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;|6th|&nbsp;|7th |&nbsp;|8th|&nbsp;|9th|
-|:---:|:--:|:---|:----:|:----:|:---:|:----:|:---:|:----:|:---:|:----:|:-:|:-|:-:|:-|:-:|:-|:-:|:-|:-:|:-|:-:|
-| 1st | +2 | Druidic, Spellcasting                                     |2||2||—||—||—||—||—||—||—||—|
-| 2nd | +2 | Shapeshifting, Druid Path                                 |2||3||—||—||—||—||—||—||—||—|
-| 3rd | +2 | —                                                         |2||4||2||—||—||—||—||—||—||—|
-| 4th | +2 | Ability Score Improvement, <br> Shapeshifting Improvement |3||4||3||—||—||—||—||—||—||—|
-| 5th | +3 | —                                                         |3||4||3||2||—||—||—||—||—||—|
-| 6th | +3 | Druid Path feature, <br> Shapeshifting Improvement        |3||4||3||3||—||—||—||—||—||—|
-| 7th | +3 | —                                                         |3||4||3||3||1||—||—||—||—||—|
-| 8th | +3 | Ability Score Improvement, <br> Shapeshifting Improvement |3||4||3||3||2||—||—||—||—||—|
-| 9th | +4 | —                                                         |3||4||3||3||3||1||—||—||—||—|
-| 10th| +4 | Druid Path feature                                        |4||4||3||3||3||2||—||—||—||—|
-| 11th| +4 | —                                                         |4||4||3||3||3||2||1||—||—||—|
-| 12th| +4 | Ability Score Improvement                                 |4||4||3||3||3||2||1||—||—||—|
-| 13th| +5 | —                                                         |4||4||3||3||3||2||1||1||—||—|
-| 14th| +5 | Druid Path feature                                        |4||4||3||3||3||2||1||1||—||—|
-| 15th| +5 | —                                                         |4||4||3||3||3||2||1||1||1||—|
-| 16th| +5 | Ability Score Improvement                                 |4||4||3||3||3||2||1||1||1||—|
-| 17th| +6 | Druid Path feature                                        |4||4||3||3||3||2||1||1||1||1|
-| 18th| +6 | Timeless Body                                             |4||4||3||3||3||3||1||1||1||1|
-| 19th| +6 | Ability Score Improvement                                 |4||4||3||3||3||3||2||1||1||1|
-| 20th| +6 | Soul of the Forest                                        |4||4||3||3||3||3||2||2||1||1|
+| Level | Proficiency<br>Bonus | Affinity<br>Points | Features | Cantrips<br>Known |&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th |&nbsp;|6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th|
+|:---:|:--:|:-:|:---|:----:|:----:|:---:|:----:|:---:|:----:|:---:|:----:|:-:|:-|:-:|:-|:-:|:-|:-:|:-|:-:|:-|:-:|
+| 1st | +2 | — | Druidic, Spellcasting                                     |2||2||—||—||—||—||—||—||—||—|
+| 2nd | +2 | 1 | Shapeshifting, Druid Path, Affinity                        |2||3||—||—||—||—||—||—||—||—|
+| 3rd | +2 | 1 | —                                                         |2||4||2||—||—||—||—||—||—||—|
+| 4th | +2 | 1 | Ability Score Improvement, <br> Shapeshifting Improvement |3||4||3||—||—||—||—||—||—||—|
+| 5th | +3 | 2 | —                                                         |3||4||3||2||—||—||—||—||—||—|
+| 6th | +3 | 2 | Druid Path feature, <br> Shapeshifting Improvement        |3||4||3||3||—||—||—||—||—||—|
+| 7th | +3 | 2 | —                                                         |3||4||3||3||1||—||—||—||—||—|
+| 8th | +3 | 3 | Ability Score Improvement, <br> Shapeshifting Improvement |3||4||3||3||2||—||—||—||—||—|
+| 9th | +4 | 3 | —                                                         |3||4||3||3||3||1||—||—||—||—|
+| 10th| +4 | 3 | Druid Path feature                                        |4||4||3||3||3||2||—||—||—||—|
+| 11th| +4 | 4 | —                                                         |4||4||3||3||3||2||1||—||—||—|
+| 12th| +4 | 4 | Ability Score Improvement                                 |4||4||3||3||3||2||1||—||—||—|
+| 13th| +5 | 4 | —                                                         |4||4||3||3||3||2||1||1||—||—|
+| 14th| +5 | 4 | Druid Path feature                                        |4||4||3||3||3||2||1||1||—||—|
+| 15th| +5 | 4 | —                                                         |4||4||3||3||3||2||1||1||1||—|
+| 16th| +5 | 5 | Ability Score Improvement                                 |4||4||3||3||3||2||1||1||1||—|
+| 17th| +6 | 5 | —                                                         |4||4||3||3||3||2||1||1||1||1|
+| 18th| +6 | 5 | Timeless Body                                             |4||4||3||3||3||3||1||1||1||1|
+| 19th| +6 | 5 | Ability Score Improvement                                 |4||4||3||3||3||3||2||1||1||1|
+| 20th| +6 | 5 | Soul of the Forest                                        |4||4||3||3||3||3||2||2||1||1|
 </div>
 
 ### Protectors of Balance
@@ -2063,11 +2062,8 @@ Druids harness nature’s raw energy for an incredible breadth of offensive and 
 
 ### Creating a Druid
 When making a druid, consider why your character has such a close bond with nature. Perhaps your character was raised by a druid after being abandoned in the depths of a forest. Perhaps your character had a dramatic encounter with the spirits of nature, coming face to face with a giant eagle or dire wolf and surviving the experience. 
-
-Maybe your character was born during an epic storm or a volcanic eruption, which was interpreted as a sign that becoming a druid was part of your character's destiny. Perhaps your homeland was befouled by evil, and you took up an adventuring life in hopes of finding a new home.
-
 #### Quick Build
-You can make a druid quickly by following these suggestions. Wisdom should be your highest ability score, followed by Constitution. (Feral druids make their Dexte-rity higher than Constitution, and Guardians Strength.)
+You can make a druid quickly by following these suggestions. Wisdom should be your highest ability score, followed by Constitution. (Some druids focus more on their physical traits than their mental ones, preferring Dexterity for Feral, and Strength for Guardian over Wisdom.)
 
 ## Class Features
 As a druid, you gain the following class features.
@@ -2083,15 +2079,14 @@ ___
 - **Armor:** Light armor, medium armor
 - **Weapons:** Simple weapons
 - **Tools:** Herbalism kit
+___
+- **Saving Throws:** Intelligence, Wisdom
+- **Skills:** Choose two from Arcana, Animal Handling. lnsight, Medicine, Nature, Perception, Religion, and Survival
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
-
-___
-- **Saving Throws:** Intelligence, Wisdom
-- **Skills:** Choose two from Arcana, Animal Handling. lnsight, Medicine, Nature, Perception, Religion, and Survival
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -2127,16 +2122,20 @@ Wisdom is your spellcasting ability for your druid spells, since your magic draw
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 </div>
 
+<div style='margin-top:-5px;'></div>
+
 #### Ritual Casting
 You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-\columnbreak
+<div style='margin-top:-5px;'></div>
 
 #### Spellcasting Focus
 You can use a druidic focus as a spellcasting focus for your druid spells.
 
+\columnbreak
+
 ### Shapeshifting
-Starting at 2nd level, you can use your action to magically assume the shape of certain beasts. You can shapeshift into a known shape as often as you wish.
+Starting at 2nd level, you can use your bonus action to magically assume the shape of specific animals. There is no limitation to how often you are able to shapeshift into a shape that you know.
 
 Your druid level determines the shapes you can trans-form into, as shown in the Shapeshifts table. At 2nd level, for example, you can assume the shape of a large feral cat, or a thick furred bear. Each shapeshift and its benefits are described in Appendix A at the end of this book.
 
@@ -2158,7 +2157,7 @@ While you are transformed, the following rules apply:
 - You retain the benefit of any features from your class, race, or other source and can use them if the shapeshift is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 - You choose whether your equipment falls to the ground in your space, or merges into your new form. Merged equipment has no effect until you leave the shape.
 
-<div style='margin-top:20px;'></div>
+<br>
 
 > ##### Druidic Forms
 > Shapeshifts are an extension of the druid. Both as a person, but also as a race, a taurens shape-shift might grow horns similar to his own. An orc or troll might want their forms to have tusks, and a night elf might decorate theirs with signs of elune. Likewise, their beast might be different, one may choose a slim panther, and another a strong lion, or another feline beast.
@@ -2170,8 +2169,28 @@ While you are transformed, the following rules apply:
 
 \pagebreakNum
 
+<div style='margin-top:200px;'></div>
+
 ### Druid Paths
-At 2nd level, you choose to identify with a druidic path: Balance, Feral, Guardian, or Restoration, all detailed at the end of the class description. Your choice grants you featur-es at 2nd level and again at 6th, 10th, 14th, and 17th level.
+At 2nd level, you choose to identify with a druidic path: Balance, Feral, Guardian, or Restoration, all detailed at the end of the class description. Your choice grants you featur-es at 2nd level and again at 6th, 10th, and 14th level.
+
+### Affinity
+Also at 2nd level, you are to transfer part of your druidic magic into your shapeshifts, harnessing their true potential. Your access to this magic is represented by a number of affinity points. Your druid level determines the number of points you have, as shown in the Affinity Points column of the druid table.
+
+You can spend these points to fuel various affinity features. You start knowing three such features: Displayer Beast, Renewal, and Stampeding Roar. You learn more affinity features depending on your druidic path.
+
+When you spend an affinity point, it is unavailable until you finish a short or long rest, at the end of which your strained link to the beasts affinity is restored.
+
+Some of your affinity features require your target to make a saving throw to resist the feature's effect. The saving throw DC equals your druid Spell Save DC.
+
+#### Displacer Beast
+You can spend 1 affinity point and use your action to teleport up to 30 feet to an unoccupied space that you can see. As part of the same action, you shapeshift a known shape of your choice.
+
+#### Renewal
+You can spend affinity points and use your bonus action to regain 1d6 + your Wisdom modifier for each affinity point used in the casting.
+
+#### Stampeding Roar
+You can spend 1 affinity point and use your action to let out an enchanted roar. Each ally within 60 feet of you gain the benefit of the Dash action until the end of their next turn, including you.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -2179,12 +2198,16 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 ### Timeless Body
 Starting at 18th level, the primal magic that you wield has caused you to age more slowly. For every 10 years that pass, your body ages only 1 year.
 
+\columnbreak
+
+<div style='margin-top:200px;'></div>
+
 ### Soul of the Forest
 At 20th level, your connection with nature has grown to an incredible level, deepening beasts respect for you, and mak-ing you able to conjure a gateway to the Emerald Dream.
 
 Using 10 minutes in an area of unspoiled nature, you can conjure a gateway to the Emerald Dream, the entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when conjuring the gateway can enter into the Emerald Dream for as long as the gate-way remains open. You can open and close the gateway if you are within 30 feet of it. While closed, the gateway on Azeroth crumbles and is effectively invisible. The gateway remains conjured for 24 hours, at which point it crumbles entire and cannot be conjured again for 7 days.
 
-In addition, beasts and plants of the wilds can sense your connection to nature, giving you advantage on all skill and ability checks made to communicate with them.
+Additionally, beasts and plants of the wilds can sense your connection to nature, giving you advantage on all skill and ability checks made to communicate with them.
 
 ## Druid Paths
 Although all druids have a deep love for nature and wilderness, some druids have a deeper love for their animal shapeshifts, preferring that form over their humanoid one. Others for the goddess Elune, and some stay true to the druidic tradition of preserving life, druids fall into four categories: Balance, Feral, Guardian, or Restoration druids.
@@ -2192,163 +2215,131 @@ Although all druids have a deep love for nature and wilderness, some druids have
 ### Path of Balance
 Druids on the path of balance leverage the sacred powers of the moon, the sun, and the stars, accessing a mixture of arcane and nature powers to aid in the fight against the imbalance that threatens the natural order of all things.
 
-#### Bonus Cantrip
-When you choose this path at 2nd level, you learn one additional druid cantrip of your choice.
-
 #### Innervate
 Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
 
-\columnbreak
-
-<br>
-
-<div style='margin-top:315px;'></div>
-
-&nbsp;&nbsp;&nbsp; For example, when you are a 4th-level druid, you can re-cover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
+For example, when you are a 4th-level druid, you can re-cover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
 
 #### Moonkin Shapeshift
-Beginning at 6th level, you learn how to shapeshift into a moonkin. While shapeshifted into a moonkin you are con-sidered unarmored, and add your Wisdom modifier to your armor class. Additionally, you ignore the shapeshifting rule concerning spellcasting whilst a moonkin, and when you cast a spell of 1st level or higher, you add half your druid level to the damage dealt.
+Upon reaching 6th level, you can shapeshift into a moonkin. While shapeshifted in this way, you are unarmored and add your Wisdom modifier to your AC. Additionally, you are still able to cast spells whilst shapeshifted in this way. 
 
-Unlike your other shapeshifts, you can only use this feature twice. Regaining expended uses when you finish a short or long rest. You can stay as a moonkin for a number of hours equal to half your druid level. You then revert to your normal form unless you expend another use of this feature. All other shapeshifting rules still apply.
-
-#### Astral Influence
-At 10th level, as a bonus action, you can replace one spell you have prepared with another spell from the druid spell list. Once you use this feature, you can't use it again until you finish a short or long rest.
-
-#### Fury of Elune
-Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal force damage to the attacker. The damage equals your druid level. The attacker must also make a Strength saving throw against your druid spell save DC. On a failed save, the attacker is pushed in a straight line up to 20 feet away from you.
-
-#### Chosen of Elune
-At 17th level, your connection to Elune has strengthened you beyond measure. Your moonkin shapeshift no longer has a usage limitation, and you are able to stay shape-shifted for as long as you wish.
-
-Additionally, you always have the *moonbeam* spell pre-pared, and it doesn't count against the number of spells you prepare each day. You can cast *moonbeam* as a 4th-level spell without expending a spell slot.
-
-Once you cast *moonbeam* in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.
+When a creature succeeds on a saving throw against a cantrip cast while shapeshifted, the creature takes half the cantrip's damage (if any) but suffers no additional effects from the cantrip.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cTUhYzO.jpg' style='position:absolute; top:-290px; right:-30px; width:450px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/VxJ8X1u.png' style='position:absolute; top:0px; right:-50px; width:900px' />
-<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/i71zEP1.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-130px; right:0px; width:1000px' />
 
 \pagebreakNum
 
+#### Astral Influence
+Upon reaching 10th level, the powers of elune flows within you, giving you resistance to radiant damage.
+
+In addition, when you cast a spell in moonkin form that deals damage, you may spend 1 affinity point to reroll a number of damage dice equal to your Wisdom modifier.
+
+#### Fury of Elune
+At 14th level, when you are hit by a melee attack, you can use your reaction to deal radiant damage to the attacker. The damage equals your druid level. The attacker must also make a Strength saving throw against your sorcerer spell save DC. On a failed save, the attacker is pushed in a straight line up to 20 feet away from you.
+
 ### Path of Feral
-Druids on the feral path seek an understanding, and visceral connection to the wild, and in combat take the form of a deadly feline predator. Feral druids become ferocious, agile stalkers. Many feral druids coming to prefer the appearance of their feline selves over their humanoid shape.
+Druids that wander the feral path seek an understanding, and visceral connection to the wild. In combat, these druids take the form of a deadly feline predator, becoming fero-cious and agile stalkers. After a while, many feral druids come to prefer the appearance of their feline form over their humanoid shape.
 
 #### Predatorial Preference
-When you choose this path at 2nd level, you've begun to spend more time as a feline. Your proficiency in Intelli-gence saving throws permanently changes to Dexterity.
+When you choose this path at 2nd level, you have begun spending more time as a feline, familiarizing yourself with it. Your proficiency in Intelligence saving throws permanently changes to Dexterity saving throws.
 
 #### Feral Caster
-Starting at 2nd level, you actively spend more time on your predatory skills than your spellcasting, making it difficult for you to cast spells beyond 5th level. To cast a spell of 6th level or higher, you must make a Wisdom saving throw against a DC of 10 + the spells level. On a failure, the spell fails and the spell slot is expended.
+Starting at 2nd level, you spend more time improving your predatory skills than your spellcasting, altering the course of your spellcasting forever. You no longer refer to the druid class table to determine your Affinity Points, Cantrip, or Spell Slots, and you count as a "half caster" for determi-ning available spell slots when multiclassing.
 
-You can expend spell slots for various abilities within your cat form, each of which are detailed below.
+In addition to the affinity features available to all druids through their affinity points, you are able to use your affinity points on the following features.
+<div style='margin-top:-0px;'></div>
 
-##### Feral Enhancements
-These enhancements are presented in alphabetical order.
+&nbsp;&nbsp;&nbsp; ***Feline Swiftness.*** You can spend 1 affinity point to take the Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
-***Displacer Beast.*** As a bonus action, you can expend a spell slot to teleport to an empty square within 30 feet of you, and giving you the benefits of a *dash* upon reappearing in the new square for the rest of your turn.
+***Ferocious Bite.*** When you hit another creature with a bite attack, you can spend 2 affinity points to deal an extra 1d8 + your Dexterity modifier piercing damage.
 
-***Ferocious Bite.*** When you hit another creature with a bite attack, you can expend a spell slot to deal an additional damage die for every two spell slot levels expended.
+***Primal Fury.*** Immediately after you take the Attack action on your turn, you can spend 1 affinity point to make a claw attack as a bonus action.
 
-For example, if you expend a 1st or 2nd level spell slot, you deal 1 additional damage die, and if you expend a spell slot of 3rd or 4th level, you deal 2 additional damage dice.
+***Rake.*** When a creature misses you with a melee weapon attack, you can spend 1 affinity point to make an oppor-tunity attack against the target. Dealing additional damage equal to your druid level to the target.
 
-***Mighty Bash.*** When you hit another creature with a melee weapon attack, you can expend a spell slot of 3rd level or higher to attempt to stun the target. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+***Survival Instincts.*** Spend 2 affinity points upon taking damage to reduce the damage taken by an amount equal to your druid level.
 
-***Rake.*** When a creature misses you with a melee attack, you can use your reaction and expend a spell slot to make an opportunity attack against the creature.
+#### Razor Claws
+Beginning at 6th level, you can make one additional bite or claws attack of your choice as part of your attack Action, and you can add your proficiency bonus to one damage roll of a cat forms attack.
 
-On a hit, you deal normal damage and an additional 1d6 per spell slot level you expended.
-
-***Renewal.*** As a bonus action, you can expend a spell slot to regain 1d8 hit points per level of the spell slot expended.
-
-***Survival Instincts.*** You can use your reaction and expend a spell slot upon taking damage to gain resistance towards all damage until the beginning of your next turn. 
-
-#### Primal Strikes
-Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
-
-In addition, your bite and claws count as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
-
-Upon reaching 10th level, your bites damage increases to 1d8, and your claws damage increases to 2d6.
-
-#### Supreme Prowler
-At 10th level, you excel at moving quiet. You have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+Additionally, your attacks in cat form count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 \columnbreak
 
-<br>
+<div class='classTable'>
 
-#### Sudden Thrashes
-Starting at 14th level, you learn to attack with such unexpected speed that you can turn a miss into another strike. Once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action.
+##### Feral / Guardian Spellcasting
+|Druid <br>Level|Affinity<br>Points|Cantrips<br>Known|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;
+|:---:|:--:|:-:|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|
+| 2nd |  2 | 2 |3||—||—||—||—|
+| 3rd |  3 | 2 |3||—||—||—||—|
+| 4th |  4 | 2 |3||—||—||—||—|
+| 5th |  5 | 2 |4||2||—||—||—|
+| 6th |  6 | 2 |4||2||—||—||—|
+| 7th |  7 | 2 |4||3||—||—||—|
+| 8th |  8 | 2 |4||3||—||—||—|
+| 9th |  9 | 2 |4||3||2||—||—|
+| 10th| 10 | 3 |4||3||2||—||—|
+| 11th| 11 | 3 |4||3||3||—||—|
+| 12th| 12 | 3 |4||3||3||—||—|
+| 13th| 13 | 3 |4||3||3||1||—|
+| 14th| 14 | 3 |4||3||3||1||—|
+| 15th| 15 | 3 |4||3||3||2||—|
+| 16th| 16 | 3 |4||3||3||2||—|
+| 17th| 17 | 3 |4||3||3||3||1|
+| 18th| 18 | 3 |4||3||3||3||1|
+| 19th| 19 | 3 |4||3||3||3||2|
+| 20th| 20 | 3 |4||3||3||3||2|
+</div>
+
+#### Prowl
+Upon reaching 10th level, you have learned to blend into your surroundings whilst in the shadow. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.
 
 #### King of the Jungle
-At 17th level, you have become an experienced predator, capable of acting fast in combat and attacking first. You can now attack three times instead of twice, whenever you take the Attack action on your turn.
-
-In addition, you gain the following benefits:
- - You ignore nonmagical difficult terrain.
- - You have advantage on initiative rolls
- - On your first turn in combat, you have advantage on attack rolls against a creature that have not yet acted.
+At 14th level, you can spend 3 affinity points to take on the form of an unparalleled hunter. Boasting your defenses by manifesting armor of bark, and improving your combat prowess. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
+ - You gain the benefits of the *barkskin* spell.
+ - Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
+ - Whenever a creature within 5 feet of you is hit by an attack made by another creature, you can use your reaction to make a melee attack against that creature.
 
 ### Path of Guardian
-Druids of the guardian path take the form of great bears, these guardians become massive walls of fur, claw, tooth, and, aided by the forces of nature, they stand between allies and any opposing threats.
-
-#### Raging Shapeshift
-When you choose this path at 2nd level, you've begun to spend more time as a bear. Your proficiency in Intelligence saving throws permanently changes to Constitution.
-
-Additionally, you can enter a rage as a bonus action, shapeshifting you into your bear form if you aren't already.
-
-While raging as a bear, you gain the following benefits.
- - You have advantage on Strength checks and Strength saving throws.
- - When you make a melee weapon attack, you add your proficiency bonus to the damage roll.
- - You have resistance to bludgeoning, piercing, and slashing damage.
-
-Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
-
-Once you have raged the number of times equal to your Constitution modifier, you must finish a long rest before you can rage again.
-
-#### Bestial Caster
-Starting at 2nd level, you actively spend more time on your bestial skills than your spellcasting, making it difficult for you to cast spells beyond 5th level. To cast a spell of 6th level or higher, you must make a Wisdom saving throw against a DC of 10 + the spells level. On a failure, the spell fails and the spell slot is expended.
-
-You can expend spell slots for various abilities within your bear form, each of which are detailed below.
-
-##### Bestial Enhancements
-These enhancements are presented in alphabetical order.
-
-***Brambled fur.*** You can use your reaction and expend a spell slot upon taking damage to return part of the damage taken. For each level of the spell slot expended, roll 1d8, reducing your damage taken equal to the amount rolled, and returning that damage to the attacker.
+Druids that go down the guardian path takes the form of massive bears, becoming walls of fur, claw, and tooth, that are able to deliver devastating blows. Aided by the forces of nature, they stand between allies and any opposing threat. They stand between allies and any opposing threat, taking the frontal blow of harmful attacks.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
-&nbsp;&nbsp;&nbsp; ***Demoralizing Roar.*** As an action, you let out an echoing roar. Each creature you choose within 30 feet of you must succeed on a Wisdom saving throw, or have disadvantage on all attack rolls until the end of your next turn. A creature immune to being frightened automatically succeeds.
+#### Bestial Preference
+When you choose this path at 2nd level, you have begun spending more time as a bear, familiarizing yourself with it. Your proficiency in Intelligence saving throws permanently changes to Constitution saving throws.
 
-***Ferocious Bite.*** When you hit another creature with a bite attack, you can expend a spell slot to deal an additional damage die for every two spell slot levels expended.
+#### Bestial Caster
+Starting at 2nd level, you spend more time improving your bestial skills than your spellcasting, altering the course of your spellcasting forever. You no longer refer to the druid class table to determine your Affinity Points, Cantrip, or Spell Slots, and you count as a "half caster" for determi-ning available spell slots when multiclassing.
 
-For example, if you expend a 1st or 2nd level spell slot, you deal 1 additional damage die, and if you expend a spell slot of 3rd or 4th level, you deal 2 additional damage dice.
+In addition to the affinity features available to all druids through their affinity points, you are able to use your affinity points on the following features.
+<div style='margin-top:-0px;'></div>
 
-***Mighty Bash.*** When you hit another creature with a melee weapon attack, you can expend a spell slot of 3rd level or higher to attempt to stun the target. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+&nbsp;&nbsp;&nbsp; ***Bramblefur.*** As a reaction upon taking damage, you can spend 1 affinity point to reduce the damage by an amount equal to your druid level, and deal the reduced damage back to the attacker as psychic damage.
 
-***Pack Defender.*** When an ally is targeted by a melee attack, you can use your reaction and expend a spell slot to rush to their aid. Forcing the attacker to make the attack roll with disadvantage. If the attack hits, you can make a single bite or claw attack against the target.
+***Demoralizing Roar.*** You can spend 2 affinity points and let out an echoing roar as an action. Each enemy within 30 feet of you must succeed on a Wisdom saving throw, or be frightened for 1 minute. A creature frightened in this way makes a new saving throw at the end of their turn, ending the effect on a success. On a successful save, a creature becomes immune to this feature for 24 hours.
 
-For each spell slot level you expend, you can rush 10 feet towards an ally. Any opportunity attacks made against you are made with disadvantage whilst moving.
+***Mangle.*** When you hit with a claw attack, you can spend 1 affinity point to force the target to make a Strength saving throw. Knocking it prone on a failed saving throw.
 
-***Renewal.*** As a bonus action, you can expend a spell slot to regain 1d8 hit points per level of the spell slot expended.
+***Mighty Bash.*** When you hit another creature with a claw attack, you can spend 1 affinity point to attempt a mighty bash. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
 
-#### Mauler
-Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
-
-In addition, your bite and claws count as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
+***Pack Defender.*** You can use your reaction upon an ally being targeted by a melee weapon attack, and spend 2 affinity points to move 20 feet towards the ally and give the attack against them disadvantage. Opportunity attacks against you are made with disadvantage.
 
 #### Mark of Ursol
-Starting at 10th level, while in bear form, you can use an action to cast the *enlarge/reduce* spell on yourself without providing any spell components or expending a spell slot. When casting the spell this way, you can only use the *enlarge* effect of it.
+At 6th level, you can spend 2 affinity points and use your action whilst shapeshifted into a bear to cast enlarge from the *enlarge/reduce* spell on yourself without providing any spell components.
 
-Once you have cast *enlarge/reduce* in this way twice, you can't do so again until you finish a short or long rest. You can still cast it normally using an available spell slot if you have it prepared.
+#### Pulverize
+Beginning at 10th level, the damage of your melee weapon attacks improve. Your bears bite increases to 2d8 piercing damage, and your claws increases to 3d6 slashing damage.
 
-#### Persistent Rage
-Upon reaching 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
+Additionally, you can add your proficiency bonus to one damage roll of a bear forms attacks.
 
 #### Guardian of Ursoc
-At 17th level, you embody the power of the wild god Ursoc. Your Strength and Constitution scores each increase by 4. Your maximum for those scores is now 24.
-
-In addition, you are able to rage an unlimited amount of times per day, effectively removing the daily limitation.
+At 14th level, your presence is menacing to those around you. Whilst in bear form, any creature within 5 feet of you that's hostile to you have disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you, or if it can't be frightened.
 
 \columnbreak
 
@@ -2382,15 +2373,148 @@ Starting at 10th level, you can become as calm as spring, soothing your allies. 
 
 Once you have used this feature, you can't use it again until you have finished a long rest.
 
-#### Nature's Cure
-When you reach 14th level, you can't be charmed or frightened, and you are immune to poison and disease.
-
 #### Tree of Life
-At 17th level, you draw strength from the world trees of Azeroth's roots. When you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
+At 14th level, you can draw your strength from the world trees of Azeroth. Assuming the shape of a large treant. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
+ - Your size doubles, if there isn't enough room you attain the maximum possible size in the space available.
+ - When you cast a spell on a target that restores hit points, another creature of your choice within 30 feet of the target is healed for half the hit points regained.
+<div style='margin-top:-5px;'></div>
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/QGRe8vc.png' style='position:absolute; top:950px; right:400px; width:850px;transform:rotate(-25deg' />
+<img src='https://www.gmbinder.com/images/QGRe8vc.png' style='position:absolute; top:1020px; right:400px; width:850px;transform:rotate(-25deg' />
+
+\pagebreakNum
+
+## Appendix A: Statblocks
+
+___
+> ## Cat Form
+>*Medium beast*
+> ___
+> - **Armor Class** 13 + Dexterity modifier
+> - **Speed** 40 ft., climb 40 ft.
+>___
+> ***Darkvision.*** You gain darkvision 60 ft.
+>
+> ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell, as long as you are shapeshifted.
+>
+> ***Pounce.*** If you move at least 20 feet straight toward a creature right before hitting it with a claw attack, the target must succeed on a DC <br> *(10 + Dexterity modifier)* Strength saving throw or be knocked prone. If the target is prone, you can make one bite attack against it as a bonus action.
+>
+> ### Actions
+> ***Multiattack.*** You make two attacks as an action, one with your bite and one with your claws.
+>
+> ***Bite.*** *Melee Weapon Attack:* *(Dex + Prof bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d8 + Dex modifier) piercing damage.
+>
+> ***Claws.*** *Melee Weapon Attack:* *(Dex + Prof bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d6 + Dex modifier) slashing damage.
+> ###
+> <div style='margin-top:7px;'></div>
+>
+> **Common shapes taken are as followed:**<br>
+> <div style='margin-top:-7px;'></div>
+>
+> *(Snow) Leopard, Lion, Lynx, Panther, Tiger.*
+
+<div style='margin-top:-10px;'></div>
+
+___
+> ## Bear Form
+>*Large beast*
+> ___
+> - **Armor Class** 10 + Dexterity & Constitution modifier
+> - **Speed** 40 ft., climb 30 ft.
+> ___
+> ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ***Ironfur.*** You have resistance against bludgeoning, piercing, and slashing from nonmagical attacks.
+>
+> ### Actions
+> ***Multiattack.*** You make two attacks as an action, one with your bite and one with your claws.
+>
+> ***Bite.*** *Melee Weapon Attack:* *(Str + Proficiency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d8 + Str modifier) piercing damage.
+>
+> ***Claws.*** *Melee Weapon Attack:* *(Str + Proficiency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d6 + Str modifier) slashing damage.
+> ###
+> <div style='margin-top:7px;'></div>
+>
+> **Common shapes taken are as followed:**<br>
+> <div style='margin-top:-7px;'></div>
+>
+> *Brown Bear, Black Bear, Grey Bear, Grizzly Bear.*
+
+\columnbreak
+
+___
+> ## Flight Form
+>*Large beast*
+> ___
+> - **Armor Class** 10 + Dexterity modifier
+> - **Speed** 10 ft., 70 ft.
+> ___
+> ***Flyby.*** You don't provoke opportunity attacks when you fly out of an enemy's reach.
+>
+> ***Keen Sight.*** You have advantage on Wisdom (Perception) checks that rely on sight.
+>
+> ### Actions
+> ***Beak.*** *Melee Weapon Attack:* *(Str/Dex + Profici-ency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d4 + Str/Dex modifier) piercing damage.
+>
+> ***Talons.*** *Melee Weapon Attack:* *(Str/Dex + Profici-ency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d6 + Str/Dex modifier) slashing damage.
+> ###
+> <div style='margin-top:7px;'></div>
+>
+> **Common shapes taken are as followed:**<br>
+> <div style='margin-top:-7px;'></div>
+>
+> *Dire Bat, Dire Hawk, Dire Owl, Eagle, Storm Crow.*
+
+<div style='margin-top:-10px;'></div>
+
+___
+> ## Aquatic Form
+>*Medium beast*
+> ___
+> - **Armor Class** 11 + Dexterity modifier
+> - **Speed** 5 ft., swim 50 ft.
+> ___
+> ***Amphibious.*** You can breathe air and water.
+>
+> ***Blindsight.*** You gain blindsight 60 ft.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* *(Str + Proficiency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d8 + Str modifier) piercing damage.
+> ###
+> <div style='margin-top:7px;'></div>
+>
+> **Common shapes taken are as followed:**<br>
+> <div style='margin-top:-7px;'></div>
+>
+> *Sea Lion, Shark, Dolphin, Orca.*
+
+<div style='margin-top:-10px;'></div>
+
+___
+> ## Travel Form
+>*Large beast*
+> ___
+> - **Armor Class** 12 + Dexterity modifier
+> - **Speed** 50 ft.
+> ___
+> ***Mountable.*** As long as a creature is on your back, you both take turns on your initiative. Upon dis-mount, the riders initiative returns to normal.
+>
+> ### Actions
+> ***Hooves.*** *Melee Weapon Attack:* (Str + Proficiency bonus) to hit, reach 5 ft., one target. <br> *Hit:* (2d4 + Str modifier) bludgeoning damage.
+> ###
+> <div style='margin-top:7px;'></div>
+>
+> **Common shapes taken are as followed:**<br>
+> <div style='margin-top:-7px;'></div>
+>
+> *Elk, Horse, Stag, Reindeer.*
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/CP4995a.jpg' style='position:absolute; top:350px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-150px; right:0px; width:900px;transform:rotate(180deg)' />
 
 \pagebreakNum
 
@@ -8209,15 +8333,99 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 
 \pagebreakNum
 
-# Appendix A: Feature Statblocks
+## Appendix A: Statblocks
+
+___
+> ## Cat Form
+>*Medium beast*
+> ___
+> - **Armor Class** 13 + Dexterity modifier
+> - **Speed** 40 ft., climb 40 ft.
+>___
+> ***Darkvision.*** You gain darkvision 60 ft.
+>
+> ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell, as long as you are shapeshifted.
+>
+> ***Pounce.*** If you move at least 20 feet straight toward a creature right before hitting it with a claw attack, the target must succeed on a DC <br> *(10 + Dexterity modifier)* Strength saving throw or be knocked prone. If the target is prone, you can make one bite attack against it as a bonus action.
+>
+> ### Actions
+> ***Multiattack.*** You make two attacks as an action, one with your bite and one with your claws.
+>
+> ***Bite.*** *Melee Weapon Attack:* *(Dex + Prof bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d6 + Dex modifier) piercing damage.
+>
+> ***Claws.*** *Melee Weapon Attack:* *(Dex + Prof bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d4 + Dex modifier) slashing damage.
+> ###
+> <div style='margin-top:7px;'></div>
+>
+> **Common shapes taken are as followed:**<br>
+> <div style='margin-top:-7px;'></div>
+>
+> *(Snow) Leopard, Lion, Lynx, Panther, Tiger.*
+
+<div style='margin-top:-10px;'></div>
+
+___
+> ## Bear Form
+>*Large beast*
+> ___
+> - **Armor Class** 10 + Dexterity & Constitution modifier
+> - **Speed** 40 ft., climb 30 ft.
+> ___
+> ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ***Ironfur.*** You have resistance against bludgeoning, piercing, and slashing from nonmagical attacks.
+>
+> ### Actions
+> ***Multiattack.*** You make two attacks as an action, one with your bite and one with your claws.
+>
+> ***Bite.*** *Melee Weapon Attack:* *(Str + Proficiency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d8 + Str modifier) piercing damage.
+>
+> ***Claws.*** *Melee Weapon Attack:* *(Str + Proficiency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d6 + Str modifier) slashing damage.
+> ###
+> <div style='margin-top:7px;'></div>
+>
+> **Common shapes taken are as followed:**<br>
+> <div style='margin-top:-7px;'></div>
+>
+> *Brown Bear, Black Bear, Grey Bear, Grizzly Bear.*
+
+\columnbreak
+
+___
+> ## Flight Form
+>*Large beast*
+> ___
+> - **Armor Class** 10 + Dexterity modifier
+> - **Speed** 10 ft., 70 ft.
+> ___
+> ***Flyby.*** You don't provoke opportunity attacks when you fly out of an enemy's reach.
+>
+> ***Keen Sight.*** You have advantage on Wisdom (Perception) checks that rely on sight.
+>
+> ### Actions
+> ***Beak.*** *Melee Weapon Attack:* *(Str/Dex + Profici-ency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d4 + Str/Dex modifier) piercing damage.
+>
+> ***Talons.*** *Melee Weapon Attack:* *(Str/Dex + Profici-ency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d6 + Str/Dex modifier) slashing damage.
+> ###
+> <div style='margin-top:7px;'></div>
+>
+> **Common shapes taken are as followed:**<br>
+> <div style='margin-top:-7px;'></div>
+>
+> *Dire Bat, Dire Hawk, Dire Owl, Eagle, Storm Crow.*
+
+<div style='margin-top:-10px;'></div>
+
 ___
 > ## Aquatic Form
 >*Medium beast*
 > ___
-> - **Armor Class** 10 + Dexterity modifier
-> - **Speed** 0 ft., swim 50 ft.
+> - **Armor Class** 11 + Dexterity modifier
+> - **Speed** 5 ft., swim 50 ft.
 > ___
-> ***Water Breathing.*** You can breathe only underwater.
+> ***Amphibious.*** You can breathe air and water.
+>
+> ***Blindsight.*** You gain blindsight 60 ft.
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* *(Str + Proficiency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d8 + Str modifier) piercing damage.
@@ -8228,29 +8436,6 @@ ___
 > <div style='margin-top:-7px;'></div>
 >
 > *Sea Lion (Amphibious), Shark, Dolphin, Orca.*
-
-<div style='margin-top:-10px;'></div>
-
-___
-> ## Flight Form
->*Large beast*
-> ___
-> - **Armor Class** 10 + Dexterity modifier
-> - **Speed** 10 ft., 80 ft.
-> ___
-> ***Keen Sight.*** You have advantage on Wisdom (Perception) checks that rely on sight.
->
-> ### Actions
-> ***Beak.*** *Melee Weapon Attack:* *(Str/Dex + Profici-ency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d6 + Str/Dex modifier) piercing damage.
->
-> ***Talons.*** *Melee Weapon Attack:* *(Str/Dex + Profici-ency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d6 + Str/Dex modifier) slashing damage.
-> ###
-> <div style='margin-top:7px;'></div>
->
-> **Common shapes taken are as followed:**<br>
-> <div style='margin-top:-7px;'></div>
->
-> *Dire Bat, Dire Hawk, Dire Owl, Eagle, Storm Crow.*
 
 <div style='margin-top:-10px;'></div>
 
@@ -8273,60 +8458,9 @@ ___
 >
 > *Elk, Horse, Stag, Reindeer.*
 
-\columnbreak
-
-___
-> ## Bear Form
->*Large beast*
-> ___
-> - **Armor Class** 11 + Constitution modifier
-> - **Speed** 40 ft., climb 30 ft.
-> ___
-> ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell.
->
-> ***Ironfur.*** You have resistance against bludgeoning, piercing, and slashing from nonmagical attacks.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* *(Str + Proficiency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d8 + Str modifier) piercing damage.
->
-> ***Claws.*** *Melee Weapon Attack:* *(Str + Proficiency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d6 + Str modifier) slashing damage.
-> ###
-> <div style='margin-top:7px;'></div>
->
-> **Common shapes taken are as followed:**<br>
-> <div style='margin-top:-7px;'></div>
->
-> *Brown Bear, Black Bear, Grey Bear, Grizzly Bear.*
-
-___
-> ## Cat Form
->*Medium beast*
-> ___
-> - **Armor Class** 12 + Dexterity modifier
-> - **Speed** 40 ft., climb 40 ft.
->___
-> ***Darkvision.*** You gain darkvision 60 ft.
->
-> ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell, as long as you are shapeshifted.
->
-> ***Pounce.*** If you move at least 20 feet straight toward a creature right before hitting it with a claw attack, the target must succeed on a DC <br> *(10 + Dexterity modifier)* Strength saving throw or be knocked prone. If the target is prone, you can make one bite attack against it as a bonus action.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* *(Dex + Prof bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d6 + Dex modifier) piercing damage.
->
-> ***Claws.*** *Melee Weapon Attack:* *(Dex + Prof bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d4 + Dex modifier) slashing damage.
-> ###
-> <div style='margin-top:7px;'></div>
->
-> **Common shapes taken are as followed:**<br>
-> <div style='margin-top:-7px;'></div>
->
-> *(Snow) Leopard, Lion, Lynx, Panther, Tiger.*
-
-<div class='footnote'>APPENDIX A | FEATURE STATBLOCKS</div>
-<img src='https://www.gmbinder.com/images/CP4995a.jpg' style='position:absolute; top:380px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-100px; right:0px; width:900px;transform:rotate(180deg)' />
-<img src='https://www.gmbinder.com/images/xAAg1PL.png' style='position:absolute; top:-100px; right:-110px; width:400px;transform:rotate(20deg)' />
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/CP4995a.jpg' style='position:absolute; top:350px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-150px; right:0px; width:900px;transform:rotate(180deg)' />
 
 \pagebreakNum
 
