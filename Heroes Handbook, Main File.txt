@@ -2243,7 +2243,7 @@ At 14th level, when you are hit by a melee attack, you can use your reaction to 
 Druids that wander the feral path seek an understanding, and visceral connection to the wild. In combat, these druids take the form of a deadly feline predator, becoming fero-cious and agile stalkers. After a while, many feral druids come to prefer the appearance of their feline form over their humanoid shape.
 
 #### Predatorial Preference
-When you choose this path at 2nd level, you have begun spending more time as a feline, familiarizing yourself with it. Your proficiency in Intelligence saving throws permanently changes to Dexterity saving throws.
+When you choose this path at 2nd level, you have begun spending more time as a feline, familiarizing yourself with it. Your proficiency in Intelligence saving throws perma-nently changes to Dexterity saving throws.
 
 #### Feral Caster
 Starting at 2nd level, you spend more time improving your predatory skills than your spellcasting, altering the course of your spellcasting forever. You no longer refer to the druid class table to determine your Affinity Points, Cantrip, or Spell Slots, and you count as a "half caster" for determi-ning available spell slots when multiclassing.
