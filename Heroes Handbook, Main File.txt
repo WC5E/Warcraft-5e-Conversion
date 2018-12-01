@@ -3753,35 +3753,34 @@ Devotion to the faiths of Azeroth leads many priests to the paths of courage and
 <div class='classTable wide'>
 
 ##### The Priest
-|Level|Proficiency<br>Bonus|Features|Cantrips<br>Known|&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;|6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th|
-|:---:|:--:|:---------------------|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|
-| 1st | +2 | Spellcasting, Priesthood, Unarmored Defense                          |3||2||—||—||—||—||—||—||—||—|
-| 2nd | +2 | Channel Divinity (1/rest), Priesthood feature                        |3||3||—||—||—||—||—||—||—||—|
-| 3rd | +2 | —                                                                    |3||4||2||—||—||—||—||—||—||—|
-| 4th | +2 | Ability Score Improvement                                            |4||4||3||—||—||—||—||—||—||—|
-| 5th | +3 | Destroy Undead (CR 1/2)                                              |4||4||3||2||—||—||—||—||—||—|
-| 6th | +3 | Channel Divinity (2/rest), Priesthood feature                        |4||4||3||3||—||—||—||—||—||—|
-| 7th | +3 | —                                                                    |4||4||3||3||1||—||—||—||—||—|
-| 8th | +3 | Ability Score Improvement, Destroy Undead (CR 1), Priesthood feature |4||4||3||3||2||—||—||—||—||—|
-| 9th | +4 | —                                                                    |4||4||3||3||3||1||—||—||—||—|
-| 10th| +4 | Divine Intervention                                                  |5||4||3||3||3||2||—||—||—||—|
-| 11th| +4 | Destroy Undead (CR 2)                                                |5||4||3||3||3||2||1||—||—||—|
-| 12th| +4 | Ability Score Improvement                                            |5||4||3||3||3||2||1||—||—||—|
-| 13th| +5 | —                                                                    |5||4||3||3||3||2||1||1||—||—|
-| 14th| +5 | Destroy Undead (CR 3)                                                |5||4||3||3||3||2||1||1||—||—|
-| 15th| +5 | —                                                                    |5||4||3||3||3||2||1||1||1||—|
-| 16th| +5 | Ability Score Improvement                                            |5||4||3||3||3||2||1||1||1||—|
-| 17th| +6 | Destroy Undead (CR 4), Priesthood feature                            |5||4||3||3||3||2||1||1||1||1|
-| 18th| +6 | Channel Divinity (3/rest)                                            |5||4||3||3||3||3||1||1||1||1|
-| 19th| +6 | Ability Score Improvement                                            |5||4||3||3||3||3||2||1||1||1|
-| 20th| +6 | Divine Intervention Improvement                                      |5||4||3||3||3||3||2||2||1||1|
-
+|Level|Proficiency<br>Bonus|Light<br>Points|&nbsp;|Features|Cantrips<br>Known|&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;|6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th|
+|:---:|:--:|:--:|:-|:-------------------|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|
+| 1st | +2 |  — || Spellcasting, Divine Priesthood                                      |3||2||—||—||—||—||—||—||—||—|
+| 2nd | +2 |  2 || Channel Divinity (1/rest), Divine Priesthood feature, Lightwell      |3||3||—||—||—||—||—||—||—||—|
+| 3rd | +2 |  3 || Word of Power                                                        |3||4||2||—||—||—||—||—||—||—|
+| 4th | +2 |  4 || Ability Score Improvement                                            |4||4||3||—||—||—||—||—||—||—|
+| 5th | +3 |  5 || —                                                                    |4||4||3||2||—||—||—||—||—||—|
+| 6th | +3 |  6 || Channel Divinity (2/rest), Divine Priesthood feature                 |4||4||3||3||—||—||—||—||—||—|
+| 7th | +3 |  7 ||  —                                                                   |4||4||3||3||1||—||—||—||—||—|
+| 8th | +3 |  8 || Ability Score Improvement, Divine Priesthood feature                 |4||4||3||3||2||—||—||—||—||—|
+| 9th | +4 |  9 || —                                                                    |4||4||3||3||3||1||—||—||—||—|
+| 10th| +4 | 10 || Divine Intervention, Word of Power                                   |5||4||3||3||3||2||—||—||—||—|
+| 11th| +4 | 11 || —                                                                    |5||4||3||3||3||2||1||—||—||—|
+| 12th| +4 | 12 || Ability Score Improvement                                            |5||4||3||3||3||2||1||—||—||—|
+| 13th| +5 | 13 || —                                                                    |5||4||3||3||3||2||1||1||—||—|
+| 14th| +5 | 14 || Word of Power                                                        |5||4||3||3||3||2||1||1||—||—|
+| 15th| +5 | 15 || —                                                                    |5||4||3||3||3||2||1||1||1||—|
+| 16th| +5 | 16 || Ability Score Improvement                                            |5||4||3||3||3||2||1||1||1||—|
+| 17th| +6 | 17 || Divine Priesthood feature, Word of Power                             |5||4||3||3||3||2||1||1||1||1|
+| 18th| +6 | 18 || Channel Divinity (3/rest)                                            |5||4||3||3||3||3||1||1||1||1|
+| 19th| +6 | 19 || Ability Score Improvement                                            |5||4||3||3||3||3||2||1||1||1|
+| 20th| +6 | 20 || Divine Intervention improvement                                      |5||4||3||3||3||3||2||2||1||1|
 </div>
 
 ### Creating a Priest
-Like paladins, the most important aspect of a priest charac-ter is the nature of their holy quest. Are you a devoted ser-vant of good, loyal to the holy light?, a disciplined priest, in beautiful robes, monitoring a sept? or are you an unholy priest of shadows, fallen either by choice or forcefully towards the necrotic arts?
+Are you a devoted servant of good, loyal to the holy light?, a disciplined priest, in beautiful robes, monitoring a sept? or are you an unholy priest of shadows, fallen either by choice or forcefully towards the necrotic arts?
 
-How did you enter priesthood? Were you raised in a mo-nastry? Did you hear a whisper from the light itself telling you to serve it? Or did a terrible war force you to take up the warmth of the holy light to assist your allies? Perhaps you might have known from your earliest memories that the priest's life was your calling, almost as if you had been sent into the world with that purpose stamped on your soul.
+How did you enter priesthood? Were you raised in a mo-nastery? Did you hear a whisper from the light itself telling you to serve it? Or did a terrible war force you to take up the warmth of the holy light to assist your allies? Perhaps you might have known from your earliest memories that the priest's life was your calling, almost as if you had been sent into the world with that purpose stamped on your soul.
 
 As guardians against forces of wickedness and evil, priests are rarely of any evil alignment. Most of them walk the paths of charity and soothing, or did you never feel the warmth of the holy light, and instead felt the calling of the old gods? their voidic magic wrapping around you, making your actions chaotic?
 
@@ -3800,8 +3799,8 @@ ___
 #### Proficiencies
 ___
 - **Armor:** None
-- **Weapons:** Simple weapons
-- **Tools:** None
+- **Weapons:** All simple weapons
+- **Tools:** Healer's Kit
 ___
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
@@ -3809,9 +3808,8 @@ ___
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
  - *(a)* a mace or *(b)* a quarterstaff
- - *(a)* a light crossbow and 20 bolts or *(b)* any simple weapon
  - *(a)* a priest's pack or *(b)* an explorer's pack
- - a holy symbol
+ - a holy symbol, and two daggers
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
@@ -3841,7 +3839,6 @@ Wisdom is your spellcasting ability for your priest spells. The power of your sp
 **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
-
 </div>
 
 #### Ritual Casting
@@ -3850,22 +3847,17 @@ You can cast a priest spell as a ritual if that spell has the ritual tag and you
 #### Spellcasting Focus
 You can use a holy symbol as a spellcasting focus for your priest spells.
 
-### Priesthood
-Choose a priesthood: Discipline, Holy, or Shadow. Each priesthood is detailed at the end of the class description. Your choice grants you spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+### Divine Priesthood
+Choose a divine priesthood: Discipline, Holy, or Shadow. Each priesthood is detailed at the end of the class descrip-tion. Your choice grants you spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 #### Priesthood Spells
 Each priesthood has a list of spells that you gain at the priest levels noted in the priesthood description. 
 
-\columnbreak
-
 <br>
 
-Once you gain a priesthood spell, you always have it pre-pared, and it doesn't count against the number of spells you can prepare each day.
+&nbsp;&nbsp;&nbsp; Once you gain a priesthood spell, you always have it pre-pared, and it doesn't count against the number of spells you can prepare each day.
 
 If you have a priesthood spell that doesn't appear on the priest spell list, the spell is considered a priest spell for you.
-
-### Unarmored Defense
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Wisdom modifier. You can use a shield and still gain this benefit.
 
 ### Channel Divinity
 At 2nd level, you gain the ability to channel divine energy directly from the holy light, using that energy to fuel magical effects. You start with two such effects: Shackle Undead and an effect determined by your priesthood.
@@ -3877,41 +3869,80 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
 #### Channel Divinity: Shackle Undead
-As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is shackled for 1 minute or until it takes any damage.
+As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is stunned for 1 minute or until it takes any damage.
 
-A shackled creature is considered restrained and stunned until the shackles are broken. While shackled an undead can make a new saving throw at the end of its turn to end the stunned effect on itself. The restrained condition can only be broken if the undead takes any damage, or 1 minute passes.
+### Lightwell
+Also at 2nd level, you tap into a deep wellspring of divine energy within yourself. This wellspring is represented by light points, which allow you to create magical effects.
 
-### Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+#### Light Points
+You have 2 light points, and you gain more as you reach higher levels, as shown in the Light Points column of the Priest table. You can never have more light points than shown on the table for your level. You regain all spent light points when you finish a long rest.
 
-### Destroy Undead
-Starting at 5th level, when an undead fails its saving throw against your Shackle Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
+#### Flexible Casting
+You can use your light points to gain additional spell slots, or sacrifice spell slots to gain additional light points. You learn other ways to use your light points as you reach higher levels.
 
-##### Destroy Undead
-| Priest Level | Destroys Undead of CR . . . |
-|:----:|:-------------|
-| 5th  | 1/2 or lower |
-| 8th  | 1 or lower   |
-| 11th | 2 or lower   |
-| 14th | 3 or lower   |
-| 17th | 4 or lower   |
+***Creating Spell Slots.*** You can transform unexpended light points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
+
+##### Creating Spell Slots
+| Spell Slot Level | Light Point Cost |&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
+|:----:|:-------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1st  | 2 ||||||||||||||
+| 2nd  | 3 ||||||||||||||
+| 3rd  | 5 ||||||||||||||
+| 4th  | 6 ||||||||||||||
+| 5th  | 7 ||||||||||||||
+
+***Converting a Spell Slot to Light Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of light points equal to the slot's level.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
+### Word of Power
+Starting at 3rd level, you gain the ability to speak words of power to envelope your allies or harm a creature. You learn one of the following Word of Power options of your choice. You learn another word at 10th, 14th, and 17th level.
+
+Speaking a word of power requires an action unless otherwise specified. You can only have one Word of Power active at a time, and can dismiss an active word as a bonus action on your turn.
+
+#### Barrier
+You can spend 2 light points and choose a creature within 30 feet of you, the chosen creature gains the benefit of the *protection from evil and good* spell for its duration.
+
+This word of power requires your concentration.
+
+#### Chastise
+You can spend 2 light point and choose a point within 60 feet of you, all allies within 10 feet gains advantage on attack rolls until the start of your next turn. If they hit with a weapon attack, their weapon deals radiant damage instead of weapon damage.
+
+#### Fortitude
+You can spend 2 light point and choose a creature within 60 feet of you, the chosen creature have resistance against all damage for  up to 1 minute.
+
+This word of power requires your concentration.
+
+#### Pain
+You can spend 1 light point and choose a creature within 60 feet of you, the chosen creature must succeed on a Constitution saving throw, or have disadvantage on attack rolls until the end of its next turn.
+
+#### Sanctify
+You can spend 2 light points and choose a creature within 30 feet of you, the chosen creature gains the benefit of the *sanctuary* spell for its duration.
+
+This word of power requires your concentration.
+
+#### Shield
+You can spend 2 light points and choose a creature within 60 feet of you, the chosen creature gains temporary hit points equal to your priest level + your Wisdom modifier.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
 ### Divine Intervention
-Beginning at 10th level, you can call on the Holy Light to intervene on your behalf when your need is great.
+Beginning at 10th level, you can call on a divine power to intervene on your behalf when your need is great.
 
-Imploring its aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your priest level, the Holy Light intervenes. The DM chooses the nature of the intervention; the effect of any priest spell or priesthood spell would be appropriate.
+Imploring a powers aid requires your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your priest level, the power intervenes. The DM chooses the nature of the intervention; the effect of any priest spell would be appropriate.
 
-If it intervene, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+If a divine power intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
-## Priesthood
-As a priest, you choose one aspect of priesthood to emphasize, and you are granted powers related to that purpose. Your choice might correspond to a particular sect dedicated to branch of priesthood. Your choice of priest-hood could simply be a matter of personal preference, the aspect of the purpose that appeals to you most.
+\columnbreak
+
+## Divine Priesthoods
+Priests enter into divine priesthoods, some strive to follow the holy light directly, others enter sects dedicated to lesser powers, or fall to the void entirely. Your choice might corre-spond to a particular branch of priesthood, it could simply be a matter of personal preference, having the purpose that appeals to you the most.
 
 ### Discipline Priesthood
 These priests understand that light casts a shadow, that darkness is defined by light, and that true discipline stems from one’s ability to balance these opposing powers in services of a greater cause. While they poss many holy virtues to aid their allies, they also dabble in the dark arts to debilitate their enemies.
@@ -3925,31 +3956,36 @@ These priests understand that light casts a shadow, that darkness is defined by 
 | 7th | death ward, guardian of faith |
 | 9th | contagion, raise dead         |
 
-#### Shadow Mending
-When you choose this priesthood at 1st level, you are able to manipulate shadow magic into aiding allies. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die rolled.
+#### Shadow Mend
+At 1st level, you are able to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit point, you instead use the highest number possible for each die.
 
 In addition, you learn the *spare the dying* cantrip, which doesn't count against the number of priest cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
 
-#### Channel Divinity: Halo
-Starting at 2nd level, you can use your Channel Divinity to burst out an expanding ring of radiant and necrotic force.
+#### Channel Divinity: Penance
+Starting at 2nd level, you can use your Channel Divinity to burst out an expanse of radiant and necrotic force.
 
-As an action, you present your holy symbol and evoke a ring of energy that can heal your allies and harm your enemies for a number of hit points equal to four times your priest level. Choose any creatures within 30 feet of you, and divide those hit points among them, choosing for each target if you wish to restore hit points, or deal necrotic damage to them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature to heal an undead or construct.
+As an action, you present your holy symbol, and release a volley of holy light towards a target within 60 feet of you. Its effect changing depending on if you target an ally or enemy. 
 
-#### Channel Divinity: Atonement
-Beginning at 6th level, you can use your Channel Divinity to atone an ally, amending their failure.
+***Ally.*** The target regains hit points equal to 1d10 + twice your priest level. This feature can restore a creature to no more than half of its hit point maximum.
 
-When a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll. You can use this feature after you see the attack roll, but before the DM says whether the attack hits or misses its target.
+***Enemy.*** The target must make a Constitution saving throw, taking necrotic damage equal to three times your priest level on a failed save, or half as much on a success.
+
+#### Atonement
+Beginning at 6th level, the harmful spells you cast bolster your allies. When you cast a spell of 1st level or higher that deals damage to a creature, an ally within 30 feet of you regains hit points equal to 2 + the spell's level.
 
 #### Potent Spellcasting
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any priest cantrip.
 
 #### Pain Suppression
-Upon reaching 17th level, you gain resistance to two damage types of your choice, choosing from bludgeoning, necrotic, piercing, radiant, and slashing. Whenever you finish a short or long rests, you can change the damage types you chose.
+At 17th level, you can spend 4 light points and use your reaction when a creature is hit by an attack or spell to give them resistance to all damage except psychic until the end of the current turn.
 
-As an action, you can give up this resistance and transfer it to one creature you touch. The creature keeps the resis-tance until the end of your next short or long rest or until you transfer it back to yourself as a bonus action.
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+
+\pagebreakNum
 
 ### Holy Priesthood
-These priests leave their houses of worship to serve on the battlefield, as shepherd to flock. There, they use their holy powers to bless allies and mend wounds. Whilst most stay behind the frontlines to aid their comrades, these holy champions are also capable of smiting foes and carrying out sacred justice.
+These priests carry out the holy message of the light, they leave their house of worship to serve on the battlefield. They use their divine powers to bless their allies and mend wounds from afar, pulling creatures out of harm's way by enveloping them in divine light.
 
 ##### Holy Priesthood Spells
 | Priest Level | Spells                      |
@@ -3960,36 +3996,26 @@ These priests leave their houses of worship to serve on the battlefield, as shep
 | 7th | death ward, guardian of faith        |
 | 9th | mass cure wounds, raise dead         |
 
-#### Bonus Cantrip
-When you choose this priesthood at 1st level, you gain the *virtue* cantrip if you don't already know it.
-
 #### Echoes of Life
 At 1st level, whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
 
 #### Channel Divinity: Prayer of Healing
 Starting at 2nd level, you can use your Channel Divinity to heal those that are badly injured.
 
-As an action, you present your holy symbol and speak a prayer, evoking healing energy. Choose any creature within 30 feet of you, healing each creature for a number of hit points equal to your priest level + your Wisdom modifier. You can't use this feature on an undead or a construct.
+As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your priest level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
 
-#### Blessed Healer
+#### Perseverance
 Beginning at 6th level, the healing spells you cast on others can heal you as well. When you cast a spell with a spell slot and it restores hit points to any creature other than you this turn, you regain hit points equal to 2 + the spell's level.
 
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
-
 #### Leap of Faith
-Starting at 8th level, you can use holy energy to pull a target towards you. As a bonus action, choose a creature within 60 feet of you, pulling the creature to an empty square within 5 feet of you, doing so does not provoke attacks of opportunity on the pulled target. A creature can make a Strength saving throw to prevent being pulled to your side. On a successful save, the creature isn't pulled towards you.
-
-You can use this feature twice. You regain expended usses when you finish a short or long rest.
+Starting at 8th level, you can spend 2 light points to warp a target in divine energy and pull them towards you. As an action, choose a creature within 60 feet of you, pulling it to an empty square within 5 feet of you, doing so does not provoke opportunity attacks. If a creature is unwilling to be moved, it must succeed on a Strength saving throw.
 
 #### Guardian Spirit
-Upon reaching 17th level, you can call upon a guardian to immediately guide a fallen allies spirit back to their body.
+At 17th level, you can call upon a guardian to guide a fallen allies spirit back to their body. When a target dies, you can use your reaction to return them to life before their spirit lives for the afterlife. The target is immediately returned to life, healed for twice your priest level, and gains immunity to all damage until the beginning of their next turn.
 
-As a reaction upon an ally dying, you can call upon a guardian spirit, immediately resurrecting the ally, and heal-ing them for twice your priest level. The resurrected ally gains immunity towards all damage until the beginning of their next turn.
+Once you use this feature, you can't use it again until you finish a long rest.
 
-Once you have used this feature, you can't use it again until you have finished a long rest.
+\columnbreak
 
 ### Shadow Priesthood 
 These priests fully embrace the void and its magics, their faith equal to their holy counterparts, yet focused on dark magics and mental manipulation. They dedicate their lives to worship, but they derive their power from the Void, stray-ing dangerously close to the domain of the Old Gods.
@@ -4003,38 +4029,34 @@ These priests fully embrace the void and its magics, their faith equal to their 
 | 7th | black Tentacle, phantasmal Killer |
 | 9th | negative energy flood, wall of Force |
 
-#### Bonus Proficiency
-When you choose this priesthood at 1st level, you gain proficiency with martial weapons.
-
 #### Legacy of the Void
 Also at 1st level, learn one necromancy cantrip of your choice from any spell list. When you cast a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.
 
-\columnbreak
+#### Chan. Divinity: Surrender to Madness
+Starting at 2nd level, you can use your Channel Divinity to submit to the whispers of the Old Gods.
 
-#### Channel Divinity: Submit to Madness
-Starting at 2nd level, you can use your Channel Divinity to surrender to the madness of the Old Gods.
+As a bonus action, you invoke the madness of the old gods into your holy symbol, shrouding your body in void. For 1 minute, you gain the following benefits:
+ - You add your Wisdom modifier to your Armor Class.
+ - You can use your reaction to give a weapon attack against you disadvantage, shifting your void form.
+ - When you would normally roll one or more dice to damage a target with a spell of 5th level or lower, you instead use the highest number possible for each die.
 
-As an action, you invoke your holy symbol with necrotic energy, covering your body in void. For the duration of the channel divinity, you add twice your Wisdom modifier to your Armor Class, and you use your reaction to give attacks roll against you disadvantage, shifting your voidic shape.
+At the end of each of your turns, you must succeed on a DC 10 Wisdom saving throw, or take half of your hit point maximum in psychic damage and ending the madness on a failed save, this damage can't be prevented or resisted.
 
-In addition, when you would normally roll one or more dice to damage a target with a spell, you instead use the highest number possible for each die. For example, instead of dealing 2d6 hit points, you damage the creature for 12.
+The DC increases by 1 for each consecutive turn.
 
-This channel divinity lasts for 1 minute, and does not require your concentration. When the channel divinity ends, you must make a Constitution saving throw against your own spell save DC. Taking half your maximum health in psychic damage on a failed save, and half as much on a successful one. This damage ignores temporary hit points, resistances and im-munities. If the damage brings you below 0 hit points, you immediately become stable.
+#### Inescapable Corruption
+Beginning at 6th level, you learn to weave necrotic magic past a creatures natural resistances. Necrotic damage dealt by your spells ignore resistance to necrotic damage.
 
-#### Unseen Recovery
-Beginning at 6th level, you start to feel the influence of the old gods. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your priest level (rounded up), and non of the slots can be of 6th level or higher.
-
-For example, if you're a 4th-level priest, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot, or two 1st-level spell slots.
-
-#### Shadowy Embrace
-Starting at 8th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with shadow magic and meddling with the void that you have become inured to some of their worst effects.
+#### Void Eruption
+Starting at 8th level, you gain the ability to infuse your weapon strikes with necrotic energy---a gift from the void. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 #### Improved Legacy of the Void
 Upon reaching 17th level, when you cast a necromancy spell of 1st through 5th-level that targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other. If the spell consumes its mate-rial components, you must provide them for each target.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/AqgsnIF.jpg' style='position:absolute; top:680px; right:0px; width:800px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-40px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/873nzvm.png' style='position:absolute; top:690px; right:65px; width:300px' />
+<img src='https://www.gmbinder.com/images/AqgsnIF.jpg' style='position:absolute; top:750px; right:80px; width:800px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/VxJ8X1u.png' style='position:absolute; top:0px; right:-200px; width:1030px;transform:rotate(180deg)' />
+<img src='https://www.gmbinder.com/images/873nzvm.png' style='position:absolute; top:970px; right:65px; width:300px' />
 
 \pagebreakNum
 
