@@ -2621,7 +2621,7 @@ At 20th level, you become an unparalleled hunter. Once on each of your turns, yo
 
 \columnbreak
 
-<div style='margin-top:170px;'></div>
+<div style='margin-top:140px;'></div>
 
 ## Hunter Archetypes
 All hunters have certain things in common, such as their love for the wilderness, or their passion for beasts. But some hunters have more than love for beasts, and others a greater love for the wild, hunters fall into three categories: Beast Master, Marksman, and Survivalist.
@@ -2633,11 +2633,11 @@ Among the most gifted hunters, there are those who have from birth felt a profou
 Starting at 3rd level, your way with beasts are unmatched, making you able to tame Large beasts with a challenge rating of 1 or lower.
 
 #### Kindred Spirit
-Beginning at 7th level, while your companion can see you, it has advantage on all saving throws.
+Beginning at 7th level, you and your animal companion form a more potent fighting team. When you hit a creature with a weapon attack on your turn, if your companion is within range, it can use its reaction to make a melee attack against the same target.
 
-In addition, you can use your reaction to shout out at your companion before an attack roll have been made against it, giving it resistance to the attack if it hits.
+Additionally, you can use your reaction to warn your companion when an attack roll is made against it, giving it resistance to all damage dealt by the attack if it hits.
 
-#### Bestial Wrath
+#### Aspect of the Wilds
 Starting at 11th level, your time spent around your animal companion have begun influencing you, you gain one of the following features of your choice.
 
 ***Pack Tactics.*** You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -2646,15 +2646,15 @@ Starting at 11th level, your time spent around your animal companion have begun 
 
 ***Rampage.*** When you reduce a creature to 0 hit points with a weapon attack on your turn, you can use your bonus action to move up to half your speed and make another attack with the same weapon.
 
-#### Aspect of the Wilds
-At 15th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast attacks you, that creature must make a Wisdom saving throw. On a failed save, you can use your reaction to command the creature to attack a different target, or lose the attack. This doesn't protect you from area effects.
+#### One of the Pack
+At 15th level, the 'voice' of your companion helps you to overcome grievous injuries and keep on fighting. When you take damage that reduces you to 0 hit points and doesn't kill you outright, your companion can use its reaction to call out to you. If you are within range to hear its call, you immediately gain hit points equal to your hunter level, and regain your consciousness.
 
-On a successful save, the beast becomes immune to this effect for 24 hours. The beast is aware of this effect before making its attack against you.
+Once you (and your companion) uses this feature, you can't use it again until you finish a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/IDnBEac.jpg' style='position:absolute; top:0px; right:150px; width:900px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-90px; width:900px' />
-<img src='https://www.gmbinder.com/images/7GHXLJI.png' style='position:absolute; top:-230px; right:90px; width:240px;transform:rotate(300deg)' />
+<img src='https://www.gmbinder.com/images/7GHXLJI.png' style='position:absolute; top:-260px; right:90px; width:240px;transform:rotate(300deg)' />
 
 \pagebreakNum
 
@@ -2692,11 +2692,11 @@ Starting at 3rd level, you hone the art of ambushing. You can give yourself a bo
 
 At the start of your first turn of each combat, your walk-ing speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If the attack hits, the target takes an extra 1d8 damage of the weapon's damage type.
 
-#### Survival Technique
-At 7th level, you gain extra resilience against your mark's assaults on your mind and body. Whenever the target of your Hunter's Mark forces you to make a saving throw, you can roll 1d6 and add it to your saving throw.
-
 #### Camouflage
-Starting at 11th level, you gain the ability to cast the *pass without trace* spell without providing material components, but only as a ritual. You must have access to fresh mud, dirt, plants, soot, and other natural occurring materials for you to be able to do so.
+Beginning at 7th level, you gain the ability to cast the *pass without trace* spell without providing material components, but only as a ritual. You must have access to fresh mud, dirt, plants, soot, and other natural occurring materials for you to be able to do so.
+
+#### Marked Counter
+Upon reaching 11th level, you gain the ability to counter-attack when your marked target tries to sabotage you. If the target of your Hunter's Mark forces you to make a saving throw, you can use your reaction to make a weapon attack against the quarry. You make this attack before making the saving throw. If your attack hits, you gain advantage on your saving throw, in addition to the attack's normal effects.
 
 #### Aspect of the Beast
 At 15th level, you take on an aspect of a one of the following beasts of your choice.
@@ -2708,8 +2708,8 @@ At 15th level, you take on an aspect of a one of the following beasts of your ch
 ***Turtle.*** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/zivJGbT.jpg' style='position:absolute; top:720px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-120px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/zivJGbT.jpg' style='position:absolute; top:750px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-90px; right:0px; width:900px' />
 
 \pagebreakNum
 
