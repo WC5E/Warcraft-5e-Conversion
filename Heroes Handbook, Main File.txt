@@ -3923,7 +3923,7 @@ You can spend 2 light points and choose a creature within 30 feet of you, the ch
 This word of power requires your concentration.
 
 #### Chastise
-You can spend 1 light point and choose a point within 60 feet of you, all allies within 10 feet gains advantage on attack rolls until the start of your next turn. If they hit with a weapon attack, their weapon deals radiant damage instead of weapon damage.
+You can spend 2 light point and choose a point within 60 feet of you, all allies within 10 feet gains advantage on attack rolls until the start of your next turn. If they hit with a weapon attack, their weapon deals radiant damage instead of weapon damage.
 
 #### Fortitude
 You can spend 2 light point and choose a creature within 60 feet of you, the chosen creature have resistance against all damage for  up to 1 minute.
