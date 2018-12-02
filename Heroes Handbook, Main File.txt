@@ -3549,9 +3549,9 @@ When you use your Channel Divinity, you choose which option to use. You must the
 Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
 
 ### Divine Auras
-Upon reaching 3rd level, you are able to emit your divinity onto creatures within 10 feet of you as divine auras. You know all divine auras detailed below.
+Upon reaching 3rd level, you are able to emit your divinity onto creatures within 10 feet of you as divine auras. 
 
-When you use your Divine Aura, you choose which effect to create. The aura persists for 1 hour before vanishing. You must then finish a long rest to use a Divine Aura again.
+As an action you active a divine aura, choosing which effect to create, you can only have one aura active at a time. The aura persists for 1 hour before vanishing. You must then finish a long rest to use a Divine Aura again.
 
 Beginning at 6th level, you can use your Divine Aura twice between rests, and you gain an additional use at 10th, 14th, and 17th level. When you finish a long rest, you regain your expended uses.
 
@@ -3567,10 +3567,10 @@ Whenever you or a friendly creature must make a saving throw, the creature gains
 Whenever you or a friendly creature is hit by a weapon attack, its damage is reduced by an amount equal to your Charisma modifier. Damage can't be reduced below 1.
 
 #### Aura of Resistance
-You and friendly creatures within range gain resistance to damage dealt by spells. 
+You and friendly creatures within range have resistance to damage from spells.
 
 #### Aura of the Crusader
-Whenever you or a friendly creature hits with a weapon attack, the creatures attack deals additional fire damage equal to your Charisma modifier (minimum of 1).
+Whenever you or a friendly creature hits with a weapon attack, their attack deals extra radiant damage equal to your Charisma modifier (minimum of 1).
 
 \columnbreak
 
@@ -3630,9 +3630,8 @@ Starting at 15th level, when you are reduced to 0 hit points and are not killed 
 
 #### Lightbringer
 At 20th level, you can envelope your body in the warmth of the holy light, making your skin shine a bright golden light. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
- - At the start of your turns, you regain 10 hit points.
- - Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using a bonus action instead.
- - Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options.
+ - Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using your bonus action.
+ - Enemy creatures within 10 feet of you have disadvan-tage on saving throws against your paladin spells and Channel Divinity options.
  - You shine bright light in a 20-ft radius around you, and dim light for an additional 20 feet.
 <div style='margin-top:-5px;'></div>
 
@@ -3656,7 +3655,7 @@ You gain oath spells at the paladin levels listed.
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/psqmVcl.jpg' style='position:absolute; top:0px; right:-205px; width:790px' />
 <img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/K77CAeV.png' style='position:absolute; top:910px; right:440px; width:350px;transform:rotate(40deg)' />
+<img src='https://www.gmbinder.com/images/K77CAeV.png' style='position:absolute; top:900px; right:440px; width:350px;transform:rotate(40deg)' />
 
 \pagebreakNum
 
@@ -3675,7 +3674,7 @@ At 15th level, the holy light mends your wounds in battle.  You regain hit point
 
 #### Ardent Defender
 At 20th level, you armor is replaced by heavy plates of divine energy, your presence on the field of battle becoming an inspiration to those around you. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
- - You have resistance to bludgeoning, piercing, and slashing from nonmagical weapons.
+ - You have resistance to all damage.
  - Your allies have advantage on death saving throws while within 30 feet of you.
  - You have advantage on Wisdom saving throws, as do your allies within 30 feet of you.
 <div style='margin-top:-5px;'></div>
@@ -3685,10 +3684,10 @@ At 20th level, you armor is replaced by heavy plates of divine energy, your pres
 ### Oath of Retribution
 Retribution paladins are vengeful guardians of the weak, crusaders judging and punishing the wicked. Their resolute conviction in the divine order of all things assures them that victory is inevitable, but they will fight to the end to ensure that the Light prevails.
 
+\columnbreak
+
 #### Oath Spells
 You gain oath spells at the paladin levels listed.
-
-\columnbreak
 
 ##### Oath of Retribution Spells
 | Paladin Level| Spells                         |
@@ -3702,30 +3701,28 @@ You gain oath spells at the paladin levels listed.
 #### Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-***Sword of Light.*** As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
-
-You can end this effect on your turn as part of any other action, If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
+***Templar's Verdict.*** As a bonus action, you can utter a verdict against a creature you can see within 10 feet of you. You gain advantage on attack rolls against the creature for 1 minute, until it drops to 0 hit points or falls unconscious.
 
 ***Weapon of Justice.*** As an action, you slam a divine weapon down upon an enemy within 30 feet, the target must succeed a Constitution saving throw, or be stunned for a number of rounds equal to your Charisma modifier, or until it takes damage. The target makes another saving throw at the end of each of its turns, ending the sun on a successful save.
 
-#### Final Verdict
-By 7th level, your relentless spirit to see retribution done helps you close off a foe's retreat. When you hit a creature with an opportunity attack, you can move up to half your movement speed immediately after the attack and as part of the same reaction. This movement doesn't provoke opportunity attacks.
+#### Divine Weapon
+Upon reaching 7th level, your weapon attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
-#### Shield of Vengeance
-Starting at 15th level, those who dare to strike you are psychically punished for their crimes. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 1) if you're not incapacitated.
+#### Relentless Avenger
+Starting at 15th level, when a creature under the effect of your Templar's Verdict makes an attack, you can use your reaction to make a melee weapon attack against the creature if it is within range.
 
 #### Divine Judgement
 At 20th level, you gain the ability to harness extraordinary martial prowess. Using your action, you undergo a trans-formation. For 1 minute, you gain the following benefits:
- - You have resistance to all damage.
+ - You have resistance to bludgeoning, piercing, and slashing from nonmagical weapons.
  - When you take the Attack action on your turn, you can make one additional attack as part of that action.
- - Your melee weapon attacks score a critical hit on a roll of 20 or 20 on the d20.
+ - Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
 <div style='margin-top:-5px;'></div>
 
 &nbsp;&nbsp;&nbsp; Once you use this feature, you can't use it again until you finish a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/GbZUCT7.jpg' style='position:absolute; top:940px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1020px' />
+<img src='https://www.gmbinder.com/images/GbZUCT7.jpg' style='position:absolute; top:845px; right:-50px; width:900px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:920px' />
 
 \pagebreakNum
 
