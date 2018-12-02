@@ -7816,8 +7816,8 @@ Conjure Elemental
 </div>
 
 <div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://i.imgur.com/vkMYjIY.jpg' style='position:absolute; top:0px; right:-200px; width:850px' />
-<img src='https://i.imgur.com/j0RJ7pI.png' style='position:absolute; top:0px; right:-200px; width:1000px' />
+<img src='https://www.gmbinder.com/images/vkMYjIY.jpg' style='position:absolute; top:0px; right:-200px; width:850px' />
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:-200px; width:1000px' />
 
 \pagebreakNum
 
