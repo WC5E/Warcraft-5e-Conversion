@@ -7618,7 +7618,6 @@ Aid
 
 <div style='column-count:2'>
 
-
 <br>Hold Person
 <br>Lesser Restoration
 <br>* Mind Blast
@@ -7669,9 +7668,6 @@ Commune
 <br>Flame Strike
 <br>Geas
 <br>Greater Restoration
-
-\columnbreak
-
 <br>Hallow
 <br>Holy Weapon
 <br>Legend Lore
@@ -7687,15 +7683,15 @@ Eyebite
 <br>Harm
 <br>Heal
 <br>Heroes' Feast
-<br>* Power Word Shield
 <br>True Seeing
 <br>Word of Recall
+
+\columnbreak
 
 ##### 7th Level
 Conjure Celestial
 <br>Divine Word
 <br>Finger of Death
-<br>Power Word Pain
 <br>Regenerate
 <br>Resurrection
 <br>Symbol
@@ -7706,13 +7702,10 @@ Antimagic Field
 <br>Holy Aura
 <br>Maddening Darkness
 <br>Mind Blank
-<br>Power Word Stun
 
 ##### 9th Level
 Mass Heal
 <br>True Resurrection
-<br>Power Word Heal
-<br>Power Word Kill
 <br>Psychic Scream
 
 ### Shaman Spells
@@ -7721,9 +7714,6 @@ Control Flames
 <br>Create Bonfire
 <br>Frostbite
 <br>Gust
-
-\columnbreak
-
 <br>* Invoke Elements
 <br>Magic Stone
 <br>Mending
@@ -7763,6 +7753,7 @@ Aganazzar's Scorcher
 <br>Healing Spirit
 <br>Heat Metal
 <br>Lesser Restoration
+
 <br>Maximilian's <br> &nbsp;&nbsp;&nbsp;&nbsp;Earthen Grasp
 <br>Pyrotechnics
 <br>Scorching Ray
@@ -7770,8 +7761,6 @@ Aganazzar's Scorcher
 <br>Shatter
 <br>Skywrite
 <br>Warding Wind
-
-\columnbreak
 
 ##### 3rd Level
 Call Lightning
@@ -7781,7 +7770,6 @@ Call Lightning
 <br>Erupting Earth
 <br>Fireball
 <br>Haste
-<br>* Vodoo Hex
 <br>Lightning Bolt
 <br>Meld into Stone
 <br>Revivify
@@ -7825,11 +7813,13 @@ Conjure Elemental
 <br>Reincarnate
 <br>Scrying
 <br>Wall of Stone
+<div style='margin-top:2000px;'></div>
+
 </div>
 
 <div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://www.gmbinder.com/images/blmoYBM.jpg' style='position:absolute; top:800px; right:0px; width:800px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-20px; right:0px; width:900px' />
+<img src='https://i.imgur.com/vkMYjIY.jpg' style='position:absolute; top:0px; right:-200px; width:850px' />
+<img src='https://i.imgur.com/j0RJ7pI.png' style='position:absolute; top:0px; right:-200px; width:1000px' />
 
 \pagebreakNum
 
@@ -7954,14 +7944,10 @@ Imprisonment
 <br>Weird
 </div>
 
-<div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://www.gmbinder.com/images/xWR4dFG.jpg' style='position:absolute; top:0px; right:-250px; width:800px' />
-<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
+\columnbreak
 
 ## Spell Descriptions
-The spells are presented in alphabetical order.
+The new spells are presented in alphabetical order.
 
 #### Arcane Barrage
 *4th-level evocation*
@@ -8009,7 +7995,14 @@ ___
 - **Components:** V, S, M (a piece charcoal and sulfur)
 - **Duration:**  Instantaneous
 ___
-In seconds the ground turns to magma at a point you choose within range and crumbles before a vertical—
+
+<div class='footnote'>PART 2 | SPELLS </div>
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/IxhpmRt.png' style='position:absolute; top:870px; right:430px; width:300px;transform:rotate(-50deg)' />
+
+\pagebreakNum
+
+&nbsp;&nbsp;&nbsp; In seconds the ground turns to magma at a point you choose within range and crumbles before a vertical—
 
 beam of fire and magma spews into the air. creature in a 15-foot-radius, 30-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A target takes 15d6 fire damage on a failed save, or half as much damage on a successful one.
 
@@ -8057,11 +8050,7 @@ The next time you hit a creature with a weapon attack during the spell's duratio
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
 
-<div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/IxhpmRt.png' style='position:absolute; top:890px; right:100px; width:300px;transform:rotate(80deg)' />
-
-\pagebreakNum
+\columnbreak
 
 #### Frostfire Bolt
 *1st-level evocation*
@@ -8110,6 +8099,14 @@ ___
 Frigid cold rapid expands in a 15-foot-radius centered on a point you choose within range. Each creature in the cold must succeed on a Dexterity saving throw. On a failed save, a creature takes 10d6 cold damage and is grappled for 1 hour as ice encases the lower part of their legs. On a successful save, it takes half as much damage and isn't grappled by this spell.
 
 A creature can break the grapple by using their action to make a Strength saving throw, or deal a total of 40 hit points worth of damage to the ice.
+
+<div class='footnote'>PART 2 | SPELLS </div>
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+
+
+\pagebreakNum
+
+
 
 \columnbreak
 
@@ -8168,24 +8165,7 @@ ___
 - **Duration:** Instantaneous
 ___
 
-<div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
-
-<br>
-
 &nbsp;&nbsp;&nbsp; You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcast-ing ability, if you counter the spell, the creature takes 2d8 cold damage. The DC equals 10 + the spell’s level. On a success, the creature’s spell fails and has no effect.
-
-#### Power Word Shield
-*6th-level abjuration*
-___
-- **Casting Time:** 1 reaction, which you take upon a creature taking damage
-- **Range:** 30 feet
-- **Components:** V
-- **Duration:** Concentration, up to 1 hour
-___
-You speak a word of power calling the light to your aid to engulf a creature you can see within range. The target immediately gain 80 temporary hit points. The shield stays around the target until the temporary hit points are expended, or your concentration is broken.
 
 #### Pyroblast
 *7th-level evocation*
@@ -8211,8 +8191,6 @@ A shoot a blast of necrotic energy at a creature within range. Make a ranged spe
 
 This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
-\columnbreak
-
 #### Solar Wrath
 *Evocation cantrip*
 ___
@@ -8237,29 +8215,8 @@ You open a crack into the void, as a shimmering black knife strikes out from the
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
-#### Vodoo Hex
-*3rd-level transmutation*
-___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Components:** V, S, M (a caterpillar cocoon)
-- **Duration:** Concentration, up to 1 hour
-___
-This spell transform a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. A shapechanger automatically succeeds on this saving throw.
-
-The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast who has a challenge rating of 0. The target's game statistics including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.
-
-The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. 
-
-If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious.
-
-The creature is limited in actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech.
-
-The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
-
 <div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://www.gmbinder.com/images/eCjWkib.jpg' style='position:absolute; top:850px; right:-100px; width:900px' />
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-20px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
