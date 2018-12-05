@@ -6191,49 +6191,52 @@ You can decide your character's height and weight, using the information provide
 
 If you want to, you can roll randomly for your character's height and weight using the Random Height and Weight table. The dice roll given in the Height Modifier column determines the character's extra height beyond the base height. The same number multiplied by the dice roll or quantity given in the Weight Modifier column determines the character's extra weight beyond the base weight.
 
-<div style='margin-top:20px;'></div>
-
 ##### Random Height and Weight 
 | Race                 | Base<br>Height | Height<br>Modifier | Base<br>Weight | Weight<br>Modifier |
 |:---------------------|:-----|:------|:--------|:------------|
-| Blood Elf            | 4'9" | +2d10 | 100 lb. | x (1d4) lb. |
 | Draenei, broken      | 5'6" | +2d8  | 155 lb. | x (2d6) lb. |
 | Draenei, exodar      | 5'9" | +2d8  | 175 lb. | x (2d6) lb. |
+| Draenei, light       | 6"   | +2d8  | 185 lb. | x (2d6) lb. |
 | Dwarf, bronze        | 3'8" | +2d4  | 115 lb. | x (2d6) lb. |
 | Dwarf, dark          | 3'7" | +2d4  | 125 lb. | x (2d6) lb. |
 | Dwarf, wild          | 4'   | +2d4  | 130 lb. | x (2d6) lb. |
+| Elf, high            | 4'9" | +2d10 | 100 lb. | x (1d4) lb. |
+| Elf, night           | 6'1" | +2d8  | 145 lb. | x (1d6) lb. |
+| Elf, nightborne      | 6"   | +2d10 | 125 lb. | x (1d6) lb. |
+| Elf, void            | 4'7" | +2d10 | 95 lb.  | x (1d4) lb. |
 | Forsaken, elf        | 4'7" | +2d10 | 90 lb.  | x (1d4) lb. |
 | Forsaken, human      | 4'6" | +2d10 | 100 lb. | x (1d4) lb. |
 | Gnome                | 2'7" | +2d4  | 40 lb.  | x 1 lb.     |
 | Goblin               | 3'   | +2d4  | 35 lb.  | x 1 lb.     |
 | Human                | 4'8" | +2d10 | 110 lb. | x (2d4) lb. |
-| Night Elf            | 6'1" | +2d8  | 145 lb. | x (1d6) lb. |
 | Orc                  | 5'4" | +2d10 | 160 lb. | x (2d6) lb. |
 | Pandaren             | 5'8" | +2d4  | 150 lb. | x (2d6) lb. |
-| Tauren               | 6'3" | +2d10 | 200 lb. | x (2d6) lb. |
+| Tauren, high         | 6'4" | +2d10 | 195 lb. | x (2d6) lb. |
+| Tauren, mulgore      | 6'3" | +2d10 | 200 lb. | x (2d6) lb. |
+| Tauren, taunka       | 6'1" | +2d10 | 240 lb. | x (2d6) lb. |
 | Troll, forest        | 5'8" | +2d10 | 150 lb. | x (2d6) lb. |
 | Troll, ice           | 5'4" | +2d8  | 175 lb. | x (2d6) lb. |
 | Troll, jungle        | 5'3" | +2d8  | 160 lb. | x (2d4) lb. |
+| Troll, zandalari     | 5'5" | +2d10 | 165 lb. | x (2d6) lb. |
 | Worgen               | 6'2" | +2d10 | 155 lb. | x (2d6) lb. |
-
 <div style='margin-top:0px;'></div>
 
-For example, as a human, Cayla has a height of 4 feet 8 inches plus 2d10 inches. Her player rolls 2d10 and gets a total of 12, so Cayla stands at 5 feet 8 inches tall. Then the player uses the same roll of 12 and multiplies it by 2d4 pounds. Her 2d4 roll is 3, an extra 36 pounds (12 x 3) on top of her base 110 pounds for a total of 146 pounds.
-
-### Other Physical Characteristics
-You choose your character's age and the color of his and her hair, eyes, skin, and other racial traits. To add a touch of distinctiveness, you might want to give your character an unusual or memorable physical characteristic, such as a scar, a limp, or a tattoo.
+&nbsp;&nbsp;&nbsp; For example, as a human, Cayla has a height of 4 feet 8 inches plus 2d10 inches. Her player rolls 2d10 and gets a total of 12, so Cayla stands at 5 feet 8 inches tall. Then the player uses the same roll of 12 and multiplies it by 2d4 pounds. Her 2d4 roll is 3, an extra 36 pounds (12 x 3) on top of her base 110 pounds for a total of 146 pounds.
 
 <div class='footnote'>PART 1 | PERSONALITY & BACKGROUND</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
-<div style='margin-top:220px;'></div>
+<div style='margin-top:150px;'></div>
 
 > ##### Character Details
 > Consider how the names Cayla Davenport and Endrik Goodwin set these characters apart from each other and reflect their personalities. Cayla is a young woman determined to prove that she's not just a kid any more, and her name makes her sound young and ordinary. Endrik Goodwin comes from a the Stormwind province and carries a name of riches.
 >
 > Cayla is nineteen years old at the start of her adventuring career and has auburn hair, green eyes, fair skin with freckles, and a mole on her right hip. Endrik is a small man, compact and all wiry muscle. He has angular features and high cheekbones, and he always seems in need of a shave. His raven-black hair is thick and full, but his eyes are gray and lifeless, betraying the emptiness of his life and soul.
+
+### Other Physical Characteristics
+You choose your character's age and the color of his and her hair, eyes, skin, and other racial traits. To add a touch of distinctiveness, you might want to give your character an unusual or memorable physical characteristic, such as a scar, a limp, or a tattoo.
 
 ### Alignment
 A typical creature in the world of Warcraft has an align-ment, broadly describing its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitude towards society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
@@ -6250,13 +6253,13 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 
 **Neutral** (N) is the alignment of those who prefer to steer clear of moral questions and don't take sides, doing what seems best at the time. Many humans are neutral.
 
-**Chaotic neutral** (CN) creatures follow their whims, holding their personal freedom above all else. Many warriors, and rogues are chaotic neutral.
-
 \columnbreak
 
-<div style='margin-top:220px;'></div>
+<div style='margin-top:200px;'></div>
 
-<br>&nbsp;&nbsp;&nbsp; **Lawful evil** (LE) creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. The black dragonflight are lawful evil.
+&nbsp;&nbsp;&nbsp; **Chaotic neutral** (CN) creatures follow their whims, holding their personal freedom above all else. Many warriors, and rogues are chaotic neutral.
+
+**Lawful evil** (LE) creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. The black dragonflight are lawful evil.
 
 **Neutral evil** (NE) is the alignment of those who do whatever they can get away with, without compassion or qualms. Many goblins, and warlocks are neutral evil.
 
@@ -6282,7 +6285,7 @@ Most creatures that lack the capacity for rational thought do not have alignment
 
 <div class='footnote'>PART 1 | PERSONALITY & BACKGROUND</div>
 <img src='https://www.gmbinder.com/images/bN7Qtdg.jpg' style='position:absolute; top:-50px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-100px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-130px; right:0px; width:1000px' />
 
 \pagebreakNum
 
@@ -6291,26 +6294,27 @@ Your race indicates the languages your character can speak by default, and your 
 
 Choose your languages from the Standard Languages table, or choose one that fits in your campaign. With your DM's permission, you can instead choose a language from the opposite factions Language table, an Exotic Languages table, or the language of druids and rogues.
 
-Some languages are actually families of languages with many dialects. For example, the Kalimag language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elementals. Creatures that speak different dia-lects of a language can communicate with one another.
+Some languages are actually families of languages with many dialects. For example, the Kalimag language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elementals.
 
-##### Standard Alliance Languages
+##### Standard Languages
 |&nbsp; Language    | Typical Speakers | Script        |
-|:------------------|:-----------------|:--------------|
-|&nbsp; Common      | Humans           | Common        |
-|&nbsp; Dwarven     | Dwarves          | Runic         |
-|&nbsp; Darnassian  | Night Elves      | Darnassian    |
-|&nbsp; Gnomeish    | Gnomes           | Common        |
-|&nbsp; Draenei     | Draeneis         | Eredic        |
-
-##### Standard Horde Languages
-|&nbsp; Language    | Typical Speakers | Script        |
-|:------------------|:-----------------|:--------------|
-|&nbsp; Orcish      | Orcs             | Common        |
-|&nbsp; Gutterspeak | Forsaken         | Common        |
-|&nbsp; Taur-ahe    | Taurens          | Pictoform     |
-|&nbsp; Zandali     | Trolls           | —             |
-|&nbsp; Thalassian  | Blood Elves      | Darnassian    |
-|&nbsp; Goblin      | Goblins          | Common        |
+|:------------------------------|:------------|:-----------|
+|&nbsp; *Alliance Races*        |             |            |
+|&nbsp;&nbsp;&nbsp; Common      | Humans      | Common     |
+|&nbsp;&nbsp;&nbsp; Dwarven     | Dwarves     | Runic      |
+|&nbsp;&nbsp;&nbsp; Gnomeish    | Gnomes      | Common     |
+|&nbsp;&nbsp;&nbsp; Draenei     | Draeneis    | Eredic     |
+|&nbsp; *Horde Races*           |             |            |
+|&nbsp;&nbsp;&nbsp; Orcish      | Orcs        | Common     |
+|&nbsp;&nbsp;&nbsp; Gutterspeak | Forsaken    | Common     |
+|&nbsp;&nbsp;&nbsp; Taur-ahe    | Taurens     | Pictoform  |
+|&nbsp;&nbsp;&nbsp; Zandali     | Trolls      | —          |
+|&nbsp;&nbsp;&nbsp; Goblin      | Goblins     | Common     |
+|&nbsp; *Neutral Races*         |             |            |
+|&nbsp;&nbsp;&nbsp; Darnassian  | Night Elves | Darnassian |
+|&nbsp;&nbsp;&nbsp; Mogu        | Pandarens   | Logogram   |
+|&nbsp;&nbsp;&nbsp; Shalassian  | Nightborne  | Darnassian |
+|&nbsp;&nbsp;&nbsp; Thalassian  | High Elves  | Darnassian |
 
 ##### Exotic Languages
 |&nbsp; Language    | Typical Speakers | Script        |
@@ -6321,7 +6325,6 @@ Some languages are actually families of languages with many dialects. For exampl
 |&nbsp; Giant       | Ogres            | —             |
 |&nbsp; Kalimag     | Elementals       | Runic         |
 |&nbsp; Low Common  | Lesser Races     | Common        |
-|&nbsp; Mogu        | Pandarens        | Logogram      |
 |&nbsp; Pandaren    | —                | Syllabary     |
 
 ### Personal Characteristics
