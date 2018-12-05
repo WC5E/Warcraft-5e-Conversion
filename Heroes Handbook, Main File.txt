@@ -2752,28 +2752,28 @@ Mages live and die by their spells. Everything else is secondary. They learn new
 <div class='classTable wide'>
 
 ##### The Mage
-| Level | Proficiency<br>Bonus | Magi<br>Points |&nbsp;| Features | Cantrips<br>Known |&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;| 6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th|
-|:---:|:--:|:-:|:-:|:---------------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1st | +2 | — || Spellcasting                                           |3||2||—||—||—||—||—||—||—||—|
-| 2nd | +2 | 2 || Magi Tradition, Font of Magic                          |3||3||—||—||—||—||—||—||—||—|
-| 3rd | +2 | 3 || Metamagic                                              |3||4||2||—||—||—||—||—||—||—|
-| 4th | +2 | 4 || Ability Score Improvement                              |4||4||3||—||—||—||—||—||—||—|
-| 5th | +3 | 5 || —                                                      |4||4||3||2||—||—||—||—||—||—|
-| 6th | +3 | 6 || Magi Tradition feature                                 |4||4||3||3||—||—||—||—||—||—|
-| 7th | +3 | 7 || —                                                      |4||4||3||3||1||—||—||—||—||—|
-| 8th | +3 | 8 || Ability Score Improvement                              |4||4||3||3||2||—||—||—||—||—|
-| 9th | +4 | 9 || Metamagic                                              |4||4||3||3||3||1||—||—||—||—|
-| 10th| +4 |10 || Magi Tradition feature                                 |4||4||3||3||3||2||—||—||—||—|
-| 11th| +4 |11 || —                                                      |5||4||3||3||3||2||1||—||—||—|
-| 12th| +4 |12 || Ability Score Improvement                              |5||4||3||3||3||2||1||—||—||—|
-| 13th| +5 |13 || —                                                      |5||4||3||3||3||2||1||1||—||—|
-| 14th| +5 |14 || Magi Tradition feature                                 |5||4||3||3||3||2||1||1||—||—|
-| 15th| +5 |15 || —                                                      |5||4||3||3||3||2||1||1||1||—|
-| 16th| +5 |16 || Ability Score Improvement                              |5||4||3||3||3||2||1||1||1||—|
-| 17th| +6 |17 || Metamagic                                              |5||4||3||3||3||2||1||1||1||1|
-| 18th| +6 |18 || —                                                      |5||4||3||3||3||3||1||1||1||1|
-| 19th| +6 |19 || Ability Score Improvement                              |5||4||3||3||3||3||2||1||1||1|
-| 20th| +6 |20 || Mysterious Restoration                                 |5||4||3||3||3||3||2||2||1||1|
+| Level | Proficiency<br>Bonus | Features | Cantrips<br>Known |&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;| 6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th|
+|:---:|:--:|:---------------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1st | +2 | Spellcasting, Arcane Recovery                          |3||2||—||—||—||—||—||—||—||—|
+| 2nd | +2 | Arcane Study                                           |3||3||—||—||—||—||—||—||—||—|
+| 3rd | +2 | Metamagic (1/rest)                                     |3||4||2||—||—||—||—||—||—||—|
+| 4th | +2 | Ability Score Improvement                              |4||4||3||—||—||—||—||—||—||—|
+| 5th | +3 | —                                                      |4||4||3||2||—||—||—||—||—||—|
+| 6th | +3 | Arcane Study feature                                   |4||4||3||3||—||—||—||—||—||—|
+| 7th | +3 | —                                                      |4||4||3||3||1||—||—||—||—||—|
+| 8th | +3 | Ability Score Improvement                              |4||4||3||3||2||—||—||—||—||—|
+| 9th | +4 | —                                                      |4||4||3||3||3||1||—||—||—||—|
+| 10th| +4 | Arcane Study feature                                   |4||4||3||3||3||2||—||—||—||—|
+| 11th| +4 | —                                                      |5||4||3||3||3||2||1||—||—||—|
+| 12th| +4 | Ability Score Improvement                              |5||4||3||3||3||2||1||—||—||—|
+| 13th| +5 | —                                                      |5||4||3||3||3||2||1||1||—||—|
+| 14th| +5 | Arcane Study feature                                   |5||4||3||3||3||2||1||1||—||—|
+| 15th| +5 | Metamagic (2/rest)                                     |5||4||3||3||3||2||1||1||1||—|
+| 16th| +5 | Ability Score Improvement                              |5||4||3||3||3||2||1||1||1||—|
+| 17th| +6 | —                                                      |5||4||3||3||3||2||1||1||1||1|
+| 18th| +6 | Spell Mastery                                          |5||4||3||3||3||3||1||1||1||1|
+| 19th| +6 | Ability Score Improvement                              |5||4||3||3||3||3||2||1||1||1|
+| 20th| +6 | Signature Spell                                        |5||4||3||3||3||3||2||2||1||1|
 </div>
 
 ### The Lure of Knowledge
@@ -2805,16 +2805,15 @@ ___
 - **Saving Throws:** Intelligence, Wisdom
 - **Skills:** Choose two from Arcana, History, lnsight, lnvestigation, Medicine, and Religion
 
-#### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
- - *(a)* quarterstaff or *(b)* a dagger
- - *(a)* a component pouch or *(b)* an arcane focus
-
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+ - *(a)* quarterstaff or *(b)* a dagger
+ - *(a)* a component pouch or *(b)* an arcane focus
  - *(a)* a scholar's pack or *(b)* an explorer's pack
  - A spellbook
 
@@ -2823,27 +2822,6 @@ As a student of arcane, you own a spellbook with spells that show the glimmering
 
 #### Cantrips
 At 1st level, you know three cantrips of your choice from the mage spell list. You learn additional mage cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Mage table.
-
-<div style='margin-top:30px;'></div>
-
-
-<div align="justify">
-
-> ##### Your Spellbook
-> The spells that you add to your spellbook as you gain levels reflect the arcane research you con-duct on your own, as well as intellectual break-throughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell re-corded on a scroll in an evil sorcerer's chest, for example, or in a dusty tome in an ancient library.
->
-> ***Copying a Spell into the Book.*** When you find a mage spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you can prepare and if you can spare the time to decipher and copy it.
->
-> Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the mage who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
->
-> For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experi-ment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
->
-> ***Replacing the Book.*** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
->
-> If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. Many mages keep backup spellbooks in a safe place.
->
-> ***The Book's Appearance.*** Your spellbook is a unique compilation of spells, with its own de-corative flourishes and margin notes. It might be a plain, functional leather volume that you re-ceived as a gift, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
-</div>
 
 #### Spellbook
 At 1st level, you have a spellbook containing six 1st-level mage spells of your choice. Your spellbook does not contain your known cantrips.
@@ -2870,122 +2848,158 @@ Intelligence is your spellcasting ability for your mage spells, since you learn 
 #### Ritual Casting
 You can cast a mage spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 
+\columnbreak
+
+> ##### Your Spellbook
+> The spells that you add to your spellbook as you gain levels reflect the arcane research you con-duct on your own, as well as intellectual break-throughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell re-corded on a scroll in an evil sorcerer's chest, for example, or in a dusty tome in an ancient library.
+>
+> ***Copying a Spell into the Book.*** When you find a mage spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you can prepare and if you can spare the time to decipher and copy it.
+>
+> Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the mage who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
+>
+> For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experi-ment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
+>
+> ***Replacing the Book.*** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+>
+> If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. Many mages keep backup spellbooks in a safe place.
+>
+> ***The Book's Appearance.*** Your spellbook is a unique compilation of spells, with its own de-corative flourishes and margin notes. It might be a plain, functional leather volume that you re-ceived as a gift, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
+
 #### Spellcasting Focus
 You can use an arcane focus as a spellcasting focus for your mage spells.
 
 #### Learning Spells of 1st Level and Higher
 Each time you gain a mage level, you add two mage spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventurers, you might find other spells that you can add to your spellbook (see the "Your Spellbook" sidebar).
 
-### Magi Tradition
-When you reach 2nd level, you choose a magi tradition, shaping your practice of magic through one of three areas: Arcane Magi, Fire Magi, or Frost Magi, each of which are detailed at the end of the class description.
-
-Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
-
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/fZMAlU8.png' style='position:absolute; top:950px; right:30px; width:300px;transform:rotate(-15deg)' />
 
 \pagebreakNum
 
-### Font of Magic
-At 2nd level, you tap into the leylines running below all of Azeroth, giving you a reserve of magic within yourself. This reserve is represented by magi points, which allow you to create a variety of magical effects.
+### Arcane Recovery
+You learn to regain some of your magical energy by study-ing your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your mage level (rounded up), and none of the slots can be of 6th level or higher.
 
-#### Magi Points
-You have 2 magi points, and you gain more as you reach higher levels, as shown in the Magi Points column of the Mage table. You can never have more magi points than shown on the table for your level. You regain all spent magi points when you finish a long rest.
+For example, if you're a 4th-level mage, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
-#### Flexible Casting
-You can use your magi points to gain additional spell slots, or sacrifice spell slots to gain additional magi points. You learn new ways to use your magi points as you gain levels.
+### Arcane Study
+Starting at 2nd level, you choose an arcane study, shaping your practice of magic through one of three areas: Arcane, Fire or Frost, all detailed at the end of the class description.
 
-***Creating Spell Slots.*** You can transform unexpended magi points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can't create spell slots higher in level than 5th. The created spell slots vanish at the end of a long rest.
-
-##### Creating Spell Slots
-| Spell Slot Level | Magi Point Cost |&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-|:----:|:-------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1st  | 2 ||||||||||||||
-| 2nd  | 3 ||||||||||||||
-| 3rd  | 5 ||||||||||||||
-| 4th  | 6 ||||||||||||||
-| 5th  | 7 |||||||||||||||
-
-***Converting a Spell Slot to Magi Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of magi points equal to the slot's level.
+Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 ### Metamagic
-At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagics of your choice. You gain another one at 9th and 17th level.
+At 3rd level, you gain the ability to twist your spells to suit your needs. You learn two of the following metamagics of your choice from the list below.
 
-You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+When you use your Metamagic, you choose which effect to twist your spells with. You must then finish a short or long rest to use your Metamagic again.
+
+At 15th level, you can use your Metamagic twice between rests. When you finish a short or long rest, you regain your expended uses.
+<div style='margin-top:-5px;'></div>
 
 #### Careful Spell
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 magi point and choose a number of those creatures up to your Intelligence modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw.
-
-#### Distant Spell
-When you cast a spell that has a range of 5 feet or greater. you can spend 1 magi point to double the range of the spell.
-
-When you cast a spell that has a range of touch, you can spend 1 magi point to make the range of the spell 30 feet.
+You can use your metamagic to protect creatures from your spells saving throw. Choose a number of creatures up to your Intelligence modifier (minimum of 1). A chosen crea-ture automatically succeeds on its saving throw.
 
 #### Empowered Spell
-When you roll damage for a spell, you can spend 1 magi point to reroll a number of the damage dice up to your Intelligence modifier (minimum of one). You must then use the new damage rolls.
-
-You can use Empowered Spell even if you have used a different Metamagic option during the casting of the spell.
+You can use your metamagic when you roll damage for a spell to reroll a number of the damage dice up to your Intelligence modifier (minimum of 1). You must then use the new damage rolls.
 
 #### Extended Spell
-When you cast a spell that has a duration of 1 minute or longer, you can spend 1 magi point to double its duration, to a maximum duration of 24 hours.
+You can use your metamagic when you cast a spell that has a duration of 1 minute or longer to double its duration, to a maximum duration of 24 hours.
 
-#### Heightened Spell
-When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 magi points to give one target of the spell disadvantage on its first saving throw made against the spell.
+#### Distant Spell
+You can use your metamagic when you cast a spell that has a range of 5 feet or greater to double the range of the spell.
+
+You can use your metamagic when you cast a spell that has a range of touch to make the range of the spell 30 feet.
 
 #### Quickened Spell
-When you cast a spell that has a casting time of 1 action, you can spend 2 magi points to change the casting time to 1 bonus action for this casting.
+You can use your metamagic when you cast a spell that has a casting time of 1 action to cast it as a bonus action.
 
 #### Subtle Spell
-When you cast a spell, you can spend 1 magi point to cast it without any somatic or verbal components.
-
-#### Twinned Spell
-When you cast a spell that can only target one creature and doesn't have a range of self, you can spend a number of magi points equal to the spell's level to target a second creature in range with the same spell (1 magi point if the spell is a cantrip).
+You can use your metamagic when you cast a spell to cast it without any somatic or verbal components.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2. or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Mysterious Restoration
-At 20th level, you regain 4 expended magi points whenever you finish a short rest.
+\columnbreak
 
-## Magi Specializations
-Magi are spellcasters who favor magics involving the cardinal elements of the universe. Students gifted with a keen intellect and unwavering discipline may walk the path of the mage. The magic available to mages is both great and dangerous, and thus is revealed only to the most devoted practitioners.
+### Spell Mastery
+At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level mage spell and a 2nd-level mage spell that are in your spell-book. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
-### Arcane Magi
+You can spend 8 hours in study, and change one or both of the spells you chose for different spells of the same level.
+
+### Signature Spells
+When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level mage spells in your spellbook as your signa-ture spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without ex-pending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
+
+If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+
+## Arcane Studies
+Mages are spellcasters who favor magics involving the car-dinal elements of the universe. Students gifted with a keen intellect and unwavering discipline may walk the path of the mage. The magic available to mages is both great and dangerous, and thus is revealed only to the most devoted practitioners.
+
+### Study of Arcane
 Mages of the arcane are diviners of secrets, balancing the webb and flow of incredible mystic energies. These practi-tioners push their magical knowledge to its very limits. Those who master this craft are capable of releasing a barrage of unrelenting power upon their enemies.
 
 #### Arcanic Savant
-Beginning when you select this tradition at 2nd level, the gold and time you must spend to copy an abjuration spell into your spellbook is halved.
+Beginning when you select this study at 2nd level, the gold and time you must spend to copy an abjuration spell into your spellbook is halved.
 
-#### Arcane Ward
-Starting at 2nd level, you can weave magic around yourself for protection. When you cast an abjuration spell of 1st level or higher, you can simultaneously use a strand of the spell’s magic to create a magical ward on yourself that lasts until you finish a long rest. The ward has hit points equal to twice your mage level + your Intelligence modifier.
+#### Unstable Surge
+Starting at 2nd level, your spellcasting can unleash surges of untamed magic. Immediately after you cast a mage spell of 1st level or higher, roll a d20. If your roll is less or equal to the level of the spell slot used, consult the table beneath and roll on the Unstable Surge table to create a random magical effect.
+
+The level of the spell slot that triggered the unstable surge determines the strength that the surge is capable of achieving, as shown on the table beneath. When you trigger an Unstable Surge, roll the dice shown for the spells level and consult the Unstable Surge table.
+
+##### Unstable Surge Intensity
+|&nbsp; Spell level or Higher | Surge Die &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|:----------------|:---:|
+|&nbsp;&nbsp;&nbsp; 1st level |  d8 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp; 3rd level | d10 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp; 5th level | d12 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp; 7th level | d20 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
-&nbsp;&nbsp;&nbsp; Whenever you take damage, the ward takes the damage instead. If this damage reduces the ward to 0 hit points, you take any remaining damage.
+<div class='classTable'>
 
-While the ward has 0 hit points, it can’t absorb damage. but its magic remains. Whenever you cast an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. 
+##### Unstable Surge
+<div style='margin-top:-15px;'></div>
 
-Once you create the ward, you can’t create it again until you finish a long rest.
-
-#### Tempest of Power
-Beginning at 6th level, you gain resistance to force and thunder damage. In addition, whenever you cast a spell of 1st level or higher that deals force or thunder damage, blasts of arcane energy erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take force or thunder damage (choose each time this ability activates) equal to half your mage level.
-
-#### Durable Magic
-Starting at 10th level, the magic you channel helps ward off harm. While you maintain concentration on a spell, you have a +2 bonus to AC and all saving throws.
-
-#### Overchannel
-At 14th level, you can increase the power of your simpler spells. when you cast a mage spell of 5th level or lower (excluding cantrips) that deals damage, you can deal maxi-mum damage with that spell.
-
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 psychic damage per level of the spell, immediate-ly after you cast it. Each time you use this feature again before finishing a long rest, the force damage per spell level increases by 1d12. 
-
-Damage dealt by this feature ignores your resistances and immunities.
+|&nbsp; d20 |&nbsp;&nbsp;| Effect |
+|:-----------:|:-|:-------|
+|&nbsp; 01 || You cast *mirror image*. |
+|&nbsp; 02 || Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute. |
+|&nbsp; 03 || You cast *levitate* on yourself. |
+|&nbsp; 04 || A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to *magic missile*. |
+|&nbsp; 05 || You teleport up to 60 feet to an unoccupied space of your choice that you can see. |
+|&nbsp; 06 || You regain 2d10 hit points. |
+|&nbsp; 07 || You glow with bright light in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you is blinded until the end of its next turn. |
+|&nbsp; 08 || Maximize the damage of the next damaging spell you cast. |
+|&nbsp; 09 || Creatures have disadvantage on saving throws against the new spell you cast in the next minute that involves a saving throw. |
+|&nbsp; 10 || Each creature within 30 feet of you becomes invisible for the next minute. The invisibility ends on a creature when it attacks or casts a spell. |
+|&nbsp; 11 || You cast *magic missile* as a 5th-level spell. |
+|&nbsp; 12 || You cast *polymorph on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration. |
+|&nbsp; 13 || Up to three creatures you choose within 30 feet of you take 4d10 force damage. |
+|&nbsp; 14 || You gain resistance to all damage for the next minute. |
+|&nbsp; 15 || You cast *fireball* as a 3rd-level spell centered on yourself, the spell deals force damage instead. |
+|&nbsp; 16 || You cast *confusion* centered on yourself. |
+|&nbsp; 17 || You regain your lowest-level expended spell slot. |
+|&nbsp; 18 || You teleport to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the next unoccupied space if that space is occupied. |
+|&nbsp; 19 || For the next minute, you can see any invisible creatures if you have line of sight to it. |
+|&nbsp; 20 || You regain all expended metamagic uses. |
+</div>
 
 \columnbreak
 
-### Fire Magi
+#### Potent Cantrip
+At 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effects from the cantrip.
+
+#### Presence of Mind
+Starting at 10th level, the magic that surges through you helps to ward off harm. While you maintain concentration on a spell, you have a +2 bonus to AC and all saving throws.
+
+#### Overpowered
+Upon reaching 14th level, you are able to channel exceed-ing amounts of arcane energy into a spell. When you cast a mage spell of 5th level or lower that deals damage, you can deal maximum damage with that spell.
+
+The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 psychic damage per level of the spell, immediate-ly after you cast it. Each time you use this feature again before finishing a long rest, the force damage per spell level increases by 1d12. Damage dealt by this feature ignores your resistances and immunities.
+
+### Study of Fire
 While any worthy mage is an unparalleled expert in the use of magic and heavily dedicated to their craft, those who master the forces of fire tend to be a little more audacious than their peers. These mages take pride, even pleasure in igniting their enemies in wild bursts of flame.
 
 #### Fire Savant
@@ -2997,25 +3011,30 @@ Starting at 2nd level, you can unleash the flames that blaze within you. As a bo
  - Any creature takes fire damage equal to your Intelligence modifier if it hits you with a melee attack from within 5 feet of you or if it touches you.
  - Whenever you roll fire damage on your turn, the roll gains a bonus to equal to your Intelligence modifier.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 #### Blazing Soul
-Beginning at 6th level, if you are reduced to 0 hit points, you can use your reaction to draw on the sparks within you. You are instead reduced to 1 hit point, and each creature within 10 feet of you takes fire damage equal to half your mage level + your Intelligence modifier.
+Beginning at 6th level, if you are reduced to 0 hit points, you can use your reaction to draw on the fiery energy that burn within you. You are instead reduced to 1 hit point, and each creature within 10 feet of you takes fire damage equal to half your mage level + your Intelligence modifier.
 
-If you use this feature while under the effects of your Combustion, this feature instead deals fire damage equal to your mage level + twice your Intelligence modifier, and your Combustion immediately ends. Once you use this feature, you can’t use it again until you finish a long rest.
+If you use this feature while under the effects of your Combustion, this feature instead deals fire damage equal to your mage level + twice your Intelligence modifier, and your Combustion immediately ends. 
+
+Once you use this feature, you can’t use it again until you finish a long rest.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/eCjWkib.jpg' style='position:absolute; top:765px; right:-50px; width:1200px' />
+<img src='https://www.gmbinder.com/images/x5MXJJ4.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scaley(-1)' />
+
+\pagebreakNum
+
+<br>
+
+\columnbreak
 
 #### Empowered Evocation
-Starting at 10th level, you can add your Intelligence modifier to one damage roll of any mage evocation spell you cast.
+Starting at 10th level, you can add your Intelligence modi-fier to damage rolls of any mage evocation spell you cast.
 
 #### Hot Streak
 At 14th level, the blazing energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.
-
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/DRgDAHk.jpg' style='position:absolute; top:750px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/fZMAlU8.png' style='position:absolute; top:570px; right:410px; width:350px' />
-
-\pagebreakNum
 
 ### Frost Magi
 Frost mages stand apart from their colleagues, in that their chosen school of magic focuses on maintaining supreme control over the capabilities of their enemies. Mages who command frost perform chilling displays on the battlefield, rendering foes immobile as they bombard them with ice.
@@ -3023,29 +3042,35 @@ Frost mages stand apart from their colleagues, in that their chosen school of ma
 #### Frost Savant
 Beginning when you select this tradition at 2nd level, the gold and time you must spend to copy a conjuration spell into your spellbook is halved.
 
-#### Sculpt Spells
-Starting at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
+#### Cold Snap
+Starting at 2nd level, whenever you hit a creature with a spell that deals cold damage, the target must succeed on a Constitution saving throw or have its speed reduced by 10 feet for 1 minute. In addition to any movement reduction the spell might have normally.
 
 #### Ice Barrier
-Beginning at 6th level, you gain resistance to cold damage. You also gain the ability to defend yourself by momentarily encasing yourself in ice. When you are targeted by an attack roll, you can use your reaction after the attack roll is made but before damage is determined, to reduce the damage by an amount equal to twice your mage level. 
+At 6th level, you can manifest ice around a creature to protective it from harm.
 
-Once you use this feature, you can't use it again until you finish a short or long rest.
+As a bonus action, you manifest ice around a creature you can see within 60 feet of you. The barrier manifests as a layer of ice across the creature, warping with its body as to not prevent movement. Any bludgeoning, piercing, and slashing damage the target takes is reduced by 2 + your mage level divided by 4. The barrier lasts for 1 minute, until you use this feature again, or until you are incapacitated.
 
-#### Conjured Companion
-Starting at 10th level, you add the *conjure elemental* spell to your spellbook, the spell is a mage spell for you. When you cast *conjure elemental*, you are only able to conjure a water elemental and your conjured elemental does not require your concentration.
+#### Frigid Winds
+Starting at 10th level, you gain resistance to cold damage. In addition, whenever you cast a spell of 1st level or higher that deals cold damage, frigid winds surround you. This wind shivers creatures of your choice within 10 feet of you, making them lose their reaction until their next turn.
 
-Whenever you conjure a water elemental, it gains additional benefits:
- - The elemental hit point maximum is increased by an amount equal to your mage level.
- - The elemental adds your proficiency bonus to its weapon damage rolls.
- - The elemental gains the *ray of frost* cantrip, using your spell casting ability and level to determine its attack and damage rolls.
+This feature have no effect on creatures that are immune to cold damage.
 
-#### Icy Veins
-At 14th level, you gain nourishment from the frost magic that you wield. When you expend a spell slot to cast a spell that deals cold damage, you regain hit points equal to the spell slot's level + your Intelligence modifier.
+#### Companion of Ice
+At 14th level, you can conjure an elemental of snow and ice to your aid.
+
+As an action, you conjure a water elemental, as through a *conjure elemental* spell, its duration becomes 1 minute, and if your concentration is broken the elemental dissipates in its square rather than becoming hostile.
+<div style='margin-top:-5px;'></div>
+
+ - It is immune to cold damage
+ - It deals slashing damage instead of bludgeoning.
+ - It can cast the *sleet storm* spell once.
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/F6dhtDS.jpg' style='position:absolute; top:0px; right:-230px; width:850px' />
-<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/HMytr7R.png' style='position:absolute; top:800px; right:350px; width:900px;transform:rotate(-210deg)' />
+<img src='https://www.gmbinder.com/images/F6dhtDS.jpg' style='position:absolute; top:0px; right:200px; width:850px' />
+<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-90px; width:900px' />
+<img src='https://www.gmbinder.com/images/HMytr7R.png' style='position:absolute; top:1020px; right:-150px; width:900px;transform:rotate(-230deg)' />
 
 \pagebreakNum
 
