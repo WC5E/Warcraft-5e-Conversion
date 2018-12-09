@@ -181,8 +181,9 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 
 \columnbreak
 
-<br>
+<div style='margin-top:21px;'></div>
 
+ - ###
   - #### [<span>107</span><span>Chapter 3: Personality & Background          </span>](#p107)
      - [<span>107</span><span>Character Details                              </span>](#p107)
      - [<span>110</span><span>Hero Points                                    </span>](#p110)
