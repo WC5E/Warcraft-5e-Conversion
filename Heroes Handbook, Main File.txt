@@ -5928,23 +5928,23 @@ At its very core of becoming a demon hunter is the con-sumption of a demon's sou
 <div class='classTable wide'>
 
 ##### The Demon Hunter
-|Level |Felblade <br> Attack |&nbsp;| Chaos <br> Points |&nbsp;| Features                 |
-|:----:|:-:|:-|:-:|:-|:-------------------------------------------------------------------|
-| 1st  | 1d6 ||  — || Demonic Mark, Illidari Initiation, Unarmored Defense                |
-| 2nd  | 1d6 ||  3 || Chaos, Evasion                                                      |
-| 3rd  | 1d6 ||  3 || Ability Score Improvement                                           |
-| 4th  | 2d6 ||  4 || Chaos-Empowered Strikes, Demon Wings                                |
-| 5th  | 2d6 ||  4 || Demonic Mark feature                                                |
-| 6th  | 2d6 ||  5 || Eternal Hunter                                                      |
-| 7th  | 3d6 ||  5 || Ability Score Improvement                                           |
-| 8th  | 3d6 ||  6 || Demonic Mark feature                                                |
-| 9th  | 3d6 ||  6 || Demon Wings Improvement                                             |
-| 10th | 4d6 ||  7 || —                                                                   |
-| 11th | 4d6 ||  7 || Ability Score Improvement                                           |
-| 12th | 4d6 ||  8 || Spectral Sight                                                      |
-| 13th | 5d6 ||  8 || Demonic Mark feature                                                |
-| 14th | 5d6 || 10 || Ability Score Improvement                                           |
-| 15th | 5d6 || 10 || Metamorphosis                                                       |
+|Level |Proficiency<br>Bonus|Felblade<br>Attack|Chaos<br>Points|&nbsp;| Features |
+|:----:|:-:|:---:|:--:|:-|:------------------------------------------------------|
+| 1st  | +3| 1d6 |  — || Demonic Mark, Illidari Initiation, Unarmored Defense    |
+| 2nd  | +3| 1d6 |  3 || Chaos, Evasion                                          |
+| 3rd  | +3| 1d6 |  4 || Ability Score Improvement                               |
+| 4th  | +4| 2d6 |  4 || Chaos-Empowered Strikes, Demon Wings                    |
+| 5th  | +4| 2d6 |  5 || Demonic Mark feature                                    |
+| 6th  | +4| 2d6 |  5 || Eternal Hunter                                          |
+| 7th  | +4| 3d6 |  6 || Ability Score Improvement                               |
+| 8th  | +5| 3d6 |  6 || Demonic Mark feature                                    |
+| 9th  | +5| 3d6 |  7 || Demon Wings Improvement                                 |
+| 10th | +5| 4d6 |  7 || Eternal Hunter Improvement                              |
+| 11th | +5| 4d6 |  8 || Ability Score Improvement                               |
+| 12th | +6| 4d6 |  8 || Spectral Sight                                          |
+| 13th | +6| 5d6 |  9 || Demonic Mark feature                                    |
+| 14th | +6| 5d6 |  9 || Ability Score Improvement                               |
+| 15th | +6| 5d6 | 10 || Metamorphosis                                           |
 </div>
 
 ### Becoming a Demon Hunter
@@ -5997,20 +5997,17 @@ Your choice grants you features when you choose it at 1st level and again at 5th
 ### Illidari Initiation
 Becoming a Demon Hunter is a difficult task, requiring hard training and sacrifices to be made. As a result of this you gain the following benefits:
 
-#### Spectral Sight
+#### Blind Sight
 Your eyes have been torn out, their sockets burnt to see the world in its true form. You lose any darkvision and sun-light sensitivity from your race, and gain the following sight:
  - You are able to see normally to a range of 120 feet. 
  - You are able to see in normal and magical darkness, and can discern colors in darkness.
  - You perceive the world beyond your vision, but it appears blurred, and details can't be discerned.
 
 #### Illidari Fighting
-Demon hunters are two-weapon fighters, exceptional with a wide array of weapons, and their beloved warglaives. Because of this you gain the following benefits:
+Demon hunters are trained to wield a weapon in each hand, giving you the following benefits:
  - You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
  - When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
  - You can wield warglaives using either Dexterity or Strength as if they had the finesse property.
-
-#### Demons Tongue
-Your bonding with a demon have learnt you the common tongue used by demons. Making you able to speak, read, and write Eredun.
 
 #### Felblade Attack
 You know how to channel small portions of fel through your strikes. Once per turn, you can deal an extra 1d6 fire dam-age to one creature you hit with
@@ -6018,10 +6015,10 @@ an attack if you have advan-tage on the attack roll. You don't need advantage on
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Felblade Attack column of the Demon Hunter table.
 
-\columnbreak
-
 ### Unarmored Defense
 While you are not wearing any armor and wielding a shield, your Armor Class equals 10 + your Dexterity modifier + your Intelligence modifier.
+
+\columnbreak
 
 ### Chaos
 Starting at 2nd level, you are able to harness the chaotic energies built up within. Your access to this energy is repre-sented by a number of chaos points. Your demon hunter level determines the number of points you have, as shown in the Chaos Points column of the Demon Hunter table.
@@ -6055,31 +6052,48 @@ Starting at 4th level, your weapon attacks count as magical for the purpose of o
 ### Demon Wings
 Also at 4th level, you can use your reaction when you fall to sprout a pair of leathery wings from your back, making you decent at 60 feet per round. Landing on your feet and taking no damage from the fall.
 
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/jKt3kQl.png' style='position:absolute; top:915px; right:50px; width:700px;transform:rotate(-180deg)' />
-
-\pagebreakNum
-
-&nbsp;&nbsp;&nbsp; At 9th level, you can spend 2 chaos points to make the wings capable of carrying you, giving you a flying speed equal to your current speed. While active you can sprout and dismiss the wings as a bonus action on your turn. They last for 1 hour before being unable to carry you any further.
+At 9th level, you can spend 2 chaos points to make the wings capable of carrying you, giving you a flying speed equal to your current speed. While active you can sprout and dismiss the wings as a bonus action on your turn. They last for 1 hour before being unable to carry you any further.
 
 You can't sprout your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
 
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/k9meXLU.png' style='position:absolute; top:870px; right:480px; width:350px;transform:rotate(-35deg)' />
+
+\pagebreakNum
+
 ### Eternal Hunter
-At 6th level, your knowledge of demons and their fiendish nature is growing larger, giving you advantage on any ability checks made to recall knowledge of a specific demon, and to track said demon.
+Upon reaching 6th level, your knowledge of demons and their fiendish nature is growing larger, giving you advan-tage on any ability checks made to recall knowledge of a specific demon, and to track said demon.
+
+At 10th level, your hatred of demons, and knowledge of their capabilities have made you a keen combatant to fight, giving you advantage on all saving throws made to avoid abilities and spells cast by fiends.
 
 ### Spectral Sight
-Beginning at 12th level, you can spend 2 chaos points and use your action to manifest the fel within your body in your charred eye sockets, changing your vision to truesight for 10 minutes.
+Starting at 12th level, you can channel the chaos within into your charred eye sockets to show you the world in its true colors. As an action, you can spend 2 chaos points to cast *detect magic*, while detect magic is active, your vision also changes to truesight within your blind sights range.
 
 ### Metamorphosis
-At 15th level, you are able to let the demon within you take over for a brief time. You can spend 2 chaos points and use a bonus action to transform into a demonic version of yourself for 10 minutes, giving you the following benefits:
- - You gain 30 temporary hit points.
- - You sprout wings from your back capable of carrying your weight, giving you a flying speed equal to your current speed.
- - You gain advantage on Intimidation checks.
+At 15th level, you can let the lingering soul of your demon mark loose, changing you to a demonic visage of yourself. As an action, you take on the shape of your inner demon for 10 minute and gain the powers of your Demonic Mark.
 
-<div style='margin-top:0px;'></div>
+Once you use this feature, you can't use it again until you finish a long rest.
 
-Once you have used feature, you can't use it again until you have finished a long rest.
+#### Havoc
+Your Demonic Mark of Havoc twists your body, granting you the following features.
+ - As part of the action you used to release your Demonic Mark. You can jump to an unoccupied square within 60 feet of you, releasing a burst of fel on impact. Each crea-ture within 5 feet of you must make on a Dexterity saving throw. A creature takes 5d8 fire damage on a failed save, or half as much on a successful one.
+ - When you take the Attack action on your turn, you can make one additional attack as part of that action.
+ - Whenever a creature hits you with an attack, it takes fire damage equal to half the damage taken from the attack.
+
+#### Vengeance
+Your Demonic Mark of Vengeance twists your body, grant-ing you the following features.
+ - As part of the action you used to release your Demonic Mark. The ground around you twists with fel, each crea-ture of your choice within 5 feet of you must succeed on Constitution saving throw or be stunned until the start of your next turn.
+ - You have resistance to all damage.
+ - You are enlarged, as by the *enlarge/reduce* spell.
+
+#### Wrath
+Your Demonic Mark of Wrath twists your body, granting you the following features.
+ - As part of the action you used to release your Demonic Mark. You release a 4th-level *magic missiles*, each dart deals fire damage instead of force damage. The darts damage can't be reduced or prevented in any way.
+ - Your demon wings sprout from your back and grant you a flying speed of 60 feet.
+ - Your ranged weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
+
+\columnbreak
 
 ## Demonic Marks
 Different souls are absorbed in the process of becoming a demon hunter and planted into the demon hunter skin. Although many variations exist, most of these souls fall into three categories: a mark of havoc, vengeance or wrath.
@@ -6088,69 +6102,87 @@ Different souls are absorbed in the process of becoming a demon hunter and plant
 Havoc demon hunters unleashes the potent energy stored up within them, they are the pinnacle of close quarter fight-ing. They harness destructive powers in its most raw form to unravel it upon their enemies. Demon hunters marked with havoc are known for their ability to funnel fel into their abilities, and fight on harder and longer than most.
 
 #### Shattered Souls
-Starting when you choose this mark at 1st level, when you reduce a creature within 5 feet of you to 0 hit points, you absorb a fraction of its soul, gaining tem-porary hit points—
+Starting at 1st level, whenever you roll a 20 on a d20 on an attack roll against a creature, you regain hit points equal to your demon hunter level. Additionally, you also regain 1d4 chaos points. You can never have more chaos points than shown on the table for your level.
 
-equal to your Intelligence modifier + your demon hunter level (minimum of 1 temporary hit point).
+#### Blade Dance
+At 5th level, you gain the ability to pass through the great dark beyond in the blink of an eye. When you take the Attack action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.
+
+If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.
+
+#### Demon's Flurry
+Starting at 8th level, once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action.
 
 #### Eye Beam
-At 5th level, you gain the ability to channel chaotic energy through your eye sockets into a volatile beam. As an action, you can spend 2 chaos point to release a 5 by 30 ft. line in front of you, each creature in the area of the beam must make a Dexterity saving throw against your chaos DC. <br> A creature takes 2d8 fire and 2d8 necrotic damage on a failed save, and half as much damage on a successful one.
-
-#### Reflective Instincts
-Starting at 8th level, whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
-
-#### Chaos Nova
-At 13th level, you can release a burst of chaos around you. As an action, you can spend 2 chaos points to release a nova of chaotic energy in a 10 feet radius around you. Each creature in the area of the burst must make a Constitution saving throw against your chaos DC. A creature is stunned until the end of your next turn, and their movement speed halved for a minute on a failed save. On a success, their movement speed is halved for a minute.
+At 13th level, you can channel chaotic energy through your charred eyes into a volatile beam. As an action, you can spend 3 chaos points to blast energy in a 50 feet long and 5 feet wide line out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creaeture takes 5d10 fire damage and 5d10 force damage on a failed save, or half as much on a successful one.
 
 ### Mark of Vengeance
 Vengeance demon hunters empowers themselves through the energies within, they are hunters that continue to be able to stand and fight when all else fails. By empowering themselves they are to take an enormous amount of hits and still come out victorious by the fights end.
 
 #### Demon Spikes
-Starting when you choose this mark at 1st level, when you are hit by a melee attack you can use your reaction to gain resistance against the attack.
+Starting at 1st level, when you are hit by a melee attack you can use your reaction to gain resistance against the attack, as the fiendish nature of your inner demon comes forth, manifesting rugged spikes across your body.
 
-You can use this feature a number of times equal to your Charisma modifier (minimum of 1), regaining expended uses when you finish a short or long rest.
-
-#### Last Resort
-At 5th level, when you are reduced to 0 hit points you can expend 3 chaos point (no action required) to have 1 hit point instead.
-
-#### Immolation Aura
-Starting at 8th level, you are able to engulf yourself in fire. As an action, you can spend 2 chaos points to let out a burst of fel flames in a 10 foot radius around you. Each creature in the area of the flames must make a Constitution saving throw against your chaos DC. A creature takes 3d8 fire damage on a failed save, and half of the damage on a successful one. The flames engulfs you until the end of your following turn, making you deal 1d8 fire damage to any attacker that hits you with a melee attack. Fire damage dealt through immolation aura ignores fire resistance.
-
-#### Demonic Wards
-At 13th level, the chaotic fel energies within you have made you able to fortify yourself against magical effects, when you finish a short or long rest choose two of the following damage types: cold, fire, force, lightning, necrotic, psychic and radiant.
-
-You gain resistance against damage dealt by your chosen damage types until you finish your next short or long rest.
+You can use this feature a number of times equal to your Intelligence modifier (minimum of 1). You regain all spent uses after finishing a short or long rest
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/k9meXLU.png' style='position:absolute; top:830px; right:0px; width:450px;transform:rotate(120deg)' />
+<img src='https://www.gmbinder.com/images/jKt3kQl.png' style='position:absolute; top:910px; right:56px; width:700px;transform:rotate(180deg)' />
 
 \pagebreakNum
 
-### Mark of Wrath
-Wrath demon hunters uses range to their advantage, strik-ing their enemies from afar by channel the chaotic energies within them, and through slinging their glaives with preci-sion at targets from great ranges, before swiftly returning to their grasp. These hunters uses distance to their advan-tage with their devastating attacks.
+<div style='margin-top:115px;'></div>
 
-#### Glaive Throws
-Starting when you choose this mark at 1st level, wielded warglaives and finesse weapons gain the thrown property with a normal range of 20 feet and a long range of 60 feet. Immediately after the attack, the weapon flies back to you.
+#### Last Resort
+Beginning at 5th level, the demon soul that lives within you keeps you fighting against all odds. When you are reduced to 0 hit points, you can choose to have 1 hit point instead. 
+
+The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you gain two levels of exhaustion.
+
+#### Sigil
+Upon reaching 8th level, you gain one of the following sigils of your choice. Once you use this feature, you can't use it again until you finish a short or long rest.
+
+***Sigil of Chains.*** As an action, choose a creature within 60 feet of you, the creature must succeed on a Strength saving throw, or be restrained for 1 minute. At the end of each of its turns the creature can make another Strength saving throw, ending the restrain on a successful one.
+
+***Sigil of Misery.*** As an action, choose a point within 30 feet of you, creating a sigil that extend in a 10 feet radius around it. Each creature within range succeed on a Con-stitution saving throw, or be incapacitated for 1 minute. At the end of each of its turns, and each time it takes damage, a creature can make another Constitution saving throw, ending the effect on a successful save.
+
+***Sigil of Silence.*** As an action, you force each creature of your choice within 10 feet of you to make a Wisdom saving throw. On a failed save, the creature becomes unable to speak and can't cast any spells with a vocal component for 1 minute. At the end of each of its turns, the creature can make another Wisdom saving throw, ending the effect on a successful save.
+
+#### Demonic Wards
+At 13th level, the fel that surges through your body have fortified you against magical effect. Whenever you finish a long rest, you gain resistance to one of the following damage types of your choice: cold, fire, lightning, necrotic, or thunder damage.
+
+The resistance lasts until you finish your next long rest, at which point you may choose a new damage type from the list to gain resistance too.
+
+\columnbreak
+
+<div style='margin-top:90px;'></div>
+
+### Mark of Wrath
+Wrath demon hunters use range to their advantage, strik-ing enemies from afar by channeling fel energy into spells and slinging their glaives with precision at targets from great ranges, before swiftly returning to their grasp.
+
+#### Bonus Cantrips
+Starting at 1st level, you learn the *fel flame* and *green-flame blade* cantrips, using Intelligence as your spellcasting ability for them.
+
+#### Thrown Weapons
+At 1st level, you are able to throw certain weapons with extreme precision. When you wield warglaives or weapons with the finesse property, the weapon gains a normal range of 20 feet, and a maximum range of 60 feet.
+
+A thrown weapon returns to your grasp at the end of your turn unless picked up.
+
+#### War Magic
+Beginning at 5th level, when you use your action to cast a cantrip, you can make a weapon attack as a bonus action.
 
 #### Fel Barrage
-At 5th level, you are able to hurl bolts of fel against multi-ple targets within range. As an action, you can spend 2 chaos point, creating 5 fel bolts. Each bolt hits a creature within 120 feet of you that you can see. A bolt deals 2d4 fire damage. The bolts all strike simultaneously and you can direct them to hit one creature or several. These bolts ignore resistance towards fire damage.
+Also at 5th level, you are able to hurl shards of fel against targets. As an action, you can spend 2 chaos point, creating 5 fel shards. Each shard hits a creature within 120 feet of you that you can see. A shard deals 2d4 fire damage. The shards all strike simultaneously and you can direct them to hit one creature or several.
 
-#### Demon's Flurry
-Starting at 8th level, once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action.
+#### Reflective Instincts
+Starting at 8th level, whenever a creature within 20 feet of you is hit by an attack made by an allied creature, you can use your reaction to make a ranged weapon attack against that creature.
 
-#### Concentrated Sigils
-At 13th level, you are able to concentrate the energy within you into sigils that can be placed on the ground. As an ac-tion, you can spend 3 chaos points and place the sigil at a point within 60 feet of you, each sigil affects a 10-foot radius around it. The sigil are invisible to everyone but the demon hunter or creatures able to see magical auras.
+#### Fiery Brand
+At 13th level, a new brand appears upon your body, forged of fel flames and continuously flickering as if burning. You can use this brand to channel energy into specific spells. As an action, you can cast your choice of: *banishment, fire shield, or wall of fire*. 
 
-***Sigil of Chains.*** You place a sigil of chains on the ground for 1 minute, any creature of the demon hunters choosing within the sigil must make a Strength or Dexterity saving throw contested by the demon hunters chaos DC. A crea-ture is restrained on a failed save until the sigil ends and may use their action to make a new saving throw against your chaos DC to end the restrain prematurely.
-
-***Sigil of Misery.*** You place a sigil of misery, any creature within the sigil must make a Constitution saving throw against your chaos DC. A creature is incapacitated for 1 minute or until it takes any damage on a failed save.
-
-***Sigil of Silence.*** You place a sigil of silence on the ground for 1 minute, any creature within the sigil who attempts to cast a spell must make a Charisma saving throw against your chaos DC. On a failed save, their spell fails and the spell slot is lost, and on a success the spell functions as normal.
+You must then finish a long rest to use this feature again.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/YUsKgAt.jpg' style='position:absolute; top:0px; right:-860px; width:2000px' />
-<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/OMl6SBF.png' style='position:absolute; top:610px; right:350px; width:850px;transform:rotate(40deg)' />
+<img src='https://www.gmbinder.com/images/YUsKgAt.jpg' style='position:absolute; top:810px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-30px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/OMl6SBF.png' style='position:absolute; top:-230px; right:-20px; width:850px' />
 
 \pagebreakNum
 
