@@ -4218,10 +4218,10 @@ When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, yo
 ### Uncanny Dodge
 Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
-\columnbreak
-
 ### Evasion
-At 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+At 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half--
+
+damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Reliable Talent
 By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
@@ -4246,24 +4246,26 @@ Rogues have many features in common, including their emphasis on perfecting thei
 ### Assassin
 You focus your training on the grim art of death. Favoring stealth and vicious poisons over direct approaches. Those who adhere to this specialization are diverse: hired killers, spies, and bounty hunters. Stealth, and poison help you eliminate your foes with deadly efficiency.
 
+#### Assassin's Intuition
+When you choose this specialization at 3rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first turn of each combat deals additional damage equal to your Rogue level.
+
 #### Poisoned Knife
-When you choose this specialization at 3rd level, you gain proficiency with the poisoner's kit, and you are able to lace your sneak attacks with poisons that can weaken your enemy. When you roll damage for your Sneak Attack feature, you may choose to inflict poison damage instead of weapon damage. The target must then succeed on a Con-stitution save against a DC of 8 + your Intelligence modifer + your proficiency bonus, or be poisoned for 1 minute. The creature can make another saving throw at the end of each of its turns, ending the poisoned effect on a successful save.
+Beginning at 9th level, you become proficient with the poisoner's kit. When you roll damage for your Sneak Attack feature, you may choose to inflict poison damage instead of weapon damage. 
+
+The target must then succeed on a Con-stitution save against a DC of 8 + your Intelligence modifer + your proficiency bonus, or be poisoned for 1 minute. The creature can make another saving throw at the end of each of its turns, ending the poisoned effect on a successful save.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:880px; right:470px; width:200px;transform:rotate(-70deg)' />
 
 \pagebreakNum
 
 &nbsp;&nbsp;&nbsp; When you poison a creature with this feature, and if the creature fails their saving throw. You may choose to apply one of the following additional poisoned effects to them. You can only affect a creature with one of these additional poison effects for as long as it is poisoned.
+
  - The creature can't regain hit points.
  - The creature's speed is reduced by 10 feet.
  - The creature can't take reactions.
 
 You can use this feature a number of times equal to your rogue level. You regain all spent uses after finishing a short or long rest.
-
-#### Assassinate
-Beginning at 9rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first turn of each combat deals additional damage equal to your Rogue level.
 
 #### Venomous Wounds
 Starting at 13th level, when you use your Poisoned Knife feature and successfully poison a creature, the creature gains disadvantage on one ability saving throw of your choice for the poisoned conditions duration.
@@ -4286,8 +4288,6 @@ You also gain an additional way to use your Sneak Attack you don't need advantag
 
 #### Quick Combatant
 Starting at 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this in-crease applies to that speed as well.
-
-\columnbreak
 
 #### Misdirection
 Starting at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature is within 5 feet of you, you can use your reaction to have the attack target that creature instead of you.
@@ -4322,8 +4322,6 @@ At 13th level, you are able to evade attacks by enveloping yourself in supernatu
 
 You must use this feature before you know the outcome of the attack roll. 
 
-\pagebreakNum
-
 #### Veil of Deceit
 At 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.
 
@@ -4331,6 +4329,7 @@ Additionally, no matter what you say, magic that would determine if you are tell
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:920px; right:70px; width:200px;transform:rotate(-70deg)' />
 
 \pagebreakNum
 
