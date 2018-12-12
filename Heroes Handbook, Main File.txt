@@ -3517,7 +3517,7 @@ For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 #### Spellcasting Ability
-Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convic-tions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
+Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
 
 <div style="text-align: Center">
 
@@ -4300,21 +4300,29 @@ At 17th level, the rush of battle runs to your head. You can take two turns duri
 ### Subtlety
 Subtlety rogues are the masters of the shadows, and they strike unseen. They don’t have the lethal strikes of the assassin or the brawling prowess of the outlaw, but their ability to hide in plain sight are unrivaled, performing devastating strikes, and slipping away to strike again. 
 
+#### Symbols of Death
+When you choose this specialization at 3rd level, you can invoke ancient symbols of powers to gain the upper hand. As a bonus action, you can place a symbol of death on creature you can see, allowing you to use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
+
+The symbol lasts for 1 minute or until you use this feature against a different target. At 3rd level, you can use this feature once per short or long rest. 
+
+You gain an additional use of Symbols of Death when you reach 9th and 13th level.
+
+#### Nightblade
+At 3rd level, you gain darkvision out to a range of 60 feet. If you already have darkvision from your rage, its range increases by 30 feet. Additionally, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+
 #### Shadowstep
-When you choose this specialization at 3rd level, you delve into shadow magics, giving you an unexpected advantage over most. When you use your cunning Action to Dash or Disengage, you can choose to instead teleport to an un-occupied square that you can see within the range of your remaining movement. Creatures within 5 feet of you still get attacks of opportunity when you take the dash action, but attack rolls are made with disadvantage.
+Starting at 9th level, you can use a bonus action to teleport up to 30 feet to an unoccupied space within 5 feet of another creature that you can see. 
 
-At 3rd level, you can use this feature once between short or long rests. You gain an additional use of Shadowstep when you reach 9th, 13th, and 17th level.
+If you hit the targeted creature with an attack, on the same turn, it is surrounded by entangling shadows and its movement speed is halved until the start of your next turn. 
 
-#### Vision of the Night
-At 3rd level, you gain darkvision out to a range of 60 feet. <br>If you already have darkvision from your race, its range increases by 30 feet.
+At 9th level, you can use this feature once per short or long rest. You gain an additional use of Shadowstep at 13th and 17th level. 
 
-You are also adept at evading creatures that rely on dark-vision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.
+#### Cloak of Shadows
+At 13th level, you are able to evade attacks by enveloping yourself in supernatural shadows. Whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. 
 
-#### Supreme Sneak
-Beginning at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+You must use this feature before you know the outcome of the attack roll. 
 
-#### Cloak of Shadow
-Starting at 13th level, you are able to dodge in unforeseen ways, briefly shrouding yourself in supernatural shadowy. Whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. You must use this feature before you know the outcome of the attack roll.
+\pagebreakNum
 
 #### Veil of Deceit
 At 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.
