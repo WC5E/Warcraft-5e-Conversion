@@ -6160,10 +6160,10 @@ Starting at 1st level, you learn the *fel flame* and *green-flame blade* cantrip
 #### Thrown Weapons
 At 1st level, you are able to throw certain weapons with extreme precision. When you wield warglaives or weapons with the finesse property, the weapon gains a normal range of 20 feet, and a maximum range of 60 feet.
 
-A thrown weapon returns to your grasp at the end of your turn unless picked up.
+A thrown weapon returns to your grasp immediately after the attack roll is made.
 
 #### War Magic
-Beginning at 5th level, when you use your action to cast a cantrip, you can make a weapon attack as a bonus action.
+Beginning at 5th level, when you use your action to cast a cantrip, you can make a weapon attack, or spend 1 chaos point to use Demon's Bite as a bonus action.
 
 #### Fel Barrage
 Also at 5th level, you are able to hurl shards of fel against targets. As an action, you can spend 2 chaos point, creating 5 fel shards. Each shard hits a creature within 120 feet of you that you can see. A shard deals 2d4 fire damage. The shards all strike simultaneously and you can direct them to hit one creature or several.
