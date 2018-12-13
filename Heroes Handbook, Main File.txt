@@ -4515,7 +4515,7 @@ At 6th, 13th, and 18th level you gain an additional use of your Elemental Shield
 #### Water Shield
 As an action, you manifest a number of water orbs equal to your Wisdom modifier. The orbs hover around you for their duration before falling to the ground.
 
-Whenever you roll damage for an attack or a spell cast using a spell slot, you can expend an orb to reroll any number of dice, and use either dice roll.
+Whenever you roll damage for an attack or a spell cast using a spell slot, you can expend an orb to reroll any number of dice, you must use the new rolls for those dice.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -4530,7 +4530,7 @@ You can stay as your spirit animal for 1 hour. You then revert back to your norm
 *A deeper explanation of a shaman's spirit animal can be found in Appendix A at the end of this book.*
 
 ### Astral Shift
-Beginning at 9th level, as reaction upon taking damage to shift your body into the astral plane, giving you resistance towards all damage until the start of your next turn.
+Beginning at 9th level, as reaction upon taking damage you shift your body into the astral plane, giving you resistance towards all damage until the start of your next turn.
 
 You can use this feature twice, regaining expended uses when you finish a short or long rest.
 
@@ -4581,7 +4581,7 @@ At 3rd level, whenever you cast a spell that deals cold, fire, lightning or thun
 #### Lightning Shield
 Starting at 7th level, as an action, you manifest a lightning orb with a number of charges equal to your Wisdom modifier. Whenever you hit a creature with a spell, you can expend a charge of your orb to make deal an additional 2d4 lightning damage to a creature hit by your spell.
 
-Additionally, you can use your reaction when hit by a melee attack to expend a charge and deal 2d4 lightning damage to the attacker.
+In addi, you can use your reaction when hit by a melee weapon attack to expend a charge and deal 2d4 lightning damage back at the attacker.
 
 Lightning shields damage increases by 1d4 when you reach 11th level (3d4), and 17th level (4d4).
 
@@ -4642,7 +4642,7 @@ In addition, once per turn, you can deal an extra 1d10 lightning damage to one c
 #### Spirit Wolves
 At 15th level, as an action you are able to call forth two spirit wolves to aid you. The wolves act on your initiative, obeying your commands as best they can. If no commands are given they use their action to attack the nearest enemy, being intelligent enough to tell friend from foe. 
 
-The wolves lasts for 1 minute, or until killed. Once used, you can't use this feature again until you finish a long rest. A statblock for these wolves can be found in Appendix A.
+The wolves lasts for 1 minute, or until killed. Once used, you can't use this feature again until you finish a long rest. A statblock for the wolves can be found in Appendix A.
 
 ### Restoration
 Restoration shamans find a deep connection with water, using it soothing powers to restore life and heal afflictions. They finding harmony in the nature and purifying their allies as a tidal surge washes across a sandy shore.
