@@ -4221,10 +4221,10 @@ When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, yo
 ### Uncanny Dodge
 Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
-\columnbreak
-
 ### Evasion
-At 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+At 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half--
+
+damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Reliable Talent
 By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
@@ -4244,29 +4244,33 @@ At 20th level, you have an uncanny knack for succeeding when you need to. If you
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Roguish Specialization
-Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directi-ons, embodied by the rogue specializations. Your choice of specialization is a reflection of your preferred techniques. 
+Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directi-ons, embodied by the rogue specializations.
 
 ### Assassin
 You focus your training on the grim art of death. Favoring stealth and vicious poisons over direct approaches. Those who adhere to this specialization are diverse: hired killers, spies, and bounty hunters. Stealth, and poison help you eliminate your foes with deadly efficiency.
+<div style='margin-top:-5px;'></div>
+
+#### Assassin's Intuition
+When you choose this specialization at 3rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first turn of each combat deals additional damage equal to your Rogue level.
+<div style='margin-top:-5px;'></div>
 
 #### Poisoned Knife
-When you choose this specialization at 3rd level, you gain proficiency with the poisoner's kit, and you are able to lace your sneak attacks with poisons that can weaken your enemy. When you roll damage for your Sneak Attack feature, you may choose to inflict poison damage instead of weapon damage. The target must then succeed on a Con-stitution save against a DC of 8 + your Intelligence modifer + your proficiency bonus, or be poisoned for 1 minute. The creature can make another saving throw at the end of each of its turns, ending the poisoned effect on a successful save.
+At 9th level, you gain proficiency with the poisoner's kit. In addition, when you use your Sneak Attack feature, you can force the target to make a Constitution saving throw (DC of 8 + your Intelligence modifier + proficiency bonus).
+
+On a failed save, your Sneak Attack damage is dealt as poison damage, and the target is poisoned for 1 minute. On a successful save, the target takes half the poison damage and isn't poisoned.
+
+When you poison a creature in this way, you apply an additional effect from the list below. You can only affect a creature with one of these at a time.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:880px; right:470px; width:200px;transform:rotate(-70deg)' />
 
 \pagebreakNum
 
-&nbsp;&nbsp;&nbsp; When you poison a creature with this feature, and if the creature fails their saving throw. You may choose to apply one of the following additional poisoned effects to them. You can only affect a creature with one of these additional poison effects for as long as it is poisoned.
  - The creature can't regain hit points.
  - The creature's speed is reduced by 10 feet.
  - The creature can't take reactions.
 
-You can use this feature a number of times equal to your rogue level. You regain all spent uses after finishing a short or long rest.
-
-#### Assassinate
-Beginning at 9rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first turn of each combat deals additional damage equal to your Rogue level.
+You can use this feature a number of times equal to your Intelligence modifier. You regain all spent uses after finish-ing a short or long rest.
 
 #### Venomous Wounds
 Starting at 13th level, when you use your Poisoned Knife feature and successfully poison a creature, the creature gains disadvantage on one ability saving throw of your choice for the poisoned conditions duration.
@@ -4290,8 +4294,6 @@ You also gain an additional way to use your Sneak Attack you don't need advantag
 #### Quick Combatant
 Starting at 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this in-crease applies to that speed as well.
 
-\columnbreak
-
 #### Misdirection
 Starting at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature is within 5 feet of you, you can use your reaction to have the attack target that creature instead of you.
 
@@ -4300,24 +4302,33 @@ You can use this feature a number of times equal to your Dexterity modifier, reg
 #### Adrenaline Rush
 At 17th level, the rush of battle runs to your head. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your se-cond turn at your initiative minus 10. You can't use this feature when you are surprised.
 
+\columnbreak
+
 ### Subtlety
 Subtlety rogues are the masters of the shadows, and they strike unseen. They don’t have the lethal strikes of the assassin or the brawling prowess of the outlaw, but their ability to hide in plain sight are unrivaled, performing devastating strikes, and slipping away to strike again. 
 
+#### Symbols of Death
+When you choose this specialization at 3rd level, you can invoke ancient symbols of powers to gain the upper hand. As a bonus action, you can place a symbol of death on creature you can see, allowing you to use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
+
+The symbol lasts for 1 minute or until you use this feature against a different target.
+
+You can use this feature a number of times equal to your Dexterity modifier. You regain all spent uses after finishing a short or long rest.
+
+#### Nightblade
+At 3rd level, you gain darkvision out to a range of 60 feet. If you already have darkvision from your rage, its range increases by 30 feet.
+
+Additionally, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+
 #### Shadowstep
-When you choose this specialization at 3rd level, you delve into shadow magics, giving you an unexpected advantage over most. When you use your cunning Action to Dash or Disengage, you can choose to instead teleport to an un-occupied square that you can see within the range of your remaining movement. Creatures within 5 feet of you still get attacks of opportunity when you take the dash action, but attack rolls are made with disadvantage.
+Starting at 9th level, you can use a bonus action to teleport up to 30 feet to an unoccupied space within 5 feet of another creature that you can see. 
+If you hit the targeted creature with an attack, on the same turn, it is surrounded by entangling shadows and its movement speed is halved until the start of your next turn. 
 
-At 3rd level, you can use this feature once between short or long rests. You gain an additional use of Shadowstep when you reach 9th, 13th, and 17th level.
+You can use this feature twice starting at 9th level, and gain an additional use at 13th and 17th level. You regain expended uses when you finish a short or long rest.
 
-#### Vision of the Night
-At 3rd level, you gain darkvision out to a range of 60 feet. <br>If you already have darkvision from your race, its range increases by 30 feet.
+#### Cloak of Shadows
+At 13th level, you are able to evade attacks by enveloping yourself in supernatural shadows. Whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. 
 
-You are also adept at evading creatures that rely on dark-vision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.
-
-#### Supreme Sneak
-Beginning at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
-
-#### Cloak of Shadow
-Starting at 13th level, you are able to dodge in unforeseen ways, briefly shrouding yourself in supernatural shadowy. Whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. You must use this feature before you know the outcome of the attack roll.
+You must use this feature before you know the outcome of the attack roll. 
 
 #### Veil of Deceit
 At 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.
@@ -4326,6 +4337,7 @@ Additionally, no matter what you say, magic that would determine if you are tell
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:820px; right:0px; width:250px;transform:rotate(-70deg)' />
 
 \pagebreakNum
 
