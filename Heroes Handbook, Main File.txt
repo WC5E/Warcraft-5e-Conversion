@@ -8282,7 +8282,9 @@ You open a crack into the void, as a shimmering black knife strikes out from the
 
 \pagebreakNum
 
-## Appendix A: Statblocks
+<style>.phb hr+section blockquote { background: none; border: none; box-shadow: none; } </style>
+
+# Appendix A: Shapeshifts
 
 ___
 > ## Cat Form
@@ -8407,16 +8409,13 @@ ___
 >
 > *Elk, Horse, Stag, Reindeer.*
 
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/CP4995a.jpg' style='position:absolute; top:350px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-150px; right:0px; width:900px;transform:rotate(180deg)' />
+<div class='footnote'>APPENDIX A | SHAPESHIFTS</div>
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
-## Shaman Spirit Animal
-Upon reaching 5th level as a shaman, you gain the favor of a spirit animal, an animal shape you are able to shapeshift into at will through the aid of the spirits of the wild. Whilst druids are able to take the complete shape of certain animals, shifting into various beasts, the strain upon a shamans shapeshift lies much deeper within. As a result, the animal shape taken appears as an incorporeal transparent shape in the material world, often with ghostly visage around it.
-
-Shamans connection the spirits is limited, as is their spirit animal, making it unable to be used for fighting, if you make an attack or hostile action against a creature, the connection is immediately severed, returning you to your own body. 
+# Spirit Animal
+Shamans gain the favor of a spirit animal, an animal shape they are able to shapeshift into at will through the aid of the spirits of the wild. Whilst druids are able to take the complete shape of certain animals, shifting into various beasts, the strain upon a shamans shapeshift lies much deeper within. As a result the animal shape they take appears as an incorporeal transparent shape in the material world, often with a ghostly visage.
 
 Most shamans choose one spirit animal, and sticks with that spirit animal throughout their life. Orcs and trolls commonly go for a dire wolf, a shape well known to both, known for its ferocity and speed. Whilst a dwarf might choose a bear, a steadfast companion by many of the dwarven kin. Think about your spirit animal, why and if it fits your character, a shamans spirit animal is in many ways an extension of who they are, reflecting their personality. The only limitation given upon a spirit animal is that it cannot have a swim, or fly speed. 
 
@@ -8446,52 +8445,147 @@ ___
 > ### Actions
 > ***Multiattack.*** The Spirit wolf makes two bite attacks.
 >
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, Reach 5 ft., one target. *Hit:* (2d6 + 4) piercing damage. If the target is a creature it must succceed on a DC 14 Strength saving throw or be knocked prone. 
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, Reach 5 ft., one target. *Hit:* (2d6 + 4) piercing damage. If the target is a creature it must succceed on a DC 14 Strength saving throw or be knocked prone.
 
-\columnbreak
+<div class='footnote'>APPENDIX A | SHAPESHIFTS</div>
+<img src='https://www.gmbinder.com/images/Z7nJ0wt.jpg' style='position:absolute; top:0px; right:-350px; width:1000px' />
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
-<br>
-<div style='margin-top:30px;'></div>
+\pagebreakNum
+
+# Appendix B: Demon Companions
 
 ___
-> ## Wild Imp
->*Tiny fiend (demon), neutral evil*
+> ## Imp
+>*Small fiend (demon), chaotic evil*
 > ___
-> - **Armor Class** 12
-> - **Hit Points** 10 (3d4 + 3)
-> - **Speed** 20 ft.
+> - **Armor Class** 11 
+> - **Hit Points** 14 (3d6 + 3)
+> - **Speed** 25 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|13 (+1)|11 (+0)|12 (+1)|14 (+2)|
 >___
-> - **Skills** Deception +4, Perception +3, Stealth +5
-> - **Damage Immunities** fire, poison
-> - **Condition Immunities** poisoned
+> - **Damage Immunities** fire
 > - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** understands the languages of its creator but can't speak
+> - **Languages** understands the languages of its summoner but can't speak
 > - **Challenge** 1 (200 XP)
 > ___
 >
 > ***Demon's  Sight.*** Magical darkness doesn't impede the imp's vision.
 >
-> ***Magic Resistance.*** The imp has advantage on saving throws against spells and magical effects.
+> ### Actions
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
+>
+> ***Fire Blast.*** *Ranged Spell Attack:* +4 to hit, range 60 ft., one target. *Hit:* 4 (1d6) fire damage. Fire blasts damage increases by 1d6 when you reach 5th (2d6), 11th level (3d6), and 17th level (4d6).
+>___
+> - **7th Level** The imp can cast the *fireball* spell at 3rd level once a day
+
+___
+> ## Voidwalker
+>*Medium fiend (demon), neutral evil*
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 24 (4d8 + 8)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|11 (+0)|15 (+2)|10 (+0)|8 (-1)|14 (+2)|
+>___
+> - **Damage Vulnerabilities** radiant
+> - **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** poison
+> - **Condition Immunities** frightened, poisoned
+> - **Senses** blindsight 60 ft., passive Perception 10
+> - **Languages** understands the languages of its summoner but can't speak, telepathy 60 ft
+> - **Challenge** 1 (200 XP)
+> ___
+> ***Innate Spellcasting.*** The voidwalker's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material componenets:
+> 
+> 1/day each: *compelled duel, darkness*
+
+___
+> ### Actions
+> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage
+> ___
+> - **5th Level** The voidwalker can make two slam attacks as an Action
+> - **7th Level** The voidwalker can use its innate spellcasting three times a day each
+
+___
+> ## Felhunter
+>*Medium fiend (demon), chaotic evil*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 16 (3d8 + 3)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|14 (+2)|13 (+1)|12 (+1)|11 (+0)|10 (+0)|
+>___
+> - **Senses** blindsight 120 ft., passive Perception 10
+> - **Languages** understands the languages of its summoner but can't speak
+> - **Challenge** 2 (200 XP)
+> ___
+> ***Magic Seeker (3/day).*** The felhunter can cast *detect magic* three times a day.
+>
+> ***Magic Resistance.*** The felhunter has advantage on saving throws against spells and other magical effects.
 >
 > ### Actions
-> ***Claw.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) slashing damage.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, Reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage
 >
-> ***Fire Blast.*** *Ranged Spell Attack:* +4 to hit, range 60 ft., one target. *Hit:* 4 (1d8) fire damage. A flam-mable object hit by this ignites if it isn't being worn or carried.
-> <br> Your wild imps fire blasts damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)
+> ***Devour Intellect.*** The felhunter targets one creature it can see within 10 feet of it that has a brain. The target must succeed on a DC 12 Intelligence saving throw against this magic or take 11 (2d10) psychic damage.
+>
+> ___
+> - **5th Level** The felhunter can make two bite attacks as an Action
+> - **7th Level** The felhunter can cast the *counterspell* spell at 3rd level once a day
 
-<div class='footnote'>APPENDIX A | FEATURE STATBLOCKS</div>
+<div class='footnote'>APPENDIX B | DEMON COMPANIONS</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/IrcnM90.png' style='position:absolute; top:620px; right:0px; width:400px' />
-<img src='https://www.gmbinder.com/images/GJ0XjPx.png' style='position:absolute; top:890px; right:550px; width:300px;transform:rotate(-30deg)' />
-<img src='https://www.gmbinder.com/images/QtWeD5o.png' style='position:absolute; top:-25px; right:72px; width:300px' />
+<img src='https://www.gmbinder.com/images/3OR2SSS.jpg' style='position:absolute; top:820px; right:-80px; width:500px;mix-blend-mode:multiply' />
 
 \pagebreakNum
 
-# Appendix B: Special Tasks
+<br>
+
+\columnbreak
+___
+> ## Succubus
+>*Medium fiend (demon), lawful evil*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 21 (4d8 + 3)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|15 (+2)|13 (+1)|15 (+2)|12 (+2)|20 (+5)|
+>___
+> - **Senses** darkvision 60 ft., passive Perception 15
+> - **Languages** Eredun, Common, telepathy 60 ft.
+> - **Challenge** 2 (200 XP)
+> ___
+> ***Shapechanger.*** The succubus can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>
+> ### Actions
+> ***Lash.*** *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 8 (1d4 + 2) slashing damage plus 1d6 necrotic damage.
+>
+> ***Seduction (1/day).*** One humanoid the succubus can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 minute. The target obeys the succubus verbal and telepathic commands, and makes a new save at the end of its turns, ending the charm on a success. If the target successfully saves against the seduction, or if the effect on it ends, the target is immune to this succubus' Seduction for the next 24 hours.
+>
+> ***Sooth (1/day).*** The succubus blows a kiss towards a creature, granting her the benefit of a sanctuary spell against the targeted creature. Attacking or casting spells that effects other creatures does not end this effect.
+> ___
+> - **5th Level** The succubus can cast the *invisibility* spell once a day
+> - **7th Level** The succubus gains an additional use of Seduction per day
+
+<div class='footnote'>APPENDIX B | DEMON COMPANIONS</div>
+<img src='https://www.gmbinder.com/images/FrtoCAD.jpg' style='position:absolute; top:0px; right:200px; width:800px' />
+<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-100px; width:900px' />
+
+\pagebreakNum
+
+# Appendix C: Special Tasks
 Prestige classes require special tasks to be completed before a character can enter that class, this Appendix tries to explain the basics of what must be done for someone to become a Death Knight, or Demon Hunter. Bare in mind the information here is a mixture of canon and non-canon lore, and may not reflect how your DM goes about these tasks. 
 
 ## Death Knight Task
@@ -8559,7 +8653,7 @@ If the val'kyr resurrects a player, the val'kyr and dark simulacrum vanishes, an
 
 Once spell ends, the val'kyr vanishes leaving behind the dark simulacrum and the memories of how to cast the spells within.
 
-<div class='footnote'>APPENDIX B | SPECIAL TASKS </div>
+<div class='footnote'>APPENDIX C | SPECIAL TASKS </div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
@@ -8609,7 +8703,7 @@ The majority of demon hunter takes years to master their new found powers, takin
 >
 > You may have realized mentions that a large amount of Demon Hunter dies, but never any saving throws that the player had to go through. Although the player should be aware that few survive these rituals, this is not meant as a potential death for that player.
 
-<div class='footnote'>APPENDIX B | SPECIAL TASKS </div>
+<div class='footnote'>APPENDIX C | SPECIAL TASKS </div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
