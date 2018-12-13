@@ -5971,7 +5971,7 @@ In order to undergo the transformation required to advance as a demon hunter, yo
  - **Dexterity 13.** Demon Hunters need to be swift and acrobatic to out maneuver their foes.
  - **Intelligence 13.** Bonding with a demon requires a strong mind to overcome the mental strain.
  - **Character Level 5th.** Demon hunters are exposed to deadly amounts of fel energy when created, killing most who attempt the transformation, as such you must be a 5th-level character before you can gain levels in the demon hunter prestige class.
- - **Complete a Special Task.** You must find one or more demon hunters willing to lead you through the array of complex rituals required to become a demon hunter. See Appendix B for an indepth of the special task.
+ - **Complete a Special Task.** You must find one or more demon hunters willing to lead you through the array of complex rituals required to become a demon hunter. See Appendix C for an indepth of the special task.
 
 ## Class Features
 As a demon hunter, you gain the following class features.
