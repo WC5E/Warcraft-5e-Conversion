@@ -37,7 +37,9 @@ Cooper, Wei Wang, Ryan Metcalf, Ina Wong, Tyson
 
 Murphy, Jerry Mascho, Aaron Lovett, Kristina
 
-Toxicpanda, Dariia Kasimova, Phillip Zhang
+Toxicpanda, Dariia Kasimova, Phillip Zhang, Artlon,
+
+Dmitry Vernygor
 
 <br> **Based on the original D&D game created by** 
 <br>&nbsp;&nbsp;&nbsp; E. Gary Gygax and Dave Arneson, as well as <br>&nbsp;&nbsp;&nbsp; Brian Blume, Rob Kuntz, James Ward and Don Kaye.
@@ -95,7 +97,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 </div>
 
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:695px; right:498px; width:150px' />
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:715px; right:498px; width:150px' />
 
 \pagebreakNum
 
