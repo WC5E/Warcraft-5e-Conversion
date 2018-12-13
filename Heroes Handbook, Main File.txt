@@ -204,9 +204,10 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
   - #### [<span>124</span><span>Chapter 6: Spells                            </span>](#p124)
      - [<span>124</span><span>Spell Lists                                    </span>](#p124)
      - [<span>128</span><span>Spell Descriptions                             </span>](#p128)
-- ### [<span>132</span><span>Appendix A: Feature Statblocks                  </span>](#p132)
-- ### [<span>134</span><span>Appendix B: Special Tasks                       </span>](#p134)
-- ### [<span>136</span><span>Appendix C: World Map                           </span>](#p136)
+- ### [<span>132</span><span>Appendix A: Shapeshifts                         </span>](#p132)
+- ### [<span>134</span><span>Appendix B: Demon Companions                    </span>](#p134)
+- ### [<span>134</span><span>Appendix C: Special Tasks                       </span>](#p134)
+- ### [<span>136</span><span>Appendix D: World Map                           </span>](#p136)
 </div>
 
 <img src='https://www.gmbinder.com/images/KMN7Lk4.jpg' style='position:absolute; top:660px; right:0px; width:800px' />
