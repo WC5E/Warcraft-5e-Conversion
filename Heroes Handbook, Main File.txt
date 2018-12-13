@@ -334,9 +334,9 @@ You will likely notice that there are two class suggestion charts. One for Pre-C
  
 | **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
 |:----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ***Draenei, Exodar*** | | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ |
+| ***Draenei, exodar*** | | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ |
 | ***Draenei, broken*** | | ✦ | ✦ | | | ✦ | ✦ | ✦ | ✦ | |
-| ***Dwarf, bronzebeard*** | | ✦ | | ✦ | ✦ | ✦ | | | ✦ | ✦ |
+| ***Dwarf, ironforge*** | | ✦ | | ✦ | ✦ | ✦ | | | ✦ | ✦ |
 | ***Dwarf, wildhammer*** | | ✦ | | | | |  ✦ | | ✦ | |
 | ***Gnome*** | | | ✦ | | | ✦ | | ✦ | ✦ | ✦ |
 | ***Human*** | | | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
@@ -354,7 +354,7 @@ You will likely notice that there are two class suggestion charts. One for Pre-C
 | ***Draenei, exodar*** | | ✦ | ✦ |  ✦ | ✦ | ✦ | | ✦ | | ✦ | ✦ | 
 | ***Draenei, broken*** | | ✦ | ✦ | | | | ✦ | ✦ | ✦ | ✦ | | |
 | ***Draenei, lightforged*** | | ✦ | ✦ | | ✦ | ✦ | | | | ✦ | | |
-| ***Dwarf, bronzebeard*** | | ✦ | ✦ |  ✦ |✦ | ✦ | ✦ | ✦ |  ✦ | ✦ | ✦ | |
+| ***Dwarf, ironforge*** | | ✦ | ✦ |  ✦ |✦ | ✦ | ✦ | ✦ |  ✦ | ✦ | ✦ | |
 | ***Dwarf, wildhammer*** | ✦ | ✦ | | ✦ | | | | ✦ | | ✦ | | |
 | ***Dwarf, dark iron*** | | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | |
 | ***Gnome*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
@@ -3919,7 +3919,7 @@ You can use your light points to gain additional spell slots, or sacrifice spell
 \pagebreakNum
 
 ### Word of Power
-Starting at 3rd level, you gain the ability to speak words of power to envelope your allies or harm a creature. You learn one of the following Word of Power options of your choice. You learn another word at 10th, 14th, and 17th level.
+Starting at 3rd level, you gain the ability to speak words of power to envelope your allies or harm a creature. You learn two of the following Word of Power options of your choice. You learn another word at 10th, 14th, and 17th level.
 
 Speaking a word of power requires an action unless otherwise specified. You can only have one Word of Power active at a time, and can dismiss an active word as a bonus action on your turn.
 
