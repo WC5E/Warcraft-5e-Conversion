@@ -4843,20 +4843,20 @@ They exploit powerful shadow and fel magic to manipu-late and degrade the minds 
 ##### The Warlock
 |Level|Proficiency<br>Bonus|Features|Cantrips<br>Known|&nbsp;| Spells<br>Known|&nbsp;|Spell<br>Slots|&nbsp;|Spell<br>Level|
 |:---:|:--:|:------------------------------------------------|:--:|:-|:--:|:-|:--:|:-|:--:|
-| 1st | +2 | Grimoire, Shadow Magic                                 | 3 ||  2 || 1 || 1st |
+| 1st | +2 | Fel Study, Shadow Magic                                | 3 ||  2 || 1 || 1st |
 | 2nd | +2 | Life Drain                                             | 3 ||  3 || 2 || 1st |
-| 3rd | +2 | Demon Companion                                        | 3 ||  4 || 2 || 2nd |
+| 3rd | +2 | Shadow Embrace                                         | 3 ||  4 || 2 || 2nd |
 | 4th | +2 | Ability Score Improvement                              | 4 ||  5 || 2 || 2nd |
 | 5th | +3 | —                                                      | 4 ||  6 || 2 || 3rd |
-| 6th | +3 | Grimoire feature                                       | 4 ||  7 || 2 || 3rd |
+| 6th | +3 | Fel Study feature                                      | 4 ||  7 || 2 || 3rd |
 | 7th | +3 | —                                                      | 4 ||  8 || 3 || 4th |
 | 8th | +3 | Ability Score Improvement                              | 4 ||  9 || 3 || 4th |
 | 9th | +4 | —                                                      | 4 || 10 || 3 || 5th |
-| 10th| +4 | Grimoire feature                                       | 5 || 10 || 3 || 5th |
+| 10th| +4 | Fel Study feature                                      | 5 || 10 || 3 || 5th |
 | 11th| +4 | Fel Arcanum (6th level)                                | 5 || 11 || 3 || 5th |
 | 12th| +4 | Ability Score Improvement                              | 5 || 11 || 4 || 5th |
 | 13th| +5 | Fel Arcanum (7th level)                                | 5 || 12 || 4 || 5th |
-| 14th| +5 | Grimoire feature                                       | 5 || 12 || 4 || 5th |
+| 14th| +5 | Fel Study feature                                      | 5 || 12 || 4 || 5th |
 | 15th| +5 | Fel Arcanum (8th level)                                | 5 || 13 || 4 || 5th |
 | 16th| +5 | Ability Score Improvement                              | 5 || 13 || 4 || 5th |
 | 17th| +6 | Fel Arcanum (9th level)                                | 5 || 14 || 5 || 5th |
@@ -4866,19 +4866,17 @@ They exploit powerful shadow and fel magic to manipu-late and degrade the minds 
 </div>
 
 ### Sworn and Beholden
-A warlock is defined by a pact, a secretive grimoire given to them, granting them knowledge hidden to the world. A warlock might be a new found member of one of Azeroth's many cults hidden in ruins no longer used, their grimoire given to them by the cults leader. More often, though, the adventurer found or sought out a grimoire on their own. 
+Warlocks are defined by the powers they wield, the power-ful fel that the have studied, granting them knowledge of powers hidden to mages and arcanists. A warlock might be a new found member of one of Azeroth's many cults hidden in ruins no longer used, studying fel in secrecy, attempting to unlock devastating powers.
 
-The boons bestowed on a warlock through their grimoire ranges from minor but lasting alterations to the warlock's being, to access to powerful spells. Unlike bookish wizards, warlocks supplement their magic with some facility at hand-to-hand combat.
+The boons bestowed upon a warlock through their studies ranges from minor but lasting alterations to the warlock's being, to access of powerful spells. Unlike bookish wizards, warlocks supplement their magic with some faciliy at hand-to-hand combat.
 
 ### Creating a Warlock
-As you make your warlock character, spend some time thinking about you got a hold of a grimoire and the obligations that your book imposes upon you. What led you to become a warlock and acquire a grimoire? Were you seduced by the powers that fel magic can promise, or did you seek out a warlocks ritual that would entice you to study their ways. Did you search for knowledge and found more than you expected?
-
-Your newfound grimoire might have driven you into adventurers, seeking out knowledge about its secrets to empower yourself further.
-
-<br>
+As you make your warlock character, spend some time thinking about why you decided to delve into the secrets of fel, its impressive and destructive nature. Were you seduced by the powers it had? What the fel promised for you? Did you seek out a warlock yourself? or perhaps you became addicted to its powers. How your studies came to be is for you to decide.
 
 #### Quick Build
 You can make a warlock quickly by following these sug-gestions. First, Intelligence should be your highest ability score, followed by Constitution.
+
+\columnbreak
 
 ## Class Features
 As a warlock, you gain the following class features.
@@ -4891,7 +4889,7 @@ ___
 
 #### Proficiencies
 ___
-- **Armor:** None
+- **Armor:** Light armor
 - **Weapons:** Simple weapons, longswords, rapier, scimitar, shortswords
 - **Tools:** None
 ___
@@ -4901,32 +4899,33 @@ ___
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
  - *(a)* shortsword or *(b)* any simple weapon
+ - *(a)* a component pouch or *(b)* an arcane focus
+ - *(a)* a scholar's pack or *(b)* a dungeoneer's pack
+ - Leather armor, and a dagger
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
+<div style='margin-top:130px;'></div>
 
- - *(a)* a component pouch or *(b)* a focus of fel
- - *(a)* a scholar's pack or *(b)* a dungeoneer's pack
- - A grimoire
-
-### Grimoire
-At 1st level, you acquire a book by the warlock councils, the book entails the beginning of your growth in one of the following sects of the council. The Grimoire of Affliction, Demonology, or Destruction. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
-
-If you loose your grimoire, you can perform a 1-hour ceremony to receive a new one from the twisting nether.
+### Fel Study
+At 1st level, you have begun studying into the powers and chaotic fel, uncovering knowledge of your choice: Study of Affliction, Study of Demonology, or Study of Destruction. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
 
 ### Shadow Magic
 Your research of shadow and its devastating magic have given you facility with spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for for the warlock spell list.
+<div style='margin-top:-5px;'></div>
 
 #### Cantrips
 You know three cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+<div style='margin-top:-5px;'></div>
 
 #### Spell Slots
 The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
-For example. when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell *inflict wounds*, you must spend one of those slots, and you cast it as a 3rd-level spell.
+For example. at 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell *false life*, you must spend one of those slots, and you cast it at 3rd-level spell.
+<div style='margin-top:-5px;'></div>
 
 #### Spell Known of 1st Level and Higher
 At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
@@ -4934,6 +4933,7 @@ At 1st level, you know two 1st-level spells of your choice from the warlock spel
 The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, to 3rd level.
 
 Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+<div style='margin-top:-5px;'></div>
 
 #### Spellcasting Ability
 Intelligence is your spellcasting ability for your warlock spells, so you use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelli-gence modifier when setting the saving throw DC for a war-lock spell you cast and when making an attack roll with one
@@ -4943,27 +4943,63 @@ Intelligence is your spellcasting ability for your warlock spells, so you use yo
 **Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
 
 **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
-
 </div>
+<div style='margin-top:-5px;'></div>
 
 #### Spellcasting Focus
 You can use an arcane focus as a spellcasting focus for your warlock spells.
 
 \columnbreak
 
+<div style='margin-top:130px;'></div>
+
 ### Life Tap
-Starting at 2nd level, you are able to sacrifice your own life force to restore part of your shadow magic. As a bonus action, you can deal 1d6 necrotic damage to yourself to re-plenish a spell slots. Whenever your spell level increases, Life Drain deals an additional 1d6 necrotic damage to you.
+Starting at 2nd level, you are able to sacrifice your own life force to restore spell slots. As an action, you can deal 1d6 necrotic damage per spell level to yourself, and replenish an expended shadow magic spell slot. 
 
-### Demon Companion
-When you reach  3rd level, you uncover a ritual making you able to summon an unwilling demon from the twisting nether to the material plane and binding it to your will.
+Your maximum hit points are reduced by an amount equal to the damage taken, and are restored when you finish your next long rest.
 
-Summoning a demon takes an hour, at the end of which the summoned demon appears in an unoccupied space within 15 feet of you. You can summon any demon with a challenge rating lower than half your warlock level rounded up (minimum of one). You are only able to have one demon enslaved at a time, summoning additional demons while you have one enslaved will break your enslaved demons chains, making it hostile towards you.
+### Shadow Embrace
+At 3rd level, you've been embraced by shadow, granted knowledge and powers unknown to most. You gain one of the following features of your choice.
 
-Your demon obeys your commands as best it can, acting on your initiative count, its actions, decisions, attitude and so on determined by you. If you are incapacitated or absent, the companion acts on its own. Whilst enslaved, your demon can't do any actions that would go against your alignment. For example, if you are a good aligned warlock, your demon can't on its own accord begin to wreak havoc around you, its enslavement forbids it and prevents it from taking such actions without explicit order to do so.
+#### Embrace of the Great Dark
+You gain a grimoire from the Great Dark Beyond. When you gain this feature, choose three cantrips from any class's spell list. While the book is on your person, you can cast those cantrips at will. The cantrips are warlock spells for you and don't count against your cantrips known.
 
-You can dismiss the demon permanently any time you choose, using a minute, or you can temporarily dismiss it into a pocket dimension, while in this dimension the demon regains hit points as if it had finished a long rest. You can recall your demon from the pocket dimension, also using a minute, making it reappear in any unoccupied space within 30 feet of you.
+Additionally, you learn one spell of your choice from any class's spell list. The spell must have a level equal or lower than your shadow magic's spell level. You can cast that spell once per long rest without expending a spell slot. When you receive a replacement grimoire, you may change this spell to another from any class's spell list.
 
-If your demon companion dies while enslaved to you, you must make a Constitution saving throw (DC 12 + the CR of the summoned demon). Taking 1d10 psychic damage for each CR the demon had, and half the damage on a successful one. This damage ignores temporary hit points, resistances and immunities, and reduced your hit point maximum by an amount equal to the damage dealt. You maximum is restored at a rate of 10 hit points per long rest, until your hit point maximum is fully restored.
+If you lose your grimoire, you can perform a 1-hour ritual to receive a replacement from the Great Dark. This ritual can be performed during a short or long rest, and destroys the previous book. The book turns to ash when you die.
+
+#### Embrace of the Shadowlands
+You can tap a creatures soul when it is dying, creating a shard of its soul. If you have a free hand, you can use your reaction when a creature dies to create a soul shard in that hand. Each soul shard keeps its potency for 1 hour before crumbling into dust. You can never have more soul shards than your Warlock level.
+
+As an action, you can expend soul shards within 5 feet of you to use one of the abilities below. Once a shard have been spent, it vanishes from your belongings
+
+***Concentrated Souls.*** When you cast a spell that require concentration and you're already concentrating on a spell, you can spend a number of soul shards equal to the spell slot used to cast the spell to concentrate on both spells at the same time for their durations.
+
+***Drain Lift.*** You can spend soul shards and choose a creature within 60 feet of you, the target must make a Con-stitution saving throw. On a failed save, the target takes 1d4 necrotic damage per soul shard spent, or half as much on a successful save. You regain hit points equal to the damage dealt to the target.
+
+***Healthstone.*** You can spend soul shards to create a healthstone, the stone keep its potency for 24 hours before vanishing. As an action, a creature can crush the stone, regaining 1d4 hit points for each soul shard spend in the stones creation.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/EsofAt2.jpg' style='position:absolute; top:-140px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-250px; right:0px; width:1200px' />
+
+\pagebreakNum
+
+#### Embrace of the Twisting Nether
+You learn to summon and bind a demon from the twisting nether to serve as your companion. With 1 hour of work and the expenditure of 50 gp worth of charcoal and herbs, you summon your choice of an **imp, voidwalker, succubus** or **felhunter**, each of which are described in Appendix B at the end of the book. 
+
+Your demon gains all the benefits of your Demon Servant ability. You can only have one demon summoned at a time.
+
+If your demon companion is ever slain, you can call forth another using the rules mentioned above.
+
+You can dismiss the demon companion permanently any time you choose, using 1 minute, or you can temporarily dismiss it to a pocket dimension. You can recall the demon from the pocket dimension, as an action, to reappear in any unoccupied space within 30 feet of you.
+
+#### Demon Servant
+Your demon companion gains a variety of benefits while summoned by you.
+ - The demon obeys your command as best it can. It rolls for initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your demon acts on its own.
+ - Your demon has abilities and game statistics determined in part by your level. In addition to the areas where it normally uses its proficiency bonus, your demon also adds its proficiency bonus to its AC. The demon uses your proficiency bonus rather than its own, and gains more abilities as you gain Warlock levels.
+ - For each level you gain after 3rd, your demons health increases by the average of its hit dice.
+ - The demon keeps its alignment, but it can't willingly do any actions that goes against your alignment.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -4973,21 +5009,20 @@ At 11th level, you've delved deep into fel and unveil magical secrets called arc
 
 You can cast your arcanum spell once without expending a spell slot, after which you must finish a long rest before you can do so again.
 
+At higher levels, you gain more warlock spells of your choice that can be cast in this way
+
 At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Fel Arcanum when you finish a long rest.
-
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
 
 ### Shadow Master
 At 20th level, you can draw on your inner reserve of shadow to regain expended spell slots. You can spend 1 minute  to regain all your expended spell slots from your Spellcasting feature. Once you regain spell slots with this feature, you cannot do so again until you finish a long rest.
 
-## Grimoire
-Warlocks are granted a grimoire for their dedication towards a certain aspect of warlocks. Three grimoires exist, each delving into a different aspect of the powers warlocks wield.
+\columnbreak
 
-### Grimoire of Affliction
-Warlocks of the affliction grimoire are masters of shadow-touched powers, unlike the shadow priests these warlock delight in using fel as a force to cause intense pain and suffering in others. They revel in corrupting minds, agoni-zing souls, and leaving enemies in a state of torment that would see them undone in due time.
+## Fel Study
+Warlocks have come into contact with the powerful fel, studying its uncontrollable energy. Three such studies exist, each delving into a different aspect of the powers wielded by warlocks.
+
+### Study of Affliction
+Warlocks that study affliction become masters of shadow-touched powers, unlike priests of the shadow priesthood, warlocks delight in the use of fel as a force to cause pain and leaving their enemies in whirls of torment.
 
 #### Expanded Spell List
 Affliction lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
@@ -5001,44 +5036,47 @@ Affliction lets you choose from an expanded list of spells when you learn a warl
 | 4th | blight, vitriolic sphere         |
 | 5th | cloudkill, hold monster          |
 
-#### Soul Leech
-Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).
-
 #### Curse of Agony
-Beginning at 6th level, you can use an action to agonize a target within 30 feet of you. The target is required to make a saving throw corresponding to the curse of agony chosen below. Becoming cursed for the next 24 hours on a failure.
+Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The curse ends early if the target dies, you die, or you are incapacitated. The target is cursed for 1 minute. Until the curse ends, you gain the following benefits:
+ - You gain a bonus to damage rolls against the cursed target equal to your proficiency bonus.
+ - Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.
 
-<div style='margin-top:0px;'></div>
+You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
-&nbsp;&nbsp;&nbsp; **Agony of Weakness (Strength):** The creatures damage dealt with weapons is halved.
+#### Nether Ward
+At 6th level, you learn to magically ward yourself against attacks and to use an enemey's failed strike as an opening for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. Once you use this feature, you can't use it again until you finish a short or long rest.
 
-**Agony of the Graceless (Dexterity):** The creature has disadvantage on Dexterity ability checks, and attack rolls.
+#### Unstable Affliction
+Upon reaching 10th level, when you deal damage to a crea-ture under the effects of your Curse of Agony, you can use your bonus action to attempt to afflict it. The target must succeed on a saving throw against the chosen affliction. 
 
-**Agony of Illness (Constitution):** The creature has dis-advantage on all Constitution saving throws, and cannot regain hit points through healing spells.
+On a failed save, the creature gains the effects of the corruption until the end of your next turn.
+ - ***Weakness (Strength Save).*** Weapon attacks deal half damage and Strength saving throws are made with disadvantage.
+ - ***Graceless (Dexterity Save).*** Attack rolls and Dexterity saving throws are made with disadvantage.
 
-**Agony of Stupidity (Intelligence):** Moving requires an action for the creature.
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/NXvX7mr.png' style='position:absolute; top:950px; right:400px; width:300px;transform:rotate(-20deg)' />
 
-**Agony of Negligence (Wisdom):** The creature always takes the most direct route to its destination, and cannot use the Disengage action on its turn.
+\pagebreakNum
 
-**Agony of Abhorrence (Charisma):** The creature becomes frightened of you for the duration. 
-
-<div style='margin-top:-4px;'></div>
-
-You can use this feature once per long rest, you gain an additional use between rests at 10th, and 14th level.
+<br>
 
 \columnbreak
 
-#### Nether Ward
-Starting at 10th level, your meddling with the twisting nether has taught you how to turn the mind-affecting magic of your enemies against them. You are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage.
+ - ***Illness (Constitution Save).*** The creature can't regain hit points and Constitution saving throws are made with disadvantage.
+ - ***Stupidity (Intelligence Save).*** The creature must use its action to use their bonus action or movement.
+ - ***Negligence (Wisdom Save).*** The creature uses its movement on its turn to move towards you by the most direct route possible.
+ - ***Abhorrence (Charisma Save).*** The creature becomes frightened of you, and uses its turn to move more than 60 feet away from you if possible.
 
 #### Seed of Corruption
-At 14th level, you unarmed strikes count as magical and deal necrotic damage instead of bludgeoning, using your spell attack modifier for attack and damage rolls. When you hit another humanoid creature with an unarmed strike, you can choose to transfer a seed of corruption to them. The target must make a Constitution saving throw against your spell save DC as the corruption quickly spreads through its body. On a failed save, the target takes 8d10 necrotic damage, or half as much damage on a successful one. 
+At 14th level, you can plunge a creature into an illusory realm of the horrific twisting nether. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.
 
-Additionally, if the target fails the saving throw, you can use an action on subsequent turns to issue it a single command, as if you were casting the *command* spell. The target makes its saving throw against your command with disadvantage. You can issue this command at any time while the target remains infected. 
+Until this illusion ends, the creature thinks it is lost in the eternal cosmos of the twisting nether. The creature can see and hear only itself, you, and the illusion around it.
 
-Once you use this feature, you can't use it again until you finish a long rest, at which point the target is cured of the corruption. The infection can also be removed with a lesser restoration spell.
+You must finish a short or long rest before you can use this feature again.
 
-### Grimoire of Demonology
-Warlocks of the demonology grimoire have mastered harnessing the power of the malefic demon beings on the field of battle. While their practice is often considered by outsiders as wicked and reckless, the demonologist maintains absolute control over their enslaved creatures.
+### Study of Demonology
+Warlocks that study demonology harness the powers of the malefic demon beings of the twisting nether. Uncovering secrets unknown by residents of Azeroth, and twisting their magic with the aid of demonic powers from the great dark.
 
 #### Expanded Spell List
 Demonology lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
@@ -5052,42 +5090,39 @@ Demonology lets you choose from an expanded list of spells when you learn a warl
 | 4th | charm monster, dominate beast |
 | 5th | hold monster, planar binding  |
 
+#### Fiendish Influence
+Starting at 1st level, you learn the *friends* cantrip, which counts as a warlock cantrip for you.
+
+Additionally, fiends have difficulty harming you. If a fiend targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (a fiend needn't make the save when it includes you in an area effect, such as the explosion of *fireball*). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, poten-tially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. A fiend is also immune to this effect for 24 hours if you target it with an attack or harmful spell.
+
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/R1wEDDU.jpg' style='position:absolute; top:850px; right:0px; width:560px' />
-<img src='https://www.gmbinder.com/images/x5MXJJ4.png' style='position:absolute; top:0px; right:0px; width:1050px;transform:rotate(180deg)' />
+<img src='https://www.gmbinder.com/images/Zvvr01c.jpg' style='position:absolute; top:0px; right:180px; width:820px' />
+<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-100px; width:900px' />
 
 \pagebreakNum
 
 #### Wild Imps
-Starting at 1st level, your volatile spells are able to spear rifts to the twisting nether, bringing forth wild imps. When you roll for a spell attack and critically hit, or deal the final blow to an enemy. You bring forth a wild imp from the twisting nether. The imp is summoned in an unoccupied square within 15 feet of you, and follows the same rules as your Demon Companion feature, with the exception of dealing damage to you upon death.
+Upon reaching 6th level, your spells are able of open rifts into the twisting nether to bring forth wild imps. Each time you roll a 20 on the d20 roll for a spell attack, or deal the killing blow to a creature of significant threat (DM's discre-tion). You summon an imp in an unoccupied square within 30 feet of you. A statblock can be found in Appendix B.
 
-You can have a number of wild imps under your control equal to your warlock spell level. For example, a 5th level warlock would be able to have three wild imps under his control. Any imps summoned beyond your maximum repla-ces your longest living imp. A wild imp stays for up to 10 minutes before being sucked back into the twisting nether, until you dismiss them as an action, or until they die.
+A summoned imp obeys your commands as best it can. It rolls initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are inca-pacitated or absent, the imp acts on its own.
 
-#### Demons Calling
-Beginning at 6th level, you can draw upon your demons life force to replenish your own when near death. You can deal 1d8 + your Constitution modifier necrotic damage to your enslaved demon, and regain hit points equal to the damage dealt when you succeed on a death saving throw.
+Imps stay for 1 minute before being dragged back to the twisting nether. You can have a number of imps summoned equal to your proficiency bonus.
 
-Once you use this feature, you can't use it again until you finish a long rest.
+#### Demonic Resilience
+Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.
 
-#### Demonic Supremacy
-Starting at 10th level, your enslaved demons power increases with yours, making it less of a slave and more of a companion to you, granting you the following benefits:
+#### Mark of Service
+At 14th level, you gain the ability to infect fiends minds. You can use your action to touch an incapacitated fiend. That creature is charmed by you until a *remove curse* spell is cast on it, the charmed condition is removed from it, you use this feature again, or 24 hours pass.
 
- - Your demonic companion has abilities and statistics determined in part by your level. Using your proficiency bonus rather than its own. In addition to the areas where it normally uses its proficiency bonus, your demon also adds its proficiency bonus to its AC and to its damage rolls.
- - Your demon gains proficiency in two skills of your choice. It also becomes proficient in all saving throws.
- - A summoned demon gains an increase to its hit point maximum equal to twice your Warlock level.
- - Whenever you gain an *Ability Score Improvement* class feature, your demons abilities improve as well, applying all the rules of increasing ability scores that would apply to you too. This is retroactive for summoned demons.
+You can communicate telepathically with the charmed creature as long as the two of you are on the same plane.
 
-#### Soul Link
-At 14th level, the bond between master and minion has strengthened unlike any other summoner. As a reaction upon taking damage, you can split the damage dealt to you between you and your enslaved demon, giving each of you resistance against damage until the end of the current turn.
-
-You can use this feature twice. You regain expended uses when you finish a short rest.
-
-\columnbreak
-
-### Grimoire of Destruction
-Warlocks of the destruction grimoire are well-versed in discharging a dizzying array of shadow, fel, fire, and chaos magics upon opponents that rattle souls and conflagrate bodies. They require little motivation for the havoc they wreak, happy to revel in the destruction they cause, thrilled at any opportunity to watch the world erupt in discord.
+### Study of Destruction
+Warlocks that study destruction meddle with the energy of fel and fire, combining the two to create devastating spells. They require little motivation for the havoc they wreak, and are happy to revel in the destruction they cause, thrilled at any opportunity to watch the world erupt in discord.
 
 #### Expanded Spell List
 Destruction lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+\columnbreak
 
 ##### Destruction Expanded Spells
 | Spell Level | Spells                      |
@@ -5098,31 +5133,31 @@ Destruction lets you choose from an expanded list of spells when you learn a war
 | 4th | fire shield, wall of fire           |
 | 5th | flame strike, planar binding        |
 
-#### Bonus Cantrips
-At 1st level, you learn the *control flames* and *firebolt* cantrip. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+#### Ignite
+At 1st level, as an action, you can magically ignite a flam-mable object you touch with your hand.
 
 #### Chaos Magic
-Starting at 1st level, any warlock spell cast using a spell slot deals fire or necrotic damage deals an additional 1d6 dam-age of the opposite damage type. For example, a *burning hands* would deal an additional 1d6 necrotic damage. 
+Starting at 1st level, whenever you cast a spell of 1st level or higher that deals fire or necrotic damage, you can use your bonus action and choose a creature hit by your spell. Volatile magic erupts in a 10 feet radius around the target, dealing fire or necrotic damage equal to your warlock level to all creatures within range.
 
-Spells that deal both fire and necrotic damage deals an additional 1d10 damage of either fire or necrotic.
+#### Havoc
+Starting at 6th level, you can duplicate certain spell effects. When you cast a spell with a spell slot that targets only one creature and doesn't have a range of self, you may choose to target a second creature in range with the same spell.
 
-#### Demonic Refuge
-Beginning at 6th level, you have learnt secrets of the twist-ing nether, using it as a refuge in dire times. As an action, you disappear from the world for a brief moment and enter the Twisting Nether, taking advantage of its timeless space. While in your demonic refuge, you can take two actions to cast spells that target only you. After using those actions, you return to the space you occupied and your turn ends.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
-#### Twisted Fortitude
-Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.
+#### Soul Fire
+Beginning at 10th level, you gain the ability to use your tapped life to empower your spells. Whenever you use your Life Tap feature, you are able to reroll a number of damage dice up to your Intelligence modifier for the next spell you cast within 1 minute.
 
 #### Chaos Bolt
-At 14th level, you are able to hurl a roaring bolt of chaotic energy against a target. Choose a target within 120 feet, the target is required to make a Constitution saving throw. On a fail, they take 4d8 necrotic damage plus 30 fire damage, and half of that damage on a successful one.
+At 14th level, you are able to hurl a roaring bolt of chaotic energy towards a target. As an action, choose a creature within 120 feet of you, the target must make a Constitution saving throw. Taking 7d8 necrotic plus 30 fire damage on a failed save, or half as much on a successful one.
 
-A creature killed by this spell and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by *True Resurrection* or *Wish*.
+A creature killed by this feature and everything it is wear-ing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by *True Resurrection* or *Wish*.
 
 Once you have used this feature you cannot use it again until you have finished a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/HsmZpd9.png' style='position:absolute; top:800px; right:430px; width:300px;transform:rotate(20deg)' />
-<img src='https://www.gmbinder.com/images/NXvX7mr.png' style='position:absolute; top:720px; right:636px; width:300px;transform:rotate(-206deg)' />
+<img src='https://www.gmbinder.com/images/8GHYm5P.jpg' style='position:absolute; top:770px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-40px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/pZ94Ass.png' style='position:absolute; top:640px; right:405px; width:350px' />
 
 \pagebreakNum
 
