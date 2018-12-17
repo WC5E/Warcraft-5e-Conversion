@@ -5214,7 +5214,7 @@ Warriors learn the basics of all combat styles. Every warrior can swing an axe, 
 | 8th | +3 | Ability Score Improvement   | 8  |
 | 9th | +4 | Rage (2/rest)               | 9  |
 | 10th| +4 | Martial Stance feature      | 10 |
-| 11th| +4 | Raging Stance               | 11 |
+| 11th| +4 | Martial Stance feature, <br> Dauntless      | 11 |
 | 12th| +4 | Ability Score Improvement   | 12 |
 | 13th| +5 | Rage (3/rest)               | 13 |
 | 14th| +5 | Ability Score Improvement   | 14 |
@@ -5227,7 +5227,7 @@ Warriors learn the basics of all combat styles. Every warrior can swing an axe, 
 </div>
 
 ### Creating a Warrior
-As you build your warrior, think about two related elements of your character's background: Where did you get your combat training, and what set you apart from the mundane fighters around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication? What drove you to this training in the first place? A threat to your homeland, a thirst for revenge, or a need to prove yourself might ail have been factors.
+As you build your warrior, think about two related elements of your character's background: Where did you get your combat training, and what set you apart from the mundane fighters around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication?
 
 You might have enjoyed formal training in a noble's army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught—unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms. or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions—the only things that stand between you and death's embrace.
 
@@ -5295,7 +5295,7 @@ Once you use this feature, you must finish a short or long rest before you can u
 ### Rage
 Starting at 2nd level, you are able to release your inner rage when the thrill of battle hits. When you roll for initiative in combat, you may choose to expend a use of Rage. Giving you access to your inner rage represented by a number of rage points. Your warrior level determines the number of points you have, as shown in the Rage Reserve column of the Warrior table.
 
-This reserve lasts until each point have been spent, or until an hour has passed. You must then finish a long rest to use your Rage again. You can spend these points to fuel various rage features. Each of which are listed below.
+This reserve lasts until each point have been spent, or 1 hour passes. You must then finish a long rest to use your Rage again. You can spend these points to fuel various rage features. At 2nd level, you know two rage features of your choice from the list below. You learn an additional rage fea-ture of your choice at 7th, 10th, and 15th level. Each time you learn a rage feature, you can also replace one feature you know with a different one.
 
 Beginning at 9th level, you can use your Rage twice between rests, and beginning at 13th level, you can use it three times between rests. When you finish a long rest, you regain your expended uses.
 
@@ -5355,17 +5355,10 @@ At 6th level, you can push yourself beyond your normal limits for a moment. On y
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once per turn.
 
-### Raging Stance
-Upon reaching 11th level, you have harnessed the skills of your martial stance, and have begun implementing its techniques into your combat rage. Granting you an addi-tional rage feature depending on your stance.
+### Dauntless
+By 11th level, your instincts are so honed that you have advantage on initiative rolls.
 
-#### Arms: Colossus Smash
-You can spend 2 rage points before making attack rolls. <br>If an attack hits this turn, the target takes normal damage and allies gain advantage on weapon attacks against that creature until the start of your next turn.
-
-#### Fury: Bloodthirst
-You can spend 2 rage points to make all attack this turn deal extra weapon damage equal to your proficiency bonus.
-
-#### Protection: Shield Block
-You can spend 3 rage points to take the Dodge action on your turn as a free action. To do so you must be wielding a shield in one hand.
+In addition, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, if you enter a rage as you roll initiative.
 
 ## Martial Stances
 Different fighters choose different approaches to perfecting their fighting prowess. The martial stance you choose to emulate reflects your approach.
@@ -5384,20 +5377,24 @@ Beginning when you choose this stance at 3rd level, when-ever you hit with a wea
 |&nbsp; 16th | 1d8 |
 |&nbsp; 20th | 1d10 |
 
-\columnbreak
-
 #### Seasoned Soldier
 Starting at 7th level, if you spend 1 minute observing or interacting with another creature outside of combat, you can learn certain information about its capabilities com-pared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
  - Strength score
  - Dexterity score
  - Constitution score
  - Armor Class
+
+\columnbreak
+
  - Current hit points
  - Total class levels (if any)
  - Warrior class levels (if any)
 
 #### Additional Fighting Style
 At 10th level, you choose a second option from the Fighting Style class feature.
+
+#### Colossus Smash
+Starting at 11th level, you can spend 2 rage points before taking the attack Action. If one of your weapon attacks hits, the target takes normal weapon damage and allies gain advantage on weapon attacks against that creature until the start of your next turn.
 
 #### Improved Critical
 Upon reaching 15th level, your weapon attacks score a critical hit on a roll of 19 or 20.
@@ -5420,6 +5417,9 @@ Additionally, *versatile* one-handed weapons now deal their versatile damage die
 
 #### Tireless Rampage
 Upon reaching 10th level, when you roll initiative and have no uses of rampage remaining, you regain one use.
+
+#### Bloodthirst
+Starting at 11th level, you can spend 2 rage points to make all attack this turn deal extra weapon damage equal to your proficiency bonus.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/z6WJzwY.jpg' style='position:absolute; top:930px; right:0px; width:800px'>
@@ -5451,6 +5451,9 @@ You can use this feature a number of times equal to your Constitution modifier (
 #### Never Surrender
 Beginning at 10th level, you are able to use your second wind feature twice between short or long rests. When you succeed a death saving throw, you can expend a use of Second Wind whilst unconscious.
 
+#### Shield Block
+Starting at 11th level, you can spend 3 rage points to take the Dodge action on your turn as a free action. To do so you must be wielding a shield in one hand.
+
 #### Unstoppable Force
 Starting at 15th level, you are able to soften even the most devastating blows, and push against any one trying to tumble you. Critical hits against you becomes normal hits, any attempts to knock you prone has disadvantage, and the distance you can be shoved is halved.
 
@@ -5460,7 +5463,7 @@ At 18th level, at the start of each of your turns, you regain hit points equal t
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/yluzKKU.jpg' style='position:absolute; top:0px; right:200px; width:850px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-100px; width:900px' />
-<img src='https://www.gmbinder.com/images/lDb6MoU.png' style='position:absolute; top:920px; right:-50px; width:250px;transform:rotate(30deg)' />
+<img src='https://www.gmbinder.com/images/lDb6MoU.png' style='position:absolute; top:920px; right:-127px; width:250px' />
 
 \pagebreakNum
 
