@@ -5557,23 +5557,23 @@ Death knights are exceptional warriors, and in many ways similar to paladins, be
 <div class='classTable wide'>
 
 ##### The Death Knight
-|Level|&nbsp;| Features                                  |Spells<br> Known|&nbsp;|Spell<br> Slots|&nbsp;|Slot<br> Level|&nbsp;|Empowerments<br> Known|
-|:---:|:-|:----------------------------------------------------|:--:|:-|:--:|:-|:--:|:-|:--:|
-| 1st || Lingering Death, Rune Weapon, Shadow Magic            |  2 || 1 || 1st || — |
-| 2nd || Presence, Runic Empowerments                          |  3 || 2 || 1st || 2 |
-| 3rd || Ability Score Improvement                             |  4 || 2 || 2nd || 2 |
-| 4th || Undeath Nature                                        |  5 || 2 || 2nd || 2 |
-| 5th || Presence feature                                      |  6 || 3 || 3rd || 3 |
-| 6th || —                                                     |  7 || 3 || 3rd || 3 |
-| 7th || Ability Score Improvement                             |  8 || 3 || 4th || 3 |
-| 8th || Channel Necromancy (2/rest), Death Strikes            |  9 || 3 || 4th || 4 |
-| 9th || Presence feature                                      | 10 || 3 || 5th || 4 |
-| 10th|| Antimagic Shell                                       | 10 || 3 || 5th || 4 |
-| 11th|| Ability Score Improvement                             | 11 || 3 || 5th || 5 |
-| 12th|| Presence feature                                      | 11 || 4 || 5th || 5 |
-| 13th|| Channel Necromancy (3/rest)                           | 12 || 4 || 5th || 5 |
-| 14th|| Ability Score Improvement                             | 12 || 4 || 5th || 6 |
-| 15th|| Master of Death                                       | 13 || 4 || 5th || 6 |
+|Level|Proficiency<br>Bonus| Features |Spells<br> Known|&nbsp;|Spell<br> Slots|&nbsp;|Slot<br> Level|&nbsp;|Runes<br> Known|
+|:---:|:-:|:-----------------------------------------------|:--:|:-|:--:|:-|:--:|:-|:--:|
+| 1st |+3| Lingering Death, Rune Weapon, Shadow Magic            |  2 || 1 || 1st || — |
+| 2nd |+3| Presence, Runic Empowerments                          |  3 || 2 || 1st || 2 |
+| 3rd |+3| Ability Score Improvement                             |  4 || 2 || 2nd || 2 |
+| 4th |+4| —                                                     |  5 || 2 || 2nd || 2 |
+| 5th |+4| Presence feature                                      |  6 || 3 || 3rd || 3 |
+| 6th |+4| Death Strikes                                         |  7 || 3 || 3rd || 3 |
+| 7th |+4| Ability Score Improvement                             |  8 || 3 || 4th || 3 |
+| 8th |+5| Undeath                                               |  9 || 3 || 4th || 4 |
+| 9th |+5| Presence feature                                      | 10 || 3 || 5th || 4 |
+| 10th|+5| Antimagic Shell                                       | 10 || 3 || 5th || 4 |
+| 11th|+5| Ability Score Improvement                             | 11 || 3 || 5th || 5 |
+| 12th|+6| —                                                     | 11 || 4 || 5th || 5 |
+| 13th|+6| Presence feature                                      | 12 || 4 || 5th || 5 |
+| 14th|+6| Ability Score Improvement                             | 12 || 4 || 5th || 6 |
+| 15th|+6| Master of Death                                       | 13 || 4 || 5th || 6 |
 </div>
 
 <div style='margin-top:46px;'></div>
@@ -5595,7 +5595,7 @@ In order to undergo the transformation required to advance as a death knight, yo
  - **Charisma 13.** Imbued with magic they need to be able to wield the magic within them into spells.
  - **Proficiency in Heavy Armor or Martial Weapons.** Death knights learn much through their training, but some skills has to be known beforehand.
  - **Character Level 5th.** Death knights are made out of the corpses of adventurers, imbued with magic, a simple process but straining for the imbuer, as such you must be a 5th-level character before you can gain levels in the death knight prestige class.
- - **Complete a Special Task.** To become a death knight you must find the dark simulacrum and perform the ritual presented in it. At which point you will be reawaken as a weak death knight. See Appendix B for an indepth of the special task and the dark simulacrum.
+ - **Complete a Special Task.** To become a death knight you must find the dark simulacrum and perform the ritual presented in it. At which point you will be reawaken as a weak death knight. See Appendix C for an indepth of the special task and the dark simulacrum.
 
 ## Class Features
 As a death knight, you gain the following class features.
@@ -5624,53 +5624,28 @@ ___
 The death knight prestige class does not grant any special equipment.
 
 ### Lingering Death
-You've been brought back from the dead in an unusual way that drains more of your strength than normal, giving you the following short and long term benefits:
-
-#### Weak Awakening
-Upon becoming a death knight, you gain a -4 penalty to your level, but keep your hit point maximum and profici-ency bonus you would've had at that level. Every time you finish a long rest, the level penalty is reduced by 1 until it disappears. Each time you 'level up' your hit point maximum does not increase as it normally would when you gain a new level.
-
-Additionally whilst you have a -4 level penalty, you can't cast spells, and have disadvantage on all attacks, ability checks, and saves.
+You have been resurrected by a val'kyr in an unholy ritual, twisting your body and giving you the following benefits.
 
 #### Dead Gaze
-The magic that brought you back will forever linger in your body, covering your eyes with a dead white glow, giving you 120 feet darkvision, and making you able to see in normal and magical darkness.
+You gain darkvision to a range of 120 feet, if you already have darkvision it increases by to that range and you are able to see normally in magical darkness.
 
 #### Lost Radiance
-The necrotic energy within your body dominates your spell-casting, twisting divine spells that you cast, changing the damage type of any spell that deals radiant damage to ne-crotic. Talk with your DM about adjusting the spell visually to better implement this change.
+Any traces of the holy light have left your body, replaced by unholy energies. Your divine spells becomes twisted if cast, changing the damage of any spell that deals radiant to necrotic damage. Talk with your DM about adjusting the spell visually to better implement this change.
 
 ### Rune Weapon
-You are able to engrave empty runes on a chosen weapon, preparing it for your Runic Empowerments feature and granting
+You carve magical runic sockets onto a weapon, binding it to you and preparing it for your runic empowerments. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks. Your rune weapons power fades when not held by you, and its bene-fits can't be used by anyone other than yourself.
 
-***Ritual Engraving.*** You engrave your weapon over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which, you infuse your weapon with empty runic sockets.
-
-Your weapons power fades when not held by you and its benefits can't be used by anyone other than you. You can engrave two weapons of your choice, any attempts to en-grave a third a weapon fails, unless you first use 1 hour to remove the runic sockets of an engraved weapon.
-
-***Engraved Weapon.*** While wielding your rune weapon, you can't be disarmed of that weapon unless you are incapacitated and the weapon counts as magical for the purpose of overcoming resistances and immunities to nonmagical attacks.
-
-If your rune weapon is damaged, you can imbue magic into a fragment of the weapon over the course of 1 hour, which can be done during a short rest. This restores the weapon fully, and destroys any other fragments of the weapon in existence. 
-
-\columnbreak
-
-> ### Variant: Lingering Death
-> If you prefer a death knight more true to the World of Warcraft universe, you can add *Undeath* to the *Lingering Death* class feature.
-> #### Undeath
-> Your body has been raised from the dead and imbued with magic, returning your conscious-ness to it. Because of this you gain the following benefits:
-> - You have two creature types: humanoid and undead. You can be affected by a game effect if it works on either of your creature types.
-> - You don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.
-> - You age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.
-> - You don't fall unconscious upon reaching 0 hit points, but continue to fight on as normal, making death saving throws at the beginning of your turn. 
-> - You have resistance to poison damage, and advantage on saving throws against being poisoned.
-> - You are immune to diseases.
-> - You have vulnerability to radiant damage.
-> ###
-> Use this variant with caution, as it is not perfectly balanced and will make the death knight player stronger than intended.
+You can transform one two-handed weapon or two one-handed weapons into your rune weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon ceases to be your rune weapon if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond.
 
 ### Shadow Magic
-Your dark resurrection has filled you with necromantic energy making you able to cast spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for for the death knight spell list.
+Your dark resurrection has filled you with necrotic energies that make you able to cast spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for for the death knight spell list.
 
 #### Spell Slots
 The Death knight table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your death knight spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
 For example. when you are 5th level, you have three 3rd-level spell slots. To cast the 1st-level spell *cause fear*, you must spend one of those slots, casting it as a 3rd-level spell.
+
+\columnbreak
 
 #### Spell Known of 1st Level and Higher
 At 1st level, you know two 1st-level spells of your choice from the death knight spell list.
@@ -5678,12 +5653,6 @@ At 1st level, you know two 1st-level spells of your choice from the death knight
 The Spells Known column of the Death Knight table shows when you learn more death knight spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. For example, when you reach 5th level, you learn a new death knight spell, which can be 1st, 2nd, or 3rd level.
 
 Additionally, when you gain a level in this class, you can choose one of the death knight spells you know and replace it with another spell from the death knight spell list, which also must be of a level for which you have spell slots.
-
-
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
 
 #### Spellcasting Ability
 Charisma is your spellcasting ability for your death knight spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a cast death knight spell and when making an attack roll with one
@@ -5695,40 +5664,41 @@ Charisma is your spellcasting ability for your death knight spells, so you use y
 **Spell attack modifier** = your proficiency bonus + your Charisma modifier
 </div>
 
-#### Spellcasting Focus
-You can use your rune weapon as a spellcasting focus for your death knight spells.
-
 ### Presence
-At 2nd level, you have gained powers in a presence of after-life of your choice: the Blood, Frost, or Unholy presence, each of which is detailed at the end of the class description. Your choice grants you features at 2nd level and again at 5th, 9th, and 12th level. 
+At 2nd level, you have gained powers in a presence of after-life, choosing between: the presence of Blood, Frost, or Unholy, each of which is detailed at the end of the class description. Your choice grants you features at 2nd level and again at 5th, 9th, and 13th level.
 
 #### Channel Necromancy
-Your presence allows you to channel necrotic energy to fuel magical effects. Each Channel Necromancy option provid-ed by your presence explains how to use it.
+Your presence allows you to channel necrotic energy to fuel dark magics. Each Channel Necromancy option provided by your presence explains how to use it.
 
 When you use your Channel Necromancy, you choose which option to use. You must then finish a short or long rest to use your Channel Necromancy again.
 
-Some Channel Necromancy effects require saving throws. When you use such an effect from this class, the DC equals your death knight spell save DC.
-
-Beginning at 8th level, you can use your Channel Necro-mancy twice between rests, and at 13th level, you can use it three times between rests. When you finish a short or long rest you regain your expended uses.
+Some Channel Necromancy effects require saving throws. When you use such an effect from this class, the DC equals your Death Knight spell save DC.
 
 ### Runic Empowerments
-In your engraving of your rune weapon, you have unearth-ed runic empowerments, fragments of magic that you can imbue into your rune weapons empty sockets.
+You have unearthed fragments of magic and learned how to shape them onto your blade in the form of runes to fill its empty sockets with power.
 
-At 2nd level, you gain two runic empowerments of your choice. When you gain certain death knight levels, you gain additional empowerments of your choice, as shown in the Empowerments Known column of the Death Knight table.
+At 2nd level, you gain two runic empowerments of your choice. Your rune options are detailed at the end of the class description. When you gain certain levels in this class, you imbue additional runes of your choice, as shown in the Runes Known column of the Death Knight table.
 
-Additionally, when you gain a level in this class, you can choose one of the empowerments you know and replace it with another empowerment that you could have learnt at that level.
+Additionally, when you gain a level in this class, you can choose one of the runes you know and replace it with another rune that you could learn at that level.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/Ygr4Wc3.jpg' style='position:absolute; top:850px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1000px' />
+
+\pagebreakNum
+
+<div style='margin-top:200px;'></div>
 
 ### Ability Score Improvement
 When you reach 3rd level, and again at 7th, 11th, and 15th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-\columnbreak
-
-### Undeath Nature
-Beginning at 4th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests. You age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.
-
-In addition, you don't fall unconscious upon reaching 0 hit points, but continue to fight on as normal, making death saving throws at the beginning of your turn.
-
 ### Death Strikes
-By 8th level, you are so suffused with negative energy that all your melee weapon strikes carry necrotic power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 necrotic damage.
+By 6th level, you are so suffused with negative energy that all your melee weapon strikes carry necrotic power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 necrotic damage.
+
+### Undeath
+Starting at 8th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.
+
+In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.
 
 ### Antimagic Shell
 Beginning at 10th level, you can use your bonus action to end one spell on yourself.
@@ -5743,66 +5713,63 @@ If your rune weapon is broken or on another place of existence, you are not resu
 ## Presence
 No matter why one decided to become a death knight, they all feel the drawing to greater powers, most of which are shunned or directly forbidden in most of Azeroth. A death knight feels the presence of these powers and chooses to delve deeper into one of them, expanding his view whilst learning arts which most would see as dark magic.
 
+\columnbreak
+
+<div style='margin-top:200px;'></div>
+
 ### Blood Presence
 Death knights of the blood presence enter delve into the shunned arts of blood magic, bolstering their own defenses by the use of blood from themselves and draining their enemies lifeforce for their own gain.
 
 #### Channel Necromancy
 When you take this presence at 2nd level, you gain the following two Channel Necromancy options.
 
-***Dancing Rune Weapon.*** As a bonus action, you can animate your rune weapon, imbuing it with negative energy. For 1 minute, the weapon gains the statistics of a flying sword, its weapon dice changing according to your rune weapon, and its hit points equal to half of your maximum health. The weapon attacks on your initiative, and obeys your commands as best it can.
+***Dancing Rune Weapon.*** As a bonus action, you present your rune weapon and manifest an animated copy of your rune weapon. The weapon has the statistics of a flying sword, but deals damage equal to your rune weapon, and has hit points equal to twice your death knight level. It acts on your initiative, its actions determined by you.
 
-You can end this effect on your turn as a bonus action, making the weapon fly back to you and fall to the ground in your square. 
+The sword lasts for 1 minute, and you can end the effect early as a bonus action, making the the weapon fly back to you and fall to the ground in your square, if you have an empty hand you can instead make the weapon return to it rather than falling to the ground.
+
+***Death and Decay.*** As an action, you can pierce your rune weapon into the ground and use your channel necromancy to desecrate the earth. Each creature of your choice within 20 feet of you must succeed on a Wisdom saving throw, or be frightened of you for 1 minute.
+
+A frightened creature must spend its turn trying to move as far away from you as it can, and can't willingly move to a space within 20 feet of you. For its action, it can use only the Dash action or try to escape from effects that prevent it from moving. IF the creature ends its turn out of sight of you and the desecrated area, it may make another Wisdom saving throw, ending the frightened on a successful save.
+
+#### Rune Tap
+Upon reaching 5th level, you can tap your rune weapon's energy to bolster your own defense. As an action you tap your rune weapons power, briefly removing all benefits from your empowerments from it. For 1 minute, you gain resistance towards bludgeoning, piercing, and slashing damage. Once the duration ends, you regain the abilities granted by your runic empowerments.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Purgatory
+Beginning at 9th level, you don't fall unconscious when you are reduced to 0 hit points and not outright killed, but con-tinue to fight on as normal, making death saving throws at the beginning of your turn.
+
+#### Blood Shield
+Starting at 13th level, whenever you deal necrotic damage to a creature through death strikes, you gain temporary hit points equal to the necrotic damage dealt.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/0Juz7SO.png' style='position:absolute; top:855px; right:380px; width:400px' />
+<img src='https://www.gmbinder.com/images/Ygr4Wc3.jpg' style='position:absolute; top:-300px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-160px; right:0px; width:1100px' />
 
 \pagebreakNum
 
-&nbsp;&nbsp;&nbsp; If you have an empty hand you can make the weapon return to it instead of falling to the ground.
-
-***Death and Decay.*** As an action, you pierce your rune weapon into the ground, desecrating the area around you. Each enemy creature within a 20-foot radius of you must make a Wisdom saving throw. If the creature fails its saving throw, it is frightened for 1 minute.
-
-A frightened creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you or the desecrated area, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.
-
-#### Death's Caress
-Starting at 5th, you can sacrifice your own blood to restore epended spell slots. As a bonus action, you deal 3d6 necro-tic damage to yourself. In return you regain a 3rd-level spell slot. For each spell slot above 3rd, Death's Caress deals an extra 1d6 necrotic damage to you, to a maximum of 5d6 for a 5th-level spell slot. This damage ignores any temporary hit points you may have.
-
-#### Purgatory
-Beginning at 9th level, when you are reduced to 0 hit point, you can use your reaction to have 1 hit point instead and become immune to damage until the beginning of your next turn. You can use this feature once per long rest.
-
-#### Blooddrinker
-At 12th level, each time you deal necrotic damage to a creature with death strikes, you gain temporary hit points equal to the necrotic damage done.
-
 ### Frost Presence
-Death knights of the frost presence walk in the footsteps of those that came before them, using cold and ice in a way only matched by mages to do their bidding. They are excep-tional combatants able to deliver devastating blows.
+Death knights of the frost presence walk in the footsteps of those that came before them, using cold and ice in a way only matched by mages to do their bidding. They are exceptional combatants able to deliver devastating blows.
 
 #### Channel Necromancy
 When you take this presence at 2nd level, you gain the following two Channel Necromancy options.
 
-***Empower Rune Weapon.*** As an action, you can imbue the rune weapon you are holding with necrotic energy, using your Channel Necromancy. For 1 minute, you add
-your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits dim cold light in a 20-foot radius.
+***Obliterate.*** When you hit a creature with your rune weapon, you can use Channel Necromancy to deal extra necrotic damage equal to 5 + twice your death knight level.
 
-You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
-
-***Howling Blast.*** As an action, you present your rune weapon, causing a frigid wind to howl past you. Each creature within a 60 feet long and 15 feet wide line from you in a direction you choose must make a Constitution saving throw, on a fail, the target gains one level of exhaus-tion and has disadvantage on attack rolls for 1 minute. 
-
-#### Extra Attack
-Starting at 5th level, you can attack twice instead of once, whenever you take the Attack action on your turn. 
-
-If you already have an extra attack from another class, you can make an additional attack, whenever you take the Attack action.
-
-\columnbreak
+***Howling Blast.*** As an action, you present your rune weapon, and cause a frigid wind to howl past you. Each creature within a 60 feet long and 15 feet wide line from you in a direction you choose must make a Constitution saving throw, on a fail, the target gains one level of exhaus-tion and has disadvantage on attack rolls for 1 minute. 
 
 #### Remorseless Winter
-Beginning at 9th level, you are always under the effects of an *armor of agathys* spell, gaining temporary hit points equal to your death knight level whenever you finish a short or long rest.
+Starting at 5th level, you can use your bonus action to cast *armor of agathys* at 1st-level on yourself, the spell is cast on you again at the beginning of your turn as a free action until you use your bonus action to end its effect.
 
-#### Frozen Heart
-At 12th level, as an action you can freeze your blood, mak-ing your skin pale as snow for 10 minutes. Making you immune to cold damage, and giving you resistance against fire damage for the duration.
+Additionally, you gain temporary hit points equal to your death knight level when you finish a short or long rest.
 
-While active, your weapon attacks carry the cold with them, any creature hit by a melee weapon attack must make a Constitution saving throw or take 2d8 cold damage on a failed save, or half on a successful one. Additionally a creature who failed the saving throw has their movement speed halved until the beginning of your next turn.
+#### Icebound
+Beginning at 9th level, you gain resistance to cold damage. In addition, you can use your reaction and expend your *armor of agathys* spell to give yourself resistance to all damage until the end of your next turn. You regain your *armor of agathys* spell once you finish a short or long rest.
 
-After freezing your body in this way, you can't do so again until you finish a long rest.
+#### Frozen Tomb
+Starting at 13th level, you are able to momentarily encase a creature in solid ice. As an action, choose a creature within 60 feet of you. The target must make a Dexterity saving throw. On a failed save, the target takes 8d10 cold damage and becomes petrified until the beginning of your next turn as ice envelopes it, or half as much damage and it is not petrified on a successful save.
+
+You must then finish a long rest to use this feature again.
 
 ### Unholy Presence
 Death knights of the unholy presence are shunned by most for their deeds, especially by the Holy Light, they wield ne-crotic energy in a way matched only by warlocks, removing any shred of Holy Light around them as they drain their surroundings of joy and hope.
@@ -5812,29 +5779,22 @@ When you take this presence at 2nd level, you gain the following two Channel Nec
 
 ***Control Undead.*** As an action, you target one undead creature you can see within 30 feet of you. The target must make a Wisdom saving throw. On a failed save, the target must obey your commands for the next 24 hours, or until you use this Channel Necromancy option again. An undead whose challenge rating is equal to or greater than your death knight level is immune to this effect.
 
-***Dreadblade.*** When you hit a creature with a melee attack, you can use Channel Necromancy to deal extra ne-crotic damage to the target. The damage equals 5 + twice your death knight level.
+***Turn the Holy.*** As an action, you present your rune weapon and speak vile words censuring celestials and feys. Each celestial and fey that can see or hear you within 30 feet of you must succeed a Wisdom saving throw, or be turned for 1 minute or until it takes damage.
 
-### Raise Ghoul
-Starting at 5th level, you are able to forcefully return a dead creature you touch to life, raising the creature as an em-powered ghoul under your control.
+A turned creature spend its turn trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can only take the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
-This spell does not restore missing body parts. If the creature is lacking a head, or other vital body parts to effec-tively aid you, the spell automatically fails. The ghoul is under your control until it dies, or you use an action to retract the necrotic energies placed within it. You can only have one raised ally at a time, having to rid yourself of your current ghoul before you can raise another.
+#### Raise Ghoul
+Starting at 5th level, you can cast the *animate dead* spell at will. When you cast *animate dead*, you raise a ghoul rather than a zombie or skeleton. If you cast *animate dead* while you have an undead under your control, you destroy your current ghoul as you cast the spell.
 
-Your ghoul obeys your commands as best it can, acting on your initiative, its actions, decisions and so on determined by you. If you are incapacitated or absent, the ghoul acts on its own.
-
-Your ghoul has statistics determined in part by your level. Using your proficiency bonus rather than its own. In addi-tion to the areas where it normally uses its proficiency bonus, your ally also adds its proficiency bonus to its AC and to its damage rolls.
-
-When raised, your ghoul gains an additional hit die for each death knight level you have, and its maximum hit points increase accordingly.
-
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
+Whenever you create a ghoul using this spell, it has additional benefits:
+ - The ghoul's hit point maximum is increased by an amount equal to your death knight level.
+ - The ghoul adds your proficiency bonus to its weapon damage rolls.
 
 #### Unholy Protection
 Beginning at 9th level, you regain hit points equal to 1d6 + half your death knight level if you end your turn in combat with fewer than half of your hit points remaining and you aren't incapacitated.
 
-#### Shadow Infusion
-At 12th level, as an action you can surround yourself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around you to dim light, and dim light to darkness. You and any creature of your choice in the aura are draped in necrotic shadows. Crea-tures that rely on sight have disadvantage on attack rolls against any creature draped in this shadow.
+#### Dark Transformation
+At 13th level, as an action you can surround yourself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around you to dim light, and dim light to darkness. You and any creature of your choice in the aura are draped in necrotic shadows. Crea-tures that rely on sight have disadvantage on attack rolls against any creature draped in this shadow.
 
 While active, you can use a bonus action to cause the shadows in the aura to attack a creature. Making a melee spell attack against the target. If the attack hits, the target takes 3d10 + your Charisma modifier necrotic damage.
 
@@ -5861,22 +5821,26 @@ You become immune to diseases and the poisoned condition.
 #### Rune of Five Fates
 You can cast *bane* once using a death knight spell slot. You can't do so again until you finish a long rest.
 
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+
+\pagebreakNum
+
+<br>
+
+\columnbreak
+
 #### Rune of Influence
 You gain proficiency in the Intimidation and <br>Persuasion skills.
 
 #### Rune of Necromancy
 You learn two cantrips of your choice from the warlock spell list, charisma is your spellcasting ability for these spells.
 
-#### Rune of Many Faces
-You can cast *disguise self* at will, without expending a <br>spell slot
-
 #### Rune of Misfortune
 *Prerequisite: 5th level*
 <div style='margin-top:-6px'></div>
 
 You can cast *bestow curse* once using a death knight spell slot. You can't do so again until you finish a long rest.
-
-\columnbreak
 
 #### Rune of Razorice
 Your rune weapon gains a +1 bonus to attacks and damage rolls made with it.
@@ -5894,14 +5858,6 @@ You can cast *animate dead* once using a death knight spell slot. You can't do s
 
 #### Rune of the Fallen Crusader
 Your weapon attacks score a critical hit on a roll of 19 or 20
-
-#### Rune of the Glacial Advance
-*Prerequisite: 5th level*
-<div style='margin-top:-6px'></div>
-
-As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per death knight level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.
-
-Once you use this empowerment, you can't use it again until you finish a short or long rest.
 
 #### Rune of the Grave
 *Prerequisite: 9th level*
@@ -5928,8 +5884,9 @@ You can attack with your rune weapon twice, instead of once, when you take the A
 You can cast *detect magic* at will, without expending a <br>spell slot.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/LGnQ90A.png' style='position:absolute; top:810px; right:-370px; width:1000px;transform:rotate(-10deg)' />
+<img src='https://www.gmbinder.com/images/KEdDu4C.jpg' style='position:absolute; top:-20px; right:200px; width:800px' />
+<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-100px; width:900px' />
+<img src='https://www.gmbinder.com/images/LGnQ90A.png' style='position:absolute; top:820px; right:-410px; width:1000px;transform:rotate(-10deg)' />
 
 \pagebreakNum
 
