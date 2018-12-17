@@ -5312,7 +5312,8 @@ Some of your rage features require your target to make a saving throw to resist 
 You can spend 1 rage point and use your action to end one effect that is causing you to be charmed or frightened.
 
 #### Charge
-You can spend 1 rage point to move up to 60 feet in a straight line towards a target expending your movement for the round. If you move more than 20 feet on one turn, you gain advantage on your first weapon attack roll.
+You can spend 1 rage point and take the Dash action, if you move at least 20 feet straight towards a target you can make one weapon attack against it with advantage.
+
 
 #### Deep Wounds
 When you hit another creature with a weapon that deals piercing or slashing damage, you can spend 3 rage point to attempt to deepen your hit. The target must succeed on a Constitution saving throw, or have all healing received reduced by your Warrior level for 1 minute. Target may repeat the saving throw at the end of each of their turn.
@@ -5417,7 +5418,7 @@ Additionally, *versatile* one-handed weapons now deal their versatile damage die
 Upon reaching 10th level, when you roll initiative and have no uses of rampage remaining, you regain one use.
 
 #### Bloodthirst
-Starting at 11th level, you can spend 2 rage points to make all attack this turn deal extra weapon damage equal to your proficiency bonus.
+Starting at 11th level, you can spend 1 rage points before taking the Attack action to make your first successful attack this turn deal twice your ability modifier to its damage.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/z6WJzwY.jpg' style='position:absolute; top:930px; right:0px; width:800px'>
