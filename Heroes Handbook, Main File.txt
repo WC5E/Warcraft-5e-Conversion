@@ -16,6 +16,9 @@
 **Lead Designer:** Jih
 <br> **Writing & Editing:** Jih, Tangerine, Apollo
 <br> **Reddit Names:** Jihia, TangerineThunder, ApolloLumina
+<br><br> **Additional Contributors:** Prometheus, Reiga, Wyken,
+
+ClockWorkTank, 123jrf
 <br><br> **Cover Illusrator:** Robert Maldonado
 <br> **Interior Illustrators:** Anastasiya Gafron, Unidcolor, Jerry 
 
@@ -50,11 +53,6 @@ Dmitry Vernygor
 <br> **Playtesting provided by**
 
 [Roll Need](https://www.twitch.tv/solidjakegg), they run a weekly stream on Twitch using this <br>&nbsp;&nbsp;&nbsp; handbook for their races and classes. Check them out!
-
-<br> **Big Thanks to [r/UnearthedArcana](https://www.reddit.com/r/UnearthedArcana/)**
-<br>&nbsp;&nbsp;&nbsp; Alot of people from UnearthedArcana helped out by <br>&nbsp;&nbsp;&nbsp; pointing out balancing and grammatical errors <br>&nbsp;&nbsp;&nbsp; throughout the whole document. The users below went <br>&nbsp;&nbsp;&nbsp; above and beyond, delving deep into races and classes:
-
-*ClockWorkTank, Wyken, 123jrf*
 
 <br> **Special thanks to** 
 <br>&nbsp;&nbsp;&nbsp; This entire book was made using GmBinder, it is an <br>&nbsp;&nbsp;&nbsp; amazing tool for creating authentic looking homebrew <br>&nbsp;&nbsp;&nbsp; material for 5th Edition Dungeons and Dragons, and <br>&nbsp;&nbsp;&nbsp; without it this project would've never been considered.
@@ -97,7 +95,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 </div>
 
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:715px; right:498px; width:150px' />
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:655px; right:498px; width:150px' />
 
 \pagebreakNum
 
