@@ -7184,7 +7184,7 @@ You have seen the balance and harmony they bring to life, gaining the following 
 
 You gain leather tough hide and improved recovery through hard training. You gain the following benefits:
  - Increase your Strength, Dexterity or Constitution score by 1, to a maximum of 20.
- - While you aren't wearing armor, you add your Constitu-tion modifier to your AC. You can use a shield and still gain this benefit.
+ - While you are not wearing armor, you gain Unarmored Defense, making your Armor Class equal to 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
  - Your hit point maximum increases by an amount equal to your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 1 hit point.
 
 <div class='footnote'>PART 1 | CUSTOMIZATION OPTIONS</div>
