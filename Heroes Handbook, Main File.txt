@@ -2544,7 +2544,7 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 \columnbreak
 
 ### Hunter's Mark
-Beginning at 2nd level, you are able to mark a target as your quarry. As a bonu action, choose a creature within 120 feet of you that you can see. The target is marked for the 1 hour, until you use this feature again, or until it dies. The mark also ends if you fall unconscious. 
+Beginning at 2nd level, you are able to mark a target as your quarry. As a bonus action, choose a creature within 120 feet of you that you can see. The target is marked for the 1 hour, until you use this feature again, or until it dies. The mark also ends if you fall unconscious. 
 
 Once per turn, you can deal an extra 1d4 damage to one creature you hit with a weapon attack. The amount of extra damage increases as you gain levels in this class, as shown in the Hunter's Mark column of the Hunter table.
 
@@ -3346,7 +3346,7 @@ At 17th level, you are capable of shrugging of immense pain like it was nothing.
 Mistweavers are unique among those who heal, they channel mysterious energy. Those who weave the mists wield the power of life’s essence, using a mixture of preven-tative and restorative spells to mend their allies’ wounds.
 
 #### Soothing Mist
-At 3rd level, you have a pool of heaaling chi that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your monk level x 10.
+At 3rd level, you have a pool of healing chi that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your monk level x 10.
 
 As an action, you can manifest a beam of chi towards a creature within 30 feet of you and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
 
