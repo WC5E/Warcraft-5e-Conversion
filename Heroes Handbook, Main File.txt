@@ -2546,7 +2546,7 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 ### Hunter's Mark
 Beginning at 2nd level, you are able to mark a target as your quarry. As a bonus action, choose a creature within 120 feet of you that you can see. The target is marked for the 1 hour, until you use this feature again, or until it dies. The mark also ends if you fall unconscious. 
 
-Once per turn, you can deal an extra 1d4 damage to that creature with you hit with a weapon attack. The amount of extra damage increases as you gain levels in this class, as shown in the Hunter's Mark column of the Hunter table.
+Once per turn, you can deal an extra 1d4 damage to that creature when you hit it with a weapon attack. The amount of extra damage increases as you gain levels in this class, as shown in the Hunter's Mark column of the Hunter table.
 
 In addition, you have advantage on Wisdom (Perception), and Wisdom (Survival) checks you make to find your mark.
 
