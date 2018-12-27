@@ -4413,7 +4413,7 @@ Since the primitive tribal cultures of Azeroth and Draenor, the elements of the 
 | 3rd | +2 | Shamanic Attunement, <br> Elemental Shield (1/rest) | 3 || — || — || — || — || 2 |
 | 4th | +2 | Ability Score Improvement                           | 3 || — || — || — || — || 2 |
 | 5th | +3 | Shamanic Attunement feature                         | 4 || 2 || — || — || — || 3 |
-| 6th | +3 | Spirit Animal, Far Sight                            | 4 || 2 || — || — || — || 3 |
+| 6th | +3 | Ghostform, Far Sight                                | 4 || 2 || — || — || — || 3 |
 | 7th | +3 | Shamanic Attunement feature                         | 4 || 3 || — || — || — || 3 |
 | 8th | +3 | Ability Score Improvement                           | 4 || 3 || — || — || — || 3 |
 | 9th | +4 | —                                                   | 4 || 3 || 2 || — || — || 4 |
@@ -4552,19 +4552,19 @@ As an action, you manifest orbs of water equal to your pro-ficiency bonus, the o
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Spirit Animal
-Upon reaching 6th level, you can use your action to trans-form into a ghostly visage of your spirit animal. You can use this feature twice, You regain expended uses when you finish a short or long rest.
+### Ghost Form
+Upon reaching 6th level, you can use your action to trans-form into a ghostly visage of an animal. You can use this feature twice, You regain expended uses when you finish a short or long rest.
 
-You can stay in your spirit shape for a number of hours equal to half your shaman level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action. You are automatically reverted to your normal form if you fall unconscious, drop to 0 hit points, or die.
+You can stay in your ghost form for a number of hours equal to half your shaman level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action. You are automatically reverted to your normal form if you fall unconscious, drop to 0 hit points, or die.
 
 While you are transformed, the following rules apply:
  - Your base movement speed changes to 50 feet.
  - You are considered unarmored and add your Wisdom modifier to your Armor Class.
  - If you make an attack or cast a spell you immediately revert to your normal form. Transforming doesn't break your concentration on a spell you've already cast, how-ever, or prevent you from taking actions that are part of a spell, such as *call lightning*, that you've already cast.
- - Your ability to speak or take any action that requires hands is limited to the capabilities of your spirit animal.
- - Your equipment merges into your spirit animal and has no effect until you leave the shape again.
+ - Your ability to speak or take any action that requires hands is limited to the capabilities of your ghost form.
+ - Your equipment merges into your ghost form and has no effect until you leave the shape again.
 
-*A deeper explanation of a shaman's spirit animal can be found in Appendix A at the end of this book.*
+*A deeper explanation of a shaman's ghost form can be found in Appendix A at the end of this book.*
 
 ### Far Sight
 Also at 6th level, you are able to use the element of air to hone your vision. Using your action, you manifest your far sight, which lasts for 10 minutes, and allows you to see up to 1 mile away with no difficulty and discern even fine details as though looking at something no more than 100 feet away from you.
@@ -4658,7 +4658,7 @@ When you choose this attunement at 3rd level, you can use your action to manifes
 Beginning at 9th level, when you use this shield, you gain the benefit of a *haste* spell for the first minute of the shields duration without requiring concentration.
 
 #### Imbue Weapon
-Starting at 3rd level, you are able to imbue your weapon with the powers of the elements. You can use your bonus action and expend a spell slot to imbue a weapon you are holding for 1 minute, the weapon deals an additional 1d4 damage of either cold, fire, lightning, or thunder for a 1st-level spell slot, plus 1d4 for each spell level higher than 1st, to a maximum of 5d4. The imbuement is lost if the weapon is more than 5 feet away from you.
+Starting at 3rd level, you are able to imbue your weapon with the powers of the elements. You can use your bonus action and expend a spell slot to imbue a weapon you are holding for 1 minute, the weapon deals an additional 1d4 damage of either cold, fire, lightning, or thunder for a 1st-level spell slot, plus 1d4 for each spell level higher than 1st, to a maximum of 5d4. The imbuement is lost if the weapon is moved more than 5 feet away from you.
 
 You can imbue two different weapons you are holding with one bonus action, expending a spell slot and choosing a damage type for each weapon individually.
 
@@ -4679,12 +4679,14 @@ Beginning 11th level, you are able to momentarily shift your body into the astra
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
-#### Spirit Wolf
-Starting at 15th level, you are able to call upon a wolf from the shadowland to aid you. Using your action, you summon the spirit wolf (found in Appendix A) in empty square you can see within 30 feet of you. 
+#### Spirit Beast
+Starting at 15th level, you are able to call forth a spirit from the shadowland to aid you. As an action, you summon the spirit in an empty square you can see within 30 feet of you. 
 
-The spirit stays for 1 minute, or until killed. It acts on your initiative, obeying your commands as best it can. If no command are given it use its action to attack the nearest enemy, capable of telling friend from foe.
+The beast stays for 1 minute, or until killed. It acts on your initiative, obeying your commands as best it can. If no commands are given it uses its action to attack the nearest enemy, capable of telling friends from foes.
 
 You must then finish a long rest before you can summon the wolf again.
+
+The spirit beast uses the guidelines found in Appendix A for your Ghost Form feature, and its statblock can be found in Appendix A as well. Work with your DM to change the statistics to fit your chosen animal.
 
 #### Ascendance
 At 20th level, you can draw upon the elements, taking on the form of an ascendant. As action, you undergo a trans-formation. For 1 minute, you gain the following benefits:
@@ -4747,7 +4749,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/gbQme1i.png' style='position:absolute; top:830px; right:250px; width:700px;transform:rotate(190deg)' />
+<img src='https://www.gmbinder.com/images/gbQme1i.png' style='position:absolute; top:675px; right:435px; width:700px;transform:rotate(90deg)' />
 
 \pagebreakNum
 
@@ -8480,15 +8482,15 @@ ___
 
 \pagebreakNum
 
-# Spirit Animal
-Shamans gain the favor of a spirit animal, an animal shape they are able to shapeshift into at will through the aid of the spirits of the wild. Whilst druids are able to take the complete shape of certain animals, shifting into various beasts, the strain upon a shamans shapeshift lies much deeper within. As a result the animal shape they take appears as an incorporeal transparent shape in the material world, often with a ghostly visage.
+# Ghost Form
+Shamans bond with spirit animals and are granted their favor, making them able to assume the form of their spirit animal at will through the aid of the spirits of the wild. Whilst druids are able to take the complete shape of certain animals, shifting into various beasts, the strain upon a shamans ghost form lies much deeper within. As a result the shape they take appears as an incorporeal transparent shape in the material world.
 
 Most shamans choose one spirit animal, and sticks with that spirit animal throughout their life. Orcs and trolls commonly go for a dire wolf, a shape well known to both, known for its ferocity and speed. Whilst a dwarf might choose a bear, a steadfast companion by many of the dwarven kin. Think about your spirit animal, why and if it fits your character, a shamans spirit animal is in many ways an extension of who they are, reflecting their personality. The only limitation given upon a spirit animal is that it cannot have a swim, or fly speed. 
 
-A shamans shape is limited, as so it has a specific set of statistics no matter which animal shape is chosen as showed below. Talk with your DM about altering the statistics to better suit your chosen animal.
+Shamans ghost form is limited, as so it has a specific set of statistics no matter which animal you choose, as shown in the Ghost Form class feature.
 
 ___
-> ## Spirit Wolf
+> ## Spirit Beast
 >*Large, unaligned*
 > ___
 > - **Armor Class** 14
@@ -8499,19 +8501,21 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|14 (+2)|7 (-2)|12 (+1)|8 (-1)|
 >___
-> - **Skills** Perception +5, Stealth +3
-> - **Damage Immunities** psychic
+> - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** poison, psychic
+> - **Condition Immunities** charmed, petrified, poisoned
 > - **Senses** blindsight 30 ft., passive Perception 15
-> - **Languages** Understands the shaman
+> - **Languages** understands the languages of the summoner but can't speak
+> - **Challenge** 4 (1,100 XP)
 > ___
-> ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
->
-> ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if another spirit wolf is within 5 feet of the creature and the wolf isn't incapacitated.
+> ***Pack Tactics.*** The best have advantage on an attack roll against a creature if at least one of the beasts allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 > ### Actions
-> ***Multiattack.*** The Spirit wolf makes two bite attacks.
+> ***Multiattack.*** The spirit beast can use its incorporeal movement and make one bite attack, or make two bite attacks.
 >
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, Reach 5 ft., one target. *Hit:* (2d6 + 4) piercing damage. If the target is a creature it must succceed on a DC 14 Strength saving throw or be knocked prone.
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, Reach 5 ft., one target. *Hit:* (2d6 + 4) piercing damage.
+>
+> ***Incorporeal Movement.*** The beast can move through other creatures and objects as if they were difficult terrain. It vanishes if it ends its turn inside an object.
 
 <div class='footnote'>APPENDIX A | SHAPESHIFTS</div>
 <img src='https://www.gmbinder.com/images/Z7nJ0wt.jpg' style='position:absolute; top:0px; right:-350px; width:1000px' />
