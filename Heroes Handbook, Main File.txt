@@ -3250,7 +3250,7 @@ You can spend 1 chi point to take the Dodge action as a bonus action on your tur
 You can spend 1 chi point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 #### Surging Mist
-You can spend 1 chi point to heal a nearby ally as a bonus action, choose an ally within 30 feet of you, and heal them for 1 martial arts dice + your Wisdom modifier.
+As a bonus action, you can spend 1 chi point and choose a creature within 30 feet of you, the target regains hit points equal to 1 martial arts die + your Wisdom modifier.
 
 \columnbreak
 
@@ -3292,9 +3292,9 @@ Beginning at 10th level, your mastery of the chi flowing through you makes you i
 \pagebreakNum
 
 ### Transcendence
-At 13th level, you can use your action and spend 1 chi point to summon an incorporeal jade visage of yourself in an empty square, the visage doesn't move and appears in deep meditation. It stays for 1 minute before vanishing.
+At 13th level, you can use your action and spend 1 chi point to summon an incorporeal jade visage of yourself in your square, the visage doesn't move and appears to be in deep meditation. It stays for 1 minute before vanishing.
 
-While you are within 60 feet of the visage, you can use your bonus action to change position with it, teleporting to the square you summoned it in, the visage then vanishes.
+While you are within 60 feet of the visage, you can use your bonus action to change position with it, teleporting you to the square you summoned it in. Once done, the visage vanishes.
 
 Upon reaching 18th level, your visage stays for 1 hour before vanishing, and its range increases to 1 mile.
 
@@ -3337,7 +3337,7 @@ Starting at 6th level, you can move in sudden, swaying ways. You gain the follow
 \pagebreakNum
 
 #### Black Ox Brew
-Starting at 11th level, when you make an ability check, an attack roll, or a saving throw and have disadvantage on the roll, you can spend 2 chi points to cancel the disadvan-tage for that roll.
+Starting at 11th level, when you make an ability check, an attack roll, or a saving throw and have disadvantage on the roll, you can spend 2 chi points to cancel the disadvantage for that roll.
 
 #### High Tolerance
 At 17th level, you are capable of shrugging of immense pain like it was nothing. Whenever you use your Stagger feature, you gain immunity to all damage except psychic.
