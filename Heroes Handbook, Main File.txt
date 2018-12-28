@@ -4408,28 +4408,28 @@ Since the primitive tribal cultures of Azeroth and Draenor, the elements of the 
 <div class='classTable wide'>
 
 ##### The Shaman
-|Level|Proficiency<br>Bonus|Features|Totems<br>Known|&nbsp;|Totem<br>Level|&nbsp;|Cantrips<br>Known|&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|
-|:---:|:--:|:----------------------------------------------|:--:|-|:--:|-|:--:|-|:--:|-|:--:|-|:--:|-|:--:|-|:--:|-|:--:|
-| 1st | +2 | Spellcasting, Totemist                                            | 2 || 1st || 2 || 1 || — || — || — || — |
-| 2nd | +2 | Fighting Style                                                    | 2 || 1st || 2 || 2 || — || — || — || — |
-| 3rd | +2 | Shamanistic Binding, Elemental Shield (1/rest)                    | 3 || 1st || 2 || 2 || — || — || — || — |
-| 4th | +2 | Ability Score Improvement                                         | 3 || 1st || 3 || 3 || 1 || — || — || — |
-| 5th | +3 | Spirit Animal                                                     | 3 || 2nd || 3 || 3 || 2 || — || — || — |
-| 6th | +3 | Elemental Shield (2/rest)                                         | 4 || 2nd || 3 || 3 || 2 || — || — || — |
-| 7th | +3 | Shamanistic Binding feature                                       | 4 || 2nd || 3 || 3 || 2 || 1 || — || — |
-| 8th | +3 | Ability Score Improvement                                         | 4 || 2nd || 3 || 3 || 2 || 1 || — || — |
-| 9th | +4 | Astral Shift                                                      | 5 || 3rd || 3 || 3 || 3 || 2 || — || — |
-| 10th| +4 | Totemist Projection                                               | 5 || 3rd || 4 || 3 || 3 || 2 || — || — |
-| 11th| +4 | Shamanistic Binding feature                                       | 5 || 3rd || 4 || 3 || 3 || 2 || 1 || — |
-| 12th| +4 | Ability Score Improvement                                         | 6 || 3rd || 4 || 3 || 3 || 3 || 1 || — |
-| 13th| +5 | Elemental Shield (3/rest)                                         | 6 || 4th || 4 || 3 || 3 || 3 || 2 || — |
-| 14th| +5 | Bloodlust                                                         | 6 || 4th || 4 || 3 || 3 || 3 || 2 || — |
-| 15th| +5 | Shamanistic Binding feature                                       | 7 || 4th || 4 || 3 || 3 || 3 || 2 || 1 |
-| 16th| +5 | Ability Score Improvement                                         | 7 || 4th || 4 || 3 || 3 || 3 || 2 || 1 |
-| 17th| +6 | —                                                                 | 7 || 5th || 4 || 3 || 3 || 3 || 2 || 2 |
-| 18th| +6 | Elemental Shield (4/rest)                                         | 8 || 5th || 4 || 3 || 3 || 3 || 2 || 2 |
-| 19th| +6 | Ability Score Improvement                                         | 8 || 5th || 4 || 3 || 3 || 3 || 2 || 2 |
-| 20th| +6 | Ascendance                                                        | 8 || 5th || 4 || 3 || 3 || 3 || 2 || 2 |
+|Level|Proficiency<br>Bonus|Features|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;|Totems<br>Known|
+|:---:|:--:|:----------------------------------|:--:|-|:--:|-|:--:|-|:--:|-|:--:|-|:--:|-|:--:|
+| 1st | +2 | Primordial, Totemist                                | — || — || — || — || — || 2 |
+| 2nd | +2 | Fighting Style, Spellcasting                        | 2 || — || — || — || — || 2 |
+| 3rd | +2 | Shamanic Attunement, <br> Elemental Shield (1/rest) | 3 || — || — || — || — || 2 |
+| 4th | +2 | Ability Score Improvement                           | 3 || — || — || — || — || 2 |
+| 5th | +3 | Shamanic Attunement feature                         | 4 || 2 || — || — || — || 3 |
+| 6th | +3 | Ghostform, Far Sight                                | 4 || 2 || — || — || — || 3 |
+| 7th | +3 | Shamanic Attunement feature                         | 4 || 3 || — || — || — || 3 |
+| 8th | +3 | Ability Score Improvement                           | 4 || 3 || — || — || — || 3 |
+| 9th | +4 | —                                                   | 4 || 3 || 2 || — || — || 4 |
+| 10th| +4 | Elemental Shield (2/rest)                           | 4 || 3 || 2 || — || — || 4 |
+| 11th| +4 | Shamanic Attunement feature                         | 4 || 3 || 3 || — || — || 4 |
+| 12th| +4 | Ability Score Improvement                           | 4 || 3 || 3 || — || — || 4 |
+| 13th| +5 | —                                                   | 4 || 3 || 3 || 1 || — || 5 |
+| 14th| +5 | Totem Mastery                                       | 4 || 3 || 3 || 1 || — || 5 |
+| 15th| +5 | Shamanic Attunement feature                         | 4 || 3 || 3 || 2 || — || 5 |
+| 16th| +5 | Ability Score Improvement                           | 4 || 3 || 3 || 2 || — || 5 |
+| 17th| +6 | —                                                   | 4 || 3 || 3 || 3 || 1 || 6 |
+| 18th| +6 | Elemental Shield (3/rest)                           | 4 || 3 || 3 || 3 || 1 || 6 |
+| 19th| +6 | Ability Score Improvement                           | 4 || 3 || 3 || 3 || 2 || 6 |
+| 20th| +6 | Shamanic Attunement feature                         | 4 || 3 || 3 || 3 || 2 || 6 |
 </div>
 
 ### Creating a Shaman
@@ -4472,56 +4472,20 @@ You start with the following equipment, in addition to the equipment granted by 
 
 \pagebreakNum
 
-### Spellcasting
-As a link between the elements. you can cast shaman spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the shaman spell list.
-
-#### Cantrips
-At 1st level, you know three cantrips of your choice from the shaman spell list. You learn additional shaman cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Shaman table.
-
-#### Preparing and Casting Spells
-The Shaman table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain expended spell slots when you finish a long rest.
-
-You prepare the list of shaman spells that are available for you to cast, choosing from the shaman spell list. When you do so, choose a number of shaman spells equal to your Wisdom modifier + your shaman level (minimum of 1 spell) The spells must be of a level for which you have spell slots.
-
-For example, if you are a 4th-level shaman, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include seven spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *absorb element*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
-
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of shaman spells requires time spent communing with the elements: at least 1 minute per spell level for each spell on your list.
-
-#### Spellcasting Ability
-Wisdom is your spellcasting ability for your shaman spells. The power of your spells comes from the elements and spirits. You use your Wisdom whenever a shaman spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a shaman spell and when making an attack roll with one.
-
-<div style="text-align: Center">
-
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
-
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
-</div>
-
-#### Spellcasting Focus
-You can use a druidic focus as a spellcasting focus for your shaman spells.
+### Primordial
+You know Primordial, the language of elementals. You can speak the language and use it to leave messages in rocks and pools of water that only you and other shamans spot. The messages are spoken as through a *sending* spell, with the limitations that comes of that spell.
 
 ### Totemist
-You can bind elemental forces into helpful totems to aid you and your allies, or rain havoc upon your foes. See the end of the class description for the shaman totem list.
+You can bind elements into totems, minor focal points of elemental planes power. At 1st level, you learn two totems of your choice. Your totem options are detailed at the end of the class description. When you gain certain shaman levels, you learn additional totems of your choice, as shown in the Totems Known column of the Shaman table.
 
-#### Summoning Totems
-You have a number of totem slots equal to your Totems Known + your Wisdom modifier. To summon one of your totems, you must expend a totem slot. You regain expended totem slots when you finish a long rest.
+As an action, you can summon a totem you know in an unoccupied square within 15 feet of you that you can see.
 
-You can use your action to summon a totem, placing it in an unoccupied square within 30 feet of you. Each totem fills an element when summoned, you can only have one totem of each element active, for a maximum of four totems at once.
+A summoned totem has an AC equal 11 + your Wisdom modifier, hit points equal your shaman level + your profi-ciency bonus, and adds your proficiency bonus to all saving throws, each totem lasts for 1 minute, until you summon another totem, or until it is destroyed.
 
-#### Totems Known at 1st Level and Higher
-You know two totems of your choice. Your totem options are detailed at the end of the class description. When you gain certain shaman levels, you learn to bind additional totems of your choice, as shown in the Totems Known column of the Shaman table.
-
-Additionally, when you gain a level in this class, you can choose one of the totems you know and replace it with another totem that you could have learnt at that level.
-
-#### Totems Level and Abilities
-The Shaman table shows what the level of your totems cast spell is; all of your totems spells are the same level. 
-
-When you summon a totem, it immediately casts its spell, all its effects controlled by you. A summoned totem lasts for up to 1 minute, unless otherwise specified, and can be dismissed as a free action.
-
-Your summoned totems have an AC of 11 + your Wisdom modifier, hit points equal to twice your shaman level and immunity to poison and psychic damage.
+Additionally, when you gain a level in this class, you can choose one of the totems you know and replace it with another totem that you could learn at that level.
 
 ### Fighting Style
-At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fight-ing Style option more than once, even if you later get to choose again.
+At 2nd level, you adopt a style of fighting. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 #### Defense
 While you are wearing armor, you gain a +1 bonus to AC.
@@ -4535,78 +4499,91 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 #### Two-Weapon Fighting
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-### Shamanistic Binding
-When you reach 3rd level, you enter a shamanistic binding, deepening your understanding of elements in a certain aspect. Choose Elemental, Enhancement, or Restoration, each of which is detailed at the end of the class description. Your choice grants you features at 3rd level, and again at 7th, 11th, and 15th level.
+### Spellcasting
+By the time you reach 2nd level, you have learned to use the essence of the elements to cast spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the shaman spell list.
 
-#### Binding Spells
-Each binding has a list of spells that you gain at the sha-man levels noted in the binding description. Once you gain a binding spell, it is always prepared, and it doesn't count against the number of spells you can prepare each day
+#### Preparing and Casting Spells
+The Shaman table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain expended spell slots when you finish a long rest.
 
-If you gain a binding spell that does not appear on the shaman spell list, the spells is a shaman spell for you.
+You prepare the list of shaman spells that are available for you to cast, choosing a number of shaman spells equal to your Wisdom modifier + half your shaman level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+<br>
+
+&nbsp;&nbsp;&nbsp; For example, if you are a 5th-level shaman, you have four 1st-level and two 2nd-level spell slots. With a Wisdom score of 14, your list of prepared spells can include four spells of 1st and 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of shaman spells require time spent communing with the elements: at least 1 minute per spell level for each spell on your list.
+
+#### Spellcasting Ability
+Wisdom is your spellcasting ability for your shaman spells, since your power comes from the elements and spirits. You use your Wisdom whenever a shaman spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a shaman spell you cast and when making an attack roll with one.
+
+<div style="text-align: Center">
+
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+</div>
+
+#### Spellcasting Focus
+You can use a druidic focus as a spellcasting focus for your shaman spells.
+
+### Shamanic Attunement
+When you reach 3rd level, you attune yourself to specific practice of shamanism: Elemental, Enhancement, or Restoration, all detailed at the end of the class description. 
+
+Your choice grants you features at 3rd level and again at 7th, 11th, 15th, and 20th level.
+
+#### Attunement Spells
+Each attunement has a list of associated spells. You gain access to these spells at the levels specified in the attune-ment description. Once you gain access to the spell, you always have it prepared. Attunement spells don't count against the number of spells you can prepare each day.
+
+If you gain a spell that doesn't appear on the shaman spell list, the spell is nonetheless a shaman spell for you.
 
 ### Elemental Shield
-At 3rd level, you gain the ability to manifest elements into beneficial shields. You gain two such shields: Water Shield and a shield determined by your binding.
+Also at 3rd level, you learn to manifest the elements into shields to aid you in combat. You learn two such shields: Water Shield and a shield determined by your attunement.
+
+When you use your Elemental Shield, you choose which shield to manifest. You must then finish a short or long rest to use your Elemental Shield again.
+
+Starting at 10th level, you can use your Elemental Shield twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
+
+#### Elemental Shield: Water
+As an action, you manifest orbs of water equal to your pro-ficiency bonus, the orbs hover in your square for 1 hour or until they have been spent. You can expend an orb when you are rolling dice for a spell to reroll a number of dice equal to your Wisdom modifier, you must use the new rolls.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
-&nbsp;&nbsp;&nbsp; When you use your Elemental Shield, you choose which shield to manifest. You must then finish a short or long rest to use your Elemental shield again.
-
-An elemental shield lasts for 1 hour, or until all uses of its active effect have been expended.
-
-At 6th, 13th, and 18th level you gain an additional use of your Elemental Shield between rests, regaining expended uses when you finish a short or long rest.
-
-#### Water Shield
-As an action, you manifest a number of water orbs equal to your Wisdom modifier. The orbs hover around you for their duration before falling to the ground.
-
-Whenever you roll damage for an attack or a spell cast using a spell slot, you can expend an orb to reroll any number of dice, you must use the new rolls for those dice.
-
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Spirit Animal
-Starting at 5th level, you can use your bonus action to magically assume the shape of your spirit animal. You can use this feature twice. You regain expended uses when you finish a short or long rest.
+### Ghost Form
+Upon reaching 6th level, you can use your action to trans-form into a ghostly visage of an animal. You can use this feature twice, You regain expended uses when you finish a short or long rest.
 
-While shapeshifted in this way, your AC is 14, and you gain a movement speed of 50 feet, the rest of your game statistics remain unchanged.
+You can stay in your ghost form for a number of hours equal to half your shaman level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action. You are automatically reverted to your normal form if you fall unconscious, drop to 0 hit points, or die.
 
-You can stay as your spirit animal for 1 hour. You then revert back to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, die, or make an attack or cast a spell that affects an enemy creature.
+While you are transformed, the following rules apply:
+ - Your base movement speed changes to 50 feet.
+ - You are considered unarmored and add your Wisdom modifier to your Armor Class.
+ - If you make an attack or cast a spell you immediately revert to your normal form. Transforming doesn't break your concentration on a spell you've already cast, how-ever, or prevent you from taking actions that are part of a spell, such as *call lightning*, that you've already cast.
+ - Your ability to speak or take any action that requires hands is limited to the capabilities of your ghost form.
+ - Your equipment merges into your ghost form and has no effect until you leave the shape again.
 
-*A deeper explanation of a shaman's spirit animal can be found in Appendix A at the end of this book.*
+*A deeper explanation of a shaman's ghost form can be found in Appendix A at the end of this book.*
 
-### Astral Shift
-Beginning at 9th level, as reaction upon taking damage you shift your body into the astral plane, giving you resistance towards all damage until the start of your next turn.
+### Far Sight
+Also at 6th level, you are able to use the element of air to hone your vision. Using your action, you manifest your far sight, which lasts for 10 minutes, and allows you to see up to 1 mile away with no difficulty and discern even fine details as though looking at something no more than 100 feet away from you.
 
-You can use this feature twice, regaining expended uses when you finish a short or long rest.
+You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
-### Totemist Projection
-Upon reaching 10th level, you are able to summon a totem of each element using a bonus action, placing each totem in an unoccupied square within 30 feet of you.
-
-In addition, you can use your bonus action to move any active totems to a new location within 30 feet of you.
-
-### Bloodlust
-Starting at 14th level, as an action, you can insight a blood-lust within you and allies within 30 feet of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). Each affected ally gains the benefits of a *haste* spell, and adds your Wisdom modi-fier to attack and damage rolls for the duration.
-
-Once you use this feature, you can't use it again until you finish a long rest.
+### Totem Mastery
+Beginning at 14th level, you have mastered the binding of totems and are able to do so at a moments notice. You are able to summon a totem as a bonus action, and can use a bonus action on your turn to move your totem to an empty square within 60 feet of you that you can see.
 
 \columnbreak
 
-### Ascendance
-At 20th level, you can draw greater empowerment from the elements. As a bonus action, your body fills with elemental energy, shifting your form to an ascendant. Ascendance lasts for 1 minute, giving you the benefit of your Binding.
+<div style='margin-top:-10px;'></div>
 
-Once you have used this feature, you can't use it again until you finish a long rest.
+## Shamanic Attunement
+<div style='margin-top:-5px;'></div>
 
-#### Elemental
-You become empowered by fire, immediately after you cast a spell using a spell slot, you can use your bonus action to cast a second spell with a casting time of an action.
-
-#### Enhancement
-You become empowered by wind, you add your Wisdom modifier to attack and damage rolls made with melee weapons, the extra damage is dealt as lightning damage.
-
-#### Restoration
-You become empowered by water, making your chain heal-ing able to affect any number of creatures within range, instead of just one.
-
-## Shamanistic Binding
-Shamans strive to deepen their understanding and connec-tion with the elements no matter what. Some shamans prefer a more brutal approach to shamanism, either in the shape of strict melee combat, or conjuring raw element powers against their enemies. Others still, stand as the conjurers of healing waters and restorative energies.
+Shamans strive to deepen their understanding and connec-tion with the elements at all cost. Some shamans prefer a more brutal approach to shamanism, using its elements of fire and earth for physical combat, or the raw forces of air and fire for distanced assaults. Others prefer a more subtle approach of peace and meditation, bending water and air to their will. You attune with one of these groups.
 
 ### Elemental
 Elemental shamans have dedicated themselves above all else to forging a deep bond with the elements. Making them able to channel such power into destructive magical surges. They manipulate the land itself. To battle an elemental shaman is to taunt the very forces of nature.
@@ -4620,35 +4597,55 @@ Elemental shamans have dedicated themselves above all else to forging a deep bon
 | 10th || control water, storm sphere |
 | 15th || maelstrom, wall of stone    |
 
+#### Elemental Shield: Lightning
+When you choose this attunement at 3rd level, you can use your action to manifest an orb of lighting that hovers in your square for 1 hour, the orb has a number of charges equal to your Wisdom modifier. Whenever you hit a target with a spell or your Lightning blast, you can spend a charge of the orb to deal additional lightning damage equal to half your shaman level + your Wisdom modifier.
+
+In addition, you can use your reaction and spend a charge when hit by a melee attack to deal lightning damage equal to your shaman level back at the attacker.
+
+A target hit by your orb can't take reactions until the start of its next turn.
+
+#### Lightning Blast
+Starting at 3rd level, you are able to hurl a bolt of lightning towards enemies. As an action, make a ranged spell attack against a target within 60 feet of you. On a hit, the target takes 1d8 lightning damage.
+
+This feature's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
 #### Destructive Attunement
-At 3rd level, whenever you cast a spell that deals cold, fire, lightning or thunder damage, before determining damage you may choose to change the damage type to one of the damage types on the list above.
+Beginning at 5th level, when you cast a spell through a spell slot that deals cold, fire, lightning, or thunder damage, you may choose to change the damage type to another damage type from the list above before rolling for damage.
 
-#### Lightning Shield
-Starting at 7th level, as an action, you manifest a lightning orb with a number of charges equal to your Wisdom modifier. Whenever you hit a creature with a spell, you can expend a charge of your orb to make deal an additional 2d4 lightning damage to a creature hit by your spell.
+#### Ricochet Lightning
+At 7th level, when you use your Lightning Blast feature and miss, you can use your bonus action to make a new ranged spell attack against a different target within 30 feet of the missed target.
 
-In addi, you can use your reaction when hit by a melee weapon attack to expend a charge and deal 2d4 lightning damage back at the attacker.
-
-Lightning shields damage increases by 1d4 when you reach 11th level (3d4), and 17th level (4d4).
+#### Resurgence
+Upon reaching 11th level, when you cast a spell that deals cold, fire, lightning or thunder damage using a spell slot of 2nd level or higher, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can't be higher than 5th level.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/2eoJFGi.jpg' style='position:absolute; top:870px; right:400px; width:400px; mix-blend-mode:multiply' />
 
 \pagebreakNum
 
-#### Resonance
-Upon reaching 11th level, when you cast a spell that deals cold, fire, lightning or thunder damage using a spell slot of 2nd level or higher, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can't be higher than 5th level.
+<br>
 
-You can recover spell slots with a combined level equal to half your shaman level. Resetting the pool of spell slots that can be regained when you finish a long rest.
+\columnbreak
 
-#### Improved Lightning Shield
-At 15th level, when you use your Lightning Shield, you manifest an additional orb with charges equal to your Wis-dom modifier. When you hit a creature with a spell, or are hit by a melee attack, you may choose to have both orbs lash out against the target, instead of just one.
+&nbsp;&nbsp;&nbsp; You can recover spell slots with a combined level equal to half your shaman level. Resetting the pool of spell slots that can be regained when you finish a long rest.
 
-In addition, a creature hit by your orb must succeed a Constitution saving throw, or be unable to use its reaction until the beginning of your next turn.
+#### Elemental Focus
+Starting at 15th, when you use your Lightning Blast feature or cast a shaman spell that requires a spell attack, the spell score a critical hit on a roll of 19 or 20.
+
+#### Stormcaller
+At 20th level, you are able to call upon the element of air, manifesting sparks of lightning in the air around you. As an action, you undergo a transformation. For 1 minute, you gain the following benefits:
+ - You gain a flying speed of 15 feet.
+ - Your Lightning Blast damage changes to d12s.
+ - You gain immunity to lightning damage.
+ - You can use your reaction when hit by a melee attack to deal lightning damage equal to your shaman level back at the attacker.
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Enhancement
 Enhancement shamans are in as intense communion with the elements as the elemental shaman. What differentiates them is their combat methodology. They favor empowering their physical attacks with elemental energies and facing their adversaries up close.
 
-##### Enhancement Binding Spells
+##### Enhancement Attunement Spells
 | Shaman Level|&nbsp;| Spells            |
 |:----:|:-|:-----------------------------|
 | 3rd  || absorb elements, searing smite |
@@ -4657,37 +4654,50 @@ Enhancement shamans are in as intense communion with the elements as the element
 | 10th || fire shield, stoneskin         |
 | 15th || far step, hold monster         |
 
+#### Elemental Shield: Wind
+When you choose this attunement at 3rd level, you can use your action to manifest the air around you for 10 minutes. Increasing your movement speed by 10 feet, and making you able to use your reaction to give a weapon attack made against you disadvantage.
+
+Beginning at 9th level, when you use this shield, you gain the benefit of a *haste* spell for the first minute of the shields duration without requiring concentration.
+
 #### Imbue Weapon
-At 3rd level, you can imbue your weapons with raw elemen-tal energy. As a bonus action, choose a weapon that you are holding. That weapon becomes imbued for 1 hour, or until you use a bonus action to remove the imbuement. You can only have two weapons imbued at a time.
+Starting at 3rd level, you are able to imbue your weapon with the powers of the elements. You can use your bonus action and expend a spell slot to imbue a weapon you are holding for 1 minute, the weapon deals an additional 1d4 damage of either cold, fire, lightning, or thunder for a 1st-level spell slot, plus 1d4 for each spell level higher than 1st, to a maximum of 5d4. The imbuement is lost if the weapon is moved more than 5 feet away from you.
 
-***Flametongue.*** You imbue your weapon with elemental flames, causing it to emit dim light in a 10-feet radius.
+You can imbue two different weapons you are holding with one bonus action, expending a spell slot and choosing a damage type for each weapon individually.
 
-Additionally, when you hit a creature with this weapon you may expend a 1st-level spell slot to deal an additional 2d6 fire damage. This damage increases by 1d6 for each spell slot level above 1st.
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/H8yjVKO.jpg' style='position:absolute; top:0px; right:300px; width:720px' />
+<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-100px; width:900px' />
 
-***Frostbrand.*** You imbue your weapon with elemental ice, giving the wielder resistance to extreme heat.
+\pagebreakNum
 
-Additionally, when you hit a creature with this weapon you may expend a 1st-level spell slot to deal an additional 1d8 cold damage and reduce the targets speed by 5 feet. This damage increases by 1d8 and reduces the targets speed for an extra 5 feet for each spell slot level above 1st.
+#### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-***Windfury.*** You imbue your weapon with elemental air, doubling the wielders jump distance.
+#### Stormstrike
+Starting at 7th level, your weapon attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
-Additionally, when you hit a creature with this weapon you may expend a 1st-level spell slot to deal an additional 1d6 slashing damage to your target and each creature within 5 feet of it. This damage increases by 1d6 for each spell slot level above 1st.
+#### Astral Shift
+Beginning 11th level, you are able to momentarily shift your body into the astral plane. You can use your reaction when you are hit by an attack to give yourself resistance against all damage until the beginning of your next turn.
 
-\columnbreak
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
-#### Wind Shield
-Starting at 7th level, as an action, you manifest the air around you. Your movement speed increases by 10 feet, climbing does not require additional movement, and you are unaffected by natural difficult terrain.
+#### Spirit Beast
+Starting at 15th level, you are able to call forth a spirit from the shadowland to aid you. As an action, you summon the spirit in an empty square you can see within 30 feet of you. 
 
-Additionally, you can attack twice, instead of once, when-ever you take the Attack action on your turn.
+The beast stays for 1 minute, or until killed. It acts on your initiative, obeying your commands as best it can. If no commands are given it uses its action to attack the nearest enemy, capable of telling friends from foes.
 
-#### Stormstrikes
-Upon reaching 11th level, your weapon attacks counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+You must then finish a long rest before you can summon the wolf again.
 
-In addition, once per turn, you can deal an extra 1d10 lightning damage to one creature you hit with an attack.
+The spirit beast uses the guidelines found in Appendix A for your Ghost Form feature, and its statblock can be found in Appendix A as well. Work with your DM to change the statistics to fit your chosen animal.
 
-#### Spirit Wolves
-At 15th level, as an action you are able to call forth two spirit wolves to aid you. The wolves act on your initiative, obeying your commands as best they can. If no commands are given they use their action to attack the nearest enemy, being intelligent enough to tell friend from foe. 
+#### Ascendance
+At 20th level, you can draw upon the elements, taking on the form of an ascendant. As action, you undergo a trans-formation. For 1 minute, you gain the following benefits:
+ - Your Imbue Weapon features damage changes to d6s.
+ - Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
+ - You gain immunity to your choice of cold, fire, lightning or thunder damage.
+ - You ignore difficult terrain, and your movement speed can't be reduced.
 
-The wolves lasts for 1 minute, or until killed. Once used, you can't use this feature again until you finish a long rest. A statblock for the wolves can be found in Appendix A.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Restoration
 Restoration shamans find a deep connection with water, using it soothing powers to restore life and heal afflictions. They finding harmony in the nature and purifying their allies as a tidal surge washes across a sandy shore.
@@ -4701,131 +4711,153 @@ Restoration shamans find a deep connection with water, using it soothing powers 
 | 10th || death ward, guardian of faith    |
 | 15th || greater restoration, reincarnate |
 
-#### Earth Shield
-At 3rd level, as a bonus action, you manifest a number of earthen orbs equal to your Wisdom modifier around a creature within 30 feet of you. Whenever the affected creature is hit by an attack that you can see, you can use your reaction to reduce the damage dealt by an amount equal to your shaman level.
+\columnbreak
 
-#### Ritual Caster
-Also at 3rd level, you can cast a shaman spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+#### Elemental Shield: Earth
+When you choose this attunement at 3rd level, you can use your action to manifest a slab of stone at a creature you can see within 30 feet of you for 1 minute. You can use your reaction when the creature is hit by an attack to reduce the damage by an amount equal to your shaman level (to a minimum of 1 damage dealt)
 
-#### Resurgence
-Starting at 7th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
+As a bonus action on your turn, you can move the slab from one creature to another creature within 30 feet of you.
+
+#### Healing Stream
+At 3rd level, you are able to channel healing through the elements. You have a pool of elemental healing represented by a number of d6s equal to your shaman level.
+
+As a bonus action, you can choose one creature you can see within 60 feet of you and spend a number of those dice equal to your Wisdom modifier or less. Roll the spent dice and add them together. The target regains a number of hit points equal to the total.
+
+Alternatively, you can spend a dice to cure the creature of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Healing Stream, spending hit dice separately for each one.
+
+You regain all expended dice when you finish a long rest.
+
+#### Ritual Casting
+Beginning at 5th level, you can cast a shaman spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+
+#### Purify Spirit
+Starting at 7th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.
+
+#### Wellspring
+At 11th level, when you roll for initiative and have no Healing Stream dice remaining, you regain 1 die.
+
+#### Reincarnation
+Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can't use it again until you finish a long rest.
+
+Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically.
+
+#### Spiritwalker
+At 20th level, you can call upon the spirits to guide your hand. As an action, you undergo a transformation. For 1 minute, you gain the following benefits:
+ - You gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+ - Your healing stream heals all creatures of your choice within 15 feet of the chosen target for half of the hit points regained.
+ - You have advantage on Wisdom saving throws.
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/gbQme1i.png' style='position:absolute; top:850px; right:-200px; width:700px;transform:rotate(190deg)' />
+<img src='https://www.gmbinder.com/images/gbQme1i.png' style='position:absolute; top:675px; right:435px; width:700px;transform:rotate(90deg)' />
 
 \pagebreakNum
 
-#### Chain Healing
-Upon reaching 11th level, whenever you use spell of 1st level or higher to restore hit points to one creature, you can cause the spell to affect a nearby ally as well. As a bonus action, choose a creature within 10 feet of the healed target, that creature is healed for an amount equal to the initial target.
-
-#### Surge of Life
-At 15th level, when you use a spell of 1st level or higher to restore hit points, you may choose to restore the maximum amount of hit points possible. Additionally, each creature healed this way gains temporary hit points equal to half your shaman level.
-
-Once used, you can't use this feature again until you finish a long rest.
+<div style='margin-top:80px;'></div>
 
 ## Totems
 If a totem has prerequisites, you must meet them to learn it. You can learn the totem at the same time that you meet its prerequisites. A level prerequisite in a totem refers to your shaman level, not your character level.
 
-#### Cleansing Totem
-*Prerequisite: 5th level, (totem of water)*
+#### Earthbind Totem
+While active, creatures of your choice within a 10-foot radius of it have their movement speed reduced by 10 feet (to a minimum of 5 feet movement speed remaining).
+
+The totems radius increases by 5 feet at 5th level, (15 feet), 11th level (20 feet), and 17th level (25 feet).
+
+#### Falling Rain Totem
+*Prerequisite: 13th level*
 <div style='margin-top:-6px'></div>
 
-You place down a cleansing totem, that casts the *lesser restoration* spell on a creature within 30 feet of it. After which the totem dissipates.
+While action, the totem summons gentle rain in a 20-foot radius around it. The area becomes difficult terrain and is considered lightly obscured.
 
-#### Cloudburst Totem
-*Prerequisite: 17th level, (totem of water)*
-<div style='margin-top:-6px'></div>
-
-You place down a cloudburst totem, that casts the *mass cure wounds* spell. Once cast, the totem dissipates.
-
-#### Counterstrike Totem
-*Prerequisite: 9th level, (totem of air)*
-<div style='margin-top:-6px'></div>
-
-You place down a counterstrike totem, the totem prepares the *counterspell* spell, for the duration of the totem, you can use your reaction to release the totems spell to attempt to counter a spell within 60 feet of it. Once you have released this spell, the totem dissipates.
-
-#### Earthgrab Totem
-*(totem of earth)*
-<div style='margin-top:-6px'></div>
-
-You place down an earthgrab totem, that casts the *maxi-milian's earthen grasp* spell, this spell doesn't require concentration, and lasts for the duration of the totem.
-
-#### Earthquake Totem
-*(totem of earth)*
-<div style='margin-top:-6px'></div>
-
-You place down an earthquake totem, that casts the *earth tremor* spell around it. On subsequent turns you can use your action to cast *earth tremor* around the totem again, if you don't, the totem dissipates.
-
-#### Elemental Resistance Totem
-*(totem of water)*
-<div style='margin-top:-6px'></div>
-
-You place down an elemental resistance totem, that casts the *absorb elements* spell on a target within 30 feet of it, the resistance lasts for the duration of the totem.
+The totems radius increases by 10 feet at 17th level.
 
 #### Fire Nova Totem
-*Prerequisite: 9th level, (totem of fire)*
+While active, you can use your action to cause the totem to implode, destroying the totem and forcing creatures within 10 feet of it to make a Dexterity saving throw against your spell save DC. On a failed save, a creature take 2d8 fire damage, or half as much on a successful one.
+
+The totems damage increases by 1d8 at 5th level (3d8), 11th level (4d8), and 17th level (5d8).
+
+#### Fire Resistance Totem
+*Prerequisite: 9th level*
 <div style='margin-top:-6px'></div>
 
-You place down a fire nova totem, that casts the *fireball* spell. Once cast, the totem dissipates.
+While active, when you or a friendly creature within 15 feet of the totem takes fire damage, the creature can use its action to halve the fire damage taken.
 
-#### Flametongue Totem
-*Prerequisite: 5th level, (totem of fire)*
+The totem radius increases by 5 feet at 11th level (20 feet), and 17th level (25 feet).
+
+#### Frost Resistance Totem
+*Prerequisite: 9th level*
 <div style='margin-top:-6px'></div>
 
-You place down a flametongue totem, that casts the *aganazzar's scorcher* spell. On subsequent turns you can use your action to cast *aganazzar's scorcher* spell from the totem again, if you don't, the totem dissipates.
+While active, when you or a friendly creature within 15 feet of the totem takes cold damage, the creature can use its action to halve the cold damage taken.
 
-#### Grace of Air Totem
-*(totem of air)*
+The totem radius increases by 5 feet at 11th level (20 feet), and 17th level (25 feet).
+
+#### Grave of Air Totem
+*Prerequisite: 9th level*
 <div style='margin-top:-6px'></div>
 
-You place down a grace of air totem, that casts the *fog cloud* spell, this spell does not require concentration, and lasts for the duration of the totem.
+While active, you and friendly creatures within 15 feet of the totem add your Wisdom modifier to Dexterity checks and saving throws.
 
-#### Liquid Magma Totem
-*Prerequisite: 5th level, (totem of fire)*
+The totem radius increases by 5 feet at 11th level (20 feet), and 17th level (25 feet).
+
+\columnbreak
+
+#### Resistance Totem
+While action, you can use your reaction when a creature within 10 feet of the totem is hit by an attack to reduce their damage taken by 1d6 (to a minimum of 1 damage). You can use this totem a number of times equal to your Wisdom modifier before it dissipates.
+
+The totems damage reduction increases by 1d6 at 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+#### Sentry Totem
+While active, the totem produces an *alarm* spell in a 30-foot square centered on it, alerting you if a creature enters the warded area. 
+
+This totem stays active for 8 hours instead of 1 minute.
+
+#### Spirit Link Totem
+*Prerequisite: 13th level*
 <div style='margin-top:-6px'></div>
 
-You place down a magma totem, that casts the *flaming sphere* spell, this spell doesn't require concentration, and lasts for the duration of the totem.
+While active, you can use your reaction when a creature within 20 feet of the totem takes damage to take that damage instead of the creature. This doesn't transfer any other effects that might accompany the attack, and this damage can't be reduced in any way.
 
-#### Mana Spring Totem
-*(totem of water)*
+The totems radius increases by 10 feet at 17th level.
+
+#### Strength of the Earth Totem
+*Prerequisite: 9th level*
 <div style='margin-top:-6px'></div>
 
-You place down a mana spring totem, that casts the *bless* spell, this spell doesn't require concentration, and lasts for the duration of the totem.
+While active, you and friendly creatures within 15 feet of the totem add your Wisdom modifier to Strength checks and saving throws.
 
-#### Searing Totem
-*(totem of fire)*
+The totem radius increases by 5 feet at 11th level (20 feet), and 17th level (25 feet).
+
+#### Tranquil Air Totem
+*Prerequisite: 5th level*
 <div style='margin-top:-6px'></div>
 
-You place down a searing totem, that casts the *fire bolt* cantrip at the end of your turn. You can use your bonus action on subsequent turns to recast the *fire bolt* spell. The totem uses your shaman level to determine its damage.
+While action, a creature that who targets you with an attack or harmful spell must first make a Wisdom saving throw against your spell save DC. On a failed save, the creature must pick a new target or lose the attack or spell. The totem is then destroyed. A creature is aware of the totem and its effect before making their attack or cast their spell.
 
-#### Stone Bulwark Totem
-*Prerequisite: 17th level, (totem of earth)*
+The totem can be used an additional time before being destroyed at 5th level (2 uses), 11th level (3 uses), and 17th level (4 uses).
+
+#### Tremor Totem
+*Prerequisite: 13th level*
 <div style='margin-top:-6px'></div>
 
-You place down a stone bulwark totem, that casts the *wall of stone* spell, this spell doesn't require concentration, and lasts for the duration of the totem.
+While active, you and friendly creatures within 20 feet of the totem gains advantage on saving throws against being charmed, frightened and stunned.
 
-#### Stoneskin Totem
-*Prerequisite: 13th level, (totem of earth)*
+The totems radius increases by 10 feet at 17th level.
+
+#### Wrath Totem
+*Prerequisite: 13th level*
 <div style='margin-top:-6px'></div>
 
-You place down a stoneskin totem, that casts the *stoneskin* spell on a creature within 30 feet of it, this spell doesn't re-quire concentration, and lasts for the duration of the totem.
+While active, when you or a friendly creature within 20 feet of the totem rolls damage for an attack or spell, you may choose one of the dice to reroll, you must use the new roll
 
-#### Stormlash Totem
-*Prerequisite: 13th level, (totem of air)*
-<div style='margin-top:-6px'></div>
-
-You place down a stormlash totem, that casts the *storm sphere* spell, this spell doesn't require concentration, and lasts for the duration of the totem.
-
-#### Windfury Totem
-*Prerequisite: 5th level, (totem of air)*
-<div style='margin-top:-6px'></div>
-
-You place down a windfury totem, that casts the *warding wind* spell on a creature within 15 feet of it, this spell doesn't require concentration, and lasts for the duration of the totem.
+The totems radius increases by 10 feet at 17th level.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/2eoJFGi.jpg' style='position:absolute; top:920px; right:0px; width:450px; mix-blend-mode:multiply;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/08Vyjyt.jpg' style='position:absolute; top:820px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:980px' />
+<img src='https://www.gmbinder.com/images/GJ0XjPx.png' style='position:absolute; top:-100px; right:590px; width:250px;transform:rotate(50deg)' />
 
 \pagebreakNum
 
@@ -8454,15 +8486,15 @@ ___
 
 \pagebreakNum
 
-# Spirit Animal
-Shamans gain the favor of a spirit animal, an animal shape they are able to shapeshift into at will through the aid of the spirits of the wild. Whilst druids are able to take the complete shape of certain animals, shifting into various beasts, the strain upon a shamans shapeshift lies much deeper within. As a result the animal shape they take appears as an incorporeal transparent shape in the material world, often with a ghostly visage.
+# Ghost Form
+Shamans bond with spirit animals and are granted their favor, making them able to assume the form of their spirit animal at will through the aid of the spirits of the wild. Whilst druids are able to take the complete shape of certain animals, shifting into various beasts, the strain upon a shamans ghost form lies much deeper within. As a result the shape they take appears as an incorporeal transparent shape in the material world.
 
 Most shamans choose one spirit animal, and sticks with that spirit animal throughout their life. Orcs and trolls commonly go for a dire wolf, a shape well known to both, known for its ferocity and speed. Whilst a dwarf might choose a bear, a steadfast companion by many of the dwarven kin. Think about your spirit animal, why and if it fits your character, a shamans spirit animal is in many ways an extension of who they are, reflecting their personality. The only limitation given upon a spirit animal is that it cannot have a swim, or fly speed. 
 
-A shamans shape is limited, as so it has a specific set of statistics no matter which animal shape is chosen as showed below. Talk with your DM about altering the statistics to better suit your chosen animal.
+Shamans ghost form is limited, as so it has a specific set of statistics no matter which animal you choose, as shown in the Ghost Form class feature.
 
 ___
-> ## Spirit Wolf
+> ## Spirit Beast
 >*Large, unaligned*
 > ___
 > - **Armor Class** 14
@@ -8473,19 +8505,21 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|14 (+2)|7 (-2)|12 (+1)|8 (-1)|
 >___
-> - **Skills** Perception +5, Stealth +3
-> - **Damage Immunities** psychic
+> - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** poison, psychic
+> - **Condition Immunities** charmed, petrified, poisoned
 > - **Senses** blindsight 30 ft., passive Perception 15
-> - **Languages** Understands the shaman
+> - **Languages** understands the languages of the summoner but can't speak
+> - **Challenge** 4 (1,100 XP)
 > ___
-> ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
->
-> ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if another spirit wolf is within 5 feet of the creature and the wolf isn't incapacitated.
+> ***Pack Tactics.*** The best have advantage on an attack roll against a creature if at least one of the beasts allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 > ### Actions
-> ***Multiattack.*** The Spirit wolf makes two bite attacks.
+> ***Multiattack.*** The spirit beast can use its incorporeal movement and make one bite attack, or make two bite attacks.
 >
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, Reach 5 ft., one target. *Hit:* (2d6 + 4) piercing damage. If the target is a creature it must succceed on a DC 14 Strength saving throw or be knocked prone.
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, Reach 5 ft., one target. *Hit:* (2d6 + 4) piercing damage.
+>
+> ***Incorporeal Movement.*** The beast can move through other creatures and objects as if they were difficult terrain. It vanishes if it ends its turn inside an object.
 
 <div class='footnote'>APPENDIX A | SHAPESHIFTS</div>
 <img src='https://www.gmbinder.com/images/Z7nJ0wt.jpg' style='position:absolute; top:0px; right:-350px; width:1000px' />
