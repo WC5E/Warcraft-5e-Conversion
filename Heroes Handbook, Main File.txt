@@ -3037,7 +3037,7 @@ Starting at 10th level, you can add your Intelligence modi-fier to damage rolls 
 #### Hot Streak
 At 14th level, the blazing energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.
 
-### Frost Magi
+### Study of Frost
 Frost mages stand apart from their colleagues, in that their chosen school of magic focuses on maintaining supreme control over the capabilities of their enemies. Mages who command frost perform chilling displays on the battlefield, rendering foes immobile as they bombard them with ice.
 
 #### Conjuration Savant
