@@ -2414,23 +2414,23 @@ They follow a life of reverence for nature complimenting their tradition and wil
 | Level | Proficiency <br> Bonus | Features            |Hunter's<br>Mark|Focus<br>Points|
 |:---:|:--:|:-------------------------------------------------------|:----:|:-:|
 | 1st | +2 | Animal Empathy, Natural Explorer                       |    — | — |
-| 2nd | +2 | Fighting Style, Hunter's Mark, Focus (2)               |  1d4 | 2 |
+| 2nd | +2 | Fighting Style, Hunter's Mark, Focus (2 Attacks)       |  1d4 | 2 |
 | 3rd | +2 | Hunter Archetype, Animal Companion                     |  1d4 | 3 |
 | 4th | +2 | Ability Score Improvement                              |  1d4 | 3 |
 | 5th | +3 | Extra Attack                                           |  1d4 | 3 |
-| 6th | +3 | Focus (3)                                              |  1d4 | 4 |
+| 6th | +3 | Focus (3 Attacks)                                      |  1d4 | 4 |
 | 7th | +3 | Hunter Archetype feature                               |  1d6 | 4 |
 | 8th | +3 | Ability Score Improvement, Fleet of Foot               |  1d6 | 4 |
 | 9th | +4 | Know Your Prey                                         |  1d6 | 5 |
-| 10th| +4 | Focus (4)                                              |  1d6 | 5 |
+| 10th| +4 | Focus (4 Attacks)                                      |  1d6 | 5 |
 | 11th| +4 | Hunter Archetype feature                               |  1d6 | 5 |
 | 12th| +4 | Ability Score Improvement                              |  1d8 | 6 |
 | 13th| +5 | Hide in Plain Sight                                    |  1d8 | 6 |
-| 14th| +5 | Focus (5)                                              |  1d8 | 6 |
+| 14th| +5 | Focus (5 Attacks)                                      |  1d8 | 6 |
 | 15th| +5 | Hunter Archetype feature                               |  1d8 | 7 |
 | 16th| +5 | Ability Score Improvement                              |  1d8 | 7 |
 | 17th| +6 | Honed Senses                                           | 1d10 | 7 |
-| 18th| +6 | Focus (6)                                              | 1d10 | 8 |
+| 18th| +6 | Focus (6 Attacks)                                      | 1d10 | 8 |
 | 19th| +6 | Ability Score Improvement                              | 1d10 | 8 |
 | 20th| +6 | Aspect of the Wild                                     | 1d10 | 8 |
 </div>
@@ -2523,9 +2523,9 @@ In addition, you have advantage on Wisdom (Perception), and Wisdom (Survival) ch
 ### Focus
 Starting at 2nd level, you learn to enter a heightened state of focus in combat. Your access to this focus is represented by a number of focus points. Your hunter level determines the number of focus points you have, as shown in the Focus Points column of the Hunter table.
 
-You can spend these points to perform various focus fea-tures. You learn two focused attacks of your choice, which are detailed under Focused Attacks below. Each focused attack must be declared before making an attack, unless otherwise specified. You can only use one focused attack per attack roll.
+You can spend these points to perform various focus fea-tures.  Each focused attack must be declared before making an attack, unless otherwise specified. You can only use one focused attack per attack roll.
 
-You learn an additional focused attack of your choice at 6th, 10th, 14th, and 18th level. Each time you learn a new focused attack, you can also replace one focused attack you know with another from the list.
+You learn two focused attacks of your choice when you gain this feature, which are detailed under Focused Attacks below. You learn an additional focused attack of your choice at 6th, 10th, 14th, and 18th level. When you learn a new focused attack, you can also replace one focused attack you know with another from the list.
 
 When you spend a focus point, it is unavailable until you finish a short or long rest, at the end of which your focus is regained. Additionally you regain 1 expended focus point each time you roll a 20 on the d20 roll for an attack with a weapon, or deal the killing blow to a creature of significant threat (DM's discretion).
 
