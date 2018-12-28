@@ -2195,13 +2195,13 @@ When you spend an affinity point, it is unavailable until you finish a short or 
 Some of your affinity features require your target to make a saving throw to resist the feature's effect. The saving throw DC equals your druid Spell Save DC.
 
 #### Displacer Beast
-You can spend 1 affinity point and use your action to teleport up to 30 feet to an unoccupied space that you can see. As part of the same action, you shapeshift a known shape of your choice.
+You can spend 1 affinity point and use your action to teleport up to 30 feet to an unoccupied space that you can see. As part of the same action, you shift into a known shapeshift of your choice.
 
 #### Renewal
-You can spend affinity points and use your bonus action to regain 1d6 + your Wisdom modifier for each affinity point used in the casting.
+You can spend affinity points and use your bonus action to regain hit points equal to 1d6 + your Wisdom modifier for each affinity point expended.
 
 #### Stampeding Roar
-You can spend 1 affinity point and use your action to let out an enchanted roar. Each ally within 60 feet of you gain the benefit of the Dash action until the end of their next turn, including you.
+You can spend 1 affinity point and use your action to let out an enchanted roar. Each ally within 60 feet of you that can hear you gain the benefit of the Dash action until the end of their next turn, including you.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -2227,7 +2227,7 @@ Although all druids have a deep love for nature and wilderness, some druids have
 Druids on the path of balance leverage the sacred powers of the moon, the sun, and the stars, accessing a mixture of arcane and nature powers to aid in the fight against the imbalance that threatens the natural order of all things.
 
 #### Innervate
-Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
+Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with the nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
 
 For example, when you are a 4th-level druid, you can re-cover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
 
@@ -2254,7 +2254,7 @@ At 14th level, when you are hit by a melee attack, you can use your reaction to 
 Druids that wander the feral path seek an understanding, and visceral connection to the wild. In combat, these druids take the form of a deadly feline predator, becoming fero-cious and agile stalkers. After a while, many feral druids come to prefer the appearance of their feline form over their humanoid shape.
 
 #### Predatorial Preference
-When you choose this path at 2nd level, you have begun spending more time as a feline, familiarizing yourself with it. Your proficiency in Intelligence saving throws perma-nently changes to Dexterity saving throws.
+When you choose this path at 2nd level, you have begun spending more time as a cat, familiarizing yourself with it. Your proficiency in Intelligence saving throws permanently changes to Dexterity saving throws.
 
 #### Feral Caster
 Starting at 2nd level, you spend more time improving your predatory skills than your spellcasting, altering the course of your spellcasting forever. You no longer refer to the druid class table to determine your Affinity Points, Cantrip, or Spell Slots, and you count as a "half caster" for determi-ning available spell slots when multiclassing.
@@ -2306,7 +2306,7 @@ Additionally, your attacks in cat form count as magical for the purpose of overc
 </div>
 
 #### Prowl
-Upon reaching 10th level, you have learned to blend into your surroundings whilst in the shadow. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.
+Upon reaching 10th level, you have learned to blend into your surroundings whilst in the shadow. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or enter an area of bright light.
 
 #### King of the Jungle
 At 14th level, you can spend 3 affinity points to take on the form of an unparalleled hunter. Boasting your defenses by manifesting armor of bark, and improving your combat prowess. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
@@ -2347,10 +2347,10 @@ At 6th level, you can spend 2 affinity points and use your action whilst shapesh
 #### Pulverize
 Beginning at 10th level, the damage of your melee weapon attacks improve. Your bears bite increases to 2d8 piercing damage, and your claws increases to 3d6 slashing damage.
 
-Additionally, you can add your proficiency bonus to one damage roll of a bear forms attacks.
+Additionally, you can add your proficiency bonus to one damage roll of a bear forms attack each round.
 
 #### Guardian of Ursoc
-At 14th level, your presence is menacing to those around you. Whilst in bear form, any creature within 5 feet of you that's hostile to you have disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you, or if it can't be frightened.
+At 14th level, your presence is menacing to those around you. Whilst in bear form, any creature within 5 feet of you that's hostile to you have disadvantage on attack rolls against targets other than you or another character with range of this feature. An enemy is immune to this effect if it can't see or hear you, or if it can't be frightened.
 
 \columnbreak
 
@@ -2382,7 +2382,7 @@ Beginning at 6th level, when you or a creature within 30 feet of you takes acid,
 #### Tranquility
 Starting at 10th level, you can become as calm as spring, soothing your allies. As an action, you evoke a healing energy that can restore a number of hit points equal to five times your druid level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on a construct.
 
-Once you have used this feature, you can't use it again until you have finished a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 #### Tree of Life
 At 14th level, you can draw your strength from the world trees of Azeroth. Assuming the shape of a large treant. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
@@ -2514,7 +2514,7 @@ You cannot use this ability against a creature that you have attacked within the
 
 ### Natural Explorer
 You are familiar with natural environments and are adept at traveling and surviving in such regions. This grants you the following benefits:
- - You ignore difficult terrain.
+ - You ignore nonmagical difficult terrain.
  - You have advantage on initiative rolls.
  - On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.
 
@@ -2546,7 +2546,7 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 ### Hunter's Mark
 Beginning at 2nd level, you are able to mark a target as your quarry. As a bonus action, choose a creature within 120 feet of you that you can see. The target is marked for the 1 hour, until you use this feature again, or until it dies. The mark also ends if you fall unconscious. 
 
-Once per turn, you can deal an extra 1d4 damage to one creature you hit with a weapon attack. The amount of extra damage increases as you gain levels in this class, as shown in the Hunter's Mark column of the Hunter table.
+Once per turn, you can deal an extra 1d4 damage to that creature when you hit it with a weapon attack. The amount of extra damage increases as you gain levels in this class, as shown in the Hunter's Mark column of the Hunter table.
 
 In addition, you have advantage on Wisdom (Perception), and Wisdom (Survival) checks you make to find your mark.
 
@@ -2620,7 +2620,9 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Fleet of Foot
-Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+Starting at 8th level, when you take the Dash action, you can pass through any difficult terrain without requiring extra movement.
+
+Additionally, you are able to pass through nonmagicalplants without being slowed by them or taking damage from them if they have thorns, spines, or a similar hazard.
 
 ### Know Your Prey
 At 9th level, you can glean intimate knowledge about the capabilities of your marked target. As action you can learn two of the following characteristics of your choice about the target of your hunter's mark if it's within 120 feet.
@@ -2645,7 +2647,7 @@ At 20th level, you become an unparalleled hunter. Once on each of your turns, yo
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/jYWJdhH.png' style='position:absolute; top:870px; right:20px; width:790px;transform:rotate(-10deg)' />
+<img src='https://www.gmbinder.com/images/jYWJdhH.png' style='position:absolute; top:890px; right:20px; width:790px;transform:rotate(-10deg)' />
 
 \pagebreakNum
 
@@ -2670,7 +2672,7 @@ Beginning at 7th level, you and your animal companion form a more potent fightin
 Additionally, you can use your reaction to warn your companion when an attack roll is made against it, giving it resistance to all damage dealt by the attack if it hits.
 
 #### Aspect of the Wilds
-Starting at 11th level, your time spent around your animal companion have begun influencing you, you gain one of the following features of your choice.
+Starting at 11th level, your time spent around your animal companion have begun influencing you, granting you one of the following features of your choice.
 
 ***Pack Tactics.*** You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
 
@@ -2707,7 +2709,7 @@ Beginning at 7th level, you can take Search action as a bonus action. You also g
 #### Multiattack
 Upon reaching 11th level, you gain one of the following features of your choice.
 
-***Barrage.*** You can use your action to make a ranged attack against any number of creatures within a 30-ft cone. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+***Barrage.*** You can use your action to make a ranged attack against any number of creatures within a 30-ft cone. You must have ammunition for each target as normal, and you make a separate attack roll for each target.
 
 ***Volley.*** You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
 
@@ -2720,12 +2722,12 @@ At 15th level, when you roll for initiative and have no uses of careful aim rema
 All hunters feel a calling to the wild, but some serve as a reflection of its brutality. To them, the hunt is defined by unrelenting ferocity. Weapons of great range are thrown away for close-quarters combat.
 
 #### Predator
-Starting at 3rd level, you hone the art of ambushing. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.
+Starting at 3rd level, at the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If the attack hits, the target takes an extra 1d8 damage of the weapon's damage type.
 
-At the start of your first turn of each combat, your walk-ing speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If the attack hits, the target takes an extra 1d8 damage of the weapon's damage type.
+Additionally, you add your Wisdom modifier to your initiative rolls.
 
 #### Camouflage
-Beginning at 7th level, you gain the ability to cast the *pass without trace* spell without providing material components, but only as a ritual. You must have access to fresh mud, dirt, plants, soot, and other natural occurring materials for you to be able to do so.
+Beginning at 7th level, you gain the ability to cast the *pass without trace* spell without providing material components, but only as a ritual. You must have access to fresh mud, dirt, plants, soot, or other natural occurring materials for you to be able to do so.
 
 #### Marked Counter
 Upon reaching 11th level, you gain the ability to counter-attack when your marked target tries to sabotage you. If the target of your Hunter's Mark forces you to make a saving throw, you can use your reaction to make a weapon attack against the quarry. You make this attack before making the saving throw. If your attack hits, you gain advantage on your saving throw, in addition to the attack's normal effects.
