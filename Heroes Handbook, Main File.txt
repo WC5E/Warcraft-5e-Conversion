@@ -2854,6 +2854,8 @@ You can cast a mage spell as a ritual if that spell has the ritual tag and you h
 
 \columnbreak
 
+<br>
+
 > ##### Your Spellbook
 > The spells that you add to your spellbook as you gain levels reflect the arcane research you con-duct on your own, as well as intellectual break-throughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell re-corded on a scroll in an evil sorcerer's chest, for example, or in a dusty tome in an ancient library.
 >
@@ -2877,7 +2879,6 @@ Each time you gain a mage level, you add two mage spells of your choice to your 
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/fZMAlU8.png' style='position:absolute; top:950px; right:30px; width:300px;transform:rotate(-15deg)' />
 
 \pagebreakNum
 
@@ -2940,21 +2941,21 @@ Mages are spellcasters who favor magics involving the car-dinal elements of the 
 ### Study of Arcane
 Mages of the arcane are diviners of secrets, balancing the webb and flow of incredible mystic energies. These practi-tioners push their magical knowledge to its very limits. Those who master this craft are capable of releasing a barrage of unrelenting power upon their enemies.
 
-#### Arcanic Savant
+#### Abjuration Savant
 Beginning when you select this study at 2nd level, the gold and time you must spend to copy an abjuration spell into your spellbook is halved.
 
 #### Unstable Surge
-Starting at 2nd level, your spellcasting can unleash surges of untamed magic. Immediately after you cast a mage spell of 1st level or higher, roll a d20. If your roll is less or equal to the level of the spell slot used, consult the table beneath and roll on the Unstable Surge table to create a random magical effect.
+Starting at 2nd level, your spellcasting can unleash surges of untamed magic. Immediately after you cast a mage spell of 1st level or higher, roll a d20. If you roll a 1, consult the Surge Intensity table beneath and roll on the Unstable Surge table to create a random magical effect.
 
-The level of the spell slot that triggered the unstable surge determines the strength that the surge is capable of achieving, as shown on the table beneath. When you trigger an Unstable Surge, roll the dice shown for the spells level and consult the Unstable Surge table.
-
-##### Unstable Surge Intensity
+##### Surge Intensity
 |&nbsp; Spell level or Higher | Surge Die &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:----------------|:---:|
 |&nbsp;&nbsp;&nbsp; 1st level |  d8 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |&nbsp;&nbsp;&nbsp; 3rd level | d10 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |&nbsp;&nbsp;&nbsp; 5th level | d12 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |&nbsp;&nbsp;&nbsp; 7th level | d20 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+
+The level of the spell slot that triggered the unstable surge determines the strength that the surge is capable of achieving, as shown on the table beneath. When you trigger an Unstable Surge, roll the dice shown for the spells level and consult the Unstable Surge table.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
@@ -3006,7 +3007,7 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
 ### Study of Fire
 While any worthy mage is an unparalleled expert in the use of magic and heavily dedicated to their craft, those who master the forces of fire tend to be a little more audacious than their peers. These mages take pride, even pleasure in igniting their enemies in wild bursts of flame.
 
-#### Fire Savant
+#### Evocation Savant
 Beginning when you select this tradition at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.
 
 #### Combustion
@@ -3030,10 +3031,6 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 \pagebreakNum
 
-<br>
-
-\columnbreak
-
 #### Empowered Evocation
 Starting at 10th level, you can add your Intelligence modi-fier to damage rolls of any mage evocation spell you cast.
 
@@ -3043,26 +3040,32 @@ At 14th level, the blazing energy of your spells intensifies. When you roll dama
 ### Frost Magi
 Frost mages stand apart from their colleagues, in that their chosen school of magic focuses on maintaining supreme control over the capabilities of their enemies. Mages who command frost perform chilling displays on the battlefield, rendering foes immobile as they bombard them with ice.
 
-#### Frost Savant
+#### Conjuration Savant
 Beginning when you select this tradition at 2nd level, the gold and time you must spend to copy a conjuration spell into your spellbook is halved.
 
 #### Cold Snap
 Starting at 2nd level, whenever you hit a creature with a spell that deals cold damage, the target must succeed on a Constitution saving throw or have its speed reduced by 10 feet for 1 minute. In addition to any movement reduction the spell might have normally.
 
 #### Ice Barrier
-At 6th level, you can manifest ice around a creature to protective it from harm.
+At 6th level, you can manifest ice around a creature to protective it from harm, warping with the creature to not prevent movement.. As a bonus action, ice forms around a creature you can see within 60 feet of you. The creature gains resistance to bludgeoning, piercing, and slashing from nonmagical attacks for 1 minute, until you use this feature again, or until you are incapacitated.
 
-As a bonus action, you manifest ice around a creature you can see within 60 feet of you. The barrier manifests as a layer of ice across the creature, warping with its body as to not prevent movement. Any bludgeoning, piercing, and slashing damage the target takes is reduced by 2 + your mage level divided by 4. The barrier lasts for 1 minute, until you use this feature again, or until you are incapacitated.
+You can use this feature twice. You regain expended uses when you finish a long rest.
+
+\columnbreak
 
 #### Frigid Winds
 Starting at 10th level, you gain resistance to cold damage. In addition, whenever you cast a spell of 1st level or higher that deals cold damage, frigid winds surround you. This wind shivers creatures of your choice within 10 feet of you, making them lose their reaction until their next turn.
 
 This feature have no effect on creatures that are immune to cold damage.
 
-#### Companion of Ice
-At 14th level, you can conjure an elemental of snow and ice to your aid.
+#### Ice Familiar
+At 14th level, you learn the *find familiar* spell if you don't already know it, and you cast it without providing material components. The familiar you summon is made of ice, and have immunity to cold damage.
 
-As an action, you conjure a water elemental, as through a *conjure elemental* spell, its duration becomes 1 minute, and if your concentration is broken the elemental dissipates in its square rather than becoming hostile.
+As an action, you can transform the familiar into an ice elemental, as by the *conjure elemental* spell, its duration becomes 1 minute, and if you lose your concentration the elemental returns to being your familiar.
+
+You can use this feature even if you don't have a familiar summoned, conjuring an ice elemental in an empty square within 30 feet of you. Once the feature ends, the elemental transforms into your familiar.
+
+Your ice elemental uses the water elemental statistics with the following changes.
 <div style='margin-top:-5px;'></div>
 
  - It is immune to cold damage
@@ -3072,9 +3075,9 @@ As an action, you conjure a water elemental, as through a *conjure elemental* sp
 Once you use this feature, you can't use it again until you finish a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/F6dhtDS.jpg' style='position:absolute; top:0px; right:200px; width:850px' />
-<img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-90px; width:900px' />
-<img src='https://www.gmbinder.com/images/HMytr7R.png' style='position:absolute; top:1020px; right:-150px; width:900px;transform:rotate(-230deg)' />
+<img src='https://www.gmbinder.com/images/vuf6wAB.jpg' style='position:absolute; top:670px; right:-100px; width:1100px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-175px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/fZMAlU8.png' style='position:absolute; top:480px; right:65px; width:300px' />
 
 \pagebreakNum
 
