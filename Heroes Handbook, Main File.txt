@@ -3007,7 +3007,7 @@ The level of the spell slot that triggered the unstable surge determines the str
 |&nbsp; 09 || Creatures have disadvantage on saving throws against the new spell you cast in the next minute that involves a saving throw. |
 |&nbsp; 10 || Each creature within 30 feet of you becomes invisible for the next minute. The invisibility ends on a creature when it attacks or casts a spell. |
 |&nbsp; 11 || You cast *magic missile* as a 5th-level spell. |
-|&nbsp; 12 || You cast *polymorph on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration. |
+|&nbsp; 12 || You cast *polymorph* on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration. |
 |&nbsp; 13 || Up to three creatures you choose within 30 feet of you take 4d10 force damage. |
 |&nbsp; 14 || You gain resistance to all damage for the next minute. |
 |&nbsp; 15 || You cast *fireball* as a 3rd-level spell centered on yourself, the spell deals force damage instead. |
@@ -4279,7 +4279,7 @@ You focus your training on the grim art of death. Favoring stealth and vicious p
 <div style='margin-top:-5px;'></div>
 
 #### Assassin's Intuition
-When you choose this specialization at 3rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first turn of each combat deals additional damage equal to your Rogue level.
+When you choose this specialization at 3rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first round of each combat deals additional damage equal to your Rogue level.
 <div style='margin-top:-5px;'></div>
 
 #### Poisoned Knife
@@ -5072,18 +5072,19 @@ Starting at 1st level, you gain the ability to place a baleful curse on someone.
 You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
 #### Nether Ward
-At 6th level, you learn to magically ward yourself against attacks and to use an enemey's failed strike as an opening for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. Once you use this feature, you can't use it again until you finish a short or long rest.
+At 6th level, you learn to magically ward yourself against attacks and to use an enemey's failed strike as an opening for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. 
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 #### Unstable Affliction
 Upon reaching 10th level, when you deal damage to a crea-ture under the effects of your Curse of Agony, you can use your bonus action to attempt to afflict it. The target must succeed on a saving throw against the chosen affliction. 
 
 On a failed save, the creature gains the effects of the corruption until the end of your next turn.
  - ***Weakness (Strength Save).*** Weapon attacks deal half damage and Strength saving throws are made with disadvantage.
- - ***Graceless (Dexterity Save).*** Attack rolls and Dexterity saving throws are made with disadvantage.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/NXvX7mr.png' style='position:absolute; top:950px; right:400px; width:300px;transform:rotate(-20deg)' />
+<img src='https://www.gmbinder.com/images/NXvX7mr.png' style='position:absolute; top:980px; right:400px; width:300px;transform:rotate(-20deg)' />
 
 \pagebreakNum
 
@@ -5091,6 +5092,7 @@ On a failed save, the creature gains the effects of the corruption until the end
 
 \columnbreak
 
+ - ***Graceless (Dexterity Save).*** Attack rolls and Dexterity saving throws are made with disadvantage.
  - ***Illness (Constitution Save).*** The creature can't regain hit points and Constitution saving throws are made with disadvantage.
  - ***Stupidity (Intelligence Save).*** The creature must use its action to use their bonus action or movement.
  - ***Negligence (Wisdom Save).*** The creature uses its movement on its turn to move towards you by the most direct route possible.
