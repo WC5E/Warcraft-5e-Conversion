@@ -4742,7 +4742,7 @@ The totems radius increases by 5 feet at 5th level, (15 feet), 11th level (20 fe
 *Prerequisite: 13th level*
 <div style='margin-top:-6px'></div>
 
-While action, the totem summons gentle rain in a 20-foot radius around it. The area becomes difficult terrain and is considered lightly obscured.
+While active, the totem summons gentle rain in a 20-foot radius around it. The area becomes difficult terrain and is considered lightly obscured.
 
 The totems radius increases by 10 feet at 17th level.
 
@@ -4778,7 +4778,7 @@ The totem radius increases by 5 feet at 11th level (20 feet), and 17th level (25
 \columnbreak
 
 #### Resistance Totem
-While action, you can use your reaction when a creature within 10 feet of the totem is hit by an attack to reduce their damage taken by 1d6 (to a minimum of 1 damage). You can use this totem a number of times equal to your Wisdom modifier before it dissipates.
+While active, you can use your reaction when a creature within 10 feet of the totem is hit by an attack to reduce their damage taken by 1d6 (to a minimum of 1 damage). You can use this totem a number of times equal to your Wisdom modifier before it dissipates.
 
 The totems damage reduction increases by 1d6 at 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
@@ -4807,7 +4807,7 @@ The totem radius increases by 5 feet at 11th level (20 feet), and 17th level (25
 *Prerequisite: 5th level*
 <div style='margin-top:-6px'></div>
 
-While action, a creature that who targets you with an attack or harmful spell must first make a Wisdom saving throw against your spell save DC. On a failed save, the creature must pick a new target or lose the attack or spell. The totem is then destroyed. A creature is aware of the totem and its effect before making their attack or cast their spell.
+While active, a creature that who targets you with an attack or harmful spell must first make a Wisdom saving throw against your spell save DC. On a failed save, the creature must pick a new target or lose the attack or spell. The totem is then destroyed. A creature is aware of the totem and its effect before making their attack or cast their spell.
 
 The totem can be used an additional time before being destroyed at 5th level (2 uses), 11th level (3 uses), and 17th level (4 uses).
 
