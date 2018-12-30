@@ -4879,7 +4879,7 @@ They exploit powerful shadow and fel magic to manipu-late and degrade the minds 
 |Level|Proficiency<br>Bonus|Features|Cantrips<br>Known|&nbsp;| Spells<br>Known|&nbsp;|Spell<br>Slots|&nbsp;|Spell<br>Level|
 |:---:|:--:|:------------------------------------------------|:--:|:-|:--:|:-|:--:|:-|:--:|
 | 1st | +2 | Fel Study, Shadow Magic                                | 3 ||  2 || 1 || 1st |
-| 2nd | +2 | Life Drain                                             | 3 ||  3 || 2 || 1st |
+| 2nd | +2 | Life Tap                                               | 3 ||  3 || 2 || 1st |
 | 3rd | +2 | Shadow Embrace                                         | 3 ||  4 || 2 || 2nd |
 | 4th | +2 | Ability Score Improvement                              | 4 ||  5 || 2 || 2nd |
 | 5th | +3 | —                                                      | 4 ||  6 || 2 || 3rd |
@@ -5119,13 +5119,13 @@ Warlocks that study demonology harness the powers of the malefic demon beings of
 Demonology lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 ##### Demonology Expanded Spells
-| Spell Level | Spells                |
-|:---:|:------------------------------|
-| 1st | mind blast, sudden awakening  |
-| 2nd | find steed, suggestion        |
-| 3rd | animate dead, slow            |
-| 4th | charm monster, dominate beast |
-| 5th | hold monster, planar binding  |
+| Spell Level | Spells                 |
+|:---:|:-------------------------------|
+| 1st | charm person, sudden awakening |
+| 2nd | find steed, mind blast         |
+| 3rd | animate dead, slow             |
+| 4th | charm monster, dominate beast  |
+| 5th | hold monster, planar binding   |
 
 #### Fiendish Influence
 Starting at 1st level, you learn the *friends* cantrip, which counts as a warlock cantrip for you.
