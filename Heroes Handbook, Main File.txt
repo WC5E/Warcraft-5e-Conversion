@@ -2150,7 +2150,7 @@ While you are transformed, the following rules apply:
 
 \pagebreakNum
 
-<div style='margin-top:200px;'></div>
+<div style='margin-top:180px;'></div>
 
 ### Druid Paths
 At 2nd level, you choose to identify with a druidic path: Balance, Feral, Guardian, or Restoration, all detailed at the end of the class description. Your choice grants you featur-es at 2nd level and again at 6th, 10th, and 14th level.
@@ -2181,7 +2181,7 @@ Starting at 18th level, the primal magic that you wield has caused you to age mo
 
 \columnbreak
 
-<div style='margin-top:200px;'></div>
+<div style='margin-top:180px;'></div>
 
 ### Soul of the Forest
 At 20th level, your connection with nature has grown to an incredible level, deepening beasts respect for you, and mak-ing you able to conjure a gateway to the Emerald Dream.
