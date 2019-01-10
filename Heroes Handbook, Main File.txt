@@ -14,35 +14,13 @@
 
 ## Credits
 **Lead Designer:** Jih
-<br> **Writing & Editing:** Jih, Tangerine, Apollo
-<br> **Reddit Names:** Jihia, TangerineThunder, ApolloLumina
-<br><br> **Additional Contributors:** Prometheus, Reiga, Wyken,
+<br> **Writing & Editing:** Jih, Tangerine
+<br> **Reddit Names:** Jihia, TangerineThunder
 
-ClockWorkTank, 123jrf
-<br><br> **Cover Illusrator:** Robert Maldonado
-<br> **Interior Illustrators:** Anastasiya Gafron, Unidcolor, Jerry 
+<br> **Additional Contributors:** Prometheus, Reiga, Wyken, <br>&nbsp;&nbsp;&nbsp; ClockWorkTank, 123jrf, ApolloLumina
 
-Mascho, Rogier van de Beek, Tim Gou, Shanton Feng,
-
-Peter Lee, Shamanguli, Juhani Jokinen, Nagli, Jimmy Lo,
-
-Glenn Rane, Liuhao, Robin Olausson, Nosfer, Jorge 
-
-Jacinto, Brian Huang, Richard Suwono, PersonalAmi, 
-
-Bren Rodri, Krysdecker, James Ryman, Alex Garner,
-
-Nina Ikävalko, Shuzong, Howard Pak, Dan Scott, Jojo 
-
-So, Matthew McKeown, Astri Lohne, Jason Wang, Peet 
-
-Cooper, Wei Wang, Ryan Metcalf, Ina Wong, Tyson
-
-Murphy, Jerry Mascho, Aaron Lovett, Kristina
-
-Toxicpanda, Dariia Kasimova, Phillip Zhang, Artlon,
-
-Dmitry Vernygor, Syncmax
+<br> **Cover Illusrator:** Robert Maldonado
+<br> **Interior Illustrators:** Anastasiya Gafron, Unidcolor, Jerry <br>&nbsp;&nbsp;&nbsp; Mascho, Rogier van de Beek, Tim Gou, Shanton Feng, <br>&nbsp;&nbsp;&nbsp; Peter Lee, Shamanguli, Juhani Jokinen, Nagli, Jimmy Lo, <br>&nbsp;&nbsp;&nbsp; Glenn Rane, Liuhao, Robin Olausson, Nosfer, Jorge <br>&nbsp;&nbsp;&nbsp; Jacinto, Brian Huang, Richard Suwono, PersonalAmi, <br>&nbsp;&nbsp;&nbsp; Bren Rodri, Krysdecker, James Ryman, Alex Garner, <br>&nbsp;&nbsp;&nbsp; Nina Ikävalko, Shuzong, Howard Pak, Dan Scott, Jojo <br>&nbsp;&nbsp;&nbsp; So, Matthew McKeown, Astri Lohne, Jason Wang, Peet <br>&nbsp;&nbsp;&nbsp; Cooper, Wei Wang, Ryan Metcalf, Ina Wong, Tyson <br>&nbsp;&nbsp;&nbsp; Murphy, Jerry Mascho, Aaron Lovett, Phillip Zhang, <br>&nbsp;&nbsp;&nbsp; Kristina Toxicpanda, Dariia Kasimova, Artlon, Dmitry <br>&nbsp;&nbsp;&nbsp; Vernygor, Syncmax
 
 <br> **Based on the original D&D game created by** 
 <br>&nbsp;&nbsp;&nbsp; E. Gary Gygax and Dave Arneson, as well as <br>&nbsp;&nbsp;&nbsp; Brian Blume, Rob Kuntz, James Ward and Don Kaye.
@@ -80,13 +58,16 @@ With each coming update, all changes will be noted in the Changelog--Link is pro
 ### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A) &nbsp;&nbsp;&nbsp;&nbsp; [Race Balance](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
 </div>
 
-<br>
+<br> **Want to help grow a community?**
 
-**Want to help grow a community?**
+We're a relatively small group working together on this, <br>&nbsp;&nbsp;&nbsp; and as such our ability to playtest all of this is limited in <br>&nbsp;&nbsp;&nbsp; scope. If you want to help better this book, improve and <br>&nbsp;&nbsp;&nbsp; balance what's inside it, suggest changes, or talk with <br>&nbsp;&nbsp;&nbsp; others using this to create a Warcraft campaign. Then <br>&nbsp;&nbsp;&nbsp; head over to the [r/wc5e](https://old.reddit.com/r/wc5e/), a subreddit dedicated to this <br>&nbsp;&nbsp;&nbsp; handbook and project! <br>&nbsp;&nbsp;&nbsp; We also have a discord for that you can join if you want <br>&nbsp;&nbsp;&nbsp; to come talk with us and others using this handbook for <br>&nbsp;&nbsp;&nbsp; their campaigns!
 
-We're a relatively small group working together on this, <br>&nbsp;&nbsp;&nbsp; and as such our ability to playtest all of this is limited in <br>&nbsp;&nbsp;&nbsp; scope. If you want to help better this book, improve and <br>&nbsp;&nbsp;&nbsp; balance what's inside it, suggest changes, or talk with <br>&nbsp;&nbsp;&nbsp; others using this to create a Warcraft campaign. Then <br>&nbsp;&nbsp;&nbsp; feel free to head over to the [r/WC5e](https://old.reddit.com/r/wc5e/), a new subreddit <br>&nbsp;&nbsp;&nbsp; we're hoping to make the official subreddit for this book!
+<div style="text-align:Center"> 
 
-<div style='margin-top:100px'></div>
+### [Discord](https://discord.gg/dKMJmmD)
+</div>
+
+<div style='margin-top:70px'></div>
 <div class='wide'> 
 
 #### Legal Stuff
@@ -95,7 +76,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 </div>
 
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:655px; right:498px; width:150px' />
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:645px; right:498px; width:150px' />
 
 \pagebreakNum
 
