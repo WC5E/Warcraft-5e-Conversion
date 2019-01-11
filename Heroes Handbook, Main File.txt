@@ -189,6 +189,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 - ### [<span>141</span><span>Appendix D: World Map                           </span>](#p141)
 </div>
 
+<style> .phb#p3:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/KMN7Lk4.jpg' style='position:absolute; top:660px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-190px; right:0px; width:920px' />
 
@@ -200,7 +201,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 ##### Creating a Hero
 </div>
 
-<div class='footnote'>PART 1 | RACES </div>
+<style> .phb#p4:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/ddcte5p.jpg' style='position:absolute; top:0px; right:-980px; width:2800px' />
 
 \pagebreak
@@ -236,7 +237,7 @@ Culturally, orcs and tauren <br> believe in redemption more <br> than most other
 
 <div class='footnote'>PART 1 | RACES </div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/5ItC6WX.png' style='position:absolute; top:955px; right:600px; width:230px;transform:rotate(-40deg)' />
+<img src='https://www.gmbinder.com/images/5ItC6WX.png' style='position:absolute; top:955px; right:600px; width:230px;transform:rotate(-40deg);z-index:1000' />
 <img src='https://www.gmbinder.com/images/EK9lCTV.png' style='position:absolute; top:-40px; right:-47px; width:240px;transform:rotate(-25deg)' />
 <img src='https://www.gmbinder.com/images/Dqr1bzo.png' style='position:absolute; top:490px; right:-170px; width:430px;transform:scalex(-1)' />
 
@@ -294,9 +295,10 @@ Many races have subraces. Members of a subrace have the traits of the parent rac
 \pagebreakNum
 
 <div class='cover-header'> <div style='margin-top:50px;'></div> Races of the Alliance </div>
+<style> .phb#p7:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/c1ja74s.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 
-\pagebreakNum
+\pagebreak
 
 <div style="text-align:Center"> 
 
@@ -470,7 +472,7 @@ It's hard to make generalizations about humans, no matter where you were born yo
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/P3Zeoki.png' style='position:absolute; top:940px; right:-50px; width:550px;transform:rotate(-10deg)' />
+<img src='https://www.gmbinder.com/images/P3Zeoki.png' style='position:absolute; top:940px; right:-50px; width:550px;transform:rotate(-10deg);z-index:1000' />
 
 \pagebreakNum
 
@@ -902,10 +904,11 @@ As a human, you loose all worgen form traits. If you make an attack, cast a spel
 
 \pagebreakNum
 
+<style> .phb#p19:after { display:none; } </style>
 <div class='cover-header'> <div style='margin-top:50px;'></div> Races of the Horde </div>
 <img src='https://www.gmbinder.com/images/oo0t1rp.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 
-\pagebreakNum
+\pagebreak
 
 <div style="text-align:Center"> 
 
@@ -1544,10 +1547,11 @@ When you create a device, choose one of the following:
 
 \pagebreakNum
 
+<style> .phb#p31:after { display:none; } </style>
 <div class='cover-header'> <div style='margin-top:50px;'></div> Faction-Split Races </div>
 <img src='https://www.gmbinder.com/images/kkjaoG4.jpg' style='position:absolute; top:0px; right:-65px; width:900px' />
 
-\pagebreakNum
+\pagebreak
 
 <div style="text-align:Center"> 
 
@@ -1910,10 +1914,10 @@ Your pandaren character has certain traits deriving from their ancient heritage.
 
 \pagebreakNum
 
-<div class='footnote'>PART 1 | CLASSES</div>
+<style> .phb#p39:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/N3q1qJX.jpg' style='position:absolute; top:0px; right:-25px; width:850px' />
 
-\pagebreakNum
+\pagebreak
 
 # Chapter 2: Classes
 Heroes are extraordinary people, driven by a thirst for excitement into a life that others would never dare lead. They arc heroes, compelled to explore the dark places of Azeroth and take on the challenges that lesser women and men can't stand against.
@@ -2079,9 +2083,9 @@ Wisdom is your spellcasting ability for your druid spells, since your magic draw
 
 <div style="text-align: Center">
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+**Spell save DC** = 8 + your proficiency bonus + <br> your Wisdom modifier
 
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+**Spell attack modifier** = your proficiency bonus + <br> your Wisdom modifier
 </div>
 
 <div style='margin-top:-5px;'></div>
@@ -2345,7 +2349,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/QGRe8vc.png' style='position:absolute; top:1020px; right:400px; width:850px;transform:rotate(-25deg' />
+<img src='https://www.gmbinder.com/images/QGRe8vc.png' style='position:absolute; top:1020px; right:400px; width:850px;transform:rotate(-25deg)' />
 
 \pagebreakNum
 
@@ -2514,7 +2518,7 @@ Some of your focused attacks require your target to make a saving throw to resis
 
 <div style="text-align: Center">
 
-**Focus save DC** = 8 + your proficiency bonus + your Wisdom modifier 
+**Focus save DC** = 8 + your proficiency bonus + <br> your Wisdom modifier 
 </div>
 
 #### Focused Attacks
@@ -2825,9 +2829,9 @@ Intelligence is your spellcasting ability for your mage spells, since you learn 
 
 <div style="text-align: Center">
 
-**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+**Spell save DC** = 8 + your proficiency bonus + <br> your Intelligence modifier
 
-**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+**Spell attack modifier** = your proficiency bonus + <br> your Intelligence modifier
 </div>
 
 #### Ritual Casting
@@ -3193,7 +3197,7 @@ Some of your chi features require your target to make a saving throw to resist t
 
 <div style="text-align: Center">
 
-**Chi save DC** = 8 + your proficiency bonus + your Wisdom modifier
+**Chi save DC** = 8 + your proficiency bonus + <br> your Wisdom modifier
 </div>
 
 #### Fists of Fury
@@ -3508,9 +3512,9 @@ Charisma is your spellcasting ability for your paladin spells, since their power
 
 <div style="text-align: Center">
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+**Spell save DC** = 8 + your proficiency bonus + <br> your Charisma modifier
 
-**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+**Spell attack modifier** = your proficiency bonus + <br> your Charisma modifier
 </div>
 
 #### Spellcasting Focus
@@ -3843,9 +3847,9 @@ Wisdom is your spellcasting ability for your priest spells. The power of your sp
 
 <div style="text-align: Center">
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+**Spell save DC** = 8 + your proficiency bonus + <br> your Wisdom modifier
 
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+**Spell attack modifier** = your proficiency bonus + <br> your Wisdom modifier
 </div>
 
 #### Ritual Casting
@@ -4063,7 +4067,7 @@ Upon reaching 17th level, when you cast a necromancy spell of 1st through 5th-le
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/AqgsnIF.jpg' style='position:absolute; top:750px; right:80px; width:800px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/VxJ8X1u.png' style='position:absolute; top:0px; right:-200px; width:1030px;transform:rotate(180deg)' />
-<img src='https://www.gmbinder.com/images/873nzvm.png' style='position:absolute; top:970px; right:65px; width:300px' />
+<img src='https://www.gmbinder.com/images/873nzvm.png' style='position:absolute; top:970px; right:65px; width:300px;z-index:1000' />
 
 \pagebreakNum
 
@@ -4321,7 +4325,7 @@ Additionally, no matter what you say, magic that would determine if you are tell
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:820px; right:0px; width:250px;transform:rotate(-70deg)' />
+<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:820px; right:0px; width:250px;transform:rotate(-70deg);z-index:1000' />
 
 \pagebreakNum
 
@@ -4472,9 +4476,9 @@ Wisdom is your spellcasting ability for your shaman spells, since your power com
 
 <div style="text-align: Center">
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+**Spell save DC** = 8 + your proficiency bonus + <br> your Wisdom modifier
 
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+**Spell attack modifier** = your proficiency bonus + <br> your Wisdom modifier
 </div>
 
 #### Spellcasting Focus
@@ -4956,9 +4960,9 @@ Intelligence is your spellcasting ability for your warlock spells, so you use yo
 
 <div style="text-align: Center">
 
-**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+**Spell save DC** = 8 + your proficiency bonus + <br> your Intelligence modifier
 
-**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+**Spell attack modifier** = your proficiency bonus + <br> your Intelligence modifier
 </div>
 <div style='margin-top:-5px;'></div>
 
@@ -5072,7 +5076,7 @@ On a failed save, the creature gains the effects of the corruption until the end
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/NXvX7mr.png' style='position:absolute; top:980px; right:400px; width:300px;transform:rotate(-20deg)' />
+<img src='https://www.gmbinder.com/images/NXvX7mr.png' style='position:absolute; top:980px; right:400px; width:300px;transform:rotate(-20deg);z-index:1000' />
 
 \pagebreakNum
 
@@ -5321,7 +5325,7 @@ Some of your rage features require your target to make a saving throw to resist 
 
 <div style="text-align: Center">
 
-**Rage save DC** = 8 + your proficiency bonus + your Strength modifier 
+**Rage save DC** = 8 + your proficiency bonus + <br> your Strength modifier 
 </div>
 
 \columnbreak
@@ -5482,7 +5486,7 @@ At 18th level, at the start of each of your turns, you regain hit points equal t
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/yluzKKU.jpg' style='position:absolute; top:0px; right:200px; width:850px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-100px; width:900px' />
-<img src='https://www.gmbinder.com/images/lDb6MoU.png' style='position:absolute; top:920px; right:-127px; width:250px' />
+<img src='https://www.gmbinder.com/images/lDb6MoU.png' style='position:absolute; top:920px; right:-127px; width:250px;z-index:1000' />
 
 \pagebreakNum
 
@@ -5678,9 +5682,9 @@ Charisma is your spellcasting ability for your death knight spells, so you use y
 
 <div style="text-align: Center">
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+**Spell save DC** = 8 + your proficiency bonus + <br> your Charisma modifier
 
-**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+**Spell attack modifier** = your proficiency bonus + <br> your Charisma modifier
 </div>
 
 ### Presence
@@ -5974,7 +5978,7 @@ At its very core of becoming a demon hunter is the con-sumption of a demon's sou
 </div>
 
 ### Becoming a Demon Hunter
-As you choose to become a demon hunter, consider why you decided to undergo their deadly rituals. Were your family slaughtered by demons of the burning legion and you seek to avenge them? Did you strive for greater power through fel, and wished to control it? Were you full of rage and anger and wished to put it to use beyond raw strength? perhaps you went through their rituals unwillingly, and by a miracle survived the demons attempts to take control? Think of the demon hunters that put you through the rituals and did the rites on you, your relationship to them, are you angry at them for what they have done? pleased with their accomplishment?
+As you choose to become a demon hunter, consider why you decided to undergo their deadly rituals. Were your family slaughtered by demons of the Burning Legion and you seek to avenge them? Did you strive for greater power through fel, and wished to control it? Were you full of rage and anger and wished to put it to use beyond raw strength? perhaps you went through their rituals unwillingly, and by a miracle survived the demons attempts to take control? Think of the demon hunters that put you through the rituals and did the rites on you, your relationship to them, are you angry at them for what they have done? pleased with their accomplishment?
 
 Think about what affect the transformation has done on you, physically as well as mentally. All demon hunters who survive the transformation grows horns, varying for tiny studs to massive horns stretching the length of their head. Some demon hunters grow scales on parts of their body, claws on their hands, or have entire limbs misshapen into a crude limb of a demon being. No demon hunter goes through the rites unchanges, and no two hunters come out with the same mutations, the mutations vary as much as the demon soul which now lives within them. Consider what it has done to your personality. Many demon hunters gains a temper cause of the ferocity of the demon within them, or change personality entirely for better or worse. Think about how the demon bond to you is affected you, if it takes control of your judgement at times, or if you keep it in check at all times.
 
@@ -5998,7 +6002,7 @@ ___
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/ARDxiQB.jpg' style='position:absolute; top:0px; right:0px; width:1200px' />
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-170px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/MzuVWpF.png' style='position:absolute; top:840px; right:400px; width:220px;transform:rotate(100deg)' />
+<img src='https://www.gmbinder.com/images/MzuVWpF.png' style='position:absolute; top:840px; right:400px; width:220px;transform:rotate(100deg);z-index:1000' />
 
 \pagebreakNum
 
@@ -6057,7 +6061,7 @@ Some of your chaotic features require your target to make a saving throw to resi
 
 <div style="text-align: Center">
 
-**Chaos save DC** = 8 + your proficiency bonus + your Intelligence modifier
+**Chaos save DC** = 8 + your proficiency bonus + <br> your Intelligence modifier
 </div>
 
 #### Demon's Bite
@@ -6212,10 +6216,10 @@ You must then finish a long rest to use this feature again.
 
 \pagebreakNum
 
-<div class='footnote'>PART 1 | PERSONALITY & BACKGROUND</div>
+<style> .phb#p109:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/Pv000br.jpg' style='position:absolute; top:0px; right:-600px; width:2000px' />
 
-\pagebreakNum
+\pagebreak
 
 # Chapter 3: Personality & Background
 Characters are defined by much more than their race and class. They're individuals with their own stories, interests, connections, and capabi-lities beyond those that class and race define. This chapter expounds on the details that dis-tinguish characters from one another, including the basics of name and physical description, the rules of backgrounds and languages, and finer points <br> of personality and alignment.
@@ -6761,10 +6765,10 @@ As a member of a tribe, the community is what matters most, all have to work tog
 
 \pagebreakNum
 
-<div class='footnote'>PART 1 | EQUIPMENT</div>
+<style> .phb#p118:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/80Bnl9r.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 
-\pagebreakNum
+\pagebreak
 
 # Chapter 4: New Equipment
 The marketplace of a large city teems with buyers and sellers of many sorts:
@@ -7319,10 +7323,10 @@ Your hide toughens, improving your ability to shrug off attacks. You gain the fo
 ##### Magic
 </div>
 
-<div class='footnote'>PART 2 | MAGIC ON AZEROTH </div>
+<style> .phb#p127:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/Mpqbq5k.jpg' style='position:absolute; top:0px; right:-230px; width:1250px' />
 
-\pagebreakNum
+\pagebreak
 
 # Chapter 6: Spells
 This chapter describes the most common spells on Azeroth. The chapter begins with the spell lists of the spellcasting classes. The remainder contains spell descriptions, pre-sented in alphabetical order by the name of the spell.
@@ -8448,9 +8452,10 @@ You open a crack into the void, as a shimmering black knife strikes out from the
 
 \pagebreakNum
 
+<style> .phb#p134:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/f4ZZbj7.jpg' style='position:absolute; top:0px; right:-350px; width:2200px;transform:rotate(-10deg)' />
 
-\pagebreakNum
+\pagebreak
 
 <style>.phb hr+section blockquote { background: none; border: none; box-shadow: none; } </style>
 
@@ -8714,7 +8719,6 @@ ___
 > - **5th Level** The felhunter can make two bite attacks as an Action
 > - **7th Level** The felhunter can cast the *counterspell* spell at 3rd level once a day
 
-<div class='footnote'>APPENDIX B | DEMON COMPANIONS</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 <img src='https://www.gmbinder.com/images/3OR2SSS.jpg' style='position:absolute; top:820px; right:-80px; width:500px;mix-blend-mode:multiply' />
 
@@ -8880,12 +8884,12 @@ The majority of demon hunter takes years to master their new found powers, takin
 
 \pagebreakNum
 
-<style> .phb#p135:after { display:none; } </style>
+<style> .phb#p141:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/VV3bz4T.jpg' style='position:absolute; top:150px; right:-205px; width:1200px;transform:rotate(90deg)' />
 
 \pagebreak
 
-<style> .phb#p137:after { display:none; } </style>
+<style> .phb#p142:after { display:none; } </style>
 <div style='margin-top:20px;'></div>
 <div class='back-cover-header'>
  
