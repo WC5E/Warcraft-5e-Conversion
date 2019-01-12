@@ -8502,7 +8502,7 @@ This system can be applied to monsters that cast spells using spell slots, but i
 </div>
 
 ##### Mana by Level
-| Class Level  | Full Caster | Half-Caster | Max SpellLevel |
+| Class Level  | Full Caster | Half-Caster | Max Spell Level |
 |:----:|:--:|:-:|:-:|
 |  1st |   3 |  0 |1st|
 |  2nd |   6 |  2 |1st|
