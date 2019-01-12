@@ -162,31 +162,32 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 
 \columnbreak
 
-<div style='margin-top:21px;'></div>
+<div style='margin-top:25px;'></div>
 
- - ###
   - #### [<span>110</span><span>Chapter 3: Personality & Background          </span>](#p110)
      - [<span>110</span><span>Character Details                              </span>](#p110)
-     - [<span>113</span><span>Hero Points                                    </span>](#p113)
-     - [<span>114</span><span>New Backgrounds                                </span>](#p114)
-  - #### [<span>119</span><span>Chapter 4: New Equipment                     </span>](#p119)
-     - [<span>119</span><span>Starting Equipment                             </span>](#p119)
-     - [<span>119</span><span>Wealth                                         </span>](#p119)
-     - [<span>120</span><span>Shields                                        </span>](#p120)
-     - [<span>120</span><span>Racial Weapons                                 </span>](#p120)
-     - [<span>121</span><span>Firearms                                       </span>](#p121)
-  - #### [<span>122</span><span>Chapter 5: Customization Options             </span>](#p122)
-     - [<span>122</span><span>Multiclassing                                  </span>](#p122)
-     - [<span>124</span><span>New Feats                                      </span>](#p124)
-     - [<span>124</span><span> Racial Feats                                  </span>](#p124)
-- ### [<span>127</span><span>Part II: Magic                                  </span>](#p127)
-  - #### [<span>128</span><span>Chapter 6: Spells                            </span>](#p128)
-     - [<span>128</span><span>Spell Lists                                    </span>](#p128)
-     - [<span>131</span><span>Spell Descriptions                             </span>](#p131)
-- ### [<span>135</span><span>Appendix A: Shapeshifts                         </span>](#p135)
-- ### [<span>137</span><span>Appendix B: Demon Companions                    </span>](#p137)
-- ### [<span>139</span><span>Appendix C: Special Tasks                       </span>](#p139)
-- ### [<span>141</span><span>Appendix D: World Map                           </span>](#p141)
+     - [<span>113</span><span>New Backgrounds                                </span>](#p113)
+  - #### [<span>118</span><span>Chapter 4: New Equipment                     </span>](#p118)
+     - [<span>118</span><span>Starting Equipment                             </span>](#p118)
+     - [<span>118</span><span>Wealth                                         </span>](#p118)
+     - [<span>119</span><span>Shields                                        </span>](#p119)
+     - [<span>119</span><span>Racial Weapons                                 </span>](#p119)
+     - [<span>120</span><span>Firearms                                       </span>](#p120)
+  - #### [<span>121</span><span>Chapter 5: Customization Options             </span>](#p121)
+     - [<span>121</span><span>Multiclassing                                  </span>](#p121)
+     - [<span>123</span><span>New Feats                                      </span>](#p123)
+     - [<span>123</span><span> Racial Feats                                  </span>](#p123)
+- ### [<span>126</span><span>Part II: Magic                                  </span>](#p126)
+  - #### [<span>127</span><span>Chapter 6: Spells                            </span>](#p127)
+     - [<span>127</span><span>Spell Lists                                    </span>](#p127)
+     - [<span>130</span><span>Spell Descriptions                             </span>](#p130)
+- ### [<span>133</span><span>Part III: Variant Rules                         </span>](#p133)
+ - [<span>134</span><span>Hero Points                                        </span>](#p134)
+ - [<span>135</span><span>Mana                                               </span>](#p135)
+- ### [<span>137</span><span>Appendix A: Shapeshifts                         </span>](#p137)
+- ### [<span>139</span><span>Appendix B: Demon Companions                    </span>](#p139)
+- ### [<span>141</span><span>Appendix C: Special Tasks                       </span>](#p141)
+- ### [<span>143</span><span>Appendix D: World Map                           </span>](#p143)
 </div>
 
 <style> .phb#p3:after { display:none; } </style>
@@ -6427,69 +6428,6 @@ Finally, choose a flaw for your character. Your character's flaw represents some
 
 \pagebreakNum
 
-## Hero Points
-The actions of a hero often include acts of such a daring nature and chance that it is almost impossible to guarantee a sure outcome. Even though every hero confronts perils in the world of Warcraft, fate is on the side of those who face adversity head on and challenge evil and darkness without fear of death.
-
-A paladin who stands alone against a horde of undead while his companions heal a dying comrade, a rogue who leaps after a precious artifact dropped from a lofty tower balcony, a warrior who throws himself against a vastly superior opponent. . . These are the heroes whose actions inspire stories and legends.
-
-Hero points are rewards for that type of valiant action, these points allow a player to bend the fates in his character's favor, and such power requires more hands-on judgement from a DM than most other rules. Hero points blur the lines of action and allow characters to perform the exceptional and even the impossible.
-
-Hero Points are meant as an alternative to Dungeons & Dragons *Inspiration*, you can use either system, but they are not meant to be played on top of one another.
-
-### Gaining Hero Points
-The power given by hero points can be immense, your DM can choose to grant you a hero point for your heroic actions. Some adventurers might never earn a hero point, and even when characters does, there is no guarantee that the player will use it when the right time comes. Your DM will tell you how you can earn a hero point in the game.
-
-You either have a hero point or you don't, you can't stockpile multiple "hero points" for later use. Likewise, you cannot earn a hero point through an action that you spend a hero point on performing.
-
-### Using Hero Points
-If you have a hero point, you can expend it when you make an attack roll, cast a spell, saving throw, or when being attacked. Spending your hero point makes the check you were an immediate success.
-
-#### Action Surger
-You can expend your hero point to make the next turn yours, out of initiative order. Once you've finished the turn, the initiative goes back to normal, and you return to your place in the initiative count.
-
-#### Physical Fighter
-You can expend your hero point when rolling for a weapon attack, treating your attack roll as a successful hit. When done, the player chooses one of the following effects:
-
-**Powerful Blow.** Your weapon attack acts as a Massive Critical Hit, roll the attack's damage dice twice and add them together. Then add any relevant modifiers as normal, and add your character level to the damage.
-
-\columnbreak
-
-<br>&nbsp;&nbsp;&nbsp; **Mutilate.** Your weapon attack mutilates the target, deal-ing normal weapon damage, and attempts to cut off a limb (if any) of your choice. The creature must succeed on a Constitution saving throw against a DC of 12, or half the damage done. On a failed save, the creature gains one of the following mutilations.
-
- - ***Arm / Hand.*** You cut off the creatures arm, making it unable to hold two items at once, or cast spells while their remaining arm is carrying an object.
- - ***Leg / Foot.*** You cut off the creatures leg, reducing its movement speed by half, and giving opportunity attacks against it advantage. In addition, the creature can't dash.
- - ***Eye.*** You pierce out the creatures eye, giving it disadvan-tage on Perception checks, and reducing its passive Per-ception by 5. If both eyes are removed, or if the creature only has one, it is considered Blinded. This mutilation has no effect if the damage dealt is bludgeoning.
-
-#### Spell Fighter
-You can expend your hero point when you cast a spell, treating your spell attack as a successful hit. When done, the player chooses one of the following effects:
-
-**Power Surge.** Your spell attack acts as a Massive Critical Hit, roll the attack's damage dice twice and add them together. Then add any relevant modifiers as normal, and add your character level to the damage.
-
-**Precision Spell.** You can choose a number of creatures equal to your spellcasting ability modifier to automatically succeed and fail on a saving throw to resist or negate your spells effect.
-
-#### Defensive
-You can expend your hero point when you're being targeted by a spell or attack. When done, the player chooses one of the following effects:
-
-**Dodger.** One attack roll made against you that you can see automatically misses, no matter what was rolled.
-
-**Hardy.** You succeed on your saving throw, and gain the effects of rogues *evasion* until the end of the current turn.
-
-#### Survivor
-You can expend your hero point after failing a death saving throw, or when suffering from massive damage. Changing your health to 0 and making you stable.
-
-At the DM's discretion you may suffer some signature injury (A scar, lost eye, a limp, and so on) befitting the circumstances, as a reminder that hero points will not always be there to save you.
-
-#### Born Expert
-You can expend a hero point before or after rolling a skill check, changing the roll to a natural 20. Hero points can't be used to alter the result of skill checks using Intelligence, Wisdom, or Charisma.
-
-Hero points are meant as a burst of energy or force, they do not suddenly make someone more charismatic, or grant them knowledge of Dalarans vast library.
-
-<div class='footnote'>PART 1 | PERSONALITY & BACKGROUND</div>
-<img src='https://www.gmbinder.com/images/ZlVqlql.jpg' style='position:absolute; top:870px; right:0px; width:800px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-10px; right:0px; width:1000px' />
-
-\pagebreakNum
-
 ## New Backgrounds
 Every story has a beginning. Your character's background reveals where you came from, how you became an adventurer, and your place in the world. Your warrior might have been a courageous knight or a grizzled soldier. Your mage could have been a sage or an artisan. Your rogue might have gotten by as a guild thief or commanded audiences as a jester.
 
@@ -6765,7 +6703,7 @@ As a member of a tribe, the community is what matters most, all have to work tog
 
 \pagebreakNum
 
-<style> .phb#p118:after { display:none; } </style>
+<style> .phb#p117:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/80Bnl9r.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 
 \pagebreak
@@ -6825,7 +6763,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 |&nbsp; Platinum (pp) | 1000 | 100  | 20   | 10    | 1        |
 
 <div class='footnote'>PART 1 | NEW EQUIPMENT</div>
-<img src='https://www.gmbinder.com/images/gJg0VCn.jpg' style='position:absolute; top:550px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/gJg0VCn.jpg' style='position:absolute; top:555px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:950px' />
 
 \pagebreakNum
@@ -7323,7 +7261,7 @@ Your hide toughens, improving your ability to shrug off attacks. You gain the fo
 ##### Magic
 </div>
 
-<style> .phb#p127:after { display:none; } </style>
+<style> .phb#p126:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/Mpqbq5k.jpg' style='position:absolute; top:0px; right:-230px; width:1250px' />
 
 \pagebreak
@@ -8452,7 +8390,149 @@ You open a crack into the void, as a shimmering black knife strikes out from the
 
 \pagebreakNum
 
-<style> .phb#p134:after { display:none; } </style>
+<div class='partpage'>
+
+# Part III
+##### Variant Rules
+</div>
+
+<style> .phb#p133:after { display:none; } </style>
+<img src='https://www.gmbinder.com/images/X9qkkqr.jpg' style='position:absolute; top:0px; right:-460px; width:1700px' />
+
+\pagebreak
+
+# Variant Rule:  Hero Points
+A paladin who stands alone against a horde of undead while his companions heal a dying comrade, a rogue who leaps after a precious artifact dropped from a lofty tower balcony, a warrior who throws himself against a vastly superior opponent. . . These are the heroes whose actions inspire stories and legends.
+
+The actions of a hero often include acts of such a daring nature and chance that it is almost impossible to guarantee a sure outcome. Even though every hero confronts perils, fate is on the side of those who face adversity head on and challenge evil and darkness without fear of death.
+
+Instead of earning inspiration as you venture through the world of Warcraft, you can choose to give your players Hero Points for their daring acts against powerful foes.
+
+Hero points are rewards for that type of valiant action, these points allow a player to bend the fates in his character's favor, and such power requires more hands-on judgement from a DM than most other rules. Hero points blur the lines of action and allow characters to perform the exceptional and even the impossible.
+
+### Gaining Hero Points
+The power given by hero points can be immense, your DM can choose to grant you a hero point for your heroic actions. Some adventurers might never earn a hero point, and even when characters does, there is no guarantee that the player will use it when the right time comes. Your DM will tell you how you can earn a hero point in the game.
+
+You either have a hero point or you don't, you can't stockpile multiple "hero points" for later use. Likewise, you cannot earn a hero point through an action that you spend a hero point on performing.
+
+### Using Hero Points
+If you have a hero point, you can expend it when you make an attack roll, cast a spell, saving throw, or when being attacked. Spending your hero point makes the check you were an immediate success.
+
+#### Action Surger
+You can expend your hero point to make the next turn yours, out of initiative order. Once you've finished the turn, the initiative goes back to normal, and you return to your place in the initiative count.
+
+#### Physical Fighter
+You can expend your hero point when rolling for a weapon attack, treating your attack roll as a successful hit. When done, the player chooses one of the following effects:
+
+**Powerful Blow.** Your weapon attack acts as a Massive Critical Hit, roll the attack's damage dice twice and add them together. Then add any relevant modifiers as normal, and add your character level to the damage.
+
+\columnbreak
+
+&nbsp;&nbsp;&nbsp; **Mutilate.** Your weapon attack mutilates the target, deal-ing normal weapon damage, and attempts to cut off a limb (if any) of your choice. The creature must succeed on a Constitution saving throw against a DC of 12, or half the damage done. On a failed save, the creature gains one of the following mutilations.
+
+ - ***Arm / Hand.*** You cut off the creatures arm, making it unable to hold two items at once, or cast spells while their remaining arm is carrying an object.
+ - ***Leg / Foot.*** You cut off the creatures leg, reducing its movement speed by half, and giving opportunity attacks against it advantage. In addition, the creature can't dash.
+ - ***Eye.*** You pierce out the creatures eye, giving it disadvan-tage on Perception checks, and reducing its passive Per-ception by 5. If both eyes are removed, or if the creature only has one, it is considered Blinded. This mutilation has no effect if the damage dealt is bludgeoning.
+
+#### Spell Fighter
+You can expend your hero point when you cast a spell, treating your spell attack as a successful hit. When done, the player chooses one of the following effects:
+
+**Power Surge.** Your spell attack acts as a Massive Critical Hit, roll the attack's damage dice twice and add them together. Then add any relevant modifiers as normal, and add your character level to the damage.
+
+**Precision Spell.** You can choose a number of creatures equal to your spellcasting ability modifier to automatically succeed and fail on a saving throw to resist or negate your spells effect.
+
+#### Defensive
+You can expend your hero point when you're being targeted by a spell or attack. When done, the player chooses one of the following effects:
+
+**Dodger.** One attack roll made against you that you can see automatically misses, no matter what was rolled.
+
+**Hardy.** You succeed on your saving throw, and gain the effects of rogues *evasion* until the end of the current turn.
+
+#### Survivor
+You can expend your hero point after failing a death saving throw, or when suffering from massive damage. Changing your health to 0 and making you stable.
+
+At the DM's discretion you may suffer some signature injury (A scar, lost eye, a limp, and so on) befitting the circumstances, as a reminder that hero points will not always be there to save you.
+
+#### Born Expert
+You can expend a hero point before or after rolling a skill check, changing the roll to a natural 20. Hero points can't be used to alter the result of skill checks using Intelligence, Wisdom, or Charisma.
+
+Hero points are meant as a burst of energy or force, they do not suddenly make someone more charismatic, or grant them knowledge of Dalarans vast library.
+
+<div class='footnote'>PART 1 | PERSONALITY & BACKGROUND</div>
+<img src='https://www.gmbinder.com/images/ZlVqlql.jpg' style='position:absolute; top:920px; right:260px; width:600px' />
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:10px; right:0px; width:1000px;transform:rotate(10deg)' />
+<img src='https://www.gmbinder.com/images/VxJ8X1u.png' style='position:absolute; top:0px; right:0px; width:900px;transform:rotate(180deg)' />
+
+\pagebreakNum
+
+# Variant Rule: Mana
+
+With this variant rule, a character who has the Spellcasting feature uses mana instead of spell slots to fuel spells. Mana gives a caster more flexibility, at the cost of complexity.
+<br>&nbsp;&nbsp;&nbsp; In this variant, each spell has a mana cost based on its level. The Mana Cost table summarizes the cost in mana of slots from 1st to 9th level. Cantrips don't require spell slots and there-for don't require mana.
+
+Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of mana instead. You can expend a number of your mana to create a spell slot of a given level, and then use that slot to cast a spell. Your mana can't be reduce to less than 0, and you regain all spent mana when you finish a long rest.
+
+Spells of 6th level and higher are particularly straining to cast. You can use your mana to create one slot of each level of 6th or higher. You can't create another slot of the same level until you finish a long rest.
+
+The number of mana you have to spend is based on your level as a spellcaster, as shown in the Mana by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough mana to create a slot above this maximum, you can't do so.
+
+The Mana by Level table applies to druids, mages, pala-dins, priests and shaman. A druid (Feral or Guardian), and a paladin refer to the half-caster column of the table, whilst the remaining classes refer to the full caster column.
+
+This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking mana expenditures for a monster can be a hassle.
+
+\columnbreak
+
+##### Mana Cost
+<div style='column-count:2'>
+
+| Spell Level  | Mana Cost |
+|:---:|:-----------:|
+| 1st | 1 |
+| 2nd | 3 |
+| 3rd | 5 |
+| 4th | 7 |
+
+| Spell Level  | Mana Cost |
+|:---:|:-----------:|
+| 5th |  9 |
+| 6th | 11 |
+| 7th | 13 |
+| 8th | 15 |
+| 9th | 17 |
+</div>
+
+##### Mana by Level
+| Class Level  | Full Caster | Half-Caster | Max SpellLevel |
+|:----:|:--:|:-:|:-:|
+|  1st |   3 |  0 |1st|
+|  2nd |   6 |  2 |1st|
+|  3rd |   9 |  3 |2nd|
+|  4th |  12 |  4 |2nd|
+|  5th |  16 |  5 |3rd|
+|  6th |  20 |  7 |3rd|
+|  7th |  24 |  9 |4th|
+|  8th |  28 | 11 |4th|
+|  9th |  33 | 13 |5th|
+| 10th |  38 | 15 |5th|
+| 11th |  43 | 18 |6th|
+| 12th |  48 | 21 |6th|
+| 13th |  54 | 24 |7th|
+| 14th |  60 | 27 |7th|
+| 15th |  66 | 30 |8th|
+| 16th |  72 | 34 |8th|
+| 17th |  79 | 38 |9th|
+| 18th |  86 | 42 |9th|
+| 19th |  93 | 46 |9th|
+| 20th | 100 | 50 |9th|
+
+<div class='footnote'>PART 2 | SPELLS </div>
+<img src='https://www.gmbinder.com/images/yrSnqwW.jpg' style='position:absolute; top:770px; right:-50px; width:900px' />
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-70px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/fZMAlU8.png' style='position:absolute; top:550px; right:430px; width:300px' />
+
+\pagebreakNum
+
+<style> .phb#p136:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/f4ZZbj7.jpg' style='position:absolute; top:0px; right:-350px; width:2200px;transform:rotate(-10deg)' />
 
 \pagebreak
@@ -8884,12 +8964,12 @@ The majority of demon hunter takes years to master their new found powers, takin
 
 \pagebreakNum
 
-<style> .phb#p141:after { display:none; } </style>
+<style> .phb#p143:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/VV3bz4T.jpg' style='position:absolute; top:150px; right:-205px; width:1200px;transform:rotate(90deg)' />
 
 \pagebreak
 
-<style> .phb#p142:after { display:none; } </style>
+<style> .phb#p144:after { display:none; } </style>
 <div style='margin-top:20px;'></div>
 <div class='back-cover-header'>
  
