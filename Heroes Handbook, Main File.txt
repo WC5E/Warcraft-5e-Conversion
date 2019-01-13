@@ -184,6 +184,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 \columnbreak
 
 <div style='margin-top:-25px;'></div>
+
 - ### [<span>133</span><span>Part III: Variant Rules                         </span>](#p133)
  - [<span>134</span><span>Hero Points                                        </span>](#p134)
  - [<span>135</span><span>Mana                                               </span>](#p135)
