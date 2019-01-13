@@ -60,7 +60,7 @@ With each coming update, all changes will be noted in the Changelog--Link is pro
 
 <br> **Want to help grow a community?**
 
-We're a relatively small group working together on this, <br>&nbsp;&nbsp;&nbsp; and as such our ability to playtest all of this is limited in <br>&nbsp;&nbsp;&nbsp; scope. If you want to help better this book, improve and <br>&nbsp;&nbsp;&nbsp; balance what's inside it, suggest changes, or talk with <br>&nbsp;&nbsp;&nbsp; others using this to create a Warcraft campaign. Then <br>&nbsp;&nbsp;&nbsp; head over to the [r/wc5e](https://old.reddit.com/r/wc5e/), a subreddit dedicated to this <br>&nbsp;&nbsp;&nbsp; handbook and project! <br>&nbsp;&nbsp;&nbsp; We also have a discord for that you can join if you want <br>&nbsp;&nbsp;&nbsp; to come talk with us and others using this handbook for <br>&nbsp;&nbsp;&nbsp; their campaigns!
+We're a relatively small group working together on this, <br>&nbsp;&nbsp;&nbsp; and as such our ability to playtest all of this is limited in <br>&nbsp;&nbsp;&nbsp; scope. If you want to help better this book, improve and <br>&nbsp;&nbsp;&nbsp; balance what's inside it, suggest changes, or talk with <br>&nbsp;&nbsp;&nbsp; others using this to create a Warcraft campaign. Then <br>&nbsp;&nbsp;&nbsp; head over to the [r/wc5e](https://old.reddit.com/r/wc5e/), a subreddit dedicated to this <br>&nbsp;&nbsp;&nbsp; handbook and project! <br>&nbsp;&nbsp;&nbsp; We also have a discord that you can join if you want to <br>&nbsp;&nbsp;&nbsp; come talk with us and others using this handbook for <br>&nbsp;&nbsp;&nbsp; their campaigns!
 
 <div style="text-align:Center"> 
 
