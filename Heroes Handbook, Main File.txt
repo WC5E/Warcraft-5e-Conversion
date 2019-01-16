@@ -707,8 +707,7 @@ When you create a device, choose one of the following:
 
 \pagebreakNum
 
-<br>
-<div style='margin-top:435px'></div>
+<div style='margin-top:495px'></div>
 
 ## Draenei
 *In moments of great strife, I gaze into the heavens and see just how far we have already come.*
@@ -716,7 +715,6 @@ When you create a device, choose one of the following:
 
 *— Prophet Velen* &nbsp;</div>
 
-### Introduction
 Thousands of years ago, the titan Sargeras shattered the tranquility of Argus by offering the eredar immeasurable knowledge and power. The eredar were a knowledge-seeking race and accepted his offer. He bathed them in his fel might, turning them into demonic beings of the burning legion called Man'ari. The prophet Velen got a troubling vision of what his race would become, and fled Argus with his followers by the help of the divine Naaru, who renamed them draenei, or "Exiled Ones" in the common tongue.
 
 The draenei refer to their corrupted brethren as man'ari, meaning "Unnatural Being". Although both originate from the eredar race, neither the draenei or man'ari consider themselves eredars anymore.
@@ -758,14 +756,14 @@ Nerii, Asara, Velbus, Fuma, Oren, Suhe, Vumo
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/zjpuVPM.jpg' style='position:absolute; top:0px; right:0px; width:1100px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-330px; right:-40px; width:1200px;transform:rotate(335deg)' />
-<img src='https://www.gmbinder.com/images/m97J1Oq.png' style='position:absolute; top:20px; right:380px; width:400px' />
+<img src='https://www.gmbinder.com/images/m97J1Oq.png' style='position:absolute; top:20px; right:370px; width:450px' />
 
 \pagebreakNum
  
 ### Draenei Traits
 Draenei share certain racial traits given to them upon their renewal by the naaru.
  
-***Ability Score Increase.*** Your Wisdom score increases by 1, and your Strength score increases by 1.
+***Ability Score Increase.*** Your Wisdom increases by 2.
  
 ***Age.*** Draenei mature slightly slower than humans, reaching adulthood in their early 20's, and can live to extraordinary age, become thousands of years old, often exceeding the ancient ages of night elves.
  
@@ -792,10 +790,12 @@ As a broken draenei, you were left on Draenor as the legion invaded, your connec
 
 \columnbreak
 
+<br>
+
 #### Exodar Draenei
 As an exodar draenei, you have a natural connection with the Naaru, strengthening your bond to the light. You've fled your planet of Argus from the Burning Legions crusade, forced into exile, for centuries you fled its legions before crash landing on the planet of Azeroth in the Exodar.
 
-***Ability Score Increase.*** Your Intelligence increases by 1.
+***Ability Score Increase.*** Your Strength increases by 1.
  
 ***Gemcutting.*** You are proficient with the jeweler's tools.
  
@@ -817,7 +817,7 @@ As a lightforged draenei, you've commited yourself to a crusade against the burn
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/AlOBLkD.jpg' style='position:absolute; top:700px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-130px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/51yF5of.png' style='position:absolute; top:590px; right:50px; width:340px' />
+<img src='https://www.gmbinder.com/images/51yF5of.png' style='position:absolute; top:620px; right:50px; width:340px' />
 
 \pagebreakNum
 
