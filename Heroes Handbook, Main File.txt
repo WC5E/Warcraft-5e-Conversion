@@ -178,19 +178,19 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 - ### [<span>130</span><span>Part II: Magic                                  </span>](#p130)
   - #### [<span>131</span><span>Chapter 6: Spells                            </span>](#p131)
      - [<span>131</span><span>Spell Lists                                    </span>](#p131)
-     - [<span>130</span><span>Spell Descriptions                             </span>](#p130)
+     - [<span>134</span><span>Spell Descriptions                             </span>](#p134)
 
 \columnbreak
 
 <div style='margin-top:-25px;'></div>
 
-- ### [<span>133</span><span>Part III: Variant Rules                         </span>](#p133)
- - [<span>134</span><span>Hero Points                                        </span>](#p134)
- - [<span>135</span><span>Mana                                               </span>](#p135)
-- ### [<span>137</span><span>Appendix A: Shapeshifts                         </span>](#p137)
-- ### [<span>139</span><span>Appendix B: Demon Companions                    </span>](#p139)
-- ### [<span>141</span><span>Appendix C: Special Tasks                       </span>](#p141)
-- ### [<span>143</span><span>Appendix D: World Map                           </span>](#p143)
+- ### [<span>142</span><span>Part III: Variant Rules                         </span>](#p142)
+ - [<span>143</span><span>Hero Points                                        </span>](#p143)
+ - [<span>144</span><span>Mana                                               </span>](#p144)
+- ### [<span>146</span><span>Appendix A: Shapeshifts                         </span>](#p146)
+- ### [<span>148</span><span>Appendix B: Demon Companions                    </span>](#p148)
+- ### [<span>150</span><span>Appendix C: Special Tasks                       </span>](#p150)
+- ### [<span>152</span><span>Appendix D: World Map                           </span>](#p152)
 </div>
 
 <style> .phb#p3:after { display:none; } </style>
@@ -1012,7 +1012,7 @@ As a human, you loose all worgen form traits. If you make an attack, cast a spel
 
 \pagebreakNum
 
-<style> .phb#p19:after { display:none; } </style>
+<style> .phb#p23:after { display:none; } </style>
 <div class='cover-header'> <div style='margin-top:50px;'></div> Races of the Horde </div>
 <img src='https://www.gmbinder.com/images/oo0t1rp.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 
@@ -1761,7 +1761,7 @@ When you create a device, choose one of the following:
 
 \pagebreakNum
 
-<style> .phb#p31:after { display:none; } </style>
+<style> .phb#p39:after { display:none; } </style>
 <div class='cover-header'> <div style='margin-top:50px;'></div> Independent Races </div>
 <img src='https://www.gmbinder.com/images/kkjaoG4.jpg' style='position:absolute; top:0px; right:-65px; width:900px' />
 
@@ -1888,7 +1888,7 @@ Your pandaren character has certain traits deriving from their ancient heritage.
 
 \pagebreakNum
 
-<style> .phb#p39:after { display:none; } </style>
+<style> .phb#p43:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/N3q1qJX.jpg' style='position:absolute; top:0px; right:-25px; width:850px' />
 
 \pagebreak
@@ -6190,7 +6190,7 @@ You must then finish a long rest to use this feature again.
 
 \pagebreakNum
 
-<style> .phb#p109:after { display:none; } </style>
+<style> .phb#p113:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/Pv000br.jpg' style='position:absolute; top:0px; right:-600px; width:2000px' />
 
 \pagebreak
@@ -6676,7 +6676,7 @@ As a member of a tribe, the community is what matters most, all have to work tog
 
 \pagebreakNum
 
-<style> .phb#p117:after { display:none; } </style>
+<style> .phb#p121:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/80Bnl9r.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 
 \pagebreak
@@ -7234,7 +7234,7 @@ Your hide toughens, improving your ability to shrug off attacks. You gain the fo
 ##### Magic
 </div>
 
-<style> .phb#p126:after { display:none; } </style>
+<style> .phb#p130:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/Mpqbq5k.jpg' style='position:absolute; top:0px; right:-230px; width:1250px' />
 
 \pagebreak
@@ -8861,7 +8861,7 @@ You open a crack into the void, as a shimmering black knife strikes out from the
 ##### Variant Rules
 </div>
 
-<style> .phb#p138:after { display:none; } </style>
+<style> .phb#p142:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/X9qkkqr.jpg' style='position:absolute; top:0px; right:-460px; width:1700px' />
 
 \pagebreak
@@ -8997,7 +8997,7 @@ This system can be applied to monsters that cast spells using spell slots, but i
 
 \pagebreakNum
 
-<style> .phb#p141:after { display:none; } </style>
+<style> .phb#p145:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/f4ZZbj7.jpg' style='position:absolute; top:0px; right:-350px; width:2200px;transform:rotate(-10deg)' />
 
 \pagebreak
@@ -9429,12 +9429,12 @@ The majority of demon hunter takes years to master their new found powers, takin
 
 \pagebreakNum
 
-<style> .phb#p148:after { display:none; } </style>
+<style> .phb#p152:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/VV3bz4T.jpg' style='position:absolute; top:150px; right:-205px; width:1200px;transform:rotate(90deg)' />
 
 \pagebreak
 
-<style> .phb#p149:after { display:none; } </style>
+<style> .phb#p153:after { display:none; } </style>
 <div style='margin-top:20px;'></div>
 <div class='back-cover-header'>
  
