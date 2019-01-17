@@ -1,9 +1,10 @@
 <style> .phb{width : 210mm;height : 296.8mm;} .phb:after {content: "";} </style>
-<style> .phb#p1:after { display:none; } </style>
+<style> .phb blockquote { margin-top: 1em; } </style>
 
 <div class='cover-header'> <div style='margin-top:115px;'></div> Heroes Handbook </div>
 <div class='cover-splotch'></div>
 
+<style> .phb#p1:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/IlfdPbF.jpg' style='position:absolute; top:0px; right:-100px; width:1000px' />
 <img src='https://www.gmbinder.com/images/3d9m32D.png' style='position:absolute; top:1000px; right:675px; width:100px' />
 <img src='https://www.gmbinder.com/images/KXbAfyN.png' style='position:absolute; top:980px; right:56px; width:700px' />
@@ -2164,8 +2165,6 @@ While you are transformed, the following rules apply:
 - You retain the benefit of any features from your class, race, or other source and can use them if the shapeshift is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 - You choose whether your equipment falls to the ground in your space, or merges into your new form. Merged equipment has no effect until you leave the shape.
 
-<br>
-
 > ##### Druidic Forms
 > Shapeshifts are an extension of the druid. Both as a person, but also as a race, a taurens shape-shift might grow horns similar to his own. An orc or troll might want their forms to have tusks, and a night elf might decorate theirs with signs of elune. Likewise, their beast might be different, one may choose a slim panther, and another a strong lion, or another feline beast.
 >
@@ -2879,8 +2878,6 @@ Intelligence is your spellcasting ability for your mage spells, since you learn 
 You can cast a mage spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 
 \columnbreak
-
-<br>
 
 > ##### Your Spellbook
 > The spells that you add to your spellbook as you gain levels reflect the arcane research you con-duct on your own, as well as intellectual break-throughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell re-corded on a scroll in an evil sorcerer's chest, for example, or in a dusty tome in an ancient library.
@@ -6265,6 +6262,8 @@ You must then finish a long rest to use this feature again.
 # Chapter 3: Personality & Background
 Characters are defined by much more than their race and class. They're individuals with their own stories, interests, connections, and capabi-lities beyond those that class and race define. This chapter expounds on the details that dis-tinguish characters from one another, including the basics of name and physical description, the rules of backgrounds and languages, and finer points <br> of personality and alignment.
 
+<div style='margin-top:-5px;'></div>
+
 ## Character Details
 Your character's name and physical description might be the first things that the other players at the table learn about you It's worth thinking about how these characteris-tics reflect the character you have in mind.
 
@@ -6275,8 +6274,6 @@ Your character's race description includes sample names for members of that race
 You can play a male or female character without gaining any special benefits or hindrances. Think about how your character does or does not conform to the broader culture's expectations of sex, gender, and sexual behavior. As an ex-ample, a male night elf priest defies the traditional gender divisions of blood elf society, which could be a reason for your character to leave that society and venture on Azeroth.
 
 You don't need to be confined to binary notions of sex and gender. You could play a female presenting herself as a man, a man feeling trapped in a female body, or a bearded female dwarf who hates being mistaken for a male. Your character's sexual orientation is for you to decide.
-
-<div style='margin-top:15px;'></div>
 
 > ##### Contrasting Characters
 > The details in this chapter make a big difference in setting your character apart from every other character. Consider the following two human fighters.
@@ -6376,8 +6373,6 @@ The evil who created other races, though, made those races to serve them. Those 
 Alignment is an essential part of the nature of celestials and fiends. A eredar does not choose to be lawful evil, and it doesn't tend toward lawful evil, but rather it is lawful evil in its essence. If it somehow ceased to be lawful evil, it would cease to be a eredar.
 
 Most creatures that lack the capacity for rational thought do not have alignments, they are **unaligned.** Such a crea-ture is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, but they are not evil; they have no alignment.
-
-<br>
 
 > ##### Cayla and Endrik: Alignment
 > Cayla Davenport is neutral good, fundamentally good-hearted and striving to help others where she can. Endrik is lawful evil, unconcerned with the value of sentient life but at least professional in his approach to murder.
@@ -9486,6 +9481,8 @@ If the player survives, they will eventually be pulled out of their coma, and wa
 
 The majority of demon hunter takes years to master their new found powers, taking time to adjust to their new way of life, and the constant influence of the demon within them. While the demon is trapped and unable to take control, its presence will forever be there and be felt by the hunter, always attempting to entice the hunter to join the Burning Legion, an offer many hunters have taken up, only to meet a fate worse than theirs.
 
+<div style='margin-top:-2px;'></div>
+
 > ### A DM Note
 > This is but my interpretation of how a player would become a demon hunter, and are meant more as a guideline than rules. You can change them, remove or add more as you please.
 >
@@ -9501,7 +9498,6 @@ The majority of demon hunter takes years to master their new found powers, takin
 
 \pagebreak
 
-<style> .phb#p153:after { display:none; } </style>
 <div style='margin-top:20px;'></div>
 <div class='back-cover-header'>
  
@@ -9510,9 +9506,9 @@ Thanks for Reading
  
 <div class='back-cover-text'>
 
-I've had a love for the Warcraft franchise since I was young, and have followed it closely for years at this point. Wasn't long after I got into D&D that I thought to myself that playing D&D in the Warcraft universe would be a blast.
+This has been a project made by a group of people who have loved the Warcraft franchise for many years at this point, and wanted to bring it into Dungeons and Dragons for everyone to enjoy.
 
-This has been a blast to make, I thoroughly enjoyed it and I hope it brings enjoyment to many D&D tables across the world. Best of luck to all the parties of human and orc, try not to chop each other too much up ;)
+This has been a blast for us to make, and we thoroughly enjoy making it and improving upon it. We hope this will bring joy to many D&D tables around the world. Best of luck to all the parties of humans and orcs, try not to chop each other up too much <3
 </div>
  
 <div class='back-cover-diamond' style='top: 679px;'></div>
@@ -9525,5 +9521,6 @@ Did you know this was all made using GmBinder? I can't stretch enough how fantas
 </div>
 <div class='back-cover-logo'></div>
 
+<style> .phb#p153:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/tOOncAE.jpg' style='position:absolute; top:0px; right:-400px; width:900px' />
 <img src='https://www.gmbinder.com/images/x83va2I.png' style='position:absolute; top:0px; right:-100px; width:900px' />
