@@ -8391,7 +8391,7 @@ Necrotic energy grasps around a Huge or smaller creature within range. Make an a
 *2nd-level transmutation*
 ___
 - **Casting Time:** 1 action
-- **Range:** Self
+- **Range:** Touch
 - **Components:** V, S, M (dried skin of a demon or fiend)
 - **Duration:** 1 hour
 ___
