@@ -189,14 +189,15 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
  - [<span>143</span><span>Hero Points                                        </span>](#p143)
  - [<span>144</span><span>Mana                                               </span>](#p144)
 - ### [<span>146</span><span>Appendix A: Shapeshifts                         </span>](#p146)
-- ### [<span>148</span><span>Appendix B: Demon Companions                    </span>](#p148)
-- ### [<span>150</span><span>Appendix C: Special Tasks                       </span>](#p150)
-- ### [<span>152</span><span>Appendix D: World Map                           </span>](#p152)
+- ### [<span>148</span><span>Appendix B: Shaman Spirits                      </span>](#p148)
+- ### [<span>148</span><span>Appendix C: Demon Companions                    </span>](#p148)
+- ### [<span>150</span><span>Appendix D: Special Tasks                       </span>](#p150)
+- ### [<span>152</span><span>Appendix E: World Map                           </span>](#p152)
 </div>
 
 <style> .phb#p3:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/XJrqmye.png' style='position:absolute; top:280px; right:-750px; width:1450px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/XJrqmye.png' style='position:absolute; top:290px; right:-750px; width:1450px;transform:scalex(-1)' />
 
 \pagebreakNum
 
@@ -5044,7 +5045,7 @@ As an action, you can expend soul shards within 5 feet of you to use one of the 
 \pagebreakNum
 
 #### Embrace of the Twisting Nether
-You learn to summon and bind a demon from the twisting nether to serve as your companion. With 1 hour of work and the expenditure of 50 gp worth of charcoal and herbs, you summon your choice of an **imp, voidwalker, succubus** or **felhunter**, each of which are described in Appendix B at the end of the book. 
+You learn to summon and bind a demon from the twisting nether to serve as your companion. With 1 hour of work and the expenditure of 50 gp worth of charcoal and herbs, you summon your choice of an **imp, voidwalker, succubus** or **felhunter**, each of which are described in Appendix C at the end of the book. 
 
 Your demon gains all the benefits of your Demon Servant ability. You can only have one demon summoned at a time.
 
@@ -5162,7 +5163,7 @@ Additionally, fiends have difficulty harming you. If a fiend targets you directl
 \pagebreakNum
 
 #### Wild Imps
-Upon reaching 6th level, your spells are able of open rifts into the twisting nether to bring forth wild imps. Each time you roll a 20 on the d20 roll for a spell attack, or deal the killing blow to a creature of significant threat (DM's discre-tion). You summon an imp in an unoccupied square within 30 feet of you. A statblock can be found in Appendix B.
+Upon reaching 6th level, your spells are able of open rifts into the twisting nether to bring forth wild imps. Each time you roll a 20 on the d20 roll for a spell attack, or deal the killing blow to a creature of significant threat (DM's discre-tion). You summon an imp in an unoccupied square within 30 feet of you. A statblock can be found in Appendix C.
 
 A summoned imp obeys your commands as best it can. It rolls initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are inca-pacitated or absent, the imp acts on its own.
 
@@ -5531,7 +5532,7 @@ At 18th level, at the start of each of your turns, you regain hit points equal t
 # Prestige Classes
 Prestige classes offer players a way to delve into uniqie class options, classes that are not so easily taught or learnt. The Death Knight requires the aid of the powerful Val'kyr, and a personal sacrifice to be made, a sacrifice of blood, and the Demon Hunter, Illidan's elite soldiers, requires more than a simple blood sacrifice, it requires cunning actions to be taken, personal scars to be made that will last the characters life.
 
-Both classes are powerful in their own ways, and both will grant the individual features unique to them. They each require the player to complete special tasks, a brief description of the tasks are presented in the class Prerequisites. For a more indepth look of what must be done, see Appendix B at the end of this book.
+Both classes are powerful in their own ways, and both will grant the individual features unique to them. They each require the player to complete special tasks, a brief description of the tasks are presented in the class Prerequisites. For a more indepth look of what must be done, see Appendix D at the end of this book.
 
 ### Joining a Prestige Class
 In order to join a prestige class, you must first check with your Dungeon Master. A DM can opt to include or disallow prestige classes in their game. Prestige classes require you to undertake specific actions in the game so that your character can begin pursuing that class. If those actions aren't alreaady possible in your campaign, talk to your DM about integrating the prestige class that interests you.
@@ -5656,7 +5657,7 @@ In order to undergo the transformation required to advance as a death knight, yo
  - **Charisma 13.** Imbued with magic they need to be able to wield the magic within them into spells.
  - **Proficiency in Heavy Armor or Martial Weapons.** Death knights learn much through their training, but some skills has to be known beforehand.
  - **Character Level 5th.** Death knights are made out of the corpses of adventurers, imbued with magic, a simple process but straining for the imbuer, as such you must be a 5th-level character before you can gain levels in the death knight prestige class.
- - **Complete a Special Task.** To become a death knight you must find the dark simulacrum and perform the ritual presented in it. At which point you will be reawaken as a weak death knight. See Appendix C for an indepth of the special task and the dark simulacrum.
+ - **Complete a Special Task.** To become a death knight you must find the dark simulacrum and perform the ritual presented in it. At which point you will be reawaken as a weak death knight. See Appendix D for an indepth of the special task and the dark simulacrum.
 
 ## Class Features
 As a death knight, you gain the following class features.
@@ -6027,7 +6028,7 @@ In order to undergo the transformation required to advance as a demon hunter, yo
  - **Dexterity 13.** Demon Hunters need to be swift and acrobatic to out maneuver their foes.
  - **Intelligence 13.** Bonding with a demon requires a strong mind to overcome the mental strain.
  - **Character Level 5th.** Demon hunters are exposed to deadly amounts of fel energy when created, killing most who attempt the transformation, as such you must be a 5th-level character before you can gain levels in the demon hunter prestige class.
- - **Complete a Special Task.** You must find one or more demon hunters willing to lead you through the array of complex rituals required to become a demon hunter. See Appendix C for an indepth of the special task.
+ - **Complete a Special Task.** You must find one or more demon hunters willing to lead you through the array of complex rituals required to become a demon hunter. See Appendix D for an indepth of the special task.
 
 ## Class Features
 As a demon hunter, you gain the following class features.
@@ -9163,12 +9164,14 @@ ___
 
 \pagebreakNum
 
-# Ghost Form
+# Appendix B: <br>Shaman spirits
 Shamans bond with spirit animals and are granted their favor, making them able to assume the form of their spirit animal at will through the aid of the spirits of the wild. Whilst druids are able to take the complete shape of certain animals, shifting into various beasts, the strain upon a shamans ghost form lies much deeper within. As a result the shape they take appears as an incorporeal transparent shape in the material world.
 
 Most shamans choose one spirit animal, and sticks with that spirit animal throughout their life. Orcs and trolls commonly go for a dire wolf, a shape well known to both, known for its ferocity and speed. Whilst a dwarf might choose a bear, a steadfast companion by many of the dwarven kin. Think about your spirit animal, why and if it fits your character, a shamans spirit animal is in many ways an extension of who they are, reflecting their personality. The only limitation given upon a spirit animal is that it cannot have a swim, or fly speed. 
 
 Shamans ghost form is limited, as so it has a specific set of statistics no matter which animal you choose, as shown in the Ghost Form class feature.
+
+<div style='margin-top:-20px;'></div>
 
 ___
 > ## Spirit Beast
@@ -9198,13 +9201,13 @@ ___
 >
 > ***Incorporeal Movement.*** The beast can move through other creatures and objects as if they were difficult terrain. It vanishes if it ends its turn inside an object.
 
-<div class='footnote'>APPENDIX A | SHAPESHIFTS</div>
+<div class='footnote'>APPENDIX B | SHAMAN SPIRITS</div>
 <img src='https://www.gmbinder.com/images/Z7nJ0wt.jpg' style='position:absolute; top:0px; right:-350px; width:1000px' />
 <img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
-# Appendix B: Demon Companions
+# Appendix C: Demon Companions
 
 ___
 > ## Imp
@@ -9329,7 +9332,7 @@ ___
 > - **5th Level** The succubus can cast the *invisibility* spell once a day
 > - **7th Level** The succubus gains an additional use of Seduction per day
 
-<div class='footnote'>APPENDIX B | DEMON COMPANIONS</div>
+<div class='footnote'>APPENDIX C | DEMON COMPANIONS</div>
 <img src='https://www.gmbinder.com/images/FrtoCAD.jpg' style='position:absolute; top:0px; right:200px; width:800px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-100px; width:900px' />
 
