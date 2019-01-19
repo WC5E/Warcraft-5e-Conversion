@@ -7992,7 +7992,7 @@ Commune with Nature
 <br> Conjure Elemental
 <br> Control Winds
 <br> Greater Restoration
-<br> ✦ Healing
+<br> ✦ Healing Rain
 <br> Legend Lore
 <br> Maelstrom
 <br> Mass Cure Wounds
