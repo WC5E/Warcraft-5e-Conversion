@@ -8001,37 +8001,6 @@ Commune with Nature
 <br> Steel Wind Strike
 <br> Wall of Stone
 
-Wall of Water
-<br> Water Breathing
-<br> Water Walk
-<br> Wind Wall
-
-##### 4th Level
-Conjure Minor Elementals
-<br> Control Water
-<br> Elemental Bane
-<br> Freedom of Movement
-<br> Locate Creature
-<br> Polymorph
-<br> Stone Shape
-<br> Stoneskin
-<br> Storm Sphere
-<br> Watery Sphere
-
-##### 5th Level
-Commune with Nature
-<br> Conjure Elemental
-<br> Control Winds
-<br> Greater Restoration
-<br> ✦ Healing
-<br> Legend Lore
-<br> Maelstrom
-<br> Mass Cure Wounds
-<br> Reincarnate
-<br> Scrying
-<br> Steel Wind Strike
-<br> Wall of Stone
-
 ##### 6th Level
 Bones of the Earth
 <br> Chain Lightning
@@ -8039,10 +8008,7 @@ Bones of the Earth
 <br> Investiture of Stone
 <br> Investiture of Wind
 <br> Move Earth
-
-\columnbreak
-
-Primordial Ward
+<br> Primordial Ward
 <br> Tenser's Transformation
 <br> Wind Walk
 
@@ -8063,6 +8029,8 @@ Foresight
 <br> Imprisonment
 <br> Storm of Vengeance
 <br> True Resurrection
+
+\columnbreak
 
 ### Warlock Spells
 ##### Cantrips (0 Level)
@@ -8108,14 +8076,6 @@ Cloud of Daggers
 <br> Scorching Ray
 <br> Shadow Blade
 <br> ✦ Soulwell
-</div>
-
-<div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
-
-<div style='column-count:2'>
 
 ##### 3rd Level
 Bestow Curse
@@ -8138,7 +8098,16 @@ Arcane Eye
 <br> Banishment
 <br> Charm Monster
 <br> ✦ Demonfire
-<br> Evard's Black Tentacles
+</div>
+
+<div class='footnote'>PART 2 | SPELLS </div>
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+
+\pagebreakNum
+
+<div style='column-count:2'>
+
+Evard's Black Tentacles
 <br> Hallucinatory Terrain
 <br> Shadow of Moil
 <br> Sickening Radiance
@@ -8183,8 +8152,6 @@ Abi-Dalzim's Horrid Wilting
 <br> Feeblemind
 <br> Glibness
 <br> Maddening Darkness
-
-\columnbreak
 
 ##### 9th Level
 Imprisonment
