@@ -7915,6 +7915,7 @@ Control Flames
 <br> Frostbite
 <br> Gust
 <br> ✦ Invoke Elements
+<br> ✦ Lightning Blast
 <br> Lightning Lure
 <br> Mending
 <br> Mold Earth
@@ -7966,12 +7967,12 @@ Call Lightning
 <br> Protection from Energy
 <br> Revivify
 <br> Spirit Guardians
-<br> Thunderstep
-<br> Tidal Wave
 
 \columnbreak
 
-Wall of Water
+Thunderstep
+<br> Tidal Wave
+<br> Wall of Water
 <br> Water Breathing
 <br> Water Walk
 <br> Wind Wall
@@ -8645,6 +8646,18 @@ You create a bolt of lightning that arcs toward a target of your choice that you
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the lightning can form a chain through one additional target for each slot level above 3rd.
 
+#### Lightning Blast
+*Evocation cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** S
+- **Duration:** Instantaneous
+___
+An arc of lightning blasts from your palms towards a creature within range. Make a ranged spell attack. On a hit, the target takes 1d8 lightning damage.
+
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
 #### Mind Blast
 *2nd-level evocation*
 ___
@@ -8658,6 +8671,8 @@ You pierce through the mental defenses of a creature within range. It must succe
 The creature makes a new saving throw at the end of its turns to end the frightened condition.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 1st.
+
+\columnbreak
 
 #### Mind Flay
 *2nd-level enchantment*
@@ -8705,6 +8720,11 @@ ___
 ___
 A sense of remorse rushes over a creature within range. The creature must make a Wisdom saving throw. On a failed save, the creature becomes incapacitated until the start of your next turn, losing it's weapon or spell attack it made against you.
 
+<div class='footnote'>PART 2 | SPELLS </div>
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+
+\pagebreakNum
+
 #### Ritual of Summoning
 *5th-level conjuration (ritual)*
 ___
@@ -8714,11 +8734,6 @@ ___
 - **Duration:** 1 hour
 ___
 You call forth a summoning portal in an empty square within range. Appearing as a shadowy statue of a cloaked figure, holding open the cloak to reveal a gapping swirl into the twisting nether.
-
-<div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
 
 Using 1 minute, you can channel energy into the statue, and call forth the true name of a creature. If the creature is on your plane of existence, a shimmering mirror appears in front of it that only it can see, through the mirror the creature is able to perceive you and your surroundings, but you can not see it. 
 
@@ -8761,8 +8776,6 @@ ___
 You extend your arm and draw crush energy down upon creatures within a 10-foot radius of a point within range. Each creature must succeed on a Wisdom saving throw, or be stunned for the duration of the spell. 
 
 A stunned creature must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
-
-\columnbreak
 
 #### Shining Force
 *2nd-level abjuration*
@@ -8810,12 +8823,12 @@ ___
 ___
 You attempt to steal the effect of a spell from a creature for a brief time. If the spell affecting the creature was cast at 3rd level or lower, the spell effect transfers to you for this spells duration. Once this spell ends, the stolen spells effect returns to the original caster. The time you had the spell counts against the spells original duration. If the spell is of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the spells effect transfers to you.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, a spell can be stolen without a saving throw if its level is less than or equal to the level of the spell slot you used.
-
 <div class='footnote'>PART 2 | SPELLS </div>
 <img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, a spell can be stolen without a saving throw if its level is less than or equal to the level of the spell slot you used.
 
 #### Starfall
 *6th-level evocation*
@@ -8881,7 +8894,7 @@ You open a crack into the void, as a shimmering black knife strikes out from the
 
 <div class='footnote'>PART 2 | SPELLS </div>
 <img src='https://www.gmbinder.com/images/vkMYjIY.jpg' style='position:absolute; top:550px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:0px; right:0px; width:1000px;transform:rotate(180deg)' />
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:0px; right:0px; width:1050px;transform:rotate(180deg)' />
 
 \pagebreakNum
 
