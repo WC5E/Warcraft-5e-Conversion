@@ -998,19 +998,90 @@ As a human, you loose all worgen form traits. If you make an attack, cast a spel
 
 \pagebreakNum
 
+<div style='margin-top:520px'></div>
 
+## Void Elf
+*Some will tell you that the Light is the only path. The one weapon that can stop the enemies of Azeroth. But we see alternatives. Many roads -- many possibilities -- that are open to us. There will be those who doubt you. Who question your resolve, your ability to harness powers that have caused the downfall of weaker wills.*
+<div style="text-align:Right"> 
 
+*— Alleria Windrunner* &nbsp;</div>
+<div style='margin-top:-5px'></div>
 
-<div class='footnote'>PART 1 | RACES </div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+Infused by the void itself, the Ren'dorei -- children of the void -- are a group of blood elves exiled from their home-land of Quel'Thalas. Cast out for their teachings at the hand of the elven magister Umbric, the elves have embr-aced their newfound powers, though the inner turmoil it has caused may well follow them through their lives as they fight to maintain control over it.
+
+### Shaped by the Void
+While they are of the same blood as their elven siblings, void elves are best recognized for their pale or vibrant, blue-tinged skin and eyes. As well as the deep shades of blue and purple in their shadow-infused hair.
+
+For some void elves, their dark powers can be seen manifesting in their hair, leaving the tips shimmering with void energy.
+
+Most who have tried to harness the corruptive powers of the void have fallen into madness. Among mortals, former ranger-general Alleria Windrunner stands as the first to properly wield it -- the elf now using her powers to guide her elven kin alongside the magister Umbric.
+
+\columnbreak
+
+<div style='margin-top:554px'></div>
+
+The void elves aim, above all, to use their dangerous powers to defend both the Alliance and Azeroth itself. In doing so, they seek to prove wrong any who would doubt or judge their abilities.
+
+### Exiled From Home
+Originally, the void elves were the pupils and followers of Umbric -- a magister at the court of Silvermoon, who thought the void to be the key to the survival of Quel'Thalas after its destruction at the hands of the undead Scourge.
+
+However, the other magisters did not agree. Least of all the Grand Magister, who ultimately banished the elves from the land under fear that the void would pose great dangers to the kingdom and to the Sunwell. 
+
+Now, emboldened by their newfound powers, the void elves have sworn to make their claim on the world, under the joint leadership of magister Umbric and Alleria Windrunner. 
+
+> ##### Emergence of the Void Elves
+> The Ren'dorei are specific group of void elves, following the teachings of magister Umbric, though he is not the first elf to have dabbled with the void. If your group aims to run an adventure set before the Burning Legion's defeat, you should work with your DM to determine the source of your transformative powers.
+
+<div class='footnote'>PART 1 | RACES</div>
+<img src='https://www.gmbinder.com/images/iBIlFiH.jpg' style='position:absolute; top:0px; left:-10px; width:900px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:150px; right:-220px; width:900px;transform:rotate(160deg)' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:210px; right:0px; width:900px;transform:rotate(180deg)' />
+<img src='https://www.gmbinder.com/images/hTLvvHS.png' style='position:absolute; top:0px; right:-90px; width:650px;' />
 
 \pagebreakNum
 
+### Affiliation
+Following their exile from Quel'Thalas by their elven kin, the Ren'dorei have decided to swear themselves to the service of the Alliance, under the guidance of former ranger-general Alleria Windrunner. 
 
+The elves, with little love or care now for their blood elven kin, choose to embrace or try to forget their status as outcasts -- for they will forever be unwelcome within the land they've left behind.
 
+### Names 
+As the void elves are a small, exiled group of blood elves transformed by the void, their names flow similar to their blood elven kin -- with some choosing to change theirs to further embrace their new powers.
 
-<div class='footnote'>PART 1 | RACES </div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<div style='margin-top:-5px;'></div>
+
+**Male Names:** Mariel, Athaniar, Anador, Tharama, Viridiel, <br>&nbsp;&nbsp;&nbsp; Malanior, Eraeth, Ulorath, Yehru, Kithadre
+<br>**Female Names:** Anarial, Freja, Driana, Coria, Alanassori, <br>&nbsp;&nbsp;&nbsp; Melanion, Azshara, Curlih, Setori, Amorly, Zama
+<br>**Surnames:** Coldtrail, Nightfeast, Voidworn, Morncloud, <br>&nbsp;&nbsp;&nbsp; Duskblood, Darkvein, Gloomwalker, Voidheart
+
+### Void Elf Traits
+Your elf character has few natural abilities that are shared amongst all of the elven kin.
+
+***Ability Score Increase.*** Your Dexterity score increases by 1, your Constitution score increases by 1, and your Intelligence score increases by 1.
+
+***Age.*** Void elves reach adulthood at the rate of humans, but are not considered to have entered adulthood until they reach 60, and can live to become many hundreds of years old with ease. That said, many of the void elves have lived for thousands of years due to the power of the Sunwell extending their lifespan.
+
+***Alignment.*** Most void elves tend to be lawful, much like their blood elven kin. Those who do become chaotic are those who lose control of their void powers and become consumed by them.
+
+***Size.*** Void elves in many ways resemble humans, but with slender builds, and much more refined features. Usually just over 6 feet tall, with very little difference between male and females. Your size is Medium.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Darkvision.*** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+***Keen Senses.*** You are proficient in the Perception skill.
+
+***Chill of Night.*** You have resistance to Necrotic damage.
+
+***Spatial Rift.*** As a bonus action, you can open a rift in space and time to an unoccupied space you can see, within 30 feet of your current position. Once you use this trait, you can’t do so again until you finish a long rest.
+
+Starting at 3rd level, you also gain resistance to all damage when you go through the the spatial rift. The resist-ance lasts until the start of your next turn. During that time, you are enveloped in void energy.
+
+***Languages.*** You can speak, read, and write Common and Thalassian. Thalassian is a derivative of the Darnassian language, and in many ways sound the same to an inexperienced ear.
+
+<div class='footnote'>PART 1 | RACES</div>
+<img src='https://www.gmbinder.com/images/JLhq6RD.jpg' style='position:absolute; top:-50px; right:-120px; width:860px' />
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
