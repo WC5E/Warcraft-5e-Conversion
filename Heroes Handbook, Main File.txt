@@ -5331,31 +5331,31 @@ Warriors learn the basics of all combat styles. Every warrior can swing an axe, 
 \pagebreakNum
 
 
-<div class='classTable wide'>
+<div class='classTable'>
 
 ##### The Warrior
-|Level| Proficiency<br>Bonus | Features               |Rages|Rage<br>Reserve|
-|:---:|:--:|:-----------------------------------------|:--:|:--:|
-| 1st | +2 | Fighting Style, Second Wind              |  — |  — |
-| 2nd | +2 | Rage                                     |  2 |  1 |
-| 3rd | +2 | Martial Stance                           |  3 |  2 |
-| 4th | +2 | Ability Score Improvement                |  3 |  2 |
-| 5th | +3 | Extra Attack                             |  3 |  3 |
-| 6th | +3 | Action Surge (one use)                   |  4 |  3 |
-| 7th | +3 | Martial Stance feature, Rage Improvement |  4 |  4 |
-| 8th | +3 | Ability Score Improvement                |  4 |  4 |
-| 9th | +4 | Martial Stance feature                   |  4 |  5 |
-| 10th| +4 | Dauntless, Rage Improvement              |  4 |  5 |
-| 11th| +4 | Martial Stance feature                   |  4 |  6 |
-| 12th| +4 | Ability Score Improvement                |  5 |  6 |
-| 13th| +5 | —                                        |  5 |  7 |
-| 14th| +5 | Ability Score Improvement                |  5 |  7 |
-| 15th| +5 | Martial Stance feature, Rage Improvement |  5 |  8 |
-| 16th| +5 | Ability Score Improvement                |  5 |  8 |
-| 17th| +6 | Action Surge (two uses)                  |  6 |  9 |
-| 18th| +6 | Martial Stance feature                   |  6 |  9 |
-| 19th| +6 | Ability Score Improvement                |  6 | 10 |
-| 20th| +6 | Extra Attack (2)                         |  6 | 10 |
+|Level| Proficiency<br>Bonus | Features  |Rage Reserve|
+|:---:|:--:|:----------------------------|:----------:|
+| 1st | +2 | Fighting Style, <br>Second Wind | —  |
+| 2nd | +2 | Rage (1/rest)               | 2  |
+| 3rd | +2 | Martial Stance              | 3  |
+| 4th | +2 | Ability Score Improvement   | 4  |
+| 5th | +3 | Extra Attack                | 5  |
+| 6th | +3 | Action Surge (one use)      | 6  |
+| 7th | +3 | Martial Stance feature      | 7  |
+| 8th | +3 | Ability Score Improvement   | 8  |
+| 9th | +4 | Rage (2/rest)               | 9  |
+| 10th| +4 | Martial Stance feature      | 10 |
+| 11th| +4 | Martial Stance feature, <br> Dauntless      | 11 |
+| 12th| +4 | Ability Score Improvement   | 12 |
+| 13th| +5 | Rage (3/rest)               | 13 |
+| 14th| +5 | Ability Score Improvement   | 14 |
+| 15th| +5 | Martial Stance feature      | 15 |
+| 16th| +5 | Ability Score Improvement   | 16 |
+| 17th| +6 | Action Surge (two uses)     | 17 |
+| 18th| +6 | Martial Stance feature      | 18 |
+| 19th| +6 | Ability Score Improvement   | 19 |
+| 20th| +6 | Extra Attack (2)            | 20 |
 </div>
 
 ### Creating a Warrior
@@ -5363,10 +5363,12 @@ As you build your warrior, think about two related elements of your character's 
 
 You might have enjoyed formal training in a noble's army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught—unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms. or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions—the only things that stand between you and death's embrace.
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quick Build
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can make a warrior quickly by following these &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;suggestions. First, Strength should be your highest &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ability score, followed by Constitution.
-
 \columnbreak
+
+<div style='margin-top:530px'></div>
+
+#### Quick Build
+You can make a warrior quickly by following these suggestions. First, Strength should be your highest ability score, followed by Constitution.
 
 ## Class Features
 As a warrior, you gain the following class features.
@@ -5396,7 +5398,6 @@ You start with the following equipment, in addition to the equipment granted by 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/C3YpaDn.jpg' style='position:absolute; top:0px; right:-300px; width:1100px' />
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-500px; right:-200px; width:1500px' />
-<img src='https://www.gmbinder.com/images/lDb6MoU.png' style='position:absolute; top:856px; right:620px; width:300px;z-index:1000' />
 
 \pagebreakNum
 
@@ -5405,19 +5406,15 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 #### Defense
 While you are wearing armor, you gain a +1 bonus to AC.
-<div style='margin-top:-2px;'></div>
 
 #### Dueling
 When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-<div style='margin-top:-2px;'></div>
 
 #### Great Weapon Fighting
-When you roll a 1 or 2 on a damage die for an attack made with a melee weapon that you wield with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit. 
-<div style='margin-top:-2px;'></div>
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit. 
 
 #### Protection
 When a creature you can see attacks a target other than you that is within 5 feet of you. you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-<div style='margin-top:-2px;'></div>
 
 #### Two-Weapon Fighting
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
@@ -5428,15 +5425,11 @@ You have a limited well of stamina that you can draw on to protect yourself from
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
 ### Rage
-At 2nd level, you can fight with primal ferocity in battle. On your turn, you can enter a rage as a bonus action.
+Starting at 2nd level, you are able to release your inner rage when the thrill of battle hits. When you roll for initiative in combat, you may choose to expend a use of Rage. Giving you access to your inner rage represented by a number of rage points. Your warrior level determines the number of points you have, as shown in the Rage Reserve column of the Warrior table.
 
-When you rage, you gain a number of rage points equal to your Rage Reserve column. You gain 1 additional point while raging each time you hit with a melee weapon attack you didn't spend rage points on. You can never have more rage points than your Warrior level.
+This reserve lasts until each point have been spent, or 1 hour passes. You must then finish a long rest to use your Rage again. You can spend these points to fuel various rage features. At 2nd level, you know two rage features of your choice from the list below. You learn an additional rage fea-ture of your choice at 7th, 10th, and 15th level. Each time you learn a rage feature, you can also replace one feature you know with a different one.
 
-You can spend these rage points to fuel various rage features. At 2nd level, you know two rage features of your choice from the list below. You learn an additional rage fea-ture of your choice at 7th, 10th, and 15th level. Each time you learn a rage feature, you can also replace one feature you know with a different one from the list.
-
-Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
-
-Once you have raged the number of times shown for your warrior level in the Rages column of the Warrior table, you must finish a long rest before you can rage again.
+Beginning at 9th level, you can use your Rage twice between rests, and beginning at 13th level, you can use it three times between rests. When you finish a long rest, you regain your expended uses.
 
 Some of your rage features require your target to make a saving throw to resist the feature's effect. The saving throw DC is calculated as follows:
 
@@ -5450,10 +5443,11 @@ Some of your rage features require your target to make a saving throw to resist 
 <br>
 
 #### Berserker Rage
-You can spend 3 rage point and use your action to end one effect that is causing you to be charmed or frightened.
+You can spend 1 rage point and use your action to end one effect that is causing you to be charmed or frightened.
 
 #### Charge
-You can spend 2 rage point and take the Dash action, if you move at least 20 feet straight towards a target you can make one weapon attack against it with advantage.
+You can spend 1 rage point and take the Dash action, if you move at least 20 feet straight towards a target you can make one weapon attack against it with advantage.
+
 
 #### Deep Wounds
 When you hit another creature with a weapon that deals piercing or slashing damage, you can spend 3 rage point to attempt to deepen your hit. The target must succeed on a Constitution saving throw, or have all healing received reduced by your Warrior level for 1 minute. Target may repeat the saving throw at the end of each of their turn.
@@ -5462,10 +5456,10 @@ When you hit another creature with a weapon that deals piercing or slashing dama
 You can spend 2 rage points before making an attack to attempt to disarm the target. If you hit, the target loses the grip on their weapon, the weapon lands in an empty square of your choice within 10 feet of the target.
 
 #### Execute
-When you hit with a weapon attack, you can spend 6 rage points to ferociously wound the target. When done, you deal extra weapon damage to the target equal to your Warrior level.
+When you hit with a weapon attack, you can spend 3 rage points to ferociously wound the target. When done, you deal extra weapon damage to the target equal to your Warrior level.
 
 #### Hamstring
-You can spend 3 rage points before making an attack to attempt to hinder the targets movement. If your attack hit, the target must make a Constitution saving throw, having their speed reduced to 0 on a fail, or half on a successful save until the beginning of your next turn.
+You can spend 1 rage points before making an attack to attempt to hinder the targets movement. If your attack hit, the target must make a Constitution saving throw, having their speed reduced to 0 on a fail, or half on a successful save until the beginning of your next turn.
 
 #### Ignore Pain
 You can spend 5 rage points to reroll a saving throw that you failed. When done, you must use the new roll.
@@ -5474,7 +5468,7 @@ You can spend 5 rage points to reroll a saving throw that you failed. When done,
 You can spend 1 or more rage points when rolling damage for a weapon attack. When done, you may reroll 1 damage die for each rage spend, you must use the new roll.
 
 ### Martial Stance
-At 3rd level, you choose a martial stance that you strive to emulate in your combat styles and techniques. Choose Arms, Fury, or Protection, all detailed at the end of the class description. The stance grants you features at 3rd level and again at 7th, 9th, 15th, and 18th level.
+At 3rd level, you choose a martial stance that you strive to emulate in your combat styles and techniques. Choose Arms, Fury, or Protection, all detailed at the end of the class description. The stance grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -5495,9 +5489,9 @@ At 6th level, you can push yourself beyond your normal limits for a moment. On y
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once per turn.
 
 ### Dauntless
-By 10th level, your instincts are so honed that you have advantage on initiative rolls.
+By 11th level, your instincts are so honed that you have advantage on initiative rolls.
 
-In addition, if you are surprised at the beginning of combat and aren't incapacitated, you can use your first turn in combat to enter a rage and nullify the surprise condition.
+In addition, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, if you enter a rage as you roll initiative.
 
 ## Martial Stances
 Different fighters choose different approaches to perfecting their fighting prowess. The martial stance you choose to emulate reflects your approach.
@@ -5522,14 +5516,15 @@ Starting at 7th level, if you spend 1 minute observing or interacting with anoth
  - Dexterity score
  - Constitution score
  - Armor Class
+
+\columnbreak
+
  - Current hit points
  - Total class levels (if any)
  - Warrior class levels (if any)
 
-\columnbreak
-
 #### Additional Fighting Style
-At 9th level, you choose a second option from the Fighting Style class feature.
+At 10th level, you choose a second option from the Fighting Style class feature.
 
 #### Colossus Smash
 Starting at 11th level, you can spend 2 rage points before taking the attack Action. If one of your weapon attacks hits, the target takes normal weapon damage and allies gain advantage on weapon attacks against that creature until the start of your next turn.
@@ -5549,20 +5544,19 @@ Beginning when you chose this stance at 3rd level, your intensity in battle allo
 You can use this feature three times, and you regain all expended uses of it when you finish a long rest.
 
 #### Titan's Grip
-Starting at 7th level, you can wield weapons that has the *two-handed* melee weapon property with one hand, gaining all of the benefits that otherwise comes with the weapon. To do this you must be proficient in the weapons use.
+Starting at 7th level, you can wield weapons that has the *two-handed* weapon property with one hand, gaining all of the benefits that otherwise comes with the weapon. To do this you must be proficient in the weapons use.
 
 Additionally, *versatile* one-handed weapons now deal their versatile damage die instead.
 
 #### Tireless Rampage
-Upon reaching 9th level, when you roll initiative and have no uses of rampage remaining, you regain one use.
+Upon reaching 10th level, when you roll initiative and have no uses of rampage remaining, you regain one use.
 
 #### Bloodthirst
 Starting at 11th level, you can spend 1 rage points before taking the Attack action to make your first successful attack this turn deal twice your ability modifier to its damage.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/z6WJzwY.jpg' style='position:absolute; top:900px; right:-100px; width:900px'>
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:350px; right:0px; width:900px;transform:rotate(-215deg' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/z6WJzwY.jpg' style='position:absolute; top:930px; right:0px; width:800px'>
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1020px' />
 
 \pagebreakNum
 
@@ -5588,7 +5582,7 @@ Starting at 7th level, you learn to fend off strikes directed at you, or other c
 You can use this feature a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
 #### Never Surrender
-Beginning at 9th level, you are able to use your second wind feature twice between short or long rests. When you succeed a death saving throw, you can expend a use of Second Wind whilst unconscious.
+Beginning at 10th level, you are able to use your second wind feature twice between short or long rests. When you succeed a death saving throw, you can expend a use of Second Wind whilst unconscious.
 
 #### Shield Block
 Starting at 11th level, you can spend 3 rage points to take the Dodge action on your turn as a free action. To do so you must be wielding a shield in one hand.
@@ -5602,6 +5596,7 @@ At 18th level, at the start of each of your turns, you regain hit points equal t
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/yluzKKU.jpg' style='position:absolute; top:0px; right:200px; width:850px' />
 <img src='https://www.gmbinder.com/images/ohZghLL.png' style='position:absolute; top:0px; right:-100px; width:900px' />
+<img src='https://www.gmbinder.com/images/lDb6MoU.png' style='position:absolute; top:920px; right:-127px; width:250px;z-index:1000' />
 
 \pagebreakNum
 
