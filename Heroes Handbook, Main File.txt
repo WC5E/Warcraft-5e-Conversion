@@ -5103,7 +5103,7 @@ You can tap a creatures soul when it is dying, creating a shard of its soul. If 
 
 As an action, you can expend soul shards within 5 feet of you to use one of the abilities below. Once a shard have been spent, it vanishes from your belongings
 
-***Concentrated Souls.*** When you cast a spell that require concentration and you're already concentrating on a spell, you can spend a number of soul shards equal to the spell slot used to cast the spell to concentrate on both spells at the same time for their durations.
+***Concentrated Souls.*** You can spend a number of soul shards equal to a spell level as part of the action to cast a spell that requires concentration while you are already con-centrating on a spell. Allowing you to concentrate on both spells, making one concentration check for both spells.
 
 ***Drain Lift.*** You can spend soul shards and choose a creature within 60 feet of you, the target must make a Con-stitution saving throw. On a failed save, the target takes 1d4 necrotic damage per soul shard spent, or half as much on a successful save. You regain hit points equal to the damage dealt to the target.
 
