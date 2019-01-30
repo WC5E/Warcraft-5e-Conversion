@@ -5495,7 +5495,7 @@ Once you use this feature, you must finish a short or long rest before you can u
 ### Dauntless
 By 10th level, your instincts are so honed that you have advantage on initiative rolls.
 
-In addition, if you are surprised at the beginning of combat and aren't incapacitated, you can use your first turn in combat to enter a rage and nullify the surprise condition.
+In addition, if you are surprised at the beginning of combat, you can act normally on your first turn if you choose to enter a rage as part of that turn.
 
 ## Martial Stances
 Different fighters choose different approaches to perfecting their fighting prowess. The martial stance you choose to emulate reflects your approach.
