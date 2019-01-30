@@ -5460,7 +5460,7 @@ When you hit another creature with a weapon that deals piercing or slashing dama
 You can spend 2 rage points before making an attack to attempt to disarm the target. If you hit, the target loses the grip on their weapon, the weapon lands in an empty square of your choice within 10 feet of the target.
 
 #### Execute
-When you hit with a weapon attack, you can spend 6 rage points to ferociously wound the target. When done, you deal extra weapon damage to the target equal to your Warrior level.
+When you hit with a weapon attack, you can spend 6 rage points to ferociously wound the target, dealing extra weapon damage equal to your Warrior level.
 
 #### Hamstring
 You can spend 3 rage points before making an attack to attempt to hinder the target's movement. If your attack hits, the target must make a Constitution saving throw. The target's speed is reduced to 0 on a failed save, or half on a successful one, until the start of your next turn.
