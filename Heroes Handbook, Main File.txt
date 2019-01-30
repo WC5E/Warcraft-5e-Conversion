@@ -5547,7 +5547,7 @@ Beginning when you chose this stance at 3rd level, your intensity in battle allo
 You can use this feature three times, and you regain all expended uses of it when you finish a long rest.
 
 #### Titan's Grip
-Starting at 7th level, you can wield weapons that has the *two-handed* melee weapon property with one hand, gaining all of the benefits that otherwise comes with the weapon. To do this you must be proficient in the weapons use.
+Starting at 7th level, you can wield melee weapons that have the *two-handed* property with one hand, gaining all of the benefits that otherwise comes with the weapon. To do this you must be proficient in the weapons use.
 
 Additionally, *versatile* one-handed weapons now deal their versatile damage die instead.
 
