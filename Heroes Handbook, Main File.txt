@@ -5447,8 +5447,6 @@ Some of your rage features require your target to make a saving throw to resist 
 
 \columnbreak
 
-<br>
-
 #### Berserker Rage
 You can spend 3 rage point and use your action to end one effect that is causing you to be charmed or frightened.
 
@@ -5468,7 +5466,7 @@ When you hit with a weapon attack, you can spend 6 rage points to ferociously wo
 You can spend 3 rage points before making an attack to attempt to hinder the targets movement. If your attack hit, the target must make a Constitution saving throw, having their speed reduced to 0 on a fail, or half on a successful save until the beginning of your next turn.
 
 #### Ignore Pain
-You can spend 5 rage points to reroll a saving throw that you failed. When done, you must use the new roll.
+You can spend 2 rage points as a reaction when hit by a weapon attack to give yourself resistance towards bludge&shy;oning, piercing, and slashing damage from nonmagical attacks until the start of your next turn.
 
 #### Raging Blow
 You can spend 1 or more rage points when rolling damage for a weapon attack. When done, you may reroll 1 damage die for each rage spend, you must use the new roll.
