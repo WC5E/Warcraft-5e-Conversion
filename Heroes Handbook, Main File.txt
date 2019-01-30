@@ -5448,7 +5448,7 @@ Some of your rage features require your target to make a saving throw to resist 
 \columnbreak
 
 #### Berserker Rage
-You can spend 3 rage point and use your action to end one effect that is causing you to be charmed or frightened.
+You can spend 3 rage points and use your action to end one effect that is causing you to be charmed or frightened.
 
 #### Charge
 You can spend 2 rage points and take the Dash action, if you move at least 20 feet straight towards a target you can make one weapon attack against it with advantage.
