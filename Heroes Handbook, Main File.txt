@@ -5463,7 +5463,7 @@ You can spend 2 rage points before making an attack to attempt to disarm the tar
 When you hit with a weapon attack, you can spend 6 rage points to ferociously wound the target. When done, you deal extra weapon damage to the target equal to your Warrior level.
 
 #### Hamstring
-You can spend 3 rage points before making an attack to attempt to hinder the targets movement. If your attack hit, the target must make a Constitution saving throw, having their speed reduced to 0 on a fail, or half on a successful save until the beginning of your next turn.
+You can spend 3 rage points before making an attack to attempt to hinder the target's movement. If your attack hits, the target must make a Constitution saving throw. The target's speed is reduced to 0 on a failed save, or half on a successful one, until the start of your next turn.
 
 #### Ignore Pain
 You can spend 2 rage points as a reaction when hit by a weapon attack to give yourself resistance towards bludge&shy;oning, piercing, and slashing damage from nonmagical attacks until the start of your next turn.
