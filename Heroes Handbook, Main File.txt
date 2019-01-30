@@ -5451,7 +5451,7 @@ Some of your rage features require your target to make a saving throw to resist 
 You can spend 3 rage point and use your action to end one effect that is causing you to be charmed or frightened.
 
 #### Charge
-You can spend 2 rage point and take the Dash action, if you move at least 20 feet straight towards a target you can make one weapon attack against it with advantage.
+You can spend 2 rage points and take the Dash action, if you move at least 20 feet straight towards a target you can make one weapon attack against it with advantage.
 
 #### Deep Wounds
 When you hit another creature with a weapon that deals piercing or slashing damage, you can spend 3 rage point to attempt to deepen your hit. The target must succeed on a Constitution saving throw, or have all healing received reduced by your Warrior level for 1 minute. Target may repeat the saving throw at the end of each of their turn.
