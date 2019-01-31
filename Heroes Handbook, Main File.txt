@@ -5038,7 +5038,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 \pagebreakNum
 
-<div style='margin-top:100px;'></div>
+<div style='margin-top:110px;'></div>
 
 ### Fel Study
 At 1st level, you have begun studying into the powers and chaotic fel, uncovering knowledge of your choice: Study of Affliction, Study of Demonology, or Study of Destruction. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
@@ -5081,7 +5081,7 @@ You can use an arcane focus as a spellcasting focus for your warlock spells.
 
 \columnbreak
 
-<div style='margin-top:100px;'></div>
+<div style='margin-top:110px;'></div>
 
 ### Life Tap
 Starting at 2nd level, you are able to sacrifice your own life force to restore spell slots. As an action, you can deal 1d6 necrotic damage per spell level to yourself, and replenish an expended shadow magic spell slot. 
@@ -5107,13 +5107,13 @@ You can expend soul shards within 5 feet of you to use one of the abilities belo
 
 ***Concentrated Souls.*** As a reaction when making a concentration check for a spell, you can spend a number of soul shards equal to the spell's level. You automatically succeed the concentration check, and have advantage on any additional concentration checks until the start of your next turn.
 
-***Drain Life.*** As an action, you can spend soul shards to force a target within 60 feet of you to make a Constitution saving throw. On a failed save, the target takes 1d4 necrotic damage per soul shard spent, or half as much on a successful save. You regain hit points equal to the damage dealt.
+***Drain Life.*** As an action, you can spend soul shards to force a target within 60 feet of you to make a Constitution saving throw. On a failed save, the target takes 1d4 necrotic damage per soul shard spent, or half as much on a success&shy;ful save. You regain hit points equal to the damage dealt.
 
 ***Healthstone.*** As an action, you can spend soul shards to create a healthstone, the stone keeps its potency for 24 hours before vanishing. As an action, a creature can crush the stone, regaining 1d4 hit points for each soul shard spent in its creation.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/EsofAt2.jpg' style='position:absolute; top:-140px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-270px; left:0px; width:1100px;' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-265px; left:0px; width:1100px;' />
 
 \pagebreakNum
 
