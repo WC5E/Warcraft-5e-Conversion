@@ -5038,7 +5038,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 \pagebreakNum
 
-<div style='margin-top:130px;'></div>
+<div style='margin-top:110px;'></div>
 
 ### Fel Study
 At 1st level, you have begun studying into the powers and chaotic fel, uncovering knowledge of your choice: Study of Affliction, Study of Demonology, or Study of Destruction. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
@@ -5081,7 +5081,7 @@ You can use an arcane focus as a spellcasting focus for your warlock spells.
 
 \columnbreak
 
-<div style='margin-top:130px;'></div>
+<div style='margin-top:110px;'></div>
 
 ### Life Tap
 Starting at 2nd level, you are able to sacrifice your own life force to restore spell slots. As an action, you can deal 1d6 necrotic damage per spell level to yourself, and replenish an expended shadow magic spell slot. 
@@ -5099,19 +5099,21 @@ Additionally, you learn one spell of your choice from any class's spell list. Th
 If you lose your grimoire, you can perform a 1-hour ritual to receive a replacement from the Great Dark. This ritual can be performed during a short or long rest, and destroys the previous book. The book turns to ash when you die.
 
 #### Embrace of the Shadowlands
-You can tap a creatures soul when it is dying, creating a shard of its soul. If you have a free hand, you can use your reaction when a creature dies to create a soul shard in that hand. Each soul shard keeps its potency for 1 hour before crumbling into dust. You can never have more soul shards than your Warlock level.
+You can harvest the souls of the living. If you have a free hand, you can use your reaction when a creature dies with&shy;in 90 feet of you, to trap its soul in a shard in that hand. The creature must have a CR of 1/2 or greater. 
 
-As an action, you can expend soul shards within 5 feet of you to use one of the abilities below. Once a shard have been spent, it vanishes from your belongings
+Each soul shard keeps its potency for 8 hours before crumbling into dust. You can never have more soul shards than your Warlock level.
 
-***Concentrated Souls.*** When you cast a spell that require concentration and you're already concentrating on a spell, you can spend a number of soul shards equal to the spell slot used to cast the spell to concentrate on both spells at the same time for their durations.
+You can expend soul shards within 5 feet of you to use one of the abilities below. Once a shard have been spent, it disappears.
 
-***Drain Lift.*** You can spend soul shards and choose a creature within 60 feet of you, the target must make a Con-stitution saving throw. On a failed save, the target takes 1d4 necrotic damage per soul shard spent, or half as much on a successful save. You regain hit points equal to the damage dealt to the target.
+***Concentrated Souls.*** As a reaction when making a concentration check for a spell, you can spend a number of soul shards equal to the spell's level. You automatically succeed the concentration check, and have advantage on any additional concentration checks until the start of your next turn.
 
-***Healthstone.*** You can spend soul shards to create a healthstone, the stone keep its potency for 24 hours before vanishing. As an action, a creature can crush the stone, regaining 1d4 hit points for each soul shard spend in the stones creation.
+***Drain Life.*** As an action, you can spend soul shards to force a target within 60 feet of you to make a Constitution saving throw. On a failed save, the target takes 1d4 necrotic damage per soul shard spent, or half as much on a success&shy;ful save. You regain hit points equal to the damage dealt.
+
+***Healthstone.*** As an action, you can spend soul shards to create a healthstone, the stone keeps its potency for 24 hours before vanishing. As an action, a creature can crush the stone, regaining 1d4 hit points for each soul shard spent in its creation.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/EsofAt2.jpg' style='position:absolute; top:-140px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-250px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-265px; left:0px; width:1100px;' />
 
 \pagebreakNum
 
