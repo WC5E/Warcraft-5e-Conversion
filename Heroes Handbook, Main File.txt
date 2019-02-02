@@ -3158,7 +3158,7 @@ At 14th level, you learn the *find familiar* spell if you don't already know it,
 
 As an action, you can transform the familiar into an ice elemental, as by the *conjure elemental* spell, its duration becomes 1 minute, and if you lose your concentration the elemental returns to being your familiar.
 
-You can use this feature even if you don't have a familiar summoned, conjuring an ice elemental in an empty square within 30 feet of you. Once the feature ends, the elemental transforms into your familiar.
+You can use this feature even if you don't have a familiar summoned, conjuring an ice elemental in an empty space within 30 feet of you. Once the feature ends, the elemental transforms into your familiar.
 
 Your ice elemental uses the water elemental statistics with the following changes.
 <div style='margin-top:-5px;'></div>
@@ -3362,9 +3362,9 @@ Beginning at 10th level, your mastery of the chi flowing through you makes you i
 \pagebreakNum
 
 ### Transcendence
-At 13th level, you can use your action and spend 1 chi point to summon an incorporeal jade visage of yourself in your square, the visage doesn't move and appears to be in deep meditation. It stays for 1 minute before vanishing.
+At 13th level, you can use your action and spend 1 chi point to summon an incorporeal jade visage of yourself in your space, the visage doesn't move and appears to be in deep meditation. It stays for 1 minute before vanishing.
 
-While you are within 60 feet of the visage, you can use your bonus action to change position with it, teleporting you to the square you summoned it in. Once done, the visage vanishes.
+While you are within 60 feet of the visage, you can use your bonus action to change position with it, teleporting you to the space you summoned it in. Once done, the visage vanishes.
 
 Upon reaching 18th level, your visage stays for 1 hour before vanishing, and its range increases to 1 mile.
 
@@ -3425,13 +3425,13 @@ Alternatively, you can expend 5 hit points from your pool of healing to cure the
 This feature has no effect on constructs.
 
 #### Mistwalk
-Starting at 6th level, you are able to teleport short distances through mist. As an action, you can spend 1 chi point and teleport 60 feet to an unoccupied square you can see. <br>As part of the same action you can use your soothing mist on a target within range of your new position.
+Starting at 6th level, you are able to teleport short distances through mist. As an action, you can spend 1 chi point and teleport 60 feet to an unoccupied space you can see. As part of the same action you can use your soothing mist on a target within range of your new position.
 
 #### Reawaken
 Upon reaching 11th level, you are able to manifest your chi to reawaken a creature that has fallen. As an action, you can expend 4 chi points to cast *revivify* without providing a material component. You must then finish a long rest to cast *revivify* again in this way.
 
 #### Statue of the Jade Serpent
-At 17th level, you can give your chi physical form, shaping it into a statue of Yu'lon the Jade Serpent. You can spend 3 chi points as an action, and choose an empty square within 30 feet of you, manifesting a statue of jade. 
+At 17th level, you can give your chi physical form, shaping it into a statue of Yu'lon the Jade Serpent. You can spend 3 chi points as an action, and choose an empty space within 30 feet of you, manifesting a statue of jade. 
 
 \columnbreak
 
@@ -4129,7 +4129,7 @@ As an action, you present your holy symbol and evoke healing energy that can res
 Beginning at 6th level, the healing spells you cast on others can heal you as well. When you cast a spell with a spell slot and it restores hit points to any creature other than you this turn, you regain hit points equal to 2 + the spell's level.
 
 #### Leap of Faith
-Starting at 8th level, you can spend 2 light points to warp a target in divine energy and pull them towards you. As an action, choose a creature within 60 feet of you, pulling it to an empty square within 5 feet of you, doing so does not provoke opportunity attacks. If a creature is unwilling to be moved, it must succeed on a Strength saving throw.
+Starting at 8th level, you can spend 2 light points to warp a target in divine energy and pull them towards you. As an action, choose a creature within 60 feet of you, pulling it to an empty space within 5 feet of you, doing so does not provoke opportunity attacks. If a creature is unwilling to be moved, it must succeed on a Strength saving throw.
 
 #### Guardian Spirit
 At 17th level, you can call upon a guardian to guide a fallen allies spirit back to their body. When a target dies, you can use your reaction to return them to life before their spirit lives for the afterlife. The target is immediately returned to life, healed for twice your priest level, and gains immunity to all damage until the beginning of their next turn.
@@ -5236,7 +5236,7 @@ Additionally, fiends have difficulty harming you. If a fiend targets you directl
 \pagebreakNum
 
 #### Wild Imps
-Upon reaching 6th level, your spells are able of open rifts into the twisting nether to bring forth wild imps. Each time you roll a 20 on the d20 roll for a spell attack, or deal the killing blow to a creature of significant threat (DM's discre-tion). You summon an imp in an unoccupied square within 30 feet of you. A statblock can be found in Appendix C.
+Upon reaching 6th level, your spells are able of open rifts into the twisting nether to bring forth wild imps. Each time you roll a 20 on the d20 roll for a spell attack, or deal the killing blow to a creature of significant threat (DM's discre-tion). You summon an imp in an unoccupied space within 30 feet of you. A statblock can be found in Appendix C.
 
 A summoned imp obeys your commands as best it can. It rolls initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are inca-pacitated or absent, the imp acts on its own.
 
@@ -5459,7 +5459,7 @@ You can spend 2 rage points and take the Dash action, if you move at least 20 fe
 When you hit another creature with a weapon that deals piercing or slashing damage, you can spend 3 rage point to attempt to deepen your hit. The target must succeed on a Constitution saving throw, or have all healing received reduced by your Warrior level for 1 minute. Target may repeat the saving throw at the end of each of their turn.
 
 #### Disarm
-You can spend 2 rage points before making an attack to attempt to disarm the target. If you hit, the target loses the grip on their weapon, the weapon lands in an empty square of your choice within 10 feet of the target.
+You can spend 2 rage points before making an attack to attempt to disarm the target. If you hit, the target loses the grip on their weapon, the weapon lands in an empty space of your choice within 10 feet of the target.
 
 #### Execute
 When you hit with a weapon attack, you can spend 6 rage points to ferociously wound the target, dealing extra weapon damage equal to your Warrior level.
@@ -5863,7 +5863,7 @@ When you take this presence at 2nd level, you gain the following two Channel Nec
 
 ***Dancing Rune Weapon.*** As a bonus action, you present your rune weapon and manifest an animated copy of your rune weapon. The weapon has the statistics of a flying sword, but deals damage equal to your rune weapon, and has hit points equal to twice your death knight level. It acts on your initiative, its actions determined by you.
 
-The sword lasts for 1 minute, and you can end the effect early as a bonus action, making the the weapon fly back to you and fall to the ground in your square, if you have an empty hand you can instead make the weapon return to it rather than falling to the ground.
+The sword lasts for 1 minute, and you can end the effect early as a bonus action, making the the weapon fly back to you and fall to the ground in your space, if you have an empty hand you can instead make the weapon return to it rather than falling to the ground.
 
 ***Death and Decay.*** As an action, you can pierce your rune weapon into the ground and use your channel necromancy to desecrate the earth. Each creature of your choice within 20 feet of you must succeed on a Wisdom saving throw, or be frightened of you for 1 minute.
 
@@ -6183,7 +6183,7 @@ Some of your chaotic features require your target to make a saving throw to resi
 Immediately after you take the Attack action on your turn, you can spend 1 chaos point to make a weapon attack with each weapon you're wielding as a bonus action.
 
 #### Fel Rush
-You can spend 1 chaos point and use your bonus action to vanish in a cloud of fel and teleport from your current position to an empty square within 30 feet that you can see.
+You can spend 1 chaos point and use your bonus action to vanish in a cloud of fel and teleport from your current position to an empty space within 30 feet that you can see.
 
 ### Evasion
 At 2nd level, your agility lets you dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
@@ -6222,7 +6222,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 #### Havoc
 Your Demonic Mark of Havoc twists your body, granting you the following features.
- - As part of the action you used to release your Demonic Mark. You can jump to an unoccupied square within 60 feet of you, releasing a burst of fel on impact. Each crea-ture within 5 feet of you must make on a Dexterity saving throw. A creature takes 5d8 fire damage on a failed save, or half as much on a successful one.
+ - As part of the action you used to release your Demonic Mark. You can jump to an unoccupied space within 60 feet of you, releasing a burst of fel on impact. Each crea-ture within 5 feet of you must make on a Dexterity saving throw. A creature takes 5d8 fire damage on a failed save, or half as much on a successful one.
  - When you take the Attack action on your turn, you can make one additional attack as part of that action.
  - Whenever a creature hits you with an attack, it takes fire damage equal to half the damage taken from the attack.
 
@@ -8370,7 +8370,7 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 ___
-A whirl of wind 5-foot wide and 15-foot high rushes up around a target within range. The target must make a successful Dexterity saving throw, or be grappled for the spells duration. A grappled target can use its action to make a Dexterity saving throw. On a successful save, the target forces itself out of the cyclone in an empty square within 5 feet of it.
+A whirl of wind 5-foot wide and 15-foot high rushes up around a target within range. The target must make a successful Dexterity saving throw, or be grappled for the spells duration. A grappled target can use its action to make a Dexterity saving throw. On a successful save, the target forces itself out of the cyclone in an empty space within 5 feet of it.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you conjure one additional cyclone beneath a target within range for every two slot levels above 2nd.
 
@@ -8578,7 +8578,7 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-You form a large spike of ice above your head, and launch it at a creature that you can see within range, causing it to shatter across their body. The target must make a Constitution saving throw. It takes 7d8 cold damage plus 30 bludgeoning damage on a failed save, or half as much damage on a successful one. If this damage reduces the target to 0 hit points, it and everything it is wearing and carrying, except magic items, are transformed into shards of ice that shatters in its square. The creature can be restored to life only by means of a true resurrection or a wish spell. 
+You form a large spike of ice above your head, and launch it at a creature that you can see within range, causing it to shatter across their body. The target must make a Constitution saving throw. It takes 7d8 cold damage plus 30 bludgeoning damage on a failed save, or half as much damage on a successful one. If this damage reduces the target to 0 hit points, it and everything it is wearing and carrying, except magic items, are transformed into shards of ice that shatters in its space. The creature can be restored to life only by means of a true resurrection or a wish spell. 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher, the cold damage increases by 2d8 for each slot level above 7th.
 
@@ -8809,11 +8809,11 @@ ___
 - **Components:** V, S, M (a blood sapphire worth 100 gp)
 - **Duration:** 1 hour
 ___
-You call forth a summoning portal in an empty square within range. Appearing as a shadowy statue of a cloaked figure, holding open the cloak to reveal a gapping swirl into the twisting nether.
+You call forth a summoning portal in an empty space within range. Appearing as a shadowy statue of a cloaked figure, holding open the cloak to reveal a gapping swirl into the twisting nether.
 
 Using 1 minute, you can channel energy into the statue, and call forth the true name of a creature. If the creature is on your plane of existence, a shimmering mirror appears in front of it that only it can see, through the mirror the creature is able to perceive you and your surroundings, but you can not see it. 
 
-A creature can choose to ignore the mirror, in which case it vanishes after 1 minute and a new mirror can't appear in front of that creature again for another 24 hours, or pass through it, in which case it is teleported to the square in front of the summoning stone. 
+A creature can choose to ignore the mirror, in which case it vanishes after 1 minute and a new mirror can't appear in front of that creature again for another 24 hours, or pass through it, in which case it is teleported to the space in front of the summoning stone. 
 
 The ritual of summoning is only able to call creatures too it, a creature can't use the summoning stone to traverse back to their previous location.
 
