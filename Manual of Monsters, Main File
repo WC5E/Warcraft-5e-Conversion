@@ -1,0 +1,616 @@
+<style> .phb{width : 210mm;height : 296.8mm;} .phb:after {content: "";} </style>
+<style> .phb#p1:after { display:none; } </style>
+
+<div class='cover-header'> <div style='margin-top:115px;'></div> Manual of Monsters </div>
+<div class='cover-splotch'></div>
+
+<img src='https://www.gmbinder.com/images/v1OE3Fq.jpg' style='position:absolute; top:-3px; right:-5px; width:810px' />
+<img src='https://www.gmbinder.com/images/igAVnj8.png' style='position:absolute; top:980px; right:56px; width:700px' />
+<img src='https://www.gmbinder.com/images/3d9m32D.png' style='position:absolute; top:1000px; right:675px; width:100px' />
+<img src='https://www.gmbinder.com/images/0fKd9bC.png' style='position:absolute; top:80px; right:40px; width:700px' />
+<img src='https://www.gmbinder.com/images/SGYtcP2.png' style='position:absolute; top:190px; right:90px; width:580px' />
+
+\pagebreak
+
+## Credits
+**Lead Designer:** Jih
+<br> **Writing & Editing:** Jih, Tangerine
+<br> **Reddit Names:** Jihia, TangerineThunder
+
+<br> **Additional Contributors:**
+
+<br> **Cover Illusrator:** MD Zhang
+<br> **Interior Illustrators:** Lucas Graciano, Jorge Jacinto, Lloyd <br>    Hoshide, Ruan Jia
+
+<br> **Based on the original D&D game created by** 
+<br>    E. Gary Gygax and Dave Arneson, as well as <br>    Brian Blume, Rob Kuntz, James Ward and Don Kaye.
+
+<br> **Based on the Warcraft franchise by**
+<br>    © Blizzard Entertainment
+
+<br> **Playtesting provided by**
+
+<br> **Special thanks to** 
+<br>    This entire book was made using GmBinder, it is an <br>    amazing tool for creating authentic looking homebrew <br>    material for 5th Edition Dungeons and Dragons, and <br>    without it this project would've never been considered.
+
+<div style='margin-top:105px'></div>
+<div style="text-align:Center">
+
+##### [www.GmBinder.com](https://www.gmbinder.com/)
+</div>
+
+<div style='margin-top:1000px'></div>
+<div style="text-align:Right"> 
+
+## Foreword </div>
+We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of Dungeons & Dragons. It is a task that has taken us months to do, and many more to come as we continue to work on this in our spare time, in the hopes of bringing a genuine recreation of Warcraft into a tabletop game.
+
+This book is made to compliment Dungeons & Dragons 5th edition **Player's Handbook, Dungeon Master's Guide**, and **Monster Manuals**. Using the rules presented in those books, and balanced around being playable in a standard D&D setting without requiring balancing.
+
+This books is made in our spare time with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe in a Dungeons & Dragons format. Not for any monetary gain.
+
+With each coming update, all changes will be noted in the Changelog--Link is provided below. Likewise we've provided a link to our racial balance shreadsheet, using the rules of Detect Balance by  Eleazzaar.
+
+<div style="text-align:Center"> 
+
+### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A)      [Race Balance](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
+</div>
+
+<br> **Want to help grow a community?**
+
+We're a relatively small group working together on this, <br>    and as such our ability to playtest all of this is limited in <br>    scope. If you want to help better this book, improve and <br>    balance what's inside it, suggest changes, or talk with <br>    others using this to create a Warcraft campaign. Then <br>    head over to the [r/wc5e](https://old.reddit.com/r/wc5e/), a subreddit dedicated to this <br>    handbook and project! <br>    We also have a discord for that you can join if you want <br>    to come talk with us and others using this handbook for <br>    their campaigns!
+
+<div style="text-align:Center"> 
+
+### [Discord](https://discord.gg/dKMJmmD)
+</div>
+
+<div style='margin-top:70px'></div>
+<div class='wide'> 
+
+#### Legal Stuff
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers League, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.
+<br> ©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK.
+</div>
+
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:450px; right:498px; width:150px' />
+
+\pagebreakNum
+
+<style>
+  .toc a {
+    color: inherit !important;	/*toc specifically wants black text. This resets the headers*/}
+  .toc li span:nth-child(2){	/*Allow dot leaders to fill remaining space but not overlap*/
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap; 
+    display: block;}
+  .toc li span:nth-child(2):after{
+    font-family		: BookSanity;	/*Remove any header styles from dot leaders*/
+     font-size   	: 0.317cm;
+    font-weight		: normal;
+    color			: black;
+    content:
+      " ........................................"
+      "........................................."
+      "........................................."; }      
+  .toc li span:first-child{
+    float: right;
+    font-family		: BookSanity;	/*Remove any header styles from page numbers*/
+    font-size   	: 0.317cm;
+    font-weight		: normal;
+    color			: black;
+    margin-left		: 1px;	/*Leaves a small space between page numbers and dot leaders*/} 
+/*Special cases for headings*/    
+  .toc li h3 span:nth-child(2):after{
+  	content: " ";						/*Remove dot leaders on h3*/}  
+  .toc li h3 {
+    margin-bottom: 4px !important;		/*Special spacing for h3*/
+    margin-top: 10px !important;
+    line-height: initial !important;	/*For some reason Multi-line h3 line spacing changed*/}  
+  .toc li h3 span:first-child{
+  	line-height: 1.8em !important;  	/*Line page numbers up with Multi-line h3 better*/}  
+  .toc ul ul {
+  	margin-left: 10px !important;		/*Original lists intented too much*/}  
+  .toc>ul>li {
+    margin-bottom: initial !important;	/*margin for list items needs to be removed or 0*/}
+</style>
+
+# Contents
+
+<div class='toc wide'; style='column-count:3'>
+
+ - [<span>4</span><span>**Ch. 1: Monstrous Adventurers**     </span>](#p4)
+ - [<span>3</span><span> *Height and Weight*                 </span>](#p4)
+ - [<span>3</span><span> Children of Cenarius                </span>](#p4)
+ - [<span>3</span><span> Dragonkin                           </span>](#p4)
+ - [<span>3</span><span> Furbolg                             </span>](#p4)
+ - [<span>3</span><span> Gnoll                               </span>](#p4)
+ - [<span>3</span><span> Harpy                               </span>](#p4)
+ - [<span>3</span><span> Kobold                              </span>](#p4)
+ - [<span>3</span><span> Murloc                              </span>](#p4)
+ - [<span>3</span><span> Naga                                </span>](#p4)
+ - [<span>3</span><span> Quilboar                            </span>](#p4)
+ - [<span>3</span><span> Satyr                               </span>](#p4)
+ - [<span>3</span><span> Vrykul                              </span>](#p4)<br><br><br>
+ - [<span>3</span><span>**Ch. 2: Beastiary**                 </span>](#p3)
+ - [<span>3</span><span>**Ch. 3: Heroes of Azeroth**         </span>](#p3)
+ - [<span>3</span><span>**Ch. 4: Villains of Azeroth**       </span>](#p3)
+ - [<span>3</span><span>**App. A: Miscellaneous Creatures**  </span>](#p3)
+ - [<span>3</span><span>**App. B: Nonplayer Characters**     </span>](#p3)
+ - [<span>3</span><span>**App. C: Faction Character**        </span>](#p3)
+ - [<span>3</span><span>**App. D: Monster Lists**            </span>](#p3)
+</div>
+
+# Index of Monster Stat Blocks
+
+<div class='toc wide'; style='column-count:3'>
+
+ - [<span>3</span><span> Introduction                      </span>](#p3)
+
+</div>
+
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
+
+<div style='margin-top:700px;'></div>
+
+# Chapter 1: Monstrous Adventurers
+Heroes come in many shapes and size, some of which are ancient on the face of Azeroth, and others have just recently emerged to offer their assistance. This chapter presents character races that many would consider to be monstrous or directly hostile towards members of either faction. 
+
+If you're the DM, including these races in your campaign is a storytelling opportunity, a chance for you to decide the roles that different peoples play in the tales you weave. 
+
+If you're a player, consult with your DM before using any of the races here. Your DM may say yes or no to you using a race or subrace, or may modify it in some way.
+
+The following races are detailed in this chapter:
+<div style='margin-top:0px;'></div>
+
+    **Children of Cenarius** 
+
+**Dragonkin**
+
+**Furbolg** are forest guardians who prefer peaceful meth-ods to protect their homes but take up arms if they must.
+
+**Gnoll**
+
+**Harpy**
+
+**Kobold**
+
+**Murloc**
+
+**Naga**
+
+**Quilboar**
+
+**Satyr**
+
+**Vrykul** are fearsome half-giants, said to be the ancestral race of humans, they stand as proud and able warriors.
+
+\columnbreak
+
+## Height and Weight
+You may roll for your character's height and weight on the Random Height and Weight table. The roll in the Height modifier column adds a number to the character's base height. To get a weight, multiply the number you rolled for height by the roll in the Weight modifier column and add the result to the base weight.
+
+##### Random Height and Weight
+|  Race   |Base<br>Height|Base<br>Weight|Height<br>Modifier|Weight<br>Modifier|
+|:---|:-----------:|:-----------:|:-----------:|:-----------:|
+|  Cenarius, centaur |  |  |  |  |
+|  Cenarius, dryad   |  |  |  |  |
+|  Cenarius, keeper  |  |  |  |  |
+|  Dragon, drakonid  |  |  |  |  |
+|  Dragon, spawn     |  |  |  |  |
+|  Gnoll             |  |  |  |  |
+|  Harpy             |  |  |  |  |
+|  Kobold            |  |  |  |  |
+|  Murloc            |  |  |  |  |
+|  Naga              |  |  |  |  |
+|  Quilboar          |  |  |  |  |
+|  Satyr             |  |  |  |  |
+|  Vrykul, frost     |  |  |  |  |
+|  Vrykul, iron      |  |  |  |  |
+|  Vrykul, kvaldir   |  |  |  |  |
+
+<div class='footnote'>CHAPTER 1 | MONSTROUS ADVEN. </div>
+<img src='https://www.gmbinder.com/images/3SNMMe6.jpg' style='position:absolute; top:-160px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/XzbbBU4.png' style='position:absolute; top:180px; right:0px; width:900px' />
+
+\pagebreakNum
+
+# Introduction
+Here's a tip, don't get killed <3
+
+## Statistics
+A monster's statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
+
+### Size
+A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categories table shows how much space a creature of a particular size controls in combat. See the 5th edition *Player's Handbook* for more information on creature size and space.
+
+##### Size Categories
+|  Size       | Space | Examples |
+|:-----------------|:-----------|:-:|
+|  Tiny       | 2½ by 2½ ft. |
+|  Small      | 5 by 5 ft. |
+|  Medium     | 5 by 5 ft. |
+|  Large      | 10 by 10 ft. |
+|  Huge       | 15 by 15 ft. |
+|  Gargantuan | 20 by 20 ft. or larger |
+
+> ##### Modifying Creatures
+> Despite the versatile collection of monsters in this block, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak a creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
+
+\columnbreak
+
+### Type
+A monster's type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an *arrow of dragon slaying* deals extra damage not only to dragons but also other creatures of the dragon type, such as drakonids and drakeadons.
+
+The game includes the following monster types, which have no rules of their own.
+
+**Aberrations** are utterly alien beings. Many of them have innate magical abilities drawn from the creature's alien mind rather than the mystical forces of the world. The quin­tessential aberrations are forgotten ones, nerubians, and beings of the old gods.
+
+**Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
+
+**Celetials** 
+
+**Constructs** are made, not born. Some are programmed by their creators to follow a set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs.
+
+**Dragons** are reptilian creatures of ancient origin and tremendous power. The dragonflights are highly intelligent and have innate magic. Also in this category are creatures distantly related to the dragonflights, but less powerful, less intelligent, and less magical, such as dragonspawns and proto-drakes.
+
+**Elementals** are creatures native to the elemental plane. Some creatures of this type are little more than animate masses of their respective elements. Others have biological forms infused with elemental energy. The races of elemen­tal creatures include ascendants, bound and unbound elementals, and revenants.
+
+**Fey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. They are closely tied to the Emerald Dream. Fey include dryads, faerie dragons, and wisps.
+
+**Fiends**
+
+
+
+<div class='footnote'>CHAPTER 2 | INTRODUCTION </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
+
+
+
+**Giants** tower over humans and their kind. They are enor-mous creatures created by the titans, many of whom still show the stone shapes of their makers. Giants include sea giants, titanic watchers, colossals, and vrykuls.
+
+**Humanoids** are the main peoples of Azeroth, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, orcs, trolls, and dwarves.
+
+A variety of humanoids appear throughout this book, but the races detailed in the *Heroes Handbook* are dealt with in appendix B. That appendix gives you a number of stat blocks that you can use to make variations of those races.
+
+**Monstrosities** are monsters, frightening creatures that are not ordinary, not truely natural, and almost never benign. Some are the results of magical experimentation gone awry, and others are the product of terrible curses. They defy categorization, and in some sense serve as a catch-all category for creatures that don't fit into any type.
+
+**Oozes** are gelatinous creatures that rarely have a fixed shape. They adapt to their environment, taking on aspects of their surroundings.
+
+**Plants** in this context are vegetable creatures, not ordinary flora. Most of them are ambulatory, and some are carnivorous. The quintessential plants are the ancients and treants. Fungal creatures such as sporelings and the mandragora also fall into this category.
+
+**Titans** are beings made by titans themselves. Many resemble constructs, being massive creatures made of stone or other inanimate materials. Titans include the earthen, mogu, and titan keepers.
+
+**Undeads** are once-living creatures brought to a horrify-ing state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as the san'layn and zombies, as well as bodi­less spirits, such as ghosts and specters.
+
+\columnbreak
+
+#### Tags
+A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the human­oid (orc) type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
+
+### Alignment
+A monster's alignment provides a clue to its disposition and how it behaves in a roleplaying or combat situation. For example, a chaotic evil monster might be difficult to reason with and might attack characters on sight, while a neutral monster might be willing to negotiate. See the *Heroes Handbook* for descriptions of the different alignments.
+
+The alignment specified in a monster's stat block is the default. Feel free to depart from it and change a monster's alignment to suit the needs of your campaign. If you want a good-aligned doomguard or an evil keeper of the grove, there's nothing stopping you.
+
+Some creatures can have **any alignment**. Meaning, You can choose the monster's alignment. Some monster's alignment entry indicates a tendency or aversion toward law, chaos, good, or evil. For example, a berserker can be any chaotic alignment (chaotic good, chaotic neutral, or chaotic evil), as befits its wild nature.
+
+Many creatures of low intelligence have no comprehen­sion of law or chaos, good or evil. They don't make moral or ethical choices, but rather act on instinct. These creatures are **unaligned**, which means they don't have an alignment.
+
+### Armor Class
+A monster that wears armor or carries a shield has an Armor Class (AC) that takes its armor, shield, and Dexterity into account. Otherwise, a monster's AC is based on its Dexterity modifier and natural armor, if any. If a monster has natural armor, wears armor, or carries a shield, this is noted in parentheses after its AC value.
+
+### Hit Points
+A monster usually dies or is destroyed when it drops to 0 hit points.
+
+A monster's hit points are presented both as a die expres­sion and as an average number. For example, a monster with 2d8 hit points has 9 hit points on average (2 x 4½).
+
+##### Hit Dice by Size
+|  Monster Size | Hit Dice | Average HP per Die |
+|:-------------------|:---:|:---:|
+|  Tiny         |  d4 |  2½ |
+|  Small        |  d6 |  3½ |
+|  Medium       |  d8 |  4½ |
+|  Large        | d10 |  5½ |
+|  Huge         | d12 |  6½ |
+|  Gargantuan   | d20 | 10½ |
+
+A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8 + 2 hit points (average 11).
+
+<div class='footnote'>CHAPTER 2 | INTRODUCTION </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
+
+### Speed
+A monster's speed tells you how far it can move on its turn. For more information on speed, see the 5th edition *Player's Handbook*.
+
+All creatures have a walking speed, simply called the monster's speed. Creatures that have no form of ground-based locomotion have a walking speed of 0 feet.
+
+Some creatures have one or more of the following additional movement modes.
+
+#### Burrow
+A monster that has a burrowing speed can use that speed to move through sand, earth, mud, or ice. A monster can't burrow through solid rock unless it has a special trait that allows it to do so.
+
+#### Climb
+A monster that has a climbing speed can use all or part of its movement to move on vertical surfaces. The monster doesn't need to spend extra movement to climb.
+
+#### Fly
+A monster that has a flying speed can use all or part of its movement to fly. Some monsters have the ability to **hover**, which makes them hard to knock out of the air (as ex­plained in the rules on flying in the 5th edition *Player's Handbook*). Such a monster stops hovering when it dies.
+
+#### Swim
+A monster that has a swimming speed doesn't need to spend extra movement to swim.
+
+### Ability Scores
+Every monster has six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma) and corrsponding modifiers. For more information on ability scores and how they're used in play, see the 5th edition *Player's Handbook*.
+
+### Saving Throws
+The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily charmed or frightened might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
+
+A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is deter­mined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
+
+> ##### Armor, Weapon, & Tool Proficiency
+> Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
+>
+> For example, a ogre typically wears hide armor and wields a greatclub. You could equip an ogre with chain mail and a greataxe instead, and assume the ogre is proficient with both, one or the other, or neither.
+>
+> See the 5th edition *Player's Handbook* for rules on using armor or weapons without proficiency.
+
+\columnbreak
+
+##### Proficiency Bonus by Challenge Rating
+
+<div style='column-count:2'>
+
+| Challenge | Proficiency<br>Bonus |
+|:--:|:--:|
+|  0 | +2 |
+| 1/8| +2 |
+| 1/4| +2 |
+| 1/2| +2 |
+|  1 | +2 |
+|  2 | +2 |
+|  3 | +2 |
+|  4 | +2 |
+|  5 | +3 |
+|  6 | +3 |
+|  7 | +3 |
+|  8 | +3 |
+|  9 | +4 |
+| 10 | +4 |
+| 11 | +4 |
+| 12 | +4 |
+| 13 | +5 |
+
+| Challenge | Proficiency<br>Bonus |
+|:--:|:--:|
+| 14 | +5 |
+| 15 | +5 |
+| 16 | +5 |
+| 17 | +6 |
+| 18 | +6 |
+| 19 | +6 |
+| 20 | +6 |
+| 21 | +7 |
+| 22 | +7 |
+| 23 | +7 |
+| 24 | +7 |
+| 25 | +8 |
+| 26 | +8 |
+| 27 | +8 |
+| 28 | +8 |
+| 29 | +9 |
+| 30 | +9 |
+</div>
+
+### Skills
+The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom (Perception) and Dexterity (Stealth) checks. 
+
+A skill bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifier might apply. For instance, a monster might have a larger-than-expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
+
+### Vulnerabilities, Resistances, <br>and Immunities
+Some creatures have vulnerability, resistance, or immunity to certain types of damage. Additionally, some creatures are immune to certain conditions. If a monster is immune to a game effect that isn't considered damage or a condition, it has a special trait.
+
+<div class='footnote'>CHAPTER 2 | INTRODUCTION </div>
+<img src='https://www.gmbinder.com/images/uZAKe3K.jpg' style='position:absolute; top:770px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/sKQMREa.png' style='position:absolute; top:0px; right:0px; width:1000px' />
+
+\pagebreakNum
+
+### Senses
+The Senses entry notes a monster's passive Wisdom (Perception) score, as well as any special senses the monster might have. Special senses are described below.
+
+#### Blindsight
+A monster with blindsight can perceive its surroundings without relying on sight, within a specific radius.
+
+Creatures without eyes, such as oozes, typically have this special sense, as do creatures with echolocation or height­ened senses, such as bats and the dragonflights.
+
+If a monster is naturally blind, it has a parenthetical note to this effect, indicating that the radius of its blindsight defines the maximum range of its perception.
+
+#### Darkvision
+A monster with darkvision can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can't discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
+
+#### Tremorsense
+A monster with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures.
+
+#### Truesight
+A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
+
+### Languages
+The languages that a monster can speak are listed in alphabetical order. Sometimes a monster can understand a language but can't speak it, and this is noted in its entry.
+
+A "—" indicates that a creature neither speaks nor under­stands any language.
+
+#### Telepathy
+Telepathy is a magical ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn't need to share a language with the monster to communicate in this way with it, but it must be able to understand at least one language. A creature without telepathy can receive and respond to telepathic messages but can't initiate or terminate a telepathic conversation.
+
+A telepathic monster doesn't need to see the creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiative or terminate a telepathic conversation without using an action, but while the monster is incapacitated, it can't initiate telepathic contact, and contact is terminated.
+
+A creature within the area of an *antimagic field* or in any other location where magic doesn't function can't send or receive telepathic messages.
+
+\columnbreak
+
+### Challenge
+A monster's **challenge rating** tells you how great a threat the monster is. An appropriately equipped and well-rested party of four adventurers should be able to defeat monsters that has a challenge rating equal to its level without suffering any deaths. For example, a party of four 3rd-level characters should find a monster with a challenge rating of 3 to be a worthy challenge, but not a deadly one.
+
+Monsters that are significantly weaker than 1st-level characters have a challenge rating lower than 1. Monsters with a challenge rating of 0 are insignificant except in large numbers; those with no effective attacks are worth no experience points, while those that have attacks are worth 10 XP each.
+
+Some monsters present a greater challenge than even a typical 20th-level party can handle. These monsters have a challenge rating of 21 or higher and are specifically designed to test player skill.
+
+#### Experience Points
+The number of experience points (XP) a monster is worth is based on its challenge rating. Typically, XP is awarded for defeating the monster although the DM may also award XP for neutralizing the threat posed by the monster in some other manner.
+
+Unless something tells you otherwise, a monster summoned by a spell or other magical ability is worth the XP noted in its stat block.
+
+The 5th edition *Dungeon Master's Guide* explains how to create encounters using XP budgets, as well as how to adjust an encounter's difficulty.
+
+##### Experience Points by Challenge Rating
+
+<div style='column-count:2'>
+
+| Challenge | XP |
+|:--:|:------:|
+|  0 | 0 or 10|
+| 1/8|     25 |
+| 1/4|     50 |
+| 1/2|    100 |
+|  1 |    200 |
+|  2 |    450 |
+|  3 |    700 |
+|  4 |  1,100 |
+|  5 |  1,800 |
+|  6 |  2,300 |
+|  7 |  2,900 |
+|  8 |  3,900 |
+|  9 |  5,000 |
+| 10 |  5,900 |
+| 11 |  7,200 |
+| 12 |  8,400 |
+| 13 | 10,000 |
+
+| Challenge | XP |
+|:--:|:-------:|
+| 14 |  11,500 |
+| 15 |  13,000 |
+| 16 |  15,000 |
+| 17 |  18,000 |
+| 18 |  20,000 |
+| 19 |  22,000 |
+| 20 |  25,000 |
+| 21 |  33,000 |
+| 22 |  41,000 |
+| 23 |  50,000 |
+| 24 |  62,000 |
+| 25 |  75,000 |
+| 26 |  90,000 |
+| 27 | 105,000 |
+| 28 | 120,000 |
+| 29 | 135,000 |
+| 30 | 155,000 |
+</div>
+
+<div class='footnote'>CHAPTER 2 | INTRODUCTION </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
+
+### Special Traits
+Special traits (which appear after a monster's challenge rating but before any actions or reactions) are character­istics that are likely to be relevant in a combat encounter and that require some explanation.
+
+#### Innate Spellcasting
+A monster with this innate ability to cast spells has the Innate Spellcasting special trait. Unless noted otherwise, an innate spell of 1st level or higher is always cast as its lowest possible level and can't be cast at a higher level. If a monster has a cantrip where its level matters and no level is given, use the monster's challenge rating.
+
+An innate spell can have special rules or restrictions. For example, a spell might have a "self only" restriction, which means that the spell affects only the caster.
+
+A monster's innate spells can't be swapped out with other spells. If a monster's innate spells don't require attack rolls, no attack bonus is given for them.
+
+#### Spellcasting
+A monster with the Spellcasting class feature has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher (as explained in the 5th edition *Player's Handbook*). The spellcaster level is also used for any cantrips included in the feature.
+
+The monster has a list of spells known or prepared from a particular class. The list might also include spells from a feature in that class, such as the Divine Priesthood feature of the priest or the Druid Path feature of the druid.
+
+A monster can cast spells from its list at a higher level if it has the spell slot to do so. For example, a creature with the 3rd-level *lightning bolt* spell can cast iti as a higher level spell if such a spell slot is available.
+
+You can change the spells that a monster knows or has prepared, replacing any spell on a monster's spell list with a different spell of the same level and from the same class list. If you do so, you might cause the monster to be a greater or lesser threat than suggested by its challenge rating. 
+
+#### Psionics
+A monster that casts spells using only the power of its mind has the psionics tag added to its Spellcasting or Innate Spellcasting special trait. This tag carries no special rules of its own, but other parts of the game might refer to it. A monster that has this tag typically doesn't require any components to cast its spells.
+
+### Actions
+When a monster takes its action, it can choose from the options in the Action section of its stat block or use one of the actions available to all creatures, such as the Dash or Hide action, as described in the 5th edition *Player's Handbook*
+
+#### Melee and Ranged Attacks
+The most common action that a monster will take in combat are melee and ranged attacks. These can be spell attacks or weapon attacks, where the "weapon" might be a manufactured item or a natural weapon, such as a claw or tail spike. For more information on the different kinds of attacks, see the 5th edition *Player's Handbook*.
+
+***Creature vs. Target.*** The target of a melee or ranged attack is ither one creature or one target, the difference being that a "target" can be a creature or an object
+
+<div class='footnote'>CHAPTER 2 | INTRODUCTION </div>
+<img src='https://www.gmbinder.com/images/PjJ1cuU.jpg' style='position:absolute; top:0px; right:-70px; width:770px' />
+<img src='https://www.gmbinder.com/images/JH5NQVm.png' style='position:absolute; top:0px; right:-60px; width:900px' />
+
+\pagebreakNum
+
+    ***Hit.*** any damage dealt or other effects that occur as a result of an attack hitting a target are described after the *"Hit"* notation. You have the option of taking average damage or rolling the damage; for this reason, both the average damage and the die expression are presented.
+
+***Miss.*** If an attack hass an effect that occurs on a miss that information is presented after the *"Miss:"* notation.
+
+#### Multiattack
+A creature that can make multiple attacks on its turn has the Multiattack ability. A creature can't use Multiattack when making an opportunity attack, which must be a single melee attack.
+
+#### Ammunition
+A monster carries enough ammunition to make its ranged attacks. You can assume that a monster has 2d4 pieces of ammunition for a thrown weapon attack, and 2d10 pieces of ammunition for a projectile weapon such as a bow or crossbow.
+
+### Reactions
+If a monster can do something special with its reaction, that information is contained here. If a creature has no special reaction, this section is absent.
+
+### Limited Usage
+Some special abilities have restrictions on the number of times they can be used.
+
+***X/Day.*** The notation "X/Day" means a special ability can be used X number of times and that a monster must finish a long rest to use it again.
+
+***Recharge X—Y.*** The notation "Recharge X—Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a d6. If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. Theability also recharges when the monster finishes a short or long rest.
+
+For example, "Recharge 5-6" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5-6 on a d6.
+
+***Recharge after a Short or Long Rest.*** This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again.
+
+<br>
+
+> ##### Grapple Rules for Monsters
+> Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn't need to make an additional ability check to determine whether the grapple succeeds, unless said otherwise.
+>
+> A creature grappled by the monster can use its action to try and escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength (Athletics) modifier.
+
+\columnbreak
+
+### Equipment
+A stat block rarely refers to equipment, other than armor or weapons used by a monster. A creature that customarily wears clothes, such as humanoid, is assumed to be dressed appropriately.
+
+You can equip monsters with additional gear and trinkets however you like, using the equipment chapter of the 5th edition *Player's Handbook*, and our *Heroes Handbook* for inspiration, and you decide how much of a monster's equip­ment is recoverable after the creature is slain and whether any of that equipment is still usable. A battered suit of armor made for a monster is rarely usable by someone else, for instance.
+
+If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
+
+## Legendary Creatures
+A legendary creature can do things that ordinary creatures can't. Legendary creatures can take special actions outside their turns, and a few can exert power over their environ­ment, causing extraordinary magical effects to occur in their vicinity.
+
+### Legendary Actions
+A legendary creature can take a certain number of special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. A legendary creature regains spent legendary actions at the start of its turn. It isn't required to use its legendary actions, and it can't use legendary actions while incapacitated.
+
+### A Legendary Creature's Lair
+A legendary creature might have a section of describing its lair and the special effects it can create while there, either by act of will or simply by being present. Not all legendary creatures have lairs. This section only applies to legendary creatures that spend a great deal of time in their lairs and are most likely to be encountered there.
+
+#### Lair Actions
+If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), the creature can use one of its lair action options, or forgo using any of them that round.
+
+#### Regional Effects
+The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
+
+<div class='footnote'>CHAPTER 2 | INTRODUCTION </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/Z8yFnva.jpg' style='position:absolute; top:870px; right:-10px; width:400px;mix-blend-mode:multiply;transform:rotate(-10deg' />
