@@ -2100,7 +2100,7 @@ Druids harness the vast powers of nature to preserve balance and protect life. W
 They are deeply in tune with the animal spirits of Azeroth. As master shapeshifters, druids can take on the forms of a variety of beasts, morphing into a bear, cat, creatures of water, and creatures of air with ease. This flexibility allows them to fill different roles during their adventures, tearing enemies to shreds one minute and surveying the battlefield from the sky the next. These keepers of the natural order are among the most versatile heroes in Azeroth, and they must be prepared to adjust to new challenges on a moment’s notice.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='http://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/tfBvRJblmwcreFB.jpg' style='position:absolute; top:0px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/lz4eVfw.jpg' style='position:absolute; top:0px; right:0px; width:1000px' />
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-480px; right:-200px; width:1500px;transform:rotate(-45deg' />
 <img src='https://www.gmbinder.com/images/3EnvB2R.png' style='position:absolute; top:400px; right:390px; width:500px' />
 
@@ -9136,23 +9136,20 @@ ___
 >
 > ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell, as long as you are shapeshifted.
 >
-> ***Pounce.*** If you move at least 20 feet straight toward a creature right before hitting it with a claw attack, the target must succeed on a DC <br> *(10 + Dexterity modifier)* Strength saving throw or be knocked prone. If the target is prone, you can make one bite attack against it as a bonus action.
+> ***Pounce.*** If you move at least 20 feet straight toward a creature right before hitting it with a claw attack, the target must succeed on a DC *(10 + Dex modifier)* Strength saving throw or be knocked prone. If the target is knocked prone by the pounce, your bite deals an extra 1d6 piercing damage.
 >
 > ### Actions
-> ***Multiattack.*** You make two attacks as an action, one with your bite and one with your claws.
+> ***Claws.*** *Melee Weapon Attack:* *(Dex + Prof bonus)* to hit, reach 5 ft., one target. *Hit:* (2d4 + Dex modifier) slashing damage.
 >
-> ***Bite.*** *Melee Weapon Attack:* *(Dex + Prof bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d6 + Dex modifier) piercing damage.
->
-> ***Claws.*** *Melee Weapon Attack:* *(Dex + Prof bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d4 + Dex modifier) slashing damage.
-> ###
-> <div style='margin-top:7px;'></div>
->
+> ### Bonus Action
+> ***Bite.*** *Melee Weapon Attack:* *(Dex + Prof bonus)* to hit, reach 5 ft., one target. *Hit:* (1d6 + Dex modifier) piercing damage.
+>___
 > **Common shapes taken are as followed:**<br>
 > <div style='margin-top:-7px;'></div>
 >
 > *(Snow) Leopard, Lion, Lynx, Panther, Tiger.*
 
-<div style='margin-top:-10px;'></div>
+<div style='margin-top:-20px;'></div>
 
 ___
 > ## Bear Form
@@ -9166,18 +9163,18 @@ ___
 > ***Ironfur.*** You have resistance against bludgeoning, piercing, and slashing from nonmagical attacks.
 >
 > ### Actions
-> ***Multiattack.*** You make two attacks as an action, one with your bite and one with your claws.
+> ***Claws.*** *Melee Weapon Attack:* *(Str + Prof bonus)* to hit, reach 5 ft., one target. *Hit:* (2d6 + Str modifier) slashing damage.
 >
-> ***Bite.*** *Melee Weapon Attack:* *(Str + Proficiency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d8 + Str modifier) piercing damage.
+> ### Bonus Action
+> ***Bite.*** *Melee Weapon Attack:* *(Str + Prof bonus)* to <br> hit, reach 5 ft., one target. *Hit:* (1d8 + Str modifier) piercing damage.
 >
-> ***Claws.*** *Melee Weapon Attack:* *(Str + Proficiency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d6 + Str modifier) slashing damage.
-> ###
-> <div style='margin-top:7px;'></div>
->
+> ___
 > **Common shapes taken are as followed:**<br>
 > <div style='margin-top:-7px;'></div>
 >
 > *Brown Bear, Black Bear, Grey Bear, Grizzly Bear.*
+
+<br>
 
 \columnbreak
 
@@ -9193,18 +9190,17 @@ ___
 > ***Keen Sight.*** You have advantage on Wisdom (Perception) checks that rely on sight.
 >
 > ### Actions
-> ***Beak.*** *Melee Weapon Attack:* *(Str/Dex + Profici-ency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d4 + Str/Dex modifier) piercing damage.
+> ***Beak.*** *Melee Weapon Attack:* *(Str/Dex + Prof bonus)* to hit, reach 5 ft., one target. *Hit:* (2d4 + Str/Dex modifier) piercing damage.
 >
-> ***Talons.*** *Melee Weapon Attack:* *(Str/Dex + Profici-ency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (2d6 + Str/Dex modifier) slashing damage.
-> ###
-> <div style='margin-top:7px;'></div>
+> ***Talons.*** *Melee Weapon Attack:* *(Str/Dex + Prof bonus)* to hit, reach 5 ft., one target. *Hit:* (2d6 + Str/Dex modifier) slashing damage.
 >
+>___
 > **Common shapes taken are as followed:**<br>
 > <div style='margin-top:-7px;'></div>
 >
 > *Dire Bat, Dire Hawk, Dire Owl, Eagle, Storm Crow.*
 
-<div style='margin-top:-10px;'></div>
+<div style='margin-top:-20px;'></div>
 
 ___
 > ## Aquatic Form
@@ -9218,16 +9214,15 @@ ___
 > ***Blindsight.*** You gain blindsight 60 ft.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* *(Str + Proficiency bonus)* to hit, reach 5 ft., one target. <br> *Hit:* (1d8 + Str modifier) piercing damage.
-> ###
-> <div style='margin-top:7px;'></div>
+> ***Bite.*** *Melee Weapon Attack:* *(Str + Prof bonus)* to hit, reach 5 ft., one target. *Hit:* (1d8 + Str modifier) piercing damage.
 >
+>___
 > **Common shapes taken are as followed:**<br>
 > <div style='margin-top:-7px;'></div>
 >
 > *Sea Lion (Amphibious), Shark, Dolphin, Orca.*
 
-<div style='margin-top:-10px;'></div>
+<div style='margin-top:-20px;'></div>
 
 ___
 > ## Travel Form
@@ -9239,10 +9234,9 @@ ___
 > ***Mountable.*** As long as a creature is on your back, you both take turns on your initiative. Upon dis-mount, the riders initiative returns to normal.
 >
 > ### Actions
-> ***Hooves.*** *Melee Weapon Attack:* (Str + Proficiency bonus) to hit, reach 5 ft., one target. <br> *Hit:* (2d4 + Str modifier) bludgeoning damage.
-> ###
-> <div style='margin-top:7px;'></div>
+> ***Hooves.*** *Melee Weapon Attack:* (Str + Prof bonus) to hit, reach 5 ft., one target. *Hit:* (2d4 + Str modifier) bludgeoning damage.
 >
+>___
 > **Common shapes taken are as followed:**<br>
 > <div style='margin-top:-7px;'></div>
 >
