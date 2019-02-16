@@ -158,28 +158,28 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
      - [<span>74</span><span>Priest                                          </span>](#p74)
      - [<span>79</span><span>Rogue                                           </span>](#p79)
      - [<span>83</span><span>Shaman                                          </span>](#p83)
-     - [<span>90</span><span>Warlock                                         </span>](#p90)
-     - [<span>96</span><span>Warrior                                         </span>](#p96)
-     - [<span>101</span><span>*Prestige Classes*                             </span>](#p101)
-       - [<span>102</span><span>Death Knight                                 </span>](#p106)
-       - [<span>108</span><span>Demon Hunter                                 </span>](#p108)
-  - #### [<span>114</span><span>Chapter 3: Personality & Background          </span>](#p114)
-     - [<span>114</span><span>Character Details                              </span>](#p114)
-     - [<span>117</span><span>New Backgrounds                                </span>](#p117)
-  - #### [<span>122</span><span>Chapter 4: New Equipment                     </span>](#p122)
-     - [<span>122</span><span>Starting Equipment                             </span>](#p122)
-     - [<span>122</span><span>Wealth                                         </span>](#p122)
-     - [<span>123</span><span>Shields                                        </span>](#p123)
-     - [<span>123</span><span>Racial Weapons                                 </span>](#p123)
-     - [<span>124</span><span>Firearms                                       </span>](#p124)
-  - #### [<span>125</span><span>Chapter 5: Customization Options             </span>](#p125)
-     - [<span>125</span><span>Multiclassing                                  </span>](#p125)
-     - [<span>127</span><span>New Feats                                      </span>](#p127)
-     - [<span>127</span><span> Racial Feats                                  </span>](#p127)
-- ### [<span>130</span><span>Part II: Magic                                  </span>](#p130)
-  - #### [<span>131</span><span>Chapter 6: Spells                            </span>](#p131)
-     - [<span>131</span><span>Spell Lists                                    </span>](#p131)
-     - [<span>134</span><span>Spell Descriptions                             </span>](#p134)
+     - [<span>89</span><span>Warlock                                         </span>](#p89)
+     - [<span>95</span><span>Warrior                                         </span>](#p95)
+     - [<span>100</span><span>*Prestige Classes*                             </span>](#p100)
+       - [<span>101</span><span>Death Knight                                 </span>](#p101)
+       - [<span>107</span><span>Demon Hunter                                 </span>](#p107)
+  - #### [<span>113</span><span>Chapter 3: Personality & Background          </span>](#p113)
+     - [<span>113</span><span>Character Details                              </span>](#p113)
+     - [<span>116</span><span>New Backgrounds                                </span>](#p116)
+  - #### [<span>121</span><span>Chapter 4: New Equipment                     </span>](#p121)
+     - [<span>121</span><span>Starting Equipment                             </span>](#p121)
+     - [<span>121</span><span>Wealth                                         </span>](#p121)
+     - [<span>122</span><span>Shields                                        </span>](#p122)
+     - [<span>122</span><span>Racial Weapons                                 </span>](#p122)
+     - [<span>123</span><span>Firearms                                       </span>](#p123)
+  - #### [<span>124</span><span>Chapter 5: Customization Options             </span>](#p124)
+     - [<span>124</span><span>Multiclassing                                  </span>](#p124)
+     - [<span>126</span><span>New Feats                                      </span>](#p126)
+     - [<span>126</span><span> Racial Feats                                  </span>](#p126)
+- ### [<span>129</span><span>Part II: Magic                                  </span>](#p129)
+  - #### [<span>130</span><span>Chapter 6: Spells                            </span>](#p130)
+     - [<span>130</span><span>Spell Lists                                    </span>](#p130)
+     - [<span>133</span><span>Spell Descriptions                             </span>](#p133)
 
 \columnbreak
 
@@ -6263,7 +6263,7 @@ You must then finish a long rest to use this feature again.
 
 \pagebreakNum
 
-<style> .phb#p113:after { display:none; } </style>
+<style> .phb#p112:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/Pv000br.jpg' style='position:absolute; top:0px; right:-600px; width:2000px' />
 
 \pagebreak
@@ -6747,7 +6747,7 @@ As a member of a tribe, the community is what matters most, all have to work tog
 
 \pagebreakNum
 
-<style> .phb#p121:after { display:none; } </style>
+<style> .phb#p120:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/80Bnl9r.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 
 \pagebreak
@@ -7305,7 +7305,7 @@ Your hide toughens, improving your ability to shrug off attacks. You gain the fo
 ##### Magic
 </div>
 
-<style> .phb#p130:after { display:none; } </style>
+<style> .phb#p129:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/Mpqbq5k.jpg' style='position:absolute; top:0px; right:-230px; width:1250px' />
 
 \pagebreak
@@ -8912,7 +8912,7 @@ You open a crack into the void, as a shimmering black knife strikes out from the
 ##### Variant Rules
 </div>
 
-<style> .phb#p142:after { display:none; } </style>
+<style> .phb#p141:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/X9qkkqr.jpg' style='position:absolute; top:0px; right:-460px; width:1700px' />
 
 \pagebreak
@@ -9048,7 +9048,7 @@ This system can be applied to monsters that cast spells using spell slots, but i
 
 \pagebreakNum
 
-<style> .phb#p145:after { display:none; } </style>
+<style> .phb#p144:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/f4ZZbj7.jpg' style='position:absolute; top:0px; right:-350px; width:2200px;transform:rotate(-10deg)' />
 
 \pagebreak
@@ -9259,7 +9259,6 @@ ___
 \pagebreakNum
 
 # Appendix C: Demon Companions
-
 ___
 > ## Imp
 >*Small fiend (demon), chaotic evil*
@@ -9287,6 +9286,8 @@ ___
 >___
 > - **7th Level** The imp can cast the *fireball* spell at 3rd level once a day
 
+<div style='margin-top:-20px;'></div>
+
 ___
 > ## Voidwalker
 >*Medium fiend (demon), neutral evil*
@@ -9311,12 +9312,15 @@ ___
 > 
 > 1/day each: *compelled duel, darkness*
 
+\columnbreak
 ___
 > ### Actions
 > ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage
 > ___
 > - **5th Level** The voidwalker can make two slam attacks as an Action
 > - **7th Level** The voidwalker can use its innate spellcasting three times a day each
+
+<div style='margin-top:-20px;'></div>
 
 ___
 > ## Felhunter
@@ -9514,7 +9518,7 @@ The majority of demon hunter takes years to master their new found powers, takin
 
 \pagebreakNum
 
-<style> .phb#p152:after { display:none; } </style>
+<style> .phb#p151:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/VV3bz4T.jpg' style='position:absolute; top:150px; right:-205px; width:1200px;transform:rotate(90deg)' />
 
 \pagebreak
@@ -9542,6 +9546,6 @@ Did you know this was all made using GmBinder? I can't stretch enough how fantas
 </div>
 <div class='back-cover-logo'></div>
 
-<style> .phb#p153:after { display:none; } </style>
+<style> .phb#p152:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/tOOncAE.jpg' style='position:absolute; top:0px; right:-400px; width:900px' />
 <img src='https://www.gmbinder.com/images/x83va2I.png' style='position:absolute; top:0px; right:-100px; width:900px' />
