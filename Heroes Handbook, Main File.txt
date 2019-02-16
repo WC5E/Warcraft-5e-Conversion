@@ -3319,8 +3319,8 @@ You can spend 1 chi point to take the Dodge action as a bonus action on your tur
 #### Step of the Wind
 You can spend 1 chi point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
-#### Surging Mist
-As a bonus action, you can spend 1 chi point and choose a creature within 30 feet of you, the target regains hit points equal to 1 martial arts die + your Wisdom modifier.
+#### Effuse
+You can spend chi points and use your bonus action to touch a creature within range. The creature regains hit points equal to 1d4 + 1 for each chi point you spent, to a maximum of 4d4 + 4.
 
 \columnbreak
 
