@@ -185,14 +185,14 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 
 <div style='margin-top:-25px;'></div>
 
-- ### [<span>142</span><span>Part III: Variant Rules                         </span>](#p142)
- - [<span>143</span><span>Hero Points                                        </span>](#p143)
- - [<span>144</span><span>Mana                                               </span>](#p144)
-- ### [<span>146</span><span>Appendix A: Shapeshifts                         </span>](#p146)
-- ### [<span>148</span><span>Appendix B: Shaman Spirits                      </span>](#p148)
-- ### [<span>148</span><span>Appendix C: Demon Companions                    </span>](#p148)
-- ### [<span>150</span><span>Appendix D: Special Tasks                       </span>](#p150)
-- ### [<span>152</span><span>Appendix E: World Map                           </span>](#p152)
+- ### [<span>141</span><span>Part III: Variant Rules                         </span>](#p141)
+ - [<span>142</span><span>Hero Points                                        </span>](#p142)
+ - [<span>143</span><span>Mana                                               </span>](#p143)
+- ### [<span>145</span><span>Appendix A: Shapeshifts                         </span>](#p145)
+- ### [<span>147</span><span>Appendix B: Shaman Spirits                      </span>](#p147)
+- ### [<span>147</span><span>Appendix C: Demon Companions                    </span>](#p147)
+- ### [<span>149</span><span>Appendix D: Special Tasks                       </span>](#p149)
+- ### [<span>151</span><span>Appendix E: World Map                           </span>](#p151)
 </div>
 
 <style> .phb#p3:after { display:none; } </style>
@@ -9132,7 +9132,7 @@ ___
 >
 > *Dire Bat, Dire Hawk, Dire Owl, Eagle, Storm Crow.*
 
-<div style='margin-top:-20px;'></div>
+<div style='margin-top:-40px;'></div>
 
 ___
 > ## Aquatic Form
@@ -9154,7 +9154,7 @@ ___
 >
 > *Sea Lion (Amphibious), Shark, Dolphin, Orca.*
 
-<div style='margin-top:-20px;'></div>
+<div style='margin-top:-40px;'></div>
 
 ___
 > ## Travel Form
