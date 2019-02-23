@@ -356,8 +356,7 @@ You will likely notice that there are two class suggestion charts. One for Pre-C
 </div>
 
 <div class='footnote'>PART 1 | RACES </div>
-<img src='https://www.gmbinder.com/images/c1MzTlS.jpg' style='position:absolute; top:730px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-100px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
@@ -1143,8 +1142,7 @@ You will likely notice that there are two class suggestion charts. One for Pre-C
 </div>
 
 <div class='footnote'>PART 1 | RACES </div>
-<img src='https://www.gmbinder.com/images/YVPlr7M.jpg' style='position:absolute; top:750px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-100px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
@@ -1914,8 +1912,6 @@ Your nightborne character has a variety of natural abilities, harnessed by old t
 
 The following are a set of class suggestions, pulled from World of Wacraft, as the classes the independent races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
 
-You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the people of the faction split races began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the faction split races were not as open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race. In the case of the Pandaren, their homelands were hidden, and they were mostly unknown before the Cataclysm.
-
 <div class='wide'; style="text-align:Center"> 
 
 # Post-Cataclysm
@@ -1929,8 +1925,11 @@ You will likely notice that there are two class suggestion charts. One for Pre-C
  </div>
 
 <div class='footnote'>PART 1 | RACES </div>
-<img src='https://www.gmbinder.com/images/8SWMqKb.jpg' style='position:absolute; top:650px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-200px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/GkAxqdi.png' style='position:absolute; top:100px; right:0px; width:300px;transform:rotate(20deg)' />
+
+
+
 
 \pagebreakNum
 
@@ -9571,6 +9570,6 @@ Did you know this was all made using GmBinder? I can't stretch enough how fantas
 </div>
 <div class='back-cover-logo'></div>
 
-<style> .phb#p152:after { display:none; } </style>
+<style> .phb#p153:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/tOOncAE.jpg' style='position:absolute; top:0px; right:-400px; width:900px' />
 <img src='https://www.gmbinder.com/images/x83va2I.png' style='position:absolute; top:0px; right:-100px; width:900px' />
