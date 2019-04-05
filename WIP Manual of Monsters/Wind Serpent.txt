@@ -1,0 +1,102 @@
+___
+> ## Wind Serpent
+>*Medium beast, neutral*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 22 (5d8)
+> - **Speed** 20 ft., fly 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|15 (+2)|11 (+0)|3 (-4)|14 (+2)|5 (-3)|
+>___
+> - **Skills** Perception +4, Stealth +4
+> - **Damage Resistances** poison
+> - **Senses** passive Perception 14
+> - **Languages** —
+> - **Challenge** 1 (100 XP)
+> ___
+> ***Keen Smell.*** The serpent has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage plus 3 (1d6) poison damage.
+>
+> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 9 (2d6 + 2) bludgeoning damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the wind serpent can't constrict another target.
+>
+> ***Lightning Breath (Recharges after a Short or Long Rest).*** The serpent exhales lightning in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 11 (2d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+\columnbreak
+___
+> ## Wind Serpent Stinglash
+>*Medium beast, neutral*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 33 (6d8 + 5)
+> - **Speed** 20 ft., fly 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|16 (+3)|12 (+1)|3 (-4)|14 (+2)|5 (-3)|
+>___
+> - **Skills** Perception +4, Stealth +5
+> - **Damage Resistances** poison
+> - **Senses** passive Perception 14
+> - **Languages** —
+> - **Challenge** 2 (100 XP)
+> ___
+> ***Keen Smell.*** The serpent has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ***Venomous Bite.*** Once per turn, the serpent can deal an extra 3 (1d6) poison damage with its bite to a target that doesn't have all its hit points.
+>
+> ### Actions
+> ***Multiattack.*** The serpent makes two attacks: one with its bite and one with its constrict.
+>
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage plus 3 (1d6) poison damage.
+>
+> ***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the wind serpent can't constrict another target.
+>
+> ***Toxic Spit.*** *Ranged Weapon Attack:* +5 to hit, range 15/30 ft., one creature. *Hit:* The target must make a DC 13 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+
+
+
+
+> ##### Variant: Wind Serpents of Azeroth
+> Wind serpents are found throughout Azeroth and have adapted differently to their climate.
+>
+> ***Lightning Breath.*** You can change a wind serpent's breath attack to deal either acid or cold damage, changing the breath attack from a *line* to a *cone* of size equal to half the line's length.
+>
+> ***Venomous Bite and Toxic Spit.*** You can change the damage type of these actions to acid, cold, or lightning instead of poison damage.
+
+\pagebreakNum
+
+___
+> ## Wind Serpent Dreadfang
+>*Large beast, neutral*
+> ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 60 (11d8 + 11)
+> - **Speed** 30 ft., fly 60 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|9 (-1)|17 (+3)|13 (+1)|4 (-3)|15 (+2)|5 (-3)|
+>___
+> - **Skills** Perception +4, Stealth +5
+> - **Damage Resistances** poison
+> - **Senses** passive Perception 14
+> - **Languages** —
+> - **Challenge** 4 (1,100 XP)
+> ___
+> ***Keen Smell.*** The serpent has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ### Actions
+> ***Multiattack.*** The serpent makes two attacks: one with its bite and one with its constrict.
+>
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage plus 7 (2d6) poison damage.
+>
+> ***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one Large or smaller creature. *Hit:* 13 (3d6 + 3) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the wind serpent can't constrict another target.
+>
+> ***Frightful Screech.*** Each creature within 60 feet of the serpent that can hear it must succeed on a DC 12 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this serpent's Frightful Screech for the next 24 hours. 
+>
+> ***Lightning Breath (Recharge 5-6).*** The serpent exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 27 (5d10) lightning damage on a failed save, or half as much damage on a success.
