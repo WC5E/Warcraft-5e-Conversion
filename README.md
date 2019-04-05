@@ -39,4 +39,4 @@ Progress on the Manual of Monsters is kept in its own Drive spreadsheet. Creatur
 
 New creature statblocks for the Manual of Monsters are added to their own WIP folder first, and then pulled from there into the book. That way we can scope the book into iterations, and extra statblocks can be done parallel with book formatting. 
 
-https://github.com/Jihia/Warcraft-Heroes-Handbook/tree/master/WIP%20Manual%20of%20Monsters
+[WIP Monster Folder](https://github.com/Jihia/Warcraft-Heroes-Handbook/tree/master/WIP%20Manual%20of%20Monsters)
