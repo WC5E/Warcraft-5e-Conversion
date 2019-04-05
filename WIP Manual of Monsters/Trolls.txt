@@ -1,0 +1,142 @@
+___
+> ## Troll Headhunter
+>*Medium humanoid (any troll), chaotic evil*
+> ___
+> - **Armor Class** 14 (leather armor)
+> - **Hit Points** 19 (3d8 + 6)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|16 (+3)|14 (+2)|12 (+1)|15 (+2)|9 (-1)|
+>___
+> - **Skills** Stealth +5, Survival +4
+> - **Senses** darkvision 60 ft., passive Perception 12
+> - **Languages** Common, Zandali
+> - **Challenge** 1 (200 XP)
+> ___
+> ***Regeneration.*** The troll regains 3 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies if it starts its turn with 0 hit points.
+>
+> ***Swift Hunter.*** If the troll moves at least 20 feet straight towards a target whilst taking the Dash action, it can make one melee weapon attack against it.
+>
+> ### Actions
+> ***Multiattack.*** The troll makes two attacks: two with its spear, or one with its spear and one with its bolas.
+>
+> ***Spear.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. and  range 20/60 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.
+>
+> ***Bolas.*** *Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage. If the target is a Large or smaller creature with legs, it must succeed on a DC 13 Dexterity saving throw or be grappled and knocked prone. A target can use its action to remove the bolas, ending the grapple.
+
+\columnbreak
+
+___
+> ## Troll Berserker
+>*Medium humanoid (any troll), chaotic evil*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 45 (6d8 + 18)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|15 (+2)|16 (+3)|11 (+0)|12 (+1)|9 (-1)|
+>___
+> - **Saving Throws** Str +5, Con +5
+> - **Skills** Athletics +8, Survival +3
+> - **Senses** darkvision 60 ft., passive Perception 11
+> - **Languages** Common, Zandali
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Brute.*** A melee weapon attack deals one extra die of its damage when the berserker hits a target with it (included in the attack).
+>
+> ***Reckless.*** At the start of its turn, the troll can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+>
+> ***Regeneration.*** The troll regains 5 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies if it starts its turn with 0 hit points.
+>
+> ### Actions
+> ***Multiattack.*** The troll makes two melee attacks or one ranged attack.
+>
+> ***Handaxe.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft., and range 20/60 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+>
+> ***Javelin.*** *Ranged Weapon Attack:* +5 to hit, reach 5 ft. and range 20/60 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage.
+
+\pagebreakNum
+
+___
+> ## Troll Witch Doctor
+>*Medium humanoid (any troll), chaotic evil*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 71 (11d8 + 22)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|15 (+2)|14 (+2)|13 (+1)|17 (+3)|12 (+1)|
+>___
+> - **Saving Throws** Con +4, Wis +5
+> - **Skills** Arcana +3, Insight +6, Medicine +6, Nature +6
+> - **Senses** darkvision 60 ft., passive Perception
+> - **Languages** Common, Zandali
+> - **Challenge** 5 (1,800 XP)
+> ___
+> ***Loa's Blessing.*** The troll has advantage on saving throws against being charmed or frightened.
+>
+> ***Regeneration.*** The troll regains 5 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies if it starts its turn with 0 hit points.
+>
+> ***Spellcasting.*** The troll is a 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The troll has the following priest and shaman spells prepared:
+>
+> Cantrips (at will): *light, shocking grasp, spare the <br>    dying, toll the dead*
+> <br> 1st level (4 slots): *absorb elements, inflict wounds, <br>    thunderwave*
+> <br> 2nd level (3 slots): *gentle repose, lesser restoration*
+> <br> 3rd level (3 slots): *bestow curse, lightning bolt, <br>    revivify, speak with dead*
+> <br> 4th level (2 slots): *banishment, death ward*
+>
+> ### Actions
+> ***Multiattack.*** The troll makes two quarterstaff attacks.
+>
+> ***Quarterstaff.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft, one target. *Hit:* 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands to make a melee attack.
+
+\columnbreak
+
+___
+> ## Dire Troll
+>*Huge humanoid (any troll), chaotic evil*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 157 (15d12 + 60)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|23 (+6)|14 (+2)|18 (+4)|9 (-1)|12 (+1)|7 (-2)|
+>___
+> - **Skills** Athletics +9, Perception +4
+> - **Condition Immunities** Frightened, Stunned
+> - **Senses** darkvision 60 ft., passive Perception 15
+> - **Languages** Common, Zandali
+> - **Challenge** 8 (3,900 XP)
+> ___
+> ***Berserk.*** Whenever the troll starts its turn with 60 hit points or fewer, it must make a DC 11 Wisdom save. On a failed save, the troll goes berserk. On each of its turns while berserk, the troll attacks the nearest crea­ture it can see. If no creature is near enough to move and attack, the troll attacks an object, with preference for an object smaller than itself. Once the troll goes berserk, it continues to dos so until its killed or regains all its hit points.
+>
+> ***Regeneration.*** The troll regains 15 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+>
+> ### Actions
+> ***Multiattack.*** The troll makes two fist attacks. It then uses its toss if able.
+>
+> ***Fist.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained.
+>
+> ***Toss.*** *Ranged Weapon Attack:* +9 to hit, range 60/120 ft., one target. *Hit:* 11 (1d8 + 6) bludgeoning damage. The troll can't use this attack if it doesn't have a target grappled. Both the target thrown and hit takes damage from the attack.
+>
+> ***Rock*** *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (7d6 + 6) bludgeoning damage.
+
+
+
+
+> ##### Variant: Dire Troll Caster
+> Some dire trolls possess innate magical powers in their blood. These trolls are known as *Warcasters*, or *Warmothers* if the troll in question is female. They have a Wisdom of 17 (+3), and gain the Innate Spellcasting trait as follows.
+>
+> ***Innate Spellcasting.*** The troll's spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attack). The troll can innately cast the following spells, requiring no material components:
+> <div style='margin-top:0px;'></div>
+> 
+> 2/day each: *bestow curse, confusion, puppet, slow*
+> <br> 1/day each: *stoneskin, synaptic static*

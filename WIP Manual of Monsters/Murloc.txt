@@ -1,0 +1,94 @@
+___
+> ## Murloc
+>*Small monstrosity, neutral evil*
+> ___
+> - **Armor Class** 12 (natural armor)
+> - **Hit Points** 4 (1d6 + 1)
+> - **Speed** 25 ft., swim 25 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|13 (+1)|12 (+1)|9 (-1)|12 (+1)|7 (-2)|
+>___
+> - **Skills** Survival +3
+> - **Senses** darkvision 60 ft., passive Perception 11
+> - **Languages** Nerglish
+> - **Challenge** 1/8 (25 XP)
+> ___
+> ***Amphibious.*** The murloc can breathe air and water.
+>
+> ***Pack Tactics.*** The murloc has advantage on an attack roll against a creature if at least one of the murloc's allies is within 5 feet of that creature and the ally isn't incapacitated.
+>
+> ***Slippery.*** The murloc has advantage on ability checks and saving throws made to escape grapple.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
+>
+> ***Spear.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+
+\columnbreak
+
+___
+> ## Murloc Tidehunter
+>*Medium monstrosity, neutral evil*
+> ___
+> - **Armor Class** 14 (natural armor, shield)
+> - **Hit Points** 11 (2d8 + 2)
+> - **Speed** 30 ft., swim 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|13 (+1)|12 (+1)|9 (-1)|12 (+1)|7 (-2)|
+>___
+> - **Skills** Athletics +3, Survival +3
+> - **Senses** darkvision 60 ft., passive Perception 11
+> - **Languages** Nerglish
+> - **Challenge** 1/4 (50 XP)
+> ___
+> ***Amphibious.*** The murloc can breathe air and water.
+>
+> ***Pack Tactics.*** The murloc has advantage on an attack roll against a creature if at least one of the murloc's allies is within 5 feet of that creature and the ally isn't incapacitated.
+>
+> ***Slippery.*** The murloc has advantage on ability checks and saving throws made to escape grapple.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
+>
+> ***Spear.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+>
+> ***Net.*** *Ranged Weapon Attack.* +3 to hit, range 5/15 ft., one Large or smaller creature. *Hit:* The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net.
+
+\pagebreak
+
+___
+> ## Murloc Oracle
+>*Medium monstrosity, neutral evil*
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 22 (4d8 + 4)
+> - **Speed** 30 ft., swim 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|11 (+0)|14 (+2)|12 (+1)|10 (+0)|14 (+2)|7 (-2)|
+>___
+> - **Skills** Perception +4 Survival +3
+> - **Senses** darkvision 60 ft., passive Perception 14
+> - **Languages** Nerglish
+> - **Challenge** 1 (100 XP)
+> ___
+> ***Amphibious.*** The murloc can breathe air and water.
+>
+> ***Pack Tactics.*** The murloc has advantage on an attack roll against a creature if at least one of the murloc's allies is within 5 feet of that creature and the ally isn't incapacitated.
+>
+> ***Slippery.*** The murloc has advantage on ability checks and saving throws made to escape grapple.
+>
+> ***Innate Spellcasting.*** The murloc's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components.
+>
+> Cantrips (at will): *mending, shape water, toll the dead*
+> <br> 1st-level (3 slots): *fog cloud, sleep, thunderwave*
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+>
+> ***Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.

@@ -1,0 +1,180 @@
+## Bog beasts
+Bog beasts are large plant-like creatures, <br>often found in temperate marshes of Azeroth. <br>These massive plants may be mistaken for a thick <br>clump of vegetation if not for their vaguely humanoid shapes and surprising mobility.  
+
+***Creatures of Mystery.*** As the name suggests, bog-beasts are massive, shambling monsters that are half plant and half beast, but not much is known about these secretive lords of the swamp, except that they are territorial and rather aggressive.
+
+***Natural Power.*** Explorers have recorded stories of their immense strength and resilience to harm. Bog-beasts use their strength to slam into their enemies, crushing opponents' defenses with their fists and whatever large objects they can throw at them.
+
+***Plant-like Anatomy.*** A bog beast's roots, which grow on the outside of their bodies, are suitable for consumption.
+
+The fungus that also grows on them can be combined with the heart of a panther and the blood of a green dragon to make a truth serum, while dew glands found within the bog beast can be used as a makeshift water sac.
+
+### Timberling
+A timberling is a twisted mass of branches, vines, and leaves that lumbers forward, rustling with each step. Its body has a vaguely humanoid shape, standing four feet high and weighing around 50 pounds. They do not speak or understand any known language.
+
+They are normally peaceful creatures that live in harmony with the land, but any sort of disruption (such as pollution) drives them into an unnatural frenzy. An angered timberling attacks anything that moves. Timberlings can be made peaceful again only by removing the source of their discomfort and returning the land to its natural state.
+
+### Thistleshrub
+A thistleshrub is a large plant and plant elemental found in Tanaris. These elementals protect the Thistleshrub Valley - these are creatures of living vines, attacking anything that comes near.
+
+It looks like a patch of cactus-like briars that shudders and then begins to move. It forms massive, gnarled arms covered in wicked thorns.
+
+### Swampwalker
+Swampwalkers are similar to most timberlings, but are darker green in color. They dwell almost exclusively in swamps, defending their territory from any intruders. A swampwalker is naturally stealthy and usually lurks just under the surface of the water, lashing out at any creature that comes near. 
+They particularly loathe fire and go after anyone holding or wielding a flame, no matter how small or inoffensive the flame may seem.
+
+### Tar Creeper
+Tar Creepers are elementals made of living tar found around the Lakkari Tar Pits in Un'Goro Crater.
+
+\columnbreak 
+
+<div style='margin-top:425px;'></div>
+
+___
+> ## Timberling
+>*Medium plant, unaligned*
+> ___
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 26 (4d8 + 8)
+> - **Speed** 25 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|12 (+1)|14 (+2)|4 (-3)|10 (+0)|7 (-2)|
+>___
+> - **Skills** Perception +2, Stealth +3
+> - **Damage Vulnerabilities** fire
+> - **Damage Resistances** lightning; bludgeoning, piercing and slashing from nonmagical attacks
+> - **Senses** darkvision 60 ft., passive Perception 12
+> - **Languages** -
+> - **Challenge** 1 (200 XP)
+> ___
+>
+> ***Hold Breath.*** The timberling can hold its breath for 30 minutes.
+>
+> ***Swamp Camouflage.*** The timberling has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
+>
+> ***Swamp Mobility.*** The timberling ignores difficult terrain created by swamps, and can see through nonmagical mists of swamplands.
+>
+> ### Actions
+>
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage. If the target is Medium or smaller, it is either grappled (escape DC 12) or pushed up to 10 feet away. Until the grapple ends, the target is restrained, and the swamp­walker can only make one claw attack.
+
+<img src='https://wotbsadventurepath.files.wordpress.com/2013/05/swamp1.jpg' style='position:absolute; top:0px; right:-500px; width:1600px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/WQXIOUB.png' style='position:absolute; top:-190px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/uvX1qOq.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://gamepedia.cursecdn.com/wowpedia/thumb/8/88/Timberling.png/1200px-Timberling.png' style='position:absolute; top:70px; right:-200px; width:600px;transform:scalex(-1)' />
+
+\pagebreakNum
+
+___
+> ## Thistleshrub
+>*Large plant, unaligned*
+> ___
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 68 (8d10 + 24)
+> - **Speed** 25 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|12 (+1)|16 (+3)|4 (-3)|10 (+0)|7 (-2)|
+>___
+> - **Skills** Perception +3, Stealth +4
+> - **Damage Vulnerabilities** fire
+> - **Damage Resistances** lightning; bludgeoning, piercing and slashing from nonmagical attacks
+> - **Senses** darkvision 60 ft., passive Perception 13
+> - **Languages** —
+> - **Challenge** 4 (1,100 XP)
+> ___
+>
+> ***False Appearance.*** While the thistleshrub remains motionless, it is indistinguishable from a shrub covered in thorns.
+>
+> ***Water Awareness.*** The thistleshrub can sense the pre­sence of water reservoirs up to 5 miles away, as well as water within a creature's body. It knows the general direction they're in but no their exact location.
+>
+> ### Actions
+> ***Multiattack.*** The thistleshrub makes two claw attacks.
+>
+> ***Thorny Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage. If the target is Large or smaller, it is either grappled (escape DC 14) or pushed up to 10 feet away. Until the grapple ends, the target is restrained, and the swamp­walker can only make one claw attack.
+>
+> ***Entangling Roots (Recharge 5-6).*** Grasping thorny roots and vines sprout in a 15-foot radius centered on the thistleshrub, withering away after 1 minute. For the duration, that area is difficult terrain for non plant creatures. In addition, each creature of the thistleshrub's choice in that area when the plants appear must succeed on a DC 14 Strength saving throw or become restrained. While restrained in this way, the target takes 9 (2d8) piercing damage at the start of their turn. A creature can use its action to make a DC 14 Strength check, freeing itself or another entangled creature within reach on a success.
+
+\columnbreak
+
+___
+> ## Swampwalker
+>*Large plant, unaligned*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 76 (9d10 + 27)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|14 (+2)|16 (+3)|4 (-3)|10 (+0)|7 (-2)|
+>___
+> - **Skills** Perception +3, Stealth +5
+> - **Damage Vulnerabilities** fire
+> - **Damage Resistances** lightning; bludgeoning, piercing and slashing from nonmagical attacks
+> - **Senses** darkvision 60 ft., passive Perception 13
+> - **Languages** —
+> - **Challenge** 5 (1,800 XP)
+> ___
+> ***Hold Breath.*** The swampwalker can hold its breath for 30 minutes.
+>
+> ***Regeneration.*** The swampwalker regains 5 hit points at the start of its turn. If the swampwalker takes acid or fire damage, this trait doesn't function at the start of the swampwalker's next turn. The swampwalker dies if it starts its turn with 0 hit points.
+>
+> ***Swamp Camouflage.*** The swampwalker has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
+>
+> ***Swamp Mobility.*** The swampwalker ignores difficult terrain created by swamps, and can see through nonmagical mists of swamplands.
+>
+> ### Actions
+> ***Multiattack.*** The swampwalker makes two claw attacks.
+>
+> ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., <br>one target. *Hit:* 13 (2d8 + 4) slashing damage. If the target is Large or smaller, it is either grappled (escape DC 13) or pushed up to 10 feet away. Until the grapple ends, the target is restrained, and the swamp­walker can only make one claw attack.
+
+<img src='https://www.worldanvil.com/media/cache/cover/uploads/images/b00635c8a677ad81e75e47a5032a5f78.jpg' style='position:absolute; top:500px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/gezbRSW.png' style='position:absolute; top:-100px; right:0px; width:900px' />
+
+\pagebreakNum
+
+<div style='margin-top:1000px;'></div>
+
+___
+___
+> ## Tar Creeper
+>*Large elemental (tar), unaligned*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 123 (13d10 + 52)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|15 (+2)|18 (+4)|4 (-3)|10 (+0)|7 (-2)|
+>___
+> - **Skills** Perception +3, Stealth +5
+> - **Damage Vulnerabilities** fire
+> - **Damage Resistances** lightning; bludgeoning, piercing and slashing from nonmagical attacks
+> - **Senses** darkvision 60 ft., passive Perception 13
+> - **Languages** —
+> - **Challenge** 8 (3,900 XP)
+> ___
+> ***Hold Breath.*** The tar creeper can hold its breath for 30 minutes.
+>
+> ***Tar Stench.*** Any creature other than a tar creeper that starts its turn within 5 feet of the tar creeper must succeed on a DC 14 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all tar creepers for 1 hour.
+>
+> ***Swamp Camouflage.*** The tar creeper has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
+>
+> ***Swamp Mobility.*** The tar creeper ignores difficult terrain created by swamps, and can see through nonmagical mists of swamplands.
+>
+> ***Charge.*** If the tar creeper moves at least 10 feet straight toward a target and then hits it with a claw attack on the same turn, the target takes an additional 14 (3d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be pushed up to 10 feet away and knocked prone.
+>
+> ### Actions
+> ***Multiattack.*** The tar creeper makes two attacks with its poison claws.
+>
+> ***Poison Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage plus 7 (2d6) poison damage. 
+>
+> ***Tar Spray (1/Day).*** The tar creeper sprays sticky tar in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw. On a failed saving throw a creature's speed is halved, it takes a -2 penalty to Ac and Dexterity saving throws, and it can't use reactions. 
+> <br>    A creature can remove the tar on itself during a short or long rest by bathing in water, alcohol, or vinegar.
+
+<img src='https://gamepedia.cursecdn.com/wowpedia/thumb/5/5a/Tar_beast.png/1200px-Tar_beast.png' style='position:absolute; top:60px; right:0px; width:900px' />

@@ -1,0 +1,103 @@
+___
+> ## Kobold
+> *Small humanoid (kobold), chaotic neutral*   
+> ___  
+> - **Armor Class** 12
+> - **Hit Points** 5 (2d6 - 2)
+> - **Speed** 30 ft. 
+> ___  
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 10 (+0)|14 (+2)|8 (-1)|7 (-2)|7 (-2)|8 (-1)|
+> ___  
+> - **Skills** Perception +2
+> - **Senses** passive Perception 10 
+> - **Languages** Common  
+> - **Challenge** 1/8 (25 XP)  
+> ___
+>
+> ***Nimble Escape.*** The kobold can take the Disengage or Hide action as a bonus action on each of its turns.
+>
+> ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 ft. of the creature and the ally isn’t incapacitated.
+>
+>
+> ### Actions
+>
+> ***Pickaxe.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6) piercing damage.
+
+<div style="margin-top:32px"></div>
+
+> ##### Candles in the Dark
+> Kobold legends speak of a devouring presence, hiding in the darkness, giving to them their over­whelming fear of the dark. 
+> 
+> As an optional rule, consider the following: 
+>
+> A kobold without a lit candle, who is standing in dim light or darkness, must succeed on a DC 12 Wisdom saving throw or be frightened for 1 minute. The kobold can repeat the saving throw at the end of each its turns, also ending the effect if it manages to light a candle again.
+>
+> On a successful save, if another creature was responsible for the loss of candlelight, the kobold deals an extra 4 (1d6) damage when it hits that creature with a melee attack.
+
+\columnbreak
+
+___
+> ## Kobold Geomancer
+> *Small humanoid (kobold), chaotic neutral*   
+> ___  
+> - **Armor Class** 12
+> - **Hit Points** 17 (5d6)
+> - **Speed** 30 ft. 
+> ___  
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 10 (+0)|14 (+2)|10 (+0)|7 (-2)|14 (+2)|8 (-1)|
+> ___  
+> - **Skills** Perception +4
+> - **Senses** passive Perception 14 
+> - **Languages** Common  
+> - **Challenge** 1/2 (100 XP)  
+> ___
+>
+> ***Nimble Escape.*** The kobold can take the Disengage or Hide action as a bonus action on each of its turns.
+>
+> ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 ft. of the creature and the ally isn’t incapacitated.
+>
+> ***Spellcasting.*** The kobold is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:
+>
+>
+> Cantrips (at will): *Produce Flame, Mold Earth*
+> <br/> 1st level (3 slots): *Absorb Elements, Cure Wounds, Earth Tremor, Searing Smite, Thunderwave*
+>
+> ### Actions
+>
+> ***Club.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) bludgeoning damage.
+
+\pagebreak
+___
+> ## Kobold Taskmaster
+> *Small humanoid (kobold), chaotic neutral*   
+> ___  
+> - **Armor Class** 13 (leather armor)
+> - **Hit Points** 22 (5d6 + 5)
+> - **Speed** 30 ft. 
+> ___  
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 13 (+1)|14 (+2)|12 (+1)|12 (+1)|9 (-1)|11 (+0)|
+> ___  
+> - **Skills** Perception +2
+> - **Senses** passive Perception 11 
+> - **Languages** Common  
+> - **Challenge** 1 (200 XP)  
+> ___
+>
+> ***Nimble Escape.*** The kobold can take the Disengage or Hide action as a bonus action on each of its turns.
+>
+> ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 ft. of the creature and the ally isn’t incapacitated.
+>
+>
+> ### Actions
+>
+> ***Multiattack.*** The kobold makes two melee attacks.
+>
+> ***Shovel.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d8 + 1) piercing damage.
+>
+> ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the kobold can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the kobold. A creature can benefit from only one Leadership die at a time. This effect ends if the kobold is incapacitated.

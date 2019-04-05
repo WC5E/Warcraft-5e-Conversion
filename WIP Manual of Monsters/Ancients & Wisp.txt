@@ -1,0 +1,219 @@
+___
+> ## Ancient of Lore
+>*Huge plant, neutral good*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 115 (11d12 + 44)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|8 (-1)|19 (+4)|14 (+2)|21 (+5)|12 (+1)|
+>___
+> - **Saving Throws** Wis +8
+> - **Skills** History +5, Nature +8
+> - **Damage Vulnerabilities** fire
+> - **Damage Resistances** bludgeoning, piercing
+> - **Senses** darkvision 120 ft., passive Perception ##
+> - **Languages** Darnassian, Druidic
+> - **Challenge** 7 (2,900 XP)
+> ___
+> ***False Appearance.*** While the ancient remains motion­less, it is indistinguishable from a normal tree.
+>
+> ***Siege Monster.*** The ancient deals double damage to objects and structures.
+>
+> ***Speak with Nature.*** The ancient can communicate with beasts and plants as if they shared a language.
+>
+> ***Spellcasting.*** The ancient is a 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The ancient has the following druid spells prepared:
+>
+> Cantrips (at will): *dancing lights, druidcraft, solar <br>    wrath, thorn whip*
+> <br> 1st level (4 slots): *detect magic, detect poison and <br>    disease, faerie fire, starfire*
+> <br> 2nd level (3 slots): *locate animals and plants, <br>    moonbeam, skywrite*
+> <br> 3rd level (3 slots): *dispel magic, plant growth, <br>    protection from energy, starsurge*
+> <br> 4th level (3 slots): *confusion, locate creature*
+> <br> 5th level (2 slots): *dream, wrath of nature*
+> <br> 6th level (1 slot): *starfall, wall of thorns*
+>
+> ### Actions
+> ***Multiattack.*** The ancient makes two slam attacks.
+>
+> ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (3d6 + 3) bludgeoning damage.
+>
+> ***Rock*** *Ranged Weapon Attack:* +6 to hit, range 60/180 ft., one target. *Hit:* 25 (5d8 + 3) bludgeoning damage.
+>
+> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
+
+\columnbreak
+
+> ##### Variant: Tree of Life
+> A tree of life is a sapling born from the world tree Nordrassil, these ancients have suffered great loses in recent wars, and those who remains have returned to the forest to spread their seeds and replenish their numbers undisturbed.
+>
+> A tree of life has a challenge rating of  11 (7,200 XP) and gains the following additional traits:
+> <div style='margin-top:0px;'></div>
+>
+>     ***Nature's Blessing.*** The tree add its Wisdom <br>    modifier to its Armor Class (AC 20).
+> <div style='margin-top:0px;'></div>
+>
+>     ***Rooted Tranquility.*** While the tree have taken root, <br>    each plant of the tree's choice within 60 feet of it <br>    regains 20 hit points at the start of its turn. If the <br>    plant takes fire damage, this trait doesn't function <br>    at the start of the plant's next turn. A plant dies if <br>    it starts its turn with 0 hit points.
+> <div style='margin-top:0px;'></div>
+>
+>     ***Spellcasting.*** The tree has the following additional <br>    spells prepared.
+>
+> <br>    4th level: *guardian of nature, grasping vine*
+> <br>    5th level: *commune with nature*
+> <br>    6th level: *druid grove, sunbeam*
+> <div style='margin-top:0px;'></div>
+>
+> The tree has the following additional action option.
+> <div style='margin-top:0px;'></div>
+>
+>     ***Summon Wisps (1/Day).*** The tree calls forth ten <br>    wisps that appear in empty spaces within 60 feet <br>    of it. These wisps acts as allies of the tree. The <br>    wisps remains for 1 day or until they die.
+
+ 
+
+\pagebreak
+
+___
+> ## Ancient Protector
+>*Huge plant, neutral good*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 105 (10d12 + 40)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|21 (+5)|8 (-1)|19 (+4)|12 (+1)|16 (+3)|12 (+1)|
+>___
+> - **Damage Vulnerabilities** fire
+> - **Damage Resistances** bludgeoning, piercing
+> - **Senses** darkvision 120 ft., passive Perception 13
+> - **Languages** Darnassian, Druidic
+> - **Challenge** 6 (2,300 XP)
+> ___
+> ***False Appearance.*** While the ancient remains motion­less, it is indistinguishable from a normal tree.
+>
+> ***Siege Monster.*** The ancient deals double damage to objects and structures.
+>
+> ### Actions
+> ***Multiattack.*** The ancient makes two slam attacks.
+>
+> ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15 (3d6 + 5) bludgeoning damage.
+>
+> ***Rock*** *Ranged Weapon Attack:* +8 to hit, range 60/180 ft., one target. *Hit:* 27 (5d8 + 5) bludgeoning damage.
+>
+> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
+
+\columnbreak
+
+___
+> ## Ancient of War
+>*Huge plant, neutral good*
+> ___
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 138 (12d12 + 60)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|23 (+6)|8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
+>___
+> - **Skills** Athletics +10, Nature +7, Percpetion +7
+> - **Damage Vulnerabilities** fire
+> - **Damage Resistances** bludgeoning, piercing
+> - **Condition Immunities** charmed, frightened
+> - **Senses** darkvision 120 ft., passive Perception 17
+> - **Languages** Darnassian, Druidic
+> - **Challenge** 9 (5,000 XP)
+> ___
+> ***False Appearance.*** While the ancient remains motion­less, it is indistinguishable from a normal tree.
+>
+> ***Resilient Nature.*** Unless the ancient of war is incapa­citated, it and plant creatures of its choice within 60 feet of it have advantage on saving throws against being charmed or frightened.
+>
+> ***Siege Monster.*** The ancient deals double damage to objects and structures.
+>
+> ### Actions
+> ***Multiattack.*** The ancient makes two slam attacks.
+>
+> ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16 (3d6 + 6) bludgeoning damage.
+>
+> ***Rock.*** *Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:* 28 (5d8 + 6) bludgeoning.
+>
+> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
+>
+> ***Animate Trees (1/Day).*** The ancient magically animates five or less trees it can see within 60 feet of it. The trees have the statistics of a treant, except they have Intelligence and Charisma scores of 1, and they only have the Claw action option. An animated tree acts as an ally of the ancient. The tree remains animate for 1 day or until it dies; until the ancient takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
+
+\pagebreak
+___
+> ## Treant
+>*Medium plant, chaotic neutral*
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 32 (5d8 + 10)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|9 (-1)|15 (+2)|11 (+0)|13 (+1)|6 (-2)|
+>___
+> - **Damage Vulnerabilities** fire
+> - **Damage Resistances** bludgeoning, piercing
+> - **Senses** passive Perception 11
+> - **Languages** understands Darnassian but can't speak
+> - **Challenge** Challenge and Xp
+> ___
+>
+> ### Actions
+> ***Multiattack.*** The treant makes two claw attacks.
+>
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage.
+>
+> ***Entangle (Recharges after a Short or Long Rest).*** <br> A creature within 60 feet must succeed on a DC 12 Strength saving throw or be restrained for 1 minute. The creature can use its action to make a DC 12 Strength check, freeing itself on a success.
+
+> ##### Will of the Forest
+> Five wisps within 30 feet of each other are able to cast powerful spells. Each of the five must use its action and movement on three consecutive turns to call upon the powers of Elune and must maintain concentration while doing so (as if concentrating in a spell). When all five have finished their third turn of the ritual, the wisps gain the Spellcasting trait and can cast one spell in total at a target or point within 120 feet, no matter the spells normal range.
+>
+> ***Innate Spellcasting.*** The wisps spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The wisps can innately cast one of the following spells as a 4th-level spell, requiring no material componenets. If a spell requires centration, all five wisps concentration must be broken to remove the spell:
+> <div style='margin-top:0px;'></div>
+>
+> 1/Ritual: *banishment, charm monster, confusion, <br>    dispel magic, spike growth, wind wall*
+
+ 
+
+\columnbreak
+
+___
+> ## Wisp
+>*Small fey, neutral good*
+> ___
+> - **Armor Class** 18
+> - **Hit Points** 14 (4d6)
+> - **Speed** 0 ft., fly 40 ft. (hover)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|1 (-5)|26 (+8)|10 (+0)|13 (+2)|14 (+2)|11 (+0)|
+>___
+> - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks.
+> - **Damage Immunities** poison, radiant
+> - **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
+> - **Senses** darkvision 120 ft., passive Perception 12
+> - **Languages** the languages it knew in life
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ***Ephemeral.*** The wisp can't wear or carry anything.
+>
+> ***Incorporeal Movement.*** The wisp can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+>
+> ***Variable Illumination.*** The wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feets equal to the chosen radius. The wisp can alter the radius as a bonus action.
+>
+> ### Actions
+> ***Intertwine.*** The wisp enters the space of another creature and attempts entwine it in place. The target must pass a DC 12 Wisdom saving throw or be paralyzed for 1 minute. At the end of the target's turns, it can make another save, ending the paralysis on a successful one. While the wisp has a creature interwined, attack rolls against it has disadvantage. If a target's saving throw is successful or the effect ends for it, the target is immune to this wisp's intertwine for the next 24 hours.
+>
+> ***Renew (Recharge 5-6).*** One plant that the wisp can see within 5 feet of it is renewed by the wisp; the wisp disappears. The wisp can't be targeted by any attack, spell, or other effect while renewing a plant. The renewed plant regains 10 hit points at the start of its turn. If the plant takes fire damage, the renew doesn't function at the start of its next turn. The plant dies if it starts its turn with 0 hit points.
+> <br>    The renew lasts until the renewed plant drops to 0 hit points, the wisp ends it as a bonus action. When the plant takes damage, the wisp must pass a Concen­tration saving throw (as if concentrating on a spell) or be pushed out of the plant.
+
+
+
+
+
