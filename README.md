@@ -1,6 +1,11 @@
 # Warcraft: Heroes' Handbook
 
-### Branching Structure
+This project aims to create a set of Warcraft supplements for Dungeons & Dragons 5th Edition.
+
+[Project Kanban Board](https://github.com/Jihia/Warcraft-Heroes-Handbook/projects/2)
+
+
+## Branching Structure
 
 This project uses a slightly different take on [feature branching](https://guides.github.com/introduction/flow/). Being an RPG book, the branches focus on where in the book changes are being made, amd what changes they are. 
 
@@ -16,9 +21,10 @@ The following are good examples of branch names for the project:
 
 * `class/rebalance-warrior-features`
 
-## Warcraft: Heroes' Handbook Documents
 
-Multiple documents have been created in the process of making this project, each of these documents are linked below.
+## Warcraft: Heroes' Handbook
+
+These documents have been set up for the project, outside of Github, to track various parts of the project. 
 
 [Version Changelog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A)
 
@@ -26,7 +32,7 @@ Multiple documents have been created in the process of making this project, each
 
 [Available Spells for each Class' Spell List](https://drive.google.com/open?id=1bzXzGxXFdC3zUdm8_4aURXfftixsJTStRn49fAeSDgs)
 
-[Future Plans for the Project](https://drive.google.com/open?id=1MXoKixt1elxs7Em_-nOrTiJ49ki8CcGaavYzBGM6jLs)
+[Future Plans](https://drive.google.com/open?id=1MXoKixt1elxs7Em_-nOrTiJ49ki8CcGaavYzBGM6jLs)
 
 
 ## Warcraft: Manual of Monsters
@@ -34,6 +40,7 @@ Multiple documents have been created in the process of making this project, each
 Progress on the Manual of Monsters is kept in its own Drive spreadsheet. Creatures are put aside in chunks for smaller, reachable milestones and then signed off on when the stats have been set and agreed upon.
 
 [Monster Planning Document](https://docs.google.com/spreadsheets/d/1gjxgzF93LLB3q_o7QYe9xynpxkaUrkorklA7YGHSJvA/edit?usp=sharing)
+
 
 #### Adding Creatures to the Project
 
