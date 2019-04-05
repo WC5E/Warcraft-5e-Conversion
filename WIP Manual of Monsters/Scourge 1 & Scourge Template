@@ -1,0 +1,253 @@
+### Scourge Risen Template
+A creature risen by the scourge is any Huge or smaller creature brought back to life by vile necromantic energies. A creature that was never flesh and blood to begin with (such as a construct, elemental, ooze, plant, or undead) can't be risen under the scourge's control. The following characteristics change or are added to a creature that becomes a scourge risen creature.
+
+***Retained Characteristics.*** The risen retain its Armor Class, hit points, Hit Dice, Strength, Dexterity, Constitu­tion, vulnerabilities, resistances, and immunities.
+
+***Lost Characteristics.*** The risen loses its original saving throw and skill bonuses, special senses, and special traits. It loses any action that isn't multiattack or a melee weapon that deals bludgeoning, piercing, or slashing damage. If it has an action or a melee weapon attack that deals some other type of damage, it loses the ability to deal damage of that type, unless the damage comes from a piece of equipment, such as a magic item.
+
+
+***Type.*** The risen's type is undead, and it loses any tags.
+
+***Alignment.*** The risen is neutral evil.
+
+***Ability Scores.*** The risen's ability scores change as follows: Int 3 (-4), Wis 6 (-2), Cha 5 (-3).
+
+***Senses.*** The risen has darkvision with a radius of 60 ft.
+
+***Damage Immunities.*** The risen gains immunity to poison damage.
+
+***Condition Immunities.*** poisoned.
+
+***Languages.*** The risen understands all languages it knew in life, but cannot speak.
+
+***Attacks.*** If the risen has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to 1d4 + the risen's Strength modifier, increasing by 1d4 for each size larger than Medium.
+
+
+\pagebreakNum
+
+___
+___
+> ## Banshee
+>*Medium undead, chaotic evil*
+> ___
+> - **Armor Class** 14
+> - **Hit Points** 91 (14d8 + 28)
+> - **Speed** 0 ft., fly 40 ft. (hover)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|1 (-5)|16 (+3)|14 (+2)|11 (+0)|13 (+1)|19 (+4)|
+>___
+> - **Saving Throws** Wis +4, Cha +7
+> - **Damage Resistances** acid, fire, lightning, <br>thunder; bludgeoning, piercing, and slashing from nonmagical attacks.
+> - **Damage Immunities** cold, necrotic, poison
+> - **Condition Immunities** charmed, exhaustion, grappled, frightened,  paralyzed, petrified, poisoned, prone, restrained
+> - **Senses** darkvision 60 ft., passive Perception 11
+> - **Languages** Common, Darnassian or Thalassian
+> - **Challenge** 7 (2,900 XP)
+> ___
+> ***Detect Life.*** The banshee can magically sense the presence of living creatures up to 5 miles away. She knows the general direction they're in but not their exact locations.
+>
+> ***Incorporeal Movement.*** The banshe can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
+>
+>
+> ### Actions
+> ***Multiattack.*** The banshee makes three attacks: one with its Banshee's Curse and two with its withering touch.
+>
+> ***Withering Touch.*** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/60 ft., one target. *Hit:* 12 (2d8 + 3) necrotic damage.
+> <div style='margin-top:80px;'></div>
+>
+> ***Banshee's Curse.*** One creature of the banshee's choice within 60 feet of it must make a Constitution saving throw or have disadvantage on all ability checks, saving throws, and attack rolls until the end of the banshee's next turn.
+>
+> ***Wail (Recharge 4-6).*** The banshee releases a mournful wail. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw, taking 22 (4d12) necrotic damage on a failed save, or half as much damage on a successful one.
+>
+> ***Possession (1/Day).*** One humanoid that the banshee can see within 5 feet of it must succeed on a DC 15 Charisma saving throw or be possessed by the banshee; the banshee then disappears, and the target is incapacitated and loses control of its body. The banshee now controls the body but doesn't deprive the target of awareness. The banshee can't be targeted by any attack, spell, or other effect except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.
+> <br>    The possession lasts until the body drops to 0 hit points, the banshee ends it as a bonus action, or the banshee is turned or forced out by an effect like the *dispel evil and good* spell. When the possession ends, the banshee reappears in an unoccupied space within 5 feet of the body. 
+>
+> ### Reactions
+> ***Anti-magic Shell.*** The banshee adds 3 to its AC against one spell attack that would hit it. To do so, the banshee must see the attacker.
+
+ 
+
+\pagebreakNum
+
+___
+> ## Gargoyle
+>*Medium monstrosity, chaotic evil*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 45 (6d8 + 18)
+> - **Speed** 30 ft., fly 50 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|11 (+0)|16 (+3)|5 (-3)|11 (+0)|7 (-2)|
+>___
+> - **Damage Resistances** bludgeoning, piercing, and slash­ing from nonmagical attacks that aren't adamantine
+> - **Damage Immunities** poison
+> - **Condition Immunities** exhaustion, petrified, poisoned
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** understands Common but can't speak
+> - **Challenge** 2 (450 XP)
+> ___
+>
+> ### Actions
+> ***Multiattack.*** The gargoyle makes two attacks: one with its bite and one with its claws.
+>
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>
+> ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) piercing damage.
+>
+> ***Stone Form.*** The gargoyle turns itself to stone making it indistinguishable from an inanimate statue. While it is turned this way the gargoyle can't take any actions or move, and regains 5 hit points at the end of each of its turns. The gargoyle can turn itself into flesh using its bonus action.
+
+\columnbreak
+
+___
+> ## Ghoul
+>*Medium undead, chaotic evil*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 22 (5d8)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|15 (+2)|10 (+0)|7 (-2)|10 (+0)|6 (-2)|
+>___
+> - **Damage Immunities** poison
+> - **Condition Immunities** charmed, exhaustion, poisoned
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** —
+> - **Challenge** 1 (200 XP)
+> ___
+>
+> ### Actions
+> ***Multiattack.*** The ghoul makes two attacks: one with its bite and one with its claws.
+>
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>
+> ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
+>
+> ***Cannibalize (Recharge after a Short or Long Rest).*** The ghoul cannibalizes the corpse of a humanoid that has been dead for less than a day, regaining 10 hit points. Each creature of the ghoul's choice that is within 30 feet of the ghoul and can see it must succeed on a DC 12 Wisdom saving throw or become frigthened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's save is successful or the effect ends for it, the creature is immune to any ghoul's cannibalize for the next 24 hours.
+
+\pagebreakNum
+
+___
+> ## Shade
+>*Medium undead, lawful evil*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 16 (3d8 + 3)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|14 (+2)|13 (+1)|6 (-2)|10 (+0)|8 (-1)|
+>___
+> - **Skills** Stealth +4 (+6 in dim light or darkness)
+> - **Damage Vulnerabilities** radiant
+> - **Damage Resistances** acid, cold, lightning, <br> thunder; bludgeoning, piercing, and slashing from nonmagical attacks.
+> - **Damage Immunities** necrotic, poison
+> - **Condition Immunities** exhaustion, frightened, grappled paralyzed, petrified, poisoned, prone, restrained
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** Telepathy 60 ft.
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ***Amorphous.*** The shade can move through a spade as narrow as 1 inch wide without squeezing.
+>
+> ***Shadow Stealth.*** While in dim light or darkness, the shade can take the Hide action as a bonus action.
+>
+> ***Sunlight Weakness.*** While in sunlight, the shade has disadvantage on attack rolls, ability checks, and saving throws.
+>
+> ### Actions
+> ***Wisdom Drain.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6 + 2) necrotic damage, and the target's Wisdom score is reduced by 1d4. If the target's Wisdom score is reduced to 0, it is para­lyzed until it regains at least one point of Wisdom.
+>
+> ***Invisibility (Recharges after a Short or Long Rest).*** The shade magically turns invisible until it attacks, or until its concentration is broken, up to 1 hour (as if con­centrating on a spell).
+
+\columnbreak
+
+___
+> ## Skeleton
+>*Medium undead, neutral evil*
+> ___
+> - **Armor Class** 13 (armor scraps)
+> - **Hit Points** 13 (2d8 + 4)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|14 (+2)|15 (+2)|6 (-2)|8 (-1)|5 (-3)|
+>___
+> - **Damage Vulnerabilities** bludgeoning
+> - **Damage Immunities** poison
+> - **Condition Immunities** exhaustion, poison
+> - **Senses** darkvision 60 ft., passive Perception 9
+> - **Languages** understands all lanauges it knew in life but can't speak
+> - **Challenge** 1/4 (50 XP)
+> ___
+>
+> ### Actions
+> ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>
+> ***Shortbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+
+\pagebreakNum
+
+___
+> ## Wraith
+>*Medium undead, lawful evil*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 67 (9d8 + 27)
+> - **Speed** 0 ft., fly 60 ft. (hover)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|
+>___
+> - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from non­magical attacks and weapons that aren't silvered
+> - **Damage Immunities** necrotic, poison
+> - **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+> - **Senses** darkvision 60 ft., passive Perception 12
+> - **Languages** the languages it knew in life
+> - **Challenge** 5 (1,800 XP)
+> ___
+> ***Incorporeal Movement.*** The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+>
+> ***Sunlight Sensitivity.*** While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>
+> ### Actions
+> ***Life Drain.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+>
+> ***Create Spawn.*** The wraith targets a humanoid within 10 feet of it that died a violent death and has been dead for no longer than 1 minute. The target's spirit rises as a wraith spawn in an unoccupied space by the corpse, under the wraith's control. The wraith spawn has the same statistics as the wraith, except that it has an Intelligence and Charisma score of 1, it cannot speak or use Create Spawn, and its Life Drain does not reduce a target creature's hit point maximum. The wraith can have no more than two wraith spawns active under its control at one time.
+
+\columnbreak
+
+___
+> ## Wretched
+>*Medium humanoid (blood elf), chaotic neutral*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 18 (4d8)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|14 (+2)|11 (+0)|12 (+1)|11 (+0)|10 (+0)|
+>___
+> - **Skills** Arcana +3, Perception +2
+> - **Senses** darkvision 60 ft., passive Perception 12
+> - **Languages** Common, Thalassian
+> - **Challenge** 1/4 (50 XP)
+> ___
+> ***Innate Spellcasting.*** The wretched's spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material component
+>
+> At will: *blade ward, minor illusion*
+> <br> 1/day each: *detect magic, magic missiles, shield*
+>
+> ***Magic Resistance.*** The wretched has advantage on saving throws against spells and other magical effects
+>
+> ### Actions
+> ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>
+> ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
