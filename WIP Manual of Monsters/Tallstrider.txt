@@ -1,0 +1,48 @@
+___
+> ## Tallstrider
+>*Medium beast, unaligned*
+> ___
+> - **Armor Class** 11
+> - **Hit Points** 9 (2d8)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|13 (+1)|10 (+0)|4 (-3)|10 (+0)|6 (-2)|
+>___
+> - **Skills** Athletics +3
+> - **Senses** passive Perception 10
+> - **Languages** —
+> - **Challenge** 1/8 (25 XP)
+> ___
+>
+> ### Actions
+> ***Beak.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
+>
+> ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
+
+\columnbreak
+
+___
+> ## Towering Tallstrider
+>*Large beast, unaligned*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 22 (4d10)
+> - **Speed** 50 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|16 (+3)|10 (+0)|4 (-3)|11 (+0)|6 (-2)|
+>___
+> - **Skills** Athletics +4, Perception +2
+> - **Senses** passive Perception 12
+> - **Languages** —
+> - **Challenge** 1 (200 XP)
+> ___
+> ***Trampling Charge.*** If the tallstrider moves at least 20 feet straight toward a creature and then hits it with a beak attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the tallstrider can make another attack with its claws against it as a bonus action.
+>
+> ### Actions
+> ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) piercing damage.
+>
+> ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 2) slashing damage.
