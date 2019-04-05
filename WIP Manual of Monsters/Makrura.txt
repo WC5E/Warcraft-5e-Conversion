@@ -1,0 +1,76 @@
+<div style='margin-top:170px;'></div>
+
+## Makrura
+The makrura, also known as lobstrok, are a race of aquatic humanoid lobsters (or more likely crayfish) that live primarily in the sea, but are capable of surviving on land for short periods of time. These crustaceans live in colonies along the shores of Aszeroth and in the deeper oceans.
+
+***Natural Aggression.*** Makrura are  incredibly hostile and will attempt to kill anybody that comes near them. They are often found underwater guarding shipwrecks.  
+
+Makrura fight by grappling an opponent with one pincer and holding it in place while the other pincer tears it apart. Makrura defend their territory aggressively, and they attack murlocs and naga on sight.
+
+***Savory Prey.*** Makrura suffer from the extreme disadvantage of being tasty to many carnivorous races, a fact appreciated all too well by their enemies on both land and sea. While land dwellers sometimes hunt them for food, a makrura’s most hated enemies are murlocs and naga (but especially the latter). 
+
+### Makrura Tidecaller
+Even though it is very uncommon, some makrura has an innate capacity for water magic. The makrura tidecallers are shamans who use their magic to attack their enemies and protect their allies.
+
+___
+> ## Makrura
+>*Medium monstrosity, unaligned*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 26 (4d8 + 8)
+> - **Speed** 30 ft., swim 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|15 (+2)|14 (+2)|7 (-2)|10 (+0)|6 (-2)|
+>___
+> - **Skills** Stealth +4
+> - **Senses** blindsight 30 ft., passive Perception 10
+> - **Languages** Nerglish
+> - **Challenge** 1 (200 XP)
+> ___
+> ***Amphibious.*** The makrura can breathe air and water.
+>
+> ### Actions
+> ***Multiattack.*** The makrura attacks twice with its claws.
+>
+> ***Claw.***  *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) bludgeoning damage. The target is grappled (escape DC 11) The makrura has two claws, each of which can grapple only one target.
+
+\columnbreak
+
+<div style='margin-top:370px;'></div>
+
+___
+> ## Makrura Tidecaller
+>*Medium monstrosity, unaligned*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 52 (8d8 + 16)
+> - **Speed** 30 ft., swim 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|15 (+2)|14 (+2)|10 (+0)|14 (+2)|6 (-2)|
+>___
+> - **Skills** Perception +4, Stealth +4
+> - **Senses** blindsight 30 ft., passive Perception 14
+> - **Languages** Nerglish
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Amphibious.*** The makrura can breathe air and water.
+>
+> ***Innate Spellcasting.*** The makrura's innate spellcasting ability is Wisdom (spell save DC 12). It can innately cast the
+following spells, requiring no material components: 
+>
+> At will: *frostbite*, *mending*, *shape water*
+> <br> 3/day each: *armor of agathys, entangle, healing word*
+> <br> 1/day each: *fog cloud, mass healing word, tidal wave*
+>
+> ### Actions
+> ***Multiattack.*** The makrura attacks twice with its claws.
+>
+> ***Claw.***  *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (2d6 + 1) bludgeoning damage. The target is grappled (escape DC 11) The makrura has two claws, each of which can grapple only one target.
+
+<img src='https://massivelyop.com/wp-content/uploads/2017/09/wow-beach-696x229.jpg' style='position:absolute; top:0px; right:-200px; width:1000px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/Tkbl4ji.png' style='position:absolute; top: -290px; right:0px; width:1000px' />
+<img src='https://gamepedia.cursecdn.com/wowpedia/c/ca/Makrura_%28Legion%29.png' style='position:absolute; top:130px; right:30px; width:350px' />
