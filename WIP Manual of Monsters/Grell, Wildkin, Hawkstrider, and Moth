@@ -1,0 +1,232 @@
+## Grell
+The grell are forest spirits that resemble imps but are generally larger in size, lack the characteristic horns, and are not demonic. Grells come in both melee and spell caster variants. They are actually embodiments of the wild side of nature, and so tame ones are very rare. 
+
+***Mischievous Creatures.*** Grell are small, playful creatures that can be encountered in wild areas. They are not particularly dangerous individually, but in gangs they can pose a threat to outlying night elf and furbolg communities; they may be small and unimpressive, but their claws are sharp.
+
+In general grell are not particularly hostile; generally, they are content to leave potential dangers alone. If an opponent attacks, however, they defend themselves fiercely. Grell in a gang feel no particular connection to each other, it seems, and are as likely to assist their comrade as to watch the combat idly.
+
+\columnbreak
+
+___
+> ## Grell
+>*Small fey, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 9 (2d6 + 2)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|14 (+2)|12 (+1)|8 (-1)|10 (+0)|12 (+1)|
+>___
+> - **Skills** Stealth +4
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** Low Common
+> - **Challenge** 1/4 (50 XP)
+> ___
+> ***Nimble Escape.*** The grell can take the Disengage or Hide action as a bonus action on each of its turns.
+>
+> ***Innate Spellcasting.*** The grell's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+> 
+> At will: *solar wrath*, *minor illusion*
+> <br> 2/day each:  *blur*, *misty step*
+>
+> ### Actions
+> ***Claw.***  *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
+>
+> ***Scimitar.***  *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 2) slashing damage.
+
+<img src='https://pre07.deviantart.net/d84a/th/pre/f/2013/119/a/d/kil_rek_by_chaoyuanxu-d63gc5v.jpg' style='position:absolute; top:510px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-520px; right:-50px; width:1100px;transform:rotate(5deg)' />
+
+
+
+## Wildkin
+The wildkin are serene, powerful creatures, acting as a powerful force for good and a staunch ally of the night elves. They resemble cross between a bear and a horned owl, which explains both their wisdom and ferocity. They act as a powerful force for good and a staunch ally of the night elves.
+
+***Humble Creatures.*** Most wildkin treat peaceful travelers with respect, sometimes coming to their aid or assisting lost visitors out of their forests.
+
+While good-tempered and wise, the wildkin fights fiercely against evildoers, especially undead and the forces of the Burning Legion.
+
+***Elune's Creations.*** Some night elf scholars claim that wildkin are the creation of Elune, that she created them to guard all of her sacred places. They claim that Elune created the first wildkin in the early days of the world to serve as guardians to Cenarius.
+
+But now, many years later, the wildkin have grown more feral, and without the guidance of the goddess, they are confused. They wander without purpose, though many find their way back to the sacred areas that they once were sworn to protect.
+
+### Moonkin
+Related to wildkin, moonkin are large, flightless, sapient bird-like creatures, blessed by Elune to spread nature's grace wherever they travel.
+
+\columnbreak
+
+___
+> ## Wildkin
+>*Large monstrosity, neutral good*
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 45 (6d10 + 12)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|12 (+1)|15 (+2)|6 (-2)|12 (+1)|8 (-1)|
+>___
+> - **Skills** Perception +4
+> - **Senses** darkvision 60 ft., passive Perception 13
+> - **Languages** understands Darnassian but can't speak
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Keen Sight and Smell.*** The wildkin has advantage on Wisdom (Perception) checks it makes that rely on sight or smell.
+>
+> ### Actions
+> ***Multiattack.*** The wildkin makes two attacks: one with its beak and one with its claws.
+>
+> ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7 (1d8 + 3) piercing damage, or 10 (1d8 + 6) piercing damage while enraged.
+> 
+> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) slashing damage, or 13 (2d6 + 6) slashing damage while enraged.
+>
+> ***Wild Rage (Recharges after a Short or Long Rest).*** <br>For 1 minute the wildkin enters a rage. While enraged, the wildkin's attacks deal an additional 3 damage (included in the attacks), and makes Strength checks and Strength saving throws wiht advantage.
+
+<img src='https://img02.deviantart.net/4fcc/i/2013/208/8/5/world_of_warcraft_tcg___moonkin_by_murph3-d6fggpd.jpg' style='position:absolute; top:550px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-480px; right:-50px; width:1100px;transform:rotate(5deg)' />
+
+\pagebreakNum
+
+___
+> ## Moonkin
+>*Large monstrosity, chaotic good*
+> ___ 
+> - **Armor Class** 13 (16 with *barkskin*)
+> - **Hit Points** 85 (10d10 + 30)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|12 (+1)|16 (+3)|10 (+0)|16 (+3)|8 (-1)|
+>___
+> - **Skills** Perception +6
+> - **Senses** darkvision 60 ft., passive Perception 16
+> - **Languages** Darnassian
+> - **Challenge** 5 (1,800 XP)
+> ___
+>
+> ***Keen Sight and Smell.*** The moonkin has advantage on Wisdom (Perception) checks it makes that rely on sight or smell.
+>
+> ***Spellcasting.*** The moonkin is a 9th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The moonkin has the following druid spells prepared:
+>
+> Cantrips (at will) :  *druidcraft, resistance, solar wrath*
+> <br> 1st level (4 slots): *healing word, entangle, fearie fire, <br>    starfire*
+> <br> 2nd level (3 slots): *barkskin, cyclone, moonbeam*
+> <br> 3rd level (3 slots): *mass healing word, plant growth, <br>    starsurge*
+> <br> 4th level (3 slots): *grasping vines, guardian of nature*, 
+> <br> 5th level (1 slot):  *wrath of nature*
+>
+> ### Actions
+> ***Multiattack.*** The moonkin makes two attacks: one with its beak and one with its claws.
+>
+> ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) piercing damage.
+> 
+> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8 + 3) slashing damage.
+
+
+
+
+___
+> ## Hawkstrider
+>*Large beast, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 11 (2d10)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|15 (+2)|10 (+0)|3 (-4)|11 (+0)|7 (-2)|
+>___
+> - **Skills** Athletics +3, Acrobatics +4, Perception +2
+> - **Senses** passive Perception 12
+> - **Languages** —
+> - **Challenge** 1/4 (50 XP)
+> ___
+> ***Swift Stride.*** The hawkstrider can use a bonus action to take the Dash action.
+>
+> ### Actions
+> ***Beak.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 3) piercing damage.
+>
+> ***Shriek (Recharge 6).*** The hawkstrider emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a hawkstrider must succeed on a DC 13 Constitution saving throw or be incapaci­tated until the end of the hawkstriders's next turn.
+
+
+
+
+___
+> ## Ashwing Moth
+>*Tiny beast, unaligned*
+> ___
+> - **Armor Class** 10
+> - **Hit Points** 1 (1d4 - 1)
+> - **Speed** 5 ft., fly 25 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|3 (-4)|10 (+0)|8 (-1)|1 (-5)|6 (-2)|3 (-4)|
+>___
+> - **Senses** blindsight 30 ft., passive Perception 8
+> - **Languages** —
+> - **Challenge** 0 (10 XP)
+> ___
+> ***Illumination.*** The moth sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+
+An **ashwing moth** is a nocturnal creature that takes its name from its those who employ them most. Assassins prize these creatures for their vibrant light, using it as a decoy or distraction in their missions, and they are sought after by those venturing into dark places for their ability to shed light for 1d8 days while in captivity.
+
+___
+> ## Giant Moth
+>*Medium beast, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 16 (3d8 + 3)
+> - **Speed** 10 ft., fly 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|9 (-1)|14 (+2)|12 (+1)|3 (-4)|10 (+0)|4 (-3)|
+>___
+> - **Senses** blindsight 30 ft., passive Perception 10
+> - **Languages** —
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ***Keen Smell.*** The moth has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+>
+> ***Pulverulent Wings (1/day).*** A cloud of thick powder disperses out from the moth in a 15-foot radius. Each creature in that area must make on a DC 12 Constitution saving throw, or be blinded until the end of the moth's next turn on a failed save.
+
+\columnbreak
+
+___
+> ## Skywisp Moth
+>*Small beast, unaligned*
+> ___
+> - **Armor Class** 11
+> - **Hit Points** 3 (1d6)
+> - **Speed** 10 ft., 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|5 (-3)|12 (+1)|10 (+0)|3 (-4)|11 (+0)|4 (-3)|
+>___
+> - **Senses** blindsight 30 ft., passive Perception
+> - **Languages** —
+> - **Challenge** 1/8 (25 XP)
+> ___
+> ***Keen Smell.*** The moth has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ***Arcane Interference.*** When a spell is cast within a 10-foot radius of the moth, roll a d20. On a roll of 1, the spell is interrupted as if be a *counterspell* spell.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
+>
+> ***Pulverulent Wings (1/day).*** A cloud of thick powder disperses out from the moth in a 5-foot radius. Each creature in that area must make on a DC 11 Constitution saving throw, or be blinded until the end of the moth's next turn on a failed save.
+
+A **skywisp moth** is considered an insignificant beast to most, these curious moths have be found to sometimes interrupting the spells of arcane practitioners that ventured too close to it. 
