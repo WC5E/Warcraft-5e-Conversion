@@ -38,3 +38,90 @@ ___
 
 <img src='https://pre07.deviantart.net/d84a/th/pre/f/2013/119/a/d/kil_rek_by_chaoyuanxu-d63gc5v.jpg' style='position:absolute; top:510px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-520px; right:-50px; width:1100px;transform:rotate(5deg)' />
+
+
+
+## Wildkin
+The wildkin are serene, powerful creatures, acting as a powerful force for good and a staunch ally of the night elves. They resemble cross between a bear and a horned owl, which explains both their wisdom and ferocity. They act as a powerful force for good and a staunch ally of the night elves.
+
+***Humble Creatures.*** Most wildkin treat peaceful travelers with respect, sometimes coming to their aid or assisting lost visitors out of their forests.
+
+While good-tempered and wise, the wildkin fights fiercely against evildoers, especially undead and the forces of the Burning Legion.
+
+***Elune's Creations.*** Some night elf scholars claim that wildkin are the creation of Elune, that she created them to guard all of her sacred places. They claim that Elune created the first wildkin in the early days of the world to serve as guardians to Cenarius.
+
+But now, many years later, the wildkin have grown more feral, and without the guidance of the goddess, they are confused. They wander without purpose, though many find their way back to the sacred areas that they once were sworn to protect.
+
+### Moonkin
+Related to wildkin, moonkin are large, flightless, sapient bird-like creatures, blessed by Elune to spread nature's grace wherever they travel.
+
+\columnbreak
+
+___
+> ## Wildkin
+>*Large monstrosity, neutral good*
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 45 (6d10 + 12)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|12 (+1)|15 (+2)|6 (-2)|12 (+1)|8 (-1)|
+>___
+> - **Skills** Perception +4
+> - **Senses** darkvision 60 ft., passive Perception 13
+> - **Languages** understands Darnassian but can't speak
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Keen Sight and Smell.*** The wildkin has advantage on Wisdom (Perception) checks it makes that rely on sight or smell.
+>
+> ### Actions
+> ***Multiattack.*** The wildkin makes two attacks: one with its beak and one with its claws.
+>
+> ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7 (1d8 + 3) piercing damage, or 10 (1d8 + 6) piercing damage while enraged.
+> 
+> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) slashing damage, or 13 (2d6 + 6) slashing damage while enraged.
+>
+> ***Wild Rage (Recharges after a Short or Long Rest).*** <br>For 1 minute the wildkin enters a rage. While enraged, the wildkin's attacks deal an additional 3 damage (included in the attacks), and makes Strength checks and Strength saving throws wiht advantage.
+
+<img src='https://img02.deviantart.net/4fcc/i/2013/208/8/5/world_of_warcraft_tcg___moonkin_by_murph3-d6fggpd.jpg' style='position:absolute; top:550px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-480px; right:-50px; width:1100px;transform:rotate(5deg)' />
+
+\pagebreakNum
+
+___
+> ## Moonkin
+>*Large monstrosity, chaotic good*
+> ___ 
+> - **Armor Class** 13 (16 with *barkskin*)
+> - **Hit Points** 85 (10d10 + 30)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|12 (+1)|16 (+3)|10 (+0)|16 (+3)|8 (-1)|
+>___
+> - **Skills** Perception +6
+> - **Senses** darkvision 60 ft., passive Perception 16
+> - **Languages** Darnassian
+> - **Challenge** 5 (1,800 XP)
+> ___
+>
+> ***Keen Sight and Smell.*** The moonkin has advantage on Wisdom (Perception) checks it makes that rely on sight or smell.
+>
+> ***Spellcasting.*** The moonkin is a 9th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The moonkin has the following druid spells prepared:
+>
+> Cantrips (at will) :  *druidcraft, resistance, solar wrath*
+> <br> 1st level (4 slots): *healing word, entangle, fearie fire, <br>    starfire*
+> <br> 2nd level (3 slots): *barkskin, cyclone, moonbeam*
+> <br> 3rd level (3 slots): *mass healing word, plant growth, <br>    starsurge*
+> <br> 4th level (3 slots): *grasping vines, guardian of nature*, 
+> <br> 5th level (1 slot):  *wrath of nature*
+>
+> ### Actions
+> ***Multiattack.*** The moonkin makes two attacks: one with its beak and one with its claws.
+>
+> ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) piercing damage.
+> 
+> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8 + 3) slashing damage.
