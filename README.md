@@ -2,7 +2,8 @@
 
 This project aims to create a set of Warcraft supplements for Dungeons & Dragons 5th Edition.
 
-[Project Kanban Board](https://github.com/Jihia/Warcraft-Heroes-Handbook/projects/2)
+[Heroes' Handbook Kanban Board](https://github.com/Jihia/Warcraft-Heroes-Handbook/projects/2)
+[Manual of Monsters Kanban Board](https://github.com/Jihia/Warcraft-Heroes-Handbook/projects/3)
 
 
 ## Branching Structure
