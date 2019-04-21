@@ -582,6 +582,10 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 
 <style>
 
+/* Tables */
+  table tr:nth-child(odd) td { background-color: #FFF0f5; }
+  .phb hr+section blockquote tr:nth-child(odd) td {background-color:transparent; }
+
 /* Footer */
   .phb .pageNumber { color: #7e735c; z-index:1000; }
   .phb .footnote { color: #7e735c; }
