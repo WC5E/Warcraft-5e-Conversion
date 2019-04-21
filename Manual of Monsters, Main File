@@ -169,7 +169,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
  - [<span>3</span><span> Ogres                         </span>](#p3)
  - [<span>3</span><span> Quilboars                     </span>](#p3)
  - [<span>3</span><span> Ravagers                      </span>](#p3)
- - [<span>3</span><span> Sabercat                      </span>](#p3)
+ - [<span>3</span><span> Sabercats                     </span>](#p3)
  - [<span>3</span><span> Satyrs                        </span>](#p3)
  - [<span>3</span><span> Scourge                       </span>](#p3)
  - [<span>3</span><span> Shale Spider                  </span>](#p3)
@@ -4058,38 +4058,148 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:140px;'></div>
+<div style='margin-top:90px;'></div>
 
-## Sabercat
+## Sabercats
+Sabercats are cunning felines that prowl across <br> Azeroth in their hunt for prey. These large proud, and magnificent felines have become a companion of many adventurers, and been the demise of even more. <br> They are intelligent and loyal when domesticated, <br> but feral and quite aggressive when left in their <br> natural environments.
+
+***Stalkers of Azeroth.*** Sabercats are found in many regions of Azeroth, but the vast majority of their kind can be found upon Kalimdor. The feline creatures have each adjusted to their various climate, sprouting pelts to help them blend in, and adapting to their surroundings. 
+
+Many species of sabercats exist, each having adapted <br> to their climate differently and act differently towards outsiders, the most common sabercats are: Dreadsabers, Frostsabers, and Nightsabers, as well as the magically enhanced Manasaber of Suramar.
+
+***Supreme Predators.*** Sabercats are deadly hunters and display the pinnacle prowess when allowed. They are able to prowl up upon unaware prey with ease, even displaying great athletic and acrobatic capabilities if needed.
+
+***Fierce Companion.*** Night elves have bred and trained sabercats as mounts and companions for war through the ages, the trained sabercats are always exclusively night&shy;sabers but exceptions have been made. Once domesticated or fully trained from a cub, these beasts are loyal to a fault and make for a life-long companion.
+
+### Manasaber
+A manasaber is a magically infused sabercat, these beasts have been locked away with the decaying highbornes of Suramar for thousands of years, slowly mutation through generations into creatures infused with arcane energy. Manasabers take the appearance of slender sabercats with magical runes of power dimly glowing across their pelt.
+
+Most manasabers are domesticated having been trapped in close proximity with night elves for thousands of years, but feral manasabers still exist.
+
+<br>
+
+> ##### Variant: Sabercat Armor
+> An armored sabercat has an AC based on the type of barding worn (see the *Player's Handbook* for more information on barding). The sabercat's AC includes its Dexterity modifier, where applicable. Barding doesn't alter the sabercat's challenge rating.
+>
+> <div style='column-count:2'>
+>
+> |&nbsp;&nbsp;&nbsp;AC &nbsp;&nbsp;| Barding |
+> |:--:|:--------|
+> | 13 | Leather |
+> | 14 | Studded leather |
+> | 15 | Ring mail |
+> | 16 | Scale mail |
+> 
+> |&nbsp;&nbsp;&nbsp;AC &nbsp;&nbsp;| Barding |
+> |:--:|:--------|
+> | 17 | Chain mail |
+> | 18 | Splint |
+> | 19 | Plate |
+> </div>
+
+<div class='letterheader'></div>
+<div class="mmletter mml-s"></div>
+<div class="pageLetter">S</div>
+<div class='footnote'>SABERCAT </div>
+<img src='https://www.gmbinder.com/images/TQz5CzC.jpg' style='position:absolute; top:0px; right:-450px; width:1800px' />
+<img src='https://www.gmbinder.com/images/g6l5tBv.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/P5JAFgK.png' style='position:absolute; top:810px; right:-230px; width:700px;transform:scalex(-1)' />
+
+\pagebreakNum
+
+___
+> ## Young Sabercat
+>*Medium beast, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 13 (3d6 + 3)
+> - **Speed** 30 ft., climb 20 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|14 (+2)|13 (+1)|3 (-4)|11 (+0)|9 (-1)|
+>___
+> - **Skills** Perception +2, Stealth +6
+> - **Senses** darkvision 60 ft., passive Perception 12
+> - **Languages** —
+> - **Challenge** 1/2 (450 XP)
+> ___
+> ***Keen Smell.*** The sabercat has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+>
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
+
+<div style='margin-top:30px;'></div>
 
 ___
 > ## Sabercat
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 12
+> - **Hit Points** 30 (4d10 + 8)
+> - **Speed** 40 ft., climb 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|14 (+2)|15 (+2)|3 (-4)|12 (+1)|8 (-1)|
+>___
+> - **Skills** Perception +3, Stealth +6
+> - **Senses** darkvision 60 ft., passive Perception 13
+> - **Languages** —
+> - **Challenge** 1 (200 XP)
+> ___
+> ***Keen Smell.*** The sabercat has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ***Pounce.*** If the sabercat moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the sabercat can make one bite attack against it as a bonus action.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage.
+>
+> ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+
+___
+___
+> ## Manasaber
+>*Large beast, unaligned*
+> ___
+> - **Armor Class** 13
 > - **Hit Points** 52 (7d10 + 14)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|14 (+2)|15 (+2)|3 (-4)|12 (+1)|8 (-1)|
+>|14 (+2)|17 (+3)|15 (+2)|4 (-3)|12 (+1)|10 (+0)|
 >___
 > - **Skills** Perception +3, Stealth +6
-> - **Senses** passive Perception 13
+> - **Senses** darkvision 60 ft., passive Perception 
 > - **Languages** —
-> - **Challenge** 2 (450 XP)
+> - **Challenge** 3 (700 XP)
 > ___
 > ***Keen Smell.*** The sabercat has advantage on Wisdom (Perception) checks that rely on smell.
 >
-> ***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
+> ***Innate Spellcasting.*** The manasaber's spellcasting ability is Wisdom (spell save DC 11). The manasaber can innately cast the following spells, requiring no components:
+>
+> 2/day each: *invisibility, misty step*
+>
+> ***Magic Resistance.*** The manasaber has advantage on saving throws against spells and other magical effects
+>
+> ***Magic Weapons.*** The manasaber's weapon attacks are considered magical.
+>
+> ***Pounce.*** If the sabercat moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the sabercat can make one bite attack against it as a bonus action.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage.
+> ***Multiattack.*** The manasaber makes two attacks: one with its bite and one with its claws.
 >
-> ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage.
+>
+> ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+>
+> <div style='margin-top:80px;'></div>
 
-<div class='letterheader'></div>
-<div class="mmletter mml-s"></div>
 <div class="pageLetter">S</div>
 <div class='footnote'>SABERCAT </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
