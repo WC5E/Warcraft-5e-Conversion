@@ -3797,9 +3797,7 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:140px;'></div>
-
-## Quilboars
+<div style='margin-top:440px;'></div>
 
 ___
 > ## Quilboar
@@ -3814,7 +3812,7 @@ ___
 >|12 (+1)|11 (+1)|14 (+2)|8 (-1)|10 (+0)|9 (-1)|
 >___
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Common
+> - **Languages** Common, Quilboar
 > - **Challenge** 1/4 (50 XP)
 > ___
 > ***Keen Smell.*** The quilboar has advantage on Wisdom (Perception) checks that rely on smell.
@@ -3831,7 +3829,43 @@ ___
 
 \columnbreak
 
-<div style='margin-top:140px;'></div>
+<div style='margin-top:340px;'></div>
+
+## Quilboars
+A ferocious, suicidally brave race with an alien mentality and devotion to their tribe, quilboars are stubby hunched humanoids with a pig-like face and rows of sharp spines running down its muscular back.
+
+Quilboars have worn down brown skin adorned with tribal markings and tattoos, long razer-sharp quils runs the length of their back in place of hair. Multiple sets of stubby tusks protrude from the side of their mouth.
+
+***Sacred Settlements.*** Quilboars live in the shade and protection of enormous roots that mar the land and choke out other life, turning the earth around them barren. The quilboar tribes flock to the thorny areas of central Kalimdor believe the regions to be sacred, and the erupted roots to have grown from the blood of Agamaggan.
+
+When quilboars have turned a land too barren for them to settle in, their tribe moves on to find new areas to hunt in and their mighty thornweavers seed and grow new roots for them to live in.
+
+***Hostile Colonies.*** These pig-like humanoids live in large colonies within their sacred thorn settlements. They are fiercely loyal to their colony, and defend it with reckless ferocity when nearby denizens venture too close to the thorns that mark their territories.
+
+***Crude Shamanism.*** Quilboars practice a crude form of shamanism, weaving its forces together with druidic magic to make their mighty thornweavers. These shamans are kept in high regard by their colonies, and are seen as the voice of Agamaggan.
+
+Quilboars revere the ancient Agamaggan as their creator and deity. Calling upon his aid to bolster them in fights and making sacrifices in his name. His blood would grow the twisted thorns of Razerfen, and his remain would adorn its entrance. All quilboars consider it to be a sacred place without equal on this earth.
+### Quilboar Packmaster
+Quilboars have a natural affinity towards boars, and some amongst them have made it their lives worth to raise and fight alongside such creatures. These packmasters are rarely alone, taking in the company of one or more boars wherever they go.
+
+<div class='letterheader'></div>
+<div class="mmletter mml-q"></div>
+<div class="pageLetter">Q</div>
+<div class='footnote'>QUILBOARS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/ljH3Xaj.png' style='position:absolute; top:-50px; right:200px; width:650px' />
+
+\pagebreakNum
+
+<div style='margin-top:40px;'></div>
+
+### Quilboar Thornweaver
+The wise thornweavers are core to most quilboar colonies, these shamans are the voice of Agamaggan within a colony and their word is respected by all, and they are often close advisors of a colony's chieftain. In some colonies, the word of a thornweaver is placed above that of its cheiftain and on rare occasions a thornweaver replaces a chieftain.
+
+### Quilboar Chieftain
+A quilboar chieftain rules over each colony, in most cases a quilboar became chieftain by overthrowing the colony's previous leader. They are surrounded by wise thornweavers and under rare circumstances a chieftain has one or more battleguards under their command. These brutish quil&shy;boars are the honor guards of a chieftain, and oversee the colony in the chieftains absence.
+
+<div style='margin-top:30px;'></div>
 
 ___
 > ## Quilboar Packmaster
@@ -3847,7 +3881,7 @@ ___
 >___
 > - **Skills** Animal Handling +3
 > - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** Common
+> - **Languages** Common, Quilboar
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ***Keen Smell.*** The quilboar has advantage on Wisdom (Perception) checks that rely on smell.
@@ -3866,13 +3900,9 @@ ___
 > ### Reactions
 > ***Quills.*** In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-q"></div>
-<div class="pageLetter">Q</div>
-<div class='footnote'>QUILBOARS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+\columnbreak
 
-\pagebreakNum
+<div style='margin-top:330px;'></div>
 
 ___
 > ## Quilboar Thornweaver
@@ -3887,7 +3917,7 @@ ___
 >|11 (+0)|14 (+2)|13 (+1)|9 (-1)|15 (+2)|9 (-1)|
 >___
 > - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** Common
+> - **Languages** Common, Quilboar
 > - **Challenge** 1 (200 XP)
 > ___
 > ***Keen Smell.*** The quilboar has advantage on Wisdom (Perception) checks that rely on smell.
@@ -3908,6 +3938,15 @@ ___
 > ### Reactions
 > ***Quills.*** In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
+<div class="pageLetter">Q</div>
+<div class='footnote'>QUILBOARS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/Tmf8a9n.png' style='position:absolute; top:-30px; right:35px; width:390px' />
+
+\pagebreakNum
+
+<div style='margin-top:300px;'></div>
+
 > ##### Variant: Quilboar Battleguard
 > A quilboar battleguard has a challenge rating of 4 (1,100 XP). It has the same statistics as a quilboar chieftain except it gains the following special abilities, and loses the Leadership action.
 >
@@ -3915,7 +3954,13 @@ ___
 >
 > ***Relentless (Recharges after a Short or Long rest).*** If the quilboar takes 12 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-\columnbreak
+<br>
+
+<div style='margin-top:1000px;'></div>
+
+<br>
+
+___
 ___
 > ## Quilboar Chieftain
 >*Medium humanoid (quilboar), neutral evil*
@@ -3929,7 +3974,7 @@ ___
 >|16 (+3)|12 (+1)|15 (+2)|13 (+1)|12 (+1)|9 (-1)|
 >___
 > - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** Common
+> - **Languages** Common, Quilboar
 > - **Challenge** 3 (700 XP)
 > ___
 > ***Keen Smell.*** The quilboar has advantage on Wisdom (Perception) checks that rely on smell.
@@ -3952,7 +3997,9 @@ ___
 
 <div class="pageLetter">Q</div>
 <div class='footnote'>QUILBOARS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/wYkRYT1.jpg' style='position:absolute; top:0px; right:-150px; width:1000px' />
+<img src='https://www.gmbinder.com/images/60YwJDt.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/DY0bq9o.png' style='position:absolute; top:0px; right:-50px; width:600px' />
 
 \pagebreakNum
 
