@@ -3460,7 +3460,7 @@ following spells, requiring no material components:
 
 \pagebreakNum
 
-## Mana Wyrms
+<div style='margin-top:270px;'></div>
 
 ___
 > ## Arcane Wyrm
@@ -3496,6 +3496,21 @@ ___
 > ***Faerie Fire (1/day).*** The wyrm manifests the effects of a *faerie fire* spell within 60 feet of it (spell save DC 12).
 
 \columnbreak
+
+## Mana Wyrms
+Manifesting near pockets of arcane energy, mana wyrms are small shimmering creatures that hover above the ground as they slither towards creatures or objects of arcane energy.
+
+Rarely does the sight of a mana wyrm cause a seasoned adventurer concern, for them the small creatures are more of a nuisance than a threat and is easily avoided.
+
+***Unstable Temperament.*** The temperament of a mana wyrm hangs solely on how long its been since it last fed on mana. These creatures are considered docile and harmless if fed often, but aggressive and unpredictable if hungry. The wyrms are also known for exploding in a flash of arcane.
+
+***Arcane Sense.*** A mana wyrms can sense the taint and use of arcane energy near them and gravitate towards it, focusing their attacks against creatures that reek of arcane magic if hungry.
+
+### Arcane Wyrm
+An arcane wyrm is by many considered an overgrown mana wyrm that's been allowed to feed on too much energy before being put down. These long slithering creatures resemble large mana wyrms, and carry many of the same qualities as their kin. They are known for having a more even temperament than mana wyrms, and less prone to immediate hostility.
+
+<div style='margin-top:17px;'></div>
+
 ___
 > ## Mana Wyrm
 >*Small elemental, unaligned*
@@ -3525,7 +3540,9 @@ ___
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MANA WYRMS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/MmGP2TI.png' style='position:absolute; top:0px; right:380px; width:400px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/kPmUVis.png' style='position:absolute; top:-120px; right:250px; width:700px' />
+<img src='https://www.gmbinder.com/images/ZgmSVfj.png' style='position:absolute; top:0px; right:-150px; width:950px' />
 
 \pagebreakNum
 
