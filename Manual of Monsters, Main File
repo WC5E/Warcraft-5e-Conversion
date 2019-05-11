@@ -2660,7 +2660,30 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:30px;'></div>
+
 ## Gnolls
+Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without any warning, though highly aggressive, they are notorious for being extremely unintelligent and prone to infighting.
+
+***Nomadic Destroyers.*** Gnolls are dangerous because they strike at random. They emerge from the wilderness, plunder and slaughter, then move elsewhere. They attack like a plague of locusts, pillaging settlements and leaving little behind but razed buildings, gnawed corpses, and befauled land. Gnolls choose easy targets for their raids. Armored warriors holed up in a fortified castle will <br> survive a rampaging gnoll horde unscathed, even as the towns, villages, and farms that surround the castle are ablaze, their people slaughtered and devoured.
+
+Gnolls rarely build permanent structures or craft anything of lasting value. They don't make weapons or armor, but scavenge such items from the corpses of their fallen victims, stringing ears, teeth, scalps, and other trophies from their foes onto their patchwork armor.
+
+***Intelligent Beasts.*** Gnolls are by no means an intelligent humanoid race, but rather many would call them relatively intelligent beasts. They are known to manipulate each other into fights over ridiculous things like *whose shadow is larger*. Gnolls use as much time to fight with each other as they do fighting a common foe. The gnolls would be a fearsome race, if they ever stopped tearing each other to pieces long enough to organize into an army.
+
+***Hunger for Meat.*** To a gnoll, meat is meat, and they will gnaw their victims bones clean of anything that resembles meat. Gnolls will even go so far as to kill and canibalize outcasts of their pack if they are hungry enough. They've also made a tradition of devouring the bodies of their dead.
+
+
+### Gnoll Brute
+The strongest of the pack becomes those who lead it, a gnoll brute displays immense strength far superior to that of most gnolls. A gnoll brute is no more intelligent than any other gnoll, and only has a larger lust for blood.
+
+### Gnoll Mystic
+Some gnolls feel a connection towards the shamanistic forces of the world, these gnolls become mystics of their packs. A gnoll mystic is capable of performing simple arts of magic that would be considered novice by most scholars, but even though their feats aren't extraordinary they are held in high regard by gnolls of their pack, seeing them as being the wisest of beings.
+
+### Gnoll Pack Lord
+The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It places ornaments on its body of brutal piercings and grotesque trophies to show it's superior strength over the pack.
+
+\columnbreak
 
 ___
 > ## Gnoll
@@ -2675,21 +2698,18 @@ ___
 > 11 (+0)|13 (+1)|12 (+1)|6 (-2)|10 (+0)|7 (-2)|
 > ___  
 > - **Senses** darkvision 60 ft. passive Perception 10  
-> - **Languages** Common, Gnoll  
+> - **Languages** Low Common, Gnoll  
 > - **Challenge** 1/2 (100 XP)  
 > ___
 > 
 > ***Last Stand.*** When the gnoll is reduced to 0 hit points, it can use its reaction to make a bite attack before falling unconscious.    
 >
 > ### Actions
->
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) piercing damage.   
 > 
 > ***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.   
 > 
 > ***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.   
-
-\columnbreak
 
 ___
 > ## Gnoll Brute
@@ -2705,7 +2725,7 @@ ___
 > ___  
 > - **Skills** Perception +2
 > - **Senses** darkvision 60 ft. passive Perception 12  
-> - **Languages** Common, Gnoll  
+> - **Languages** Low Common, Gnoll  
 > - **Challenge** 1 (200 XP)
 > ___
 > 
@@ -2714,7 +2734,6 @@ ___
 > ***Last Stand.*** When the gnoll is reduced to 0 hit points, it can use its reaction to make a bite attack before falling unconscious.       
 >
 > ### Actions
->
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4 + 2) piercing damage.   
 > 
 > ***Greatclub.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 2) bludgeoning damage.
@@ -2722,8 +2741,11 @@ ___
 <div class="pageLetter">G</div>
 <div class='footnote'>GNOLLS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/Z8yFnva.jpg' style='position:absolute; top:940px; right:315px; width:450px;mix-blend-mode:darken' />
 
 \pagebreakNum
+
+<div style='margin-top:472px;'></div>
 
 ___
 > ## Gnoll Mystic
@@ -2739,7 +2761,7 @@ ___
 > ___  
 > - **Skills** Insight +2, Perception +4, Deception +4
 > - **Senses** darkvision 60 ft. passive Perception 14  
-> - **Languages** Common, Gnoll  
+> - **Languages** Low Common, Gnoll  
 > - **Challenge** 1 (200 XP)
 > ___
 > 
@@ -2748,14 +2770,15 @@ ___
 > ***Spellcasting.*** The gnoll is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:     
 >
 > Cantrips (at will): *lightning blast, gust*
-> <br/> 1st level (4 slots): *absorb elements, cure wounds, detect magic, fog cloud*
-> <br/> 2nd level (2 slots): *dust devil, heat metal*
+> <br> 1st level (4 slots): *absorb elements, cure wounds, <br>&nbsp;&nbsp;&nbsp; detect magic, fog cloud*
+> <br> 2nd level (2 slots): *dust devil, heat metal*
 >
 > ### Actions
->
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) piercing damage.   
 
 \columnbreak
+
+<div style='margin-top:300px;'></div>
 
 ___
 > ## Gnoll Pack Lord
@@ -2771,7 +2794,7 @@ ___
 > ___  
 > - **Skills** Athletics +5, Survival +3, Intimidation +3
 > - **Senses** darkvision 60 ft. passive Perception 11  
-> - **Languages** Common, Gnoll  
+> - **Languages** Low Common, Gnoll  
 > - **Challenge** 3 (700 XP)
 > ___
 >
@@ -2780,7 +2803,6 @@ ___
 > ***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.   
 >
 > ### Actions
->
 > ***Multiattack.*** The gnoll uses its Kill Command, if it can. It then makes two melee weapon attacks or one heavy crossbow attack.
 >
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5 (1d4 + 3) piercing damage.   
@@ -2793,7 +2815,8 @@ ___
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GNOLLS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/cFdzQTr.jpg' style='position:absolute; top:-70px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/4Q3HUFE.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
