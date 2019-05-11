@@ -1345,9 +1345,96 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:140px;'></div>
+<div style='margin-top:219px;'></div>
+
+> ##### Variant: Raptor Ravager
+> The most ferocious in a pack of raptors are often referred to as *ravagers*. A raptor ravager has a challenge rating of 2 (450 XP). It has the same statistics as a raptor, and gains the following trait:
+>
+> **Rampage**. When the raptor reduces a creature to 0 hit points with a melee attack on its turn, the raptor can take a bonus action to move up to half its speed and make a bite attack.
+
+___
+> ## Raptor
+>*Medium beast, unaligned*
+> ___
+> - **Armor Class** 13 (Natural Armor)
+> - **Hit Points** 27 (5d8 + 5)
+> - **Speed** 50 ft
+> ___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+2)|16 (+3)|12 (+1)|3 (-4)|14 (+2)|6 (-2)|
+> ___
+> - **Skills** Perception +4, Stealth +4
+> - **Senses** passive Perception 14
+> - **Challenge** 1 (200 XP)
+> ___
+> ***Keen Hearing and Smell.*** The raptor has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>
+> ***Pack Tactics.*** The raptor has advantage on attack rolls against a creature if at least one of the raptor's allies is within 5 feet of the creature and the ally isn't incapacitated.
+> 
+> ***Pounce***. If the raptor moves at least 20 ft. straight toward a creature and then hits it with a claw or bite attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone.
+>
+> ### Actions
+> ***Multiattack.*** The raptor makes two attacks: one with its bite and one with its claws.
+> 
+> ***Bite***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d4+3) Piercing damage. 
+>
+> ***Claws***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (1d8+3) Slashing damage.
+
+\columnbreak
+
+<div style='margin-top:324px;'></div>
+
+___
+> ## Raptor Matriarch
+>*Medium beast, unaligned*
+> ___
+> - **Armor Class** 13 (Natural Armor)
+> - **Hit Points** 45 (7d8 + 14)
+> - **Speed** 50 ft
+> ___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+2)|17 (+3)|14 (+2)|8 (-1)|14 (+2)|12 (+1)|
+> ___
+> - **Skills** Perception +4, Stealth +5, Intimidation +3
+> - **Senses** passive Perception 14
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Keen Hearing and Smell.*** The raptor has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>
+> ***Pack Tactics.*** The raptor has advantage on attack rolls against a creature if at least one of the raptor's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+> ***Pounce***. If the raptor moves at least 20 ft. straight toward a creature and then hits it with a claw or bite attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone.
+>
+> ### Actions
+> ***Multiattack.*** The raptor makes two attacks: one with its bite and one with its claws.
+> 
+> ***Bite***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6+3) Piercing damage. 
+>
+> ***Claws***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 12 (2d8+3) Slashing damage.
+>
+> ***Matron's Call (1/Day).*** The raptor utters a series of guttural noises and cries. Other raptors within 30 ft. who hear the call, can use their reaction to make an opportunity attack against a creature within 5 ft. of them.
+
+<div class="pageLetter">D</div>
+<div class='footnote'>DINOSAURS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/ZlkfRr5.png' style='position:absolute; top:-50px; right:-100px; width:1100px;transform:scalex(-1)' />
+
+\pagebreakNum
+
+<br>
 
 ## Dinosaurs
+Dinosaurs are among the oldest reptiles in the world. Predatory dinosaurs are savage, territorial hunters. Herbivorous dinosaurs are less aggressive, but they might attack to defend their young, or if startled or harassed.
+
+Dinosaurs come in many sizes and shapes with a large variety of colorations and markings between them. They roam many regions of Azeroth, including remote mountain valleys, humid jungles, and rugged barren plains.
+
+### Raptor
+The raptor is an aggressive theropods predator of great strength and speed. It can run down almost any prey over open ground, pouncing to pull creatures down with its wicked claws and fanged maw.
+
+### Threshadon
+A plesiosaurus is a marine dinosaur whose compact body is driven by powerful flippers. Predatory and aggressive, it attacks any creature it encounters. Its flexible neck accounts for a third of its total length, letting it twist in any direction to deliver a powerful bite.
 
 ___
 > ## Threshadon
@@ -1375,11 +1462,10 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack*: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) piercing damage.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-d"></div>
 <div class="pageLetter">D</div>
-<div class='footnote'>DARKHOUND </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<div class='footnote'>DINOSAURS </div>
+<img src='https://www.gmbinder.com/images/din7hXr.jpg' style='position:absolute; top:0px; right:-750px; width:2020px' />
+<img src='https://www.gmbinder.com/images/GyD06WI.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
