@@ -689,38 +689,82 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 
 \pagebreakNum
 
-<div style='margin-top:140px;'></div>
+<div style='margin-top:420px;'></div>
 
-## Ancients
-
-> ##### Variant: Tree of Life
-> A tree of life is a sapling born from the world tree Nordrassil, these ancients have suffered great loses in recent wars, and those who remains have returned to the forest to spread their seeds and replenish their numbers undisturbed.
+___
+> ## Ancient Protector
+>*Huge plant, neutral good*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 105 (10d12 + 40)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|21 (+5)|8 (-1)|19 (+4)|12 (+1)|16 (+3)|12 (+1)|
+>___
+> - **Damage Vulnerabilities** fire
+> - **Damage Resistances** bludgeoning, piercing
+> - **Senses** darkvision 120 ft., passive Perception 13
+> - **Languages** Darnassian, Druidic
+> - **Challenge** 6 (2,300 XP)
+> ___
+> ***False Appearance.*** While the ancient remains motion&shy;less, it is indistinguishable from a normal tree.
 >
-> A tree of life has a challenge rating of  11 (7,200 XP) and gains the following additional traits:
-> <div style='margin-top:0px;'></div>
+> ***Siege Monster.*** The ancient deals double damage to objects and structures.
 >
-> &nbsp;&nbsp;&nbsp; ***Nature's Blessing.*** The tree add its Wisdom <br>&nbsp;&nbsp;&nbsp; modifier to its Armor Class (AC 20).
-> <div style='margin-top:0px;'></div>
+> ### Actions
+> ***Multiattack.*** The ancient makes two slam attacks.
 >
-> &nbsp;&nbsp;&nbsp; ***Rooted Tranquility.*** While the tree have taken root, <br>&nbsp;&nbsp;&nbsp; each plant of the tree's choice within 60 feet of it <br>&nbsp;&nbsp;&nbsp; regains 20 hit points at the start of its turn. If the <br>&nbsp;&nbsp;&nbsp; plant takes fire damage, this trait doesn't function <br>&nbsp;&nbsp;&nbsp; at the start of the plant's next turn. A plant dies if <br>&nbsp;&nbsp;&nbsp; it starts its turn with 0 hit points.
-> <div style='margin-top:0px;'></div>
+> ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15 (3d6 + 5) bludgeoning damage.
 >
-> &nbsp;&nbsp;&nbsp; ***Spellcasting.*** The tree has the following additional <br>&nbsp;&nbsp;&nbsp; spells prepared.
+> ***Rock*** *Ranged Weapon Attack:* +8 to hit, range 60/180 ft., one target. *Hit:* 27 (5d8 + 5) bludgeoning damage.
 >
-> <br>&nbsp;&nbsp;&nbsp; 4th level: *guardian of nature, grasping vine*
-> <br>&nbsp;&nbsp;&nbsp; 5th level: *commune with nature*
-> <br>&nbsp;&nbsp;&nbsp; 6th level: *druid grove, sunbeam*
-> <div style='margin-top:0px;'></div>
->
-> The tree has the following additional action option.
-> <div style='margin-top:0px;'></div>
->
-> &nbsp;&nbsp;&nbsp; ***Summon Wisps (1/Day).*** The tree calls forth ten <br>&nbsp;&nbsp;&nbsp; wisps that appear in empty spaces within 60 feet <br>&nbsp;&nbsp;&nbsp; of it. These wisps acts as allies of the tree. The <br>&nbsp;&nbsp;&nbsp; wisps remains for 1 day or until they die.
+> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
 
 \columnbreak
 
-<div style='margin-top:120px;'></div>
+<div style='margin-top:185px;'></div>
 
+## <span style="margin-left:76px"></span> Ancients
+<span style="margin-left:76px"></span> An ancient is a massive sentient guardian of 
+<span style="margin-left:76px"></span> wood and leafs, with an unparalleled wisdom
+<span style="margin-left:75px"></span> and insight to the nature around them. These
+<span style="margin-left:70px"></span> hulking guardians have allied  themselves with 
+<span style="margin-left:60px"></span> the night elves, seeing many of the same ideals 
+<span style="margin-left:50px"></span> they wish to preserve in them.
+
+***Staunch Defenders.*** An ancient is grown from a acorn like so many other trees, yet it is much rarer and much more powerful than most other acorns. It takes many years for an ancient to grow to its full size, but once it is fully grown it can live for thousands of years without feeling the curse of old age.
+
+Many ancients have allied themselves with the honorable night elves and guard their cities and the edge of their territories. They can burrow their rooted feet into the soil beneath them to give them stability, often standing so still as to be indistinguishable from a normal tree, allowing animals to next within their tree crowns unbeknownst to the hulking creature beneath them.
+
+With their immense lifespan they see time differently from mortal races, and often times, years are seen as akin to seconds in their eyes.
+
+***Hydrated Nature.*** An ancient doesn't require food or sleep, and can carry on for weeks without a fresh supply of water to strengthen them.
+
+### Ancient Protector
+When the acorn of an ancient sprouts a sapling, the result will always become an ancient protector, these hulking trees make up the core of ancients, and are critical in the security of night elven civic areas and groves.
+
+### Ancient of Lore
+Some ancients grow to become enlightened beings of the forest, wise beyond belief and capable of establishing meaningful contact with the free-spirited dryads. These ancient have a close connection to night elven druids and priests, instruction them about the ways of magic and the secrets of nature.
+
+### Ancient of War
+Some of the toughest ancients grow into ancients of war, mighty plants often found defending night elven settle&shy;ments or supporting Alliance forces in battle. Embodied in these ancient guardians are the spirits of courage and determination that propels it and other ancients forward when situations turn dire.
+
+These ancients provide a link to the brutal side of nature and the cycle of life and death that rules all creation.
+
+<div class='letterheader'></div>
+<div class="mmletter mml-a"></div>
+<div class="pageLetter">A</div>
+<div class='footnote'>ANCIENTS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/TfR3uTq.png' style='position:absolute; top:0px; right:300px; width:550px;transform:scalex(-1)' />
+
+\pagebreakNum
+
+<div style='margin-top:950px;'></div>
+
+___
 ___
 > ## Ancient of Lore
 >*Huge plant, neutral good*
@@ -766,47 +810,40 @@ ___
 >
 > ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-a"></div>
 <div class="pageLetter">A</div>
 <div class='footnote'>ANCIENTS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/W7JrNLv.jpg' style='position:absolute; top:0px; right:-150px; width:1200px' />
+<img src='https://www.gmbinder.com/images/WQXIOUB.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
-\pagebreakNum
+\pagebreak
+
+> ##### Variant: Tree of Life
+> A tree of life is a sapling born from the world tree Nordrassil, these ancients have suffered great loses in recent wars, and those who remains have returned to the forest to spread their seeds and replenish their numbers undisturbed.
+>
+> A tree of life has a challenge rating of 11 (7,200 XP). It has the same statistics as a ancient of lore, and gains the following additional traits:
+> <div style='margin-top:0px;'></div>
+>
+> &nbsp;&nbsp;&nbsp; ***Nature's Blessing.*** The tree add its Wisdom <br>&nbsp;&nbsp;&nbsp; modifier to its Armor Class (AC 20).
+> <div style='margin-top:0px;'></div>
+>
+> &nbsp;&nbsp;&nbsp; ***Rooted Tranquility.*** While the tree have taken root, <br>&nbsp;&nbsp;&nbsp; each plant of the tree's choice within 60 feet of it <br>&nbsp;&nbsp;&nbsp; regains 20 hit points at the start of its turn. If the <br>&nbsp;&nbsp;&nbsp; plant takes fire damage, this trait doesn't function <br>&nbsp;&nbsp;&nbsp; at the start of the plant's next turn. A plant dies if <br>&nbsp;&nbsp;&nbsp; it starts its turn with 0 hit points.
+> <div style='margin-top:0px;'></div>
+>
+> &nbsp;&nbsp;&nbsp; ***Spellcasting.*** The tree has the following additional <br>&nbsp;&nbsp;&nbsp; spells prepared.
+>
+> <br>&nbsp;&nbsp;&nbsp; 4th level: *guardian of nature, grasping vine*
+> <br>&nbsp;&nbsp;&nbsp; 5th level: *commune with nature*
+> <br>&nbsp;&nbsp;&nbsp; 6th level: *druid grove, sunbeam*
+> <div style='margin-top:0px;'></div>
+>
+> The tree has the following additional action option.
+> <div style='margin-top:0px;'></div>
+>
+> &nbsp;&nbsp;&nbsp; ***Summon Wisps (1/Day).*** The tree calls forth ten <br>&nbsp;&nbsp;&nbsp; wisps that appear in empty spaces within 60 feet <br>&nbsp;&nbsp;&nbsp; of it. These wisps acts as allies of the tree. The <br>&nbsp;&nbsp;&nbsp; wisps remains for 1 day or until they die.
+
+<div style='margin-top:700px;'></div>
 
 ___
-> ## Ancient Protector
->*Huge plant, neutral good*
-> ___
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 105 (10d12 + 40)
-> - **Speed** 30 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|21 (+5)|8 (-1)|19 (+4)|12 (+1)|16 (+3)|12 (+1)|
->___
-> - **Damage Vulnerabilities** fire
-> - **Damage Resistances** bludgeoning, piercing
-> - **Senses** darkvision 120 ft., passive Perception 13
-> - **Languages** Darnassian, Druidic
-> - **Challenge** 6 (2,300 XP)
-> ___
-> ***False Appearance.*** While the ancient remains motion&shy;less, it is indistinguishable from a normal tree.
->
-> ***Siege Monster.*** The ancient deals double damage to objects and structures.
->
-> ### Actions
-> ***Multiattack.*** The ancient makes two slam attacks.
->
-> ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15 (3d6 + 5) bludgeoning damage.
->
-> ***Rock*** *Ranged Weapon Attack:* +8 to hit, range 60/180 ft., one target. *Hit:* 27 (5d8 + 5) bludgeoning damage.
->
-> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
-
-\columnbreak
-
 ___
 > ## Ancient of War
 >*Huge plant, neutral good*
@@ -847,6 +884,7 @@ ___
 <div class="pageLetter">A</div>
 <div class='footnote'>ANCIENTS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/nTufGSO.png' style='position:absolute; top:-100px; right:-110px; width:600px;transform:scalex(-1)' />
 
 \pagebreakNum
 
