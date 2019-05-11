@@ -167,6 +167,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
  - [<span>3</span><span> Murlocs                       </span>](#p3)
  - [<span>3</span><span> Nagas                         </span>](#p3)
  - [<span>3</span><span> Ogres                         </span>](#p3)
+ - [<span>3</span><span> Owlbeasts                     </span>](#p3)
  - [<span>3</span><span> Quilboars                     </span>](#p3)
  - [<span>3</span><span> Ravagers                      </span>](#p3)
  - [<span>3</span><span> Sabercat                      </span>](#p3)
@@ -181,7 +182,6 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
  - [<span>3</span><span> Trolls                        </span>](#p3)
  - [<span>3</span><span> Thunder Lizard                </span>](#p3)
  - [<span>3</span><span> Whale Shark                   </span>](#p3)
- - [<span>3</span><span> Wildkins                      </span>](#p3)
  - [<span>3</span><span> Wind Serpents                 </span>](#p3)
  - [<span>3</span><span> Worgen: Feral                 </span>](#p3)
  - [<span>3</span><span> Yetis                         </span>](#p3)
@@ -3998,6 +3998,110 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:410px;'></div>
+
+___
+> ## Owlbeast
+>*Large monstrosity, neutral good*
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 45 (6d10 + 12)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|12 (+1)|15 (+2)|6 (-2)|12 (+1)|8 (-1)|
+>___
+> - **Skills** Perception +4
+> - **Senses** darkvision 60 ft., passive Perception 13
+> - **Languages** understands Darnassian but can't speak
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Keen Sight and Smell.*** The owlbeast has advantage on Wisdom (Perception) checks it makes that rely on sight or smell.
+>
+> ### Actions
+> ***Multiattack.*** The owlbeast makes two attacks: one with its beak and one with its claws.
+>
+> ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7 (1d8 + 3) piercing damage, or 10 (1d8 + 6) piercing damage while enraged.
+> 
+> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) slashing damage, or 13 (2d6 + 6) slashing damage while enraged.
+>
+> ***Wild Rage (Recharges after a Short or Long Rest).*** <br>For 1 minute the owlbeast enters a rage. While enraged, the owlbeast's attacks deal an additional 3 damage (included in the attacks), and makes Strength checks and Strength saving throws with advantage.
+
+\columnbreak
+
+<div style='margin-top:460px;'></div>
+
+## Owlbeasts
+An owlbeast is a serene and powerful creature <br>that inhabits forested regions of the world. They <br>resemble a cross between a bear and an owl, and <br>with the antlers of a great stag. Its strong claws and <br>hooked beak suggest a violent being, but its large golden eyes show its gentle nature.
+
+***Forest Settlers.*** Owlbeasts live within the depths of forested regions, finding shelter in rocky terrain and uninhabited caverns. Owlbeasts are social creatures and live in small colonies within themselves. With no apparent structure of leadership, they live a harmonious lifestyle.
+
+***Peaceful Creatures.*** Most owlbeasts treat peaceful travelers with as much respect as they are shown, occasio&shy;nally coming to their aid or assisting lost visitors by showing them safe roads out of their forests. Although owlbeasts are respectful of others who wander the forests, they show extreme ferocity against those who do not heed their gentle declines or openly show them hostility.
+
+***Elune's Creation.*** Night elves and druids alike claim that the goddess Elune created the first owlbeasts in the early days of the world to serve as guardians to Cenarius. Combi&shy;ning the best traits of the owl, the most beloved of her night birds, and the bear, the lumbering protector of the woods. Resulting in the swift, elegant, and fiercely loyal hunters
+
+But through the ages, the owlbeasts have grown more feral in their nature, and without the guidance of the goddess many are confused. They wander without purpose, though some find their way back to the sacred areas that they once swore to protect.
+
+***Corruptible Minds.*** Owlbeasts are by nature peaceful and calm, but they are not the strongest mental creatures on Azeroth and their minds have shown to be easily corrupted by greater powers, turning the calm owlbeasts into ferocious and easily aggravated beasts that can turn against visitors at a moments notice.
+
+<div class="pageLetter">O</div>
+<div class='footnote'>OWLBEASTS</div>
+<img src='https://www.gmbinder.com/images/CmjXePR.jpg' style='position:absolute; top:-20px; right:-20px; width:640px' />
+<img src='https://www.gmbinder.com/images/PxOX2zF.png' style='position:absolute; top:-150px; right:0px; width:1000px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/lKUDalm.png' style='position:absolute; top:-100px; right:340px; width:600px' />
+
+\pagebreakNum
+
+### Owlbeast
+Owlbeasts are considered much more feral than the calm and peaceful moonkins, these creatures are more prone to be aggravated and go into an enraged stage where no sense can be made with them. They settle in large packs wherever they find shelter, even if it brings them into close contact with more sentient race, forcing them to fight for their home or find somewhere else.
+
+### Moonkin
+The mighty moonkins are claimed to be Elune's creation, these creatures appear similar to a simply owlbeast when first encountered, and could easily be mistaken for such. While owlbeasts trespass the border into feral beasts. A moonkin is a sentient creature capable of rational thinking and coherent conversation. Moonkins are blessed by Elune to spread nature's grace wherever they settle, and when threatened they exert the full force of the moon goddess.
+
+___
+> ## Moonkin
+>*Large monstrosity, chaotic good*
+> ___ 
+> - **Armor Class** 13 (16 with *barkskin*)
+> - **Hit Points** 85 (10d10 + 30)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|12 (+1)|16 (+3)|10 (+0)|16 (+3)|8 (-1)|
+>___
+> - **Skills** Perception +6
+> - **Senses** darkvision 60 ft., passive Perception 16
+> - **Languages** Darnassian
+> - **Challenge** 5 (1,800 XP)
+> ___
+>
+> ***Keen Sight and Smell.*** The moonkin has advantage on Wisdom (Perception) checks it makes that rely on sight or smell.
+>
+> ***Spellcasting.*** The moonkin is a 9th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The moonkin has the following druid spells prepared:
+>
+> Cantrips (at will) :  *druidcraft, resistance, solar wrath*
+> <br> 1st level (4 slots): *healing word, entangle, fearie fire, <br>&nbsp;&nbsp;&nbsp; starfire*
+> <br> 2nd level (3 slots): *barkskin, cyclone, moonbeam*
+> <br> 3rd level (3 slots): *mass healing word, plant growth, <br>&nbsp;&nbsp;&nbsp; starsurge*
+> <br> 4th level (3 slots): *grasping vines, guardian of nature*, 
+> <br> 5th level (1 slot):  *wrath of nature*
+>
+> ### Actions
+> ***Multiattack.*** The moonkin makes two attacks: one with its beak and one with its claws.
+>
+> ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) piercing damage.
+> 
+> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8 + 3) slashing damage.
+
+<div class="pageLetter">O</div>
+<div class='footnote'>OWLBEASTS</div>
+<img src='https://www.gmbinder.com/images/mxHF0lq.jpg' style='position:absolute; top:0px; right:-350px; width:850px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/JH5NQVm.png' style='position:absolute; top:0px; right:-50px; width:900px' />
+
+\pagebreakNum
+
 <div style='margin-top:140px;'></div>
 
 ## Quilboars
@@ -5335,98 +5439,6 @@ ___
 <div class="mmletter mml-w"></div>
 <div class="pageLetter">W</div>
 <div class='footnote'>WHALE SHARK </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
-
-## Wildkin
-The wildkin are serene, powerful creatures, acting as a powerful force for good and a staunch ally of the night elves. They resemble cross between a bear and a horned owl, which explains both their wisdom and ferocity. They act as a powerful force for good and a staunch ally of the night elves.
-
-***Humble Creatures.*** Most wildkin treat peaceful travelers with respect, sometimes coming to their aid or assisting lost visitors out of their forests.
-
-While good-tempered and wise, the wildkin fights fiercely against evildoers, especially undead and the forces of the Burning Legion.
-
-***Elune's Creations.*** Some night elf scholars claim that wildkin are the creation of Elune, that she created them to guard all of her sacred places. They claim that Elune created the first wildkin in the early days of the world to serve as guardians to Cenarius.
-
-But now, many years later, the wildkin have grown more feral, and without the guidance of the goddess, they are confused. They wander without purpose, though many find their way back to the sacred areas that they once were sworn to protect.
-
-### Moonkin
-Related to wildkin, moonkin are large, flightless, sapient bird-like creatures, blessed by Elune to spread nature's grace wherever they travel.
-
-\columnbreak
-
-___
-> ## Wildkin
->*Large monstrosity, neutral good*
-> ___
-> - **Armor Class** 13 (natural armor)
-> - **Hit Points** 45 (6d10 + 12)
-> - **Speed** 30 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|16 (+3)|12 (+1)|15 (+2)|6 (-2)|12 (+1)|8 (-1)|
->___
-> - **Skills** Perception +4
-> - **Senses** darkvision 60 ft., passive Perception 13
-> - **Languages** understands Darnassian but can't speak
-> - **Challenge** 3 (700 XP)
-> ___
-> ***Keen Sight and Smell.*** The wildkin has advantage on Wisdom (Perception) checks it makes that rely on sight or smell.
->
-> ### Actions
-> ***Multiattack.*** The wildkin makes two attacks: one with its beak and one with its claws.
->
-> ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7 (1d8 + 3) piercing damage, or 10 (1d8 + 6) piercing damage while enraged.
-> 
-> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) slashing damage, or 13 (2d6 + 6) slashing damage while enraged.
->
-> ***Wild Rage (Recharges after a Short or Long Rest).*** <br>For 1 minute the wildkin enters a rage. While enraged, the wildkin's attacks deal an additional 3 damage (included in the attacks), and makes Strength checks and Strength saving throws wiht advantage.
-
-<div class="pageLetter">W</div>
-<div class='footnote'>WILDKINS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
-
-___
-> ## Moonkin
->*Large monstrosity, chaotic good*
-> ___ 
-> - **Armor Class** 13 (16 with *barkskin*)
-> - **Hit Points** 85 (10d10 + 30)
-> - **Speed** 30 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|16 (+3)|12 (+1)|16 (+3)|10 (+0)|16 (+3)|8 (-1)|
->___
-> - **Skills** Perception +6
-> - **Senses** darkvision 60 ft., passive Perception 16
-> - **Languages** Darnassian
-> - **Challenge** 5 (1,800 XP)
-> ___
->
-> ***Keen Sight and Smell.*** The moonkin has advantage on Wisdom (Perception) checks it makes that rely on sight or smell.
->
-> ***Spellcasting.*** The moonkin is a 9th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The moonkin has the following druid spells prepared:
->
-> Cantrips (at will) :  *druidcraft, resistance, solar wrath*
-> <br> 1st level (4 slots): *healing word, entangle, fearie fire, <br>&nbsp;&nbsp;&nbsp; starfire*
-> <br> 2nd level (3 slots): *barkskin, cyclone, moonbeam*
-> <br> 3rd level (3 slots): *mass healing word, plant growth, <br>&nbsp;&nbsp;&nbsp; starsurge*
-> <br> 4th level (3 slots): *grasping vines, guardian of nature*, 
-> <br> 5th level (1 slot):  *wrath of nature*
->
-> ### Actions
-> ***Multiattack.*** The moonkin makes two attacks: one with its beak and one with its claws.
->
-> ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) piercing damage.
-> 
-> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8 + 3) slashing damage.
-
-<div class="pageLetter">W</div>
-<div class='footnote'>WILDKINS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
