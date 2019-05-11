@@ -3830,27 +3830,247 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:140px;'></div>
+<div style='margin-top:120px;'></div>
 
 ## Nagas
+The naga are former Highborne night elves who mutated into vengeful humanoid sea serpents. While many remain on Azeroth to attempt to reclaim the surface world, a large group followed Illidan Stormrage into Outland and proceeded to claim the watery areas of the shattered land.
+
+***Mystical Culture.*** Naga culture is quite complex. Male naga are larger and more muscular, most of them serving as soldiers and guardians. 
+
+Female naga are more delicate, with smaller scales and finer, more human-like faces. Naga women are natural spellcasters and rely on magic to defeat their enemies. Even though naga men are more numerous, the naga consider their women to be magically and intellectually superior. Their society is matriarchal, with women occupying most positions of leadership, and all naga paying homage to their queen, Azshara. 
+
+***Altered Appearance.*** During the Great Sundering, Azshara and many of her Highborne followers fell into the depths of the Great Sea. Unable to avoid her death, Azshara forged a pact with an Old God, N'Zoth, trans&shy;forming her and her followers into the serpentine naga.
+
+The naga are part night elf, part serpent, and some have evolved oceanic mutations. In all naga, many of these mutations are simply cosmetic — soft spines running down their backs, or extra fins adorning their arms. Some naga, though, also possess mutations that have a more substantial effect. 
+
+***Azshara's Followers.*** All naga revere their queen, the mighty Azshara. They have never had another queen, and Azshara has become a living demigod for the naga. They do everything according to her design. 
+
+Factions work continuously in bids for power, seeking the blessings of their queen. The vast majority of Azshara's servitors are willing to go to any means to elevate them&shy;selves in her eyes, even at the cost of their own lives.
+
+### Naga Myrmidon
+The myrmidons, with their navy blue skin and fearsome tridents, are among the strongest warriors in the naga's huge army. They are feared by all who dwell near the sea, most especially by the Markura Empire.
+
+Among their people, they are the most fanatically loyal to their beloved queen so much so that they no longer bother acknowledging orders, they simply do them.
+
+### Naga Sea Witch
+"Sea witch" is the informal term for a naga priestess of the tides. hese scaly denizens of the ocean have often been associated with the coming of prodigious storms, but few have actually seen them rise from the sea and lived to tell the tale.
+
+They are potent spellcasters, able to use terrifying frost and lightning spells against their foes. They also draw upon their race's arcane legacy to protect themselves.
 
 <div class='letterheader'></div>
 <div class="mmletter mml-n"></div>
 <div class="pageLetter">N</div>
-<div class='footnote'>NAGAS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<div class='footnote'>NAGA </div>
+<img src='https://www.gmbinder.com/images/4C0c6NF.jpg' style='position:absolute; top:100px; right:-250px; width:800px' />
+<img src='https://www.gmbinder.com/images/NAwDGQF.png' style='position:absolute; top:-200px; right:-150px; width:1100px' />
 
 \pagebreakNum
 
+### Naga War Lord
+Naga war lords are male naga warriors with stony arms  and shells fused to their skin. They have no visible eyes, and a large hermit crab for a hand. This may be resultant of their mutations, or they may be a different subspecies altogether.
+
+### Naga Brute
+Naga brutes are huge, mutated naga used as heavy fighters and even as siege weapons by the naga army. Some have rank, while some act more like mere beasts.
+
+___
+> ## Naga
+>*Medium humanoid (naga), unaligned*
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 13 (2d8 + 4)
+> - **Speed** 20 ft., swim 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|13 (+1)|14 (+2)|9 (-1)|12 (+1)|10 (+0)|
+>___
+> - **Skills** Perception +3
+> - **Senses** passive Perception 13
+> - **Languages** Common, Nazja
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ***Amphibious.*** The naga can breathe air and water.
+>
+> ***Slippery.*** The naga has advantage on ability checks and saving throws made to escape a grapple.
+>
+> ### Actions
+> ***Scimitar.*** *Melee Weapon Attack:* +4 to hit, reach 5ft, one creature. *Hit:* 5 (1d6 + 2)
+>
+> ***Trident.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 10 ft. or range 20/60 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+>
+> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and target is grappled (escape DC 12). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.
+
+\columnbreak
+
+> ##### Variant: Naga Siren
+> Female naga are primarily spellcasters and have developed a number of techniques in the depths of the sea. Siren's are considered apprentices of the mightier sea witches.
+>
+> A naga siren has the same statistics as a naga, except it has Intelligence 14, Charisma 12, as well as the following trait: 
+>
+> <br> ***Innate Spellcasting.*** The naga's innate spellcasting ability
+is Intelligence (spell save DC 12). It can innately cast the
+following spells, requiring no material components: 
+>
+> <br> At will: *blade ward, ray of frost*
+> <br> 1/day each:  *armor of agathys, ice knife*
+
+___
+> ## Naga Myrmidon
+>*Medium humanoid (naga), unaligned*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 52 (7d8 + 21)
+> - **Speed** 20 ft., swim 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|15 (+2)|16 (+3)|9 (-1)|12 (+1)|10 (+0)|
+>___
+> - **Skills** Perception +3
+> - **Senses** passive Perception 13
+> - **Languages** Common, Nazja
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Aggressive.*** As a bonus action, the naga can move up to its speed toward an enemy of its choice that it can see or hear. It must end this move closer to the enemy than it started.
+>
+> ***Amphibious.*** The naga can breathe air and water.
+>
+> ***Slippery.*** The naga has advantage on ability checks and saving throws made to escape a grapple.
+>
+> ### Actions
+> ***Multiattack.*** The naga makes two halberd attacks, one of which can be replaced with its constrict attack.
+>
+> ***Halberd.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:* 8 (1d10 + 3) slashing damage.
+>
+> ***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 7 (1d8 + 3) bludgeoning damage, and target is grappled (escape DC 13). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.
+
 <div class="pageLetter">N</div>
-<div class='footnote'>NAGAS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<div class='footnote'>NAGA </div>
+<img src='https://www.gmbinder.com/images/ePn0VkB.jpg' style='position:absolute; top:650px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/sKQMREa.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
+___
+> ## Naga Sea Witch
+>*Medium humanoid (naga), unaligned*
+> ___
+> - **Armor Class** 13 (16 with *mage armor*)
+> - **Hit Points** 65 (10d8 + 20)
+> - **Speed** 20 ft., swim 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|15 (+2)|14 (+2)|16 (+3)|12 (+1)|15 (+2)|
+>___
+> - **Skills** Perception +3
+> - **Senses** passive Perception 13
+> - **Languages** Common, Nazja
+> - **Challenge** 4 (1,100 XP)
+> ___
+> ***Amphibious.*** The naga can breathe air and water.
+>
+> ***Slippery.*** The naga has advantage on ability checks and saving throws made to escape a grapple.
+>
+> ***Spellcasting.*** The naga is a 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The naga has the following mage and shaman spells prepared: 
+>
+> Cantrips (at will) :  *shape water, flurry, lightning blast*
+> <br> 1st level (4 slots): *cure wounds, ice knife, <br>&nbsp;&nbsp;&nbsp; mage armor, thunderwave*
+> <br> 2nd level (3 slots): *darkness, hold person, <br>&nbsp;&nbsp;&nbsp; warding wind*
+> <br> 3rd level (3 slots): *blizzard, dampen magic, tidal wave*
+> <br> 4th level (1 slot):  *control water*
+>
+> ### Actions
+> ***Multiattack.*** The naga makes two scimitar attacks, one of which can be replaced with its constrict attack.
+>
+> ***Scimitar.*** *Melee Weapon Attack:* +4 to hit, reach 5ft, one creature. *Hit:* 11 (2d8 + 2)
+>
+> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and target is grappled (escape DC 12). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.
+
+\columnbreak
+
+___
+> ## Naga War Lord
+>*Large humanoid (naga), unaligned*
+> ___
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 110 (13d10 + 39)
+> - **Speed** 25 ft., swim 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|15 (+2)|16 (+3)|9 (-1)|12 (+1)|15 (+2)|
+>___
+> - **Skills** Perception +4
+> - **Senses** passive Perception 14
+> - **Languages** Common, Nazja
+> - **Challenge** 7 (2,900 XP)
+> ___
+> ***Amphibious.*** The naga can breathe air and water.
+>
+> ***Slippery.*** The naga has advantage on ability checks and saving throws made to escape a grapple.
+>
+> ### Actions
+> ***Multiattack.*** The naga makes two halberd attacks, one of which can be replaced with its constrict attack.
+>
+> ***Halberd.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 20 (3d10 + 4) slashing damage.
+>
+> ***Constrict.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one Large or smaller creature. *Hit:* 13 (2d8 + 4) bludgeoning damage, and target is grappled (escape DC 15). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.
+>
+> ***Crashing Wave (Recharges 5-6).*** The naga charges forward creating a wave of water that crashes anyone on its path. The naga moves 20 feet forward in a straight line producing a wave 20 feet long, 10 feet tall and 10 feet wide . Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 22 (5d8) bludgeoning damage and is knocked prone. On a success save, a creature takes half as much damage and isn't knocked prone. 
+>
+> ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the naga can utter a special command or warning whenever a non hostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the naga. A creature can benefit from only one Leadership die at a time. This effect ends if the naga is incapacitated.
+>
+> ### Reactions
+> ***Parry.*** The naga adds 3 to its AC against one melee attack that would hit it. To do so, the naga must see the attacker and be wielding a melee weapon.
+
 <div class="pageLetter">N</div>
-<div class='footnote'>NAGAS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<div class='footnote'>NAGA </div>
+<img src='https://www.gmbinder.com/images/QOgKqCD.jpg' style='position:absolute; top:700px; right:0px; width:800px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/Iu6blc4.png' style='position:absolute; top:-390px; right:-50px; width:1000px;transform:rotate(5deg)' />
+
+\pagebreakNum
+
+<div style='margin-top:1000px;'></div>
+
+___
+___
+> ## Naga Brute
+>*Huge monstrosity, unaligned*
+> ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 147 (14d12 + 56)
+> - **Speed** 30 ft., swim 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|21 (+5)|15 (+2)|18 (+4)|8 (-1)|12 (+1)|7 (-2)|
+>___
+> - **Skills** Perception +5
+> - **Senses** passive Perception 15
+> - **Languages** understands Nazja but doesn't speak
+> - **Challenge** 9 (5,000 XP)
+> ___
+> ***Amphibious.*** The naga can breathe air and water.
+>
+> ***Relentless (Recharges after a Short or Long Rest).*** if the naga takes 20 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+>
+> ***Slippery.*** The naga has advantage on ability checks and saving throws made to escape a grapple.
+>
+> ### Actions
+> ***Multiattack.*** The naga makes one bite attack and one slam attack.
+>
+> ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 18 (3d8 + 5) piercing damage.
+>
+> ***Slam.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 27 (4d10 + 5) bludgeoning damage.
+>
+> ***Massive Crash (Recharges 4-6).*** The naga slams the ground creating an earth tremor around it. Each creature other than the naga in a 10-foot radius centered on the naga must make a Dexterity saving throw. On a failed save, a creature takes 31 (7d8) bludgeoning damage and is knocked prone. On a success save, a creature takes half as much damage and isn't knocked prone. 
+
+<div class="pageLetter">N</div>
+<div class='footnote'>NAGA </div>
+<img src='https://www.gmbinder.com/images/hvUUxG8.jpg' style='position:absolute; top:570px; right:-180px; width:1000px' />
+<img src='https://www.gmbinder.com/images/gezbRSW.png' style='position:absolute; top:-70px; right:-0px; width:950px' />
+<img src='https://www.gmbinder.com/images/ZYrQqIH.jpg' style='position:absolute; top:0px; right:20px; width:700px;mix-blend-mode:darken' />
 
 \pagebreakNum
 
