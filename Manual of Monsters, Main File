@@ -3164,25 +3164,40 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:110px;'></div>
+
 ## Lashers
-Lashers are a type of ambulatory plant found in a multitude of areas across Azeroth, Outland and Draenor.
+A lasher is a large slithering flora that can be found across Azeroth, although most lashers are not hostile they will defend themselves fiercely if disturbed, using their long tendrils to lash out against their target.
 
-***Unnatural Evolution.*** Many lashers in the Azuremyst Isles were affected by the contamination caused by the Exodar's crash. The mutated tanglers near the Vector Coil appear to have gained a certain degree of sentience as a result of the energy leaking from the crystals, and have learned to create, set, and conceal vicious traps.
+***Sentient Plants.*** Lashers are the result of nature magic having seeped into the ground and corrupting the land around it, granting them the sentience to move on their own and pull themselves out of the earth. 
 
-***Healing Roots.*** The root trappers of Azuremyst Isle hold restorative medicinal properties in their vines. Through proper treatment, the vines can be broken down into a powerful healing ointment.
+The magic of the earth affects the lashers tremendously. It has turned many lashers from their peaceful way into very hostile creatures corrupted by the magic around them.
+
+***Adaptive Plants.*** These living plants can be found throughout Azeroth, lashers are capable of adapting to the environment around them to survive and sustain them. The plant their seeds wherever magic is apparent and protect them as the seeds grow into small lashers.
+
+They plant their seeds  wherever possible and protect them as they grow to maturity.
+
+***Fast Learners.*** These plants know near nothing but how to survive when they reach the maturity of their seed and become lashers. But these plants have shown an incredible ability of learning new skills like how to create small pieces of arts, set up and conceal traps, and gestures others might've shown them.
 
 ### Lasher Spitter
-Spitters are large carnivorous plants, similar to lashers, but capable of spitting poison.
- 
+A lasher spitter is a large carnivorous plant capable of a vile acidic mixture within its stalk, these lashers are easily recognizable by the large maw that makes up the head of the plant. They are able to spit their toxic mixture onto nearby creatures and have it slowly dissolve their flesh.
+
 ### Barbed Orchid
-Another type of lasher is the orchid lasher, similar to other lashers, but with a particularly large flower. 
+A barbed orchid stands out from other lashers by its large flower head with the bead of an owlbeast placed in the flowers center. These lashers make dangerous combatants with their barbed edges striking back at attackers.
 
 ### Bloodpetal Flayer
-The lashers in Un'Goro Crater are known as bloodpetals and grow in several different varieties. Most of them are covered
-in nasty thorns that exude a crippling toxin.
+At a glance most would take the bloodpetal flayer for a very colorful lasher, but nothing more. These lashers are much more ferocious and carry a vile toxin within their thorns that burns beneath a creatures flesh when injected.
 
-A bloodpetal flayer appears no different than a standard bloodpetal until it enters combat, at which point it becomes apparent that it is quicker and stronger.
-A flayer’s vines and thorns swell up with internal fluids, giving it enhanced abilities in combat.
+> ##### Variant: Mature Lasher
+> When lashers reach maturity some learn to channel the powers of the moon in their favor. 
+>
+> A mature lashers has the same statistics as a lasher spitter, except that it has a Wisdom score of 12, and replaces the spitter's action options with the following action options
+>
+> ***Dream Lash.*** *Ranged Spell Attack:* +3 to hit, range 15/30 ft., one target. *Hit:* 5 (1d10) radiant damage. 
+
+\columnbreak
+
+<div style='margin-top:580px;'></div>
 
 ___
 > ## Lasher
@@ -3208,7 +3223,15 @@ ___
 > ### Actions
 > ***Thorny Slash.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage. 
 
-\columnbreak
+<div class='letterheader'></div>
+<div class="mmletter mml-l"></div>
+<div class="pageLetter">L</div>
+<div class='footnote'>LASHERS </div>
+<img src='https://i.redd.it/8remvd0llcm21.png' style='position:absolute; top:0px; right:-200px; width:700px' />
+<img src='https://www.gmbinder.com/images/gF3cPUL.png' style='position:absolute; top:200px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/GyD06WI.png' style='position:absolute; top:0px; right:0px; width:850px' />
+
+\pagebreakNum
 
 ___
 > ## Lasher Spitter
@@ -3234,22 +3257,9 @@ ___
 > ### Actions
 > ***Thorn Slash.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. 
 >
-> ***Poison Spit.*** *Ranged Weapon Attack:* +4 to hit, range 15/30 ft., one creature. *Hit:* 6 (1d8 + 2) poison damage, and the creature must succeed on a DC 12 Constitution saving throw or be poisoned for 1 hour.
+> ***Acid Spit.*** *Ranged Weapon Attack:* +4 to hit, range 15/30 ft., one creature. *Hit:* 6 (1d8 + 2) acid damage. At the end of each of its turns, the creature must make a DC 10 Constitution saving throw, taking 2 (1d4) acid damage on a failure or ending the recurring acid damage on a success.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-l"></div>
-<div class="pageLetter">L</div>
-<div class='footnote'>LASHERS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
-
-> ##### Variant: Mature Lasher
-> When they reach maturity, some of the lashers learn how to use the power of the moon to harm their enemies. 
->
-> A mature lasher has the same statistics as a lasher spitter, except it has Wisdom 12 and it has the following action in place of lasher spitter's Poison Spit:
->
-> <br> ***Dream Lash.*** *Ranged Spell Attack:* +3 to hit, range <br> 15/30 ft., one creature. *Hit:* 5 (1d10) radiant damage. 
+<div style='margin-top:100px;'></div>
 
 ___
 > ## Barbed Orchid
@@ -3282,8 +3292,7 @@ ___
 > ### Reactions
 > ***Thorn Shield.*** When a creature within 5 feet of the lasher hits it with a melee attack, the creature takes 2 (1d4) piercing damage.
 
-\columnbreak
-
+___
 ___
 > ## Bloodpetal Flayer
 >*Medium plant, unaligned*
@@ -3302,7 +3311,7 @@ ___
 > - **Senses** blindsight 60 ft., passive Perception 9
 > - **Languages** —
 > - **Challenge** 2 (450 XP)
-> ___
+>___
 > ***False Appearance.*** While the lasher remains motion&shy;less, it is indistinguishable from an ordinary flower.
 >
 > ### Actions
@@ -3311,6 +3320,7 @@ ___
 > ***Thorn Slash.***  *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or take 2 (1d4) poison damage.
 >
 > ***Whirlwind Strike (Recharge 5-6).*** The lasher lashes out in all directions with thorny vines, tearing any opponent within range. Each creature in a 10-foot radius centered on the lasher must make a DC 13 Dexterity saving throw. On a failed save, a creature takes 9 (2d8) piercing damage.
+> <div style='margin-top:25px;'></div>
 
 <div class="pageLetter">L</div>
 <div class='footnote'>LASHERS </div>
