@@ -106,21 +106,22 @@
   .phb:nth-child(odd):after {
     content: '';
     height: 125px;
-    background-image: url('https://gmbinder.com/images/YWardeu.png'), url(https://gmbinder.com/images/lLWeevR.png);
-    background-size: 816px 55px, 120px 120px;
+    background-image: url(https://gmbinder.com/images/lLWeevR.png), url('https://gmbinder.com/images/YWardeu.png');
+    background-size: 120px 120px, 816px 55px;
     background-repeat: no-repeat, no-repeat;
-    background-position: bottom, bottom right;
+    background-position: bottom right, bottom;
   }
 
   /* Hacked reverse of the Monster Manual page tear for alternating pages */
   .phb:nth-child(even):after {
     content: '';
     height: 125px;
-    background-image: url('https://gmbinder.com/images/YWardeu.png'), url(https://gmbinder.com/images/lLWeevR.png);
-    background-size: 816px 55px, 120px 120px;
+    background-image: url(https://gmbinder.com/images/lLWeevR.png), url('https://gmbinder.com/images/YWardeu.png');
+    background-size: 120px 120px, 816px 55px;
     background-repeat: no-repeat, no-repeat;
-    background-position: bottom, bottom right;
-    -webkit-transform: scaleX(-1); transform: scaleX(-1);
+    background-position: bottom right, bottom;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
   }
 
   /* The letter in the Monster Manual page tear */
