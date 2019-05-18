@@ -5245,35 +5245,34 @@ ___
 
 \pagebreakNum
 
-## Shale Spider
+<div style='margin-top:370px;'></div>
 
 ___
 > ## Shale Spider
->*Large monstrosity, chaotic evil*
+>*Large elemental, chaotic evil*
 > ___
 > - **Armor Class** 15 (natural armor)
 > - **Hit Points** 42 (5d10 + 15)
-> - **Speed** 30 ft.
+> - **Speed** 30 ft., burrow 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|16 (+3)|7 (-2)|10 (+0)|5 (-3)|
 >___
-> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine
+> - **Damage Vulnerabilities** thunder
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** poison
-> - **Condition Immunities** poisoned
+> - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** —
 > - **Challenge** 3 (700 XP)
 > ___
-> ***False Appearance.*** As long as the shale spider remains motionless, it is indistinguishable from a boulder or other natural rock formation.
+> ***Earth Glide.*** The spider can burrow through nonmagical unworked earth and stone. While doing so, it doesn't disturb the material it moves through.
 >
-> ***Spider Climb.*** The spider can climb difficult surfaces, including
-upside down on ceilings, without needing to make an
-ability check.
+> ***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
 > ### Actions
-> ***Multiattack.*** The shade spider makes two attacks: one with its bite and one slam attack.
+> ***Multiattack.*** The spider makes two attacks: one with its bite and one slam.
 >
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 2 (1d4) acid damage.
 >
@@ -5281,25 +5280,36 @@ ability check.
 
 \columnbreak
 
+<div style='margin-top:360px;'></div>
+
+## Shale Spider
+Shale spiders are durable diggers native to the elemental plane of Deepholm. It is the large stone spiders tenacity and ferocity that makes other creatures fear them, even if they are harmed or pushed away they will come back until someone has truly destroyed them.
+
+***Stone Nuisance.*** The stone spiders often find their way out of the elemental plane of earth and into Azeroth, at first the spiders are more playful than anything but their playful nature quickly changes as they get accustomed to their surroundings and gain their predatorial nature.
+
+***Swarmers.*** Shale spiders are never alone, the earth is their family and the elemental spiders always has others nearby. They are notorious swarmers that work together to take down their prey.
+
+***Elemental Nature.*** The shale spider doesn't require air, food, drink, or sleep.
+
 > ##### Variant: Lava Spider
-> A lava spider is an enormous spider that lives in lava. Its whole flesh is boiling hot.
+> A lava spider has adapted to burning climate around it, it drips molten magma as it skitters across the surface and illuminates its surroundings.
 >
-> It has immunity only to fire, vulnerability to cold and it has the following trait in place of shale spider's False Appearance:
+> A lava spider has immunity to fire damage, and gain the following additional trait:
 >
-> <br>&nbsp;&nbsp;&nbsp; ***Fire Form.*** A creature that touches the lava spider <br>&nbsp;&nbsp;&nbsp; or hits it with a melee attack while within 5 feet of <br>&nbsp;&nbsp;&nbsp; it takes 2 (1d4) fire damage and catches fire; until <br>&nbsp;&nbsp;&nbsp; someone takes an action to douse the fire, the <br>&nbsp;&nbsp;&nbsp; creature takes 2 (1d4) fire damage at the start of <br>&nbsp;&nbsp;&nbsp; each of its turns.
+> <br>&nbsp;&nbsp;&nbsp; ***Illumination.*** The spider sheds bright light in a 10-<br>&nbsp;&nbsp;&nbsp; foot radius and dim light for an additional 10 feet.
 >
-> <br> In addition, a lava spider has the following action options in place of the shale spider's Slam:
+> <br> The lava spider replaces the shale's action options has the following action options:
 >
-> <br>&nbsp;&nbsp;&nbsp; ***Multiattack.*** The shade spider makes two bite <br>&nbsp;&nbsp;&nbsp; attacks: one with its bite and one with its spit fire.
+> <br>&nbsp;&nbsp;&nbsp; ***Multiattack.*** The spider makes ones bite attack and <br>&nbsp;&nbsp;&nbsp; uses its Spit Fire.
 >
-> <br>&nbsp;&nbsp;&nbsp; ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., <br>&nbsp;&nbsp;&nbsp; one target. Hit: 6 (1d8 + 2) piercing damage plus <br>&nbsp;&nbsp;&nbsp; 3 (1d6) fire damage.
+> <br>&nbsp;&nbsp;&nbsp; ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., <br>&nbsp;&nbsp;&nbsp; one target. *Hit:* 6 (1d8 + 2) piercing damage, plus <br>&nbsp;&nbsp;&nbsp; 3 (1d6) fire damage.
 >
-> <br>&nbsp;&nbsp;&nbsp; ***Spit Fire.*** *Ranged Weapon Attack:* +4 to hit, range <br>&nbsp;&nbsp;&nbsp; 15/30 ft., one target.
-*Hit:* 9 (2d6 + 2) fire damage.
+> <br>&nbsp;&nbsp;&nbsp; ***Spit Fire.*** *Ranged Weapon Attack:* +4 to hit, range <br>&nbsp;&nbsp;&nbsp; 15/30 ft., one target. *Hit:* 9 (2d6 + 2) fire damage.
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SHALE SPIDER </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/I1Tt2hD.jpg' style='position:absolute; top:-30px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/Tkbl4ji.png' style='position:absolute; top:-150px; right:0px; width:1100px;transform:scalex(-1)' />
 
 \pagebreakNum
 
