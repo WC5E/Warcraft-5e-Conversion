@@ -5807,7 +5807,32 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:50px;'></div>
+
 ## Trolls
+Over ten thousands years ago, the trolls were divided and scattered across Kalimdors face as they established a new identity for themselves and became a diverse race that could be found in every part of Azeroth. They were one of the first native races of the world and all descendant of their mighty forefathers, the Zandalari.
+
+***Tribal Preference.*** The trolls have always been a tribal race that isolated themselves and settled in the land to start anew. Many trolls believe that they owe no loyalty towards anyone but those of their own tribe. The tribe is their family and trolls will go to extreme lengths to protect their home.
+
+***Racial Differences.*** Trolls as a race are amongst the most separated, their ancient divide has turned each troll tribe into a race of their own with customs unlike that of other tribes. They have settled across the face of the world and had to adapt to their harsh environment.
+
+Racial tension between troll tribes have always been there but they tribes are only gathered when called upon by their Zandalari forefathers and under such occasions their discomfort is of little importance.
+
+***Outside Hostility.*** Trolls are very isolated beings <br> that settle in remote regions where they can be <br> left alone and be out of reach from other <br> races of the world. But they are also very territorial and will retaliate with fierce force and numbers if their borders are threatened. Because of their isolation few trolls speak the common tongue or any of the languages of the races that have settled themselves around them.
+
+***Loa's Guidance.*** Trolls carry a deep devotion towards dark spirits and primal, animalistic gods known as Loa. Countless loas exist, most are weak, shapeless spirits that only the trolls can sense, whereas others have animal form. Troll societies make up loas of their own, families worship a family loa, cities might have their own civic deties, and great loas are worshipped by nations as a whole.
+
+***Regeneration.*** Smashing a troll's bones and slashing through its rubbery hide only makes them angry. A troll's wounds close at extraordinary speed. Only through acid or fire can a creature arrest their regenerative properties. Although their natural regeneration is only capable of healing so much and once the heart pumps its last there's no way for it to retaliate.
+
+### Troll Headhunter
+A troll headhunter is specialized in tracking pray and tossing their spear from great distances. These trolls are able trackers and formidable hunters who take on trophies of their fallen opponents in the form of fingers, ears, or other body part that is easily cut off to show of their prowess to the tribe and strike fear in the enemies.
+
+### Troll Berserker
+Strength have always been an important part of a tribes survival, they need to be stronger than their enemy to survive. To a troll berserker, strength is everything. These brutish trolls toss their weapons at their enemies as they call out a war cry and sprint into the fray, recklessly swinging their axes around without a care.
+
+\columnbreak
+
+<div style='margin-top:370px;'></div>
 
 ___
 > ## Troll Headhunter
@@ -5823,7 +5848,7 @@ ___
 >___
 > - **Skills** Stealth +5, Survival +4
 > - **Senses** darkvision 60 ft., passive Perception 12
-> - **Languages** Common, Zandali
+> - **Languages** Zandali
 > - **Challenge** 1 (200 XP)
 > ___
 > ***Regeneration.*** The troll regains 3 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies if it starts its turn with 0 hit points.
@@ -5837,7 +5862,23 @@ ___
 >
 > ***Bolas.*** *Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage. If the target is a Large or smaller creature with legs, it must succeed on a DC 13 Dexterity saving throw or be grappled and knocked prone. A target can use its action to remove the bolas, ending the grapple.
 
-\columnbreak
+<div class="pageLetter">T</div>
+<div class='footnote'>TROLLS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/VmaSqj2.png' style='position:absolute; top:5px; right:0px; width:500px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/fWvbaDn.png' style='position:absolute; top:440px; right:-60px; width:200px;transform:rotate(20deg)' />
+
+\pagebreakNum
+
+<div style='margin-top:20px;'></div>
+
+### Troll Witch Doctor
+A troll witch doctor is seen as the spiritual leader of a tribe and a close advisor of its leader. It is to the witch doctor that a tribe looks for spiritual answers or as a speaker of the loas. These cunning and intelligent trolls are capable magic users and use it vividly in their practice of voodoo.
+
+They are also known for being dastardly alchemists who knows no limits when it comes to creating magical concoctions or fumes that will bolster ones physique or give visions of something that may, or may not, be true.
+
+### Dire Troll
+Dire trolls are strikingly large trolls that tower above the heads of their brethren. These trolls use their immense strength to toss boulders, or enemies, across the battlefield. There is not definitive say behind their size and strength. Some are elevated through alchemical or magical means, others might simply have evolved beyond the rest of their tribe. Whatever the case might be, dire trolls are seen as proud and honorable creatures amongst trolls.
 
 ___
 > ## Troll Berserker
@@ -5854,7 +5895,7 @@ ___
 > - **Saving Throws** Str +5, Con +5
 > - **Skills** Athletics +8, Survival +3
 > - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** Common, Zandali
+> - **Languages** Zandali
 > - **Challenge** 3 (700 XP)
 > ___
 > ***Brute.*** A melee weapon attack deals one extra die of its damage when the berserker hits a target with it (included in the attack).
@@ -5864,17 +5905,13 @@ ___
 > ***Regeneration.*** The troll regains 5 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies if it starts its turn with 0 hit points.
 >
 > ### Actions
-> ***Multiattack.*** The troll makes two melee attacks or one ranged attack.
+> ***Multiattack.*** The troll makes two weapon attacks.
 >
 > ***Handaxe.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft., and range 20/60 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 >
 > ***Javelin.*** *Ranged Weapon Attack:* +5 to hit, reach 5 ft. and range 20/60 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage.
 
-<div class="pageLetter">T</div>
-<div class='footnote'>TROLLS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Troll Witch Doctor
@@ -5891,7 +5928,7 @@ ___
 > - **Saving Throws** Con +4, Wis +5
 > - **Skills** Arcana +3, Insight +6, Medicine +6, Nature +6
 > - **Senses** darkvision 60 ft., passive Perception
-> - **Languages** Common, Zandali
+> - **Languages** Zandali
 > - **Challenge** 5 (1,800 XP)
 > ___
 > ***Loa's Blessing.*** The troll has advantage on saving throws against being charmed or frightened.
@@ -5911,8 +5948,27 @@ ___
 >
 > ***Quarterstaff.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft, one target. *Hit:* 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands to make a melee attack.
 
-\columnbreak
+<br>
 
+> ##### Variant: Dire Troll Caster
+> Some dire trolls possess innate magical powers in their blood. These trolls are known as *Warcasters*, or *Warmothers* if the troll in question is female. They have a Wisdom of 17 (+3), and gain the Innate Spellcasting trait as follows.
+>
+> ***Innate Spellcasting.*** The troll's spellcasting ability is Wisdom (spell save DC 15). The troll can innately cast the following spells, requiring no material components:
+> <div style='margin-top:0px;'></div>
+> 
+> 2/day each: *bestow curse, confusion, puppet, slow*
+> <br> 1/day each: *stoneskin, synaptic static*
+
+<div class="pageLetter">T</div>
+<div class='footnote'>TROLLS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
+
+<div style='margin-top:1000px;'></div>
+<br><br><br><br><br><br>
+
+___
 ___
 > ## Dire Troll
 >*Huge humanoid (any troll), chaotic evil*
@@ -5928,7 +5984,7 @@ ___
 > - **Skills** Athletics +9, Perception +4
 > - **Condition Immunities** Frightened, Stunned
 > - **Senses** darkvision 60 ft., passive Perception 15
-> - **Languages** Common, Zandali
+> - **Languages** Zandali
 > - **Challenge** 8 (3,900 XP)
 > ___
 > ***Berserk.*** Whenever the troll starts its turn with 60 hit points or fewer, it must make a DC 11 Wisdom save. On a failed save, the troll goes berserk. On each of its turns while berserk, the troll attacks the nearest crea&shy;ture it can see. If no creature is near enough to move and attack, the troll attacks an object, with preference for an object smaller than itself. Once the troll goes berserk, it continues to dos so until its killed or regains all its hit points.
@@ -5944,18 +6000,10 @@ ___
 >
 > ***Rock*** *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (7d6 + 6) bludgeoning damage.
 
-> ##### Variant: Dire Troll Caster
-> Some dire trolls possess innate magical powers in their blood. These trolls are known as *Warcasters*, or *Warmothers* if the troll in question is female. They have a Wisdom of 17 (+3), and gain the Innate Spellcasting trait as follows.
->
-> ***Innate Spellcasting.*** The troll's spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attack). The troll can innately cast the following spells, requiring no material components:
-> <div style='margin-top:0px;'></div>
-> 
-> 2/day each: *bestow curse, confusion, puppet, slow*
-> <br> 1/day each: *stoneskin, synaptic static*
-
 <div class="pageLetter">T</div>
 <div class='footnote'>TROLLS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/Ylc5uWv.png' style='position:absolute; top:20px; right:0px; width:800px' />
 
 \pagebreakNum
 
