@@ -1220,6 +1220,31 @@ A fel-corrupted creature is a creature whose body and mind have been exposed to 
 
 ## Centaurs
 
+Abundant across the plains of central and southern Kalimdor, the centaur are a race of half-horse humanoids, appearing as a human's torso, arms, and head extending from the neck of an equine body. Full-grown centaurs can stand over seven feet tall, hooves to head, weighing in over a ton.
+
+***Nomadic Culture.*** They keep in small nomadic tribes, roaming the broad regions they consider their territory, with regular spots by which they settle their tents to hunt and forage. Each tribe is lorded by its khan, who'll more often than not keep open conflict with both neighbouring tribes and races alike.
+
+While on their warpath, travelling from place to place, centaurs often claim prisoners during their raids. Usually, these prisoners are tortured, driven to exhaustion, and eventually eaten.
+
+***Cycle of Conflict.*** Though many attempts have been made, either between tribes or at the behest of tauren settlements in a tribe's warpath, the centaur have never been ones for diplomacy. 
+
+Both the Horde and the Alliance have done their part to feed this inter-tribal conflict, seeing it as a necessary act to keep scattered clans, especially in regions such as the Barrens or Desolace, from banding together and becoming a more dangerous foe.
+
+### The Children of Zaetar
+
+The centaur are the progeny of Zaetar, a Keeper of the Grove and son of Cenarius; Lord of the forest and Demigod of the Groves. Though Zaetar was no lesser than his brother, Remulos, he often felt himself living in the shadow of his brother's presence and accomplishments. 
+
+When Cenarius sent his son Zaetar out to investigate the re-emergence of the elemental princess Theradras, daughter of Therazane the Stonemother, Zaetar saw himself enchanted by Theradras' beauty.
+
+The two became mates, in secrecy, and out of their forbidden union the centaur were born. Zaetar realized his deed upon seeing the centaurs, who in turn saw the disgust in their father's eyes and brutally murdered him. Therazane chastised them for the deed, for which the centaurs promised to honor Zaetar's memory to please their beloved mother.
+
+Theradras entombed her lover's spirit within her own lair, which the centaur gave the name Maraudon and grew to regard as a sacred place.
+
+\columnbreak
+
+
+<div style='margin-top:140px;'></div>
+
 ___
 > ## Centaur
 >*Large monstrosity, chaotic evil*
@@ -1250,9 +1275,15 @@ ___
 >
 > ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing.
 
-\columnbreak
+<div class='letterheader'></div>
+<div class="mmletter mml-c"></div>
+<div class="pageLetter">C</div>
+<div class='footnote'>CENTAURS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
-<div style='margin-top:140px;'></div>
+\pagebreakNum
+
+<div style='margin-top:243px;'></div>
 
 ___
 > ## Centaur Earthcaller
@@ -1290,13 +1321,18 @@ ___
 > ### Reactions
 > ***Earthen Shield (3/Day).*** When a creature makes an attack against another creature within 15 feet of the centaur, the centaur can give all attacks against that creature disadvantage until the start of its next turn.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-c"></div>
-<div class="pageLetter">C</div>
-<div class='footnote'>CENTAURS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+\columnbreak
 
-\pagebreakNum
+### Centaur Names and Language
+
+The centaur speak Low Common, and often learn phrases from the languages of their enemies; including Common, Orcish, Goblin, and Taur-ahe. A few centaurs  even go as far as to learn the entirety of these languages, with fewer still adopting this second language as their primary language.
+
+Their names are often short and sharp, sometimes opting for a softer opening and a hard ending. Centaur tribes draw their name from the first khan to lead them, such as khan Gelk of the Gelkis. The ending of a tribe's name varies from tribe to tribe, often drawing from other languages that tribe spoke, or by the whim of the founding khan.
+
+
+**Centaur Names:** Ablik, Arug, Blizh, Drothar, Feth, Jamrek, Kerrak, Kromzar, Magra, Sherik, Shodo, Warug
+
+**Tribe Names:** Galak, Jhenek, Kolkar, Krenek, Okrim, Wethek, Worrak
 
 ___
 > ## Centaur Khan
