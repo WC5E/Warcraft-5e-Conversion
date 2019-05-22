@@ -6293,6 +6293,32 @@ ___
 \pagebreakNum
 
 ## Worgen: Feral
+An ancient curse long kept hidden in the emerald dream, the curse of the worgen can transform the most civilized humanoid into a ravening beast. Affected creatures are turned into feral monsters resembling wolves more than intelligent humanoids. On close inspection, its eyes show a faint spark of unnatural intelligence and a glistening red glow in the dark of night.
+
+Some worgen have been cured of their feral nature by the aid of night elven magic. These humanoids continue to carry the curse of the worgen within them, allowing them to shift between the shape of a monstrous humanoid wolf and themselves.
+
+***Pack Animals.*** There is but a shred of humanity left in feral worgens, they have become animals that only think of survival. Feral worgens are formidable hunters capable of finding prey from great distances. Like wolves they work in packs, surrounding their quarry as to insure the kill.
+
+Feral worgens ravage the land in their tireless search for food, hunting animals and humanoids alike. Unlike wolves they don't settle anywhere for long, but ravage a land for its prey before continuing to a new region for food.
+
+***Humanoid Cubs.*** The worgen curse is not in their blood, it affects the individual directly and those it might bite. As a result of that the cubs of a feral worgen is a humanoid child of the race it once was. Although the mother to such a child might carry an affection towards it, the rest of the pack does not and more often than not these children become food to feed the strongest.
+
+***Undeath Resistance.*** The curse of the worgen draws its power from both the emerald dream and the holy power of the goddess Elune. These polar opposite forces to death have made rising worgens into undeath far more difficult than it is for normal humanoids. 
+
+***Feral Weaknesses.*** These feral hunters fear near nothing and will not back down easily. But those who study the beasts have noticed their hate for fire. Worgens tend to avoid areas lit by open flames as much as possible, staying in the shadows as they prowl after their prey.
+
+Worgens also seem to have a poisonous reaction towards the wolfsbane plant, a minuscule flower that grows around the region of Gilneas. The harmless plant has proven to be poisonous towards the worgens as it comes into contact with open wounds. 
+
+> ##### Player Characters as Feral Worgens
+> A humanoid bit by a worgen must succeed on a DC 12 Constitution saving throw or be cursed. The curse has no effect on undead beings, such as the forsaken. A character bit begins to show the effects of the curse after 1d4 days, at which point the character is transformed into a feral worgen. It gains a Strength of 15 if their score isn't already higher, and their alignment changes to Chaotic Evil.
+>
+> The cursed character also gains the following indefinite madness, *"I hunger for the taste of blood and will kill anyone to taste it once more."*
+>
+> The character remains a feral worgen until a *greater restoration* spell or more powerful magic rids the character of their indefinite madness, at which point alignment returns to what it was before being bit, and the character gains the *Two Forms* feature and the *Worgen Form Traits* of the worgen race.
+
+\columnbreak
+
+<div style='margin-top:380px;'></div>
 
 ___
 > ## Feral Worgen
@@ -6323,16 +6349,10 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4 + 2) slashing damage.
 
-> ##### Player Characters as Feral Worgens
-> A humanoid bit by a worgen must succeed on a DC 12 Constitution saving throw or be cursed. The curse has no effect on undead beings, such as the forsaken. A character bit begins to show the effects of the curse after 1d4 days, at which point the character is transformed into a feral worgen. It gains a Strength of 15 if their score isn't already higher, and their alignment changes to Chaotic Evil.
->
-> The cursed character also gains the following indefinite madness, *"I hunger for the taste of blood and will kill anyone to taste it once more."*
->
-> The character remains a feral worgen until a *greater restoration* spell or more powerful magic rids the character of their indefinite madness, at which point alignment returns to what it was before being bit, and the character gains the *Two Forms* feature and the *Worgen Form Traits* of the worgen race.
-
 <div class="pageLetter">W</div>
 <div class='footnote'>WORGEN: FERAL </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/xLmKBtn.jpg' style='position:absolute; top:-100px; right:-65px; width:500px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/JIbLHii.png' style='position:absolute; top:0px; right:-20px; width:900px' />
 
 \pagebreakNum
 
