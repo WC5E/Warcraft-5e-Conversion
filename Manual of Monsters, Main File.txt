@@ -5765,9 +5765,20 @@ There, the troggs burrowed their way through every peak and valley across Khaz M
 
 Theories have also been floated, mainly by the prominent dwarven explorer Brann Bronzebeard, that the *kobolds* are themselves an evolved offshoot from an early group of troggs. Likely one that early broke free from the titanic vault of Uldaman. There has been no conclusive evidence of this, only theories surrounding their resemblence.
 
+***Primitive and fierce.*** Troggs are best known for their stature, ferocity, and smell -- said to resemble a mixture of mold, mange, and sour monkey. Living together in tight-knit tribes and clans, their main driving force is an imposing psyche and impressive force of will, though they are not known to be intelligent beyond being sentient. Less so than even an ogre would be considered. They follow the leadership of whoever can prove themselves the biggest and strongest, with aspiring trogg chieftains often going to great lengths to prove their viciousness.
+
 
 \columnbreak
 
+<div style='margin-top:110px;'></div>
+
+Troggs have are known to eat whatever they can get their hands on; including rocks, or even occasionally other troggs.
+
+***Undergound creatures.*** With most of their existence spent underground, troggs are not fond of sunlight. Wherever troggs dwell, a deep network of intertwining tunnels is likely to be somewhere nearby. They do most of their digging by hand, using their jagged claws, and occasionally shape weapons and other tools out of the rocks they excavate. Like the troggs themselves, a trogg dwelling is ill-reputed for is repulsive smell.
+
+### Trogg Names and Language
+
+Troggs do not possess any discernible language of their own, and tend to resort to violence rather than negotiation when faced with a threat. Still, those who do communicate do so in a mixture of primal grunts and what rudimentary Common they know.
 
 ___
 > ## Trogg
@@ -5798,9 +5809,24 @@ ___
 >
 > ***Sling.*** *Ranged Weapon Attack*: +3 to hit, reach 120 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
 
+<div class="pageLetter">T</div>
+<div class='footnote'>TROGGS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
-\pagebreak
+\pagebreakNum
 
+<div style='margin-top:38px;'></div>
+
+Their names draw from the same core roots as the dwarven language, especially its hard consonants and guttural sounds. Some troggs, usually tribe leaders, choose names in Common to best describe themselves. It is unclear whether these names are direct translations, or deliberate choices to intimidate other races.
+
+Trogg tribes are usually in Common, and often draw from their way of being or directly from whichever place they claim as their home.
+
+<div style='margin-top:-5px;'></div>
+
+**Trogg Names:** Argh, Agrok, Bruggor, Gorgash, Grimlok,
+<br />&nbsp;&nbsp;&nbsp; Morloch, Murdaloc, Raggosh, Revelosh
+<br />**Clan Names:** Bonegnasher, Caverndeep, Gravelflint,
+<br />&nbsp;&nbsp;&nbsp; Irondeep, Rockjaw, Scrapbone, Stonevault
 
 ___
 > ## Trogg Ambusher
@@ -5838,12 +5864,10 @@ ___
 > ### Reactions
 > ***Parry.*** The trogg adds 2 to its AC against one melee attack that would hit it, parrying it by using its rocky forearm. To do so, the trogg must see the attacker.
 
-<div class="pageLetter">T</div>
-<div class='footnote'>TROGGS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
 \columnbreak
- 
+
+<div style='margin-top:300px;'></div>
+
 ___
 > ## Trogg Shaman
 >*Medium humanoid (trogg), chaotic evil*
@@ -5876,28 +5900,11 @@ ___
 > ### Actions
 > ***Staff.*** *Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 7 (1d8 + 2) bludgeoning damage if used with two hands to make a melee attack.
 
-\pagebreak
+<div class="pageLetter">T</div>
+<div class='footnote'>TROGGS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
-***Primitive and fierce.*** Troggs are best known for their stature, ferocity, and smell -- said to resemble a mixture of mold, mange, and sour monkey. Living together in tight-knit tribes and clans, their main driving force is an imposing psyche and impressive force of will, though they are not known to be intelligent beyond being sentient. Less so than even an ogre would be considered. They follow the leadership of whoever can prove themselves the biggest and strongest, with aspiring trogg chieftains often going to great lengths to prove their viciousness.
-
-Troggs have are known to eat whatever they can get their hands on; including rocks, or even occasionally other troggs.
-
-***Undergound creatures.*** With most of their existence spent underground, troggs are not fond of sunlight. Wherever troggs dwell, a deep network of intertwining tunnels is likely to be somewhere nearby. They do most of their digging by hand, using their jagged claws, and occasionally shape weapons and other tools out of the rocks they excavate. Like the troggs themselves, a trogg dwelling is ill-reputed for is repulsive smell.
-
-### Trogg Names and Language
-
-Troggs do not possess any discernible language of their own, and tend to resort to violence rather than negotiation when faced with a threat. Still, those who do communicate do so in a mixture of primal grunts and what rudimentary Common they know.
-
-Their names draw from the same core roots as the dwarven language, especially its hard consonants and guttural sounds. Some troggs, usually tribe leaders, choose names in Common to best describe themselves. It is unclear whether these names are direct translations, or deliberate choices to intimidate other races.
-
-Trogg tribes are usually in Common, and often draw from their way of being or directly from whichever place they claim as their home.
-
-**Trogg Names:** Argh, Agrok, Bruggor, Gorgash, Grimlok, Morloch, Murdaloc, Raggosh, Revelosh
-
-**Clan Names:** Bonegnasher, Caverndeep, Gravelflint, Irondeep, Rockjaw, Scrapbone, Stonevault
-
-
-\columnbreak
+\pagebreakNum
 
 ___
 > ## Trogg Chieftain
