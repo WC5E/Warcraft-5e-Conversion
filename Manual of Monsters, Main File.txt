@@ -1167,9 +1167,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The tar creeper makes two attacks with its poison claws.
 >
-> ***Poison Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage plus 7 (2d6) poison damage. 
+> ***Poison Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage plus 7 (2d6) poison damage.
 >
-> ***Tar Spray (1/Day).*** The tar creeper sprays sticky tar in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw. On a failed saving throw a creature's speed is halved, it takes a -2 penalty to Ac and Dexterity saving throws, and it can't use reactions. 
+> ***Tar Spray (1/Day).*** The tar creeper sprays sticky tar in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw. On a failed saving throw a creature's speed is halved, it takes a -2 penalty to Ac and Dexterity saving throws, and it can't use reactions.
 > <br>&nbsp;&nbsp;&nbsp; A creature can remove the tar on itself during a short or long rest by bathing in water, alcohol, or vinegar.
 
 <div class="pageLetter">B</div>
@@ -1230,9 +1230,7 @@ While on their warpath, travelling from place to place, centaurs often claim pri
 
 Both the Horde and the Alliance have done their part to feed this inter-tribal conflict, seeing it as a necessary act to keep scattered clans, especially in regions such as the Barrens or Desolace, from banding together and becoming a more dangerous foe.
 
-### The Children of Zaetar
-
-The centaur are the progeny of Zaetar, a Keeper of the Grove and son of Cenarius; Lord of the forest and Demigod of the Groves. Though Zaetar was no lesser than his brother, Remulos, he often felt himself living in the shadow of his brother's presence and accomplishments. 
+***The Children of Zaetar.*** The centaur are the progeny of Zaetar, a Keeper of the Grove and son of Cenarius; Lord of the forest and Demigod of the Groves. Though Zaetar was no lesser than his brother, Remulos, he often felt himself living in the shadow of his brother's presence and accomplishments.
 
 When Cenarius sent his son Zaetar out to investigate the re-emergence of the elemental princess Theradras, daughter of Therazane the Stonemother, Zaetar saw himself enchanted by Theradras' beauty.
 
@@ -1240,10 +1238,22 @@ The two became mates, in secrecy, and out of their forbidden union the centaur w
 
 Theradras entombed her lover's spirit within her own lair, which the centaur gave the name Maraudon and grew to regard as a sacred place.
 
+### Centaur Names and Language
+
+The centaur speak Low Common, and often learn phrases from the languages of their enemies; including Common, Orcish, Goblin, and Taur-ahe. A few centaurs  even go as far as to learn the entirety of these languages, with fewer still adopting this second language as their primary language.
+
 \columnbreak
 
-
 <div style='margin-top:140px;'></div>
+
+Their names are often short and sharp, sometimes opting for a softer opening and a hard ending. Centaur tribes draw their name from the first khan to lead them, such as khan Gelk of the Gelkis. The ending of a tribe's name varies from tribe to tribe, often drawing from other languages that tribe spoke, or by the whim of the founding khan.
+
+<div style='margin-top:-5px;'></div>
+
+<br /> **Centaur Names:** Ablik, Arug, Blizh, Drothar, Feth,
+<br />&nbsp;&nbsp;&nbsp; Jamrek, Kerrak, Kromzar, Magra, Sherik, Shodo, Warug
+<br />**Tribe Names:** Galak, Jhenek, Kolkar, Krenek, Okrim,
+<br />&nbsp;&nbsp;&nbsp; Wethek, Worrak
 
 ___
 > ## Centaur
@@ -1283,7 +1293,7 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:243px;'></div>
+<div style='margin-top:260px;'></div>
 
 ___
 > ## Centaur Earthcaller
@@ -1323,16 +1333,7 @@ ___
 
 \columnbreak
 
-### Centaur Names and Language
-
-The centaur speak Low Common, and often learn phrases from the languages of their enemies; including Common, Orcish, Goblin, and Taur-ahe. A few centaurs  even go as far as to learn the entirety of these languages, with fewer still adopting this second language as their primary language.
-
-Their names are often short and sharp, sometimes opting for a softer opening and a hard ending. Centaur tribes draw their name from the first khan to lead them, such as khan Gelk of the Gelkis. The ending of a tribe's name varies from tribe to tribe, often drawing from other languages that tribe spoke, or by the whim of the founding khan.
-
-
-**Centaur Names:** Ablik, Arug, Blizh, Drothar, Feth, Jamrek, Kerrak, Kromzar, Magra, Sherik, Shodo, Warug
-
-**Tribe Names:** Galak, Jhenek, Kolkar, Krenek, Okrim, Wethek, Worrak
+<div style='margin-top:300px;'></div>
 
 ___
 > ## Centaur Khan
