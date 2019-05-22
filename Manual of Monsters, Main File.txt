@@ -342,7 +342,6 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
  - [<span>3</span><span> Wind Serpents                 </span>](#p3)
  - [<span>3</span><span> Worgen: Feral                 </span>](#p3)
  - [<span>3</span><span> Yetis                         </span>](#p3)
- - [<span>3</span><span> Zombie                        </span>](#p3)
 </div>
 
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
@@ -5366,6 +5365,40 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:140px;'></div>
+
+## Zombie
+
+___
+> ## Zombie
+>*Medium undead, neutral evil*
+> ___
+> - **Armor Class** 8
+> - **Hit Points** 16 (2d8 + 6)
+> - **Speed** 20 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|6 (-2)|14 (+2)|3 (-4)|6 (-2)|5 (-3)|
+>___
+> - **Saving Throws** Wis +0
+> - **Damage Immunities** poison
+> - **Condition Immunities** poisoned
+> - **Senses** darkvision 60 ft., passive Perception 8
+> - **Languages** understands the languages it knew in life  but can't speak
+> - **Challenge** 1/4 (50 XP)
+> ___
+> ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 +the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point in stead.
+>
+> ### Actions
+> ***Slam.*** *Melee Weapon Attack*: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.
+
+<div class="pageLetter">S</div>
+<div class='footnote'>SCOURGE </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
+
 <div style='margin-top:370px;'></div>
 
 ___
@@ -6433,44 +6466,6 @@ ___
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
-
-<div style='margin-top:140px;'></div>
-
-## Zombie
-
-___
-> ## Zombie
->*Medium undead, neutral evil*
-> ___
-> - **Armor Class** 8
-> - **Hit Points** 16 (2d8 + 6)
-> - **Speed** 20 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|13 (+1)|6 (-2)|14 (+2)|3 (-4)|6 (-2)|5 (-3)|
->___
-> - **Saving Throws** Wis +0
-> - **Damage Immunities** poison
-> - **Condition Immunities** poisoned
-> - **Senses** darkvision 60 ft., passive Perception 8
-> - **Languages** understands the languages it knew in life  but can't speak
-> - **Challenge** 1/4 (50 XP)
-> ___
-> ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 +the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point in stead.
->
-> ### Actions
-> ***Slam.*** *Melee Weapon Attack*: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.
-
-<div class='letterheader'></div>
-<div class="mmletter mml-z"></div>
-<div class="pageLetter">Z</div>
-<div class='footnote'>ZOMBIE </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
-
-
 
 <div class='wide'>
 
