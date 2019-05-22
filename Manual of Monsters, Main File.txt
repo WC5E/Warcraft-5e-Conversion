@@ -1250,7 +1250,7 @@ Their names are often short and sharp, sometimes opting for a softer opening and
 
 <div style='margin-top:-5px;'></div>
 
-<br /> **Centaur Names:** Ablik, Arug, Blizh, Drothar, Feth,
+**Centaur Names:** Ablik, Arug, Blizh, Drothar, Feth,
 <br />&nbsp;&nbsp;&nbsp; Jamrek, Kerrak, Kromzar, Magra, Sherik, Shodo, Warug
 <br />**Tribe Names:** Galak, Jhenek, Kolkar, Krenek, Okrim,
 <br />&nbsp;&nbsp;&nbsp; Wethek, Worrak
@@ -3210,7 +3210,7 @@ To the same end, some kobold packs have been seen keeping rats as pets, as the c
 
 \pagebreakNum
 
-<div style='margin-top:120px;'></div>
+<div style='margin-top:168px;'></div>
 
 ### Kobold Names and Language
 
@@ -3222,17 +3222,12 @@ Their clan names often refer to common traits passed down through that clan's li
 
 <div style='margin-top:-5px;'></div>
 
-<br /> **Kobold Names:** Bukk, Feb, Feez, Gik, Kubb, Mlepp,
-
-Naal, Slag, Znaz, Zniv
-
+**Kobold Names:** Bukk, Feb, Feez, Gik, Kubb, Mlepp,
+<br />&nbsp;&nbsp;&nbsp; Naal, Slag, Znaz, Zniv
 <br /> **Kobold Surnames:** Fatcandle, Flintdagger, Goldtooth,
-
-Halfcandle, Luckybristles, Onetooth, Skullhat
-
+<br />&nbsp;&nbsp;&nbsp; Halfcandle, Luckybristles, Onetooth, Skullhat
 <br /> **Clan Names:** Bluewax, Boulderslide, Gravelsnout,
-
-Mudwhisker, Skywhisker, Windshear
+<br />&nbsp;&nbsp;&nbsp;Mudwhisker, Skywhisker, Windshear
 
 ___
 > ## Kobold
