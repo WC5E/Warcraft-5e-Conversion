@@ -56,7 +56,7 @@
   	line-height: 1.8em !important;
   }
 
-  /* Reduce TOC list indenation*/
+  /* Reduce TOC list indentation*/
   .toc ul ul {
   	margin-left: 10px !important;
   }
@@ -245,9 +245,9 @@ We've made this book in an attempt to bring the beloved Warcraft franchise into 
 
 This book is made to compliment Dungeons & Dragons 5th edition **Player's Handbook, Dungeon Master's Guide**, and **Monster Manuals**. Using the rules presented in those books, and balanced around being playable in a standard D&D setting without requiring balancing.
 
-This books is made in our spare time with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe in a Dungeons & Dragons format. Not for any monetary gain.
+It has been written in our spare time, with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe in a Dungeons & Dragons format. Not for any monetary gain.
 
-With each coming update, all changes will be noted in the Changelog--Link is provided below. Likewise we've provided a link to our racial balance spreadsheet, using the rules of Detect Balance by  Eleazzaar.
+With each coming update, all changes will be noted in the Changelog--Link is provided below. Likewise, we've provided a link to our racial balance spreadsheet, using the rules of Detect Balance by  Eleazzaar.
 
 <div style="text-align:Center"> 
 
@@ -388,15 +388,15 @@ The game includes the following monster types, which have no rules of their own.
 
 &nbsp;&nbsp;&nbsp; **Constructs** are made, not born. Some are programmed by their creators to follow a set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs.
 
-**Dragons** are reptilian creatures of ancient origin and tremendous power. The dragonflights are highly intelligent and have innate magic. Also in this category are creatures distantly related to the dragonflights, but less powerful, less intelligent, and less magical, such as dragonspawns and proto-drakes.
+**Dragons** are reptilian creatures of ancient origin and tremendous power. The dragonflights are highly intelligent and have innate magic. This category also includes distant relatives of the dragonflights; such as the less powerful and less magical  dragonspawns and proto-drakes.
 
 **Elementals** are creatures native to the elemental plane. Some creatures of this type are little more than animate masses of their respective elements. Others have biological forms infused with elemental energy. The races of elemen&shy;tal creatures include ascendants, bound and unbound elementals, and revenants.
 
 **Fey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. They are closely tied to the Emerald Dream. Fey include dryads, faerie dragons, and wisps.
 
-**Fiends** are creatures of wickedness native to worlds beyond Azeroth. Many originate from the Great Dark Beyond and its Twisting Nether, others were corrupted on planets far away. Fiends all serve Sargeras the Dark Titan, and in turn the Void Lords themselves. Fiends include demons, infernals, and eredars.
+**Fiends** are creatures of wickedness native to worlds beyond Azeroth. Many originate from the Great Dark Beyond and its Twisting Nether, others were corrupted on planets far away. Fiends all serve Sargeras the Dark Titan, and in turn the Void Lords themselves. Fiends include demons, infernals, and the Eredar.
 
-**Giants** tower over humans and their kind. They are enor-mous creatures created by the titans, many of whom still show the stone shapes of their makers. Giants include sea giants, ogres, breakers, and vrykuls.
+**Giants** tower over humans and their kind. They are enor&shy;mous creatures created by the titans, many of whom still show the stone shapes of their makers. Giants include sea giants, ogres, breakers, and the vrykul.
 
 **Humanoids** are the main peoples of Azeroth, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, orcs, trolls, and dwarves.
 
@@ -410,7 +410,7 @@ A variety of humanoids appear throughout this book, but the races detailed in th
 
 **Titans** are beings made by titans themselves. Many resemble constructs, being massive creatures made of stone or other inanimate materials. Titans include titan constructs, titanforged, and titanic watchers.
 
-**Undead** are once-living creatures brought to a horrify-ing state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as the san'layn and zombies, as well as bodi&shy;less spirits, such as ghosts and specters.
+**Undead** are once-living creatures brought to a horrify&shy;ing state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as zombies and the San’layn, as well as bodi&shy;less spirits, such as ghosts and specters.
 
 \columnbreak
 
@@ -422,7 +422,7 @@ A monster's alignment provides a clue to its disposition and how it behaves in a
 
 The alignment specified in a monster's stat block is the default. Feel free to depart from it and change a monster's alignment to suit the needs of your campaign. If you want a good-aligned doomguard or an evil keeper of the grove, there's nothing stopping you.
 
-Some creatures can have **any alignment**. Meaning, You can choose the monster's alignment. Some monster's alignment entry indicates a tendency or aversion toward law, chaos, good, or evil. For example, a berserker can be any chaotic alignment (chaotic good, chaotic neutral, or chaotic evil), as befits its wild nature.
+Some creatures can have **any alignment**. Meaning, you can choose the monster's alignment. Some monster's alignment entry indicates a tendency or aversion toward law, chaos, good, or evil. For example, a berserker can be any chaotic alignment (chaotic good, chaotic neutral, or chaotic evil), as befits its wild nature.
 
 Many creatures of low intelligence have no comprehen&shy;sion of law or chaos, good or evil. They don't make moral or ethical choices, but rather act on instinct. These creatures are **unaligned**, which means they don't have an alignment.
 
@@ -475,7 +475,7 @@ A monster that has a flying speed can use all or part of its movement to fly. So
 A monster that has a swimming speed doesn't need to spend extra movement to swim.
 
 ### Ability Scores
-Every monster has six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma) and corrsponding modifiers. For more information on ability scores and how they're used in play, see the 5th edition *Player's Handbook*.
+Every monster has six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma) and corresponding modifiers. For more information on ability scores and how they're used in play, see the 5th edition *Player's Handbook*.
 
 ### Saving Throws
 The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily charmed or frightened might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
@@ -485,7 +485,7 @@ A saving throw bonus is the sum of a monster's relevant ability modifier and its
 > ##### Armor, Weapon, & Tool Proficiency
 > Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
 >
-> For example, a ogre typically wears hide armor and wields a greatclub. You could equip an ogre with chain mail and a greataxe instead, and assume the ogre is proficient with both, one or the other, or neither.
+> For example, an ogre typically wears hide armor and wields a greatclub. You could equip an ogre with chain mail and a greataxe instead, and assume the ogre is proficient with both, one or the other, or neither.
 >
 > See the 5th edition *Player's Handbook* for rules on using armor or weapons without proficiency.
 
@@ -539,7 +539,7 @@ A saving throw bonus is the sum of a monster's relevant ability modifier and its
 ### Skills
 The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom (Perception) and Dexterity (Stealth) checks.
 
-A skill bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifier might apply. For instance, a monster might have a larger-than-expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
+A skill bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifiers might apply. For instance, a monster might have a larger-than-expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
 
 ### Vulnerabilities, Resistances, <br>and Immunities
 Some creatures have vulnerability, resistance, or immunity to certain types of damage. Additionally, some creatures are immune to certain conditions. If a monster is immune to a game effect that isn't considered damage or a condition, it has a special trait.
@@ -662,7 +662,7 @@ A monster with the Spellcasting class feature has a spellcaster level and spell 
 
 The monster has a list of spells known or prepared from a particular class. The list might also include spells from a feature in that class, such as the Divine Priesthood feature of the priest or the Druid Path feature of the druid.
 
-A monster can cast spells from its list at a higher level if it has the spell slot to do so. For example, a creature with the 3rd-level *lightning bolt* spell can cast iti as a higher level spell if such a spell slot is available.
+A monster can cast spells from its list at a higher level if it has the spell slot to do so. For example, a creature with the 3rd-level *lightning bolt* spell can cast it as a higher level spell if such a spell slot is available.
 
 You can change the spells that a monster knows or has prepared, replacing any spell on a monster's spell list with a different spell of the same level and from the same class list. If you do so, you might cause the monster to be a greater or lesser threat than suggested by its challenge rating. 
 
@@ -719,7 +719,7 @@ A stat block rarely refers to equipment, other than armor or weapons used by a m
 
 You can equip monsters with additional gear and trinkets however you like, using the equipment chapter of the 5th edition *Player's Handbook*, and our *Heroes Handbook* for inspiration, and you decide how much of a monster's equip&shy;ment is recoverable after the creature is slain and whether any of that equipment is still usable. A battered suit of armor made for a monster is rarely usable by someone else, for instance.
 
-If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
+If a monster with spellcasting requires material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
 
 ## Legendary Creatures
 A legendary creature can do things that ordinary creatures can't. Legendary creatures can take special actions outside their turns, and a few can exert power over their environ&shy;ment, causing extraordinary magical effects to occur in their vicinity.
@@ -783,13 +783,13 @@ ___
 
 ## <span style="margin-left:76px"></span> Ancients
 <span style="margin-left:76px"></span> An ancient is a massive sentient guardian of 
-<span style="margin-left:76px"></span> wood and leafs, with an unparalleled wisdom
+<span style="margin-left:76px"></span> wood and leaves, with an unparalleled wisdom
 <span style="margin-left:75px"></span> and insight to the nature around them. These
 <span style="margin-left:70px"></span> hulking guardians have allied  themselves with 
 <span style="margin-left:60px"></span> the night elves, seeing many of the same ideals 
 <span style="margin-left:50px"></span> they wish to preserve in them.
 
-***Staunch Defenders.*** An ancient is grown from a acorn like so many other trees, yet it is much rarer and much more powerful than most other acorns. It takes many years for an ancient to grow to its full size, but once it is fully grown it can live for thousands of years without feeling the curse of old age.
+***Staunch Defenders.*** An ancient is grown from an acorn like so many other trees, yet it is much rarer and much more powerful than most other acorns. It takes many years for an ancient to grow to its full size, but once it is fully grown it can live for thousands of years without feeling the curse of old age.
 
 Many ancients have allied themselves with the honorable night elves and guard their cities and the edge of their territories. They can burrow their rooted feet into the soil beneath them to give them stability, often standing so still as to be indistinguishable from a normal tree, allowing animals to next within their tree crowns unbeknownst to the hulking creature beneath them.
 
@@ -875,7 +875,7 @@ ___
 > ##### Variant: Tree of Life
 > A tree of life is a sapling born from the world tree Nordrassil, these ancients have suffered great loses in recent wars, and those who remains have returned to the forest to spread their seeds and replenish their numbers undisturbed.
 >
-> A tree of life has a challenge rating of 11 (7,200 XP). It has the same statistics as a ancient of lore, and gains the following additional traits:
+> A tree of life has a challenge rating of 11 (7,200 XP). It has the same statistics as an ancient of lore, and gains the following additional traits:
 > <div style='margin-top:0px;'></div>
 >
 > &nbsp;&nbsp;&nbsp; ***Nature's Blessing.*** The tree add its Wisdom <br>&nbsp;&nbsp;&nbsp; modifier to its Armor Class (AC 20).
@@ -894,7 +894,7 @@ ___
 > The tree has the following additional action option.
 > <div style='margin-top:0px;'></div>
 >
-> &nbsp;&nbsp;&nbsp; ***Summon Wisps (1/Day).*** The tree calls forth ten <br>&nbsp;&nbsp;&nbsp; wisps that appear in empty spaces within 60 feet <br>&nbsp;&nbsp;&nbsp; of it. These wisps acts as allies of the tree. The <br>&nbsp;&nbsp;&nbsp; wisps remains for 1 day or until they die.
+> &nbsp;&nbsp;&nbsp; ***Summon Wisps (1/Day).*** The tree calls forth ten <br>&nbsp;&nbsp;&nbsp; wisps that appear in empty spaces within 60 feet <br>&nbsp;&nbsp;&nbsp; of it. These wisps act as allies of the tree. The <br>&nbsp;&nbsp;&nbsp; wisps remains for 1 day or until they die.
 
 <div style='margin-top:700px;'></div>
 
@@ -911,7 +911,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
 >___
-> - **Skills** Athletics +10, Nature +7, Percpetion +7
+> - **Skills** Athletics +10, Nature +7, Perception +7
 > - **Damage Vulnerabilities** fire
 > - **Damage Resistances** bludgeoning, piercing
 > - **Condition Immunities** charmed, frightened
@@ -977,13 +977,13 @@ Travelers sometimes find objects
 <br> that look like pieces of remarkably 
 <br>lifelike carvings of wildlife. Missing parts appear to have been bitten off. Seasoned explorers regard such relics as warnings, know&shy;ing that the basilisk that created that is likely to be nearby.
 
-***Territorial Creatures.*** Although basilisks are fierce combatants and powerful creatures, they do not exhibit a cruel or violent nature. Basilisks live as solitary creatures or in small colonies, and protect the borders of their territory fiercely, hunting animals and creatures alike when they trespass their lair, and leaving petrified remains behind as a warning for others to come.
+***Territorial Creatures.*** Although basilisks are fierce combatants and powerful creatures, they rarely exhibit a cruel or violent nature. Basilisks live as solitary creatures or in small colonies, and protect the borders of their territory fiercely, hunting animals and creatures alike when they trespass their lair, and leaving petrified remains behind as a warning for others to come.
 
 ***Gaze of Stone.*** Basilisks are ponderous for hunting creatures, but they needn't chase prey. Meeting a basilisk's supernatural gaze can be enough to affect a rapid transformation, transforming a victim into porous stone. Basilisks, with their strong jaws, are able to consume the stone and break it down to gain nutrition from the petrified victim with their acidic stomachs.
 
 ***A Fondness for Crystals.*** Scholars have yet been able to understand what it is in crystals that attract the basilisks, but they have long had a fondness for glass-like crystals that grow in remote regions of the world, the basilisks are capable of sensing these crystals from a great distance and venture far to get near them.
 
-A basilisk has an insatiable hunger for such crystals and it is not uncommon to find basilisks with similar crystals growing sporadically across their rockhard hide, an side effect of consuming the crystals in larger quantities. Many basilisks of Stranglethorn vale have found an abundance of such crystals, and crafted nests of the crystals themselves. Making them a worthy prize for taking down such a terrifying beast.
+A basilisk has an insatiable hunger for such crystals, and it is not uncommon to find basilisks with similar crystals growing sporadically across their rock-hard hide, a side effect of consuming the crystals in larger quantities. Many basilisks of Stranglethorn vale have found an abundance of such crystals, and crafted nests of the crystals themselves. Making them a worthy prize for taking down such a terrifying beast.
 
 <div class='letterheader'></div>
 <div class="mmletter mml-b"></div>
@@ -995,11 +995,11 @@ A basilisk has an insatiable hunger for such crystals and it is not uncommon to 
 \pagebreakNum
 
 ## Bog Beasts
-A bog beast is a massive, shambling monster made of plants, roots, and flesh that inhabit the waters of bogs and swamps. These massive plants hide beneath the water surface, disguising themselves as thick vegetation atop the waters surface, patiently waiting for unaware adventures to pass by so that their day can be turned around.
+A bog beast is a massive, shambling monster made of plants, roots, and flesh that inhabit the waters of bogs and swamps. These massive plants hide beneath the water surface, disguising themselves as thick vegetation atop the water’s surface, patiently waiting for unaware adventures to pass by so that their day can be turned around.
 
 ***Creatures of Mystery.*** Bog beasts are frightful crea&shy;tures, but they are also incredibly secretive. The hulking swamp lurkers have always avoided the gaze of scholars wishing to study them, hiding beneath the surfaces of water until they give up or come close enough to meet a swift end. Studying the beasts is only made harder because of their aggressive nature and territorial way of life.
 
-***Plants Anatomy.*** Thick roots stretch across the entirety of a bog beast, concealing what might lie beneath. These hulking monsters need no sustenance beyond the water in which they lie and wait, and can go unseen for months if they so desire, only grasping the waters surface when they need to replenish air.
+***Plants Anatomy.*** Thick roots stretch across the entirety of a bog beast, concealing what might lie beneath. These hulking monsters need no sustenance beyond the water in which they lie and wait, and can go unseen for months if they so desire, only grasping the water’s surface when they need to replenish air.
 
 ***Naturally Powerful.*** Explorers who have encountered the beasts and lived to tell the tale have recorded stories of their immense strength and resilience to harm. They use their strength to slam into their enemies, crushing oppo&shy;nents defenses with their fists, or whatever large object nearby they can throw at them.
 
@@ -1091,7 +1091,7 @@ ___
 >
 > ***Thorny Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage. If the target is Large or smaller, it is either grappled (escape DC 14) or pushed up to 10 feet away. Until the grapple ends, the target is restrained, and the swamp&shy;walker can only make one claw attack.
 >
-> ***Entangling Roots (Recharge 5-6).*** Grasping thorny roots and vines sprout in a 15-foot radius centered on the thistleshrub, withering away after 1 minute. For the duration, that area is difficult terrain for non plant creatures. In addition, each creature of the thistleshrub's choice in that area when the plants appear must succeed on a DC 14 Strength saving throw or become restrained. While restrained in this way, the target takes 9 (2d8) piercing damage at the start of their turn. A creature can use its action to make a DC 14 Strength check, freeing itself or another entangled creature within reach on a success.
+> ***Entangling Roots (Recharge 5-6).*** Grasping thorny roots and vines sprout in a 15-foot radius centered on the thistleshrub, withering away after 1 minute. For the duration, that area is difficult terrain for non-plant creatures. In addition, each creature of the thistleshrub's choice in that area when the plants appear must succeed on a DC 14 Strength saving throw or become restrained. While restrained in this way, the target takes 9 (2d8) piercing damage at the start of their turn. A creature can use its action to make a DC 14 Strength check, freeing itself or another entangled creature within reach on a success.
 
 <div class="pageLetter">B</div>
 <div class='footnote'>BOG BEASTS </div>
@@ -1193,7 +1193,7 @@ A fel-corrupted creature is a creature whose body and mind have been exposed to 
 
 ***Saving Throws.*** The creature becomes proficient in Constitution saving throws.
 
-***Senses.*** The creature gain 120 feet darkvision.
+***Senses.*** The creature gains 120 feet darkvision.
 
 ***Condition Immunities.*** The creature can't be charmed, or frightened.
 
@@ -1221,7 +1221,7 @@ A fel-corrupted creature is a creature whose body and mind have been exposed to 
 
 Abundant across the plains of central and southern Kalimdor, the centaur are a race of half-horse humanoids, appearing as a human's torso, arms, and head extending from the neck of an equine body. Full-grown centaurs can stand over seven feet tall, hooves to head, weighing in over a ton.
 
-***Nomadic Culture.*** They keep in small nomadic tribes, roaming the broad regions they consider their territory, with regular spots by which they settle their tents to hunt and forage. Each tribe is lorded by its khan, who'll more often than not keep open conflict with both neighbouring tribes and races alike.
+***Nomadic Culture.*** They keep in small nomadic tribes, roaming the broad regions they consider their territory, with regular spots by which they settle their tents to hunt and forage. Each tribe is lorded by its khan, who'll more often than not keep open conflict with both neighboring tribes and races alike.
 
 While on their warpath, travelling from place to place, centaurs often claim prisoners during their raids. Usually, these prisoners are tortured, driven to exhaustion, and eventually eaten.
 
@@ -1451,7 +1451,7 @@ ___
 ## Core Hounds
 Most who venture to the Blackrock Mountain would rather face a squad of orcs than confront a single core hound. These hulking bulldogs drips magma in their path, and guard the molten core of the molten core of the mountain as well as the charred regions to its north.
 
-A core hound's body is covered in thick, sweltering metal plates, a streak of flames run the length of its body, and its mouth is filled with rows of flaming teeths.
+A core hound's body is covered in thick, sweltering metal plates, a streak of flames run the length of its body, and its mouth is filled with rows of flaming teeth.
 
 ***Faithful Servants.*** Core hounds are the faithful servants of the Firelord and his minions, and in many way acts like massive loyal bulldogs that fulfill the commands of their masters whenever possible. 
 
@@ -1602,11 +1602,11 @@ ___
 \pagebreakNum
 
 ## Dragonhawks
-Travelers entering the enchanged forests of Quel'Thalas might catch a glimpse of the mystical dragonhawk gliding above the trees. Warmth hangs on the air, as the majestic beast vanishes in the canopies above.
+Travelers entering the enchanted forests of Quel'Thalas might catch a glimpse of the mystical dragonhawk gliding above the trees. Warmth hangs on the air, as the majestic beast vanishes in the canopies above.
 
 ***Bred for War.*** The elves of Quel'Thalas have a long standing tradition of breeding docile dragonhawks. The hawks are vicious flying predators. They are swift and deft, able to crack bones and pierce hides with their long talons. They can be trained as aerial mounts, and seem to have a particular affinity with high elves (and now, blood elves). Majestic and magnificent creatures, dragonhawks and <br> their elf riders make an impressive sight.
 
-***Wild Legends.*** Few wild dragonhawks exist, most, if <br> not all, the beasts found in Quel'Thalas have been bred <br>by the elves . Wild dragonhawks are considered mystical beings that few get to witness, they stay clear of docile dragonhawks and spend much of their time flying above tree canopies to avoid detection. These dragonhawks are formidable hunters and amongst the deadlist predators found on the Eastern Kingdoms.
+***Wild Legends.*** Few wild dragonhawks exist, most, if <br> not all, the beasts found in Quel'Thalas have been bred <br>by the elves . Wild dragonhawks are considered mystical beings that few get to witness, they stay clear of docile dragonhawks and spend much of their time flying above tree canopies to avoid detection. These dragonhawks are formidable hunters and amongst the deadliest predators found on the Eastern Kingdoms.
 
 ___
 > ## Young Dragonhawk
@@ -1684,7 +1684,7 @@ A dust devil is an elemental of air and earth that roars across the land, these 
 
 ***Eternal Nuisance.*** Dust devils are known for their unusually chaotic nature compared to many other elemen&shy;tals, and their enjoyment of roaring across plains and fields, destroying everything they come across with incredible gusts of concentrated wind or brutal slams.
 
-***Conjured by Magic.*** Certain spells and magic items can conjure an elemental from their chaotic Elemental Plane to the Material Plane. Elementals, dust devils especially, resent being pulled from their native planes and shackled into service. A creature that summons an elemental mus assert force of will to control it.
+***Conjured by Magic.*** Certain spells and magic items can conjure an elemental from their chaotic Elemental Plane to the Material Plane. Elementals, dust devils especially, resent being pulled from their native planes and shackled into service. A creature that summons an elemental must assert force of will to control it.
 
 ***Elemental Nature.*** A dust devil doesn't require air, food, drink, or sleep.
 
@@ -1734,7 +1734,7 @@ Known for their fiery tempers and fierce determination, the Dark iron have a his
 
 Most dark iron have fiery or black hair that trickles with the flake of embers and dark gray skin. They wear clothes that prominent displays their stature in drab dark colors, along with ornate jewelry.
 
-***Influence of the Firelord.*** As the combined forces of Ironforge and Grim Batol marched upon the dark iron dwarves, their leader Thaurissan attempted to summon an ancient power sleeping beneath the mountains of Redridge unbeknownst to what he would awaken. Freed by the Dark Irons frantic attempt to survive, Ragnaros erupted from his elemental prison, creating a raging volcano at the center of devastation. The volcano, known as Blackrock Mountain would become the residence of those of the Dark Irons who survived and were ultimately enslaved by the Firelord and his elementals.
+***Influence of the Firelord.*** As the combined forces of Ironforge and Grim Batol marched upon the dark iron dwarves, their leader Thaurissan attempted to summon an ancient power sleeping beneath the mountains of Redridge unbeknownst to what he would awaken. Freed by the Dark Irons frantic attempt to survive, Ragnaros erupted from his elemental prison, creating a raging volcano at the center of devastation. The volcano, known as Blackrock Mountain, would become the residence of those of the Dark Irons who survived and were ultimately enslaved by the Firelord and his elementals.
 
 ***Born in Flames.*** Like other dwarves, dark iron dwarves have strong constitution. Adding to their physical stamina an incredible affinity towards fire resulting from their time influenced by Ragnaros the Firelord.
 
@@ -1815,7 +1815,7 @@ ___
 > At will: *produce flame*
 > <br> 1/day each: *lesser restoration, searing smite*
 >
-> ***Spellcasting.*** The dwarf is a 8th-level spellcaster. Its spellcasting ability is Intelligence (save DC 13, +5 to hit with spell attacks). The dwarf has the following mage spells prepared:
+> ***Spellcasting.*** The dwarf is an 8th-level spellcaster. Its spellcasting ability is Intelligence (save DC 13, +5 to hit with spell attacks). The dwarf has the following mage spells prepared:
 >
 > Cantrips (at will): *control flames, fire bolt, mage hand*
 > <br> 1st level (4 slots): *burning hands, hellish rebuke, <br>&nbsp;&nbsp;&nbsp; mage armor, sudden awakening*
@@ -1949,7 +1949,7 @@ ___
 > ##### Variant: Elemental Revenant
 > An elemental revenant is a furious elemental being that has manifested itself with a crude suit of armor for protection. 
 >
->A revenant has the same statistics as its elemental counterpart, except for an Armor Class of 17 (half plate, shield). It loses any ability to move through and stop in the space of other creatures, as well as any ability to move through spaces smaller than 2 feet,. Its slam or touch action is replaced with the following option, using the same attack modifier and damage type as the original action.
+>A revenant has the same statistics as its elemental counterpart, except for an Armor Class of 17 (half plate, shield). It loses any ability to move through and stop in the space of other creatures, as well as any ability to move through spaces smaller than 2 feet, its slam or touch action is replaced with the following option, using the same attack modifier and damage type as the original action.
 >
 > ***Maul.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d12 + 5) damage of the elemental's type.
 
@@ -2082,7 +2082,7 @@ ___
 > - **Languages** Aquan
 > - **Challenge** 5 (1,800 XP)
 > ___
-> ***Frost Form.*** The elemental can burrow through nonmagical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) cold damage. Additionally, the elemental freezes noncreature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is grappled (escape DC 14).
+> ***Frost Form.*** The elemental can burrow through nonmagical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) cold damage. Additionally, the elemental freezes non-creature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is grappled (escape DC 14).
 >
 > ***Ice Walk.*** The elemental can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost extra movement.
 >
@@ -2160,13 +2160,13 @@ ___
 >
 > &nbsp;&nbsp; *2. Shimmer.* The elemental can use its reaction to give an attack roll against it disadvantage.
 > <br>&nbsp;&nbsp; *3. Arcane Missiles.* The elemental gains an additional attack per Attack action, casting *magic missile* as a 1st level spell at creatures within range.
-> <br>&nbsp;&nbsp; *4. Arcanic Rifts.* The elemental can teleport up to 30 feet to an unoccupied space adjacent to a creature before making an attack roll.
+> <br>&nbsp;&nbsp; *4. Arcane Rifts.* The elemental can teleport up to 30 feet to an unoccupied space adjacent to a creature before making an attack roll.
 > <br>&nbsp;&nbsp; *5. Amplified.* The elemental gains a +2 bonus to its AC, and has advantage on Dexterity saving throws.
 > <br>&nbsp;&nbsp; *6. Overpowered.* The elemental has become volatile and explodes at the beginning of its next turn. Each creature within 20 feet of it must make a DC 15 Dex&shy;terity saving throw, taking 21 (6d6) force damage on a failed save, or half as much on a successful one, the elemental then dies. If killed in this way, the arcane elemental only grants half of its original XP to the party.
 >
 > ***Magic Sense.*** The elemental can sense magic users within 60 feet of it, and focus its attacks on those creatures.
 >
-> ***Magic Weapon.*** The elemental's wepaon attacks are magical.
+> ***Magic Weapon.*** The elemental's weapon attacks are magical.
 >
 > ### Actions
 > ***Multiattack.*** The elemental makes two attacks: one with its slam and one with its drain mana.
@@ -2225,7 +2225,7 @@ The faceless ones are a monstrous race that arose from the organic matter seepin
 
 ***Spawn of the Old Gods.*** The old gods creates faceless ones through the essence that seeps from their mighty prisons. Some are unique monstrosities, while others represent uniform strains virtually identical to each other. They are all spawns of the old gods and their loyalty towards them is unquestionable, these faceless servants cannot be turned from their evil ways and will do anything they are commanded by their powerful creators.
 
-***Unexpected Allies.*** These eldritch horrors are not innumerable but their forces are powerful and what they lack in power is regained through the beings around them that they corrupt. The faceless  ones have gained valuable allies such as the Naga's, but they have also turned the most loyal of races against itself for their own benefit.
+***Unexpected Allies.*** These eldritch horrors are not innumerable, but their forces are powerful and what they lack in power is regained through the beings around them that they corrupt. The faceless  ones have gained valuable allies such as the Naga's, but they have also turned the most loyal of races against itself for their own benefit.
 
 A faceless is never alone, they always have allies close by to command or creatures whose mind they have twisted into submission at their side.
 
@@ -2357,7 +2357,7 @@ Furbolgs are large, kind-hearted, peaceful humanoid bears that create tribal set
 
 ***Peaceful Nature.*** Furbolgs are a peaceful race that wishes to live for itself and solve tension between tribes alone. They are tied to nature and worship the ancient bear twins, Ursoc and Ursol.
 
-Furbolgs live in large tribes secluded from the world around them, the tribe is their family and tension between members is a rare sight. A tribe is lead by a shaman, a furbolg with a powerful connection to nature.
+Furbolgs live in large tribes secluded from the world around them, the tribe is their family and tension between members is a rare sight. A tribe is led by a shaman, a furbolg with a powerful connection to nature.
 
 ***Corrupted Kin.*** Furbolgs have proven to be easily susceptible to being manipulated by multiple forms of corruption, turning the otherwise peaceful beings into vicious and hateful creatures with an ever present anger towards outsiders. Many furbolg tribes have lost their ways to the influence of forces like the Burning Legion or the Old Gods, distancing themselves from other tribes or turning to hostility to expand their territory.
 
@@ -2420,7 +2420,7 @@ ___
 
 While most mortal souls eventually find their way to the Shadowlands, the realm of spirits, not all who have died manage to find rest. Some are unwillingly bound to roam the trackless wastes that exist between the Shadowlands and the physical world, appearing in the latter as ghostly apparitions as they search for release from their endless suffering.
 
-***Existing Between Worlds.*** There are many reasons as for why a soul might remain, including curses and deliberate magical entrapment, though most prevalent is a sheer unwillingness to abandon the phyiscal realm for the realm of spirits. A person whose life ended abruptly at the hands of someone else, may be likely to return as a malevolent spectre intent on exacting revenge upon those who did them wrong.
+***Existing Between Worlds.*** There are many reasons as for why a soul might remain, including curses and deliberate magical entrapment, though most prevalent is a sheer unwillingness to abandon the physical realm for the realm of spirits. A person whose life ended abruptly at the hands of someone else, may be likely to return as a malevolent spectre intent on exacting revenge upon those who did them wrong.
 
 Conversely, other spirits may be unwilling to find rest out of fear for what lies beyond, or for a feeling that their business in life was never properly settled.
 
@@ -2432,7 +2432,7 @@ Existing since mortal life first walked the universe, the Shadowlands is a realm
 
 Many believe this to be the final destination for all mortal souls, into which they are drawn on their point of death and destined to remain forever after, while others choose to hope for their final rest to be brighter -- more pleasant than an eternity languishing such cold and bleak confines.
 
-Within the Shadowlands, time does not pass as it would elsewhere. Sometimes years outside of the Shadowlands may only seem like days within, and conversely sometimes years may pass by in its bleak wastes without a moment passing in the phyiscal realm. While it may sometimes be near impossible to see what lies ahead inside the Shadowlands, it is possible for those within to hear what is happening outside.
+Within the Shadowlands, time does not pass as it would elsewhere. Sometimes years outside of the Shadowlands may only seem like days within, and conversely sometimes years may pass by in its bleak wastes without a moment passing in the physical realm. While it may sometimes be near impossible to see what lies ahead inside the Shadowlands, it is possible for those within to hear what is happening outside.
 
 It is said that Icecrown, frozen peak of Northrend and citadel of the Scourge, exists as an anchoring bridge between the Shadowlands and the physical world.
 
@@ -2467,9 +2467,9 @@ When a creature becomes a ghost, it retains its statistics except as described b
 
 ***Ethereal Sight.*** The ghost can see 60 ft. into the Spirit World when it is on the Material Plane, and vice versa.
 
-***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn in side an object.
+***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-***New Action: Etherealness.*** The ghost enters the Spirit World from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Spirit World, and vise versa, yet it can't affect or be affected by anything on the other plane.
+***New Action: Etherealness.*** The ghost enters the Spirit World from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Spirit World, and vice versa, yet it can't affect or be affected by anything on the other plane.
 
 ***Hit Points.*** If the creature already has three or more damage resistances or immunities, its hit points remain unchanged. Otherwise, the creature's hit points are reduced by a multiplier based on its challenge rating. 
 
@@ -2525,7 +2525,7 @@ Persuasion +5, Stealth +4
 >
 > ***Ethereal Sight.*** The ghost can see 60 ft. into the Spirit World when it is on the Material Plane, and vice versa.
 >
-> ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn in side an object.
+> ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 >
 > ***Sneak Attack (1/Turn).*** The ghost deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the ghost that isn't incapacitated and the ghost doesn't have disadvantage on the attack roll.
 >
@@ -2536,7 +2536,7 @@ Persuasion +5, Stealth +4
 >
 > ***Hand Crossbow.*** *Ranged Weapon Attack:* +5 to hit, range 30/120 ft., one target. *Hit:* 5 (ld6 +3) piercing damage.
 >
-> ***Etherealness.*** The ghost enters the Spirit World from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Spirit World, and vise versa, yet it can't affect or be affected by anything on the other plane.
+> ***Etherealness.*** The ghost enters the Spirit World from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Spirit World, and vice versa, yet it can't affect or be affected by anything on the other plane.
 
 \columnbreak
 
@@ -2562,7 +2562,7 @@ ___
 > ___
 > ***Ethereal Sight.*** The ghost can see 60 ft. into the Spirit World when it is on the Material Plane, and vice versa.
 >
-> ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn in side an object.
+> ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 >
 > ### Actions
 > ***Multiattack.*** The ghost makes two melee attacks.
@@ -2571,9 +2571,9 @@ ___
 >
 > ***Heavy Crossbow.*** *Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:* 5 (1d10) piercing damage.
 >
-> ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the ghost can utter a special command or warning whenever a non hostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the ghost. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
+> ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the ghost can utter a special command or warning whenever a non-hostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the ghost. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
 >
-> ***Etherealness.*** The ghost enters the Spirit World from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Spirit World, and vise versa, yet it can't affect or be affected by anything on the other plane.
+> ***Etherealness.*** The ghost enters the Spirit World from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Spirit World, and vice versa, yet it can't affect or be affected by anything on the other plane.
 > 
 > ### Reactions
 > ***Parry.*** The ghost adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
@@ -2607,11 +2607,11 @@ ___
 > ___
 > ***Ethereal Sight.*** The ghost can see 60 ft. into the Spirit World when it is on the Material Plane, and vice versa.
 >
-> ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn in side an object.
+> ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 >
 > ***Loa's Blessing.*** The ghost has advantage on saving throws against being charmed.
 >
-> ***Spellcasting.*** The ghost is a 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The troll has the following priest and shaman spells prepared:
+> ***Spellcasting.*** The ghost is an 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The troll has the following priest and shaman spells prepared:
 >
 > Cantrips (at will): *light, shocking grasp, spare the <br>&nbsp;&nbsp;&nbsp; dying, toll the dead*
 > <br> 1st level (4 slots): *absorb elements, inflict wounds, <br>&nbsp;&nbsp;&nbsp; thunderwave*
@@ -2645,7 +2645,7 @@ ___
 > - **Languages** understands any language it knew in life, but can't speak
 > - **Challenge** 2 (450 XP)
 > ___
-> ***Incorporeal Movement.*** The apparition can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn in side an object.
+> ***Incorporeal Movement.*** The apparition can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 >
 > ***Spellcasting.*** The apparition is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The apparition has the following mage spells prepared:
 >
@@ -2687,7 +2687,7 @@ ___
 > ___
 > ***Detect Life.*** The banshee can magically sense the presence of living creatures up to 5 miles away. She knows the general direction they're in but not their exact locations.
 >
-> ***Incorporeal Movement.*** The banshe can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
+> ***Incorporeal Movement.*** The banshee can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 >
 >
 > ### Actions
@@ -2777,10 +2777,10 @@ ___
 >
 > ***Incorporeal Movement.*** The wisp can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 >
-> ***Variable Illumination.*** The wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feets equal to the chosen radius. The wisp can alter the radius as a bonus action.
+> ***Variable Illumination.*** The wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The wisp can alter the radius as a bonus action.
 >
 > ### Actions
-> ***Intertwine.*** The wisp enters the space of another creature and attempts entwine it in place. The target must pass a DC 12 Wisdom saving throw or be paralyzed for 1 minute. At the end of the target's turns, it can make another save, ending the paralysis on a successful one. While the wisp has a creature interwined, attack rolls against it has disadvantage. If a target's saving throw is successful or the effect ends for it, the target is immune to this wisp's intertwine for the next 24 hours.
+> ***Intertwine.*** The wisp enters the space of another creature and attempts entwine it in place. The target must pass a DC 12 Wisdom saving throw or be paralyzed for 1 minute. At the end of the target's turns, it can make another save, ending the paralysis on a successful one. While the wisp has a creature intertwined, attack rolls against it has disadvantage. If a target's saving throw is successful or the effect ends for it, the target is immune to this wisp's intertwine for the next 24 hours.
 >
 > ***Renew (Recharge 5-6).*** One plant that the wisp can see within 5 feet of it is renewed by the wisp; the wisp disappears. The wisp can't be targeted by any attack, spell, or other effect while renewing a plant. The renewed plant regains 10 hit points at the start of its turn. If the plant takes fire damage, the renew doesn't function at the start of its next turn. The plant dies if it starts its turn with 0 hit points.
 > <br>&nbsp;&nbsp;&nbsp; The renew lasts until the renewed plant drops to 0 hit points, the wisp ends it as a bonus action. When the plant takes damage, the wisp must pass a Concen&shy;tration saving throw (as if concentrating on a spell) or be pushed out of the plant.
@@ -2790,7 +2790,7 @@ ___
 > ##### Will of the Forest
 > Five wisps within 30 feet of each other are able to cast powerful spells. Each of the five must use its action and movement on three consecutive turns to call upon the powers of Elune and must maintain concentration while doing so (as if concentrating in a spell). When all five have finished their third turn of the ritual, the wisps gain the Spellcasting trait and can cast one spell in total at a target or point within 120 feet, no matter the spells normal range.
 >
-> ***Innate Spellcasting.*** The wisps spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The wisps can innately cast one of the following spells as a 4th-level spell, requiring no material componenets. If a spell requires centration, all five wisps concentration must be broken to remove the spell:
+> ***Innate Spellcasting.*** The wisps spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The wisps can innately cast one of the following spells as a 4th-level spell, requiring no material components. If a spell requires centration, all five wisps concentration must be broken to remove the spell:
 > <div style='margin-top:0px;'></div>
 >
 > 1/Ritual: *banishment, charm monster, confusion, <br>&nbsp;&nbsp;&nbsp; dispel magic, spike growth, wind wall*
@@ -2844,9 +2844,9 @@ Gnolls are feral humanoids that attack settlements along the frontiers and borde
 
 Gnolls rarely build permanent structures or craft anything of lasting value. They don't make weapons or armor, but scavenge such items from the corpses of their fallen victims, stringing ears, teeth, scalps, and other trophies from their foes onto their patchwork armor.
 
-***Intelligent Beasts.*** Gnolls are by no means an intelligent humanoid race, but rather many would call them relatively intelligent beasts. They are known to manipulate each other into fights over ridiculous things like *whose shadow is larger*. Gnolls use as much time to fight with each other as they do fighting a common foe. The gnolls would be a fearsome race, if they ever stopped tearing each other to pieces long enough to organize into an army.
+***Intelligent Beasts.*** Gnolls are by no means an intelligent humanoid race, but rather many would call them relatively intelligent beasts. They are known to manipulate each other into fights over ridiculous things like *whose shadow is larger*. Gnolls use as much time to fight with each other as they do when fighting a common foe. The gnolls would be a fearsome race, if they ever stopped tearing each other to pieces long enough to organize into an army.
 
-***Hunger for Meat.*** To a gnoll, meat is meat, and they will gnaw their victims bones clean of anything that resembles meat. Gnolls will even go so far as to kill and canibalize outcasts of their pack if they are hungry enough. They've also made a tradition of devouring the bodies of their dead.
+***Hunger for Meat.*** To a gnoll, meat is meat, and they will gnaw their victims bones clean of anything that resembles meat. Gnolls will even go so far as to kill and cannibalize outcasts of their pack if they are hungry enough. They've also made a tradition of devouring the bodies of their dead.
 
 
 ### Gnoll Brute
@@ -2856,7 +2856,7 @@ The strongest of the pack becomes those who lead it, a gnoll brute displays imme
 Some gnolls feel a connection towards the shamanistic forces of the world, these gnolls become mystics of their packs. A gnoll mystic is capable of performing simple arts of magic that would be considered novice by most scholars, but even though their feats aren't extraordinary they are held in high regard by gnolls of their pack, seeing them as being the wisest of beings.
 
 ### Gnoll Pack Lord
-The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It places ornaments on its body of brutal piercings and grotesque trophies to show it's superior strength over the pack.
+The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It places ornaments on its body of brutal piercings and grotesque trophies to show its superior strength over the pack.
 
 \columnbreak
 
@@ -3017,7 +3017,7 @@ ___
 > ___
 > ***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
 >
-> ***Innate Spellcasting.*** The golem's innate spellcating ability is Intelligence (spell save DC 16). The golem can innately cast the following spells, requiring no material components.
+> ***Innate Spellcasting.*** The golem's innate spellcasting ability is Intelligence (spell save DC 16). The golem can innately cast the following spells, requiring no material components.
 >
 > At will: *detect magic, magic missile, shield*
 > <br> 3/day each: *counterspell, dispel magic*
@@ -3032,7 +3032,7 @@ ___
 >
 > ***Arcane Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage plus 4 (1d8) force damage.
 >
-> ***Slow (Recharge 5-6).*** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 16 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at othe end of each of its turns, ending the effect on itself on a success.
+> ***Slow (Recharge 5-6).*** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 16 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at other end of each of its turns, ending the effect on itself on a success.
 
 \columnbreak
 
@@ -3119,9 +3119,9 @@ A harpy combines the body, legs, and wings of a hunting bird with the torso, arm
 
 ***Noxious Nests.*** Harpies nest in hard-to-reach places from where they can terrorize the land around them. They slowly destroy the environment in which they settle, killing every creature they encounter and despoiling the land to build nests noted with their noxious order. Active nests are easy to discern by the intolerable smell and rot that protrudes from inhabited nests.
 
-***Precious Collectors.*** These winged humanoids place great value on shiny baubles, valuable objects, rare gems, and ores. They are known to actively trade with nearby settlements to attain anything shiny, procuring a moments calm before they return to ravaging the land around them. The harpies adorn themselves with their shiny baubles and trinkets, as a shown of their esteem.
+***Precious Collectors.*** These winged humanoids place great value on shiny baubles, valuable objects, rare gems, and ores. They are known to actively trade with nearby settlements to attain anything shiny, procuring a moments calm before they return to ravaging the land around them. The harpies adorn themselves with their shiny baubles and trinkets, as a show of their esteem.
 
-***Beguiling Creatures.*** Harpies resembles malformed night elves combined with features of large predator birds. The sadistic creatures would be considered beautiful when seen from a distance and as they grow in age they are known to become more beautiful. Growing to resemble formidable and colorful night elves more as they grow old.
+***Beguiling Creatures.*** Harpies resembles malformed night elves combined with features of large predator birds. The sadistic creatures would be considered beautiful when seen from a distance and as they grow in age, they are known to become more beautiful. Growing to resemble formidable and colorful night elves more as they grow old.
 
 Harpies are incapable of producing male children and their eggs will always hatch females. Because of this they have had to count on their cunning and deceptive nature to lure and capture males of many races for them to breed with. The males fill the role for a time, after which they become food for the nest.
 
@@ -3236,13 +3236,13 @@ A kobold averages at four feet tall, with coarse skin, sharp claws, a pronounced
 
 ***Massive Flocks.*** Kobolds are not only known to resemble vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds aren't considered a threat in smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if attempted removed from their dwellings.
 
-There is no concept of marriage in kobold soaciety. Rather, they form a loose structure of packs and clans based on their lineages, with young individuals generally opting to migrate between nests and warrens in search of mates outside of their own family.
+There is no concept of marriage in kobold society. Rather, they form a loose structure of packs and clans based on their lineages, with young individuals generally opting to migrate between nests and warrens in search of mates outside of their own family.
 
 Famously, kobolds can become very protective of their belongings, and prefer to keep a distance from other races in order to keep themselves safe.
 
 ***Candle-Hoarders.*** Despite living deep down underground, populating self-made caverns and abandoned mines -- sometimes even chasing miners away if the pack is large enough -- kobolds do not see well in the dark.
 
-Instead, they rely on candles to traverse whichever caverns they call home. These candles are usually made by the kobolds themselves, twining wicks from their hairs and pulling wax from their ears, though in desparation a kobold may contemplate stealing candles from other nearby settlements. Once a candle has been acquired, it is placed atop the kobold's head and left to burn there.
+Instead, they rely on candles to traverse whichever caverns they call home. These candles are usually made by the kobolds themselves, twining wicks from their hairs and pulling wax from their ears, though in desperation a kobold may contemplate stealing candles from other nearby settlements. Once a candle has been acquired, it is placed atop the kobold's head and left to burn there.
 
 ***Legends of the Darkness.*** Kobold legends speak of a dark, devouring presence dwelling in the deep places of the world, giving reason to the creatures' obsession with candles.
 
@@ -3263,7 +3263,7 @@ To the same end, some kobold packs have been seen keeping rats as pets, as the c
 
 Kobolds typically speak Low Common, and often adopt other wide-spoken languages in the regions they dwell. The latter is especially prevalent across the Eastern Kingdoms, where most kobold packs and clans have learned Common over their long history of interacting with humans.
 
-Kobold names and clan names are a descriptive amalgamation of everyday words. A kobold's personal name usually has two parts; a short, easily vocalized first name, and a descriptive surname. Kobold surnames are personal and not inhereted, but rather like a title that sums up their character, appearance, or a well-known possession of theirs.
+Kobold names and clan names are a descriptive amalgamation of everyday words. A kobold's personal name usually has two parts; a short, easily vocalized first name, and a descriptive surname. Kobold surnames are personal and not inherited, but rather like a title that sums up their character, appearance, or a well-known possession of theirs.
 
 Their clan names often refer to common traits passed down through that clan's lineage, or to quirks unique to their society, though they can be hard to distinguish from the names the kobolds give themselves.
 
@@ -3393,7 +3393,7 @@ A kodo is a giant reptilian beast with thick <br> hide, immense strength and hor
 
 ***Tauren Culture.*** The kodo beasts are key to tauren culture. Tauren hunt and use every part of kodos for their equipment, clothing, and food. But also train the mighty beasts as mounts or beasts of burden. The tauren see these creatures as a symbol of vigor and power, and hunting them is an important rite of passage for young warriors.
 
-***Pack Beasts.*** Kodos are formidable pack beasts and are used extensively by taurens and other races of the horde. The large beasts are capable of carrying immense amounts of load for long period without taking harm from it.
+***Pack Beasts.*** Kodos are formidable pack beasts and are used extensively by the tauren, as well as other races of the horde. The large beasts are capable of carrying immense amounts of load for long period without taking harm from it.
 
 ___
 > ## Kodo
@@ -3445,7 +3445,7 @@ ___
 >
 > ***Stomp.*** *Melee Attack Weapon:* +7 to hit, reach 5 ft., one target. *Hit:* 21 (3d10 + 5) bludgeoning damage.
 >
-> ***Devour.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15 (2d10 + 5) piercing damage. A Medium or smaller target, must succeed on a DC 13 Dexterity saving throw or swallowed by the lizard. The lizard can only have one target swallowed at a time. If a target fails the saving throw while the lizard has a creature swallowed, it is grappled instead.
+> ***Devour.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15 (2d10 + 5) piercing damage. A Medium or smaller target must succeed on a DC 13 Dexterity saving throw or swallowed by the lizard. The lizard can only have one target swallowed at a time. If a target fails the saving throw while the lizard has a creature swallowed, it is grappled instead.
 > <br>&nbsp;&nbsp;&nbsp; A swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the lizard, and it takes 10 (3d6) acid damage at the start of each of the lizard's turns. 
 > <br>&nbsp;&nbsp;&nbsp; If the lizard takes 15 damage or more on a single turn from the swallowed creature, the lizard must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the lizard. If the lizard dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.
 
@@ -3460,7 +3460,7 @@ ___
 <div style='margin-top:110px;'></div>
 
 ## Lashers
-A lasher is a large slithering flora that can be found across Azeroth, although most lashers are not hostile they will defend themselves fiercely if disturbed, using their long tendrils to lash out against their target.
+A lasher is a large slithering flora that can be found across Azeroth, although most lashers are not hostile, they will defend themselves fiercely if disturbed, using their long tendrils to lash out against their target.
 
 ***Sentient Plants.*** Lashers are the result of nature magic having seeped into the ground and corrupting the land around it, granting them the sentience to move on their own and pull themselves out of the earth. 
 
@@ -3482,7 +3482,7 @@ A barbed orchid stands out from other lashers by its large flower head with the 
 At a glance most would take the bloodpetal flayer for a very colorful lasher, but nothing more. These lashers are much more ferocious and carry a vile toxin within their thorns that burns beneath a creatures flesh when injected.
 
 > ##### Variant: Mature Lasher
-> When lashers reach maturity some learn to channel the powers of the moon in their favor. 
+> When lashers reach maturity, some learn to channel the powers of the moon in their favor. 
 >
 > A mature lashers has the same statistics as a lasher spitter, except that it has a Wisdom score of 12, and replaces the spitter's action options with the following action options
 >
@@ -3682,9 +3682,9 @@ A makrura is a large aquatic race found living in small colonies along the coast
 
 ***Aggressive and Hostile.*** A makrura within the confines of its colony is immediately hostile towards intruders and attempts to kill anyone that ventures to near. They use their massive claws to pinch their target, grappling them in place while the other tears the target into pieces.
 
-***Wrecked Colonies.*** These large aquatic creatures create small colonies at the waters edge or on the ocean floor. The makrura is unable to create sable homes are often settle in the wreckages of lost ships or underwater caverns.
+***Wrecked Colonies.*** These large aquatic creatures create small colonies at the water’s edge or on the ocean floor. The makrura is unable to create sable homes are often settle in the wreckages of lost ships or underwater caverns.
 
-***Savory Prey.*** The meat of a makrura has proven to be a  tasty treat to many races, and is appreciated all to well by creatures both on land and sea. Whilst some races on land hunt them for food, their most hated enemis are the ever present and notorious murlocs and nagas.
+***Savory Prey.*** The meat of a makrura has proven to be a  tasty treat to many races, and is appreciated all too well by creatures both on land and sea. Whilst some races on land hunt them for food, their most hated enemies are the ever present and notorious murlocs and nagas.
 
 ### Makrura Tidecaller
 Some Makrura has an innate capacity for water magic and are able to call upon its forces, these makruras are called tidecallers. The makrura tidecallers call upon the waters to aid their allies and hamster their enemies if needed.
@@ -3801,7 +3801,7 @@ Manifesting near pockets of arcane energy, mana wyrms are small shimmering creat
 
 Rarely does the sight of a mana wyrm cause a seasoned adventurer concern, for them the small creatures are more of a nuisance than a threat and is easily avoided.
 
-***Unstable Temperament.*** The temperament of a mana wyrm hangs solely on how long its been since it last fed on mana. These creatures are considered docile and harmless if fed often, but aggressive and unpredictable if hungry. The wyrms are also known for exploding in a flash of arcane.
+***Unstable Temperament.*** The temperament of a mana wyrm hangs solely on how long it’s been since it last fed on mana. These creatures are considered docile and harmless if fed often, but aggressive and unpredictable if hungry. The wyrms are also known for exploding in a flash of arcane.
 
 ***Arcane Sense.*** A mana wyrms can sense the taint and use of arcane energy near them and gravitate towards it, focusing their attacks against creatures that reek of arcane magic if hungry.
 
@@ -3856,7 +3856,7 @@ A mechanical animal is any Huge or smaller beast created by gnomes and engineers
 
 ***Lost Characteristics.*** The mechanical animal loses its original saving throw and skill bonuses, and special sense. It loses any action that isn't Multiattack or a melee weapon attack that deals bludgeoning, piercing, or slashing damage. If it has an action or a melee weapon attack that deals some other type of damage, it loses the ability to deal damage of that type, unless the damage comes from a piece of equipment, such as a magic item.
 
-***Type.*** The mechanical animal's typs is construct, and it loses any tags it might have had.
+***Type.*** The mechanical animal's type is construct, and it loses any tags it might have had.
 
 ***Alignment.*** The mechanical animal is unaligned.
 
@@ -3947,7 +3947,7 @@ ___
 > - **Languages** —
 > - **Challenge** 1/8 (25 XP)
 > ___
-> ***Detonate.*** When the bomblin dies, it detonates in a 10-foot radius explosion. Any creature within range must make a DC 10 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one.
+> ***Detonate.*** When the bombling dies, it detonates in a 10-foot radius explosion. Any creature within range must make a DC 10 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one.
 >
 > ***Immutable Form.*** The bombling is immune to any spell or effect that would alter its form.
 >
@@ -4062,9 +4062,9 @@ ___
 >
 > A Small or smaller creature can expend 5 feet of movement to enter an unoccupied mechano-tank. A creature unfamiliar with the controls of tank must succeed on a DC 15 Intelligence check to under&shy;stand the controls of the machine before it is able to pilot it and control its actions and movement.
 >
-> While piloted, the mechano-tanks Intelligence, Wisdom, and Charisma scores are exchanged with those of the pilot. A piloted tank uses the initiative of its pilot. The pilot must use its action, reaction, and movement to use the machines action options or force it to move to a new location. While a crea&shy;ture is crewing the mechano-tank, it is considered to have full cover cover against any attack made against it from the ground.
+> While piloted, the mechano-tanks Intelligence, Wisdom, and Charisma scores are exchanged with those of the pilot. A piloted tank uses the initiative of its pilot. The pilot must use its action, reaction, and movement to use the machines action options or force it to move to a new location. While a crea&shy;ture is crewing the mechano-tank, it is considered to have full cover against any attack made against it from the ground.
 >
-> Taking control of an **autopiloted** tank requires a successful DC 17 Tinker's Tool Intelligence check. On a successful save, the creature takes control of the tank until the end of the creature's next turn. At which point the shredders failsafes returns, requiring a new save to temporarily take control of it.
+> Taking control of an **autopiloted** tank requires a successful DC 17 Tinker's Tool Intelligence check. On a successful save, the creature takes control of the tank until the end of the creature's next turn. At which point the shredder’s failsafe mechanisms return, requiring a new save to temporarily take control of it.
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
@@ -4197,12 +4197,12 @@ The naga are part night elf, part serpent, and some have evolved oceanic mutatio
 Factions work continuously in bids for power, seeking the blessings of their queen. The vast majority of Azshara's servitors are willing to go to any means to elevate them&shy;selves in her eyes, even at the cost of their own lives.
 
 ### Naga Myrmidon
-The myrmidons, with their navy blue skin and fearsome tridents, are among the strongest warriors in the naga's huge army. They are feared by all who dwell near the sea, most especially by the Markura Empire.
+The myrmidons, with their navy blue skin and fearsome tridents, are among the strongest warriors in the naga's huge army. They are feared by all who dwell near the sea, most especially by the Makrura Empire.
 
 Among their people, they are the most fanatically loyal to their beloved queen so much so that they no longer bother acknowledging orders, they simply do them.
 
 ### Naga Sea Witch
-"Sea witch" is the informal term for a naga priestess of the tides. hese scaly denizens of the ocean have often been associated with the coming of prodigious storms, but few have actually seen them rise from the sea and lived to tell the tale.
+"Sea witch" is the informal term for a naga priestess of the tides. These scaly denizens of the ocean have often been associated with the coming of prodigious storms, but few have actually seen them rise from the sea and lived to tell the tale.
 
 They are potent spellcasters, able to use terrifying frost and lightning spells against their foes. They also draw upon their race's arcane legacy to protect themselves.
 
@@ -4252,7 +4252,7 @@ ___
 \columnbreak
 
 > ##### Variant: Naga Siren
-> Female naga are primarily spellcasters and have developed a number of techniques in the depths of the sea. Siren's are considered apprentices of the mightier sea witches.
+> Female naga are primarily spellcasters and have developed a number of techniques in the depths of the sea. Sirens are considered apprentices of the mightier sea witches.
 >
 > A naga siren has the same statistics as a naga, except it has Intelligence 14, Charisma 12, as well as the following trait: 
 >
@@ -4321,7 +4321,7 @@ ___
 >
 > ***Slippery.*** The naga has advantage on ability checks and saving throws made to escape a grapple.
 >
-> ***Spellcasting.*** The naga is a 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The naga has the following mage and shaman spells prepared: 
+> ***Spellcasting.*** The naga is an 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The naga has the following mage and shaman spells prepared: 
 >
 > Cantrips (at will) :  *shape water, flurry, lightning blast*
 > <br> 1st level (4 slots): *cure wounds, ice knife, <br>&nbsp;&nbsp;&nbsp; mage armor, thunderwave*
@@ -4368,7 +4368,7 @@ ___
 >
 > ***Crashing Wave (Recharges 5-6).*** The naga charges forward creating a wave of water that crashes anyone on its path. The naga moves 20 feet forward in a straight line producing a wave 20 feet long, 10 feet tall and 10 feet wide . Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 22 (5d8) bludgeoning damage and is knocked prone. On a success save, a creature takes half as much damage and isn't knocked prone. 
 >
-> ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the naga can utter a special command or warning whenever a non hostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the naga. A creature can benefit from only one Leadership die at a time. This effect ends if the naga is incapacitated.
+> ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the naga can utter a special command or warning whenever a non-hostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the naga. A creature can benefit from only one Leadership die at a time. This effect ends if the naga is incapacitated.
 >
 > ### Reactions
 > ***Parry.*** The naga adds 3 to its AC against one melee attack that would hit it. To do so, the naga must see the attacker and be wielding a melee weapon.
@@ -4426,7 +4426,7 @@ ___
 <div style='margin-top:140px;'></div>
 
 ## Ogres
-Ogres are large, brutish humands of immense strength native to the crumbling world of Draenor, many ogres have now settled as independent clans on Azeroth. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
+Ogres are large, brutish humanoids of immense strength native to the crumbling world of Draenor, many ogres have now settled as independent clans on Azeroth. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
 Ogres believe the most important physical attribute is size and eschew garments that cover too much skin. Many instead adorn their skin with fearsome warpaints.
 
@@ -4440,7 +4440,7 @@ Even though physical strength is seen as being the <br> most important attribute
 
 ***Brutish Combatants.*** The low intelligence <br> of most ogres push them towards simple and <br> straight forward solutions when they engage in <br> combat, often suffering as much punishment as <br> they dish out, relying on their strength and <br> stamina to keep them victorious at the battles end.
 
-They are vicious opponents with the strength to rip off an opponents limbs should they so choose. Most favor heavy spiked clubs and mauls capable of bashing in the skull of their target and bring down heavy the heavy prey they hunt.
+They are vicious opponents with the strength to rip off an opponent’s limbs should they so choose. Most favor heavy spiked clubs and mauls capable of bashing in the skull of their target and bring down heavy the heavy prey they hunt.
 
 ### Ogre Magi
 An ogre magi is an ogre with an intelligence unlike that of most of its kin. Many ogre magi is the product of magic itself and came into existence during the Horde's second invasion of Azeroth, these hulking ogres sprouted a second head rumored to be the source of their keen mind and affinity for arcane magic. Although most ogre magi's have two heads, individual ogres have proven capable of making the incantations required to cast spells like those of a Magi.
@@ -4612,7 +4612,7 @@ An owlbeast is a serene and powerful creature <br>that inhabits forested regions
 
 But through the ages, the owlbeasts have grown more feral in their nature, and without the guidance of the goddess many are confused. They wander without purpose, though some find their way back to the sacred areas that they once swore to protect.
 
-***Corruptible Minds.*** Owlbeasts are by nature peaceful and calm, but they are not the strongest mental creatures on Azeroth and their minds have shown to be easily corrupted by greater powers, turning the calm owlbeasts into ferocious and easily aggravated beasts that can turn against visitors at a moments notice.
+***Corruptible Minds.*** Owlbeasts are by nature peaceful and calm, but they are not the strongest mental creatures on Azeroth, and their minds have shown to be easily corrupted by greater powers, turning the calm owlbeasts into ferocious and easily aggravated beasts that can turn against visitors at a moment’s notice.
 
 <div class="pageLetter">O</div>
 <div class='footnote'>OWLBEASTS</div>
@@ -4623,10 +4623,10 @@ But through the ages, the owlbeasts have grown more feral in their nature, and w
 \pagebreakNum
 
 ### Owlbeast
-Owlbeasts are considered much more feral than the calm and peaceful moonkins, these creatures are more prone to be aggravated and go into an enraged stage where no sense can be made with them. They settle in large packs wherever they find shelter, even if it brings them into close contact with more sentient race, forcing them to fight for their home or find somewhere else.
+Owlbeasts are considered much more feral than the calm and peaceful moonkin, these creatures are more prone to be aggravated and go into an enraged stage where no sense can be made with them. They settle in large packs wherever they find shelter, even if it brings them into close contact with more sentient race, forcing them to fight for their home or find somewhere else.
 
 ### Moonkin
-The mighty moonkins are claimed to be Elune's creation, these creatures appear similar to a simply owlbeast when first encountered, and could easily be mistaken for such. While owlbeasts trespass the border into feral beasts. A moonkin is a sentient creature capable of rational thinking and coherent conversation. Moonkins are blessed by Elune to spread nature's grace wherever they settle, and when threatened they exert the full force of the moon goddess.
+The mighty moonkin are claimed to be Elune's creation, these creatures appear similar to a simply owlbeast when first encountered, and could easily be mistaken for such. While owlbeasts trespass the border into feral beasts. A moonkin is a sentient creature capable of rational thinking and coherent conversation. Moonkin are blessed by Elune to spread nature's grace wherever they settle, and when threatened they exert the full force of the moon goddess.
 
 ___
 > ## Moonkin
@@ -4651,7 +4651,7 @@ ___
 > ***Spellcasting.*** The moonkin is a 9th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The moonkin has the following druid spells prepared:
 >
 > Cantrips (at will) :  *druidcraft, resistance, solar wrath*
-> <br> 1st level (4 slots): *healing word, entangle, fearie fire, <br>&nbsp;&nbsp;&nbsp; starfire*
+> <br> 1st level (4 slots): *healing word, entangle, faerie fire, <br>&nbsp;&nbsp;&nbsp; starfire*
 > <br> 2nd level (3 slots): *barkskin, cyclone, moonbeam*
 > <br> 3rd level (3 slots): *mass healing word, plant growth, <br>&nbsp;&nbsp;&nbsp; starsurge*
 > <br> 4th level (3 slots): *grasping vines, guardian of nature*, 
@@ -4708,7 +4708,7 @@ ___
 ## Quilboars
 A ferocious, suicidally brave race with an alien mentality and devotion to their tribe, quilboars are stubby hunched humanoids with a pig-like face and rows of sharp spines running down its muscular back.
 
-Quilboars have worn down brown skin adorned with tribal markings and tattoos, long razer-sharp quils runs the length of their back in place of hair. Multiple sets of stubby tusks protrude from the side of their mouth.
+Quilboars have worn down brown skin adorned with tribal markings and tattoos, long razer-sharp quills runs the length of their back in place of hair. Multiple sets of stubby tusks protrude from the side of their mouth.
 
 ***Sacred Settlements.*** Quilboars live in the shade and protection of enormous roots that mar the land and choke out other life, turning the earth around them barren. The quilboar tribes flock to the thorny areas of central Kalimdor believe the regions to be sacred, and the erupted roots to have grown from the blood of Agamaggan.
 
@@ -4718,7 +4718,7 @@ When quilboars have turned a land too barren for them to settle in, their tribe 
 
 ***Crude Shamanism.*** Quilboars practice a crude form of shamanism, weaving its forces together with druidic magic to make their mighty thornweavers. These shamans are kept in high regard by their colonies, and are seen as the voice of Agamaggan.
 
-Quilboars revere the ancient Agamaggan as their creator and deity. Calling upon his aid to bolster them in fights and making sacrifices in his name. His blood would grow the twisted thorns of Razerfen, and his remain would adorn its entrance. All quilboars consider it to be a sacred place without equal on this earth.
+Quilboars revere the ancient Agamaggan as their creator and deity. Calling upon his aid to bolster them in fights and making sacrifices in his name. His blood would grow the twisted thorns of Razorfen, and his remain would adorn its entrance. All quilboars consider it to be a sacred place without equal on this earth.
 ### Quilboar Packmaster
 Quilboars have a natural affinity towards boars, and some amongst them have made it their lives worth to raise and fight alongside such creatures. These packmasters are rarely alone, taking in the company of one or more boars wherever they go.
 
@@ -4734,7 +4734,7 @@ Quilboars have a natural affinity towards boars, and some amongst them have made
 <div style='margin-top:40px;'></div>
 
 ### Quilboar Thornweaver
-The wise thornweavers are core to most quilboar colonies, these shamans are the voice of Agamaggan within a colony and their word is respected by all, and they are often close advisors of a colony's chieftain. In some colonies, the word of a thornweaver is placed above that of its cheiftain and on rare occasions a thornweaver replaces a chieftain.
+The wise thornweavers are core to most quilboar colonies, these shamans are the voice of Agamaggan within a colony and their word is respected by all, and they are often close advisors of a colony's chieftain. In some colonies, the word of a thornweaver is placed above that of its chieftain and on rare occasions a thornweaver replaces a chieftain.
 
 ### Quilboar Chieftain
 A quilboar chieftain rules over each colony, in most cases a quilboar became chieftain by overthrowing the colony's previous leader. They are surrounded by wise thornweavers and under rare circumstances a chieftain has one or more battleguards under their command. These brutish quil&shy;boars are the honor guards of a chieftain, and oversee the colony in the chieftains absence.
@@ -4798,7 +4798,7 @@ ___
 >
 > ***Vengeance.*** The quilboar can make an opportunity attack with disadvantage against a target within range when another quilboar that it can see or hear dies.
 >
-> ***Spellcasting.*** The quilboar is a 3rd-level spellcaster. Its spellcasting ability iss Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
+> ***Spellcasting.*** The quilboar is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 >
 > Cantrips (at will): *resistance, shillelagh, thorn whip*
 > <br> 1st level (4 slots): *cure wounds, faerie fire, sleep*
@@ -4822,7 +4822,7 @@ ___
 <div style='margin-top:300px;'></div>
 
 > ##### Variant: Quilboar Battleguard
-> A quilboar battleguard has a challenge rating of 4 (1,100 XP). It has the same statistics as a quilboar chieftain except it gains the following special abilities, and loses the Leadership action.
+> A quilboar battleguard has a challenge rating of 4 (1,100 XP). It has the same statistics as a quilboar chieftain, except it gains the following special abilities and loses the Leadership action.
 >
 > ***Charge.*** If the quilboar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 5 (2d4) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 >
@@ -4862,7 +4862,7 @@ ___
 >
 > ***Tusk.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) slashing damage.
 >
-> ***Battleaxe.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands to make a melee attack..
+> ***Battleaxe.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands to make a melee attack.
 >
 > ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the quilboar can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its rolls provided it can hear and understand the quilboar. A creature can benefit from only one Leadership die at a time. This effect ends if the quilboar is incapacitated.
 >
@@ -4946,7 +4946,7 @@ ___
 > ***Stunning Screech (1/day).*** The ravager emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a ravager must succeed on a DC 14 Constitution saving throw or be stunned until the end of the ravager's next turn.
 >
 > ### Reactions
-> ***Brood's Protection.*** When a creature the ravager can see targets it with an attack, the ravager can choose another ravager within 5 feet of it. The chosen ravager uses its reaction to protect the brood mother, and becomes the target instead.
+> ***Brood's Protection.*** When a creature the ravager can see targets it with an attack, the ravager can choose another ravager within 5 feet of it. The chosen ravager uses its reaction to protect the brood mother, becoming the new target of the attack.
 
 \columnbreak
 
@@ -4982,7 +4982,7 @@ ___
 <div style='margin-top:90px;'></div>
 
 ## Sabercats
-Sabercats are cunning felines that prowl across <br> Azeroth in their hunt for prey. These large proud, and magnificent felines have become a companion of many adventurers, and been the demise of even more. <br> They are intelligent and loyal when domesticated, <br> but feral and quite aggressive when left in their <br> natural environments.
+Sabercats are cunning felines that prowl across <br> Azeroth in their hunt for prey. These large proud, and magnificent felines have become a companion of many adventurers, and the demise of even more. <br> They are intelligent and loyal when domesticated, <br> but feral and quite aggressive when left in their <br> natural environments.
 
 ***Stalkers of Azeroth.*** Sabercats are found in many regions of Azeroth, but the vast majority of their kind can be found upon Kalimdor. The feline creatures have each adjusted to their various climate, sprouting pelts to help them blend in, and adapting to their surroundings. 
 
@@ -4993,7 +4993,7 @@ Many species of sabercats exist, each having adapted <br> to their climate diffe
 ***Fierce Companion.*** Night elves have bred and trained sabercats as mounts and companions for war through the ages, the trained sabercats are always exclusively night&shy;sabers but exceptions have been made. Once domesticated or fully trained from a cub, these beasts are loyal to a fault and make for a life-long companion.
 
 ### Manasaber
-A manasaber is a magically infused sabercat, these beasts have been locked away with the decaying highbornes of Suramar for thousands of years, slowly mutation through generations into creatures infused with arcane energy. Manasabers take the appearance of slender sabercats with magical runes of power dimly glowing across their pelt.
+A manasaber is a magically infused sabercat, these beasts have been locked away with the decaying Highborne of Suramar for thousands of years, slowly mutation through generations into creatures infused with arcane energy. Manasabers take the appearance of slender sabercats with magical runes of power dimly glowing across their pelt.
 
 Most manasabers are domesticated having been trapped in close proximity with night elves for thousands of years, but feral manasabers still exist.
 
@@ -5130,23 +5130,23 @@ ___
 <div style='margin-top:150px;'></div>
 
 ## Satyrs
-An ancient curse afflicted a highborne sorcerer, destroying and remaking him as the very first satyr. These demonic beings were once night elves of the kaldorei empire, but little of that heritage is left in the demonic bodies of the satyrs and now these creatures carry a hatred towards all.
+An ancient curse afflicted a Highborne sorcerer, destroying and remaking him as the very first satyr. These demonic beings were once night elves of the kaldorei empire, but little of that heritage is left in the demonic bodies of the satyrs and now these creatures carry a hatred towards all.
 
 ***Cursed Affliction.*** During the War of the Ancients, the Highborne sorcerer Xavius was tasked with opening the portal that connect the Twisting Nether and Azeroth, a task he failed in accomplishing and his disembodied spirit tortured as punishment by Sargaras. Yet the creator of the Burning Legion saw use in Xavius still and created him a new body, the first satyr in existence.
 
 Xavius was sent back to Azeroth to spread his cursed existence to the Kaldorei Empire, twisting and reshaping night elves into the demonic satyr race. Like Xavius, all satyrs have the ability to pass on their curse and the curse have continued to spread through the ages, although the curse has weakened over time and become less effective.
 
-***A Burning Hatred.*** Satyrs are creatures of hatred, they were created out of hate and carry on that quality from their creator. Satyrs have a burning hatred for all other living creatures and especially their night elven kin. They are immediately hostile towards outsiders and attempts to manipulate or corrupt them if possible.
+***A Burning Hatred.*** Satyrs are creatures of hatred; they were created out of hate and carry on that quality from their creator. Satyrs have a burning hatred for all other living creatures and especially their night elven kin. They are immediately hostile towards outsiders and attempts to manipulate or corrupt them if possible.
 
 ***Tainted Magic.*** These demonic creatures corrupt the land they walk on and drain its magic as if they were wielding the powers of fel directly. They feed off its purity, leeching and corrupting. The magic they drain is stored in their hooves; the satyr that has drawn the most magic are distinguished by their swollen, uncloven hooves.
 
 ***Frightful Fighters.*** Satyrs are not known for being an organized enemy with a strategy for battle. They live in smaller sects found in more remote regions of Azeroth. When the sentry sounds danger, every satyr in the sect is quick to throw themselves into battle without worrying for their own lives. They act like a horde of demons without a commander whose orders to follow. 
 
 ### Satyr Trickster
-Some satyr show a certain penchant for painful traps and ambushing their target, these satyrs are called tricksters. They revere and mimic their Lord, Xavius' abilities of manipulation, and take a more subtle approach when the horn of battle is sound, sneaking up on their enemies and stabbing them in the back in an attempt to take out the strongest target of the assault.
+Some satyrs show a certain penchant for painful traps and ambushing their target, these satyrs are called tricksters. They revere and mimic their Lord, Xavius' abilities of manipulation, and take a more subtle approach when the horn of battle is sound, sneaking up on their enemies and stabbing them in the back in an attempt to take out the strongest target of the assault.
 
 ### Satyr Hellcaller
-A satyr hellcaller is a spellcastered skilled in fielding the chaotic fel of the Burning Legion. Rather than summoning demons of the Legion, these warlocks manipulate the entropic fire of fel itself. They are larger and more imposing than a common satyr because of magic they have drained from the land.
+A satyr hellcaller is a spellcaster skilled in fielding the chaotic fel of the Burning Legion. Rather than summoning demons of the Legion, these warlocks manipulate the entropic fire of fel itself. They are larger and more imposing than a common satyr because of magic they have drained from the land.
 
 
 \columnbreak
@@ -5371,7 +5371,7 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) piercing damage.
 >
-> ***Stone Form.*** The gargoyle turns itself to stone making it indistinguishable from an inanimate statue. While it is turned this way the gargoyle can't take any actions or move, and regains 5 hit points at the end of each of its turns. The gargoyle can turn itself into flesh using its bonus action.
+> ***Stone Form.*** The gargoyle turns itself to stone making it indistinguishable from an inanimate statue. While it is turned this way, the gargoyle can't take any actions or move, and regains 5 hit points at the end of each of its turns. The gargoyle can turn itself into flesh using its bonus action.
 
 \columnbreak
 
@@ -5401,7 +5401,7 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
 >
-> ***Cannibalize (Recharge after a Short or Long Rest).*** The ghoul cannibalizes the corpse of a humanoid that has been dead for less than a day, regaining 10 hit points. Each creature of the ghoul's choice that is within 30 feet of the ghoul and can see it must succeed on a DC 12 Wisdom saving throw or become frigthened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's save is successful or the effect ends for it, the creature is immune to any ghoul's cannibalize for the next 24 hours.
+> ***Cannibalize (Recharge after a Short or Long Rest).*** The ghoul cannibalizes the corpse of a humanoid that has been dead for less than a day, regaining 10 hit points. Each creature of the ghoul's choice that is within 30 feet of the ghoul and can see it must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's save is successful or the effect ends for it, the creature is immune to any ghoul's cannibalize for the next 24 hours.
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SCOURGE </div>
@@ -5432,7 +5432,7 @@ ___
 > - **Languages** understands the languages it knew in life  but can't speak
 > - **Challenge** 1/4 (50 XP)
 > ___
-> ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 +the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point in stead.
+> ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 +the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 >
 > ### Actions
 > ***Slam.*** *Melee Weapon Attack*: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.
@@ -5481,9 +5481,9 @@ ___
 <div style='margin-top:360px;'></div>
 
 ## Shale Spider
-Shale spiders are durable diggers native to the elemental plane of Deepholm. It is the large stone spiders tenacity and ferocity that makes other creatures fear them, even if they are harmed or pushed away they will come back until someone has truly destroyed them.
+Shale spiders are durable diggers native to the elemental plane of Deepholm. It is the large stone spider’s tenacity and ferocity that makes other creatures fear them, even if they are harmed or pushed away, they will come back until someone has truly destroyed them.
 
-***Stone Nuisance.*** The stone spiders often find their way out of the elemental plane of earth and into Azeroth, at first the spiders are more playful than anything but their playful nature quickly changes as they get accustomed to their surroundings and gain their predatorial nature.
+***Stone Nuisance.*** The stone spiders often find their way out of the elemental plane of earth and into Azeroth, at first the spiders are more playful than anything, but their playful nature quickly changes as they get accustomed to their surroundings and gain their predatorial nature.
 
 ***Swarmers.*** Shale spiders are never alone, the earth is their family and the elemental spiders always has others nearby. They are notorious swarmers that work together to take down their prey.
 
@@ -5498,7 +5498,7 @@ Shale spiders are durable diggers native to the elemental plane of Deepholm. It 
 >
 > <br> The lava spider replaces the shale's action options has the following action options:
 >
-> <br>&nbsp;&nbsp;&nbsp; ***Multiattack.*** The spider makes ones bite attack and <br>&nbsp;&nbsp;&nbsp; uses its Spit Fire.
+> <br>&nbsp;&nbsp;&nbsp; ***Multiattack.*** The spider makes one bite attack and <br>&nbsp;&nbsp;&nbsp; uses its Spit Fire.
 >
 > <br>&nbsp;&nbsp;&nbsp; ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., <br>&nbsp;&nbsp;&nbsp; one target. *Hit:* 6 (1d8 + 2) piercing damage, plus <br>&nbsp;&nbsp;&nbsp; 3 (1d6) fire damage.
 >
@@ -5534,7 +5534,7 @@ ___
 > ***Immutable Form.*** The shredder is immune to any spell or effect that would alter its form.
 >
 > ### Actions
-> ***Multiattack.*** The shredder makes two attacks:one with its claw and one with its sawblade
+> ***Multiattack.*** The shredder makes two attacks: one with its claw and one with its sawblade
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the shredder can't use its claw against another target. 
 >
@@ -5554,7 +5554,7 @@ ___
 >
 > While piloted, the shredders Intelligence, Wisdom, and Charisma scores are exchanged with those of the pilot. A piloted shredder uses the initiative of its pilot. The pilot must use its action, reaction, and movement to use the machines action options or force it to move to a new location. While a creature is crewing the shredder, it is considered to have three-quarters cover against any attack made against it from the ground.
 >
-> Taking control of an **autopiloted** shredder requires a successful DC 14 Tinker's Tool Intelligence check. On a successful save, the creature takes control of the shredder until the end of the creature's next turn. At which point the shredders failsafes returns, requiring a new save to temporarily take control of it.
+> Taking control of an **autopiloted** shredder requires a successful DC 14 Tinker's Tool Intelligence check. On a successful save, the creature takes control of the shredder until the end of the creature's next turn. At which point the shredder’s  failsafe mechanisms return, requiring a new save to temporarily take control of it.
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SHREDDER </div>
@@ -5705,7 +5705,7 @@ ___
 
 ___
 ___
-> ## Silirhid Colossus
+> ## Silithid Colossus
 >*Huge beast, unaligned*
 > ___
 > - **Armor Class** 17 (natural armor)
@@ -5773,7 +5773,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, poison
 > - **Senses** darkvision 60 ft., passive Perception 9
-> - **Languages** understands all lanauges it knew in life but can't speak
+> - **Languages** understands all languages it knew in life but can't speak
 > - **Challenge** 1/4 (50 XP)
 > ___
 >
@@ -5834,17 +5834,17 @@ ___
 *— The Explorers' League's Treatise on Troggs* &nbsp;</div>
 <div style='margin-top:-5px'></div>
 
-Troggs are savage creatures, powerfully built with long, muscular arms and muscles that appear carved from stone. They grow thick, coarse beards in colours resembling chalk or granite, and it is not rare to see minerals outright growing on their flesh. Their slouched posture and burly proportions have many characterizing them as apelike troglodytes.
+Troggs are savage creatures, powerfully built with long, muscular arms and muscles that appear carved from stone. They grow thick, coarse beards in colors resembling chalk or granite, and it is not rare to see minerals outright growing on their flesh. Their slouched posture and burly proportions have many characterizing them as apelike troglodytes.
 
 ***Titanic origins.*** After the titanic Keepers had ended their war with the Old Gods, they set to work on shaping a new generation of titan-forged creatures within the Titan complex of Ulduar. Regrettably, their initial designs proved far too complex, yielding a race of brutish stone-skinned monstrosities -- troggs. Though the Keepers quickly went to rectify their mistakes, they could not bring themselves to destroy the defect creations. Rather, the titanic Keeper *Ironaya* saw the construction of the vault of Uldaman; a facility that would serve as a stasis chamber for the troggs, with herself as its designated warden.
 
-Over the years, a few small groups managed to break free from Uldaman. Some of these scattered themselves out across the surfaec of Azeroth, while others burrowed their way deeper down to dwell in the subterranean caverns of *Deepholm*. The rest stayed as they were, asleep beneath the earth, until a dwarven excavation unearthed the titanic vault. Once the seal was broken and the troggs awoke, they quickly overpowered the dwarves and swarmed to the surface.
+Over the years, a few small groups managed to break free from Uldaman. Some of these scattered themselves out across the surface of Azeroth, while others burrowed their way deeper down to dwell in the subterranean caverns of *Deepholm*. The rest stayed as they were, asleep beneath the earth, until a dwarven excavation unearthed the titanic vault. Once the seal was broken and the troggs awoke, they quickly overpowered the dwarves and swarmed to the surface.
 
 There, the troggs burrowed their way through every peak and valley across Khaz Modan, including the subterranean gnomish city of Gnomeregan. To this day, trogg tribes can be found in every corner of the dwarven mountains -- with distant cousins across Azeroth, above and beneath the earth.
 
 ***Progenitor race.*** Since the troggs were the initial failed experiment of the titanic Keepers, to flourish new life on Azeroth, their failure became the blueprint for future revised designs -- and ultimately, the *earthen*. A race of stone-carved beings created to help shape and order the subterranean regions of the world during the ordering of Azeroth, of which some later became the creatures since known as dwarves.
 
-Theories have also been floated, mainly by the prominent dwarven explorer Brann Bronzebeard, that the *kobolds* are themselves an evolved offshoot from an early group of troggs. Likely one that early broke free from the titanic vault of Uldaman. There has been no conclusive evidence of this, only theories surrounding their resemblence.
+Theories have also been floated, mainly by the prominent dwarven explorer Brann Bronzebeard, that the *kobolds* are themselves an evolved offshoot from an early group of troggs. Likely one that early broke free from the titanic vault of Uldaman. There has been no conclusive evidence of this, only theories surrounding their resemblance.
 
 ***Primitive and fierce.*** Troggs are best known for their stature, ferocity, and smell -- said to resemble a mixture of mold, mange, and sour monkey. Living together in tight-knit tribes and clans, their main driving force is an imposing psyche and impressive force of will, though they are not known to be intelligent beyond being sentient. Less so than even an ogre would be considered. They follow the leadership of whoever can prove themselves the biggest and strongest, with aspiring trogg chieftains often going to great lengths to prove their viciousness.
 
@@ -5853,9 +5853,9 @@ Theories have also been floated, mainly by the prominent dwarven explorer Brann 
 
 <div style='margin-top:110px;'></div>
 
-Troggs have are known to eat whatever they can get their hands on; including rocks, or even occasionally other troggs.
+Troggs are known to eat whatever they can get their hands on; including rocks, or even occasionally other troggs.
 
-***Undergound creatures.*** With most of their existence spent underground, troggs are not fond of sunlight. Wherever troggs dwell, a deep network of intertwining tunnels is likely to be somewhere nearby. They do most of their digging by hand, using their jagged claws, and occasionally shape weapons and other tools out of the rocks they excavate. Like the troggs themselves, a trogg dwelling is ill-reputed for is repulsive smell.
+***Underground creatures.*** With most of their existence spent underground, troggs are not fond of sunlight. Wherever troggs dwell, a deep network of intertwining tunnels is likely to be somewhere nearby. They do most of their digging by hand, using their jagged claws, and occasionally shape weapons and other tools out of the rocks they excavate. Like the troggs themselves, a trogg dwelling is ill-reputed for is repulsive smell.
 
 ### Trogg Names and Language
 
@@ -5921,7 +5921,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|15 (+2)|6 (-2)|10 (+0)|6 (-2)|
 >___
-> - **Senses** darkvision 60 ft., passive Perception 10 
+> - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** —
 > - **Challenge** 2 (450 XP)
 > ___
@@ -5976,7 +5976,7 @@ ___
 > <br>2nd level (3 slots): *lava burst, maximilian's <br>&nbsp;&nbsp;&nbsp; earthen grasp*
 > <br>3rd level (2 slot): *earthen spike, erupting earth*
 >
-> ***Stench.*** Any creature other than a trogg that starts its turn within 5 feet of the trogg must succeed on a DC 12 Constitution savcv or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troggs for 1 hour.
+> ***Stench.*** Any creature other than a trogg that starts its turn within 5 feet of the trogg must succeed on a DC 12 Constitution save or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troggs for 1 hour.
 >
 > ### Actions
 > ***Staff.*** *Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 7 (1d8 + 2) bludgeoning damage if used with two hands to make a melee attack.
@@ -6025,7 +6025,7 @@ ___
 <div style='margin-top:50px;'></div>
 
 ## Trolls
-Over ten thousands years ago, the trolls were divided and scattered across Kalimdors face as they established a new identity for themselves and became a diverse race that could be found in every part of Azeroth. They were one of the first native races of the world and all descendant of their mighty forefathers, the Zandalari.
+Over ten thousand years ago, the trolls were divided and scattered across the face of Azeroth, as they established a new identity for themselves and became one of the most diverse races on the planet. They were one of the first native races of the world and all descendant of their mighty forefathers; the Zandalari.
 
 ***Tribal Preference.*** The trolls have always been a tribal race that isolated themselves and settled in the land to start anew. Many trolls believe that they owe no loyalty towards anyone but those of their own tribe. The tribe is their family and trolls will go to extreme lengths to protect their home.
 
@@ -6035,15 +6035,15 @@ Racial tension between troll tribes have always been there but they tribes are o
 
 ***Outside Hostility.*** Trolls are very isolated beings <br> that settle in remote regions where they can be <br> left alone and be out of reach from other <br> races of the world. But they are also very territorial and will retaliate with fierce force and numbers if their borders are threatened. Because of their isolation few trolls speak the common tongue or any of the languages of the races that have settled themselves around them.
 
-***Loa's Guidance.*** Trolls carry a deep devotion towards dark spirits and primal, animalistic gods known as Loa. Countless loas exist, most are weak, shapeless spirits that only the trolls can sense, whereas others have animal form. Troll societies make up loas of their own, families worship a family loa, cities might have their own civic deties, and great loas are worshipped by nations as a whole.
+***Loa's Guidance.*** Trolls carry a deep devotion towards dark spirits and primal, animalistic gods known as Loa. Countless Loa exist, most are weak, shapeless spirits that only the trolls can sense, whereas others have animal form. Troll societies make up Loa of their own, families worship a family Loa, cities might have their own civic deities, and great loas are worshipped by nations as a whole.
 
 ***Regeneration.*** Smashing a troll's bones and slashing through its rubbery hide only makes them angry. A troll's wounds close at extraordinary speed. Only through acid or fire can a creature arrest their regenerative properties. Although their natural regeneration is only capable of healing so much and once the heart pumps its last there's no way for it to retaliate.
 
 ### Troll Headhunter
-A troll headhunter is specialized in tracking pray and tossing their spear from great distances. These trolls are able trackers and formidable hunters who take on trophies of their fallen opponents in the form of fingers, ears, or other body part that is easily cut off to show of their prowess to the tribe and strike fear in the enemies.
+A troll headhunter is specialized in tracking pray and tossing their spear from great distances. These trolls are able trackers and formidable hunters who take on trophies of their fallen opponents in the form of fingers, ears, or other body part that is easily cut off to show off their prowess to the tribe and strike fear in the enemies.
 
 ### Troll Berserker
-Strength have always been an important part of a tribes survival, they need to be stronger than their enemy to survive. To a troll berserker, strength is everything. These brutish trolls toss their weapons at their enemies as they call out a war cry and sprint into the fray, recklessly swinging their axes around without a care.
+Strength have always been an important part of a tribe’s survival, they need to be stronger than their enemy to survive. To a troll berserker, strength is everything. These brutish trolls toss their weapons at their enemies as they call out a war cry and sprint into the fray, recklessly swinging their axes around without a care.
 
 \columnbreak
 
@@ -6093,7 +6093,7 @@ A troll witch doctor is seen as the spiritual leader of a tribe and a close advi
 They are also known for being dastardly alchemists who knows no limits when it comes to creating magical concoctions or fumes that will bolster ones physique or give visions of something that may, or may not, be true.
 
 ### Dire Troll
-Dire trolls are strikingly large trolls that tower above the heads of their brethren. These trolls use their immense strength to toss boulders, or enemies, across the battlefield. There is not definitive say behind their size and strength. Some are elevated through alchemical or magical means, others might simply have evolved beyond the rest of their tribe. Whatever the case might be, dire trolls are seen as proud and honorable creatures amongst trolls.
+Dire trolls are strikingly large trolls that tower above the heads of their brethren. These trolls use their immense strength to toss boulders, or enemies, across the battlefield. There is not definitive say behind their size and strength. Some are elevated through alchemical or magical means, while others may simply have evolved beyond the rest of their tribe. Whatever the case might be, dire trolls are seen as proud and honorable creatures amongst trolls.
 
 ___
 > ## Troll Berserker
@@ -6150,7 +6150,7 @@ ___
 >
 > ***Regeneration.*** The troll regains 5 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies if it starts its turn with 0 hit points.
 >
-> ***Spellcasting.*** The troll is a 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The troll has the following priest and shaman spells prepared:
+> ***Spellcasting.*** The troll is an 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The troll has the following priest and shaman spells prepared:
 >
 > Cantrips (at will): *light, shocking grasp, spare the <br>&nbsp;&nbsp;&nbsp; dying, toll the dead*
 > <br> 1st level (4 slots): *absorb elements, inflict wounds, <br>&nbsp;&nbsp;&nbsp; thunderwave*
@@ -6247,7 +6247,7 @@ ___
 > ### Actions
 > ***Gore.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit* 28 (4d10 + 6) piercing damage.
 >
-> ***Devour.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 6) piercing damage. A Medium or smaller target, must succeed on a DC 15 Dexterity saving throw or swallowed by the lizard. The lizard can only have one target swallowed at a time. If a target fails the saving throw while the lizard has a creature swallowed, it is grappled instead.
+> ***Devour.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 6) piercing damage. A Medium or smaller target must succeed on a DC 15 Dexterity saving throw or swallowed by the lizard. The lizard can only have one target swallowed at a time. If a target fails the saving throw while the lizard has a creature swallowed, it is grappled instead.
 > <br>&nbsp;&nbsp;&nbsp; A swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the lizard, and it takes 10 (3d6) acid damage at the start of each of the lizard's turns. 
 > <br>&nbsp;&nbsp;&nbsp; If the lizard takes 25 damage or more on a single turn from the swallowed creature, the lizard must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the lizard. If the lizard dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.
 >
@@ -6258,11 +6258,11 @@ ___
 <div style='margin-top:440px;'></div>
 
 ## Thunder Lizard
-Few scouts who spot a Thunder Lizard in close proximity are stupid, or brave, enough to engage the beast in an open skirmish. The thick skinned thunder lizard bears a striking resemblance to a kodo, and many have speculated that the beasts are related in one way or another. 
+Few scouts who spot a Thunder Lizard in close proximity are stupid, or brave, enough to engage the beast in an open skirmish. The thick-skinned thunder lizard bears a striking resemblance to a kodo, and many have speculated that the beasts are related in one way or another. 
 
-But that is also where the similarities between the beasts ends, this monstrous kodo is extremely aggressive and persistent when provoked, and wont hesitate to exhale a streak of lightning towards its challenger.
+But that is also where the similarities between the beasts ends, this monstrous kodo is extremely aggressive and persistent when provoked, and won’t hesitate to exhale a streak of lightning towards its challenger.
 
-***Creatures of Myth.*** A thunder lizard is considered a mystical creature by many and are a rare sight, only made rarer by their aggressive nature putting an end to those who don't take appropriate procautions before attempting to get a closer look.
+***Creatures of Myth.*** A thunder lizard is considered a mystical creature by many and are a rare sight, only made rarer by their aggressive nature putting an end to those who don't take appropriate precautions before attempting to get a closer look.
 
 The mighty tauren think of thunder lizards as creatures of legend, believing that the spirits of kodos can be bound by the sky and storm, creating the thundering monsters.
 
@@ -6476,7 +6476,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|14 (+2)|7 (-2)|11 (+0)|10 (+0)|
 >___
-> - **Skills** Perception +4, Survival +2, Sealth +3
+> - **Skills** Perception +4, Survival +2, Stealth +3
 > - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks and weapons <br>that aren't silvered
 > - **Senses** darkvision 60 ft., passive Perception 14
 > - **Languages** Wolf
@@ -6777,7 +6777,7 @@ ___
 > - **Languages** —
 > - **Challenge** 1/2 (100 XP)
 > ___
-> ***Keen Hearing and Smell.*** The darkhoud has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+> ***Keen Hearing and Smell.*** The darkhound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
 > ***Otherworldly Perception.*** The darkhound can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.
 >
@@ -7186,7 +7186,7 @@ ___
 <div style='margin-top:45px;'></div>
 
 > ##### Variant: Giant Deathweb Spider
-> A deathweb spider has a challenge rating of 2 (450 XP). It has the same statistics as a giant spider except that it has Constitution 14, 37 (5d10 + 10) hit points, and replaces the giant spider's bite action option with the following actions. Additionally, the spiders web deals 9 (2d8) acid damage to a creature restained by it at the beginning of the creatures turn.
+> A deathweb spider has a challenge rating of 2 (450 XP). It has the same statistics as a giant spider except that it has Constitution 14, 37 (5d10 + 10) hit points, and replaces the giant spider's bite action option with the following actions. Additionally, the spiders web deals 9 (2d8) acid damage to a creature restrained by it at the beginning of the creatures turn.
 >
 > ***Infected Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8 + 3) piercing damage plus 3 (1d6) acid damage.
 >
@@ -7361,7 +7361,7 @@ ___
 >
 > ***Pack Tactics.*** The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
-> ***Pounce.*** If the lion moves at least 20 feet straight toward a creature and then hits it wit ha claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.
+> ***Pounce.*** If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.
 >
 > ***Running Leap.*** With a 10-foot running start, the lion can jump up to 25 feet.
 >
@@ -7596,7 +7596,7 @@ ___
 >
 > ***Pulverulent Wings (1/day).*** A cloud of thick powder disperses out from the moth in a 5-foot radius. Each creature in that area must make on a DC 11 Constitution saving throw, or be blinded until the end of the moth's next turn on a failed save.
 
-A **skywisp moth** is considered an insignificant beast to most, these curious moths have be found to sometimes interrupting the spells of arcane practitioners that ventured too close to it. 
+A **skywisp moth** is considered an insignificant beast to most, these curious moths have been found to sometimes interrupting the spells of arcane practitioners that ventured too close to it. 
 
 \columnbreak
 
