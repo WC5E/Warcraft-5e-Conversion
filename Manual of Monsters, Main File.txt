@@ -2418,6 +2418,36 @@ ___
 
 ## Ghosts
 
+While most mortal souls eventually find their way to the Shadowlands, the realm of spirits, not all who have died manage to find rest. Some are unwillingly bound to roam the trackless wastes that exist between the Shadowlands and the physical world, appearing in the latter as ghostly apparitions as they search for release from their endless suffering.
+
+***Existing Between Worlds.*** There are many reasons as for why a soul might remain, including curses and deliberate magical entrapment, though most prevalent is a sheer unwillingness to abandon the phyiscal realm for the realm of spirits. A person whose life ended abruptly at the hands of someone else, may be likely to return as a malevolent spectre intent on exacting revenge upon those who did them wrong.
+
+Conversely, other spirits may be unwilling to find rest out of fear for what lies beyond, or for a feeling that their business in life was never properly settled.
+
+***Bitter Resentment.*** It is not uncommon for ghosts, especially those forced to dwell in this state for too long, to grow resentful of the living. Unable to accept their own death and spiteful of those who still live, they often come to foster hatred for warmth, hope, and joy --and the presence of such may well drive them into a murderous frenzy.
+
+### The Shadowlands
+
+Existing since mortal life first walked the universe, the Shadowlands is a realm of existence spanning all known worlds, including Azeroth. Those who have seen it describe it as a nightmarish world of decay, a labyrinth of intertwined spiritual planes all teeming with the souls of the dead.
+
+Many believe this to be the final destination for all mortal souls, into which they are drawn on their point of death and destined to remain forever after, while others choose to hope for their final rest to be brighter -- more pleasant than an eternity languishing such cold and bleak confines.
+
+Within the Shadowlands, time does not pass as it would elsewhere. Sometimes years outside of the Shadowlands may only seem like days within, and conversely sometimes years may pass by in its bleak wastes without a moment passing in the phyiscal realm. While it may sometimes be near impossible to see what lies ahead inside the Shadowlands, it is possible for those within to hear what is happening outside.
+
+It is said that Icecrown, frozen peak of Northrend and citadel of the Scourge, exists as an anchoring bridge between the Shadowlands and the physical world.
+
+Some of the most prominent beings dwelling in the Shadowlands are regarded as patrons of death among various races; such as the troll Loa of death, Bwonsamdi.
+
+<div class='letterheader'></div>
+<div class="mmletter mml-g"></div>
+<div class="pageLetter">G</div>
+<div class='footnote'>GHOSTS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
+
+Also prominent are the Spirit Healers; ascendant Val'kyr who, following the banishment of Helya and the sealing of the Halls of Valor, disappeared into the Shadowlands -- hidden away there, even from the corrupting influence of the Lich King.
+
 ### Ghost Template
 Ghosts are the spectral remnants of intelligent beings who, for one reason or another, cannot rest easily in their graves. A ghost greatly resembles its corporeal form in life, but in some cases the spiritual form is somewhat altered.
 
@@ -2452,9 +2482,23 @@ Using the Hit Points Based on Challenge Rating table, apply the appropriate mult
 |  11-16      | x 0.65 |
 |  17 or more | x 0.8  |
 
-\columnbreak
+<div class="pageLetter">G</div>
+<div class='footnote'>GHOSTS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
-<div style='margin-top:140px;'></div>
+### Apparition
+
+### Banshee
+
+### Shade
+
+### Spectre
+
+### Wisp
+
+### Wraith
+
+\pagebreakNum
 
 ___
 > ## Ghost Spy
@@ -2494,13 +2538,7 @@ Persuasion +5, Stealth +4
 >
 > ***Etherealness.*** The ghost enters the Spirit World from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Spirit World, and vise versa, yet it can't affect or be affected by anything on the other plane.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-g"></div>
-<div class="pageLetter">G</div>
-<div class='footnote'>GHOSTS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Ghost Knight
@@ -2540,7 +2578,11 @@ ___
 > ### Reactions
 > ***Parry.*** The ghost adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 
-\columnbreak
+<div class="pageLetter">G</div>
+<div class='footnote'>GHOSTS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
 
 ___
 > ## Ghost Witch Doctor
@@ -2582,11 +2624,7 @@ ___
 >
 > ***Quarterstaff.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft, one target. *Hit:* 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands to make a melee attack.
 
-<div class="pageLetter">G</div>
-<div class='footnote'>GHOSTS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Apparition
