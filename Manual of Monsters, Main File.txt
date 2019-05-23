@@ -2302,11 +2302,21 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:300px;'></div>
+
 ## Fleshbeast
 
 Though the exact origin of these monstrous aberrations is unknown, the theories are many. Some even going so far as to claim them a product of the Twisting Nether itself, pulled from there onto other worlds.
 
-Slavering, hungering beasts, the best way to describe the fleshbeasts are plainly as creatures of nightmare. They are a decidedly mindless, parasitic strain of critters with a wormlike brood that they hatch in the carcasses of their prey.
+***Nightmare Made Flesh.*** Slavering, hungering monstrosities, the best way to describe the terrifying fleshbeasts are plainly as creatures of nightmare. As evidenced both on Azeroth and beyond, appear to tail along experiments attempting to tap into the powers of the Twisting Nether, using them as rifts through which they can travel.
+
+***Parasitic Brood.*** Fleshbeasts are decidedly mindless, acting entirely on instinct. They hunt by flocking together in large swarms, overpowering their prey and consuming it while it is still alive. Even after the fleshbeast has had its fill, most of the victim will still be left behind intact -- a perfect nesting ground for their wormlike spawn, who will later devour the remains as they hatch.
+
+Other predators attempting to scavenge remains left behind by a fleshbeast will most likely be infected as well, and later eventually devoured by the hatchlings.
+
+\columnbreak
+
+<div style='margin-top:296px;'></div>
 
 ___
 > ## Fleshbeast
