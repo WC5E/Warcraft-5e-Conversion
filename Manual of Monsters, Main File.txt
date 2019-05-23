@@ -994,7 +994,7 @@ A basilisk has an insatiable hunger for such crystals and it is not uncommon to 
 
 \pagebreakNum
 
-## Bog beasts
+## Bog Beasts
 A bog beast is a massive, shambling monster made of plants, roots, and flesh that inhabit the waters of bogs and swamps. These massive plants hide beneath the water surface, disguising themselves as thick vegetation atop the waters surface, patiently waiting for unaware adventures to pass by so that their day can be turned around.
 
 ***Creatures of Mystery.*** Bog beasts are frightful crea&shy;tures, but they are also incredibly secretive. The hulking swamp lurkers have always avoided the gaze of scholars wishing to study them, hiding beneath the surfaces of water until they give up or come close enough to meet a swift end. Studying the beasts is only made harder because of their aggressive nature and territorial way of life.
@@ -1022,7 +1022,7 @@ Few travelers ever see a tar beast unless they somehow anger the monster, in whi
 <div class="pageLetter">B</div>
 <div class='footnote'>BOG BEASTS </div>
 <img src='https://www.gmbinder.com/images/mwRXhNd.jpg' style='position:absolute; top:0px; right:-125px; width:700px' />
-<img src='https://www.gmbinder.com/images/GyD06WI.png' style='position:absolute; top:0px; right:-25px; width:900px' />
+<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-25px; width:900px' />
 
 \pagebreakNum
 
@@ -1597,7 +1597,7 @@ ___
 <div class="pageLetter">D</div>
 <div class='footnote'>DINOSAURS </div>
 <img src='https://www.gmbinder.com/images/din7hXr.jpg' style='position:absolute; top:0px; right:-750px; width:2020px' />
-<img src='https://www.gmbinder.com/images/GyD06WI.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-25px; width:900px' />
 
 \pagebreakNum
 
@@ -1723,7 +1723,7 @@ ___
 <div class="pageLetter">D</div>
 <div class='footnote'>DUST DEVIL </div>
 <img src='https://www.gmbinder.com/images/lYw5KvN.png' style='position:absolute; top:0px; right:-350px; width:920px' />
-<img src='https://www.gmbinder.com/images/GyD06WI.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-25px; width:900px' />
 
 \pagebreakNum
 
@@ -2243,7 +2243,7 @@ Zoatroids have found a second home in the ranks of the naga's and while their se
 <div class="pageLetter">F</div>
 <div class='footnote'>FACELESS ONES </div>
 <img src='https://www.gmbinder.com/images/csVRe6C.png' style='position:absolute; top:0px; right:-310px; width:850px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/GyD06WI.png' style='position:absolute; top:0px; right:-20px; width:900px' />
+<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-25px; width:900px' />
 
 \pagebreakNum
 
@@ -3484,7 +3484,7 @@ ___
 <div class='footnote'>LASHERS </div>
 <img src='https://i.redd.it/8remvd0llcm21.png' style='position:absolute; top:0px; right:-200px; width:700px' />
 <img src='https://www.gmbinder.com/images/gF3cPUL.png' style='position:absolute; top:200px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/GyD06WI.png' style='position:absolute; top:0px; right:0px; width:850px' />
+<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-25px; width:900px' />
 
 \pagebreakNum
 
