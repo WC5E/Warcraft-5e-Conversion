@@ -2306,11 +2306,11 @@ ___
 
 ## Fleshbeast
 
-Though the exact origin of these monstrous aberrations is unknown, the theories are many. Some even going so far as to claim them a product of the Twisting Nether itself, pulled from there onto other worlds.
+Though the exact origin of these monstrous aberrations is unknown, the theories are many. Some even go so far as to claim them a product of the Twisting Nether itself, pulled from there onto other worlds.
 
-***Nightmare Made Flesh.*** Slavering, hungering monstrosities, the best way to describe the terrifying fleshbeasts are plainly as creatures of nightmare. As evidenced both on Azeroth and beyond, appear to tail along experiments attempting to tap into the powers of the Twisting Nether, using them as rifts through which they can travel.
+***Nightmare Made Flesh.*** Slavering, hungering monstrosities, the best way to describe the terrifying fleshbeasts are plainly as creatures of nightmare. Their presence has been witnessed both on Azeroth and beyond, as they appear to tail along on magical experiments that try to exploit the powers of the Twisting Nether, effectively using them as rifts through which they can travel between worlds.
 
-***Parasitic Brood.*** Fleshbeasts are decidedly mindless, acting entirely on instinct. They hunt by flocking together in large swarms, overpowering their prey and consuming it while it is still alive. Even after the fleshbeast has had its fill, most of the victim will still be left behind intact -- a perfect nesting ground for their wormlike spawn, who will later devour the remains as they hatch.
+***Parasitic Brood.*** Fleshbeasts are decidedly mindless, acting entirely on instinct. They hunt by flocking together in large swarms, overpowering their prey and consuming it, sometimes while it is still alive. Even after the fleshbeast has had its fill, most of the victim will still be left behind intact -- a perfect nesting ground for their wormlike spawn, who will later devour the remains as they hatch.
 
 Other predators attempting to scavenge remains left behind by a fleshbeast will most likely be infected as well, and later eventually devoured by the hatchlings.
 
