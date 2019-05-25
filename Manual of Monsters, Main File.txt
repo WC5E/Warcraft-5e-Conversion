@@ -1299,7 +1299,19 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:260px;'></div>
+<div style='margin-top:140px;'></div>
+
+### Centaur Earthcaller
+Though the centaur follow a shamanistic faith, their rites and rituals are unqiue; given their heritage as children of the elemental princess Theradras. Earthcallers are commonly female centaurs, acting as shamans of their tribes as they wield the power to rain elemental earth upon their foes.
+
+\columnbreak
+
+<div style='margin-top:140px;'></div>
+
+### Centaur Khan
+At the heart of each centaur tribe is the khan, who acts as leader both for their great intelligence and their unmatched ferocity. Rage and savagery are key to the centaur khans, allowing them to lead their tribe into battle as a fearless commander without equal.
+
+<div style='margin-top:18px;'></div>
 
 ___
 > ## Centaur Earthcaller
@@ -1337,10 +1349,20 @@ ___
 > ### Reactions
 > ***Earthen Shield (3/Day).*** When a creature makes an attack against another creature within 15 feet of the centaur, the centaur can give all attacks against that creature disadvantage until the start of its next turn.
 
-\columnbreak
+<div class='letterheader'></div>
+<div class="mmletter mml-c"></div>
+<div class="pageLetter">C</div>
+<div class='footnote'>CENTAURS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://i.imgur.com/4ubAW6p.jpg' style='position:absolute; bottom:0px; right:0px; width:950px' />
+<img src='https://i.imgur.com/9eelPmO.png' style='position:absolute; top:-30px; right:0px; width:900px; transform:rotate(-180deg);' />
+<img src='https://i.imgur.com/WIcGO7u.png' style='position:absolute; bottom:-90px; left:134px; width:300px; z-index:100;' />
 
-<div style='margin-top:300px;'></div>
+\pagebreakNum
 
+<div style='position:absolute; bottom:64px; right:1.7cm; left:1.7cm; margin-top:1200px;'>
+
+___
 ___
 > ## Centaur Khan
 >*Large monstrosity, chaotic evil*
@@ -1374,6 +1396,8 @@ ___
 > ***Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15 (3d6 + 5) bludgeoning damage.
 >
 > ***War Cry (1/Day).*** Each creature of the centaurs choice within 30 feet of it that can hear it gains advantage on attack rolls until the start of the centaurs next turn. The centaur then makes a melee weapon attack as a bonus action.
+
+</div>
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
