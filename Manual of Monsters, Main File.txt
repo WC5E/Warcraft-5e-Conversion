@@ -3653,11 +3653,11 @@ ___
 
 \pagebreakNum
 
-## Leper Gnome
+<div style='margin-top:380px;'></div>
 
 ___
 > ## Leper Gnome
->*Small humanoid (gnome), chaotic neutral*
+>*Small humanoid (gnome), chaotic evil*
 > ___
 > - **Armor Class** 11
 > - **Hit Points** 9 (2d6 + 2)
@@ -3686,24 +3686,32 @@ ___
 
 \columnbreak
 
-> ##### Radiation Sickness
-> This disease affects humanoids and beasts, and spreads quickly to other unaffected creatures once it has taken hold. It contaminates the mind and body of the affected creature, and follows after it in a thick cloud of miasma.
-> 
-> When a creature comes in direct contact with a radiation source, such as touching radiated fallout, drinking radiated water, or being bitten by a radiated creature, or if a creature spends an hour in an area contaminated by the radiation, the creature must succeed on a DC 11 Constitution saving throw or become infected.
-> 
-> It takes 1d4 days for the sickness to manifest symptoms in an infected creature. Once it does, the creature starts to take on a sickly appearance, with sickly green abscesses spreading across the characters skin.
+## Leper Gnome
+Beneath the snow capped mountains of Dun Morogh lies the halls of Gnomeregan. It was once the capitol of the gnomes, but now its irradiated halls are home only to troggs and the crazed gnomes who survived the culling radiation of their once remarkable capitol.
+
+Leper gnomes are gnomes contaminated by the toxic radiation of Gnomeregan. It has turned their skin a sickly green and dotted with abscesses that burst at the smallest strain they exert.
+
+***A Necessary Sacrifice.*** When the gnomish capitol of Gnomeregan was invaded by hordes of troggs, the High Tinker ordered to cull the city and drive the troggs back by using the radiative waste previously contained within the machines of the city. Many more gnomes were killed than troggs when Gnomeregan was flooded by radiation.
+
+Even worse, though, the gnomes who survived was horribly mutated and driven to madness by the radiation that sept into the city, changing them into what are now know as leper gnomes.
+
+***Insane and Hostile.*** Fractious in groups and individually weak, most leper gnomes continue life in the poisonous halls of their city. Their minds are left crazed by the toxic fumes and have given them a tendency toward paranoia for the troggs which they now share the vast city with. They are hostile towards all intruder who dare enter their city, believing them to be trogg invaders or at best allied with the troggs themselves. Many of the leper gnomes know nothing else than the constant fear of troggs invading, and the few remaining survivors of the culling have lost their minds and memories of any other life.
+
+***Mutated Creatures.*** The radiation has fundamentally altered the leper gnomes into something else and so far no cure to know to counteract the effect on them. The longer a leper gnome spend near radiation the more their body becomes a twisted and devolved. They continue to devolve further until they become mindless puddles of toxic sludge.
+
+> ##### Radiation Disease
+> When an uninfected creature comes into contact with a source of radiation, such as contaminated water—being bitten by an infected creature, or for every hour spent in an area of high radiation—the creature must succeed on a DC 11 a Constitution saving throw or contract the radiation disease.
 >
-> At the end of each long rest, an infected creature must make a DC 10 Constitution saving throw. The saving throw DC increases by 2 for each consecutive success, before resetting once the creature fails the save.
+> It takes 1d4 days for the disease to manifest. As it does the creature's skin gains a sickly green tint and abscesses start to spread across its surface. At the end of that period, the creature gains advantage on saving throws against poison and gains resistance against poison damage. The creature also has disadvantage on all Strength and Dexterity ability checks, and weapon attack rolls.
 >
-> On a failed saving throw, the creature gains one level of exhaustion, up to a maximum of four levels of exhaustion before it stops increasing. As the exhaustion builds, the creature's skin turns increasingly green and calloused.
+> Creatures who have carried the radiation disease for more than two weeks have their skin turn entirely green. The creature also no longer suffers from dis&shy;advantage on their ability checks or weapon attacks, and instead gain an indefinite madness. As described in the 5th Edition *Dungeon Master's Guide*.
 >
-> Once the creature reaches four levels of exhaustion, it gains one randomly determined *indefinite madness*, as described in the 5th Edition *Dungeon Master's Guide*, and the Miasma feature until cured.
->
-> The radiation sickness can be cured by spells such as *lesser restoration* or *heal*.
+> The radiation symptoms can be cured by spells such as *lesser restoration*. Once the disease has manifest, however, more powerful magic such as *greater restoration* or *heal* is required.
 
 <div class="pageLetter">L</div>
 <div class='footnote'>LEPER GNOME </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/l0q9dDf.jpg' style='position:absolute; top:15px; right:370px; width:480px;mix-blend-mode:darken;transform:scalex(-1)' />
 
 \pagebreakNum
 
