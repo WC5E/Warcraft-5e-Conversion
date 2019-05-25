@@ -1994,21 +1994,33 @@ Carrying out the bidding of the Elemental Lords are their lieutenants. While now
 
 ***Elemental Nature.*** A elemental doesn't require air, food, drink, or sleep.
 
+<div class='letterheader'></div>
+<div class="mmletter mml-e"></div>
+<div class="pageLetter">E</div>
+<div class='footnote'>ELEMENTALS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
 
 ### Air Elemental
 
+Taking form as a swirling storm, or a billowing cloud given faint humanoid shape, an air elemental holds command of wind and weather. Fast and silent, it strikes out by enveloping its foes in a blinding whirlwind to seize the upper hand.
+
 ### Earth Elemental
+
+Near indistinguishable from rocks if standing still, an earth elemental is as hardy and steadfast as the element it embodies. It burrows through the ground with utmost ease, and faces its opponents head-on if engaged.
 
 ### Fire Elemental
 
+A fire elemental manifests as a smoldering pillar of unwavering destruction. While susceptible to water, it is a cunning presence that will often attempt to overwhelm and outright engulf those who try to stand in its way.
+
 ### Ice Elemental
+
+Manifest from frozen water, ice elementals share domain and allegiance with other water elementals. It moves unhindered through the icy reaches in which it dwells, and is very quick to enrage at the sight of fire wielded in its vicinity.
 
 ### Water Elemental
 
-
-\columnbreak
-
-<div style='margin-top:150px;'></div>
+A favoured companion among mages, human mages in particular, a water elemental is near impossible to discern while underwater. If able, it often attempts to deal with threats by luring them along into the water -- and from there, drag them along into the murky depths.
 
 > ##### Variant: Elemental Revenant
 > An elemental revenant is a furious elemental being that has manifested itself with a crude suit of armor for protection. 
@@ -2017,9 +2029,7 @@ Carrying out the bidding of the Elemental Lords are their lieutenants. While now
 >
 > ***Maul.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d12 + 5) damage of the elemental's type.
 
-
-
-
+\columnbreak
 
 ___
 > ## Air Elemental
@@ -2051,8 +2061,6 @@ ___
 > ***Whirlwind (Recharge 4-6).*** Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up to 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) blud&shy;geoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
 > <br>&nbsp;&nbsp;&nbsp; If the save is successful, the target takes half the damage and isn't flung away or knocked prone.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-e"></div>
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
