@@ -744,7 +744,7 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 
 \pagebreakNum
 
-<div style='margin-top:420px;'></div>
+<div style='margin-top:414px;'></div>
 
 ___
 > ## Ancient Protector
@@ -782,31 +782,31 @@ ___
 <div style='margin-top:185px;'></div>
 
 ## <span style="margin-left:76px"></span> Ancients
-<span style="margin-left:76px"></span> An ancient is a massive sentient guardian of 
-<span style="margin-left:76px"></span> wood and leaves, with an unparalleled wisdom
-<span style="margin-left:75px"></span> and insight to the nature around them. These
-<span style="margin-left:70px"></span> hulking guardians have allied  themselves with 
-<span style="margin-left:60px"></span> the night elves, seeing many of the same ideals 
-<span style="margin-left:50px"></span> they wish to preserve in them.
 
-***Staunch Defenders.*** An ancient is grown from an acorn like so many other trees, yet it is much rarer and much more powerful than most other acorns. It takes many years for an ancient to grow to its full size, but once it is fully grown it can live for thousands of years without feeling the curse of old age.
+<span style="margin-left:76px"></span> The Ancients are massive, leaf-covered trees
+<span style="margin-left:72px"></span> given life. With an unparalleled wisdom and
+<span style="margin-left:64px"></span> insight into the world around them, they act as
+<span style="margin-left:60px"></span> guardians of the forests where they dwell -- such
+<span style="margin-left:60px"></span> as those of northern Kalimdor, where their
+<span style="margin-left:46px"></span> shared bonds with the night elves have kept the
+<span style="margin-left:32px"></span> two races in a long-lasting symbiosis.
 
-Many ancients have allied themselves with the honorable night elves and guard their cities and the edge of their territories. They can burrow their rooted feet into the soil beneath them to give them stability, often standing so still as to be indistinguishable from a normal tree, allowing animals to next within their tree crowns unbeknownst to the hulking creature beneath them.
+***Staunch Defenders.*** An ancient is grown from an acorn, like so many other trees, though the acorn itself is far rarer and far more powerful. It takes years upon years for an ancient to grow to its full size, where it stays for thousands of years without feeling the wear of old age.
 
-With their immense lifespan they see time differently from mortal races, and often times, years are seen as akin to seconds in their eyes.
+The ancients who have allied themselves with the honorable night elves stand guard of their cities, and of their border territories. They can burrow their rooted feet into the soil beneath, becoming indistinguishable from a normal tree if they stand perfectly still. This allows both for other creatures to take shelter between its leaves, such as a squirrel with its own acorns, and for the ancient to keep quiet watch over the wilds.
 
-***Hydrated Nature.*** An ancient doesn't require food or sleep, and can carry on for weeks without a fresh supply of water to strengthen them.
+Due to their immense lifespan and often slow, lumbering presence, an ancient sees time differently from mortal races. Often times, years may become akin to hours, minutes, or even seconds.
+
+***Plantlike Creatures.*** An ancient doesn't require food or sleep. Instead, it draws nourishment from the soil and can carry on for weeks without a fresh supply of water.
 
 ### Ancient Protector
-When the acorn of an ancient sprouts a sapling, the result will always become an ancient protector, these hulking trees make up the core of ancients, and are critical in the security of night elven civic areas and groves.
+Most often when the acorn of an ancient sprouts, it grows to become an ancient protector. These hulking trees make up most of the ancients, and are critical in safeguarding night elven civic areas and groves.
 
 ### Ancient of Lore
-Some ancients grow to become enlightened beings of the forest, wise beyond belief and capable of establishing meaningful contact with the free-spirited dryads. These ancient have a close connection to night elven druids and priests, instruction them about the ways of magic and the secrets of nature.
+Some ancients grow to become enlightened beings of the forest, wise beyond belief and capable of establishing meaningful contact with the free-spirited dryads. These ancient have a close connection to night elven druids and priests, taking on a role as instructors in the ways of magic and the secrets of nature.
 
 ### Ancient of War
-Some of the toughest ancients grow into ancients of war, mighty plants often found defending night elven settle&shy;ments or supporting Alliance forces in battle. Embodied in these ancient guardians are the spirits of courage and determination that propels it and other ancients forward when situations turn dire.
-
-These ancients provide a link to the brutal side of nature and the cycle of life and death that rules all creation.
+The toughest of ancients grow into ancients of war; mighty plants often found defending night elven settle&shy;ments or supporting Alliance forces in battle. Embodied in these ancient guardians are the spirits of courage and determination, which they wield to call upon the forest itself to rise in order to turn the tide of battle in favour of them and their allies.
 
 <div class='letterheader'></div>
 <div class="mmletter mml-a"></div>
@@ -817,7 +817,7 @@ These ancients provide a link to the brutal side of nature and the cycle of life
 
 \pagebreakNum
 
-<div style='margin-top:950px;'></div>
+<div style='margin-top:1022px;'></div>
 
 ___
 ___
@@ -867,10 +867,12 @@ ___
 
 <div class="pageLetter">A</div>
 <div class='footnote'>ANCIENTS </div>
-<img src='https://www.gmbinder.com/images/W7JrNLv.jpg' style='position:absolute; top:0px; right:-150px; width:1200px' />
-<img src='https://www.gmbinder.com/images/WQXIOUB.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/W7JrNLv.jpg' style='position:absolute; top:0px; right:-170px; width:1300px' />
+<img src='https://www.gmbinder.com/images/WQXIOUB.png' style='position:absolute; top:90px; right:0px; width:900px' />
 
 \pagebreak
+
+<div style='margin-top:70px;'>
 
 > ##### Variant: Tree of Life
 > A tree of life is a sapling born from the world tree Nordrassil, these ancients have suffered great loses in recent wars, and those who remains have returned to the forest to spread their seeds and replenish their numbers undisturbed.
@@ -896,7 +898,9 @@ ___
 >
 > &nbsp;&nbsp;&nbsp; ***Summon Wisps (1/Day).*** The tree calls forth ten <br>&nbsp;&nbsp;&nbsp; wisps that appear in empty spaces within 60 feet <br>&nbsp;&nbsp;&nbsp; of it. These wisps act as allies of the tree. The <br>&nbsp;&nbsp;&nbsp; wisps remains for 1 day or until they die.
 
-<div style='margin-top:700px;'></div>
+</div>
+
+<div style='position:absolute; bottom:64px; right:1.7cm; left:1.7cm; margin-top:1200px;'>
 
 ___
 ___
@@ -934,7 +938,9 @@ ___
 >
 > ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
 >
-> ***Animate Trees (1/Day).*** The ancient magically animates five or less trees it can see within 60 feet of it. The trees have the statistics of a treant, except they have Intelligence and Charisma scores of 1, and they only have the Claw action option. An animated tree acts as an ally of the ancient. The tree remains animate for 1 day or until it dies; until the ancient takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
+> ***Animate Trees (1/Day).*** The ancient magically animates five or fewer trees that it can see within 60 feet of it. The trees have the statistics of a treant, except they have Intelligence and Charisma scores of 1 and they only have the Claw action. An animated tree acts as an ally of the ancient. The tree remains animated for 1 day, until it dies, or until the ancient takes a bonus action to turn it back into an inanimate tree. If the tree doesn't die and is made inanimate, it takes root again if it can.
+
+</div>
 
 <div class="pageLetter">A</div>
 <div class='footnote'>ANCIENTS </div>
