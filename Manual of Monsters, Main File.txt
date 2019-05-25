@@ -6326,7 +6326,7 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:160px;'></div>
+<div style='margin-top:170px;'></div>
 
 ## Wind Serpents
 Many adventures have seen these serpentine creatures roaming the vast deserted regions of the world, slithering across its sandy surfaces or using their powerful wings to keep them drifting above its surface. The predatory snakes pays little attention to wandering adventures, as their eyes are set on a difference price, but once provoked they become a frightening enemy to fight in large numbers.
@@ -6337,16 +6337,17 @@ A wind serpent combines the body and head of a snake with the leathery wings of 
 
 ***Unseen Hunters.*** Wind serpents makes for formidable hunters. They are a predator that will ambush their prey if possible to gain the moments advantage needed for a kill. They crawl among tree branches, stalk within fissures in the earth, or fly silently out from a dark nook towards their desired prey. They attack with lightning speed, swiftly poisoning their quarry.
 
-***Adapted Species.*** These serpentine creatures can be found in the far reaches of the world. They nest in hard-to-reach places where they can retire in safety. Many have migrated to temperate regions of the world, but some have ventured to far off places. Different subspecies of wind serpents very drastically from one another. They have adapted to their surrounding climate and changes to better survive in it. Some even becoming magical beings capable of spewing crackling lightning or freezing mist.
+***Adapted Species.*** These serpentine creatures can be found in the far reaches of the world. They nest in hard-to-reach places where they can retire in safety. Many have migrated to temperate regions of the world and some to much more far off places. Different subspecies of wind serpents very drastically from one another. They adapt to the climate around them and change to better survive it.
 
 Perceptive adventures are able to use the colorful scales of a wind serpent as a warning before engaging in an open fight. Their colors display nuances of the element force kept within, if any.
 
 > ##### Variant: Adapted Wind Serpents
-> Wind serpents are found throughout Azeroth and have adapted differently to their climate.
+> Wind serpents are found throughout Azeroth and have adapted differently to their climate. 
+> <br>&nbsp;&nbsp;&nbsp; You can change a wind serpent's *lightning breath* and *shocking spit* attacks to deal cold or poison damage instead of lightning by making the following changes to the attacks:
 >
-> ***Poison Breath.*** You can change a wind serpent's breath attack to deal either acid, cold, or lightning damage. If changed to acid or lightning, the breath attack changes from a *cone* to a 5-foot wide *line* with a length equal to twice the cone's size, and the saving throw for the attack changes to Dexterity.
+> ***Breath Attack.*** The breath attack becomes a cone of a size equal to half the line's length, and requires a Constitution saving throw to resist.
 >
-> ***Venomous Bite and Toxic Spit.*** You can change the damage type of these actions to acid, cold, or lightning instead of poison damage.
+> ***Spit.*** The spit attack requires a Constitution saving throw to resist.
 
 \columnbreak
 
@@ -6358,7 +6359,7 @@ ___
 > ___
 > - **Armor Class** 15 (natural armor)
 > - **Hit Points** 22 (5d8)
-> - **Speed** 20 ft., climb 20 ft., fly 40 ft.
+> - **Speed** 20 ft., fly 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6377,7 +6378,7 @@ ___
 >
 > ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 9 (2d6 + 2) bludgeoning damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the wind serpent can't constrict another target.
 >
-> ***Poison Breath (Recharges after a Short or Long Rest).*** The wind serpent exhales poisonous gas in a 10-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 11 (2d10) poison damage on a failed save, or half as much damage on a successful one.
+> ***Lightning Breath (Recharges after a Short or Long Rest).*** The serpent exhales lightning in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 11 (2d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 <div class="pageLetter">W</div>
 <div class='footnote'>WIND SERPENTS </div>
@@ -6392,7 +6393,7 @@ ___
 > ___
 > - **Armor Class** 15 (natural armor)
 > - **Hit Points** 33 (6d8 + 5)
-> - **Speed** 20 ft., climb 20 ft., fly 40 ft.
+> - **Speed** 20 ft., fly 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6415,7 +6416,7 @@ ___
 >
 > ***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the wind serpent can't constrict another target.
 >
-> ***Toxic Spit.*** *Ranged Weapon Attack:* +5 to hit, range 15/30 ft., one creature. *Hit:* The target must make a DC 13 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+> ***Shocking Spit.*** *Ranged Weapon Attack:* +5 to hit, range 15/30 ft., one creature. *Hit:* The target must make a DC 13 Dexterity saving throw, taking 21 (6d6) lightning damage on a failed save, or half as much damage on a successful one.
 
 \columnbreak
 
@@ -6425,7 +6426,7 @@ ___
 > ___
 > - **Armor Class** 17 (natural armor)
 > - **Hit Points** 60 (11d8 + 11)
-> - **Speed** 30 ft., climb 30 ft., fly 60 ft.
+> - **Speed** 30 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6448,7 +6449,7 @@ ___
 >
 > ***Frightful Screech.*** Each creature within 60 feet of the serpent that can hear it must succeed on a DC 12 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this serpent's Frightful Screech for the next 24 hours. 
 >
-> ***Poison Breath (Recharge 5-6).*** The serpent exhales poisonous gas in a 20-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 27 (5d10) poison damage on a failed save, or half as much damage on a successful one.
+> ***Lightning Breath (Recharge 5-6).*** The serpent exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 27 (5d10) lightning damage on a failed save, or half as much damage on a success.
 
 <div class="pageLetter">W</div>
 <div class='footnote'>WIND SERPENTS </div>
