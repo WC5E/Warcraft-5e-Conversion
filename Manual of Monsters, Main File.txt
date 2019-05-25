@@ -800,15 +800,13 @@ Due to their immense lifespan and often slow, lumbering presence, an ancient see
 ***Plantlike Creatures.*** An ancient doesn't require food or sleep. Instead, it draws nourishment from the soil and can carry on for weeks without a fresh supply of water.
 
 ### Ancient Protector
-When the acorn of an ancient sprouts a sapling, the result will always become an ancient protector, these hulking trees make up the core of ancients, and are critical in the security of night elven civic areas and groves.
+Most often when the acorn of an ancient sprouts, it grows to become an ancient protector. These hulking trees make up most of the ancients, and are critical in safeguarding night elven civic areas and groves.
 
 ### Ancient of Lore
-Some ancients grow to become enlightened beings of the forest, wise beyond belief and capable of establishing meaningful contact with the free-spirited dryads. These ancient have a close connection to night elven druids and priests, instruction them about the ways of magic and the secrets of nature.
+Some ancients grow to become enlightened beings of the forest, wise beyond belief and capable of establishing meaningful contact with the free-spirited dryads. These ancient have a close connection to night elven druids and priests, taking on a role as instructors in the ways of magic and the secrets of nature.
 
 ### Ancient of War
-Some of the toughest ancients grow into ancients of war, mighty plants often found defending night elven settle&shy;ments or supporting Alliance forces in battle. Embodied in these ancient guardians are the spirits of courage and determination that propels it and other ancients forward when situations turn dire.
-
-These ancients provide a link to the brutal side of nature and the cycle of life and death that rules all creation.
+The toughest of ancients grow into ancients of war; mighty plants often found defending night elven settle&shy;ments or supporting Alliance forces in battle. Embodied in these ancient guardians are the spirits of courage and determination, which they wield to call upon the forest itself to rise in order to turn the tide of battle in favour of them and their allies.
 
 <div class='letterheader'></div>
 <div class="mmletter mml-a"></div>
