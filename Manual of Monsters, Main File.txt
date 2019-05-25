@@ -1992,6 +1992,20 @@ Above all other sits the Elemental Lords; beings of untamed power, whose sum can
 
 Carrying out the bidding of the Elemental Lords are their lieutenants. While nowhere near as powerful as their respective Lord, it is not uncommon for an elemental lieutenant to wield both great power and agency in carrying out their master's bidding.
 
+***Elemental Nature.*** A elemental doesn't require air, food, drink, or sleep.
+
+
+### Air Elemental
+
+### Earth Elemental
+
+### Fire Elemental
+
+### Ice Elemental
+
+### Water Elemental
+
+
 \columnbreak
 
 <div style='margin-top:150px;'></div>
