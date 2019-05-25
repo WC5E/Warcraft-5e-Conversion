@@ -1356,7 +1356,7 @@ ___
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://i.imgur.com/4ubAW6p.jpg' style='position:absolute; bottom:0px; right:0px; width:950px' />
 <img src='https://i.imgur.com/9eelPmO.png' style='position:absolute; top:-30px; right:0px; width:900px; transform:rotate(-180deg);' />
-<img src='https://i.imgur.com/WIcGO7u.png' style='position:absolute; bottom:-90px; left:134px; width:300px; z-index:100;' />
+<img src='https://i.imgur.com/W2lZe1P.png' style='position:absolute; bottom:-90px; left:104px; width:340px; z-index:100;' />
 
 \pagebreakNum
 
@@ -1402,6 +1402,7 @@ ___
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://i.imgur.com/EojlAJ6.png' style='position:absolute; top:-20px; left:38px; width:840px;' />
 
 \pagebreakNum
 
