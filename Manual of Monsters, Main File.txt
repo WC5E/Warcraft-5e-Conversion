@@ -6280,9 +6280,23 @@ In their great hunt for prey, denizens have noticed that the great thunder lizar
 
 \pagebreakNum
 
-## Whale Shark
+<div style='margin-top:470px;'></div>
 
-___
+## Whale Shark
+Off the coasts of the continents, beneath the sunlit reaches of the Great Sea, swims the arbiter of the deep. Known to many simple as whale sharks, these legendary leviathans patrol the sunken depths, devouring any inattentive or overzealous adventurers who crosses its path.
+
+***Devourer of All.*** These horrific leviathans swim through the sunlit oceans of Azeroth in an eternal hunt to survive. They care little for what, or who, gets swallowed into the blackness of their maw, it will provide them with nutrients in either case. They are rarely aggressive enough to directly hunt down prey to devour and more often than not swallow unfortunate creatures caught in front of its maw.
+
+But these enormous sharks are known for having an unquenched appetite towards the whales of the Great Sea and will go to great lengths procure and eat such creatures.
+
+***Guardians of the Deeps.*** Whale sharks are known for being territorial creatures, often swimming in great circles around its border, swallow what food may pass by. These creatures have often been found roaming the waters of ancient ruins, and it is speculated that they are safeguard&shy;ing forgotten ruins and what creatures might have taken up residence within them.
+
+But few have been foolishi, or brave, enough to swim into the eye of their territory to unearth what forgotten world might be guarded, or attempted to stand against these monstrosities and lived to tell their tale.
+
+\columnbreak
+
+<div style='margin-top:98px;'></div>
+
 ___
 > ## Whale Shark
 >*Gargantuan beast, unaligned*
@@ -6308,7 +6322,7 @@ ___
 > ***Water Breathing.*** The whale shark can breathe only underwater.
 >
 > ### Actions
-> ***Multiattack.*** The whale shark makes three attacks with its bite. It can make one tail attack in place of one bite attack.
+> ***Multiattack.*** The whale shark makes three bite attacks. It can make one tail attack in place of one bite attack.
 >
 > ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 27 (3d12 + 8) piercing damage. If the target is a Large or smaller creature affected by the whale shark's Inhale, that creature is swallowed. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the whale shark, and it takes 28 (8d6) acid damage at the start of each of the whale shark's turns.
 > <br>&nbsp;&nbsp;&nbsp; If the whale shark takes 40 damage or more on a single turn from a creature inside it, the whale shark must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the whale shark. If the whale shark dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone. 
@@ -6316,13 +6330,15 @@ ___
 > ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 24 (3d10 + 8) bludgeoning damage. If the target is a creature, it must succeed on a DC 22 Strength saving throw or be pushed 10 feet away from the whale shark and knocked prone.
 >
 > ***Inhale.*** The whale shark inhales water in a 15-foot cube in front of it. Each creature in that cube that is Large or smaller must make a DC 20 Dexterity saving throw or have their movement speed reduced to 0 until the end of the whale shark's next turn.
-> <br><br>
 
 <div class='letterheader'></div>
 <div class="mmletter mml-w"></div>
 <div class="pageLetter">W</div>
 <div class='footnote'>WHALE SHARK </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/ggrco7c.jpg' style='position:absolute; top:890px; right:310px; width:500px' />
+<img src='https://www.gmbinder.com/images/VqWyp2Q.png' style='position:absolute; top:300px; right:-100px; width:700px' />
+<img src='https://www.gmbinder.com/images/Ii86tvu.png' style='position:absolute; top:-30px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/XARxGdz.png' style='position:absolute; top:50px; right:-200px; width:1000px' />
 
 \pagebreakNum
 
