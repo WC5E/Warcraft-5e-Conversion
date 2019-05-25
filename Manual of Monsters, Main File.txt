@@ -1402,6 +1402,7 @@ ___
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://i.imgur.com/EojlAJ6.png' style='position:absolute; top:-20px; left:38px; width:840px;' />
 
 \pagebreakNum
 
