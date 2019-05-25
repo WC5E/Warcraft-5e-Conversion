@@ -2023,13 +2023,15 @@ Manifest from frozen water, ice elementals share domain and allegiance with othe
 A favoured companion among mages, human mages in particular, a water elemental is near impossible to discern while underwater. If able, it often attempts to deal with threats by luring them along into the water -- and from there, drag them along into the murky depths.
 
 > ##### Variant: Elemental Revenant
-> An elemental revenant is a furious elemental being that has manifested itself with a crude suit of armor for protection. 
+> An elemental revenant is a furious elemental being that has manifested itself with a crude suit of armor for protection.
 >
 >A revenant has the same statistics as its elemental counterpart, except for an Armor Class of 17 (half plate, shield). It loses any ability to move through and stop in the space of other creatures, as well as any ability to move through spaces smaller than 2 feet, its slam or touch action is replaced with the following option, using the same attack modifier and damage type as the original action.
 >
 > ***Maul.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d12 + 5) damage of the elemental's type.
 
 \columnbreak
+
+<div style='margin-top:313px;'></div>
 
 ___
 > ## Air Elemental
@@ -2067,6 +2069,8 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:427px;'></div>
+
 ___
 > ## Earth Elemental
 >*Large elemental, neutral*
@@ -2097,6 +2101,8 @@ ___
 > ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 
 \columnbreak
+
+<div style='margin-top:280px;'></div>
 
 ___
 > ## Fire Elemental
@@ -2134,6 +2140,8 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:307px;'></div>
+
 ___
 > ## Ice Elemental
 >*Large elemental, neutral*
@@ -2166,6 +2174,8 @@ ___
 > ***Icicle.*** *Ranged Weapon Attack:* +7 to hit, range 30/60 ft., one target. *Hit:* 11 (2d12) piercing damage.
 
 \columnbreak
+
+<div style='margin-top:237px;'></div>
 
 ___
 > ## Water Elemental
@@ -2203,6 +2213,8 @@ ___
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
+
+<div style='position:absolute; bottom:64px; right:1.7cm; left:1.7cm;'>
 
 ___
 ___
@@ -2246,6 +2258,8 @@ ___
 > ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 3) bludgeoning damage.
 >
 > ***Drain Mana.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d8) force damage. The target must succeed on a DC 15 Intelligence saving throw or have their lowest available spell slot expended. If a spell slot was expended, increase the Arcane Charge by 1.
+
+</div>
 
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTALS </div>
