@@ -3957,11 +3957,19 @@ As old addage goes: If it came with cryptic instructions, it was made by a gnome
 
 ### Alarm-o-Bot
 
+These constructs are, as the name suggests, walking alarms. Originally by gnomes as a safeguard, to protect themselves against enemies hidding away in the dark, rugged terrain of their homelands, the alarm-o-bot keeps a constant watch for any sound or motion that it can discern with its numerous sensors. If it detects anything it cannot confirm as friendly, it blares out a high-pitched warning.
+
 ### Bombling
+
+One of the original pinnacles of goblin engineering, bombligns -- or bomb bots -- is a bomb affixed with a set of legs and a pair of eyes. Once a bombling has fixed itself onto a target, it gives chase until it can get close enough to detonate.
 
 ### Crowd Pummeler
 
+A mechanical design adopted both by goblins and gnomes, a crowd pummeler takes the form of a tall bipedal construct loaded with heavy weaponry. Its name is not coincidental, as it is most commonly used as cheap and easily maintained sentries; programmable with a set of laws and regulations, and equipped with the chief directive to pummel anyone found to break said laws.
+
 ### Mechano-Tank
+
+The Mechano-tank, or spider tank, is a gnomish construct best known for its armoured chassis and spider-like design. Built for close-quarters conflicts, most mechano-tanks come armed with fine-tuned and deadly weaponry. Their legs are able to contract and release, launching the tank forward into combat.
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
