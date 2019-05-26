@@ -333,7 +333,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
  - [<span>3</span><span> Shale Spider                  </span>](#p3)
  - [<span>3</span><span> Shredder                      </span>](#p3)
  - [<span>3</span><span> Silithids                     </span>](#p3)
- - [<span>3</span><span> Skeleton                      </span>](#p3)
+ - [<span>3</span><span> Skeletons                     </span>](#p3)
  - [<span>3</span><span> Treant                        </span>](#p3)
  - [<span>3</span><span> Troggs                        </span>](#p3)
  - [<span>3</span><span> Trolls                        </span>](#p3)
@@ -5849,11 +5849,56 @@ ___
 
 \pagebreakNum
 
-## Skeleton
+## Skeletons
+Skeletons arise when animated by dark magic. They heed the summons of necromancers who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromancy or presence of corrupting evil.
+
+***Animated Dead.*** Whatever sinister force awakens a skeleton infuses its bones with a dark vitality, adhering joint to joint and reassembling limbs. This energy motivates <br>a skeleton to move and think in a rudimentary fashion, though only as a pale imitation of the way it behaved in life. Resurrecting a skeleton restores its body and soul, banishing the hateful undead spirit that empowers it.
+
+While most skeletons are the animated remains of dead humans and other humanoids, skeletal undead can be created from the bones of other creatures besides human&shy;oids, giving rise to a host of terrifying and unique forms.
+
+***Obedient Servants.*** Skeletons raised by spell are bound to the will of their creator. They follow orders to the letter, never questioning the task their masters give them, regard&shy;less of the consequences. Because of their literal interpre&shy;tation of commands and unwavering obedience, skeletons adapt poorly to changing circumstances.
+
+A skeleton can fight with weapons and wear armor, can load and fire a catapult or trebuchet. Some are even raised with knowledge of their past life and become formidable warriors or mages able to perform complex incantations.
+
+
+Although most lack the intellect they possessed in life, skeletons aren't mindless. Rather than break its limbs attempting to batter its way through an iron door, a skele&shy;ton tries the handle first. If that doesn't work, it searches for another way through or around the obstacle.
+
+***Undead Nature.*** A skeleton doesn't require air, food, drink, or sleep.
+
+<div style='margin-top:-15px;'></div>
+
+___
+> ## Giant Skeleton
+>*Large undead, lawful evil*
+> ___
+> - **Armor Class** 12 (natural armor)
+> - **Hit Points** 67 (9d10 + 18)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|11 (+0)|15 (+2)|6 (-2)|8 (-1)|5 (-3)|
+>___
+> - **Damage Vulnerabilities** bludgeoning
+> - **Damage Immunities** poison
+> - **Condition Immunities** exhaustion, poison
+> - **Senses** darkvision 60 ft., passive Perception 9
+> - **Languages** understands all languages it knew in life but can't speak
+> - **Challenge** 2 (450 XP)
+> ___
+>
+> ***Brute.*** A melee weapon deals one extra damage die when the skeleton hits with it (included in the attack).
+>
+> ### Actions
+> ***Greatclub.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (3d8 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+
+\columnbreak
+
+<div style='margin-top:542px;'></div>
 
 ___
 > ## Skeleton
->*Medium undead, neutral evil*
+>*Medium undead, lawful evil*
 > ___
 > - **Armor Class** 13 (armor scraps)
 > - **Hit Points** 13 (2d8 + 4)
@@ -5877,8 +5922,102 @@ ___
 > ***Shortbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
 <div class="pageLetter">S</div>
-<div class='footnote'>SKELETON </div>
+<div class='footnote'>SKELETONS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/uabPXoK.png' style='position:absolute; top:0px; right:-50px; width:500px' />
+
+\pagebreakNum
+
+<div style='margin-top:470px;'></div>
+
+___
+> ## Skeleton Mage
+>*Medium undead, lawful evil*
+> ___
+> - **Armor Class** 12 (15 with *mage armor*)
+> - **Hit Points** 19 (3d8 + 6)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|14 (+2)|15 (+2)|14 (+2)|8 (-1)|5 (-3)|
+>___
+> - **Damage Vulnerabilities** bludgeoning
+> - **Damage Immunities** poison
+> - **Condition Immunities** exhaustion, poison
+> - **Senses** darkvision 60 ft., passive Perception 9
+> - **Languages** understands all languages it knew in life but can't speak
+> - **Challenge** 2 (450 XP)
+> ___
+>
+> ***Spellcasting.*** The skeleton is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It requires no vocal component to cast its spells. The skeleton has the following mage spells prepared:
+> <div style='margin-top:-12px;'></div>
+>
+> <br> Cantrips (at will): *blade ward, mage hand, ray of frost*
+> <br> 1st level (4 slots): *ice knife, mage armor, silent image*
+> <br> 2nd level (2 slots): *blindness/deafness, invisibility*
+>
+> ### Actions
+> ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+
+****
+
+\columnbreak
+
+<div style='margin-top:120px;'></div>
+
+___
+> ## Skeleton Warrior
+>*Medium undead, lawful evil*
+> ___
+> - **Armor Class** 17 (plate scraps, shield)
+> - **Hit Points** 13 (2d8 + 4)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|12 (+1)|15 (+2)|7 (-2)|8 (-1)|5 (-3)|
+>___
+> - **Damage Vulnerabilities** bludgeoning
+> - **Damage Immunities** poison
+> - **Condition Immunities** exhaustion, poison
+> - **Senses** darkvision 60 ft., passive Perception 9
+> - **Languages** understands all languages it knew in life but can't speak
+> - **Challenge** 1 (200 XP)
+> ___
+>
+> ***Martial Advantage.*** Once per turn, the skeleton can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the skeleton that isn't incapacitated.
+>
+> ### Actions
+> ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
+
+___
+> ## Warhorse Skeleton
+>*Large undead, lawful evil*
+> ___
+> - **Armor Class** 13 (barding scraps)
+> - **Hit Points** 22 (3d10 + 6)
+> - **Speed** 60 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|12 (+1)|15 (+2)|2 (-4)|8 (-1)|5 (-3)|
+>___
+> - **Damage Vulnerabilities** bludgeoning
+> - **Damage Immunities** poison
+> - **Condition Immunities** exhaustion, poison
+> - **Senses** darkvision 60 ft., passive Perception 9
+> - **Languages** —
+> - **Challenge** 1/2 (100 XP)
+> ___
+>
+> ### Actions
+> ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage
+
+<div class="pageLetter">S</div>
+<div class='footnote'>SKELETONS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/AuHA2cU.png' style='position:absolute; top:0px; right:230px; width:850px' />
 
 \pagebreakNum
 
