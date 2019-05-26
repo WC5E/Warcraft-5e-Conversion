@@ -5882,9 +5882,24 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:140px;'></div>
+<div style='margin-top:480px;'></div>
 
 ## Treant
+Treants are awakened trees imbued with great wisdom and strength that dwell in ancient forests. The moving trees prefer the calm and quiet of the world's ancient forests, and little is seen of them in times of peace and calm.
+
+***Ancient Sapling.*** Treants are powerful, ancient trees and a more primitive form of their related wise Ancients. They sprout from the seeds of the ancients and will—if they are given enough time—grow to be ancient protectors devoted to keeping the borders of forests safe.
+
+***Nature's Guardians.*** These primitive ancients serve nature itself. They dwell the depths of forests and patrol its borders, flinging themselves at nature's enemies as soon as they can, slashing with their wooden claws.
+
+Treats are closely affiliated with creatures of the forests and powerful druids and often accompany such creatures through their forests. The treants are also known to act as guide for allies of nature, showing them safe passage through the heart of the forest.
+
+***Corrupted and Insane.*** The destruction of Azeroth's forests during the Third War, the removal of the peaceful and beautiful homes the treants had guarded drove many of the guardians mad with grief and allowed the demonic presence to take root within and corrupt them. It has made many treants unpredictable and driven them to lash out at anyone that approaches it.
+
+Most adventures are cautious when approaching a treant in the depths of a forest, as the ancient guardians madness won't become apparent before it's too late to retreat.
+
+\columnbreak
+
+<div style='margin-top:300px;'></div>
 
 ___
 > ## Treant
@@ -5912,11 +5927,22 @@ ___
 >
 > ***Entangle (Recharges after a Short or Long Rest).*** <br> A creature within 60 feet must succeed on a DC 12 Strength saving throw or be restrained for 1 minute. The creature can use its action to make a DC 12 Strength check, freeing itself on a success.
 
+> ##### Variant: Treant Wildcaller
+> A few treants can call upon the forces of nature. A treant wildcaller has a challenge rating of 3 (700 XP) and the following trait.
+>
+> ***Spellcasting.*** The treant is a 4th-level spellcaster. its spellcasting ability is Wisdom (save DC 11, +3 to hit with spell attacks). The treant has the following druid spells prepared:
+>
+> <br> Cantrips (at will): *druidcraft, solar wrath, thorn whip*
+> <br> 1st level (4 slots): *cure wounds, faerie fire, sleep*
+> <br> 2nd level (3 slots): *barkskin, spike growth*
+
 <div class='letterheader'></div>
 <div class="mmletter mml-t"></div>
 <div class="pageLetter">T</div>
 <div class='footnote'>TREANT </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/MWWVxVG.jpg' style='position:absolute; top:0px; right:25px; width:860px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/os1g7vx.png' style='position:absolute; top:-200px; right:-200px; width:900px;transform:rotate(30deg)' />
+<img src='https://www.gmbinder.com/images/LvsnkBL.png' style='position:absolute; top:-40px; right:0px; width:900px' />
 
 \pagebreakNum
 
