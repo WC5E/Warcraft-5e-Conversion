@@ -3941,7 +3941,33 @@ ___
 
 ## Mechanicals
 
+Mechanical constructs distinguish themselves from organic creatures mainly for their lack of blood, internal organs, and natural instincts. Instead, gears whirr and circuits spark inside these mobile machinations -- some of which act only at the behest of whoever holds the controls, while others have been configured to automatically carry out a pre-determined set of instructions.
+
+Some mechanicals distinguish themselves further still, possessing instructions so meticulously crafted as to resemble genuine intelligence. As they are wholly driven by the logic of their configuration, mechanical constructs do not possess the ability to make an emotional response: they cannot be charmed, and they certainly cannot be frightened.
+
+***Titanic Legacy.*** The origin of Azeroth's great mechanical achievements can be traced back to the titanic Watchers and the ordering of Azeroth. There, the titanic Keeper Mimiron oversaw the creation of a race of diminutive clockwork humanoids; mechagnomes, forerunners of the gnomes who now stand on the contested frontier of technological innovation.
+
+Just as Mimiron saw the creation of the gnomes in his image, most gnomish inventions since have carried a spitting likeness to the Keeper's own machinations.
+
+***Gnomish and Goblin Ingenuity.*** Alongside the legacy of the gnomes, carrying on the work of the titanic Keeper who saw their creation, another source of technolgical innovation on Azeroth has been the artifically enhanced ingenuity of the goblins. Unlike the gnomes, however, such goblin ingenuity has a tendency to be remarkably destructive. The two races have led a contested field of engineering, and have overseen countless mechanical wonders and mishaps across several decades -- including cities, transport systems, explosive automatons, and giant death rays.
+
+As old addage goes: If it came with cryptic instructions, it was made by a gnome. If it came with a detonator, it was made by a goblin.
+
 \columnbreak
+
+### Alarm-o-Bot
+
+### Bombling
+
+### Crowd Pummeler
+
+### Mechano-Tank
+
+<div class="pageLetter">M</div>
+<div class='footnote'>MECHANICALS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
 
 ### Mechanical Animal Template
 A mechanical animal is any Huge or smaller beast created by gnomes and engineers to resemble the shape of a beast found on Azeroth. The following characteristics change or are added to a mechanical animal when created.
@@ -3962,8 +3988,12 @@ A mechanical animal is any Huge or smaller beast created by gnomes and engineers
 
 ***Languages.*** The mechanical animal loses all languages it might've known, and understand the languages of its creator, but can't speak.
 
+\columnbreak
+
 #### Sample Mechanical Animal
-The mechanical animal statistics presented here use a tallstrider as the base creature.
+
+As an example, the Mechanostrider shown here uses the base statistics of a tallstrider. Mechanostriders are used for transportation among gnomes, with each mechanostrider specifically designed with the individual rider in mind.
+
 ___
 > ## Mechanostrider
 >*Medium construct, unaligned*
@@ -4021,7 +4051,7 @@ ___
 > ### Actions
 > ***Fist.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 - 1) bludgeoning damage.
 
-<div style='margin-top:-5px;'></div>
+\columnbreak
 
 ___
 > ## Bombling
@@ -4048,7 +4078,11 @@ ___
 > ### Actions
 > ***Self-destruct.*** The bombling immediately detonates, killing itself in the process.
 
-\columnbreak
+<div class="pageLetter">M</div>
+<div class='footnote'>MECHANICALS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
 
 ___
 > ## Crowd Pummeler
@@ -4077,6 +4111,8 @@ ___
 > ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
 >
 > ***Crowd Pummel (Recharge 6).*** The pummeler slams its claws into the ground. Each creature within 5 feet of it must make a DC 12 Dexterity saving throw, taking 9 (2d8) bludgeoning damage on a failed save, or half as much damage on a successful one. On a failed saving throw, the target is knocked prone.
+
+\columnbreak
 
 > ##### Variant: Arcane Nullifier
 > An arcane nullifier has a challenge rating of 4 (1,100 XP). It has the same statistics as a crowd pummeler except that it replaces the pummeler's action options with the following action options.
