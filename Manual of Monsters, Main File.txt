@@ -3159,19 +3159,25 @@ ___
 
 \pagebreakNum
 
+<div style="margin-top:460px;"></div>
+
 ## Grell
 
 A grell is a small, long-armed forest spirit with pointed ears and accentuated brows. Though their appearance carries an uncanny resemblence to imps, they are fairly large by comparison and lack any of the typical halmarks of a demon.
 
 Among explorers, researchers, and naturalists, it is speculated that the similarities between grells and imps are not coincidental, and that the first imps were in fact grells given into demonic influence during the first invasion of the Burning Legion. Such theories are widespread, but have never been confirmed nor denied.
 
-***Wild Apperance.*** Most grells have skin in shades of green, orange, or brown, mimicking the wilderness around their dwelling. Their arms and legs are covered in dense fur, and their hands and feet are all equipped with sharp claws. It is fairly common for grells to fashion themselves simple clothes, as well other adornments -- such as rings for their ears and nose.
+***Wild Presence.*** Most grells have skin in shades of green, orange, or brown, mimicking the wilderness around their dwelling. Their arms and legs are covered in dense fur, and their hands and feet are all equipped with sharp claws. It is fairly common for grells to fashion themselves simple clothes, as well other adornments -- such as rings for their ears and nose.
 
 Some have speculated as to whether these adornments serve a purpose, such as magical foci for casting spells, or if they are just for decoration.
 
 ***Fiendish Personality.*** It is said that the grell exist as an ebodiment of the wild, uncanny side of nature, and their personality shows this notion all too well. A single grell on its own will pose no particular danger to any would-be travellers, but a gang of grells working together can be a real threat to settlements and communities living close to their dwelling.
 
 The most actively malicious grell are the ones who choose to roam around in packs, actively searching for straggling travellers to ambush, overwhelm, and steal from. Though their diet mainly consists of moss, tubers, and mushrooms, it is not unheard of for a pack of grells to hunt wild game.
+
+\columnbreak
+
+<div style="margin-top:460px;"></div>
 
 ___
 > ## Grell
