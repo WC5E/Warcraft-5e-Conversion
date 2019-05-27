@@ -1224,8 +1224,7 @@ A fel-corrupted creature is a creature whose body and mind have been exposed to 
 <div style='margin-top:140px;'></div>
 
 ## Centaurs
-
-Abundant across the plains of central and southern Kalimdor, the centaur are a race of half-horse humanoids, appearing as a human's torso, arms, and head extending from the neck of an equine body. Full-grown centaurs can stand over seven feet tall, hooves to head, weighing in over a ton.
+Abundant across the plains of central and southern Kalimdor, the centaur are a race of half-horse humanoids, appearing as a human's torso, arms, and head extending from the neck of an equine body. Full-grown centaurs stand over seven feet tall, hooves to head, and weigh over a ton.
 
 ***Nomadic Culture.*** They keep in small nomadic tribes, roaming the broad regions they consider their territory, with regular spots by which they settle their tents to hunt and forage. Each tribe is lorded by its khan, who'll more often than not keep open conflict with both neighboring tribes and races alike.
 
@@ -1234,6 +1233,28 @@ While on their warpath, travelling from place to place, centaurs often claim pri
 ***Cycle of Conflict.*** Though many attempts have been made, either between tribes or at the behest of tauren settlements in a tribe's warpath, the centaur have never been ones for diplomacy. 
 
 Both the Horde and the Alliance have done their part to feed this inter-tribal conflict, seeing it as a necessary act to keep scattered clans, especially in regions such as the Barrens or Desolace, from banding together and becoming a more dangerous foe.
+
+### Centaur Earthcaller
+Though centaurs follow a shamanistic faith, their rites and rituals are unqiue; given their heritage as children of the elemental princess Theradras. Earthcallers are commonly female centaurs, acting as shamans of their tribes as they wield the power to rain elemental earth upon their foes.
+
+### Centaur Khan
+At the heart of each centaur tribe is the khan, who acts as leader both for their great intelligence and their unmatched ferocity. Rage and savagery are key to the centaur khans, allowing them to lead their tribe into battle as a fearless commander without equal.
+
+### Centaur Names and Language
+The centaur speak Low Common, and often learn phrases from the languages of their enemies; including Common, Orcish, Goblin, and Taur-ahe. A few centaurs  even go as far as to learn the entirety of these languages, with fewer still adopting this second language as their primary language.
+
+Their names are short and sharp, while tribes draw their name from the first khan to lead them -- such as khan Gelk of the Gelkis. The ending of a tribe's name sits at the whim of its first khan, it is speculated that they draw these from other languages spoken by the tribe's founding members.
+
+<div style='margin-top:-5px;'></div>
+
+**Centaur Names:** Ablik, Arug, Blizh, Drothar, Feth,
+<br />&nbsp;&nbsp;&nbsp; Jamrek, Kerrak, Kromzar, Magra, Sherik, Shodo, Warug
+<br />**Tribe Names:** Galak, Jhenek, Kolkar, Krenek, Okrim,
+<br />&nbsp;&nbsp;&nbsp; Wethek, Worrak
+
+\columnbreak
+
+<div style='margin-top:650px;'></div>
 
 > ##### The Children of Zaetar
 > The centaur are the progeny of Zaetar, a Keeper of the Grove and son of Cenarius; Lord of the forest and Demigod of the Groves. Though Zaetar was no lesser than his brother, Remulos, he often felt himself living in the shadow of his brother's presence and accomplishments.
@@ -1244,22 +1265,16 @@ Both the Horde and the Alliance have done their part to feed this inter-tribal c
 >
 > Theradras entombed her lover's spirit within her own lair, which the centaur gave the name Maraudon and grew to regard as a sacred place.
 
-\columnbreak
+<div class='letterheader'></div>
+<div class="mmletter mml-c"></div>
+<div class="pageLetter">C</div>
+<div class='footnote'>CENTAURS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/3myZ2DH.png' style='position:absolute; top:150px; right:-90px; width:550px;' />
 
-<div style='margin-top:148px;'></div>
+\pagebreakNum
 
-### Centaur Names and Language
-
-The centaur speak Low Common, and often learn phrases from the languages of their enemies; including Common, Orcish, Goblin, and Taur-ahe. A few centaurs  even go as far as to learn the entirety of these languages, with fewer still adopting this second language as their primary language.
-
-Their given names are usually short and sharp, while centaur tribes draw their name from the first khan to lead them -- such as khan Gelk of the Gelkis. The ending of a tribe's name sits at the whim of its first khan, though it is speculated that they draw these from other languages spoken by the tribe's founding members.
-
-<div style='margin-top:-5px;'></div>
-
-**Centaur Names:** Ablik, Arug, Blizh, Drothar, Feth,
-<br />&nbsp;&nbsp;&nbsp; Jamrek, Kerrak, Kromzar, Magra, Sherik, Shodo, Warug
-<br />**Tribe Names:** Galak, Jhenek, Kolkar, Krenek, Okrim,
-<br />&nbsp;&nbsp;&nbsp; Wethek, Worrak
+<div style='margin-top:420px;'></div>
 
 ___
 > ## Centaur
@@ -1291,27 +1306,9 @@ ___
 >
 > ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-c"></div>
-<div class="pageLetter">C</div>
-<div class='footnote'>CENTAURS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
-
-<div style='margin-top:140px;'></div>
-
-### Centaur Earthcaller
-Though the centaur follow a shamanistic faith, their rites and rituals are unqiue; given their heritage as children of the elemental princess Theradras. Earthcallers are commonly female centaurs, acting as shamans of their tribes as they wield the power to rain elemental earth upon their foes.
-
 \columnbreak
 
-<div style='margin-top:140px;'></div>
-
-### Centaur Khan
-At the heart of each centaur tribe is the khan, who acts as leader both for their great intelligence and their unmatched ferocity. Rage and savagery are key to the centaur khans, allowing them to lead their tribe into battle as a fearless commander without equal.
-
-<div style='margin-top:18px;'></div>
+<div style='margin-top:268px;'></div>
 
 ___
 > ## Centaur Earthcaller
@@ -1349,14 +1346,10 @@ ___
 > ### Reactions
 > ***Earthen Shield (3/Day).*** When a creature makes an attack against another creature within 15 feet of the centaur, the centaur can give all attacks against that creature disadvantage until the start of its next turn.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-c"></div>
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://i.imgur.com/4ubAW6p.jpg' style='position:absolute; bottom:0px; right:0px; width:950px' />
-<img src='https://i.imgur.com/9eelPmO.png' style='position:absolute; top:-30px; right:0px; width:900px; transform:rotate(-180deg);' />
-<img src='https://i.imgur.com/W2lZe1P.png' style='position:absolute; bottom:-90px; left:104px; width:340px; z-index:100;' />
+<img src='https://www.gmbinder.com/images/jPRzhev.jpg' style='position:absolute; top:0px; right:-20px; width:1200px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/LvsnkBL.png' style='position:absolute; top:40px; right:0px; width:900px;' />
 
 \pagebreakNum
 
@@ -1402,7 +1395,7 @@ ___
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://i.imgur.com/EojlAJ6.png' style='position:absolute; top:-20px; left:38px; width:840px;' />
+<img src='https://www.gmbinder.com/images/EojlAJ6.png' style='position:absolute; top:-20px; left:38px; width:840px;' />
 
 \pagebreakNum
 
