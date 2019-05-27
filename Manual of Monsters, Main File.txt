@@ -3314,64 +3314,33 @@ ___
 
 \pagebreakNum
 
-<div>
-<br />
-</div>
-
-
-\columnbreak
-
 <div style='margin-top:140px;'></div>
 
 ## Kobolds
 
 Diminutive, rat-like, and subterranean, kobolds can be found dwelling in sprawling caverns and abandoned mines across Kalimdor and the Eastern Kingdoms alike. Even throughout Northrend one can find their aptly named cousins; the snobolds. As far back as the first human settlements in the Eastern Kingdoms, kobolds have been a persistent, and annoying, presence.
 
-A kobold averages at four feet tall, with coarse skin, sharp claws, a pronounced snout, and a spindly tail. Educated guesses have pinned them as a distant offshoot from the troggs, though this has never been deemed certain.
+Kobolds averages at four feet tall, with coarse skin, sharp claws, a pronounced snout, and a spindly tail. Educated guesses have pinned them as a distant offshoot from the troggs, though this has never been deemed certain.
 
-***Skittish Creatures.*** Adventurers who have encountered a kobold, especially a kobold away from its pack and lair, can testify to their notorious cowardice. Kobolds are not particularly intelligent, and many consider them more of an annoyance than any real danger -- at least in smaller numbers.
+***Skittish Creatures.*** Adventurers who have encountered a kobold, especially a kobold away from its pack and lair, can testify to their notorious cowardice. Kobolds are not particularly intelligent, and many consider them more of a nuisance than real danger -- at least in smaller numbers.
 
-***Massive Flocks.*** Kobolds are not only known to resemble vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds aren't considered a threat in smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if attempted removed from their dwellings.
+***Massive Flocks.*** Kobolds are not only known to bear a resemblance to vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds aren't considered a threat in smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if attempted removed from their dwellings.
 
-There is no concept of marriage in kobold society. Rather, they form a loose structure of packs and clans based on their lineages, with young individuals generally opting to migrate between nests and warrens in search of mates outside of their own family.
+They have no concept of marriage, rather, they form a loose structure of packs and clans based on lineages, with young individuals opting to migrate between nests and warrens in search of mates outside of their own family.
 
 Famously, kobolds can become very protective of their belongings, and prefer to keep a distance from other races in order to keep themselves safe.
 
-***Candle-Hoarders.*** Despite living deep down underground, populating self-made caverns and abandoned mines -- sometimes even chasing miners away if the pack is large enough -- kobolds do not see well in the dark.
+***Candle-Hoarders.*** Despite living deep underground, populating self-made caverns and abandoned mines -- sometimes even chasing miners away if the pack is large enough -- kobolds do not see well in the dark. They rely on candles to traverse whichever caverns they call home. 
 
-Instead, they rely on candles to traverse whichever caverns they call home. These candles are usually made by the kobolds themselves, twining wicks from their hairs and pulling wax from their ears, though in desperation a kobold may contemplate stealing candles from other nearby settlements. Once a candle has been acquired, it is placed atop the kobold's head and left to burn there.
+These candles are usually made by the kobolds them&shy;selves, twining wicks from their hairs and pulling wax from their ears, though in desperation a kobold may contemplate stealing candles from other nearby settlements. Once a candle has been acquired, it is placed atop the kobold's head and left to burn there.
 
-***Legends of the Darkness.*** Kobold legends speak of a dark, devouring presence dwelling in the deep places of the world, giving reason to the creatures' obsession with candles.
+***Legends of the Darkness.*** Kobold legends speak of a dark, devouring presence dwelling in the deep places of the world, giving reason to the creatures' candle obsession.
 
-To the same end, some kobold packs have been seen keeping rats as pets, as the critters do not fear the darkness themselves. A well-trained rat can keep the kobold company and help out with digging, while a not so well-trained rat can make for a good dinner.
+To the same end, some kobold packs have been seen keeping rats as pets, as the critters do not fear the dark&shy;ness themselves. A well-trained rat can keep the kobold company and help out with digging, while a not so well-trained rat can make for a good dinner.
 
+\columnbreak
 
-<div class='letterheader'></div>
-<div class="mmletter mml-k"></div>
-<div class="pageLetter">K</div>
-<div class='footnote'>KOBOLDS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
-
-<div style='margin-top:168px;'></div>
-
-### Kobold Names and Language
-
-Kobolds typically speak Low Common, and often adopt other wide-spoken languages in the regions they dwell. The latter is especially prevalent across the Eastern Kingdoms, where most kobold packs and clans have learned Common over their long history of interacting with humans.
-
-Kobold names and clan names are a descriptive amalgamation of everyday words. A kobold's personal name usually has two parts; a short, easily vocalized first name, and a descriptive surname. Kobold surnames are personal and not inherited, but rather like a title that sums up their character, appearance, or a well-known possession of theirs.
-
-Their clan names often refer to common traits passed down through that clan's lineage, or to quirks unique to their society, though they can be hard to distinguish from the names the kobolds give themselves.
-
-<div style='margin-top:-5px;'></div>
-
-**Kobold Names:** Bukk, Feb, Feez, Gik, Kubb, Mlepp,
-<br />&nbsp;&nbsp;&nbsp; Naal, Slag, Znaz, Zniv
-<br /> **Kobold Surnames:** Fatcandle, Flintdagger, Goldtooth,
-<br />&nbsp;&nbsp;&nbsp; Halfcandle, Luckybristles, Onetooth, Skullhat
-<br /> **Clan Names:** Bluewax, Boulderslide, Gravelsnout,
-<br />&nbsp;&nbsp;&nbsp;Mudwhisker, Skywhisker, Windshear
+<div style='margin-top:545px;'></div>
 
 ___
 > ## Kobold
@@ -3397,9 +3366,31 @@ ___
 > ### Actions
 > ***Pickaxe.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6) piercing damage.
 
-\columnbreak
+<div class='letterheader'></div>
+<div class="mmletter mml-k"></div>
+<div class="pageLetter">K</div>
+<div class='footnote'>KOBOLDS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/F1ZgnDD.png' style='position:absolute; top:132px; right:-25px; width:510px; mix-blend-mode:darken' />
+<img src='https://www.gmbinder.com/images/qLJ3Z1l.jpg' style='position:absolute; top:950px; right:390px; width:350px; mix-blend-mode:darken' />
 
-<div style='margin-top:432px;'></div>
+\pagebreakNum
+
+### Kobold Names and Language
+Kobolds typically speak Low Common, and often adopt other wide-spoken languages in the regions they dwell. The latter is especially prevalent across the Eastern Kingdoms, where most kobold packs and clans have learned Common over their long history of interacting with humans.
+
+Kobold names and clan names are a descriptive amal&shy;gamation of everyday words. Kobold name usually has two parts; a short, easily vocalized first name, and a descriptive surname. Kobold surnames are personal and not inherited, but rather like a title that sums up their character, appear&shy;ance, or a well-known possession of theirs.
+
+Their clan names often refer to common traits passed down through that clan's lineage, or to quirks unique to their society, though they can be hard to distinguish from the names the kobolds give themselves.
+
+<div style='margin-top:-5px;'></div>
+
+**Kobold Names:** Bukk, Feb, Feez, Gik, Kubb, Mlepp,
+<br />&nbsp;&nbsp;&nbsp; Naal, Slag, Znaz, Zniv
+<br /> **Kobold Surnames:** Fatcandle, Flintdagger, Goldtooth,
+<br />&nbsp;&nbsp;&nbsp; Halfcandle, Luckybristles, Onetooth, Skullhat
+<br /> **Clan Names:** Bluewax, Boulderslide, Gravelsnout,
+<br />&nbsp;&nbsp;&nbsp;Mudwhisker, Skywhisker, Windshear
 
 ___
 > ## Kobold Geomancer
@@ -3430,11 +3421,14 @@ ___
 > ### Actions
 > ***Club.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) bludgeoning damage.
 
-<div class="pageLetter">K</div>
-<div class='footnote'>KOBOLDS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+\columnbreak
 
-\pagebreakNum
+> ##### Variant: Candles in the Dark
+> Kobold legends speak of a devouring presence, hiding in the darkness, giving to them their over&shy;whelming fear of the dark.
+>
+> A kobold without a lit candle, who is standing in dim light or darkness, must succeed on a DC 12 Wisdom saving throw or be frightened for 1 minute. The kobold can repeat the saving throw at the end of each its turns, also ending the effect if it manages to light a candle again.
+>
+> On a successful save, if another creature was responsible for the loss of candlelight, the kobold deals an extra 4 (1d6) damage when it hits that creature with a melee attack.
 
 ___
 > ## Kobold Taskmaster
@@ -3464,20 +3458,10 @@ ___
 >
 > ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the kobold can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the kobold. A creature can benefit from only one Leadership die at a time. This effect ends if the kobold is incapacitated.
 
-<div style="margin-top:32px"></div>
-
-> ##### Candles in the Dark
-> Kobold legends speak of a devouring presence, hiding in the darkness, giving to them their over­whelming fear of the dark.
->
-> As an optional rule, consider the following:
->
-> A kobold without a lit candle, who is standing in dim light or darkness, must succeed on a DC 12 Wisdom saving throw or be frightened for 1 minute. The kobold can repeat the saving throw at the end of each its turns, also ending the effect if it manages to light a candle again.
->
-> On a successful save, if another creature was responsible for the loss of candlelight, the kobold deals an extra 4 (1d6) damage when it hits that creature with a melee attack.
-
 <div class="pageLetter">K</div>
 <div class='footnote'>KOBOLDS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/QKD9YhA.jpg' style='position:absolute; top:500px; right:-450px; width:1300px' />
+<img src='https://www.gmbinder.com/images/vphWuHd.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
