@@ -2383,20 +2383,6 @@ ___
 
 <div style='margin-top:300px;'></div>
 
-## Fleshbeast
-
-Though the exact origin of these monstrous aberrations is unknown, the theories are many. Some even go so far as to claim them a product of the Twisting Nether itself, pulled from there onto other worlds.
-
-***Nightmare Made Flesh.*** Slavering, hungering monstrosities, the best way to describe the terrifying fleshbeasts are plainly as creatures of nightmare. Their presence has been witnessed both on Azeroth and beyond, as they appear to tail along on magical experiments that try to exploit the powers of the Twisting Nether, effectively using them as rifts through which they can travel between worlds.
-
-***Parasitic Brood.*** Fleshbeasts are decidedly mindless, acting entirely on instinct. They hunt by flocking together in large swarms, overpowering their prey and consuming it, sometimes while it is still alive. Even after the fleshbeast has had its fill, most of the victim will still be left behind intact -- a perfect nesting ground for their wormlike spawn, who will later devour the remains as they hatch.
-
-Other predators attempting to scavenge remains left behind by a fleshbeast will most likely be infected as well, and later eventually devoured by the hatchlings.
-
-\columnbreak
-
-<div style='margin-top:296px;'></div>
-
 ___
 > ## Fleshbeast
 >*Small aberration, neutral evil*
@@ -2423,9 +2409,25 @@ ___
 >
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitu&shy;tion saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 3 (1d6) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured. A swarm of insect's crawl out of a creature 1d4 rounds after it died if it was diseased upon its death.
 
+\columnbreak
+
+<div style='margin-top:650px;'></div>
+
+## Fleshbeast
+Though the exact origin of these monstrous aberrations is unknown, the theories are many. Some even go so far as to claim them a product of the Twisting Nether itself, pulled from there onto other worlds.
+
+***Nightmare Made Flesh.*** Slavering, hungering monstro&shy;sities, the best way to describe the terrifying fleshbeasts are plainly as creatures of nightmare. Their presence has been witnessed both on Azeroth and beyond, as they appear to tail along on magical experiments that try to exploit the powers of the Twisting Nether, using them as rifts through which they can travel between worlds.
+
+***Parasitic Brood.*** Fleshbeasts are decidedly mindless, acting entirely on instinct. They hunt by flocking together in large swarms, overpowering their prey and consuming it, sometimes while it is still alive. Even after the fleshbeast has had its fill, most of the victim will still be left behind intact -- a perfect nesting ground for their wormlike spawn, who will later devour the remains as they hatch.
+
+Other predators attempting to scavenge remains left behind by a fleshbeast will most likely be infected as well, and later eventually devoured by the hatchlings.
+
 <div class="pageLetter">F</div>
 <div class='footnote'>Fleshbeast </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/fUjDAtF.jpg' style='position:absolute; top:-110px; right:0px; width:990px' />
+<img src='https://www.gmbinder.com/images/whEzQnP.png' style='position:absolute; top:-150px; right:-50px; width:900px;transform:rotate(55deg)' />
+<img src='https://www.gmbinder.com/images/LvsnkBL.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/PbhlcK9.png' style='position:absolute; top:200px; right:-150px; width:700px;mix-blend-mode:darken; z-index:100' />
 
 \pagebreakNum
 
