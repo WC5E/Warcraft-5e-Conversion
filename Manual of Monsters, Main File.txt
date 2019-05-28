@@ -6141,40 +6141,26 @@ ___
 
 \pagebreakNum
 
-## Trogg
-
-*Among the troggs, the biggest and strongest becomes chieftain. All through their displays of power, intimidation, and sometimes what might as well be considered psychological warfare.*
-<div style="text-align:Right">
-
-*— The Explorers' League's Treatise on Troggs* &nbsp;</div>
-<div style='margin-top:-5px'></div>
-
-Troggs are savage creatures, powerfully built with long, muscular arms and muscles that appear carved from stone. They grow thick, coarse beards in colors resembling chalk or granite, and it is not rare to see minerals outright growing on their flesh. Their slouched posture and burly proportions have many characterizing them as apelike troglodytes.
+## Troggs
+Troggs are savage creatures with long, muscular arms and muscles that appear carved from stone. They grow thick, coarse beards in colors resembling chalk or granite, and it is not rare to see minerals outright growing on their flesh. Their slouched posture and burly proportions have many characterizing them as apelike troglodytes.
 
 ***Titanic origins.*** After the titanic Keepers had ended their war with the Old Gods, they set to work on shaping a new generation of titan-forged creatures within the Titan complex of Ulduar. Regrettably, their initial designs proved far too complex, yielding a race of brutish stone-skinned monstrosities -- troggs. Though the Keepers quickly went to rectify their mistakes, they could not bring themselves to destroy the defect creations. Rather, the titanic Keeper *Ironaya* saw the construction of the vault of Uldaman; a facility that would serve as a stasis chamber for the troggs, with herself as its designated warden.
 
 Over the years, a few small groups managed to break free from Uldaman. Some of these scattered themselves out across the surface of Azeroth, while others burrowed their way deeper down to dwell in the subterranean caverns of *Deepholm*. The rest stayed as they were, asleep beneath the earth, until a dwarven excavation unearthed the titanic vault. Once the seal was broken and the troggs awoke, they quickly overpowered the dwarves and swarmed to the surface.
 
-There, the troggs burrowed their way through every peak and valley across Khaz Modan, including the subterranean gnomish city of Gnomeregan. To this day, trogg tribes can be found in every corner of the dwarven mountains -- with distant cousins across Azeroth, above and beneath the earth.
+There, the troggs burrowed their way through every peak and valley across Khaz Modan, including the subterranean gnomish city of Gnomeregan. To this day, trogg tribes can be found in every corner of the Khaz Modan -- with distant cousins across Azeroth, above and beneath the earth.
 
 ***Progenitor race.*** Since the troggs were the initial failed experiment of the titanic Keepers, to flourish new life on Azeroth, their failure became the blueprint for future revised designs -- and ultimately, the *earthen*. A race of stone-carved beings created to help shape and order the subterranean regions of the world during the ordering of Azeroth, of which some later became the creatures since known as dwarves.
 
 Theories have also been floated, mainly by the prominent dwarven explorer Brann Bronzebeard, that the *kobolds* are themselves an evolved offshoot from an early group of troggs. Likely one that early broke free from the titanic vault of Uldaman. There has been no conclusive evidence of this, only theories surrounding their resemblance.
 
-***Primitive and fierce.*** Troggs are best known for their stature, ferocity, and smell -- said to resemble a mixture of mold, mange, and sour monkey. Living together in tight-knit tribes and clans, their main driving force is an imposing psyche and impressive force of will, though they are not known to be intelligent beyond being sentient. Less so than even an ogre would be considered. They follow the leadership of whoever can prove themselves the biggest and strongest, with aspiring trogg chieftains often going to great lengths to prove their viciousness.
+***Primitive and fierce.*** Troggs are best known for their stature, ferocity, and smell -- said to resemble a mixture of mold, mange, and sour monkey. Living together in tight-knit tribes and clans, their main driving force is an imposing psyche and impressive force of will, though they are not known to be intelligent beyond being sentient. Less so than even an ogre would be considered. They follow the leadership of whoever can prove themselves the biggest and strongest, with aspiring trogg chieftains often going to great lengths to prove their viciousness. Troggs are known to eat whatever they can get their hands on; including rocks, or even occasionally other troggs.
 
+***Underground creatures.*** With most of their existence spent underground, troggs are not fond of sunlight. Wher&shy;ever troggs dwell, a deep network of intertwining tunnels is likely to be somewhere nearby. They do most of their digging by hand, using their jagged claws, and occasionally shape weapons and other tools out of the rocks they excavate. Like the troggs themselves, a trogg dwelling is ill-reputed for is repulsive smell.
 
 \columnbreak
 
-<div style='margin-top:110px;'></div>
-
-Troggs are known to eat whatever they can get their hands on; including rocks, or even occasionally other troggs.
-
-***Underground creatures.*** With most of their existence spent underground, troggs are not fond of sunlight. Wherever troggs dwell, a deep network of intertwining tunnels is likely to be somewhere nearby. They do most of their digging by hand, using their jagged claws, and occasionally shape weapons and other tools out of the rocks they excavate. Like the troggs themselves, a trogg dwelling is ill-reputed for is repulsive smell.
-
-### Trogg Names and Language
-
-Troggs do not possess any discernible language of their own, and tend to resort to violence rather than negotiation when faced with a threat. Still, those who do communicate do so in a mixture of primal grunts and what rudimentary Common they know.
+<div style='margin-top:405px;'></div>
 
 ___
 > ## Trogg
@@ -6208,12 +6194,15 @@ ___
 <div class="pageLetter">T</div>
 <div class='footnote'>TROGGS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/vOvE9Kf.jpg' style='position:absolute; top:50px; right:-150px; width:600px;mix-blend-mode:darken;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/JMzA7JW.png' style='position:absolute; top:-260px; right:-45px; width:500px;transform:rotate(4deg)' />
 
 \pagebreakNum
 
-<div style='margin-top:38px;'></div>
+### Trogg Names and Language
+Troggs do not possess any discernible language of their own, and tend to resort to violence rather than negotiation when faced with a threat. Still, those who do communicate do so in a mixture of grunts and what Common they know.
 
-Their names draw from the same core roots as the dwarven language, especially its hard consonants and guttural sounds. Some troggs, usually tribe leaders, choose names in Common to best describe themselves. It is unclear whether these names are direct translations, or deliberate choices to intimidate other races.
+Their names draw from the same roots as dwarven language, especially with its hard consonants and guttural sounds. Some troggs, usually tribe leaders, choose names in Common to best describe themselves. It is unclear whether these names are direct translations, or deliberate choices to intimidate other races.
 
 Trogg tribes are usually in Common, and often draw from their way of being or directly from whichever place they claim as their home.
 
@@ -6223,6 +6212,8 @@ Trogg tribes are usually in Common, and often draw from their way of being or di
 <br />&nbsp;&nbsp;&nbsp; Morloch, Murdaloc, Raggosh, Revelosh
 <br />**Clan Names:** Bonegnasher, Caverndeep, Gravelflint,
 <br />&nbsp;&nbsp;&nbsp; Irondeep, Rockjaw, Scrapbone, Stonevault
+
+<div style='margin-top:-15px;'></div>
 
 ___
 > ## Trogg Ambusher
@@ -6255,14 +6246,16 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack*: +5 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 3) slashing damage.
 >
-> ***Sling.*** *Ranged Weapon Attack*: +3 to hit, reach 120 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
->
 > ### Reactions
 > ***Parry.*** The trogg adds 2 to its AC against one melee attack that would hit it, parrying it by using its rocky forearm. To do so, the trogg must see the attacker.
 
-\columnbreak
+<div class="pageLetter">T</div>
+<div class='footnote'>TROGGS </div>
+<img src='https://www.gmbinder.com/images/rRmnHpu.jpg' style='position:absolute; top:0px; right:-225px; width:880px' />
+<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:250px; width:900px' />
+<img src='https://www.gmbinder.com/images/IwT4hSy.png' style='position:absolute; top:0px; right:160px; width:900px;transform:scaley(-1)' />
 
-<div style='margin-top:300px;'></div>
+\pagebreakNum
 
 ___
 > ## Trogg Shaman
@@ -6296,11 +6289,7 @@ ___
 > ### Actions
 > ***Staff.*** *Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 7 (1d8 + 2) bludgeoning damage if used with two hands to make a melee attack.
 
-<div class="pageLetter">T</div>
-<div class='footnote'>TROGGS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Trogg Chieftain
@@ -6333,7 +6322,8 @@ ___
 
 <div class="pageLetter">T</div>
 <div class='footnote'>TROGGS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/2va1koF.jpg' style='position:absolute; top:470px; right:-10px; width:1300px' />
+<img src='https://www.gmbinder.com/images/vphWuHd.png' style='position:absolute; top:-200px; right:0px; width:900px' />
 
 \pagebreakNum
 
