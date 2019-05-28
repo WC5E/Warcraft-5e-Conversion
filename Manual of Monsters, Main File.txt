@@ -2425,9 +2425,8 @@ Other predators attempting to scavenge remains left behind by a fleshbeast will 
 <div class="pageLetter">F</div>
 <div class='footnote'>Fleshbeast </div>
 <img src='https://www.gmbinder.com/images/fUjDAtF.jpg' style='position:absolute; top:-110px; right:0px; width:990px' />
-<img src='https://www.gmbinder.com/images/whEzQnP.png' style='position:absolute; top:-150px; right:-50px; width:900px;transform:rotate(55deg)' />
 <img src='https://www.gmbinder.com/images/LvsnkBL.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/PbhlcK9.png' style='position:absolute; top:200px; right:-150px; width:700px;mix-blend-mode:darken; z-index:100' />
+<img src='https://www.gmbinder.com/images/cfCly0q.png' style='position:absolute; top:200px; right:-165px; width:700px; z-index:100' />
 
 \pagebreakNum
 
