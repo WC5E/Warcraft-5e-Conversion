@@ -84,6 +84,10 @@
     padding-right: 0px;
   }
 
+  .phb blockquote {
+    box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
+  }
+
   /* For creature statblocks within range (start and end must be specified),
      don't show a background. Used for the appendix creatures */
   .phb:nth-of-type(n+107):nth-of-type(-n+130) hr+section blockquote {
@@ -196,6 +200,28 @@
   .mml-x { background-image: url(https://gmbinder.com/images/ojIYjh0.png); }
   .mml-y { background-image: url(https://gmbinder.com/images/Gi1ePwY.png); }
   .mml-z { background-image: url(https://gmbinder.com/images/0ZTFNVs.png); }
+
+
+/* INK BLOT STYLES */
+
+  /* Root style for inkblots. Use alone, or together with
+  one of the inkb lotstyle classes below. Essentially:
+  <img url='{url}' class='inkblot inkblot-blue' />
+  */
+  .inkblot {
+    position: absolute;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+
+  .inkblot-blue {
+    filter: hue-rotate(190deg) saturate(120%)
+  }
+
+  .inkblot-green {
+    filter: hue-rotate(120deg)
+  }
+
 </style>
 
 <div class='cover-header'> <div style='margin-top:115px;'></div> Manual of Monsters </div>
@@ -4076,7 +4102,9 @@ ___
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/YpvK7Ef.png' style='position:absolute; top:100px; right:150px; width:500px;transform:rotate(260deg)' />
+
+<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-blue' style='top:100px; right:150px; width:500px; transform:rotate(260deg)' />
+
 <img src='https://www.gmbinder.com/images/9nXCFwU.png' style='position:absolute; top:320px; right:100px; width:200px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/ggaGnjz.png' style='position:absolute; top:280px; right:360px; width:400px;transform:scalex(-1)' />
 
@@ -4152,7 +4180,9 @@ ___
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/64Wsryy.png' style='position:absolute; top:00px; right:0px; width:400px; transform:rotate(90deg)' />
+
+<img src='https://www.gmbinder.com/images/64Wsryy.png' class='inkblot inkblot-blue' style='top:00px; right:0px; width:400px; transform:rotate(90deg)' />
+
 <img src='https://www.gmbinder.com/images/FwruUvJ.png' style='position:absolute; top:-100px; right:-20px; width:500px' />
 
 \pagebreakNum
@@ -4205,7 +4235,9 @@ ___
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/64Wsryy.png' style='position:absolute; top:-300px; right:0px; width:700px; transform:rotate(90deg)' />
+
+<img src='https://www.gmbinder.com/images/64Wsryy.png' class='inkblot inkblot-blue' style='top:-300px; right:0px; width:700px; transform:rotate(90deg)' />
+
 <img src='https://www.gmbinder.com/images/DsvKvCU.png' style='position:absolute; top:-100px; right:-190px; width:1200px' />
 
 \pagebreakNum
