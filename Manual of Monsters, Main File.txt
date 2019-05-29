@@ -3936,72 +3936,7 @@ ___
 
 \pagebreakNum
 
-## Mechanicals
-
-Mechanical constructs distinguish themselves from organic creatures mainly for their lack of blood, internal organs, and natural instincts. Instead, gears whirr and circuits spark inside these mobile machinations -- some of which act only at the behest of whoever holds the controls, while others have been configured to automatically carry out a pre-determined set of instructions.
-
-Some mechanicals distinguish themselves further still, possessing instructions so meticulously crafted as to resemble genuine intelligence. As they are wholly driven by the logic of their configuration, mechanical constructs do not possess the ability to make an emotional response: they cannot be charmed, and they certainly cannot be frightened.
-
-***Titanic Legacy.*** The origin of Azeroth's great mechanical achievements can be traced back to the titanic Watchers and the ordering of Azeroth. There, the titanic Keeper Mimiron oversaw the creation of a race of diminutive clockwork humanoids; mechagnomes, forerunners of the gnomes who now stand on the contested frontier of technological innovation.
-
-Just as Mimiron saw the creation of the gnomes in his image, most gnomish inventions since have carried a spitting likeness to the Keeper's own machinations.
-
-***Gnomish and Goblin Ingenuity.*** Alongside the legacy of the gnomes, carrying on the work of the titanic Keeper who saw their creation, another source of technolgical innovation on Azeroth has been the artifically enhanced ingenuity of the goblins. Unlike the gnomes, however, such goblin ingenuity has a tendency to be remarkably destructive. The two races have led a contested field of engineering, and have overseen countless mechanical wonders and mishaps across several decades -- including cities, transport systems, explosive automatons, and giant death rays.
-
-As old addage goes: If it came with cryptic instructions, it was made by a gnome. If it came with a detonator, it was made by a goblin.
-
-\columnbreak
-
-### Alarm-o-Bot
-
-These constructs are, as the name suggests, walking alarms. Originally by gnomes as a safeguard, to protect themselves against enemies hidding away in the dark, rugged terrain of their homelands, the alarm-o-bot keeps a constant watch for any sound or motion that it can discern with its numerous sensors. If it detects anything it cannot confirm as friendly, it blares out a high-pitched warning.
-
-### Bombling
-
-One of the original pinnacles of goblin engineering, bombligns -- or bomb bots -- is a bomb affixed with a set of legs and a pair of eyes. Once a bombling has fixed itself onto a target, it gives chase until it can get close enough to detonate.
-
-### Crowd Pummeler
-
-A mechanical design adopted both by goblins and gnomes, a crowd pummeler takes the form of a tall bipedal construct loaded with heavy weaponry. Its name is not coincidental, as it is most commonly used as cheap and easily maintained sentries; programmable with a set of laws and regulations, and equipped with the chief directive to pummel anyone found to break said laws.
-
-### Mechano-Tank
-
-The Mechano-tank, or spider tank, is a gnomish construct best known for its armoured chassis and spider-like design. Built for close-quarters conflicts, most mechano-tanks come armed with fine-tuned and deadly weaponry. Their legs are able to contract and release, launching the tank forward into combat.
-
-<div class="pageLetter">M</div>
-<div class='footnote'>MECHANICALS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
-
-<div style='margin-top:432px;'></div>
-
-### Mechanical Animal Template
-A mechanical animal is any Huge or smaller beast created by gnomes and engineers to resemble the shape of a beast found on Azeroth. The following characteristics change or are added to a mechanical animal when created.
-
-***Retained Characteristics.*** The mechanical animal retains its Armor Class, hit points, Hit Dice, Speed, Strength, Dexterity, Constitution, vulnerabilities, resis&shy;tances, immunities, and special traits.
-
-***Lost Characteristics.*** The mechanical animal loses its original saving throw and skill bonuses, and special sense. It loses any action that isn't Multiattack or a melee weapon attack that deals bludgeoning, piercing, or slashing damage. If it has an action or a melee weapon attack that deals some other type of damage, it loses the ability to deal damage of that type, unless the damage comes from a piece of equipment, such as a magic item.
-
-***Type.*** The mechanical animal's type is construct, and it loses any tags it might have had.
-
-***Alignment.*** The mechanical animal is unaligned.
-
-***Ability Scores.*** The mechanical animal's ability scores change as follows: Int 3 (-4), Wis 11 (+0), Cha 1 (-5).
-
-***Senses.*** The mechanical animal has darkvision with a radius of 60 feet.
-
-***Condition Immunities.*** The mechanical animal can't be charmed, frightened, paralyzed, petrified, poisoned, or gain exhaustion levels.
-
-***Languages.*** The mechanical animal loses all languages it might've known, and understand the languages of its creator, but can't speak.
-
-\columnbreak
-
-<div style='margin-top:440px;'></div>
-
-#### Sample Mechanical Animal
-
-As an example, the Mechanostrider shown here uses the base statistics of a tallstrider. Mechanostriders are used for transportation among gnomes, with each mechanostrider specifically designed with the individual rider in mind.
+<div style='margin-top:530px;'></div>
 
 ___
 > ## Mechanostrider
@@ -4028,13 +3963,54 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
 
+\columnbreak
+
+## Mechanicals
+Mechanical constructs distinguish themselves from organic creatures mainly for their lack of blood, internal organs, and natural instincts. Instead, gears whirr and circuits spark inside these mobile machinations -- some of which act only at the behest of whoever holds the controls, while others have been configured to automatically carry out a pre-determined set of instructions.
+
+Some mechanicals distinguish themselves further still, possessing instructions so meticulously crafted as to resemble genuine intelligence. As they are wholly driven by the logic of their configuration, mechanical constructs do not possess the ability to make an emotional response: they cannot be charmed, and they certainly cannot be frightened.
+
+***Titanic Legacy.*** The origin of Azeroth's great mechanical achievements can be traced back to the titanic Watchers and the ordering of Azeroth. There, the titanic Keeper Mimiron oversaw the creation of a race of diminutive clockwork humanoids; mechagnomes, forerunners of the gnomes who now stand on the contested frontier of technological innovation.
+
+***Gnomish and Goblin Ingenuity.*** Alongside the legacy of the gnomes, carrying on the work of the titanic Keeper who saw their creation, another source of technolgical innova&shy;tion on Azeroth has been the artifically enhanced ingenuity of the goblins. Unlike the gnomes, however, such goblin ingenuity has a tendency to be remarkably destructive. The two races have led a contested field of engineering, and have overseen countless mechanical wonders and mishaps across several decades -- including cities, transportation systems, explosive automatons, and giant death rays.
+
+### Mechanical Animal Template
+A mechanical animal is any Huge or smaller beast created by gnomes and engineers to resemble the shape of a beast found on Azeroth. The following characteristics change or are added to a mechanical animal when created.
+
+***Retained Characteristics.*** The mechanical animal retains its Armor Class, hit points, Hit Dice, Speed, Strength, Dexterity, Constitution, vulnerabilities, resis&shy;tances, immunities, and special traits.
+
+***Lost Characteristics.*** The mechanical animal loses its original saving throw and skill bonuses, and special sense. It loses any action that isn't Multiattack or a melee weapon attack that deals bludgeoning, piercing, or slashing damage. If it has an action or a melee weapon attack that deals some other type of damage, it loses the ability to deal damage of that type, unless the damage comes from a piece of equipment, such as a magic item.
+
+***Type.*** The mechanical animal's type is construct, and it loses any tags it might have had.
+
+***Alignment.*** The mechanical animal is unaligned.
+
+***Ability Scores.*** The mechanical animal's ability scores change as follows: Int 3 (-4), Wis 11 (+0), Cha 1 (-5).
+
+***Senses.*** The mechanical animal has 60 feet darkvision.
+
+***Condition Immunities.*** The mechanical animal can't be charmed, frightened, paralyzed, petrified, poisoned, or gain exhaustion levels.
+
+***Languages.*** The mechanical animal loses all languages it might've known, and understand the languages of its creator, but can't speak.
+
+#### Sample Mechanical Animal
+As an example, the Mechanostrider shown here uses the base statistics of a tallstrider. 
+
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/FY0kkNX.png' style='position:absolute; top:0px; right:350px; width:400px' />
 
 \pagebreakNum
 
-<div style='margin-top:498px;'></div>
+### Alarm-o-Bot
+These constructs are, as the name suggests, walking alarms. Originally by gnomes as a safeguard, to protect themselves against enemies hidding away in the dark, rugged terrain of their homelands, the alarm-o-bot keeps a constant watch for any sound or motion that it can discern with its numerous sensors. If it detects anything it cannot confirm as friendly, it blares out a high-pitched warning.
+
+### Bombling
+One of the original pinnacles of goblin engineering, bomb&shy;lings -- or bomb bots -- is a bomb affixed with a set of legs and a pair of eyes. Once a bombling has fixed itself onto a target, it gives chase until it gets close enough to detonate.
+
+
+<div style='margin-top:261px;'></div>
 
 ___
 > ## Alarm-o-bot
@@ -4064,7 +4040,13 @@ ___
 
 \columnbreak
 
-<div style='margin-top:498px;'></div>
+### Crowd Pummeler
+A mechanical design adopted by both goblins and gnomes, crowd pummelers take the form of a tall bipedal construct loaded with heavy weaponry. Its name is not coincidental, as it is most commonly used as cheap, easily maintained sentries; programmable with a set of laws and regulations, and equipped with the chief directive to pummel anyone found to break said laws.
+
+### Mechano-Tank
+The Mechano-tank, or spider tank, is a gnomish construct best known for its armoured chassis and spider-like design. Built for close-quarters conflicts, most mechano-tanks come armed with fine-tuned and deadly weaponry. Their legs are able to contract and release, launching the tank forward into combat.
+
+<div style='margin-top:230px;'></div>
 
 ___
 > ## Bombling
@@ -4094,10 +4076,13 @@ ___
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/YpvK7Ef.png' style='position:absolute; top:100px; right:150px; width:500px;transform:rotate(260deg)' />
+<img src='https://www.gmbinder.com/images/9nXCFwU.png' style='position:absolute; top:320px; right:100px; width:200px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/ggaGnjz.png' style='position:absolute; top:280px; right:360px; width:400px;transform:scalex(-1)' />
 
 \pagebreakNum
 
-<div style='margin-top:442px;'></div>
+<div style='margin-top:-15px;'></div>
 
 ___
 > ## Crowd Pummeler
@@ -4127,9 +4112,7 @@ ___
 >
 > ***Crowd Pummel (Recharge 6).*** The pummeler slams its claws into the ground. Each creature within 5 feet of it must make a DC 12 Dexterity saving throw, taking 9 (2d8) bludgeoning damage on a failed save, or half as much damage on a successful one. On a failed saving throw, the target is knocked prone.
 
-\columnbreak
-
-<div style='margin-top:570px;'></div>
+<div style='margin-top:20px;'></div>
 
 > ##### Variant: Arcane Nullifier
 > An arcane nullifier has a challenge rating of 4 (1,100 XP). It has the same statistics as a crowd pummeler except that it replaces the pummeler's action options with the following action options.
@@ -4149,14 +4132,34 @@ ___
 >
 > &nbsp;&nbsp;&nbsp; ***Reflection Field.*** When a creature hits the nullifier with a ranged spell attack, the nullifier can reflect the spell onto a target within 15 feet of it.
 
+\columnbreak
+
+<div style='margin-top:459px;'></div>
+
+> ##### Crewing a Mechano-tank
+> Most mechano-tanks are manual machines that require a pilot to operate, and even autopiloted tanks can be overwritten to work manually for a time.
+>
+> A creature can use its action to attempt to climb a **piloted** mechano-tank by succeeding on a DC 14 Strength (Athletics) check. On a failed save, the creature expends half its movement and is unable to climb the mechano-tank.
+>
+> The controls of the mechano-tank is sealed tight behind a hatch. The hatch can be opened with a successful DC 20 Strength check, or broken if dealt 20 bludgeoning, piercing, or slashing damage, it has an Armor Class (AC 15).
+>
+> A Small or smaller creature can expend 5 feet of movement to enter an unoccupied mechano-tank. A creature unfamiliar with the controls of tank must succeed on a DC 15 Intelligence check to under&shy;stand the controls of the machine before it is able to pilot it and control its actions and movement.
+>
+> While piloted, the mechano-tanks Intelligence, Wisdom, and Charisma scores are exchanged with those of the pilot. A piloted tank uses the initiative of its pilot. The pilot must use its action, reaction, and movement to use the machines action options or force it to move to a new location. While a crea&shy;ture is crewing the mechano-tank, it is considered to have full cover against any attack made against it from the ground.
+>
+> Taking control of an **autopiloted** tank requires a successful DC 17 Tinker's Tool Intelligence check. On a successful save, the creature takes control of the tank until the end of the creature's next turn. At which point the shredder’s failsafe mechanisms return, requiring a new save to temporarily take control of it.
+
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/64Wsryy.png' style='position:absolute; top:00px; right:0px; width:400px; transform:rotate(90deg)' />
+<img src='https://www.gmbinder.com/images/FwruUvJ.png' style='position:absolute; top:-100px; right:-20px; width:500px' />
 
 \pagebreakNum
 
-<div style='margin-top:40px;'></div>
+<div style='position:absolute; bottom:64px; right:1.7cm; left:1.7cm; margin-top:1200px;'>
 
+___
 ___
 > ## Mechano-tank
 >*Large construct, unaligned*
@@ -4181,7 +4184,7 @@ ___
 >
 > ***Mechano Resistance.*** The tank is resistance to the damage type of its thrower weapon, as described in the Mechano-tank Type table below.
 >
-> ### Actions
+> ### <br><br> Actions
 > ***Multiattack.*** The tank can use its Charged Leap. It then makes two machine gun attacks.
 >
 > ***Machine Gun.*** *Ranged Weapon Attack:* +5 to hit, range 120/380 ft., one target. *Hit:* 11 (2d8 + 2) piercing damage.
@@ -4189,7 +4192,6 @@ ___
 > ***Thrower Weapon (Recharge 5-6).*** The tank uses its thrower to spew out a blast of destructive energy. The mechano-tank type determines the size, shape, and damage type of the thrower's attack. Each creature in the area of the thrower must make a DC 14 saving throw, the type of which is determined by the tank's thrower type. A creature takes 18 (4d8) damage on a failed save, or half as much damage on a success.
 >
 > ***Charged Leap (Recharge 6).*** The tank leaps high into the air, landing in a space no more than 60 feet from where it started. Each creature in the tank's space when it lands must make a DC 15 Dexterity saving throw, taking 10 (3d6) damage of the tank's thrower type on a failed save, or half as much damage on a successful one. On a failed saving throw, a target is knocked prone.
-> <div style='margin-top:15px;'></div>
 >
 > ##### Mechano-tank Type
 > |&nbsp; Type        | Damage |&nbsp;| Thrower Weapon         |
@@ -4197,30 +4199,14 @@ ___
 > |&nbsp; Firewalker  | Fire           || 15 ft. cone (Dex. save)      |
 > |&nbsp; Frostwalker | Cold           || 15 ft. cone (Con. save)      |
 > |&nbsp; Shockwalker | Lightning      || 5 by 30 ft. line (Dex. save) |
->
-
-&nbsp;
-
-<div style='position:relative; margin-top:433px; z-index:100;'>
-
-> ##### Crewing a Mechano-tank
-> Most mechano-tanks are manual machines that require a pilot to operate, and even autopiloted tanks can be overwritten to work manually for a time.
->
-> A creature can use its action to attempt to climb a **piloted** mechano-tank by succeeding on a DC 14 Strength (Athletics) check. On a failed save, the creature expends half its movement and is unable to climb the mechano-tank.
->
-> The controls of the mechano-tank is sealed tight behind a hatch. The hatch can be opened with a successful DC 20 Strength check, or broken if dealt 20 bludgeoning, piercing, or slashing damage, it has an Armor Class (AC 15).
->
-> A Small or smaller creature can expend 5 feet of movement to enter an unoccupied mechano-tank. A creature unfamiliar with the controls of tank must succeed on a DC 15 Intelligence check to under&shy;stand the controls of the machine before it is able to pilot it and control its actions and movement.
->
-> While piloted, the mechano-tanks Intelligence, Wisdom, and Charisma scores are exchanged with those of the pilot. A piloted tank uses the initiative of its pilot. The pilot must use its action, reaction, and movement to use the machines action options or force it to move to a new location. While a crea&shy;ture is crewing the mechano-tank, it is considered to have full cover against any attack made against it from the ground.
->
-> Taking control of an **autopiloted** tank requires a successful DC 17 Tinker's Tool Intelligence check. On a successful save, the creature takes control of the tank until the end of the creature's next turn. At which point the shredder’s failsafe mechanisms return, requiring a new save to temporarily take control of it.
 
 </div>
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/64Wsryy.png' style='position:absolute; top:-300px; right:0px; width:700px; transform:rotate(90deg)' />
+<img src='https://www.gmbinder.com/images/DsvKvCU.png' style='position:absolute; top:-100px; right:-190px; width:1200px' />
 
 \pagebreakNum
 
