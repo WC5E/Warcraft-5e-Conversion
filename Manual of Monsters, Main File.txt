@@ -84,6 +84,10 @@
     padding-right: 0px;
   }
 
+  .phb blockquote {
+    box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
+  }
+
   /* For creature statblocks within range (start and end must be specified),
      don't show a background. Used for the appendix creatures */
   .phb:nth-of-type(n+107):nth-of-type(-n+130) hr+section blockquote {
