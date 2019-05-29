@@ -3153,11 +3153,10 @@ ___
 
 \pagebreakNum
 
-<div style="margin-top:460px;"></div>
+<div style="margin-top:500px;"></div>
 
 ## Grell
-
-A grell is a small, long-armed forest spirit with pointed ears and accentuated brows. Though their appearance carries an uncanny resemblence to imps, they are fairly large by comparison and lack any of the typical halmarks of a demon.
+A grell is a small, long-armed forest spirit with pointed ears and accentuated brows. Though their appearance carries an uncanny resemblence to imps, they are fairly large by comparison and lack any of the typical features of a demon.
 
 Among explorers, researchers, and naturalists, it is speculated that the similarities between grells and imps are not coincidental, and that the first imps were in fact grells given into demonic influence during the first invasion of the Burning Legion. Such theories are widespread, but have never been confirmed nor denied.
 
@@ -3165,9 +3164,9 @@ Among explorers, researchers, and naturalists, it is speculated that the similar
 
 Some have speculated as to whether these adornments serve a purpose, such as magical foci for casting spells, or if they are just for decoration.
 
-***Fiendish Personality.*** It is said that the grell exist as an ebodiment of the wild, uncanny side of nature, and their personality shows this notion all too well. A single grell on its own will pose no particular danger to any would-be travellers, but a gang of grells working together can be a real threat to settlements and communities living close to their dwelling.
+***Fiendish Personality.*** It is said that the grell exist as an ebodiment of the wild, uncanny side of nature, and their personality shows this notion all too well. Grells on their own pose no particular danger to any would-be travelers, but a gang of grells working together can be a real threat to settlements and communities living close to their dwelling.
 
-The most actively malicious grell are the ones who choose to roam around in packs, actively searching for straggling travellers to ambush, overwhelm, and steal from. Though their diet mainly consists of moss, tubers, and mushrooms, it is not unheard of for a pack of grells to hunt wild game.
+The most malicious grell are the ones who choose to roam around in packs, actively searching for straggling travellers to ambush, overwhelm, and steal from. Though their diet mainly consists of moss, tubers, and mushrooms, it is not unheard of for a pack of grells to hunt wild game.
 
 \columnbreak
 
@@ -3204,7 +3203,9 @@ ___
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GRELL </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/ZTHL769.jpg' style='position:absolute; top:0px; right:250px; width:1350px' />
+<img src='https://www.gmbinder.com/images/f9sluCp.png' style='position:absolute; top:-100px; right:-50px; width:1000px' />
+<img src='https://www.gmbinder.com/images/KfYclYJ.png' style='position:absolute; top:60px; right:50px; width:500px;transform:scalex(-1)' />
 
 \pagebreakNum
 
