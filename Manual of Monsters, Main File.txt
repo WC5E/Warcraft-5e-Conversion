@@ -1025,6 +1025,7 @@ A basilisk has an insatiable hunger for such crystals, and it is not uncommon to
 <div class="pageLetter">B</div>
 <div class='footnote'>BASILISK </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://i.imgur.com/KcRAZwq.png" class="inkblot" style="top: -80px;right: 175px;width: 540px;transform: rotate(78deg);">
 <img src='https://www.gmbinder.com/images/wqJdnmf.png' style='position:absolute; top:-70px; right:70px; width:700px' />
 
 \pagebreakNum
@@ -1131,7 +1132,8 @@ ___
 <div class="pageLetter">B</div>
 <div class='footnote'>BOG BEASTS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/JKyUFKT.png' style='position:absolute; top:0px; right:220px; width:700px' />
+<img src="https://i.imgur.com/OkSEy3f.png" class="inkblot" style="top: -170px;left: -85px;width: 700px;transform: rotate(248deg);">
+<img src='https://www.gmbinder.com/images/JKyUFKT.png' style='position:absolute; top:10px; right:220px; width:700px' />
 
 \pagebreakNum
 
