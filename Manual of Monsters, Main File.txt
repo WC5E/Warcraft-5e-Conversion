@@ -838,7 +838,9 @@ The toughest of ancients grow into ancients of war; mighty plants often found de
 <div class="mmletter mml-a"></div>
 <div class="pageLetter">A</div>
 <div class='footnote'>ANCIENTS </div>
+
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://i.imgur.com/CRqcfac.png' class='inkblot' style='top:-210px; left:-310px; width:900px;'>
 <img src='https://www.gmbinder.com/images/TfR3uTq.png' style='position:absolute; top:0px; right:300px; width:550px;transform:scalex(-1)' />
 
 \pagebreakNum
@@ -971,6 +973,7 @@ ___
 <div class="pageLetter">A</div>
 <div class='footnote'>ANCIENTS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://i.imgur.com/m6qCwvJ.png" class="inkblot" style="top:-190px; right:-250px; width:800px; transform:rotate(14deg);">
 <img src='https://www.gmbinder.com/images/nTufGSO.png' style='position:absolute; top:-100px; right:-110px; width:600px;transform:scalex(-1)' />
 
 \pagebreakNum
