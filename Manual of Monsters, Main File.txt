@@ -123,7 +123,7 @@
     background-image: url(https://gmbinder.com/images/lLWeevR.png), url('https://gmbinder.com/images/YWardeu.png');
     background-size: 120px 120px, 816px 55px;
     background-repeat: no-repeat, no-repeat;
-    background-position: bottom right, bottom;
+    background-position: bottom right -10px, bottom;
   }
 
   /* Hacked reverse of the Monster Manual page tear for alternating pages */
@@ -133,24 +133,34 @@
     background-image: url(https://gmbinder.com/images/lLWeevR.png), url('https://gmbinder.com/images/YWardeu.png');
     background-size: 120px 120px, 816px 55px;
     background-repeat: no-repeat, no-repeat;
-    background-position: bottom right, bottom;
+    background-position: bottom right -10px, bottom;
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
+  }
+
+  /* The page number position */
+  .phb .pageNumber {
+    right: 0px;
+  }
+
+  /* The page number position for alternating pages */
+  .phb:nth-child(even) .pageNumber {
+    left: 0px;
   }
 
   /* The letter in the Monster Manual page tear */
   .pageLetter {
     position: absolute;
-    right: 25px;
+    right: 15px;
     bottom: 87.5px;
-    color: #673e1c;
+    color: #905727;
     z-index: 1000;
     font-size: 135%;
   }
 
   /* Reversed for alternating pages */
   .phb:nth-child(even) .pageLetter {
-      left: 25px;
+      left: 15px;
   }
 
 
