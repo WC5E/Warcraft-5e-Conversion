@@ -96,6 +96,16 @@
       box-shadow: none;
   }
 
+  /* For double-wide creature statblocks that we want to have anchored to the
+  bottom of the page regardless of content flow. */
+  .statblock-bottom-wide {
+    position:absolute;
+    bottom:63px;
+    right:1.7cm;
+    left:1.7cm;
+    margin-top:1200px;
+  }
+
 
 /* FOOTER */
 
@@ -838,12 +848,14 @@ The toughest of ancients grow into ancients of war; mighty plants often found de
 <div class="mmletter mml-a"></div>
 <div class="pageLetter">A</div>
 <div class='footnote'>ANCIENTS </div>
+
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://i.imgur.com/CRqcfac.png' class='inkblot' style='top:-210px; left:-310px; width:900px;'>
 <img src='https://www.gmbinder.com/images/TfR3uTq.png' style='position:absolute; top:0px; right:300px; width:550px;transform:scalex(-1)' />
 
 \pagebreakNum
 
-<div style='margin-top:1022px;'></div>
+<div class='statblock-bottom-wide'>
 
 ___
 ___
@@ -891,6 +903,8 @@ ___
 >
 > ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
 
+</div>
+
 <div class="pageLetter">A</div>
 <div class='footnote'>ANCIENTS </div>
 <img src='https://www.gmbinder.com/images/W7JrNLv.jpg' style='position:absolute; top:0px; right:-170px; width:1300px' />
@@ -898,7 +912,7 @@ ___
 
 \pagebreak
 
-<div style='margin-top:70px;'>
+<div style='margin-top:64px;'>
 
 > ##### Variant: Tree of Life
 > A tree of life is a sapling born from the world tree Nordrassil, these ancients have suffered great loses in recent wars, and those who remains have returned to the forest to spread their seeds and replenish their numbers undisturbed.
@@ -926,7 +940,7 @@ ___
 
 </div>
 
-<div style='position:absolute; bottom:64px; right:1.7cm; left:1.7cm; margin-top:1200px;'>
+<div class='statblock-bottom-wide'>
 
 ___
 ___
@@ -971,6 +985,7 @@ ___
 <div class="pageLetter">A</div>
 <div class='footnote'>ANCIENTS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://i.imgur.com/m6qCwvJ.png" class="inkblot" style="top:-190px; right:-250px; width:800px; transform:rotate(14deg);">
 <img src='https://www.gmbinder.com/images/nTufGSO.png' style='position:absolute; top:-100px; right:-110px; width:600px;transform:scalex(-1)' />
 
 \pagebreakNum
@@ -1022,6 +1037,7 @@ A basilisk has an insatiable hunger for such crystals, and it is not uncommon to
 <div class="pageLetter">B</div>
 <div class='footnote'>BASILISK </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://i.imgur.com/KcRAZwq.png" class="inkblot" style="top: -80px;right: 175px;width: 540px;transform: rotate(78deg);">
 <img src='https://www.gmbinder.com/images/wqJdnmf.png' style='position:absolute; top:-70px; right:70px; width:700px' />
 
 \pagebreakNum
@@ -1058,7 +1074,7 @@ Few travelers ever see a tar beast unless they somehow anger the monster, in whi
 
 \pagebreakNum
 
-<div style='margin-top:400px;'></div>
+<div style='margin-top:408px;'></div>
 
 ___
 > ## Timberling
@@ -1092,7 +1108,7 @@ ___
 
 \columnbreak
 
-<div style='margin-top:214px;'></div>
+<div style='margin-top:222px;'></div>
 
 ___
 > ## Thistleshrub
@@ -1128,7 +1144,8 @@ ___
 <div class="pageLetter">B</div>
 <div class='footnote'>BOG BEASTS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/JKyUFKT.png' style='position:absolute; top:0px; right:220px; width:700px' />
+<img src="https://i.imgur.com/OkSEy3f.png" class="inkblot" style="top: -170px;left: -85px;width: 700px;transform: rotate(248deg);">
+<img src='https://www.gmbinder.com/images/JKyUFKT.png' style='position:absolute; top:10px; right:220px; width:700px' />
 
 \pagebreakNum
 
@@ -1296,11 +1313,12 @@ Their names are short and sharp, while tribes draw their name from the first kha
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://i.imgur.com/64Wsryy.png" class="inkblot" style="top: 87px;right: -230px;width: 640px;transform: rotate(-47deg);">
 <img src='https://www.gmbinder.com/images/3myZ2DH.png' style='position:absolute; top:150px; right:-90px; width:550px;' />
 
 \pagebreakNum
 
-<div style='margin-top:420px;'></div>
+<div style='margin-top:411px;'></div>
 
 ___
 > ## Centaur
@@ -1334,7 +1352,7 @@ ___
 
 \columnbreak
 
-<div style='margin-top:268px;'></div>
+<div style='margin-top:259px;'></div>
 
 ___
 > ## Centaur Earthcaller
@@ -1379,7 +1397,7 @@ ___
 
 \pagebreakNum
 
-<div style='position:absolute; bottom:64px; right:1.7cm; left:1.7cm; margin-top:1200px;'>
+<div class='statblock-bottom-wide'>
 
 ___
 ___
@@ -1421,11 +1439,12 @@ ___
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://i.imgur.com/e5Dbuzd.png" class="inkblot" style="top: 20px;right: -17px;width: 800px;transform: rotate(-170deg);">
 <img src='https://www.gmbinder.com/images/EojlAJ6.png' style='position:absolute; top:-20px; left:38px; width:840px;' />
 
 \pagebreakNum
 
-<div style='margin-top:975px;'></div>
+<div class='statblock-bottom-wide'>
 
 ___
 ___
@@ -1461,6 +1480,8 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage plus 9 (2d8) fire damage. 
 >
 > ***Molten Breath (Recharge 4-6).*** The core hound exhales searing flames in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 11 (2d10) fire damage on a failed save, or half as much damage on a successful one. A creature failing the save who wears nonmagical armor or a shield take a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. 
+
+</div>
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CORE HOUNDS </div>
@@ -1928,7 +1949,7 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:820px;'></div>
+<div class='statblock-bottom-wide'>
 
 ___
 ___
@@ -1984,6 +2005,8 @@ ___
 >
 > **Attack.** The dwarf makes one melee weapon attack.
 > <br> **Spell (Costs 2 Actions).** The dwarf casts a spell from its <br>&nbsp;&nbsp;&nbsp; prepared spell list.
+
+</div>
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
@@ -2233,12 +2256,12 @@ ___
 
 \pagebreakNum
 
-<div style='position:absolute; bottom:64px; right:1.7cm; left:1.7cm;'>
+<div class='statblock-bottom-wide'>
 
 ___
 ___
 > ## Arcane Elemental
->*Large elemental, chaotic neutral*
+> *Large elemental, chaotic neutral*
 > ___
 > - **Armor Class** 14
 > - **Hit Points** 76 (9d10 + 27)
@@ -2352,6 +2375,8 @@ Zoatroids have found a second home in the ranks of the naga's and while their se
 
 \pagebreakNum
 
+<div style='margin-top:32px;'></div>
+
 > ##### Variant: Royal Zoatroid
 > A royal zoatroid has a challenge ration of 6 (2,300 XP). It has the same statistics as a zoatroid except that it adds its Wisdom modifier to its Armor Class (AC 17) and gains the following additional trait:
 >
@@ -2362,7 +2387,7 @@ Zoatroids have found a second home in the ranks of the naga's and while their se
 > <br>&nbsp;&nbsp; ***Dominate (Recharge 6).*** One humanoid grappled <br>&nbsp;&nbsp; by the zoatroid must succeed on a DC 13 Wisdom <br>&nbsp;&nbsp; saving throw or be dominated by the zoatroid: the <br>&nbsp;&nbsp; dominated target goes on the zoatroids initiative, <br>&nbsp;&nbsp; it controls the target using its action. The domi-<br>&nbsp;&nbsp; nate deprives the target of its vision but not its <br>&nbsp;&nbsp; awareness. The royal zoatroid can be targeted by <br>&nbsp;&nbsp; attacks, spells, and other effects but any attack roll <br>&nbsp;&nbsp; that misses the zoatroid  automatically hits its <br>&nbsp;&nbsp; dominated target.
 > <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The domination lasts until the target drops to 0 <br>&nbsp;&nbsp; hit points, the zoatroid ends it as a bonus action, <br>&nbsp;&nbsp; or a creature uses their action to attempt a <br>&nbsp;&nbsp; grapple check contested by the zoatroid.
 
-<div style='margin-top:500px;'></div>
+<div class='statblock-bottom-wide'>
 
 ___
 ___
@@ -2399,6 +2424,8 @@ ___
 > ### Reactions
 > ***Reactive Shield.*** The zoatroid forces an attack roll that would hit it to instead hit its enslaved target. To do so, the zoatroid must be able to see the attacker.
 > <br><div style='margin-top:130px;'></div>
+
+</div>
 
 <div class="pageLetter">F</div>
 <div class='footnote'>FACELESS ONES </div>
@@ -2770,6 +2797,8 @@ ___
 
 \pagebreakNum
 
+<div class='statblock-bottom-wide'>
+
 ___
 ___
 > ## Banshee
@@ -2784,7 +2813,7 @@ ___
 >|1 (-5)|16 (+3)|14 (+2)|11 (+0)|13 (+1)|19 (+4)|
 >___
 > - **Saving Throws** Wis +4, Cha +7
-> - **Damage Resistances** acid, fire, lightning, <br>thunder; bludgeoning, piercing, and slashing from nonmagical attacks.
+> - **Damage Resistances** acid, fire, lightning, <br/>thunder; bludgeoning, piercing, and slashing from nonmagical attacks.
 > - **Damage Immunities** cold, necrotic, poison
 > - **Condition Immunities** charmed, exhaustion, grappled, frightened,  paralyzed, petrified, poisoned, prone, restrained
 > - **Senses** darkvision 60 ft., passive Perception 11
@@ -2800,17 +2829,20 @@ ___
 > ***Multiattack.*** The banshee makes three attacks: one with its Banshee's Curse and two with its withering touch.
 >
 > ***Withering Touch.*** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/60 ft., one target. *Hit:* 12 (2d8 + 3) necrotic damage.
-> <div style='margin-top:80px;'></div>
 >
 > ***Banshee's Curse.*** One creature of the banshee's choice within 60 feet of it must make a Constitution saving throw or have disadvantage on all ability checks, saving throws, and attack rolls until the end of the banshee's next turn.
 >
 > ***Wail (Recharge 4-6).*** The banshee releases a mournful wail. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw, taking 22 (4d12) necrotic damage on a failed save, or half as much damage on a successful one.
 >
 > ***Possession (1/Day).*** One humanoid that the banshee can see within 5 feet of it must succeed on a DC 15 Charisma saving throw or be possessed by the banshee; the banshee then disappears, and the target is incapacitated and loses control of its body. The banshee now controls the body but doesn't deprive the target of awareness. The banshee can't be targeted by any attack, spell, or other effect except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.
-> <br>&nbsp;&nbsp;&nbsp; The possession lasts until the body drops to 0 hit points, the banshee ends it as a bonus action, or the banshee is turned or forced out by an effect like the *dispel evil and good* spell. When the possession ends, the banshee reappears in an unoccupied space within 5 feet of the body. 
+> <br/>&nbsp;&nbsp;&nbsp; The possession lasts until the body drops to 0 hit points, the banshee ends it as a bonus action, or the banshee is turned or forced out by an effect like the *dispel evil and good* spell. When the possession ends, the banshee reappears in an unoccupied space within 5 feet of the body. 
 >
 > ### Reactions
 > ***Anti-magic Shell.*** The banshee adds 3 to its AC against one spell attack that would hit it. To do so, the banshee must see the attacker.
+>
+> <br/> <br/>
+
+</div>
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
@@ -4187,7 +4219,7 @@ ___
 
 \pagebreakNum
 
-<div style='position:absolute; bottom:64px; right:1.7cm; left:1.7cm; margin-top:1200px;'>
+<div class='statblock-bottom-wide'>
 
 ___
 ___
@@ -4989,7 +5021,7 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:300px;'></div>
+<div style='margin-top:320px;'></div>
 
 > ##### Variant: Quilboar Battleguard
 > A quilboar battleguard has a challenge rating of 4 (1,100 XP). It has the same statistics as a quilboar chieftain, except it gains the following special abilities and loses the Leadership action.
@@ -4998,11 +5030,7 @@ ___
 >
 > ***Relentless (Recharges after a Short or Long rest).*** If the quilboar takes 12 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-<br>
-
-<div style='margin-top:1000px;'></div>
-
-<br>
+<div class='statblock-bottom-wide'>
 
 ___
 ___
@@ -5038,6 +5066,8 @@ ___
 >
 > ### Reactions
 > ***Quills.*** In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+
+</div>
 
 <div class="pageLetter">Q</div>
 <div class='footnote'>QUILBOARS </div>
@@ -6505,8 +6535,7 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:1000px;'></div>
-<br><br><br><br><br><br>
+<div class='statblock-bottom-wide'>
 
 ___
 ___
@@ -6539,6 +6568,8 @@ ___
 > ***Toss.*** *Ranged Weapon Attack:* +9 to hit, range 60/120 ft., one target. *Hit:* 11 (1d8 + 6) bludgeoning damage. The troll can't use this attack if it doesn't have a target grappled. Both the target thrown and hit takes damage from the attack.
 >
 > ***Rock*** *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (7d6 + 6) bludgeoning damage.
+
+</div>
 
 <div class="pageLetter">T</div>
 <div class='footnote'>TROLLS </div>
