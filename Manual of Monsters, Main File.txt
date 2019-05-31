@@ -1301,6 +1301,7 @@ Their names are short and sharp, while tribes draw their name from the first kha
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://i.imgur.com/64Wsryy.png" class="inkblot" style="top: 87px;right: -230px;width: 640px;transform: rotate(-47deg);">
 <img src='https://www.gmbinder.com/images/3myZ2DH.png' style='position:absolute; top:150px; right:-90px; width:550px;' />
 
 \pagebreakNum
@@ -1380,6 +1381,7 @@ ___
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/jPRzhev.jpg' style='position:absolute; top:0px; right:-20px; width:1200px;transform:scalex(-1)' />
+<img src="https://i.imgur.com/64Wsryy.png" class="inkblot" style="top: 87px;right: -230px;width: 640px;transform: rotate(-47deg);">
 <img src='https://www.gmbinder.com/images/LvsnkBL.png' style='position:absolute; top:40px; right:0px; width:900px;' />
 
 \pagebreakNum
@@ -1426,6 +1428,7 @@ ___
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://i.imgur.com/e5Dbuzd.png" class="inkblot" style="top: 20px;right: -17px;width: 800px;transform: rotate(-170deg);">
 <img src='https://www.gmbinder.com/images/EojlAJ6.png' style='position:absolute; top:-20px; left:38px; width:840px;' />
 
 \pagebreakNum
