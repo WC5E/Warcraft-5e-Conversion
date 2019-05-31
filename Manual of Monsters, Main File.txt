@@ -1062,7 +1062,7 @@ Few travelers ever see a tar beast unless they somehow anger the monster, in whi
 
 \pagebreakNum
 
-<div style='margin-top:400px;'></div>
+<div style='margin-top:408px;'></div>
 
 ___
 > ## Timberling
@@ -1096,7 +1096,7 @@ ___
 
 \columnbreak
 
-<div style='margin-top:214px;'></div>
+<div style='margin-top:222px;'></div>
 
 ___
 > ## Thistleshrub
