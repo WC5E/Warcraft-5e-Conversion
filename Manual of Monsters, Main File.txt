@@ -1306,7 +1306,7 @@ Their names are short and sharp, while tribes draw their name from the first kha
 
 \pagebreakNum
 
-<div style='margin-top:420px;'></div>
+<div style='margin-top:411px;'></div>
 
 ___
 > ## Centaur
@@ -1340,7 +1340,7 @@ ___
 
 \columnbreak
 
-<div style='margin-top:268px;'></div>
+<div style='margin-top:259px;'></div>
 
 ___
 > ## Centaur Earthcaller
@@ -1381,7 +1381,6 @@ ___
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/jPRzhev.jpg' style='position:absolute; top:0px; right:-20px; width:1200px;transform:scalex(-1)' />
-<img src="https://i.imgur.com/64Wsryy.png" class="inkblot" style="top: 87px;right: -230px;width: 640px;transform: rotate(-47deg);">
 <img src='https://www.gmbinder.com/images/LvsnkBL.png' style='position:absolute; top:40px; right:0px; width:900px;' />
 
 \pagebreakNum
