@@ -1988,7 +1988,7 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:140px;'></div>
+<div style='margin-top:160px;'></div>
 
 ## Elementals
 
@@ -1996,7 +1996,7 @@ Elementals are as ageless as they are unchanging; volatile beings of raw element
 
 ***Bound to the Elemental Plane.*** On Azeroth, as the titanic Keepers saw to the ordering of the world, they found the elementals wreaking havoc under the corrupting influence of the Old Gods. As a safeguard, to protect their intended new denizens of the planet from such a destructive force, the Keepers constructed the Elemental Plane as a prison in which the elementals could be locked away, free to roam at their own behest. In their absence, the Keepers could tend to their task at hand; settling the natural order of Azeroth.
 
-The Elemental Plane itself is divided into four interlinked regions, each existing within its own pocket dimension as a representation of its associated element: The Abyssal Maw, domain of water; Deepholm, domain of earth; the Firelands, domain of fire; and Skywall, domain of air.
+The Elemental Plane is divided into four interlinked regions, each existing within its own pocket dimension as a representation of its associated element: The Abyssal Maw, domain of water; Deepholm, domain of earth; the Firelands, domain of fire; and Skywall, domain of air.
 
 ***An Eternity of Conflict.*** Though the domains within the Elemental Plane are intended to be sealed off, none of them accessible from the others, the elementals have never ceased their endless strife with one another. By what means they can, whether by breaching the walls of their domain to invade another or by taking their conflict to the physical plane with the help of mortal hands, the elementals are quick to clash as they meet -- sometimes waging battles of titanic proprtions.
 
@@ -2008,32 +2008,26 @@ Carrying out the bidding of the Elemental Lords are their lieutenants. While now
 
 ***Elemental Nature.*** A elemental doesn't require air, food, drink, or sleep.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-e"></div>
-<div class="pageLetter">E</div>
-<div class='footnote'>ELEMENTALS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+\columnbreak
 
-\pagebreakNum
+<div style='margin-top:125px;'></div>
 
 ### Air Elemental
-
 Taking form as a swirling storm, or a billowing cloud given faint humanoid shape, an air elemental holds command of wind and weather. Fast and silent, it strikes out by enveloping its foes in a blinding whirlwind to seize the upper hand.
 
-### Earth Elemental
+### Arcane Elemental
+Appearing in areas suffused with arcane energy, these ele&shy;mentals manifest from its energy and are often found in the service of mages, feeding of the fluctuation of magic from their spells.
 
+### Earth Elemental
 Near indistinguishable from rocks if standing still, an earth elemental is as hardy and steadfast as the element it embodies. It burrows through the ground with utmost ease, and faces its opponents head-on if engaged.
 
 ### Fire Elemental
-
 A fire elemental manifests as a smoldering pillar of unwavering destruction. While susceptible to water, it is a cunning presence that will often attempt to overwhelm and outright engulf those who try to stand in its way.
 
 ### Ice Elemental
-
 Manifest from frozen water, ice elementals share domain and allegiance with other water elementals. It moves unhindered through the icy reaches in which it dwells, and is very quick to enrage at the sight of fire wielded in its vicinity.
 
 ### Water Elemental
-
 A favoured companion among mages, human mages in particular, a water elemental is near impossible to discern while underwater. If able, it often attempts to deal with threats by luring them along into the water -- and from there, drag them along into the murky depths.
 
 > ##### Variant: Elemental Revenant
@@ -2042,6 +2036,16 @@ A favoured companion among mages, human mages in particular, a water elemental i
 >A revenant has the same statistics as its elemental counterpart, except for an Armor Class of 17 (half plate, shield). It loses any ability to move through and stop in the space of other creatures, as well as any ability to move through spaces smaller than 2 feet, its slam or touch action is replaced with the following option, using the same attack modifier and damage type as the original action.
 >
 > ***Maul.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d12 + 5) damage of the elemental's type.
+
+<div class='letterheader'></div>
+<div class="mmletter mml-e"></div>
+<div class="pageLetter">E</div>
+<div class='footnote'>ELEMENTALS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
+
+
 
 \columnbreak
 
@@ -2077,13 +2081,50 @@ ___
 > ***Whirlwind (Recharge 4-6).*** Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up to 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) blud&shy;geoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
 > <br>&nbsp;&nbsp;&nbsp; If the save is successful, the target takes half the damage and isn't flung away or knocked prone.
 
+\columnbreak
+
+<div style='margin-top:278px;'></div>
+
+___
+> ## Arcane Elemental
+> *Large elemental, neutral*
+> ___
+> - **Armor Class** 14
+> - **Hit Points** 76 (9d10 + 27)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|18 (+4)|16 (+3)|7 (-1)|10 (+0)|6 (-2)|
+>___
+> - **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** force, poison
+> - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** —
+> - **Challenge** 5 (1,800 XP)
+> ___
+> ***Arcane Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. When the elemental enters the area of an *antimagic field* spell for the first time on a turn or starts its turn there, it must succeed on a Constitution saving throw against the spell save DC of its spellcaster, or be stunned until the start of its next turn.
+>
+> ***Illumination.*** The elemental sheds bright light in a <br> 15-foot radius and dim light in an additional 15 feet.
+>
+> ### Actions
+> ***Multiattack.*** The elemental makes two touch attacks.
+>
+> ***Touch.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) force damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+>
+> ***Arcane Blast (Recharge 5-6).*** The elemental erupts arcane energy at a point it can see within 60 feet of it. Each creature within 10 feet of that point must make a DC 14 Dexterity saving throw, taking 10 (4d4) force damage on a failed save, or half as much damage on a successful one.
+
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:0px; right:-50px; width:500px' />
+<img src='https://www.gmbinder.com/images/9oFdFdN.jpg' style='position:absolute; top:0px; right:370px; width:500px;mix-blend-mode:darken' />
+<img src='https://www.gmbinder.com/images/119Iqk8.png' style='position:absolute; top:0px; right:-100px; width:500px' />
 
 \pagebreakNum
 
-<div style='margin-top:427px;'></div>
+<div style='margin-top:428px;'></div>
 
 ___
 > ## Earth Elemental
@@ -2151,10 +2192,13 @@ ___
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:0px; right:350px; width:500px;transform:rotate(40deg)' />
+<img src='https://www.gmbinder.com/images/6aDvUEv.png' style='position:absolute; top:20px; right:310px; width:650px' />
+<img src='https://www.gmbinder.com/images/cNtNh1F.jpg' style='position:absolute; top:-50px; right:-10px; width:450px;mix-blend-mode:darken' />
 
 \pagebreakNum
 
-<div style='margin-top:307px;'></div>
+<div style='margin-top:310px;'></div>
 
 ___
 > ## Ice Elemental
@@ -2189,7 +2233,7 @@ ___
 
 \columnbreak
 
-<div style='margin-top:237px;'></div>
+<div style='margin-top:240px;'></div>
 
 ___
 > ## Water Elemental
@@ -2225,59 +2269,9 @@ ___
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
-
-<div class='statblock-bottom-wide'>
-
-___
-___
-> ## Arcane Elemental
-> *Large elemental, chaotic neutral*
-> ___
-> - **Armor Class** 14
-> - **Hit Points** 76 (9d10 + 27)
-> - **Speed** 30 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|12 (+1)|18 (+4)|16 (+3)|8 (-1)|10 (+0)|6 (-2)|
->___
-> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-> - **Damage Immunities** force
-> - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, prone, unconscious
-> - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** —
-> - **Challenge** 5 (1,800 XP)
-> ___
-> ***Antimagic Susceptibility.*** The elemental is incapacitated while in the area of an antimagic field. If targeted by *dispel magic*, the elemental must succeed on a Consti&shy;tution saving throw against the caster's spell save DC or vanish for 1 hour.
->
-> ***Arcane Charge.*** The elemental grows more powerful as it drains magic users. It begins combat with one charge and gains an additional charge when it hits with its drain mana ability, giving the elemental the effect of that charge level in addition to previous levels.
->
-> &nbsp;&nbsp; *1. Magic Resist.* The elemental has advantage on saving throws against spells and other magical effects.
->
-> &nbsp;&nbsp; *2. Shimmer.* The elemental can use its reaction to give an attack roll against it disadvantage.
-> <br>&nbsp;&nbsp; *3. Arcane Missiles.* The elemental gains an additional attack per Attack action, casting *magic missile* as a 1st level spell at creatures within range.
-> <br>&nbsp;&nbsp; *4. Arcane Rifts.* The elemental can teleport up to 30 feet to an unoccupied space adjacent to a creature before making an attack roll.
-> <br>&nbsp;&nbsp; *5. Amplified.* The elemental gains a +2 bonus to its AC, and has advantage on Dexterity saving throws.
-> <br>&nbsp;&nbsp; *6. Overpowered.* The elemental has become volatile and explodes at the beginning of its next turn. Each creature within 20 feet of it must make a DC 15 Dex&shy;terity saving throw, taking 21 (6d6) force damage on a failed save, or half as much on a successful one, the elemental then dies. If killed in this way, the arcane elemental only grants half of its original XP to the party.
->
-> ***Magic Sense.*** The elemental can sense magic users within 60 feet of it, and focus its attacks on those creatures.
->
-> ***Magic Weapon.*** The elemental's weapon attacks are magical.
->
-> ### Actions
-> ***Multiattack.*** The elemental makes two attacks: one with its slam and one with its drain mana.
->
-> ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 3) bludgeoning damage.
->
-> ***Drain Mana.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d8) force damage. The target must succeed on a DC 15 Intelligence saving throw or have their lowest available spell slot expended. If a spell slot was expended, increase the Arcane Charge by 1.
-
-</div>
-
-<div class="pageLetter">E</div>
-<div class='footnote'>ELEMENTALS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:0px; right:350px; width:500px' />
+<img src='https://www.gmbinder.com/images/7urPPrg.png' style='position:absolute; top:-50px; right:370px; width:500px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/FTRgu1c.jpg' style='position:absolute; top:-20px; right:-30px; width:450px;transform:scalex(-1);mix-blend-mode:darken' />
 
 \pagebreakNum
 
