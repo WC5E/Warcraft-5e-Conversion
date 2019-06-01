@@ -1,0 +1,42 @@
+___
+___
+> ## Arcane Elemental
+>*Large elemental, chaotic neutral*
+> ___
+> - **Armor Class** 14
+> - **Hit Points** 76 (9d10 + 27)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|18 (+4)|16 (+3)|8 (-1)|10 (+0)|6 (-2)|
+>___
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** force
+> - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, prone, unconscious
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** —
+> - **Challenge** 5 (1,800 XP)
+> ___
+> ***Antimagic Susceptibility.*** The elemental is incapacitated while in the area of an antimagic field. If targeted by *dispel magic*, the elemental must succeed on a Consti­tution saving throw against the caster's spell save DC or vanish for 1 hour.
+>
+> ***Arcane Charge.*** The elemental grows more powerful as it drains magic users. It begins combat with one charge and gains an additional charge when it hits with its drain mana ability, giving the elemental the effect of that charge level in addition to previous levels.
+>
+>    *1. Magic Resist.* The elemental has advantage on saving throws against spells and other magical effects.
+>
+>    *2. Shimmer.* The elemental can use its reaction to give an attack roll against it disadvantage.
+> <br>   *3. Arcane Missiles.* The elemental gains an additional attack per Attack action, casting *magic missile* as a 1st level spell at creatures within range.
+> <br>   *4. Arcanic Rifts.* The elemental can teleport up to 30 feet to an unoccupied space adjacent to a creature before making an attack roll.
+> <br>   *5. Amplified.* The elemental gains a +2 bonus to its AC, and has advantage on Dexterity saving throws.
+> <br>   *6. Overpowered.* The elemental has become volatile and explodes at the beginning of its next turn. Each creature within 20 feet of it must make a DC 15 Dex­terity saving throw, taking 21 (6d6) force damage on a failed save, or half as much on a successful one, the elemental then dies. If killed in this way, the arcane elemental only grants half of its original XP to the party.
+>
+> ***Magic Sense.*** The elemental can sense magic users within 60 feet of it, and focus its attacks on those creatures.
+>
+> ***Magic Weapon.*** The elemental's wepaon attacks are magical.
+>
+> ### Actions
+> ***Multiattack.*** The elemental makes two attacks: one with its slam and one with its drain mana.
+>
+> ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 3) bludgeoning damage.
+>
+> ***Drain Mana.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d8) force damage. The target must succeed on a DC 15 Intelligence saving throw or have their lowest available spell slot expended. If a spell slot was expended, increase the Arcane Charge by 1.
