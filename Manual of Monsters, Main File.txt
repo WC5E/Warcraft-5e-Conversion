@@ -5678,6 +5678,13 @@ Shale spiders are durable diggers native to the elemental plane of Deepholm. It 
 \pagebreakNum
 
 ## Shredder
+Large and impressive mechanical constructs, a shredder is a marvel of goblin ingenuity designed to replace lumber&shy;jacks and increase the profits of deforesting. These metal machines are often piloted by a creature crewed in its seat.
+
+Shredders have made their way across Azeroth and can be found in the furthest of its corners where they work under the watchful eyes of goblin foremen as they harvest lumber, deforesting entire regions for their nefarious profit.
+
+***Enemies of the Forest.*** Shredders are machines used to quickly and efficiently deforest entire regions, and because of this they have garnered a reputation and hatred amongst the creatures of the forest. 
+
+Although the large shredders are mostly used for manual labor and harvesting, they often encounter resistance from creatures of the forest and are forced into fending them off. With their solid metal construction and great saw blades the machines have become great constructs of war, a fact their pilots makes good use of.
 
 ___
 > ## Shredder
@@ -5711,6 +5718,8 @@ ___
 
 \columnbreak
 
+<div style='margin-top:530px;'></div>
+
 > ##### Crewing a Shredder
 > Most shredders are manual machines that require a pilot to operate, and even autopiloted shredders can be overwritten to work manually for a time.
 >
@@ -5724,7 +5733,8 @@ ___
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SHREDDER </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/dOk8Uqf.jpg' style='position:absolute; top:0px; right:-30px; width:450px' />
+<img src='https://www.gmbinder.com/images/k69THGy.png' style='position:absolute; top:0px; right:-20px; width:900px' />
 
 \pagebreakNum
 
