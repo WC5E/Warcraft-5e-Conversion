@@ -1226,7 +1226,7 @@ ___
 >
 > ***Poison Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage plus 7 (2d6) poison damage.
 >
-> ***Tar Spray (1/Day).*** The tar creeper sprays sticky tar in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw. On a failed saving throw a creature's speed is halved, it takes a -2 penalty to Ac and Dexterity saving throws, and it can't use reactions.
+> ***Tar Spray (1/Day).*** The tar creeper sprays sticky tar in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw. On a failed saving throw a creature's speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't use reactions.
 > <br>&nbsp;&nbsp;&nbsp; A creature can remove the tar on itself during a short or long rest by bathing in water, alcohol, or vinegar.
 
 <div class="pageLetter">B</div>
