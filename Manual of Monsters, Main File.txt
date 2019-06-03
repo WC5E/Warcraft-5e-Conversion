@@ -2556,7 +2556,7 @@ As a result, apparitions possess the power to weave their anguish and their rese
 
 ### Banshee
 
-A banshee is the tormented remnants of elven women, whose death came to pass in the most gruesome manner -- with the fall of the Highborne, the first coming of the Burning Legion, and the fall of Quel'Thalas all as noteworthy events from which numerous banshees have been made.
+A banshee is the tormented remnant of an elven woman, whose death came to pass in the most gruesome manner -- with the fall of the Highborne, the first coming of the Burning Legion, and the fall of Quel'Thalas all as noteworthy events from which numerous banshees have been made.
 
 Robbed of their elven gift of immortality, the banshees were left to wander the world in tormented silence, until discovered by the then first Lich King; Ner'zhul. In return for a promise of servitude to the undead Scourge, Ner'zhul gifted the banshees their terrible, blood-curdling voice, which they in turn have used to seek vengeance on the living.
 
@@ -2574,11 +2574,32 @@ Empowered by the Lich King, a shade is able to remain unseen if it wills it, det
 
 ### Spectre
 
+Much like the banshee, a spectre is the tormented remnant of an elven man, slain by monstrous foes and robbed of their immortality. Though spectres do not possess the anguished screams that were gifted to the banshees by Ner'zhul, they still remain a considerable danger to those who encounter them.
+
+Driven both by a bitter resentment for the living and by their hubris in death, a spectre may attempt to lure unwary travellers into dangerous traps, waiting for an opportune moment to overpower them and seep away their life force.
+
+\columnbreak
+
 ### Wisp
+
+Wisps are the disembodied spirits of deceased night elves, made one with the forest in their passing. Unlike other ghosts, wandering the world in unspeakable anguish, wisps use their spiritual being to bridge a connection ever closer to the forests where they delve.
+
+Though silent for all but a soft, low humming, wisps are able to communicate with the living. Acting together in unison with the tree-like ancients, they act as guardians and caretakers -- often flourishing around druidic groves.
+
 
 ### Wraith
 
-\columnbreak
+Though commonly beholden to its masters -- whether necromantic cults or the undead Scourge -- wraiths are reputed for retaining most of their intelligence and individuality, even in death.
+
+Self-motivated and exceptionally cunning, it is not uncommon for a wrath to act by its own accord even when a greater master holds command of it. Some wraiths may be found holding to the same sense of honour and law as they did in life, and may even be found willing to make deals with the living if prompted.
+
+Other wraiths carry little more than jealous rage, brought on by resentment for their state of being, readily yearning for a chance to visit it upon any unfortunate enough to cross paths with them.
+
+<div class="pageLetter">G</div>
+<div class='footnote'>GHOSTS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
 
 ### Ghost Template
 Ghosts are the spectral remnants of intelligent beings who, for one reason or another, cannot rest easily in their graves. A ghost greatly resembles its corporeal form in life, but in some cases the spiritual form is somewhat altered.
@@ -2613,12 +2634,6 @@ Using the Hit Points Based on Challenge Rating table, apply the appropriate mult
 |  1-10       | x 0.5  |
 |  11-16      | x 0.65 |
 |  17 or more | x 0.8  |
-
-<div class="pageLetter">G</div>
-<div class='footnote'>GHOSTS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
 
 ___
 > ## Ghost Spy
@@ -2658,7 +2673,11 @@ Persuasion +5, Stealth +4
 >
 > ***Etherealness.*** The ghost enters the Spirit World from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Spirit World, and vice versa, yet it can't affect or be affected by anything on the other plane.
 
-\columnbreak
+<div class="pageLetter">G</div>
+<div class='footnote'>GHOSTS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
 
 ___
 > ## Ghost Knight
@@ -2698,11 +2717,7 @@ ___
 > ### Reactions
 > ***Parry.*** The ghost adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 
-<div class="pageLetter">G</div>
-<div class='footnote'>GHOSTS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Ghost Witch Doctor
@@ -2744,7 +2759,11 @@ ___
 >
 > ***Quarterstaff.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft, one target. *Hit:* 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands to make a melee attack.
 
-\columnbreak
+<div class="pageLetter">G</div>
+<div class='footnote'>GHOSTS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
 
 ___
 > ## Apparition
