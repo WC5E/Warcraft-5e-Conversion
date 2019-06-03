@@ -2519,7 +2519,7 @@ ___
 
 While most mortal souls eventually find their way to the Shadowlands, the realm of spirits, not all who have died manage to find rest. Some are unwillingly bound to roam the trackless wastes that exist between the Shadowlands and the physical world, appearing in the latter as ghostly apparitions as they search for release from their endless suffering.
 
-***Existing Between Worlds.*** There are many reasons as for why a soul might remain, including curses and deliberate magical entrapment, though most prevalent is a sheer unwillingness to abandon the physical realm for the realm of spirits. A person whose life ended abruptly at the hands of someone else, may be likely to return as a malevolent spectre intent on exacting revenge upon those who did them wrong.
+***Existing Between Worlds.*** There are many reasons as for why a soul might remain, including curses and deliberate magical entrapment, though most prevalent is a sheer unwillingness to abandon the physical realm -- also known as the Material Plane -- for the realm of spirits. A person whose life ended abruptly at the hands of someone else, may be likely to return as a malevolent spectre intent on exacting revenge upon those who did them wrong.
 
 Conversely, other spirits may be unwilling to find rest out of fear for what lies beyond, or for a feeling that their business in life was never properly settled.
 
@@ -2546,6 +2546,39 @@ Some of the most prominent beings dwelling in the Shadowlands are regarded as pa
 \pagebreakNum
 
 Also prominent are the Spirit Healers; ascendant Val'kyr who, following the banishment of Helya and the sealing of the Halls of Valor, disappeared into the Shadowlands -- hidden away there, even from the corrupting influence of the Lich King.
+
+### Apparition
+
+An apparition is a spectral impression whose presence in the Material Plane has been caught in flux with latent energies from a nearby ley line or other font of magical power.
+
+As a result, apparitions possess the power to weave their anguish and their resentment into powerful, often harrowing spells.
+
+
+### Banshee
+
+A banshee is the tormented remnants of elven women, whose death came to pass in the most gruesome manner -- with the fall of the Highborne, the first coming of the Burning Legion, and the fall of Quel'Thalas all as noteworthy events from which numerous banshees have been made.
+
+Robbed of their elven gift of immortality, the banshees were left to wander the world in tormented silence, until discovered by the then first Lich King; Ner'zhul. In return for a promise of servitude to the undead Scourge, Ner'zhul gifted the banshees their terrible, blood-curdling voice, which they in turn have used to seek vengeance on the living.
+
+Though some banshees still roam free in their own lamentation, most are still beholden to their bond with the Scourge. Some banshees still, particularly those formed after the fall of Quel'Thalas, have since found new purpose among the Forsaken.
+
+
+### Shade
+
+Shades are much alike other ghosts, in their presence as a disembodied spirit, wandering the trackless reaches between the pysical realm and the darkness beyond. This, however, as far as the similarities go.
+
+While other ghosts are the remnants of those still clinging to the physical realm, unwilling to let go, shades are formed through willing sacrifice -- necromancers sacrificing their acolytes to better serve the undead Scourge.
+
+Empowered by the Lich King, a shade is able to remain unseen if it wills it, detectable only by powerful magic. To this end, shades act as eyes and ears for their undead masters.
+
+
+### Spectre
+
+### Wisp
+
+### Wraith
+
+\columnbreak
 
 ### Ghost Template
 Ghosts are the spectral remnants of intelligent beings who, for one reason or another, cannot rest easily in their graves. A ghost greatly resembles its corporeal form in life, but in some cases the spiritual form is somewhat altered.
@@ -2584,18 +2617,6 @@ Using the Hit Points Based on Challenge Rating table, apply the appropriate mult
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-### Apparition
-
-### Banshee
-
-### Shade
-
-### Spectre
-
-### Wisp
-
-### Wraith
 
 \pagebreakNum
 
