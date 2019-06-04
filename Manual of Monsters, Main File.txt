@@ -6871,19 +6871,122 @@ ___
 
 <div style='margin-top:140px;'></div>
 
-## Yetis
+## Yeti
+Yetis—also called Wendigos in certain parts of the world—are hulking furry monstrosities that roam snowy regions and remote areas of the world in search for food and survival. They are terrifying and powerful creatures that strike fear into the hearts of weary travelers who wander too close to their dens.
+
+***Territorial Beings.*** Yetis are territorial creatures that roam their land to claim a meal and become immediately hostile towards living creatures who traverse it. But even when driven by hunger the hulking monsters will attack nearby settlements, breaking a perimeter that that might have once daunted them in search of flesh to devour.
+
+***Horrific Dens.*** Most yetis are lone wanders living <br> by themselves in their secluded dens, but yetis are not <br> as unintelligent as they are let out to be and know that <br> there is strength in numbers. Some yetis form larger <br> dens, following the strongest amongst them as they <br> terrorize the land around them, desolating it of food.
+
+### Abonimable Yeti
+Enormous and menacing, an abominable yeti raised far above normal yetis, with their backs hunched they take on a more bestial ape-like appearance. Unlike other yetis, abominable yetis are solitary creature that would rather kill intruders than consider working together with them for survival. Though few live long enough to tell their tale evidence of these hulking monsters can be heard through the mountains by their echoing primal roars.
+
+<div class='statblock-bottom-wide'>
+
+___
+___
+> ## Yeti
+>*Large monstrosity, neutral evil*
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 60 (7d10 + 18)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|11 (+0)|16 (+3)|9 (-1)|10 (+0)|7 (-2)|
+>___
+> - **Skills** Perception +2
+> - **Damage Immunities** cold
+> - **Senses** darkvision 60 ft., passive Perception 12
+> - **Languages** —
+> - **Challenge** 3 (700 XP)
+> ___
+>
+>***Keen Smell.*** The yeti has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Snow Camouflage.*** The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
+>
+>***Charge.*** If the yeti moves at least 30 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 12 (2d10) piercing damage.
+>
+> ### Actions
+>***Multiattack.*** The yeti makes two claw attacks.
+>
+>***Claw.*** *Melee Weapon Attack*: +6 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 4) slashing damage plus 2 (1d4) cold damage.
+>
+>***Horn.*** *Melee Weapon Attack*: +6 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 4) piercing.
+>
+>***Roar.*** The yeti emits a roar. Each creature within 30 feet of the yeti and able to hear the roar must make a DC10 Wisdom saving throw, being Frightened for 1 minute on a fail. A Frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful saving throw, the creature is immune to the roar of all yetis for 1 day.
+
+</div>
 
 <div class='letterheader'></div>
 <div class="mmletter mml-y"></div>
 <div class="pageLetter">Y</div>
 <div class='footnote'>YETIS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/8rImMFu.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/idt4oFo.png' style='position:absolute; top:130px; right:-31px; width:500px' />
 
 \pagebreakNum
 
+<div class='statblock-bottom-wide'>
+
+___
+___
+> ## Abominable Yeti
+>*Huge monstrosity, neutral evil*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 171 (13d12 + 80)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|22 (+6)|16 (+3)|20 (+5)|6 (-2)|12 (+1)|9 (-1)|
+>___
+> - **Skills** Perception +6
+> - **Damage Immunities** cold
+> - **Senses** darkvision 60 ft., passive Perception 15
+> - **Languages** —
+> - **Challenge** 11 (7,200 XP)
+> ___
+>
+>***Keen Smell.*** The yeti has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Snow Camouflage.*** The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
+>
+>***Charge.*** If the yeti moves at least 30 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 18 (3d10) piercing damage.
+>
+>***Standing Leap.*** The yeti's long jump is up to 40 ft. and its high jump is up to 20 ft., with or without a running start.
+>
+> ### Actions
+>***Multiattack.*** The yeti makes two claw attacks.
+>
+>***Claw.*** *Melee Weapon Attack*: +10 to hit, reach 5 ft., one target. Hit:  12 (2d6 + 6) slashing damage plus 5 (1d8) cold damage.
+>
+>***Horn.*** *Melee Weapon Attack*: +10 to hit, reach 5 ft., one target. Hit: 24 (3d10 + 6) piercing damage.
+>
+>***Roar.*** The yeti emits a roar. Each creature within 30 feet of the yeti and able to hear the roar must make a DC15 Wisdom saving throw, being Frightened for 1 minute on a fail. A Frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful saving throw, the creature is immune to the roar of all yetis for 1 day.
+>
+>***Deadly Leap.*** If the yeti jumps at least 20 ft. as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 18 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 30 (4d10 + 6) bludgeoning damage.
+<br>&nbsp;&nbsp;&nbsp; On a successful save, the creature takes only half of the damage, isn't knocked prone and is pushed 5 ft. out of the yeti space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the yeti space.
+>
+>***Cold Breath (Recharge 5-6).*** The yeti exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 36 (6d10) cold damage on a failed save, or half as much damage on a successful one.
+>
+> ### Legendary Actions
+>
+>The yeti can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. The yeti regains spent legendary actions at the start of its turn.
+>
+>***Claw Attack.*** The yeti makes one claw attack.
+>
+>***Leap Attack (Cost 2 actions).*** The yeti makes a deadly leap attack.
+
+</div>
+
 <div class="pageLetter">Y</div>
 <div class='footnote'>YETIS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/ZQOYrMF.jpg' style='position:absolute; top:-100px; right:-150px; width:1100px' />
+<img src='https://www.gmbinder.com/images/hB5ioJJ.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
