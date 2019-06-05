@@ -5043,9 +5043,7 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:140px;'></div>
-
-## Ravagers
+<div style='margin-top:470px;'></div>
 
 ___
 > ## Ravager
@@ -5072,11 +5070,37 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage plus 3 (1d6) poison damage. If the target is wearing armor and the attack roll exceeds the target's AC by 5 or more, the target's armor takes a permanent and cumulative <br>-1 penalty to the AC it offers. Armor reduced to an AC of 10 is destroyed.
 
+\columnbreak
+
+<div style='margin-top:140px;'></div>
+
+## Ravagers
+Native to the world of Draenor, these quadrupedal beings roam the land surrounding them in search of food to fill their insatiable appetite, willing to dig their ragged teeth into any creature made of flesh.
+
+Ravagers resemble giant insectiods equipped with ragged teeth and a carnivorous lust for meat. Their bodies are covered in hard chitin, combined with their surprising speed they make able fighters.
+
+***Voracious Carnivores.*** Ravagers are able predators who hide behind rocks and in crevices until their quarry's within reach, only to emerge in great numbers and swarm around their prey to eliminate any possible escape. They ravage the land around them, extinguishing all potential life as they hunt for their colony's survival.
+
+***Swarm Mentality.*** These large insectoids live in ever-growing colonies with the mentality of a large swarm.  They move as one, never leaving anyone behind and wander the land in search for food to survive. Although ravagers do not have an innate link like that of silithids, but they seem to be capable of predicting each others ideas and movements, mimicking them with immense precision.
+
+***Migrated Creatures.*** Ravagers are native to the world of Draenor and have no equivalent on Azeroth. Yet they have found their way onto its surface through the crashed ship, Exodar. Stowaway beings on the ship, they had previously been captured and imprisoned, but the crashing of the ship allowed them to escape onto the shimmer isles west of kalimdors coast.
+
+### Ravager Brood Mother
+At the heart of a ravager colony sits the brood mother, she grants the colony life by laying the eggs that hatches into small ravager larva, blostering the colony's numbers. The brood mother is the queen of the colony and her survival means the survival of the colony as a whole, ravagers will go to extreme lengths to secure her safety.
+
+### Ravager Wasp
+Ravagers hatch as small insignificant larva that are quick to disappear into pupae, only to emerge as slender wasps with a swarm mentality and a ferocious sting. Wasps gorge themselves until their wings can no longer support their body weight, after which they undergo a third and final metamorphosis into the vicious four-legged ravagers.
+
+> ##### Ravagers on alternate Draenor
+> The ravagers of alternate Draenor were never exposed to the powers of fel, their bodies were not malformed. These creatures have evolved into large monsters more resembling four-legged spiders, their wings have grown with them giving all ravagers a flying speed equal to their normal speed.
+
 <div class='letterheader'></div>
 <div class="mmletter mml-r"></div>
 <div class="pageLetter">R</div>
 <div class='footnote'>RAVAGERS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/OkSEy3f.png' class='inkblot inkblot-green' style='position:absolute; top:0px; right:380px; width:600px' />
+<img src='https://www.gmbinder.com/images/zzz8zOr.png' style='position:absolute; top:60px; right:350px; width:450px' />
 
 \pagebreakNum
 
@@ -5141,7 +5165,9 @@ ___
 
 <div class="pageLetter">R</div>
 <div class='footnote'>RAVAGERS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+<img src='https://www.gmbinder.com/images/DLVtbKb.jpg' style='position:absolute; top:350px; right:-500px; width:2000px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/vphWuHd.png' style='position:absolute; top:-360px; right:0px; width:900px' />
 
 \pagebreakNum
 
