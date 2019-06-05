@@ -859,7 +859,7 @@ The toughest of ancients grow into ancients of war; mighty plants often found de
 <div class='footnote'>ANCIENTS </div>
 
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://i.imgur.com/CRqcfac.png' class='inkblot' style='top:-210px; left:-310px; width:900px;'>
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:-210px; left:-310px; width:900px;'>
 <img src='https://www.gmbinder.com/images/TfR3uTq.png' style='position:absolute; top:0px; right:300px; width:550px;transform:scalex(-1)' />
 
 \pagebreakNum
@@ -994,7 +994,7 @@ ___
 <div class="pageLetter">A</div>
 <div class='footnote'>ANCIENTS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src="https://i.imgur.com/m6qCwvJ.png" class="inkblot" style="top:-190px; right:-250px; width:800px; transform:rotate(14deg);">
+<img src="https://www.gmbinder.com/images/m6qCwvJ.png" class="inkblot" style="top:-190px; right:-250px; width:800px; transform:rotate(14deg);">
 <img src='https://www.gmbinder.com/images/nTufGSO.png' style='position:absolute; top:-100px; right:-110px; width:600px;transform:scalex(-1)' />
 
 \pagebreakNum
@@ -1046,7 +1046,7 @@ A basilisk has an insatiable hunger for such crystals, and it is not uncommon to
 <div class="pageLetter">B</div>
 <div class='footnote'>BASILISK </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src="https://i.imgur.com/KcRAZwq.png" class="inkblot" style="top: -80px;right: 175px;width: 540px;transform: rotate(78deg);">
+<img src="https://www.gmbinder.com/images/KcRAZwq.png" class="inkblot" style="top: -80px;right: 175px;width: 540px;transform: rotate(78deg);">
 <img src='https://www.gmbinder.com/images/wqJdnmf.png' style='position:absolute; top:-70px; right:70px; width:700px' />
 
 \pagebreakNum
@@ -1153,7 +1153,7 @@ ___
 <div class="pageLetter">B</div>
 <div class='footnote'>BOG BEASTS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src="https://i.imgur.com/OkSEy3f.png" class="inkblot" style="top: -170px;left: -85px;width: 700px;transform: rotate(248deg);">
+<img src="https://www.gmbinder.com/images/OkSEy3f.png" class="inkblot" style="top: -170px;left: -85px;width: 700px;transform: rotate(248deg);">
 <img src='https://www.gmbinder.com/images/JKyUFKT.png' style='position:absolute; top:10px; right:220px; width:700px' />
 
 \pagebreakNum
@@ -1285,7 +1285,7 @@ Their names are short and sharp, while tribes draw their name from the first kha
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src="https://i.imgur.com/64Wsryy.png" class="inkblot" style="top: 87px;right: -230px;width: 640px;transform: rotate(-47deg);">
+<img src="https://www.gmbinder.com/images/64Wsryy.png" class="inkblot" style="top: 87px;right: -230px;width: 640px;transform: rotate(-47deg);">
 <img src='https://www.gmbinder.com/images/3myZ2DH.png' style='position:absolute; top:150px; right:-90px; width:550px;' />
 
 \pagebreakNum
@@ -1411,7 +1411,7 @@ ___
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src="https://i.imgur.com/e5Dbuzd.png" class="inkblot" style="top: 20px;right: -17px;width: 800px;transform: rotate(-170deg);">
+<img src="https://www.gmbinder.com/images/e5Dbuzd.png" class="inkblot" style="top: 20px;right: -17px;width: 800px;transform: rotate(-170deg);">
 <img src='https://www.gmbinder.com/images/EojlAJ6.png' style='position:absolute; top:-20px; left:38px; width:840px;' />
 
 \pagebreakNum
@@ -1595,6 +1595,7 @@ ___
 <div class="pageLetter">D</div>
 <div class='footnote'>DINOSAURS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://www.gmbinder.com/images/KcRAZwq.png" class="inkblot" style="top:-300px; right:0px; width:800px;transform:rotate(40deg)">
 <img src='https://www.gmbinder.com/images/ZlkfRr5.png' style='position:absolute; top:-50px; right:-100px; width:1100px;transform:scalex(-1)' />
 
 \pagebreakNum
@@ -1829,6 +1830,7 @@ ___
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:-100px; right:-100px; width:600px'>
 <img src='https://www.gmbinder.com/images/NxtWzOA.png' style='position:absolute; top:0px; right:0px; width:400px' />
 <img src='https://www.gmbinder.com/images/VgKYEVj.png' style='position:absolute; top:-75px; right:565px; width:400px;transform:rotate(140deg)' />
 
@@ -3228,8 +3230,9 @@ ___
 <div class="pageLetter">G</div>
 <div class='footnote'>GRELL </div>
 <img src='https://www.gmbinder.com/images/ZTHL769.jpg' style='position:absolute; top:0px; right:250px; width:1350px' />
-<img src='https://www.gmbinder.com/images/f9sluCp.png' style='position:absolute; top:-100px; right:-50px; width:1000px' />
-<img src='https://www.gmbinder.com/images/KfYclYJ.png' style='position:absolute; top:60px; right:50px; width:500px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/f9sluCp.png' style='position:absolute; top:-100px; right:-50px; width:1000px' />'
+<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot' style='top:-100px; right:-100px; width:600px'>
+<img src='https://www.gmbinder.com/images/KfYclYJ.png' style='position:absolute; top:70px; right:50px; width:500px;transform:scalex(-1); z-index:100' />
 
 \pagebreakNum
 
@@ -3293,6 +3296,7 @@ ___
 <div class="pageLetter">H</div>
 <div class='footnote'>HARPIES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:0px; width:500px'>
 <img src='https://www.gmbinder.com/images/8xkJDn5.png' style='position:absolute; top:-100px; right:-70px; width:500px' />
 
 \pagebreakNum
@@ -3336,6 +3340,7 @@ ___
 <div class='footnote'>HARPIES </div>
 <img src='https://www.gmbinder.com/images/YKW43zQ.jpg' style='position:absolute; top:760px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/Iu6blc4.png' style='position:absolute; top:-220px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/KcRAZwq.png' class='inkblot inkblot-green' style='top:0px; right:0px; width:500px'>
 <img src='https://www.gmbinder.com/images/tvBKpv9.jpg' style='position:absolute; top:20px; right:-150px; width:700px;mix-blend-mode:darken' />
 
 \pagebreakNum
@@ -3397,6 +3402,7 @@ ___
 <div class="pageLetter">K</div>
 <div class='footnote'>KOBOLDS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:50px; right:-50px; width:600px; transform:rotate(50deg)'>
 <img src='https://www.gmbinder.com/images/F1ZgnDD.png' style='position:absolute; top:132px; right:-25px; width:510px; mix-blend-mode:darken' />
 <img src='https://www.gmbinder.com/images/qLJ3Z1l.jpg' style='position:absolute; top:950px; right:390px; width:350px; mix-blend-mode:darken' />
 
@@ -3500,7 +3506,7 @@ A kodo is a giant reptilian beast with thick <br> hide, immense strength and hor
 
 ***Tauren Culture.*** The kodo beasts are key to tauren culture. Tauren hunt and use every part of kodos for their equipment, clothing, and food. But also train the mighty beasts as mounts or beasts of burden. The tauren see these creatures as a symbol of vigor and power, and hunting them is an important rite of passage for young warriors.
 
-***Pack Beasts.*** Kodos are formidable pack beasts and are used extensively by the tauren, as well as other races of the horde. The large beasts are capable of carrying immense amounts of load for long period without taking harm from it.
+***Pack Beasts.*** Kodos are formidable pack beasts and are used extensively by the tauren, as well as other races of the horde. The large beasts are capable of carrying immense amounts of load for long period without being exhausted.
 
 ___
 > ## Kodo
@@ -3559,6 +3565,7 @@ ___
 <div class="pageLetter">K</div>
 <div class='footnote'>KODOS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:0px; right:0px; width:500px'>
 <img src='https://www.gmbinder.com/images/FgqGNWT.png' style='position:absolute; top:-185px; right:-265px; width:770px' />
 <img src='https://www.gmbinder.com/images/2k2FW0N.jpg' style='position:absolute; top:-70px; right:580px; width:350px;mix-blend-mode:multiply' />
 
@@ -3786,6 +3793,7 @@ Even worse, though, the gnomes who survived was horribly mutated and driven to m
 <div class="pageLetter">L</div>
 <div class='footnote'>LEPER GNOME </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:0px; right:300px; width:500px'>
 <img src='https://www.gmbinder.com/images/l0q9dDf.jpg' style='position:absolute; top:15px; right:370px; width:480px;mix-blend-mode:darken;transform:scalex(-1)' />
 
 \pagebreakNum
@@ -3870,6 +3878,7 @@ following spells, requiring no material components:
 <img src='https://www.gmbinder.com/images/Q9DEb99.jpg' style='position:absolute; top:-40px; right:0px; width:800px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/9mNIZ0z.png' style='position:absolute; top:-600px; right:0px; width:900px;transform:rotate(90deg)' />
 <img src='https://www.gmbinder.com/images/XzbbBU4.png' style='position:absolute; top:100px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/KcRAZwq.png' class='inkblot inkblot-blue' style='top:-50px; right:-200px; width:500px; transform:rotate(50deg)'>
 <img src='https://www.gmbinder.com/images/SaNsWJP.png' style='position:absolute; top:100px; right:-30px; width:450px' />
 
 \pagebreakNum
@@ -4023,6 +4032,7 @@ As an example, the Mechanostrider shown here uses the base statistics of a talls
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-blue' style='top:0px; right:350px; width:600px'>
 <img src='https://www.gmbinder.com/images/FY0kkNX.png' style='position:absolute; top:0px; right:350px; width:400px' />
 
 \pagebreakNum
@@ -4100,9 +4110,7 @@ ___
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
 <img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-blue' style='top:100px; right:150px; width:500px; transform:rotate(260deg)' />
-
 <img src='https://www.gmbinder.com/images/9nXCFwU.png' style='position:absolute; top:320px; right:100px; width:200px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/ggaGnjz.png' style='position:absolute; top:280px; right:360px; width:400px;transform:scalex(-1)' />
 
@@ -4178,9 +4186,7 @@ ___
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
 <img src='https://www.gmbinder.com/images/64Wsryy.png' class='inkblot inkblot-blue' style='top:00px; right:0px; width:400px; transform:rotate(90deg)' />
-
 <img src='https://www.gmbinder.com/images/FwruUvJ.png' style='position:absolute; top:-100px; right:-20px; width:500px' />
 
 \pagebreakNum
@@ -4233,9 +4239,7 @@ ___
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
 <img src='https://www.gmbinder.com/images/64Wsryy.png' class='inkblot inkblot-blue' style='top:-300px; right:0px; width:700px; transform:rotate(90deg)' />
-
 <img src='https://www.gmbinder.com/images/DsvKvCU.png' style='position:absolute; top:-100px; right:-190px; width:1200px' />
 
 \pagebreakNum
@@ -4587,6 +4591,7 @@ ___
 <div class='footnote'>NAGA </div>
 <img src='https://www.gmbinder.com/images/hvUUxG8.jpg' style='position:absolute; top:570px; right:-180px; width:1000px' />
 <img src='https://www.gmbinder.com/images/gezbRSW.png' style='position:absolute; top:-70px; right:-0px; width:950px' />
+<img src='https://www.gmbinder.com/images/QZfSRiM.png' class='inkblot' style='top:-100px; right:-50px; width:900px'>
 <img src='https://www.gmbinder.com/images/ZYrQqIH.jpg' style='position:absolute; top:0px; right:20px; width:700px;mix-blend-mode:darken' />
 
 \pagebreakNum
@@ -4648,6 +4653,7 @@ ___
 <div class="pageLetter">O</div>
 <div class='footnote'>OGRES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/64Wsryy.png' class='inkblot' style='top:0px; right:-100px; width:600px'>
 <img src='https://www.gmbinder.com/images/cvz0pMW.png' style='position:absolute; top:20px; right:-60px; width:550px;transform:scalex(-1)' />
 
 \pagebreakNum
@@ -4895,6 +4901,7 @@ Quilboars have a natural affinity towards boars, and some amongst them have made
 <div class="pageLetter">Q</div>
 <div class='footnote'>QUILBOARS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/KcRAZwq.png' class='inkblot inkblot-green' style='top:-100px; right:300px; width:500px; transform:rotate(40deg)'>
 <img src='https://www.gmbinder.com/images/ljH3Xaj.png' style='position:absolute; top:-50px; right:200px; width:650px' />
 
 \pagebreakNum
@@ -4983,6 +4990,7 @@ ___
 <div class="pageLetter">Q</div>
 <div class='footnote'>QUILBOARS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:0px; width:500px'>
 <img src='https://www.gmbinder.com/images/Tmf8a9n.png' style='position:absolute; top:-30px; right:35px; width:390px' />
 
 \pagebreakNum
@@ -5039,6 +5047,7 @@ ___
 <div class='footnote'>QUILBOARS </div>
 <img src='https://www.gmbinder.com/images/wYkRYT1.jpg' style='position:absolute; top:0px; right:-150px; width:1000px' />
 <img src='https://www.gmbinder.com/images/60YwJDt.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-green' style='top:50px; right:-100px; width:600px'>
 <img src='https://www.gmbinder.com/images/DY0bq9o.png' style='position:absolute; top:0px; right:-50px; width:600px' />
 
 \pagebreakNum
@@ -5378,6 +5387,7 @@ ___
 <img src='https://www.gmbinder.com/images/H7ClVNg.jpg' style='position:absolute; top:-160px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/H0ZaKgc.png' style='position:absolute; top:-200px; right:0px; width:900px;transform:rotate(40deg)' />
 <img src='https://www.gmbinder.com/images/XzbbBU4.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/OkSEy3f.png' class='inkblot' style='top:150px; right:-50px; width:500px'>
 <img src='https://www.gmbinder.com/images/0O5RO1a.png' style='position:absolute; top:-40px; right:-10px; width:430px' />
 
 \pagebreakNum
@@ -5600,10 +5610,6 @@ ___
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
-
-<div style='margin-top:140px;'></div>
-
-## Zombie
 
 ___
 > ## Zombie
@@ -6032,6 +6038,7 @@ ___
 <div class="pageLetter">S</div>
 <div class='footnote'>SKELETONS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:-50px; right:-150px; width:600px'>
 <img src='https://www.gmbinder.com/images/uabPXoK.png' style='position:absolute; top:0px; right:-50px; width:500px' />
 
 \pagebreakNum
@@ -6125,6 +6132,7 @@ ___
 <div class="pageLetter">S</div>
 <div class='footnote'>SKELETONS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:0px; right:200px; width:600px; transform:rotate(150deg)'>
 <img src='https://www.gmbinder.com/images/AuHA2cU.png' style='position:absolute; top:0px; right:230px; width:850px' />
 
 \pagebreakNum
@@ -6437,6 +6445,7 @@ ___
 <div class="pageLetter">T</div>
 <div class='footnote'>TROLLS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:-100px; right:-100px; width:600px'>
 <img src='https://www.gmbinder.com/images/VmaSqj2.png' style='position:absolute; top:5px; right:0px; width:500px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/fWvbaDn.png' style='position:absolute; top:440px; right:-60px; width:200px;transform:rotate(20deg)' />
 
@@ -6576,6 +6585,7 @@ ___
 <div class="pageLetter">T</div>
 <div class='footnote'>TROLLS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/QZfSRiM.png' class='inkblot' style='top:-100px; right:-100px; width:900px'>
 <img src='https://www.gmbinder.com/images/Ylc5uWv.png' style='position:absolute; top:20px; right:0px; width:800px' />
 
 \pagebreakNum
@@ -6633,6 +6643,7 @@ In their great hunt for prey, denizens have noticed that the great thunder lizar
 <div class="pageLetter">T</div>
 <div class='footnote'>THUNDER LIZARD </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-green' style='top:-300px; right:0px; width:700px; transform:rotate(60deg)'>
 <img src='https://www.gmbinder.com/images/wRMRQeP.png' style='position:absolute; top:-60px; right:-50px; width:1000px;transform:scalex(-1)' />
 
 \pagebreakNum
@@ -6695,6 +6706,7 @@ ___
 <img src='https://www.gmbinder.com/images/ggrco7c.jpg' style='position:absolute; top:890px; right:310px; width:500px' />
 <img src='https://www.gmbinder.com/images/VqWyp2Q.png' style='position:absolute; top:300px; right:-100px; width:700px' />
 <img src='https://www.gmbinder.com/images/Ii86tvu.png' style='position:absolute; top:-30px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-blue' style='top:-200px; right:0px; width:700px; transform:rotate(-60deg)'>
 <img src='https://www.gmbinder.com/images/XARxGdz.png' style='position:absolute; top:50px; right:-200px; width:1000px' />
 
 \pagebreakNum
@@ -6951,6 +6963,7 @@ ___
 <div class="pageLetter">Y</div>
 <div class='footnote'>YETIS </div>
 <img src='https://www.gmbinder.com/images/8rImMFu.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:0px; right:-150px; width:700px'>
 <img src='https://www.gmbinder.com/images/idt4oFo.png' style='position:absolute; top:130px; right:-31px; width:500px' />
 
 \pagebreakNum
@@ -7232,6 +7245,7 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot inkblot-green' style='top:-400px; right:-200px; width:700px'>
 <img src='https://www.gmbinder.com/images/VEAtHNK.png' style='position:absolute; top:-150px; right:-200px; width:800px' />
 
 \pagebreakNum
@@ -7334,6 +7348,7 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot inkblot-green' style='top:700px; right:-200px; width:700px; transform:rotate(40deg)'>
 <img src='https://www.gmbinder.com/images/nw76d2C.png' style='position:absolute; top:850px; right:-20px; width:400px' />
 
 \pagebreakNum
@@ -7440,6 +7455,7 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot inkblot-green' style='top:850px; right:100px; width:700px; transform:rotate(-40deg)'>
 
 \pagebreakNum
 
@@ -7545,6 +7561,7 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-green' style='top:650px; right:100px; width:700px; transform:rotate(230deg)'>
 
 \pagebreakNum
 
@@ -7681,7 +7698,7 @@ ___
 >
 > ***Web (Recharge 5-6}.*** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one creature. *Hit:* The target is then restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 
-<div style='margin-top:45px;'></div>
+<div style='margin-top:25px;'></div>
 
 > ##### Variant: Giant Deathweb Spider
 > A deathweb spider has a challenge rating of 2 (450 XP). It has the same statistics as a giant spider except that it has Constitution 14, 37 (5d10 + 10) hit points, and replaces the giant spider's bite action option with the following actions. Additionally, the spiders web deals 9 (2d8) acid damage to a creature restrained by it at the beginning of the creatures turn.
@@ -7833,6 +7850,7 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
 <img src='https://www.gmbinder.com/images/QsIMjKG.png' style='position:absolute; top:670px; right:0px; width:400px' />
 
 \pagebreakNum
@@ -8337,3 +8355,4 @@ A **zhevra** is a large zebra with the horn piercing through its forehead simila
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
