@@ -2524,7 +2524,7 @@ Conversely, other spirits may be unwilling to find rest out of fear for what lie
 
 ***Bitter Resentment.*** It is not uncommon for ghosts, especially those forced to dwell in this state for too long, to grow resentful of the living. Unable to accept their own death and spiteful of those who still live, they often come to foster hatred for warmth, hope, and joy --and the presence of such may well drive them into a murderous frenzy.
 
-***The Shadowland.*** Existing since mortal life first walked the universe, the Shadowlands is a realm of existence spanning all known worlds, including Azeroth. Those who have seen it describe it as a nightmarish world of decay, a labyrinth of intertwined spiritual planes all teeming with the souls of the dead.
+***The Shadowlands.*** Existing since mortal life first walked the universe, the Shadowlands is a realm of existence spanning all known worlds, including Azeroth. Those who have seen it describe it as a nightmarish world of decay, a labyrinth of intertwined spiritual planes all teeming with the souls of the dead.
 
 Many believe this to be the final destination for all mortal souls, into which they are drawn on their point of death and destined to remain forever after, while others choose to hope for their final rest to be brighter -- more pleasant than an eternity languishing such cold and bleak confines.
 
@@ -2535,6 +2535,22 @@ It is said that Icecrown, the frozen peak of Northrend and citadel of the Scourg
 Some of the most prominent beings dwelling in the Shadowlands are regarded as patrons of death among various races; such as the troll Loa of death, Bwonsamdi.
 
 Also prominent are the Spirit Healers; ascendant Val'kyr who, following the banishment of Helya and the sealing of the Halls of Valor, disappeared into the Shadowlands -- hidden away there, even from the corrupting influence of the Lich King.
+
+\columnbreak
+
+<div style='margin-top:520px;'></div>
+
+> ##### The Spirit Healers
+>
+> The first of the Val'kyr was the titanic Watcher Helya, bound by the Keeper Odyn to an eternal servitude as the bringer of souls to his gilded Halls of Valor: the golden realm for all slain spirits of Odyn's followers. Her servitude was not willing, but a punishment, and one for which she had let her hatred for Odyn simmer for milennia.
+>
+> When the Keeper Loken came with a promise of a way out, and subsequently broke her chains, she called upon her powers to bend the arcane energies of Azeroth into an impregnable seal around Odyn's halls, its inhabitants sealed within.
+>
+> Free from her servitude, Helya forged the mist-shrouded realm of Helheim as a new home for herself and her Val'kyr, though not all chose to follow her on this path. Instead, some chose to break bonds and disappear into the Shadowlands.
+>
+> There, just as they once guided fallen vrykul to the Halls of Valor, these Val'kyr have dubbed themselves *Spirit Healers*. From their refuge in the Shadowlands, they have kept an eye on those who enter the dark beyond, and have on occasion granted passage back for those they've found worthy.
+>
+> ***Encountering a Spirit Healer.*** If your adventurers have met an untimely demise and their quest rem&shy;ains unsolved, seeking out a Spirit Healer within the Shadowlands could be an option for them. The Spirit Healer may judge, or other&shy;wise be convinced, that it is not yet their time and return them to the realm of the living.
 
 <div class='letterheader'></div>
 <div class="mmletter mml-g"></div>
