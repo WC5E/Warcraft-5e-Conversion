@@ -51,13 +51,13 @@ In short, prefix your commit messages and pull request with the type of work tha
 
 These documents have been set up for the project, outside of Github, to track various parts of the project. 
 
-[Version Changelog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A)
+* [Version Changelog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A)
 
-[Race Balancing](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
+* [Race Balancing](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
 
-[Available Spells for each Class' Spell List](https://drive.google.com/open?id=1bzXzGxXFdC3zUdm8_4aURXfftixsJTStRn49fAeSDgs)
+* [Available Spells for each Class' Spell List](https://drive.google.com/open?id=1bzXzGxXFdC3zUdm8_4aURXfftixsJTStRn49fAeSDgs)
 
-[Future Plans](https://drive.google.com/open?id=1MXoKixt1elxs7Em_-nOrTiJ49ki8CcGaavYzBGM6jLs)
+* [Future Plans](https://drive.google.com/open?id=1MXoKixt1elxs7Em_-nOrTiJ49ki8CcGaavYzBGM6jLs)
 
 #### Adding material to the WIP folder
 
@@ -68,7 +68,7 @@ Changes, or entirely new content, can be added to the version control if wanted.
 
 Progress on the Manual of Monsters is kept in its own Drive spreadsheet. Creatures are put aside in chunks for smaller, reachable milestones and then signed off on when the stats have been set and agreed upon.
 
-[Monster Planning Document](https://docs.google.com/spreadsheets/d/1gjxgzF93LLB3q_o7QYe9xynpxkaUrkorklA7YGHSJvA/edit?usp=sharing)
+* [Monster Planning Document](https://docs.google.com/spreadsheets/d/1gjxgzF93LLB3q_o7QYe9xynpxkaUrkorklA7YGHSJvA/edit?usp=sharing)
 
 
 #### Add new creatures to the WIP folder
@@ -77,4 +77,4 @@ New creature statblocks for the Manual of Monsters are added to the book's WIP f
 
 That way we can scope the book into iterations, and extra statblocks can be done parallel with book formatting, without losing material between a hundred different GM Binder links.
 
-[WIP Monster Folder](https://github.com/Jihia/Warcraft-Heroes-Handbook/tree/master/WIP%20Manual%20of%20Monsters)
+* [WIP Monster Folder](https://github.com/Jihia/Warcraft-Heroes-Handbook/tree/master/WIP%20Manual%20of%20Monsters)
