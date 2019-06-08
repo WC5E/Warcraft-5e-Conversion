@@ -2518,36 +2518,84 @@ ___
 <div style='margin-top:140px;'></div>
 
 ## Ghosts
+While most mortal souls eventually find their way to the Shadowlands, not all who have died manage to find rest. Some are unwillingly bound to roam the trackless wastes that exist between the Shadowlands and the physical world, appearing in the latter as ghostly apparitions as they search for release from their endless suffering.
 
-While most mortal souls eventually find their way to the Shadowlands, the realm of spirits, not all who have died manage to find rest. Some are unwillingly bound to roam the trackless wastes that exist between the Shadowlands and the physical world, appearing in the latter as ghostly apparitions as they search for release from their endless suffering.
-
-***Existing Between Worlds.*** There are many reasons as for why a soul might remain, including curses and deliberate magical entrapment, though most prevalent is a sheer unwillingness to abandon the physical realm for the realm of spirits. A person whose life ended abruptly at the hands of someone else, may be likely to return as a malevolent spectre intent on exacting revenge upon those who did them wrong.
+***Existing Between Worlds.*** There are many reasons as for why a soul might remain, including curses and deliberate magical entrapment, though most prevalent is a sheer unwillingness to abandon the physical realm -- also known as the Material Plane -- for the realm of spirits. A person whose life ended abruptly at the hands of someone else, may be likely to return as a malevolent spectre intent on exacting revenge upon those who did them wrong.
 
 Conversely, other spirits may be unwilling to find rest out of fear for what lies beyond, or for a feeling that their business in life was never properly settled.
 
 ***Bitter Resentment.*** It is not uncommon for ghosts, especially those forced to dwell in this state for too long, to grow resentful of the living. Unable to accept their own death and spiteful of those who still live, they often come to foster hatred for warmth, hope, and joy --and the presence of such may well drive them into a murderous frenzy.
 
-### The Shadowlands
-
-Existing since mortal life first walked the universe, the Shadowlands is a realm of existence spanning all known worlds, including Azeroth. Those who have seen it describe it as a nightmarish world of decay, a labyrinth of intertwined spiritual planes all teeming with the souls of the dead.
+***The Shadowlands.*** Existing since mortal life first walked the universe, the Shadowlands is a realm of existence spanning all known worlds, including Azeroth. Those who have seen it describe it as a nightmarish world of decay, a labyrinth of intertwined spiritual planes all teeming with the souls of the dead.
 
 Many believe this to be the final destination for all mortal souls, into which they are drawn on their point of death and destined to remain forever after, while others choose to hope for their final rest to be brighter -- more pleasant than an eternity languishing such cold and bleak confines.
 
 Within the Shadowlands, time does not pass as it would elsewhere. Sometimes years outside of the Shadowlands may only seem like days within, and conversely sometimes years may pass by in its bleak wastes without a moment passing in the physical realm. While it may sometimes be near impossible to see what lies ahead inside the Shadowlands, it is possible for those within to hear what is happening outside.
 
-It is said that Icecrown, frozen peak of Northrend and citadel of the Scourge, exists as an anchoring bridge between the Shadowlands and the physical world.
+It is said that Icecrown, the frozen peak of Northrend and citadel of the Scourge, exists as an anchoring bridge between the Shadowlands and the physical world.
 
 Some of the most prominent beings dwelling in the Shadowlands are regarded as patrons of death among various races; such as the troll Loa of death, Bwonsamdi.
+
+Also prominent are the Spirit Healers; ascendant Val'kyr who, following the banishment of Helya and the sealing of the Halls of Valor, disappeared into the Shadowlands -- hidden away there, even from the corrupting influence of the Lich King.
+
+\columnbreak
+
+<div style='margin-top:520px;'></div>
+
+> ##### The Spirit Healers
+>
+> The first of the Val'kyr was the titanic Watcher Helya, bound by the Keeper Odyn to an eternal servitude as the bringer of souls to his gilded Halls of Valor: the golden realm for all slain spirits of Odyn's followers. Her servitude was not willing, but a punishment, and one for which she had let her hatred for Odyn simmer for milennia.
+>
+> When the Keeper Loken came with a promise of a way out, and subsequently broke her chains, she called upon her powers to bend the arcane energies of Azeroth into an impregnable seal around Odyn's halls, its inhabitants sealed within.
+>
+> Free from her servitude, Helya forged the mist-shrouded realm of Helheim as a new home for herself and her Val'kyr, though not all chose to follow her on this path. Instead, some chose to break bonds and disappear into the Shadowlands.
+>
+> There, just as they once guided fallen vrykul to the Halls of Valor, these Val'kyr have dubbed themselves *Spirit Healers*. From their refuge in the Shadowlands, they have kept an eye on those who enter the dark beyond, and have on occasion granted passage back for those they've found worthy.
+>
+> ***Encountering a Spirit Healer.*** If your adventurers have met an untimely demise and their quest rem&shy;ains unsolved, seeking out a Spirit Healer within the Shadowlands could be an option for them. The Spirit Healer may judge, or other&shy;wise be convinced, that it is not yet their time and return them to the realm of the living.
 
 <div class='letterheader'></div>
 <div class="mmletter mml-g"></div>
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/fA29o73.jpg' style='position:absolute; top:0px; right:-440px; width:1290px' />
+<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-35px; width:900px' />
 
 \pagebreakNum
 
-Also prominent are the Spirit Healers; ascendant Val'kyr who, following the banishment of Helya and the sealing of the Halls of Valor, disappeared into the Shadowlands -- hidden away there, even from the corrupting influence of the Lich King.
+### Apparition
+An apparition is a spectral impression whose presence in the Material Plane has been caught in flux with latent energies from a nearby ley line or other font of magical power. As a result, apparitions possess the power to weave their anguish and their resentment into powerful, often harrowing spells.
+
+### Banshee
+A banshee is the tormented remnant of an elven woman, whose death came to pass in the most gruesome manner -- with the fall of the Highborne, the first coming of the Bur&shy;ning Legion, and the fall of Quel'Thalas all as noteworthy events from which numerous banshees have been made.
+
+Robbed of their elven gift of immortality, the banshees were left to wander the world in tormented silence, until discovered by Ner'zhul, the first Lich King. In return for a promise of servitude to the Scourge, Ner'zhul gifted the banshees their terrible, blood-curdling voice, which they <br> in turn have used to seek vengeance on the living. 
+
+Though some banshees still roam free in their own lamentation, most are still beholden to their bond with the Scourge. Some banshees still, particularly those formed after the fall of Quel'Thalas, have since found new purpose among the Forsaken.
+
+### Shade
+Shades are much alike other ghosts, in their presence as a disembodied spirit, wandering the reaches between the physical realm and the darkness beyond. This is, however, as far as the similarities go.
+
+While other ghostly beings are the remnants of those still clinging to the physical realm, shades are formed through willing sacrifice -- necromancers sacrificing their acolytes to better serve the undead Scourge.
+
+Empowered by the Lich King, shades can remain unseen if they will it -- detectable only by powerful magic -- allowing them to act as the eyes and ears of their undead masters.
+
+### Spectre
+Much like the banshee, a spectre is the tormented remnant of an elven man, slain by monstrous foes and robbed of their immortality. Though spectres do not possess the anguished screams that were gifted to the banshees by Ner'zhul, they still remain a considerable danger to those who encounter them.
+
+Driven both by a bitter resentment for the living and by their hubris in death, a spectre may attempt to lure unwary travelers into dangerous traps, waiting for an opportune moment to overpower them and seep away their life force.
+
+### Wisp
+Wisps are the disembodied spirits of deceased night elves, made one with the forest in their passing. Unlike other ghosts who wander the world in anguish, wisps use their spiritual being to bridge a connection ever closer to the forests where they delve.
+
+Though silent for all but a soft, low humming, wisps are able to communicate with the living. Acting together in unison with the tree-like ancients, they act as guardians and caretakers -- often flourishing around druidic groves.
+
+\columnbreak
+
+### Wraith
+Though commonly beholden to its masters -- whether that be a necromantic cults or the undead Scourge -- wraiths are reputed for retaining most of their intelligence and in&shy;dividuality, even in death. Self-motivated and exception&shy;ally cunning, it is not uncommon for a wrath to act by its own accord even while beholden to a master.
+
+Some wraiths may be found holding to the same sense of honour and law as they did in life, and may even be found willing to make deals with the living if prompted. Other wraiths, in turn, carry little more than jealous rage brought on by resentment for their state of being, readily yearning for a chance to visit it upon any unfortunate enough to cross paths with them.
 
 ### Ghost Template
 Ghosts are the spectral remnants of intelligent beings who, for one reason or another, cannot rest easily in their graves. A ghost greatly resembles its corporeal form in life, but in some cases the spiritual form is somewhat altered.
@@ -2587,59 +2635,9 @@ Using the Hit Points Based on Challenge Rating table, apply the appropriate mult
 <div class='footnote'>GHOSTS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
-### Apparition
-
-### Banshee
-
-### Shade
-
-### Spectre
-
-### Wisp
-
-### Wraith
-
 \pagebreakNum
 
-___
-> ## Ghost Spy
->*Medium undead (any race), any alignment*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 13 (3d8)
-> - **Speed** 0 ft., fly 40 ft. (hover)
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
->___
-> - **Skills** Deception +5, Insight +4, Perception +6, <br>
-Persuasion +5, Stealth +4
-> - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-> - **Damage Immunities** cold, necrotic, poison
-> - **Condition Immunities** charmed, exhaustion, frightened grappled, paralyzed, petrified, poisoned, prone, restrained
-> - **Senses** darkvision 60 ft., passive Perception 16
-> - **Languages** any two languages 
-> - **Challenge** 1 (200 XP)
-> ___
-> ***Cunning Action.*** On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action. 
->
-> ***Ethereal Sight.*** The ghost can see 60 ft. into the Spirit World when it is on the Material Plane, and vice versa.
->
-> ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
->
-> ***Sneak Attack (1/Turn).*** The ghost deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the ghost that isn't incapacitated and the ghost doesn't have disadvantage on the attack roll.
->
-> ### Actions
-> ***Multiattack.*** The ghost makes two melee attacks.
->
-> ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
->
-> ***Hand Crossbow.*** *Ranged Weapon Attack:* +5 to hit, range 30/120 ft., one target. *Hit:* 5 (ld6 +3) piercing damage.
->
-> ***Etherealness.*** The ghost enters the Spirit World from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Spirit World, and vice versa, yet it can't affect or be affected by anything on the other plane.
-
-\columnbreak
+<div style='margin-top:103px;'></div>
 
 ___
 > ## Ghost Knight
@@ -2679,11 +2677,57 @@ ___
 > ### Reactions
 > ***Parry.*** The ghost adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 
+\columnbreak
+
+<div style='margin-top:136px;'></div>
+
+___
+> ## Ghost Spy
+>*Medium undead (any race), any alignment*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 13 (3d8)
+> - **Speed** 0 ft., fly 40 ft. (hover)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
+>___
+> - **Skills** Deception +5, Insight +4, Perception +6, <br>
+Persuasion +5, Stealth +4
+> - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** cold, necrotic, poison
+> - **Condition Immunities** charmed, exhaustion, frightened grappled, paralyzed, petrified, poisoned, prone, restrained
+> - **Senses** darkvision 60 ft., passive Perception 16
+> - **Languages** any two languages 
+> - **Challenge** 1 (200 XP)
+> ___
+> ***Cunning Action.*** On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action. 
+>
+> ***Ethereal Sight.*** The ghost can see 60 ft. into the Spirit World when it is on the Material Plane, and vice versa.
+>
+> ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+>
+> ***Sneak Attack (1/Turn).*** The ghost deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the ghost that isn't incapacitated and the ghost doesn't have disadvantage on the attack roll.
+>
+> ### Actions
+> ***Multiattack.*** The ghost makes two melee attacks.
+>
+> ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
+>
+> ***Hand Crossbow.*** *Ranged Weapon Attack:* +5 to hit, range 30/120 ft., one target. *Hit:* 5 (ld6 +3) piercing damage.
+>
+> ***Etherealness.*** The ghost enters the Spirit World from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Spirit World, and vice versa, yet it can't affect or be affected by anything on the other plane.
+
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/LQhllM1.jpg' style='position:absolute; top:-300px; right:0px; width:1100px' />
+<img src='https://www.gmbinder.com/images/I2n61EV.png' style='position:absolute; top:-300px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/I2n61EV.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
+
+<div style='margin-top:160px;'></div>
 
 ___
 > ## Ghost Witch Doctor
@@ -2727,6 +2771,8 @@ ___
 
 \columnbreak
 
+<div style='margin-top:283px;'></div>
+
 ___
 > ## Apparition
 >*Medium undead, chaotic evil*
@@ -2761,7 +2807,9 @@ ___
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/LQhllM1.jpg' style='position:absolute; top:-200px; right:0px; width:1100px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/I2n61EV.png' style='position:absolute; top:-200px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/I2n61EV.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -2772,7 +2820,7 @@ ___
 > ## Banshee
 >*Medium undead, chaotic evil*
 > ___
-> - **Armor Class** 14
+> - **Armor Class** 13
 > - **Hit Points** 91 (14d8 + 28)
 > - **Speed** 0 ft., fly 40 ft. (hover)
 >___
@@ -2814,9 +2862,12 @@ ___
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/umjLUNC.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/hB5ioJJ.png' style='position:absolute; top:-40px; right:0px; width:900px' />
 
 \pagebreakNum
+
+<div style='margin-top:310px;'></div>
 
 ___
 > ## Shade
@@ -2832,7 +2883,7 @@ ___
 >___
 > - **Skills** Stealth +4 (+6 in dim light or darkness)
 > - **Damage Vulnerabilities** radiant
-> - **Damage Resistances** acid, cold, lightning, <br> thunder; bludgeoning, piercing, and slashing from nonmagical attacks.
+> - **Damage Resistances** acid, cold, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** necrotic, poison
 > - **Condition Immunities** exhaustion, frightened, grappled paralyzed, petrified, poisoned, prone, restrained
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -2852,13 +2903,46 @@ ___
 
 \columnbreak
 
-### Spectre position
+<div style='margin-top:240px;'></div>
+
+___
+> ## Spectre
+>*Medium undead, chaotic evil*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 36 (8d8)
+> - **Speed** 0 ft., fly 50 ft. (hover)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|1 (-5)|14 (+2)|11 (+0)|10 (+0)|11 (+0)|15 (+2)|
+>___
+> - **Saving Throws** Wis +2, Cha +4
+> - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** necrotic, poison
+> - **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** Common, Darnassian or Thalassian
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Incorporeal Movement.*** The spectre can move through other creatures and objects as if they were difficult terrain. He takes 5 (1d10) force damage if he ends his turn inside an object.
+>
+> ### Actions
+> ***Siphon Life.*** *Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 18 (4d8) necrotic damage. The target must succeed on a DC 12 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. The spectre regains hit points by an amount equal to half the necrotic damage dealt.
+>
+> ***Horrifying Wail.*** Each non-undead creature within 60 feet of the spectre that can hear it must succeed on a DC 12 Wisdom saving throw or be frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. 
+<br> &nbsp;&nbsp;&nbsp; If a target's saving throw is successful or the effect ends for it, the target is immune to this spectre's Horrifying Wail for the next 24 hours.
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot inkblot-green' style='position:absolute; top:-100px; right:50px; width:700px;transform:rotate(50deg)' />
+<img src='https://www.gmbinder.com/images/m5HeoK6.png' style='position:absolute; top:-76px; right:325px; width:500px; z-index:100' />
+<img src='https://www.gmbinder.com/images/Yvnlco0.png' style='position:absolute; top:-50px; right:20px; width:400px' />
 
 \pagebreakNum
+
+<div style='margin-top:115px;'></div>
 
 ___
 > ## Wisp
@@ -2893,19 +2977,29 @@ ___
 
 \columnbreak
 
+<div style='margin-top:700px;'></div>
+
 > ##### Will of the Forest
 > Five wisps within 30 feet of each other are able to cast powerful spells. Each of the five must use its action and movement on three consecutive turns to call upon the powers of Elune and must maintain concentration while doing so (as if concentrating in a spell). When all five have finished their third turn of the ritual, the wisps gain the Spellcasting trait and can cast one spell in total at a target or point within 120 feet, no matter the spells normal range.
 >
-> ***Innate Spellcasting.*** The wisps spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The wisps can innately cast one of the following spells as a 4th-level spell, requiring no material components. If a spell requires centration, all five wisps concentration must be broken to remove the spell:
+> ***Innate Spellcasting.*** The wisps spellcasting ability is Wisdom (spell save DC 12). They can innately cast one of the following spells as a 4th-level spell, requiring no material components. If a spell requires centration, all five wisps concentration must be broken to remove the spell:
 > <div style='margin-top:0px;'></div>
 >
-> 1/Ritual: *banishment, charm monster, confusion, <br>&nbsp;&nbsp;&nbsp; dispel magic, spike growth, wind wall*
+> 1/ritual: *banishment, charm monster, confusion, <br>&nbsp;&nbsp;&nbsp; dispel magic, spike growth, wind wall*
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/kaSbStn.jpg' style='position:absolute; top:0px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/I2n61EV.png' style='position:absolute; top:300px; right:-200px; width:900px;transform:rotate(20deg)' />
+<img src='https://www.gmbinder.com/images/bxc0KO8.png' style='position:absolute; top:0px; right:120px; width:900px;transform:scalex(-1)' />
 
 \pagebreakNum
+
+<br>
+
+\columnbreak
+
+<div style='margin-top:100px;'></div>
 
 ___
 > ## Wraith
@@ -2937,7 +3031,8 @@ ___
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/zm4b43n.jpg' style='position:absolute; top:0px; right:150px; width:810px' />
+<img src='https://www.gmbinder.com/images/os1g7vx.png' style='position:absolute; top:0px; right:-90px; width:900px' />
 
 \pagebreakNum
 
