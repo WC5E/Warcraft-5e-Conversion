@@ -1665,6 +1665,8 @@ Travelers entering the enchanted forests of Quel'Thalas might catch a glimpse of
 
 ***Wild Legends.*** Few wild dragonhawks exist, most, if <br> not all, the beasts found in Quel'Thalas have been bred <br>by the elves . Wild dragonhawks are considered mystical beings that few get to witness, they stay clear of docile dragonhawks and spend much of their time flying above tree canopies to avoid detection. These dragonhawks are formidable hunters and amongst the deadliest predators found on the Eastern Kingdoms.
 
+<div style='margin-top:77px;'></div>
+
 ___
 > ## Young Dragonhawk
 >*Medium beast, unaligned*
@@ -1695,7 +1697,7 @@ ___
 
 \columnbreak
 
-<div style='margin-top:390px;'></div>
+<div style='margin-top:391px;'></div>
 
 ___
 > ## Dragonhawk
@@ -1733,7 +1735,7 @@ ___
 <img src="https://www.gmbinder.com/images/kg2n3mX.jpg" style="position:absolute;top:0px;right: -95px;width: 530px;">
 <img src="https://i.imgur.com/IwT4hSy.png" style="position:absolute;top: -200px;right: 50px;width:1000px;transform: rotate(21deg);">
 <img src="https://i.imgur.com/fzF8pb9.png" style="position:absolute;top: 170px;right: -100px;width: 900px;">
-<img src='https://www.gmbinder.com/images/wHoaPUq.png' style='position:absolute; top:900px; right:450px; width:250px;transform:rotate(40deg)' />
+<img src="https://www.gmbinder.com/images/wHoaPUq.png" style="position:absolute;top: 285px;right: 472px;width: 290px;transform: rotate(46deg);">
 
 \pagebreakNum
 
