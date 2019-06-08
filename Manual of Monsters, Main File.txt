@@ -6430,7 +6430,7 @@ ___
 <div class='footnote'>TROGGS </div>
 <img src='https://www.gmbinder.com/images/rRmnHpu.jpg' style='position:absolute; top:0px; right:-225px; width:880px' />
 <img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:250px; width:900px' />
-<img src='https://www.gmbinder.com/images/IwT4hSy.png' style='position:absolute; top:0px; right:160px; width:900px;transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/IwT4hSy.png' style='position:absolute; top:0px; right:146px; width:900px;transform:scaley(-1)' />
 
 \pagebreakNum
 
