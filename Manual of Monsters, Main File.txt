@@ -1730,8 +1730,9 @@ ___
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DRAGONHAWKS </div>
-<img src='https://www.gmbinder.com/images/kg2n3mX.jpg' style='position:absolute; top:0px; right:0px; width:450px' />
-<img src='https://www.gmbinder.com/images/JIbLHii.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://www.gmbinder.com/images/kg2n3mX.jpg" style="position:absolute;top:0px;right: -95px;width: 530px;">
+<img src="https://i.imgur.com/IwT4hSy.png" style="position:absolute;top: -200px;right: 50px;width:1000px;transform: rotate(21deg);">
+<img src="https://i.imgur.com/fzF8pb9.png" style="position:absolute;top: 170px;right: -100px;width: 900px;">
 <img src='https://www.gmbinder.com/images/wHoaPUq.png' style='position:absolute; top:900px; right:450px; width:250px;transform:rotate(40deg)' />
 
 \pagebreakNum
