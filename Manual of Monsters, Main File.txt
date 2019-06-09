@@ -91,9 +91,13 @@
   /* For creature statblocks within range (start and end must be specified),
      don't show a background. Used for the appendix creatures */
   .phb:nth-of-type(n+107):nth-of-type(-n+130) hr+section blockquote {
-      background: none;
-      border: none;
-      box-shadow: none;
+    background: none;
+    border: none;
+    box-shadow: none;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
   }
 
   /* For double-wide creature statblocks that we want to have anchored to the
@@ -1665,6 +1669,8 @@ Travelers entering the enchanted forests of Quel'Thalas might catch a glimpse of
 
 ***Wild Legends.*** Few wild dragonhawks exist, most, if <br> not all, the beasts found in Quel'Thalas have been bred <br>by the elves . Wild dragonhawks are considered mystical beings that few get to witness, they stay clear of docile dragonhawks and spend much of their time flying above tree canopies to avoid detection. These dragonhawks are formidable hunters and amongst the deadliest predators found on the Eastern Kingdoms.
 
+<div style='margin-top:77px;'></div>
+
 ___
 > ## Young Dragonhawk
 >*Medium beast, unaligned*
@@ -1695,7 +1701,7 @@ ___
 
 \columnbreak
 
-<div style='margin-top:390px;'></div>
+<div style='margin-top:391px;'></div>
 
 ___
 > ## Dragonhawk
@@ -1730,9 +1736,10 @@ ___
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DRAGONHAWKS </div>
-<img src='https://www.gmbinder.com/images/kg2n3mX.jpg' style='position:absolute; top:0px; right:0px; width:450px' />
-<img src='https://www.gmbinder.com/images/JIbLHii.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/wHoaPUq.png' style='position:absolute; top:900px; right:450px; width:250px;transform:rotate(40deg)' />
+<img src="https://www.gmbinder.com/images/kg2n3mX.jpg" style="position:absolute;top:0px;right: -95px;width: 530px;">
+<img src="https://i.imgur.com/IwT4hSy.png" style="position:absolute;top: -200px;right: 50px;width:1000px;transform: rotate(21deg);">
+<img src="https://i.imgur.com/fzF8pb9.png" style="position:absolute;top: 170px;right: -100px;width: 900px;">
+<img src="https://www.gmbinder.com/images/wHoaPUq.png" style="position:absolute;top: 285px;right: 472px;width: 290px;transform: rotate(46deg);">
 
 \pagebreakNum
 
@@ -6424,7 +6431,7 @@ ___
 <div class='footnote'>TROGGS </div>
 <img src='https://www.gmbinder.com/images/rRmnHpu.jpg' style='position:absolute; top:0px; right:-225px; width:880px' />
 <img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:250px; width:900px' />
-<img src='https://www.gmbinder.com/images/IwT4hSy.png' style='position:absolute; top:0px; right:160px; width:900px;transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/IwT4hSy.png' style='position:absolute; top:0px; right:146px; width:900px;transform:scaley(-1)' />
 
 \pagebreakNum
 
@@ -7356,8 +7363,8 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot inkblot-green' style='top:-400px; right:-200px; width:700px'>
-<img src='https://www.gmbinder.com/images/VEAtHNK.png' style='position:absolute; top:-150px; right:-200px; width:800px' />
+<img src="https://www.gmbinder.com/images/wJZvXi2.png" class="inkblot inkblot-green" style="top: -327px;right: -240px;width: 680px;transform: rotate(84deg);">
+<img src="https://www.gmbinder.com/images/VEAtHNK.png" style="position:absolute;top: -130px;right: -180px;width: 730px;">
 
 \pagebreakNum
 
@@ -7459,7 +7466,7 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot inkblot-green' style='top:700px; right:-200px; width:700px; transform:rotate(40deg)'>
+<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot inkblot-green" style="top: 681px;right: -195px;width:700px;transform: rotate(49deg);">
 <img src='https://www.gmbinder.com/images/nw76d2C.png' style='position:absolute; top:850px; right:-20px; width:400px' />
 
 \pagebreakNum
@@ -7869,6 +7876,8 @@ ___
 >
 > ***Shriek (Recharge 6).*** The hawkstrider emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a hawkstrider must succeed on a DC 13 Constitution saving throw or be incapaci&shy;tated until the end of the hawkstriders's next turn.
 
+A **hawkstrider** is a large, flightless bird, indigenous to the forests of Quel'Thalas. Known for their bright, vibrant plumage and uncanny intelligence, these graceful creatures have long been a symbol of Silvermoon.
+
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
@@ -8034,7 +8043,11 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 >
-> ***Terrifying Roar.*** Each creature within 30 ft. of the lion that can hear it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lion's Terrifying Roar for the next 24 hours. 
+> ***Terrifying Roar.*** Each creature within 30 ft. of the lion that can hear it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lion's Terrifying Roar for the next 24 hours.
+
+A **lion** is a common sight across central Kalimdor. These fierce predators stalk the tall grass in small packs -- their prides -- and have been known to even hunt travellers.
+
+More commonplace across Azeroth is the **mountain lion**, found both along the lush plains of Mulgore and up the grassy foothills of Hillsbrad.
 
 ___
 > ## Mountain Lion
