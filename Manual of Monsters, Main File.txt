@@ -6361,8 +6361,8 @@ ___
 <div class="pageLetter">T</div>
 <div class='footnote'>TROGGS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/vOvE9Kf.jpg' style='position:absolute; top:50px; right:-150px; width:600px;mix-blend-mode:darken;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/JMzA7JW.png' style='position:absolute; top:-260px; right:-45px; width:500px;transform:rotate(4deg)' />
+<img src='https://www.gmbinder.com/images/qKOyO6G.png' style='position:absolute; top:-20px; right:-5px; width:400px' />
+<img src='https://www.gmbinder.com/images/vOvE9Kf.jpg' style='position:absolute; top:130px; right:-150px; width:600px;mix-blend-mode:darken;transform:scalex(-1)' />
 
 \pagebreakNum
 
