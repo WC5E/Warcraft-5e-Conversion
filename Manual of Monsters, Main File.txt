@@ -333,15 +333,14 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
 
 \pagebreakNum
 
-<div style='margin-top:1000px;'></div> <br><br> <div style='margin-top:200px;'></div>
-
+<div style='margin-top:1000px;'></div> <br><br> <div style='margin-top:150px;'></div>
 
 # Contents
 
 <div class='toc wide'; style='column-count:3'>
 
- - [<span>3</span><span>**Ch. 1: Bestiary**                  </span>](#p3)
- - [<span>3</span><span> Preface                             </span>](#p3)
+ - [<span>4</span><span>**Ch. 1: Bestiary**                  </span>](#p4)
+ - [<span>4</span><span> Preface                             </span>](#p4)
  - [<span>3</span><span>**App. A: Miscellaneous Creatures**  </span>](#p3)
 </div>
 
@@ -352,22 +351,22 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
 
 <div class='toc wide'; style='column-count:3'>
 
- - [<span>3</span><span> Ancients                      </span>](#p3)
- - [<span>3</span><span> Basilisk                      </span>](#p3)
- - [<span>3</span><span> Bog Beasts                    </span>](#p3)
- - [<span>3</span><span> Centaurs                      </span>](#p3)
- - [<span>3</span><span> Core Hounds                   </span>](#p3)
- - [<span>3</span><span> Dinosaurs                     </span>](#p3)
- - [<span>3</span><span> Dragonhawks                   </span>](#p3)
- - [<span>3</span><span> Dust Devil                    </span>](#p3)
- - [<span>3</span><span> Dwarves: Dark Iron            </span>](#p3)
- - [<span>3</span><span> Elementals                    </span>](#p3)
- - [<span>3</span><span> Elf: Wretched                 </span>](#p3)
- - [<span>3</span><span> Faceless Ones                 </span>](#p3)
- - [<span>3</span><span> Fleshbeast                    </span>](#p3)
- - [<span>3</span><span> Furbolg                       </span>](#p3)
- - [<span>3</span><span> Ghosts                        </span>](#p3)
- - [<span>3</span><span> Gnolls                        </span>](#p3)
+ - [<span>10</span><span> Ancients                      </span>](#p10)
+ - [<span>13</span><span> Basilisk                      </span>](#p13)
+ - [<span>14</span><span> Bog Beasts                    </span>](#p14)
+ - [<span>17</span><span> Centaurs                      </span>](#p17)
+ - [<span>20</span><span> Core Hounds                   </span>](#p20)
+ - [<span>22</span><span> Dinosaurs                     </span>](#p22)
+ - [<span>24</span><span> Dragonhawks                   </span>](#p24)
+ - [<span>25</span><span> Dust Devil                    </span>](#p25)
+ - [<span>26</span><span> Dwarves: Dark Iron            </span>](#p26)
+ - [<span>29</span><span> Elementals                    </span>](#p29)
+ - [<span>33</span><span> Elf: Wretched                 </span>](#p33)
+ - [<span>34</span><span> Faceless Ones                 </span>](#p34)
+ - [<span>36</span><span> Fleshbeast                    </span>](#p36)
+ - [<span>37</span><span> Furbolg                       </span>](#p37)
+ - [<span>38</span><span> Ghosts                        </span>](#p38)
+ - [<span>46</span><span> Gnolls                        </span>](#p46)
  - [<span>3</span><span> Golems                        </span>](#p3)
  - [<span>3</span><span> Grell                         </span>](#p3)
  - [<span>3</span><span> Harpies                       </span>](#p3)
