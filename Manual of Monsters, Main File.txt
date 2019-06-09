@@ -94,9 +94,10 @@
     background: none;
     border: none;
     box-shadow: none;
-    margin-top: 0px;
-    padding-top: 8px;
-    margin-bottom: 12px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
   }
 
   /* For double-wide creature statblocks that we want to have anchored to the
