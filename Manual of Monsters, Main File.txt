@@ -257,25 +257,33 @@
 \pagebreak
 
 ## Credits
-**Lead Designer:** Jih
-<br> **Writing & Editing:** Jih, Tangerine
-<br> **Reddit Names:** Jihia, TangerineThunder
+**Manual of Monsters Leads:** Jih, Tangerine
+<br> **Stat Block Development:** Jih, Tangerine, Angery,
+<br><span style="margin-left:12px"></span> Arenalor, Geamros
+<br> **Story Development:** Jih, Tangerine, Geamros
+<br> **Editing:** Jih, Tangerine
+<br> **Managing Editors:** Jih, Tangerine
 
-<br> **Additional Contributors:**
+<br> **Additional Contribution:** Our Discord Community
 
 <br> **Cover Illustrator:** MD Zhang
-<br> **Interior Illustrators:** Lucas Graciano, Jorge Jacinto, Lloyd <br>&nbsp;&nbsp;&nbsp; Hoshide, Ruan Jia
+<br> **Interior Illustrators:** Lucas Graciano, Jorge Jacinto, Lloyd 
+<br><span style="margin-left:12px"></span> Hoshide, Ruan Jia
 
 <br> **Based on the original D&D game created by** 
-<br>&nbsp;&nbsp;&nbsp; E. Gary Gygax and Dave Arneson, as well as <br>&nbsp;&nbsp;&nbsp; Brian Blume, Rob Kuntz, James Ward and Don Kaye.
+<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as 
+<br><span style="margin-left:12px"></span>Brian Blume, Rob Kuntz, James Ward and Don Kaye.
 
 <br> **Based on the Warcraft franchise by**
-<br>&nbsp;&nbsp;&nbsp; © Blizzard Entertainment
+<br><span style="margin-left:12px"></span> © Blizzard Entertainment
 
 <br> **Playtesting provided by**
 
 <br> **Special thanks to** 
-<br>&nbsp;&nbsp;&nbsp; This entire book was made using GmBinder, it is an <br>&nbsp;&nbsp;&nbsp; amazing tool for creating authentic looking homebrew <br>&nbsp;&nbsp;&nbsp; material for 5th Edition Dungeons and Dragons, and <br>&nbsp;&nbsp;&nbsp; without it this project would've never been considered.
+<br><span style="margin-left:12px"></span> This entire book was made using GmBinder, it is an 
+<br><span style="margin-left:12px"></span> amazing tool for creating authentic looking homebrew 
+<br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons, and 
+<br><span style="margin-left:12px"></span> without it this project would've never been considered.
 
 <div style='margin-top:105px'></div>
 <div style="text-align:Center">
@@ -293,35 +301,39 @@ This book is made to compliment Dungeons & Dragons 5th edition **Player's Handbo
 
 It has been written in our spare time, with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe in a Dungeons & Dragons format. Not for any monetary gain.
 
-With each coming update, all changes will be noted in the Changelog--Link is provided below. Likewise, we've provided a link to our racial balance spreadsheet, using the rules of Detect Balance by  Eleazzaar.
+With each coming update, all changes will be noted in the Changelog--Link is provided below.
 
 <div style="text-align:Center"> 
 
-### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A) &nbsp;&nbsp;&nbsp;&nbsp; [Race Balance](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
+### [ChangeLog](https://drive.google.com/open?id=1487fO7RPdUbloD7NY6mdCC-yFwsU4yFHOUQ4CBqX9mE)
 </div>
 
 <br> **Want to help grow a community?**
 
-We're a relatively small group working together on this, <br>&nbsp;&nbsp;&nbsp; and as such our ability to playtest all of this is limited in <br>&nbsp;&nbsp;&nbsp; scope. If you want to help better this book, improve and <br>&nbsp;&nbsp;&nbsp; balance what's inside it, suggest changes, or talk with <br>&nbsp;&nbsp;&nbsp; others using this to create a Warcraft campaign. Then <br>&nbsp;&nbsp;&nbsp; head over to the [r/wc5e](https://old.reddit.com/r/wc5e/), a subreddit dedicated to this <br>&nbsp;&nbsp;&nbsp; handbook and project! <br>&nbsp;&nbsp;&nbsp; We also have a discord for that you can join if you want <br>&nbsp;&nbsp;&nbsp; to come talk with us and others using this handbook for <br>&nbsp;&nbsp;&nbsp; their campaigns!
+We're a relatively small group working together on this, 
+<br><span style="margin-left:12px"></span> and as such our ability to playtest all of this is limited in 
+<br><span style="margin-left:12px"></span> scope. If you want to help better this book, improve and <br>&nbsp;&nbsp;&nbsp; balance what's inside it, suggest changes, or talk with <br>&nbsp;&nbsp;&nbsp; others using this to create a Warcraft campaign. Then <br>&nbsp;&nbsp;&nbsp; head over to the [r/wc5e](https://old.reddit.com/r/wc5e/), a subreddit dedicated to this <br>&nbsp;&nbsp;&nbsp; handbook and project! <br>&nbsp;&nbsp;&nbsp; We also have a discord for that you can join if you want <br>&nbsp;&nbsp;&nbsp; to come talk with us and others using this handbook for <br>&nbsp;&nbsp;&nbsp; their campaigns!
 
 <div style="text-align:Center"> 
 
 ### [Discord](https://discord.gg/dKMJmmD)
 </div>
 
-<div style='margin-top:70px'></div>
+<div style='margin-top:90px'></div>
 <div class='wide'> 
 
 #### Legal Stuff
-DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers League, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.
-<br> ©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK.
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
+<br> This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.
+<br> All other original material in this work is copyright 2019 by [your legal name or company name] and published under the Community Content Agreement for Dungeon Masters Guild.
 </div>
 
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:450px; right:498px; width:150px' />
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:495px; right:498px; width:150px' />
 
 \pagebreakNum
 
+<div style='margin-top:1000px;'></div> <br><br> <div style='margin-top:200px;'></div>
 
 
 # Contents
@@ -389,7 +401,8 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
  - [<span>3</span><span> Yetis                         </span>](#p3)
 </div>
 
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/fePJKiQ.jpg' style='position:absolute; top:0px; right:-700px; width:2000px' />
+<img src='https://www.gmbinder.com/images/hB5ioJJ.png' style='position:absolute; top:10px; right:0px; width:900px' />
 
 \pagebreakNum
 
