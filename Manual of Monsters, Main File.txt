@@ -7876,6 +7876,8 @@ ___
 >
 > ***Shriek (Recharge 6).*** The hawkstrider emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a hawkstrider must succeed on a DC 13 Constitution saving throw or be incapaci&shy;tated until the end of the hawkstriders's next turn.
 
+A **hawkstrider** is a large, flightless bird, indigenous to the forests of Quel'Thalas. Known for their bright, vibrant plumage and uncanny intelligence, these graceful creatures have long been a symbol of Silvermoon.
+
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
