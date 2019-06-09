@@ -7362,8 +7362,8 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot inkblot-green' style='top:-400px; right:-200px; width:700px'>
-<img src='https://www.gmbinder.com/images/VEAtHNK.png' style='position:absolute; top:-150px; right:-200px; width:800px' />
+<img src="https://www.gmbinder.com/images/wJZvXi2.png" class="inkblot inkblot-green" style="top: -327px;right: -240px;width: 680px;transform: rotate(84deg);">
+<img src="https://www.gmbinder.com/images/VEAtHNK.png" style="position:absolute;top: -130px;right: -180px;width: 730px;">
 
 \pagebreakNum
 
