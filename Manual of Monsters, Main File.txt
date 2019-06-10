@@ -410,7 +410,19 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
 \pagebreakNum
 
 # Chapter 1: Bestiary
-Here's a tip, don't get killed <3
+THERE IS A BIG WORLD OUT THERE. From the familiar shores of Azeroth and the torn reaches of Draenor, across the Twisting Nether to a thousand worlds within the great cosmic planes. It's no wonder so many take to the call for adventure and seek out on the&shy;ir own, and no surprise to hear of the dang&shy;ers they've found along the way.
+
+This chapter presents creatures found throughout the Warcraft universe. Some of the statistics have been brou&shy;ght over or otherwise adopted from the D&D System Reference Document (SRD) under the Open Gaming License (OGL), while the majority were written by the fans and contributors to this project -- without whom this book would likely be a long way away still.
+
+Here you will find statistics for many classic fantasy RPG staples -- skeletons, yetis, owlbeasts, harpies, gnolls, basi&shy;lisks, ghosts, and more -- as well as numerous creatures iconic to Warcraft; such as the insidious murlocs, the lumbering woodland ancients, and the ever-looming threat of the undead Scourge.
+
+If you are looking for material to run a campaign set within the Warcraft universe, whether with material of your own or with material taken from the *Heroes' Handbook* also written as part of this project, we hope this book will provide you with enough material to keep your players on their toes as they venture through Azeroth and beyond.
+
+### This chapter is not yet finished
+
+As of this first release of our *Manual of Monsters*, this book contains statistics for 179 monsters and miscellaneous creatures suitable for a Warcraft campaign.
+
+In the long run, our full goal is a book of statistics for approximately 600 (and perhaps later, even more) monsters, creatures, and NPCs. From mundane beasts to the great Dragonflights and the infernal armies of the Burning Legion, as well as legendary figures.
 
 \columnbreak
 
