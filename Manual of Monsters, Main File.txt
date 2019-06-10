@@ -5227,8 +5227,6 @@ Ravagers hatch as small insignificant larva that are quick to disappear into pup
 
 \pagebreakNum
 
-<div style='margin-top:45px;'></div>
-
 ___
 > ## Ravager Brood Mother
 >*Large beast, unaligned*
@@ -5265,7 +5263,7 @@ ___
 
 \columnbreak
 
-<div style='margin-top:45px;'></div>
+<div style='margin-top:55px;'></div>
 
 ___
 > ## Ravager Wasp
@@ -5294,7 +5292,7 @@ ___
 <div class='footnote'>RAVAGERS </div>
 <img src='https://www.gmbinder.com/images/DLVtbKb.jpg' style='position:absolute; top:350px; right:-500px; width:2000px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/vphWuHd.png' style='position:absolute; top:-360px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/uz9UL95.png' style='position:absolute; top:-20px; right:20px; width:750px; filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));' />
+<img src='https://www.gmbinder.com/images/BoirSoS.png' style='position:absolute; top:25px; right:-20px; width:px; transform:rotate(-5deg); filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));' />
 
 \pagebreakNum
 
