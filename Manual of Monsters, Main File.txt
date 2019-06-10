@@ -404,8 +404,8 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
  - [<span>3</span><span> Yetis                         </span>](#p3)
 </div>
 
-<img src='https://www.gmbinder.com/images/fePJKiQ.jpg' style='position:absolute; top:0px; right:-700px; width:2000px' />
-<img src='https://www.gmbinder.com/images/hB5ioJJ.png' style='position:absolute; top:10px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/fePJKiQ.jpg' style='position:absolute; top:0px; right:-750px; width:2100px' />
+<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:40px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -619,7 +619,7 @@ Some creatures have vulnerability, resistance, or immunity to certain types of d
 
 <div class='footnote'>CHAPTER 2 | INTRODUCTION </div>
 <img src='https://www.gmbinder.com/images/uZAKe3K.jpg' style='position:absolute; top:760px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/sKQMREa.png' style='position:absolute; top:0px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:0px; right:0px; width:960px' />
 
 \pagebreakNum
 
@@ -752,7 +752,7 @@ The most common action that a monster will take in combat are melee and ranged a
 
 <div class='footnote'>CHAPTER 2 | INTRODUCTION </div>
 <img src='https://www.gmbinder.com/images/PjJ1cuU.jpg' style='position:absolute; top:0px; right:-70px; width:770px' />
-<img src='https://www.gmbinder.com/images/JH5NQVm.png' style='position:absolute; top:0px; right:-60px; width:900px' />
+<img src='https://www.gmbinder.com/images/RORo27J.png' style='position:absolute; top:0px; right:-50px; width:900px' />
 
 \pagebreakNum
 
@@ -945,7 +945,7 @@ ___
 <div class="pageLetter">A</div>
 <div class='footnote'>ANCIENTS </div>
 <img src='https://www.gmbinder.com/images/W7JrNLv.jpg' style='position:absolute; top:0px; right:-170px; width:1300px' />
-<img src='https://www.gmbinder.com/images/WQXIOUB.png' style='position:absolute; top:90px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:90px; right:0px; width:900px' />
 
 \pagebreak
 
@@ -1107,7 +1107,7 @@ Few travelers ever see a tar beast unless they somehow anger the monster, in whi
 <div class="pageLetter">B</div>
 <div class='footnote'>BOG BEASTS </div>
 <img src='https://www.gmbinder.com/images/mwRXhNd.jpg' style='position:absolute; top:0px; right:-125px; width:700px' />
-<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-25px; width:900px' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:-15px; width:900px' />
 
 \pagebreakNum
 
@@ -1260,7 +1260,7 @@ ___
 <div class="pageLetter">B</div>
 <div class='footnote'>BOG BEASTS </div>
 <img src='https://www.gmbinder.com/images/cjYRUeP.jpg' style='position:absolute; top:500px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/gezbRSW.png' style='position:absolute; top:-50px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/nkD6PUz.png' style='position:absolute; top:-50px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -1393,7 +1393,7 @@ ___
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
 <img src='https://www.gmbinder.com/images/jPRzhev.jpg' style='position:absolute; top:0px; right:-20px; width:1200px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/LvsnkBL.png' style='position:absolute; top:40px; right:0px; width:900px;' />
+<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:50px; right:0px; width:900px;' />
 
 \pagebreakNum
 
@@ -1486,7 +1486,7 @@ ___
 <div class="pageLetter">C</div>
 <div class='footnote'>CORE HOUNDS </div>
 <img src='https://www.gmbinder.com/images/zDWAbYb.png' style='position:absolute; top:-100px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/gF3cPUL.png' style='position:absolute; top:150px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/ycQApVU.png' style='position:absolute; top:150px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -1544,7 +1544,7 @@ A dark iron hound can be used as a mount by creatures of Medium or smaller size,
 <div class="pageLetter">C</div>
 <div class='footnote'>CORE HOUNDS </div>
 <img src='https://www.gmbinder.com/images/bST4TE9.jpg' style='position:absolute; top:-20px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/sKQMREa.png' style='position:absolute; top:-40px; right:0px; width:900px;transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:-30px; right:0px; width:900px;transform:scaley(-1)' />
 <img src='https://www.gmbinder.com/images/6jRvJuJ.png' style='position:absolute; top:90px; right:300px; width:550px' />
 
 \pagebreakNum
@@ -1670,9 +1670,11 @@ ___
 <div class="pageLetter">D</div>
 <div class='footnote'>DINOSAURS </div>
 <img src='https://www.gmbinder.com/images/din7hXr.jpg' style='position:absolute; top:0px; right:-750px; width:2020px' />
-<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-25px; width:900px' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:-15px; width:900px' />
 
 \pagebreakNum
+
+<div style='margin-top:77px;'></div>
 
 ## Dragonhawks
 Travelers entering the enchanted forests of Quel'Thalas might catch a glimpse of the mystical dragonhawk gliding above the trees. Warmth hangs on the air, as the majestic beast vanishes in the canopies above.
@@ -1680,8 +1682,6 @@ Travelers entering the enchanted forests of Quel'Thalas might catch a glimpse of
 ***Bred for War.*** The elves of Quel'Thalas have a long standing tradition of breeding docile dragonhawks. The hawks are vicious flying predators. They are swift and deft, able to crack bones and pierce hides with their long talons. They can be trained as aerial mounts, and seem to have a particular affinity with high elves (and now, blood elves). Majestic and magnificent creatures, dragonhawks and <br> their elf riders make an impressive sight.
 
 ***Wild Legends.*** Few wild dragonhawks exist, most, if <br> not all, the beasts found in Quel'Thalas have been bred <br>by the elves . Wild dragonhawks are considered mystical beings that few get to witness, they stay clear of docile dragonhawks and spend much of their time flying above tree canopies to avoid detection. These dragonhawks are formidable hunters and amongst the deadliest predators found on the Eastern Kingdoms.
-
-<div style='margin-top:77px;'></div>
 
 ___
 > ## Young Dragonhawk
@@ -1713,7 +1713,7 @@ ___
 
 \columnbreak
 
-<div style='margin-top:391px;'></div>
+<div style='margin-top:395px;'></div>
 
 ___
 > ## Dragonhawk
@@ -1748,10 +1748,10 @@ ___
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DRAGONHAWKS </div>
-<img src="https://www.gmbinder.com/images/kg2n3mX.jpg" style="position:absolute;top:0px;right: -95px;width: 530px;">
-<img src="https://i.imgur.com/IwT4hSy.png" style="position:absolute;top: -200px;right: 50px;width:1000px;transform: rotate(21deg);">
-<img src="https://i.imgur.com/fzF8pb9.png" style="position:absolute;top: 170px;right: -100px;width: 900px;">
-<img src="https://www.gmbinder.com/images/wHoaPUq.png" style="position:absolute;top: 285px;right: 472px;width: 290px;transform: rotate(46deg);">
+<img src="https://www.gmbinder.com/images/kg2n3mX.jpg" style="position:absolute; top:0px; right:-95px; width:530px;">
+<img src="https://www.gmbinder.com/images/n6Bo8ah.png" style="position:absolute; top:0px; right:-30px; width:950px;">
+<img src="https://www.gmbinder.com/images/ycQApVU.png" style="position:absolute; top:0px; right:-100px; width:900px;">
+<img src="https://www.gmbinder.com/images/wHoaPUq.png" style="position:absolute; top:-100px; right:472px; width:290px; transform:rotate(20deg);">
 
 \pagebreakNum
 
@@ -1799,7 +1799,7 @@ ___
 <div class="pageLetter">D</div>
 <div class='footnote'>DUST DEVIL </div>
 <img src='https://www.gmbinder.com/images/lYw5KvN.png' style='position:absolute; top:0px; right:-350px; width:920px' />
-<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-25px; width:900px' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -1949,7 +1949,7 @@ ___
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
 <img src='https://www.gmbinder.com/images/bST4TE9.jpg' style='position:absolute; top:530px; right:-340px; width:1050px' />
-<img src='https://www.gmbinder.com/images/60YwJDt.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/LNmpIht.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scaley(-1)' />
 <img src='https://www.gmbinder.com/images/0AudugF.png' style='position:absolute; top:800px; right:420px; width:520px;transform:rotate(60deg)' />
 
 \pagebreakNum
@@ -2016,7 +2016,7 @@ ___
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
 <img src='https://www.gmbinder.com/images/iBiU601.jpg' style='position:absolute; top:0px; right:-50px; width:850px' />
-<img src='https://www.gmbinder.com/images/WQXIOUB.png' style='position:absolute; top:-20px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:-20px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/MYPQgR3.png' style='position:absolute; top:355px; right:555px; width:350px' />
 
 \pagebreakNum
@@ -2370,7 +2370,7 @@ Zoatroids have found a second home in the ranks of the naga's and while their se
 <div class="pageLetter">F</div>
 <div class='footnote'>FACELESS ONES </div>
 <img src='https://www.gmbinder.com/images/csVRe6C.png' style='position:absolute; top:0px; right:-310px; width:850px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-25px; width:900px' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:-15px; width:900px' />
 
 \pagebreakNum
 
@@ -2477,7 +2477,7 @@ Other predators attempting to scavenge remains left behind by a fleshbeast will 
 <div class="pageLetter">F</div>
 <div class='footnote'>Fleshbeast </div>
 <img src='https://www.gmbinder.com/images/fUjDAtF.jpg' style='position:absolute; top:-110px; right:0px; width:990px' />
-<img src='https://www.gmbinder.com/images/LvsnkBL.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/cfCly0q.png' style='position:absolute; top:200px; right:-165px; width:700px; z-index:100' />
 
 \pagebreakNum
@@ -2541,7 +2541,7 @@ ___
 <div class="pageLetter">F</div>
 <div class='footnote'>FURBOLG </div>
 <img src='https://www.gmbinder.com/images/RK0T5LI.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/gezbRSW.png' style='position:absolute; top:-60px; right:0px; width:930px;transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/nkD6PUz.png' style='position:absolute; top:-40px; right:0px; width:930px;transform:scaley(-1)' />
 <img src='https://www.gmbinder.com/images/Dn83KUf.png ' style='position:absolute; top:-20px; right:-70px; width:500px' />
 
 \pagebreakNum
@@ -2590,7 +2590,7 @@ Also prominent are the Spirit Healers; ascendant Val'kyr who, following the bani
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
 <img src='https://www.gmbinder.com/images/fA29o73.jpg' style='position:absolute; top:0px; right:-440px; width:1290px' />
-<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-35px; width:900px' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:-25px; width:900px' />
 
 \pagebreakNum
 
@@ -2753,8 +2753,8 @@ Persuasion +5, Stealth +4
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
 <img src='https://www.gmbinder.com/images/LQhllM1.jpg' style='position:absolute; top:-300px; right:0px; width:1100px' />
-<img src='https://www.gmbinder.com/images/I2n61EV.png' style='position:absolute; top:-300px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/I2n61EV.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/ycQApVU.png' style='position:absolute; top:-300px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -2839,8 +2839,8 @@ ___
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
 <img src='https://www.gmbinder.com/images/LQhllM1.jpg' style='position:absolute; top:-200px; right:0px; width:1100px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/I2n61EV.png' style='position:absolute; top:-200px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/I2n61EV.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/ycQApVU.png' style='position:absolute; top:-200px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -2894,7 +2894,7 @@ ___
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
 <img src='https://www.gmbinder.com/images/umjLUNC.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/hB5ioJJ.png' style='position:absolute; top:-40px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:-40px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -3021,8 +3021,8 @@ ___
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
 <img src='https://www.gmbinder.com/images/kaSbStn.jpg' style='position:absolute; top:0px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/I2n61EV.png' style='position:absolute; top:300px; right:-200px; width:900px;transform:rotate(20deg)' />
-<img src='https://www.gmbinder.com/images/bxc0KO8.png' style='position:absolute; top:0px; right:120px; width:900px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/ycQApVU.png' style='position:absolute; top:300px; right:-200px; width:900px;transform:rotate(20deg)' />
+<img src='https://www.gmbinder.com/images/zceyjKB.png' style='position:absolute; top:0px; right:120px; width:900px;transform:scalex(-1)' />
 
 \pagebreakNum
 
@@ -3063,7 +3063,7 @@ ___
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
 <img src='https://www.gmbinder.com/images/zm4b43n.jpg' style='position:absolute; top:0px; right:150px; width:810px' />
-<img src='https://www.gmbinder.com/images/os1g7vx.png' style='position:absolute; top:0px; right:-90px; width:900px' />
+<img src='https://www.gmbinder.com/images/5SuiuAg.png' style='position:absolute; top:0px; right:-150px; width:900px' />
 
 \pagebreakNum
 
@@ -3223,7 +3223,7 @@ ___
 <div class="pageLetter">G</div>
 <div class='footnote'>GNOLLS </div>
 <img src='https://www.gmbinder.com/images/cFdzQTr.jpg' style='position:absolute; top:-70px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/4Q3HUFE.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -3356,7 +3356,7 @@ ___
 <div class="pageLetter">G</div>
 <div class='footnote'>GRELL </div>
 <img src='https://www.gmbinder.com/images/ZTHL769.jpg' style='position:absolute; top:0px; right:250px; width:1350px' />
-<img src='https://www.gmbinder.com/images/f9sluCp.png' style='position:absolute; top:-100px; right:-50px; width:1000px' />'
+<img src='https://www.gmbinder.com/images/058qlda.png' style='position:absolute; top:-100px; right:-50px; width:1000px' />'
 <img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot' style='top:-100px; right:-100px; width:600px'>
 <img src='https://www.gmbinder.com/images/KfYclYJ.png' style='position:absolute; top:70px; right:50px; width:500px;transform:scalex(-1); z-index:100' />
 
@@ -3465,7 +3465,7 @@ ___
 <div class="pageLetter">H</div>
 <div class='footnote'>HARPIES </div>
 <img src='https://www.gmbinder.com/images/YKW43zQ.jpg' style='position:absolute; top:760px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/Iu6blc4.png' style='position:absolute; top:-220px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/dStbKfZ.png' style='position:absolute; top:-220px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/KcRAZwq.png' class='inkblot inkblot-green' style='top:0px; right:0px; width:500px'>
 <img src='https://www.gmbinder.com/images/tvBKpv9.jpg' style='position:absolute; top:20px; right:-150px; width:700px;mix-blend-mode:darken' />
 
@@ -3619,7 +3619,7 @@ ___
 <div class="pageLetter">K</div>
 <div class='footnote'>KOBOLDS </div>
 <img src='https://www.gmbinder.com/images/QKD9YhA.jpg' style='position:absolute; top:500px; right:-450px; width:1300px' />
-<img src='https://www.gmbinder.com/images/vphWuHd.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -3760,9 +3760,9 @@ ___
 <div class="mmletter mml-l"></div>
 <div class="pageLetter">L</div>
 <div class='footnote'>LASHERS </div>
-<img src='https://i.redd.it/8remvd0llcm21.png' style='position:absolute; top:0px; right:-200px; width:700px' />
-<img src='https://www.gmbinder.com/images/gF3cPUL.png' style='position:absolute; top:200px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:-25px; width:900px' />
+<img src='https://www.gmbinder.com/images/ocI31Pg.png' style='position:absolute; top:0px; right:-200px; width:700px' />
+<img src='https://www.gmbinder.com/images/ycQApVU.png' style='position:absolute; top:200px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:-15px; width:900px' />
 
 \pagebreakNum
 
@@ -4002,8 +4002,8 @@ following spells, requiring no material components:
 <div class="pageLetter">M</div>
 <div class='footnote'>MAKRURA </div>
 <img src='https://www.gmbinder.com/images/Q9DEb99.jpg' style='position:absolute; top:-40px; right:0px; width:800px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/9mNIZ0z.png' style='position:absolute; top:-600px; right:0px; width:900px;transform:rotate(90deg)' />
-<img src='https://www.gmbinder.com/images/XzbbBU4.png' style='position:absolute; top:100px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/OfQ7zSw.png' style='position:absolute; top:-600px; right:0px; width:900px;transform:rotate(90deg)' />
+<img src='https://www.gmbinder.com/images/BVT8CtR.png' style='position:absolute; top:100px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/KcRAZwq.png' class='inkblot inkblot-blue' style='top:-50px; right:-200px; width:500px; transform:rotate(50deg)'>
 <img src='https://www.gmbinder.com/images/SaNsWJP.png' style='position:absolute; top:100px; right:-30px; width:450px' />
 
@@ -4090,8 +4090,8 @@ ___
 <div class="pageLetter">M</div>
 <div class='footnote'>MANA WYRMS </div>
 <img src='https://www.gmbinder.com/images/MmGP2TI.png' style='position:absolute; top:0px; right:380px; width:400px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/kPmUVis.png' style='position:absolute; top:-120px; right:250px; width:700px' />
-<img src='https://www.gmbinder.com/images/ZgmSVfj.png' style='position:absolute; top:0px; right:-150px; width:950px' />
+<img src='https://www.gmbinder.com/images/oN2RVqL.png' style='position:absolute; top:-120px; right:250px; width:700px' />
+<img src='https://www.gmbinder.com/images/vxT8f0L.png' style='position:absolute; top:0px; right:-150px; width:950px' />
 
 \pagebreakNum
 
@@ -4509,7 +4509,7 @@ They are potent spellcasters, able to use terrifying frost and lightning spells 
 <div class="pageLetter">N</div>
 <div class='footnote'>NAGA </div>
 <img src='https://www.gmbinder.com/images/4C0c6NF.jpg' style='position:absolute; top:100px; right:-250px; width:800px' />
-<img src='https://www.gmbinder.com/images/NAwDGQF.png' style='position:absolute; top:-200px; right:-150px; width:1100px' />
+<img src='https://www.gmbinder.com/images/eu5wVFO.png' style='position:absolute; top:-200px; right:-130px; width:1100px' />
 
 \pagebreakNum
 
@@ -4594,7 +4594,7 @@ ___
 <div class="pageLetter">N</div>
 <div class='footnote'>NAGA </div>
 <img src='https://www.gmbinder.com/images/ePn0VkB.jpg' style='position:absolute; top:650px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/sKQMREa.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -4674,7 +4674,7 @@ ___
 <div class="pageLetter">N</div>
 <div class='footnote'>NAGA </div>
 <img src='https://www.gmbinder.com/images/QOgKqCD.jpg' style='position:absolute; top:700px; right:0px; width:800px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/Iu6blc4.png' style='position:absolute; top:-390px; right:-50px; width:1000px;transform:rotate(5deg)' />
+<img src='https://www.gmbinder.com/images/dStbKfZ.png' style='position:absolute; top:-390px; right:-50px; width:1000px;transform:rotate(5deg)' />
 
 \pagebreakNum
 
@@ -4716,7 +4716,7 @@ ___
 <div class="pageLetter">N</div>
 <div class='footnote'>NAGA </div>
 <img src='https://www.gmbinder.com/images/hvUUxG8.jpg' style='position:absolute; top:570px; right:-180px; width:1000px' />
-<img src='https://www.gmbinder.com/images/gezbRSW.png' style='position:absolute; top:-70px; right:-0px; width:950px' />
+<img src='https://www.gmbinder.com/images/nkD6PUz.png' style='position:absolute; top:-70px; right:0px; width:950px' />
 <img src='https://www.gmbinder.com/images/QZfSRiM.png' class='inkblot' style='top:-100px; right:-50px; width:900px'>
 <img src='https://www.gmbinder.com/images/ZYrQqIH.jpg' style='position:absolute; top:0px; right:20px; width:700px;mix-blend-mode:darken' />
 
@@ -4863,7 +4863,7 @@ ___
 <div class="pageLetter">O</div>
 <div class='footnote'>OGRES </div>
 <img src='https://www.gmbinder.com/images/HEpeTDx.jpg' style='position:absolute; top:700px; right:-200px; width:1000px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/sKQMREa.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -4917,7 +4917,7 @@ But through the ages, the owlbeasts have grown more feral in their nature, and w
 <div class="pageLetter">O</div>
 <div class='footnote'>OWLBEASTS</div>
 <img src='https://www.gmbinder.com/images/CmjXePR.jpg' style='position:absolute; top:-20px; right:-20px; width:640px' />
-<img src='https://www.gmbinder.com/images/PxOX2zF.png' style='position:absolute; top:-150px; right:0px; width:1000px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/058qlda.png' style='position:absolute; top:-150px; right:0px; width:1000px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/lKUDalm.png' style='position:absolute; top:-100px; right:340px; width:600px' />
 
 \pagebreakNum
@@ -4967,7 +4967,7 @@ ___
 <div class="pageLetter">O</div>
 <div class='footnote'>OWLBEASTS</div>
 <img src='https://www.gmbinder.com/images/mxHF0lq.jpg' style='position:absolute; top:0px; right:-350px; width:850px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/JH5NQVm.png' style='position:absolute; top:0px; right:-50px; width:900px' />
+<img src='https://www.gmbinder.com/images/RORo27J.png' style='position:absolute; top:0px; right:-30px; width:900px' />
 
 \pagebreakNum
 
@@ -5172,7 +5172,7 @@ ___
 <div class="pageLetter">Q</div>
 <div class='footnote'>QUILBOARS </div>
 <img src='https://www.gmbinder.com/images/wYkRYT1.jpg' style='position:absolute; top:0px; right:-150px; width:1000px' />
-<img src='https://www.gmbinder.com/images/60YwJDt.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/LNmpIht.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-green' style='top:50px; right:-100px; width:600px'>
 <img src='https://www.gmbinder.com/images/DY0bq9o.png' style='position:absolute; top:0px; right:-50px; width:600px' />
 
@@ -5303,7 +5303,7 @@ ___
 <div class="pageLetter">R</div>
 <div class='footnote'>RAVAGERS </div>
 <img src='https://www.gmbinder.com/images/DLVtbKb.jpg' style='position:absolute; top:350px; right:-500px; width:2000px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/vphWuHd.png' style='position:absolute; top:-360px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:-360px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/BoirSoS.png' style='position:absolute; top:25px; right:-20px; width:px; transform:rotate(-5deg); filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));' />
 
 \pagebreakNum
@@ -5352,7 +5352,7 @@ Most manasabers are domesticated having been trapped in close proximity with nig
 <div class="pageLetter">S</div>
 <div class='footnote'>SABERCAT </div>
 <img src='https://www.gmbinder.com/images/TQz5CzC.jpg' style='position:absolute; top:0px; right:-450px; width:1800px' />
-<img src='https://www.gmbinder.com/images/g6l5tBv.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/zceyjKB.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/P5JAFgK.png' style='position:absolute; top:810px; right:-230px; width:700px;transform:scalex(-1)' />
 
 \pagebreakNum
@@ -5513,8 +5513,8 @@ ___
 <div class="pageLetter">S</div>
 <div class='footnote'>SATYRS </div>
 <img src='https://www.gmbinder.com/images/H7ClVNg.jpg' style='position:absolute; top:-160px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/H0ZaKgc.png' style='position:absolute; top:-200px; right:0px; width:900px;transform:rotate(40deg)' />
-<img src='https://www.gmbinder.com/images/XzbbBU4.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/eNvjdqv.png' style='position:absolute; top:-200px; right:0px; width:900px;transform:rotate(40deg)' />
+<img src='https://www.gmbinder.com/images/BVT8CtR.png' style='position:absolute; top:10px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/OkSEy3f.png' class='inkblot' style='top:150px; right:-50px; width:500px'>
 <img src='https://www.gmbinder.com/images/0O5RO1a.png' style='position:absolute; top:-40px; right:-10px; width:430px' />
 
@@ -5599,7 +5599,7 @@ ___
 <div class="pageLetter">S</div>
 <div class='footnote'>SATYRS </div>
 <img src='https://www.gmbinder.com/images/ODT1rsG.jpg' style='position:absolute; top:-60px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/gF3cPUL.png' style='position:absolute; top:-170px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/ycQApVU.png' style='position:absolute; top:-170px; right:0px; width:1000px' />
 
 \pagebreakNum
 
@@ -5833,7 +5833,7 @@ Shale spiders are durable diggers native to the elemental plane of Deepholm. It 
 <div class="pageLetter">S</div>
 <div class='footnote'>SHALE SPIDER </div>
 <img src='https://www.gmbinder.com/images/I1Tt2hD.jpg' style='position:absolute; top:-30px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/Tkbl4ji.png' style='position:absolute; top:-150px; right:0px; width:1100px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/78Hm6FX.png' style='position:absolute; top:-130px; right:0px; width:1100px;transform:scalex(-1)' />
 
 \pagebreakNum
 
@@ -5894,7 +5894,7 @@ ___
 <div class="pageLetter">S</div>
 <div class='footnote'>SHREDDER </div>
 <img src='https://www.gmbinder.com/images/dOk8Uqf.jpg' style='position:absolute; top:0px; right:-30px; width:450px' />
-<img src='https://www.gmbinder.com/images/k69THGy.png' style='position:absolute; top:0px; right:-20px; width:900px' />
+<img src='https://www.gmbinder.com/images/n6Bo8ah.png' style='position:absolute; top:0px; right:-20px; width:900px' />
 
 \pagebreakNum
 
@@ -6324,8 +6324,8 @@ ___
 <div class="pageLetter">T</div>
 <div class='footnote'>TREANT </div>
 <img src='https://www.gmbinder.com/images/MWWVxVG.jpg' style='position:absolute; top:0px; right:25px; width:860px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/os1g7vx.png' style='position:absolute; top:-200px; right:-200px; width:900px;transform:rotate(30deg)' />
-<img src='https://www.gmbinder.com/images/LvsnkBL.png' style='position:absolute; top:-40px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/5SuiuAg.png' style='position:absolute; top:-200px; right:-200px; width:900px;transform:rotate(30deg)' />
+<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -6382,8 +6382,8 @@ ___
 <div class="pageLetter">T</div>
 <div class='footnote'>TROGGS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/gfW9xZA.png' style='position:absolute; top:-20px; right:-5px; width:400px; FILTER:drop-shadow(1px 1px 4px rgba(0,0,0,0.42)' />
-<img src='https://www.gmbinder.com/images/UZ1I33y.png' style='position:absolute; top:90px; right:-150px; width:600px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/gfW9xZA.png' style='position:absolute; top:-20px; right:30px; width:px; filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42)' />
+<img src='https://www.gmbinder.com/images/UZ1I33y.png' style='position:absolute; top:70px; right:-150px; width:600px;transform:scalex(-1)' />
 
 \pagebreakNum
 
@@ -6440,8 +6440,8 @@ ___
 <div class="pageLetter">T</div>
 <div class='footnote'>TROGGS </div>
 <img src='https://www.gmbinder.com/images/rRmnHpu.jpg' style='position:absolute; top:0px; right:-225px; width:880px' />
-<img src='https://www.gmbinder.com/images/qeqZ87Z.png' style='position:absolute; top:0px; right:250px; width:900px' />
-<img src='https://www.gmbinder.com/images/IwT4hSy.png' style='position:absolute; top:0px; right:146px; width:900px;transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:250px; width:900px' />
+<img src='https://www.gmbinder.com/images/CxqeocJ.png' style='position:absolute; top:0px; right:146px; width:900px;transform:scaley(-1)' />
 
 \pagebreakNum
 
@@ -6511,7 +6511,7 @@ ___
 <div class="pageLetter">T</div>
 <div class='footnote'>TROGGS </div>
 <img src='https://www.gmbinder.com/images/2va1koF.jpg' style='position:absolute; top:470px; right:-10px; width:1300px' />
-<img src='https://www.gmbinder.com/images/vphWuHd.png' style='position:absolute; top:-200px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:-200px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -6832,8 +6832,8 @@ ___
 <div class="pageLetter">W</div>
 <div class='footnote'>WHALE SHARK </div>
 <img src='https://www.gmbinder.com/images/ggrco7c.jpg' style='position:absolute; top:890px; right:310px; width:500px' />
-<img src='https://www.gmbinder.com/images/VqWyp2Q.png' style='position:absolute; top:300px; right:-100px; width:700px' />
-<img src='https://www.gmbinder.com/images/Ii86tvu.png' style='position:absolute; top:-30px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/nrvxpDI.png' style='position:absolute; top:300px; right:-100px; width:700px' />
+<img src='https://www.gmbinder.com/images/dStbKfZ.png' style='position:absolute; top:-30px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-blue' style='top:-200px; right:0px; width:700px; transform:rotate(-60deg)'>
 <img src='https://www.gmbinder.com/images/XARxGdz.png' style='position:absolute; top:50px; right:-200px; width:1000px' />
 
@@ -6896,7 +6896,7 @@ ___
 <div class="pageLetter">W</div>
 <div class='footnote'>WIND SERPENTS </div>
 <img src='https://www.gmbinder.com/images/Vm7cCm7.jpg' style='position:absolute; top:0px; right:-200px; width:900px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/f9sluCp.png' style='position:absolute; top:0px; right:-80px; width:900px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/058qlda.png' style='position:absolute; top:0px; right:-40px; width:900px;transform:scalex(-1)' />
 
 \pagebreakNum
 
@@ -6967,7 +6967,7 @@ ___
 <div class="pageLetter">W</div>
 <div class='footnote'>WIND SERPENTS </div>
 <img src='https://www.gmbinder.com/images/QC98AHW.jpg' style='position:absolute; top:450px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/ykqNB77.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/nkD6PUz.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -7031,7 +7031,7 @@ ___
 <div class="pageLetter">W</div>
 <div class='footnote'>WORGEN: FERAL </div>
 <img src='https://www.gmbinder.com/images/xLmKBtn.jpg' style='position:absolute; top:-100px; right:-65px; width:500px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/JIbLHii.png' style='position:absolute; top:0px; right:-20px; width:900px' />
+<img src='https://www.gmbinder.com/images/n6Bo8ah.png' style='position:absolute; top:0px; right:-20px; width:900px' />
 
 \pagebreakNum
 
@@ -7153,7 +7153,7 @@ ___
 <div class="pageLetter">Y</div>
 <div class='footnote'>YETIS </div>
 <img src='https://www.gmbinder.com/images/ZQOYrMF.jpg' style='position:absolute; top:-100px; right:-150px; width:1100px' />
-<img src='https://www.gmbinder.com/images/hB5ioJJ.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -7476,7 +7476,7 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot inkblot-green" style="top: 681px;right: -195px;width:700px;transform: rotate(49deg);">
+<img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 681px;right: -195px;width:700px;transform: rotate(49deg);">
 <img src='https://www.gmbinder.com/images/nw76d2C.png' style='position:absolute; top:850px; right:-20px; width:400px' />
 
 \pagebreakNum
