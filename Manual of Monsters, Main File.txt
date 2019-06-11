@@ -1575,7 +1575,7 @@ A dark iron hound can be used as a mount by creatures of Medium or smaller size,
 <div class='footnote'>CORE HOUNDS </div>
 <img src='https://www.gmbinder.com/images/bST4TE9.jpg' style='position:absolute; top:-20px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:-30px; right:0px; width:900px;transform:scaley(-1)' />
-<img src='https://www.gmbinder.com/images/6jRvJuJ.png' style='position:absolute; top:90px; right:300px; width:550px' />
+<img src="https://www.gmbinder.com/images/6jRvJuJ.png" style="position:absolute;top: 139px;right: 320px;width: 500px;transform: rotate(-6deg);z-index: 100;">
 
 \pagebreakNum
 
