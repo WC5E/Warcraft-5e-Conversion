@@ -289,8 +289,10 @@
 <br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons, and 
 <br><span style="margin-left:12px"></span> without it this project would've never been considered.
 
-<div style='margin-top:105px'></div>
+<div style='margin-top:24px'></div>
 <div style="text-align:Center">
+
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='width:150px' />
 
 ##### [www.GmBinder.com](https://www.gmbinder.com/)
 </div>
@@ -333,7 +335,6 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
 </div>
 
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:495px; right:498px; width:150px' />
 
 \pagebreakNum
 
