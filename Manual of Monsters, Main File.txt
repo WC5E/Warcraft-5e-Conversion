@@ -365,12 +365,11 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
  - [<span>25</span><span> Dust Devil                    </span>](#p25)
  - [<span>26</span><span> Dwarves: Dark Iron            </span>](#p26)
  - [<span>29</span><span> Elementals                    </span>](#p29)
- - [<span>33</span><span> Elf: Wretched                 </span>](#p33)
- - [<span>34</span><span> Faceless Ones                 </span>](#p34)
- - [<span>36</span><span> Fleshbeast                    </span>](#p36)
- - [<span>37</span><span> Furbolg                       </span>](#p37)
- - [<span>38</span><span> Ghosts                        </span>](#p38)
- - [<span>46</span><span> Gnolls                        </span>](#p46)
+ - [<span>33</span><span> Faceless Ones                 </span>](#p33)
+ - [<span>35</span><span> Fleshbeast                    </span>](#p35)
+ - [<span>36</span><span> Furbolg                       </span>](#p36)
+ - [<span>37</span><span> Ghosts                        </span>](#p37)
+ - [<span>45</span><span> Gnolls                        </span>](#p45)
  - [<span>3</span><span> Golems                        </span>](#p3)
  - [<span>3</span><span> Grell                         </span>](#p3)
  - [<span>3</span><span> Harpies                       </span>](#p3)
@@ -400,6 +399,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
  - [<span>3</span><span> Thunder Lizard                </span>](#p3)
  - [<span>3</span><span> Whale Shark                   </span>](#p3)
  - [<span>3</span><span> Wind Serpents                 </span>](#p3)
+ - [<span>3</span><span> Wretched                      </span>](#p3)
  - [<span>3</span><span> Worgen: Feral                 </span>](#p3)
  - [<span>3</span><span> Yetis                         </span>](#p3)
 </div>
@@ -2305,43 +2305,6 @@ ___
 <img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:0px; right:350px; width:500px' />
 <img src='https://www.gmbinder.com/images/7urPPrg.png' style='position:absolute; top:-50px; right:370px; width:500px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/FTRgu1c.jpg' style='position:absolute; top:-20px; right:-30px; width:450px;transform:scalex(-1);mix-blend-mode:darken' />
-
-\pagebreakNum
-
-## Elf: Wretched
-
-___
-> ## Wretched
->*Medium humanoid (blood elf), chaotic neutral*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 18 (4d8)
-> - **Speed** 30 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|10 (+0)|14 (+2)|11 (+0)|12 (+1)|11 (+0)|10 (+0)|
->___
-> - **Skills** Arcana +3, Perception +2
-> - **Senses** darkvision 60 ft., passive Perception 12
-> - **Languages** Common, Thalassian
-> - **Challenge** 1/4 (50 XP)
-> ___
-> ***Innate Spellcasting.*** The wretched's spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material component
->
-> At will: *blade ward, minor illusion*
-> <br> 1/day each: *detect magic, magic missiles, shield*
->
-> ***Magic Resistance.*** The wretched has advantage on saving throws against spells and other magical effects
->
-> ### Actions
-> ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
->
-> ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
-
-<div class="pageLetter">E</div>
-<div class='footnote'>ELF: WRETCHED </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -6968,6 +6931,63 @@ ___
 <div class='footnote'>WIND SERPENTS </div>
 <img src='https://www.gmbinder.com/images/QC98AHW.jpg' style='position:absolute; top:450px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/nkD6PUz.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
+
+<div style='margin-top:450px;'></div>
+
+## Wretched
+Addictive to magic, overindulging in arcane sources to the point of deformity and pushing themselves to insanity. Obsessed with obtaining and devouring magic, wretched are a danger to both themselves and others, and are usually too violent to admit surrender.
+
+Wretched are thin elves with thinning dark hair, a large bony forehead, claw-like fingers, and strange crystalline growths on their back that gives off an eerie glow when not covered up. Most of these elves are blood elves — and occasionally high elves — unable to control their addiction to magic and falling into a crevice from which there is no escape and no turning back.
+
+***Everpresent Pest.*** Few wretched leaves the confines of Quel'thalas, instead they scatter throughout the kingdom and take up residence in the countless ruins of the land. The wretched lets their addition to magic overtake them and because of their violent temperament they lack any form of leadership. Although a few notable Wretched have stepped up and organized successful raids on settlements within Quel'thalas' borders, they are considered more of a pest than a true threat to the blood elven society. 
+
+### Wretched Names 
+Wretched continue to speak the Thalassian tongue after their addiction took control of them, although their words might be muttered and sentences foul, the high elven language is still very familiar to them. Some amongst the wretched elves are also capable of understanding the common tongue, but this is to be considered a minority.
+
+Their overindulgence leads many wretched into insanity, some forgetting their name entirely, or choosing to take a new one more appropriate to their new state. Wretched use the same naming convention as high and blood elves, but instead of surnames they give themselves titles to describe themselves for others, like *the Reckless* or *the Hungerer*.
+
+\columnbreak
+
+<div style='margin-top:470px;'></div>
+
+___
+> ## Wretched
+>*Medium humanoid (blood elf), chaotic neutral*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 18 (4d8)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|14 (+2)|11 (+0)|12 (+1)|11 (+0)|10 (+0)|
+>___
+> - **Skills** Arcana +3, Perception +2
+> - **Senses** darkvision 60 ft., passive Perception 12
+> - **Languages** Thalassian
+> - **Challenge** 1/4 (50 XP)
+> ___
+> ***Innate Spellcasting.*** The wretched's spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material component
+>
+> At will: *blade ward, minor illusion*
+> <br> 1/day each: *detect magic, magic missiles, shield*
+>
+> ***Magic Resistance.*** The wretched has advantage on saving throws against spells and other magical effects
+>
+> ### Actions
+> ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>
+> ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+
+<div class="pageLetter">W</div>
+<div class='footnote'>WRETCHED </div>
+<img src='https://www.gmbinder.com/images/bxOKVFy.jpg' style='position:absolute; top:-150px; right:-100px; width:1200px' />
+<img src='https://www.gmbinder.com/images/5SuiuAg.png' style='position:absolute; top:-200px; right:-100px; width:900px; transform:rotate(50deg)' />
+<img src='https://www.gmbinder.com/images/78Hm6FX.png' style='position:absolute; top:0px; right:0px; width:900px; transform:scalex(-1)' />
+<img src="https://www.gmbinder.com/images/m6qCwvJ.png" class="inkblot" style=" top:170px; right:-60px; width:400px; transform:rotate(44deg);">
+<img src='https://www.gmbinder.com/images/8Enaanw.png' style='position:absolute; top:-30px; right:0px; width:400px' />
 
 \pagebreakNum
 
