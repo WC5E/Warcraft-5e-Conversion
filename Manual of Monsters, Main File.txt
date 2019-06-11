@@ -5866,6 +5866,14 @@ ___
 
 ## Silithids
 
+<div class="pageLetter">S</div>
+<div class='footnote'>SILITHIDS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+
+\pagebreakNum
+
+<div style='margin-top:460px;'></div>
+
 ___
 > ## Silithid Larva
 >*Tiny beast, unaligned*
@@ -5891,6 +5899,8 @@ ___
 > <br>&nbsp;&nbsp;&nbsp; The larva can detach itself by spending 5 feet of movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the larva. 
 
 \columnbreak
+
+<div style='margin-top:372px;'></div>
 
 ___
 > ## Silithid Worker
@@ -5925,8 +5935,14 @@ ___
 <div class="pageLetter">S</div>
 <div class='footnote'>SILITHIDS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/a81VyUK.png' class='inkblot inkblot-green' style='top:-300px; right:25px; width:800px' />
+<img src='https://www.gmbinder.com/images/Bbtl4ll.png' style='position:absolute; top:350px; right:400px; width:400px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/N6dK0xs.png' style='position:absolute; top:170px; right:-75px; width:600px' />
+<img src='https://www.gmbinder.com/images/9FzdVpp.png' style='position:absolute; top:0px; right:370px; width:400px; transform:rotate(180deg); filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));' />
 
 \pagebreakNum
+
+<div style='margin-top:247px;'></div>
 
 ___
 > ## Silithid Wasp
@@ -5963,6 +5979,8 @@ ___
 > <br>&nbsp;&nbsp;&nbsp; While poisoned this way, any non-silithid creature that ends its turn within 5 feet of the target must succeed on a DC 12 Constitution saving throw. The creature takes 7 (2d6) poison damage on a failed save, or half as much on a successful one. 
 
 \columnbreak
+
+<div style='margin-top:170px;'></div>
 
 ___
 > ## Silithid Reaver
@@ -6002,8 +6020,22 @@ ___
 <div class="pageLetter">S</div>
 <div class='footnote'>SILITHIDS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/R7wbd4k.png' class='inkblot inkblot-green' style='top:-300px; right:-50px; width:800px; transform:rotate(270deg)' />
+<img src='https://www.gmbinder.com/images/HxIk06X.png' style='position:absolute; top:-100px; right:430px; width:450px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/zFgCBp8.png' style='position:absolute; top:-65px; right:25px; width:400px; z-index:100' />
 
 \pagebreakNum
+
+<div style='margin-top:200px;'></div>
+
+> ##### Variant: Hive Controller
+> The strongest of a hive's colossi exerts direct command over other silithids in the hive. Usually this is either the hive lord, closest of the queen's consorts, or the hive queen herself. 
+>
+> The Hive Controller can be distinguished by its see-through cranium, leaving its brain visible. It has the following additional trait.
+>
+> <br>***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the silithid can send a telepathic command whenever a nonhostile creature that it can see within 60 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can receive the command. A creature can benefit from only one Leadership die at a time. This effect ends if the silithid is incapacitated.
+
+<div class='statblock-bottom-wide'>
 
 ___
 ___
@@ -6042,18 +6074,13 @@ ___
 > ***Swallow.*** The silithid makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the silithid, and it takes 21 (6d6) acid damage at the start of each of the silithid's turns.
 > <br>&nbsp;&nbsp;&nbsp; If the silithid takes 30 damage or more on a single turn from a creature inside it, the silithid must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the silithid. If the silithid dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 
-\columnbreak
-
-> ##### Variant: Hive Controller
-> The strongest of a hive's colossi exerts direct command over other silithids in the hive. Usually this is either the hive lord, closest of the queen's consorts, or the hive queen herself. 
->
-> The Hive Controller can be distinguished by its see-through cranium, leaving its brain visible. It has the following additional trait.
->
-> <br>***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the silithid can send a telepathic command whenever a nonhostile creature that it can see within 60 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can receive the command. A creature can benefit from only one Leadership die at a time. This effect ends if the silithid is incapacitated.
+</div>
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SILITHIDS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/zxp4HSp.png' class='inkblot inkblot-green' style='top:-50px; right:-50px; width:900px;' />
+<img src='https://www.gmbinder.com/images/nTVuEnM.png' style='position:absolute; top:-100px; right:-350px; width:1400px' />
 
 \pagebreakNum
 
