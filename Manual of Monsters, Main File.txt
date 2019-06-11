@@ -261,21 +261,23 @@
 \pagebreak
 
 ## Credits
-**Manual of Monsters Leads:** Jih, Tangerine
-<br> **Stat Block Development:** Jih, Tangerine, Angery,
-<br><span style="margin-left:12px"></span> Arenalor, Geamros
-<br> **Story Development:** Jih, Tangerine, Geamros
-<br> **Editing:** Jih, Tangerine
+*Contributors listed by community usernames.*
+
+<br> **Manual of Monsters Leads:** Jih, Tangerine
+<br> **Creature Statistics:** Jih, Tangerine, Angery,
+<br> <span style="margin-left:12px"></span> Arenalor, Geamros
+<br> **Text Writing:** Jih, Tangerine, Geamros
+<br> **Layouting:** Jih, Tangerine
 <br> **Managing Editors:** Jih, Tangerine
 
 <br> **Additional Contribution:** Our Discord Community
 
 <br> **Cover Illustrator:** MD Zhang
-<br> **Interior Illustrators:** Lucas Graciano, Jorge Jacinto, Lloyd 
+<br> **Interior Illustrators:** Lucas Graciano, Jorge Jacinto, Lloyd
 <br><span style="margin-left:12px"></span> Hoshide, Ruan Jia
 
-<br> **Based on the original D&D game created by** 
-<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as 
+<br> **Based on the original D&D game created by**
+<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as
 <br><span style="margin-left:12px"></span>Brian Blume, Rob Kuntz, James Ward and Don Kaye.
 
 <br> **Based on the Warcraft franchise by**
@@ -283,11 +285,11 @@
 
 <br> **Playtesting provided by**
 
-<br> **Special thanks to** 
-<br><span style="margin-left:12px"></span> This entire book was made using GmBinder, it is an 
-<br><span style="margin-left:12px"></span> amazing tool for creating authentic looking homebrew 
-<br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons, and 
-<br><span style="margin-left:12px"></span> without it this project would've never been considered.
+<br> **Special thanks to**
+<br><span style="margin-left:12px"></span> This entire book was made using GM Binder. It is an
+<br><span style="margin-left:12px"></span> amazing tool for creating authentic-looking homebrew
+<br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons. Without
+<br><span style="margin-left:12px"></span> it, this project would've likely never been considered.
 
 <div style='margin-top:24px'></div>
 <div style="text-align:Center">
