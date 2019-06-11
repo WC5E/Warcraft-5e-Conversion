@@ -1110,29 +1110,29 @@ In Stranglethorn Vale, especially, some colonies have taken to forming their nes
 \pagebreakNum
 
 ## Bog Beasts
-A bog beast is a massive, shambling monster made of plants, roots, and flesh that inhabit the waters of bogs and swamps. These massive plants hide beneath the water surface, disguising themselves as thick vegetation atop the water’s surface, patiently waiting for unaware adventures to pass by so that their day can be turned around.
+A bog beast is a massive, shambling monster made of plants, roots, and flesh. Inhabiting bogs and swamps, they hide away beneath the water surface, disguising them&shy;selves as thick, waterlogged lumps of vegetation. There they wait patiently for any unaware critters to venture too close -- or better yet, unaware adventurers.
 
-***Creatures of Mystery.*** Bog beasts are frightful crea&shy;tures, but they are also incredibly secretive. The hulking swamp lurkers have always avoided the gaze of scholars wishing to study them, hiding beneath the surfaces of water until they give up or come close enough to meet a swift end. Studying the beasts is only made harder because of their aggressive nature and territorial way of life.
+***Creatures of Mystery.*** Bog beasts are frightful crea&shy;tures, and notoriously elusive. They are adept at avoiding the gaze of scholars attempting to study them; and for many who have tried, only moss-riddled remains have been found. Their aggressive, territorial nature makes them a considerable danger to any unfortunate enough to cross paths with them.
 
-***Plants Anatomy.*** Thick roots stretch across the entirety of a bog beast, concealing what might lie beneath. These hulking monsters need no sustenance beyond the water in which they lie and wait, and can go unseen for months if they so desire, only grasping the water’s surface when they need to replenish air.
+***Plants Anatomy.*** Thick roots stretch across the entirety of the bog beast's form, as if to conceal what hides under&shy;neath. It is speculated that they have no real need for sustenance apart from the waters they dwell in, and some have been observed spending months still in the murky depths -- only barely grasping the surface to draw breath.
 
-***Naturally Powerful.*** Explorers who have encountered the beasts and lived to tell the tale have recorded stories of their immense strength and resilience to harm. They use their strength to slam into their enemies, crushing oppo&shy;nents defenses with their fists, or whatever large object nearby they can throw at them.
+***Naturally Powerful.*** Explorers who have encountered a bog beas and lived to tell the tale, describe them as immen&shy;sely powerful and resilient to harm. Their massive limbs can quickly overwhelm their enemies, crushing opponents with their fists or with whatever nearby objects they can throw.
 
 ### Timberling
-A timberling is by many considered the child of bog beasts, with its height equal to that of a dwarf. These small beasts carry some resemblance of a humanoid shape as if some&shy;one is trapped within. Amongst bog beasts, timberlings are relatively peaceful, living in harmony with the land. But any sort of disruption to their surroundings drives them into an unnatural frenzy.
+A timberling is by many considered the child of bog beasts, very similar and yet considerably smaller at a height comparable to that of a dwarf. As far as bog beasts go, timberlings are fairly peaceful creatures that live in harmony with the land. However, any disruption to their habitat will quickly drive them into an unnatural frenzy.
 
 ### Thistleshrub
-Thistleshrubs unlike most bog beasts don't inhabit the waters of swamps, these monsters bear a resemblance to large thick mass of vines covered in sharp briars. Unlike timberlings these creatures are immediately hostile and engage those foolish enough to investigate, sporadically attacking anything that comes near it.
+Thistleshrubs, unlike most bog beasts, do not dwell in swamps or marshes. Instead they prefer arid climates, and bear resemblence to a large mass of withered vines cov&shy;ered in sharp briars. They are known to be very hostile, and will certainly attack anyone foolish enough to approach; sporadically lashing out with whip-like thorns at anything that comes near.
 
 ### Swampwalker
-These hulking masses of dark green and brown colors are called swampwalkers for their almost exclusive appearance within the thicket of swamps. These bog beasts are the most territorial amongst the monsters and fiercely protects the borders of its bog from intruders. 
+These hulking masses are rarely ever witnessed outside of dense swamps, and blend perfectly into their chosen habitat with their dark green and brown colors.
 
-But they are also the must cunning, with its natural camouflage they can lurk through their bog without being noticed, only to spring upon intruders in surprise.
+They are both the most territorial and the most cunning among bog beasts, and have been witnessed deliberately attempting to lure travellers farther into their lair in order to spring a trap. Their natural camouflage allows them to move through their territory entirely unseen, and have left adventurers wary even of rippling water and rustling leaves when venturing through swamps.
 
 ### Tar Creeper
-Amongst bog beasts, a tar creeper is considered the most notorious, these large appear more like living masses of thick tar than plant-like beings. These monsters cherish humid air and high temperatures.
+Cherishing humid air and temperatures, the tar creeper is by far the most abormal of all bog beasts for its viscous, tar-like appearance. Not to mention the most dangerous.
 
-Few travelers ever see a tar beast unless they somehow anger the monster, in which case they feel the unbridled wrath of the elemental. As tar beasts are quiet, reclusive, and unspeaking, no one quite knows what will anger one.
+Though they might seem slow, these massive beasts can cut through tar like a fish through water; lunging forth to trap their prey and drag it back down below.
 
 <div class="pageLetter">B</div>
 <div class='footnote'>BOG BEASTS </div>
