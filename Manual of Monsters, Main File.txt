@@ -841,7 +841,7 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 
 <div class='footnote'>CHAPTER 2 | INTRODUCTION </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/Z8yFnva.jpg' style='position:absolute; top:870px; right:-10px; width:400px;mix-blend-mode:multiply;transform:rotate(-10deg)' />
+<img src='https://www.gmbinder.com/images/Z8yFnva.jpg' style='position:absolute; top:880px; right:-20px; width:400px;mix-blend-mode:multiply;transform:rotate(-6deg)' />
 
 \pagebreakNum
 
