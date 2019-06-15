@@ -3193,8 +3193,9 @@ ___
 
 \pagebreakNum
 
-## Golems
+<div class='statblock-bottom-wide'>
 
+___
 ___
 > ## Arcane Golem
 >*Large construct, unaligned*
@@ -3232,7 +3233,16 @@ ___
 >
 > ***Slow (Recharge 5-6).*** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 16 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at other end of each of its turns, ending the effect on itself on a success.
 
-\columnbreak
+</div>
+
+<div class="pageLetter">G</div>
+<div class='footnote'>GOLEMS </div>
+<img src='https://www.gmbinder.com/images/2OoW8Ni.jpg' style='position:absolute; top:-125px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:100px; right:0px; width:900px' />
+
+\pagebreakNum
+
+<div style='margin-top:305px;'></div>
 
 ___
 > ## Harvest Golem
@@ -3265,9 +3275,34 @@ ___
 >
 > ***Razer Claws (Recharge 5-6).*** The golem upper body spins in a circle, slashing it claws at creatures within 5 feet of it. Each creature must make a DC 13 Dexterity saving throw, taking 18 (4d8) slashing damage on a failed save, or half as much damage on a success.
 
+\columnbreak
+
+<div style='margin-top:300px;'></div>
+
+## Golems
+Golems are made from humble materials—flesh and bones, metal and stone—but they possess astonishing power and durability as their creation is wrought with magical energy. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. They are constructs created with a purpose in mind, to follow its creator as a guardian, protecting a person, place, or thing, or as constructs of war created to attack and defend at their creator's orders.
+
+***Blind Obedience.*** These constructs are created to perform the task at hand flawlessly. If the golem is left without instructions, it continues to follow its last orders to the best of its abilities. When it is unable to fulfill its given orders, a golem might turn to violence, or stand and do nothing until new orders are given.
+
+A golem can't think or act for itself. Though it understands its commands perfectly, it has no grasp of language beyond that understanding, and can't be reasoned with or tricked with words.
+
+***Constructed Nature.*** A golem doesn't require air, food, drink, or sleep.
+
+### Arcane Golem
+Arcane golems are hulking, magically-empowered golems created to act as peacekeepers and defenders. Their large stone builds boast with magical energies inlaid through their bodies, displaying glows in many different colors.
+
+Arcane golems are a favor construct amongst blood elves for their magical tenacity and are found primarily through Quel'thalas as they patrol the streets, roads, and cities of their kingdom with vigilance.
+
+### Harvest Golem
+Resembling a giant scarecrow equipped with razer-sharp metal claws and possessed with blazing orange eyes. That is the visage Harvest Golem. These large and terrifying 'scarecrows' wreck havoc and terror across the fallow fields of Westfall. Where these golems came from or who their creator are is but a mystery to the working folk of Westfall, but their purpose quickly became apparent. These golems are programmed with a simple purpose, to hunt down and eliminate the humans inhabiting Westfall. 
+
+They have brought caution to the fields of Westfall and the many scarecrows that stand atop them, eliciting terror in anyone foolish enough to roam its fallow fields alone.
+
 <div class="pageLetter">G</div>
 <div class='footnote'>GOLEMS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/tiU4RnD.png' class='inkblot' style='top:-100px; right:150px; width:600px; transform:rotate(80deg)' />
+<img src='https://www.gmbinder.com/images/auDVjw8.png' style='position:absolute; top:-45px; right:170px; width:700px; transform:scalex(-1)' />
 
 \pagebreakNum
 
