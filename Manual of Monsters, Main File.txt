@@ -90,7 +90,7 @@
 
   /* For creature statblocks within range (start and end must be specified),
      don't show a background. Used for the appendix creatures */
-  .phb:nth-of-type(n+107):nth-of-type(-n+130) hr+section blockquote {
+  .phb:nth-of-type(n+111):nth-of-type(-n+130) hr+section blockquote {
     background: none;
     border: none;
     box-shadow: none;
@@ -346,9 +346,9 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
 
 <div class='toc wide'; style='column-count:3'>
 
- - [<span>4</span><span>**Ch. 1: Bestiary**                  </span>](#p4)
- - [<span>4</span><span> Preface                             </span>](#p4)
- - [<span>3</span><span>**App. A: Miscellaneous Creatures**  </span>](#p3)
+ - [<span>4</span><span>**Ch. 1: Bestiary**                    </span>](#p4)
+ - [<span>4</span><span> Preface                               </span>](#p4)
+ - [<span>111</span><span>**App. A: Miscellaneous Creatures**  </span>](#p111)
 </div>
 
 <div class='wide'>
@@ -373,38 +373,38 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
  - [<span>36</span><span> Furbolg                       </span>](#p36)
  - [<span>37</span><span> Ghosts                        </span>](#p37)
  - [<span>45</span><span> Gnolls                        </span>](#p45)
- - [<span>3</span><span> Golems                        </span>](#p3)
- - [<span>3</span><span> Grell                         </span>](#p3)
- - [<span>3</span><span> Harpies                       </span>](#p3)
- - [<span>3</span><span> Kobolds                       </span>](#p3)
- - [<span>3</span><span> Kodos                         </span>](#p3)
- - [<span>3</span><span> Lashers                       </span>](#p3)
- - [<span>3</span><span> Leper Gnome                   </span>](#p3)
- - [<span>3</span><span> Makrura                       </span>](#p3)
- - [<span>3</span><span> Mana Wyrms                    </span>](#p3)
- - [<span>3</span><span> Mechanicals                   </span>](#p3)
- - [<span>3</span><span> Murlocs                       </span>](#p3)
- - [<span>3</span><span> Nagas                         </span>](#p3)
- - [<span>3</span><span> Ogres                         </span>](#p3)
- - [<span>3</span><span> Owlbeasts                     </span>](#p3)
- - [<span>3</span><span> Quilboars                     </span>](#p3)
- - [<span>3</span><span> Ravagers                      </span>](#p3)
- - [<span>3</span><span> Sabercats                     </span>](#p3)
- - [<span>3</span><span> Satyrs                        </span>](#p3)
- - [<span>3</span><span> Scourge                       </span>](#p3)
- - [<span>3</span><span> Shale Spider                  </span>](#p3)
- - [<span>3</span><span> Shredder                      </span>](#p3)
- - [<span>3</span><span> Silithids                     </span>](#p3)
- - [<span>3</span><span> Skeletons                     </span>](#p3)
- - [<span>3</span><span> Treant                        </span>](#p3)
- - [<span>3</span><span> Troggs                        </span>](#p3)
- - [<span>3</span><span> Trolls                        </span>](#p3)
- - [<span>3</span><span> Thunder Lizard                </span>](#p3)
- - [<span>3</span><span> Whale Shark                   </span>](#p3)
- - [<span>3</span><span> Wind Serpents                 </span>](#p3)
- - [<span>3</span><span> Wretched                      </span>](#p3)
- - [<span>3</span><span> Worgen: Feral                 </span>](#p3)
- - [<span>3</span><span> Yetis                         </span>](#p3)
+ - [<span>47</span><span> Golems                        </span>](#p47)
+ - [<span>49</span><span> Grell                         </span>](#p49)
+ - [<span>50</span><span> Harpies                       </span>](#p50)
+ - [<span>52</span><span> Kobolds                       </span>](#p52)
+ - [<span>54</span><span> Kodos                         </span>](#p54)
+ - [<span>55</span><span> Lashers                       </span>](#p55)
+ - [<span>57</span><span> Leper Gnome                   </span>](#p57)
+ - [<span>58</span><span> Makrura                       </span>](#p58)
+ - [<span>59</span><span> Mana Wyrms                    </span>](#p59)
+ - [<span>60</span><span> Mechanicals                   </span>](#p60)
+ - [<span>64</span><span> Murlocs                       </span>](#p64)
+ - [<span>66</span><span> Nagas                         </span>](#p66)
+ - [<span>70</span><span> Ogres                         </span>](#p70)
+ - [<span>72</span><span> Owlbeasts                     </span>](#p72)
+ - [<span>74</span><span> Quilboars                     </span>](#p74)
+ - [<span>77</span><span> Ravagers                      </span>](#p77)
+ - [<span>79</span><span> Sabercats                     </span>](#p79)
+ - [<span>81</span><span> Satyrs                        </span>](#p81)
+ - [<span>83</span><span> Scourge                       </span>](#p83)
+ - [<span>88</span><span> Shale Spider                  </span>](#p88)
+ - [<span>89</span><span> Shredder                      </span>](#p89)
+ - [<span>90</span><span> Silithids                     </span>](#p90)
+ - [<span>94</span><span> Skeletons                     </span>](#p94)
+ - [<span>96</span><span> Treant                        </span>](#p96)
+ - [<span>97</span><span> Troggs                        </span>](#p97)
+ - [<span>100</span><span> Trolls                       </span>](#p100)
+ - [<span>103</span><span> Thunder Lizard               </span>](#p103)
+ - [<span>104</span><span> Whale Shark                  </span>](#p104)
+ - [<span>105</span><span> Wind Serpents                </span>](#p105)
+ - [<span>107</span><span> Wretched                     </span>](#p107)
+ - [<span>108</span><span> Worgen: Feral                </span>](#p108)
+ - [<span>109</span><span> Yetis                        </span>](#p109)
 </div>
 
 <img src='https://www.gmbinder.com/images/fePJKiQ.jpg' style='position:absolute; top:0px; right:-750px; width:2100px' />
