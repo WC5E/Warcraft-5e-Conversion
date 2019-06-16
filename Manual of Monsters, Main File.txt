@@ -262,6 +262,7 @@
 
 ## Credits
 *Contributors listed by community usernames.*
+<div style='margin-top:-20px;'></div>
 
 <br> **Manual of Monsters Leads:** Jih, Tangerine
 <br> **Creature Statistics:** Jih, Tangerine, Angery,
@@ -272,9 +273,19 @@
 
 <br> **Additional Contribution:** Our Discord Community
 
-<br> **Cover Illustrator:** MD Zhang
-<br> **Interior Illustrators:** Lucas Graciano, Jorge Jacinto, Lloyd
-<br><span style="margin-left:12px"></span> Hoshide, Ruan Jia
+<br> **Cover Illustrator:** Zhang Zs
+<br> **Interior Illustrators:** Alex Garner, Andrei Kiselev, Andrew
+<br><span style="margin-left:12px"></span> Hou, Anndr, Anthony Avon, Arthur Bozonnet, Blizzard
+<br><span style="margin-left:12px"></span> Cinematics, Blizzard Entertainment, Chris Deboda, Dan
+<br><span style="margin-left:12px"></span> Mumford, Dan Scott, Dmitry Bolotov, Dmitry Prozorov,
+<br><span style="margin-left:12px"></span> Elodie Metivier, Glenn Rane, Grace Liu, Jakub Kasber,
+<br><span style="margin-left:12px"></span> James Ryman, Jimmy Lo, Jorge Jacinto, Justin Kunz,
+<br><span style="margin-left:12px"></span> Laurel D. Austin, Lloyd Hoshide, Luke Mancini, Mark
+<br><span style="margin-left:12px"></span> Gibbons, Markus Erdt, Matt Smith, Matthew Mckeown, 
+<br><span style="margin-left:12px"></span> Miao Zi, Monica Langlois, Mr. Jack, Noah Warner, Peter
+<br><span style="margin-left:12px"></span> Lee, Phillip Zhang, Raymond Swanland, Ruan Jia, Sean 
+<br><span style="margin-left:12px"></span> O'Daniels, Sojin Hwang, Timens, UnidColor, Wei Wang, 
+<br><span style="margin-left:12px"></span> Zhang Zs
 
 <br> **Based on the original D&D game created by**
 <br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as
