@@ -4371,7 +4371,42 @@ ___
 
 \pagebreakNum
 
-## Murlocs
+## Murloc
+From a distance the degenerated fishlike humanoids that is murlocs might not seem like a big threat, but the small creatures are never alone and never far from their tribe and the water they inhabit. Their disgraceful and often humorous nature should not be underestimated cause behind their blank expressions lies a murderous mindset.
+
+***Strange Territories.*** Murlocs populate coastlines, lake&shy;shores and swamps, never straying far from the land of their tribe. In more recent times, they have spread to many regions across Azeroth, inhabiting inland lakes and long secluded beaches.
+
+Murlocs build strange chaotic villages of mud-and-twig huts that resemble structures more suited for the bed of the ocean than above the water. Their huts are scattered chaotically about without a discernible pattern, except for the prominent hut distinctly crafted for their oracle.
+
+***Questionable Intelligence.*** Many races suggest that the murlocs are not particularly clever, considering their nearly impossible to decipher language. Others argue that, their ability to use weapons and their unusual fighting skills indicate a devilish smartness.
+
+Murlocs are faithful creatures with a faith unlike any other. They worship entities of the sea, from the ordinary fish to huge elementals, and even prominent nagas. But their faith and belief in an entity is usually temporary and can change over the span of a week as events change.
+
+***Pack Fighters.*** Even though murlocs aren't particularly brave, they will attack any traveler that approaches them if they can outnumber them.
+
+Under pressure they flee to the water hoping for their foe to be foolish enough to follow them. Those who chase them underwater, regrets it as soon as they realize that there are several murlocs waiting in hiding, ready to attack quickly from all directions, like a swarm of hungry fish.
+
+### Murloc Tidehunter
+While many murlocs can use their intelligence to handle weapons to defend themselves, some of them are able to use their equipment to hunt. Being able to create nets and use them, tidehunters attacking in numbers, can be a serious threat to anyone foolish enough to pass through their territory. 
+
+### Murloc Oracle
+Even though most murlocs are raised to be warriors and hunters, few of them are born with a heightened willpower. Those murlocs, called oracles, are natural spellcasters. They are masters of the elements and can use them to control the environment around their enemies.
+
+### Murloc Names and Language
+Murlocs speak the Nerglish tongue, a strange language only spoken by aquatic creatures. Nerglish is a low aquatic language similar to Low Common and only spoken by a handful of lesser races.
+
+Their names contain many wet, *soft* sounds; sh, i, and m are common amongst their names. Murlocs do not have individual surnames, instead they take the name of their tribe. Tribal names recall something of the tribe's accom&shy;plishments, appearance, hjistory, or tradition.
+<div style='margin-top:10px;'></div>
+
+**Male Names:** Ashmol, Loshof, Molgoo, Shlesh
+<br>
+**Female Names:** Malash, Orgloom, Seeshen, Shyresh
+<br>
+**Tribe Names:** Blindlight, Bluegill, Greymist, Slatspittle
+
+\columnbreak
+
+<div style='margin-top:450px;'></div>
 
 ___
 > ## Murloc
@@ -4401,7 +4436,15 @@ ___
 >
 > ***Spear.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
-\columnbreak
+<div class="pageLetter">M</div>
+<div class='footnote'>MURLOCS </div>
+<img src='https://www.gmbinder.com/images/84P8ntb.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/QZfSRiM.pngg' class='inkblot inkblot-blue' style='top:30px; right:-150px; width:600px;'>
+<img src='https://www.gmbinder.com/images/nBf8yxY.png' style='position:absolute; top:0px; right:-20px; width:450px' />
+
+\pagebreakNum
+
+<div style='margin-top:350px;'></div>
 
 ___
 > ## Murloc Tidehunter
@@ -4433,11 +4476,9 @@ ___
 >
 > ***Net.*** *Ranged Weapon Attack.* +3 to hit, range 5/15 ft., one Large or smaller creature. *Hit:* The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net.
 
-<div class="pageLetter">M</div>
-<div class='footnote'>MURLOCS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+\columnbreak
 
-\pagebreakNum
+<div style='margin-top:350px;'></div>
 
 ___
 > ## Murloc Oracle
@@ -4454,7 +4495,7 @@ ___
 > - **Skills** Perception +4 Survival +3
 > - **Senses** darkvision 60 ft., passive Perception 14
 > - **Languages** Nerglish
-> - **Challenge** 1 (100 XP)
+> - **Challenge** 1 (200 XP)
 > ___
 > ***Amphibious.*** The murloc can breathe air and water.
 >
@@ -4474,7 +4515,9 @@ ___
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MURLOCS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/ijqWnhI.jpg' style='position:absolute; top:-30px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:-200px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/OyT2YY6.png' style='position:absolute; top:330px; right:-10px; width:px; transform:rotate(-3deg); z-index:100; filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42))' />
 
 \pagebreakNum
 
