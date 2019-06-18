@@ -6049,11 +6049,36 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:486px;'></div>
+
 ## Silithids
+Silithids are frightful insectoids living in large colonies beneath the crust of Azeroth. Although their individual strength is questionable at best, their collective hive mind is able to send warnings and pain surging through the hive.
+
+Silithid can range drastically in size, beginning their life as small insignificant larva and growing into the swarms of insectoids that make up their race. Whatever their size may be, they all resemble massive insects. If those insects had mutated and desperately wanted to kill you.
+
+***Spawns of Qiraji.*** As the kingdon of the aqir was left in ruins, those who remained would split in two and venture in opposite directions. One grouped traveled as far south as south goes and ransacked the research station near Uldum. Converting the titan facility into an extensive hive, renamed themselves the qiraji and their new home Ahn'Qiraj.
+
+But their new hive held a dark secret, the facility had served as the prison of C'Thun, one of the Old Gods who had once reigned over primordial Azeroth. The arrival of the qiraji turned the facility from a prison into a seat of power. Worshiping the Old God as the aqirs had before them, the qiraji would become his servants and spent thousands of years building an army capable of exacting revenge upon the whole of Kalimdor.
+
+To form this army C'Thun would create the silithid, a race of insectiod creatures born from the qiraji themselves. The silithid would grow and become an enormous force for Ahn'Qiraj to utilize as they  created their great empire.
+
+***Bestial Drones.*** Unlike the qiraji, the silithid are not intelligent, sentient beings. C'Thun created them from the powers of the qiraji to become a mighty force for Ahn'Qiraj. Mindless bestial insectoids, minions that are eternally loyal to the qiraji and in turn C'Thun himself.
+
+\columnbreak
+
+<div style='margin-top:733px;'></div>
+
+&nbsp;&nbsp;&nbsp; ***Collective Hive Mind.*** Although silithids might seem to be acting of their own accord, they are not sentient beings and work as a collective entity in their hive. This does not though make them any less dangerous. A hive of silithids is often controlled by one or more colossi exerting their will over the collective hive and directing their way of life.
+
+The hive colossi's are in turn controlled by the powerful qiraji who exert complete dominance over the race shaped from their own beings. It is not uncommon for large hives to have a large crystalline prism deep within its core for the qiraji to communicate various messages through.
+
+***Adaptable Hive.*** No other creature can adapt to changes in their environment as quickly as the silithid. Although adventurers foolish enough to delve into the hive of silithids in hopes of removing their colossi might think that killing the center of the hive mind will hamper the silithids. The larva can evolve into a variety of silithid creatures based on the needs of the hive and replenish any loss.
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SILITHIDS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/m8LMCPY.jpg' style='position:absolute; top:0px; right:-100px; width:1000px' />
+<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/1dtuzPF.png' style='position:absolute; top:480px; right:-40px; width:px; transform:rotate(-5deg); filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42))' />
 
 \pagebreakNum
 
@@ -6123,7 +6148,6 @@ ___
 <img src='https://www.gmbinder.com/images/a81VyUK.png' class='inkblot inkblot-green' style='top:-300px; right:25px; width:800px' />
 <img src='https://www.gmbinder.com/images/Bbtl4ll.png' style='position:absolute; top:350px; right:400px; width:400px; transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/N6dK0xs.png' style='position:absolute; top:170px; right:-75px; width:600px' />
-<img src='https://www.gmbinder.com/images/9FzdVpp.png' style='position:absolute; top:0px; right:370px; width:400px; transform:rotate(180deg); filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));' />
 
 \pagebreakNum
 
