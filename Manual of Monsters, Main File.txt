@@ -318,24 +318,38 @@ We've made this book in an attempt to bring the beloved Warcraft franchise into 
 
 This book is made to compliment Dungeons & Dragons 5th edition **Player's Handbook, Dungeon Master's Guide**, and **Monster Manuals**. Using the rules presented in those books, and balanced around being playable in a standard D&D setting without requiring balancing.
 
-It has been written in our spare time, with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe in a Dungeons & Dragons format. Not for any monetary gain.
+It has been written with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe in a Dungeons & Dragons format. Not for any monetary gain.
 
-With each coming update, all changes will be noted in the Changelog--Link is provided below.
-
+With each coming update, all changes will be noted in the Changelog — Link is provided below.
+<div style='margin-top:-5px;'></div>
 <div style="text-align:Center"> 
 
-### [ChangeLog](https://drive.google.com/open?id=1487fO7RPdUbloD7NY6mdCC-yFwsU4yFHOUQ4CBqX9mE)
+#### [ChangeLog](https://drive.google.com/open?id=1487fO7RPdUbloD7NY6mdCC-yFwsU4yFHOUQ4CBqX9mE)
+</div>
+
+<br> **Heroes Handbook**
+<br><span style="margin-left:12px"></span> Did you know that we have a Heroes Handbook as well 
+<br><span style="margin-left:12px"></span> to go along side this Manual of Monsters?! A fully fleshed 
+<br><span style="margin-left:12px"></span> player handbook bringing all the races and classes from 
+<br><span style="margin-left:12px"></span> World of Warcraft into Dungeons and Dragons!
+<div style='margin-top:-5px;'></div>
+<div style="text-align:Center"> 
+
+#### [Heroes Handbook](https://www.gmbinder.com/share/-LFhhtssjN-teWCOregn)
 </div>
 
 <br> **Want to help grow a community?**
-
-We're a relatively small group working together on this, 
+<br><span style="margin-left:12px"></span> We're a relatively small group working together on this, 
 <br><span style="margin-left:12px"></span> and as such our ability to playtest all of this is limited in 
-<br><span style="margin-left:12px"></span> scope. If you want to help better this book, improve and <br>&nbsp;&nbsp;&nbsp; balance what's inside it, suggest changes, or talk with <br>&nbsp;&nbsp;&nbsp; others using this to create a Warcraft campaign. Then <br>&nbsp;&nbsp;&nbsp; head over to the [r/wc5e](https://old.reddit.com/r/wc5e/), a subreddit dedicated to this <br>&nbsp;&nbsp;&nbsp; handbook and project! <br>&nbsp;&nbsp;&nbsp; We also have a discord for that you can join if you want <br>&nbsp;&nbsp;&nbsp; to come talk with us and others using this handbook for <br>&nbsp;&nbsp;&nbsp; their campaigns!
-
+<br><span style="margin-left:12px"></span> scope. If you want to help this project, improve and 
+<br><span style="margin-left:12px"></span> balance what's inside its books, suggest changes, or talk 
+<br><span style="margin-left:12px"></span> with us and others using the project to create a Warcraft 
+<br><span style="margin-left:12px"></span> campaign, we have both an active discord server and a
+<br><span style="margin-left:12px"></span> subreddit dedicated to this project! — Links below!
+<div style='margin-top:-5px;'></div>
 <div style="text-align:Center"> 
 
-### [Discord](https://discord.gg/dKMJmmD)
+#### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:48px"></span> [Subreddit](https://old.reddit.com/r/wc5e/)
 </div>
 
 <div style='margin-top:90px'></div>
