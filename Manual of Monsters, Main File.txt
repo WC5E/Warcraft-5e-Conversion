@@ -4420,7 +4420,7 @@ Even though most murlocs are raised to be warriors and hunters, few of them are 
 ### Murloc Names and Language
 Murlocs speak the Nerglish tongue, a strange language only spoken by aquatic creatures. Nerglish is a low aquatic language similar to Low Common and only spoken by a handful of lesser races.
 
-Their names contain many wet, *soft* sounds; sh, i, and m are common amongst their names. Murlocs do not have individual surnames, instead they take the name of their tribe. Tribal names recall something of the tribe's accom&shy;plishments, appearance, hjistory, or tradition.
+Their names contain many wet, *soft* sounds; sh, i, and m are common amongst their names. Murlocs do not have individual surnames, instead they take the name of their tribe. Tribal names recall something of the tribe's accom&shy;plishments, appearance, history, or tradition.
 <div style='margin-top:10px;'></div>
 
 **Male Names:** Ashmol, Loshof, Molgoo, Shlesh
