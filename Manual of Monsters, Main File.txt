@@ -8763,3 +8763,32 @@ A **zhevra** is a large zebra with the horn piercing through its forehead simila
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
+
+\pagebreakNum
+
+<div style='margin-top:20px;'></div>
+<div class='back-cover-header'>
+ 
+Thanks for Reading
+</div>
+ 
+<div class='back-cover-text'>
+
+This has been a project made by a group of people who have loved the Warcraft franchise for many years at this point, and wanted to bring it into Dungeons and Dragons for everyone to enjoy.
+
+This has been a blast for us to make, and we thoroughly enjoy making it and improving upon it. We hope this will bring joy to many D&D tables around the world. Best of luck to all the parties of humans and orcs, try not to chop each other up too much <3
+</div>
+ 
+<div class='back-cover-diamond' style='top: 679px;'></div>
+<div style='margin-top:155px;'></div>
+<div class='back-cover-close'>
+
+Did you know this was all made using GmBinder? I can't stretch enough how fantastic a tool it is for creating homebrew material for 5th edition D&D.
+
+[Go check them out!](https://www.gmbinder.com/)
+</div>
+<div class='back-cover-logo'></div>
+
+<style> .phb#p124:after { display:none; } </style>
+<img src='https://www.gmbinder.com/images/03TEaX0.jpg' style='position:absolute; top:0px; right:-300px; width:860px' />
+<img src='https://www.gmbinder.com/images/x83va2I.png' style='position:absolute; top:0px; right:-100px; width:900px' />
