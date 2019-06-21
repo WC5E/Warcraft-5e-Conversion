@@ -1705,14 +1705,14 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:77px;'></div>
+<div style='margin-top:106px;'></div>
 
 ## Dragonhawks
-Travelers entering the enchanted forests of Quel'Thalas might catch a glimpse of the mystical dragonhawk gliding above the trees. Warmth hangs on the air, as the majestic beast vanishes in the canopies above.
+Travelers entering the enchanted forests of Quel'Thalas might catch a glimpse of the mystical dragonhawk gliding above the trees. An unusual warmth hangs in the air, as the majestic beast vanishes out of sight.
 
-***Bred for War.*** The elves of Quel'Thalas have a long standing tradition of breeding docile dragonhawks. The hawks are vicious flying predators. They are swift and deft, able to crack bones and pierce hides with their long talons. They can be trained as aerial mounts, and seem to have a particular affinity with high elves (and now, blood elves). Majestic and magnificent creatures, dragonhawks and <br> their elf riders make an impressive sight.
+***Bred for War.*** The elves of Quel'Thalas have a long standing tradition domesticating dragonhawks. They are vicious flying predators, swift and deft, able to crack bones and pierce hides with their long talons, and the elves have long mastered training them for use as aerial mounts. Majestic and magnificent creatures, dragonhawks and their elven riders make for an impressive sight.
 
-***Wild Legends.*** Few wild dragonhawks exist, most, if <br> not all, the beasts found in Quel'Thalas have been bred <br>by the elves . Wild dragonhawks are considered mystical beings that few get to witness, they stay clear of docile dragonhawks and spend much of their time flying above tree canopies to avoid detection. These dragonhawks are formidable hunters and amongst the deadliest predators found on the Eastern Kingdoms.
+***Wild Legends.*** Few wild dragonhawks still exist. Most the beasts found in Quel'Thalas, if not all, are kept by the elves. Wild ones are near-mythical beings that few ever witness, as they stay clear of their tamed kin and have become masters of avoiding detection. These dragonhawks are formidable hunters and among the deadliest predators found on the Eastern Kingdoms.
 
 ___
 > ## Young Dragonhawk
