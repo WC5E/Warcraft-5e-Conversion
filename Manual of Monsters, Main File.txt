@@ -1571,7 +1571,6 @@ A dark iron hounds is smaller, one headed, core hound. They are often seen accom
 
 These hounds are often used as mounts by the dark iron dwarves that keep them, though they do not take well to others.
 
-A dark iron hound can be used as a mount by creatures of Medium or smaller size, although they are not fond of carrying creatures other than dark iron dwarves.
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CORE HOUNDS </div>
@@ -1663,15 +1662,15 @@ ___
 <br>
 
 ## Dinosaurs
-Dinosaurs are among the oldest reptiles in the world. Predatory dinosaurs are savage, territorial hunters. Herbivorous dinosaurs are less aggressive, but they might attack to defend their young, or if startled or harassed.
+Dinosaurs are among the oldest reptiles in the world. For the most part, they split into two groups: savage, territorial predators, and docile but still undeniably dangerous herbivores.
 
-Dinosaurs come in many sizes and shapes with a large variety of colorations and markings between them. They roam many regions of Azeroth, including remote mountain valleys, humid jungles, and rugged barren plains.
+These creatures come in many sizes and shapes, with a wide variety of markings and colorations between them. They roam far and wide across Azeroth, all the way from remote mountain valleys to humid jungles and rugged barren plains.
 
 ### Raptor
-The raptor is an aggressive theropods predator of great strength and speed. It can run down almost any prey over open ground, pouncing to pull creatures down with its wicked claws and fanged maw.
+The raptor is an aggressive theropod predator, known for its great strength and speed. It is fast enough to chase down near anything out in the open, and prefers to pounce on its prey in order to trap it. Then, it tears flesh from bone with its long, curved claws and razor-sharp teeth.
 
 ### Threshadon
-A plesiosaurus is a marine dinosaur whose compact body is driven by powerful flippers. Predatory and aggressive, it attacks any creature it encounters. Its flexible neck accounts for a third of its total length, letting it twist in any direction to deliver a powerful bite.
+A plesiosaurus is a marine dinosaur whose compact body is driven by powerful flippers. An aggressive predator, it attacks any creature that it encounters. Its flexible neck accounts for a third of its total length, allowing it to twist in any direction in order to deliver its powerful bite.
 
 ___
 > ## Threshadon
