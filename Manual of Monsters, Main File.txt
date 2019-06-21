@@ -1787,11 +1787,11 @@ ___
 \pagebreakNum
 
 ## Dust Devil
-A dust devil is an elemental of air and earth that roars across the land, these violent vortexes have become a nuisance for nearby settlements for their chaotic nature and proneness to upheaval wherever they venture. 
+A dust devil is an elemental of air and earth. Roaring out across the land, these violent vortexes can spell a real problem for any  nearby settlements, as their chaotic nature makes them prone to cause great upheaval.
 
-***Eternal Nuisance.*** Dust devils are known for their unusually chaotic nature compared to many other elemen&shy;tals, and their enjoyment of roaring across plains and fields, destroying everything they come across with incredible gusts of concentrated wind or brutal slams.
+***Eternal Nuisance.*** Dust devils find an unusual enjoy&shy;ment in their uncanny roaming, destroying whatever they come across in their path by sending forth incredible gusts of wind or by tearing it asunder with their hands.
 
-***Conjured by Magic.*** Certain spells and magic items can conjure an elemental from their chaotic Elemental Plane to the Material Plane. Elementals, dust devils especially, resent being pulled from their native planes and shackled into service. A creature that summons an elemental must assert force of will to control it.
+***Conjured by Magic.*** Certain spells and magic items can conjure forth elementals from the Elemental Plane to the Material Plane. Elementals, and dust devils in particular, resent this treatment and the shackles of servitude that comes with it. A creature that summons an elemental must assert the force of will to control it.
 
 ***Elemental Nature.*** A dust devil doesn't require air, food, drink, or sleep.
 
