@@ -1551,23 +1551,25 @@ ___
 <div style='margin-top:355px;'></div>
 
 ## Core Hounds
-Most who venture to the Blackrock Mountain would rather face a squad of orcs than confront a single core hound. These hulking bulldogs drips magma in their path, and guard the molten core of the molten core of the mountain as well as the charred regions to its north.
+Most who venture to the Blackrock Mountain would rather face a squad of orcs than confront a single core hound. These hulking bulldogs drip of magma as they trail, guard&shy;ing the molten core of the black mountain -- as well as the scorched earth of the lands around.
 
-A core hound's body is covered in thick, sweltering metal plates, a streak of flames run the length of its body, and its mouth is filled with rows of flaming teeth.
+A core hound's body is covered in thick, sweltering metal plates, with streaks of fire running the length of its back. Its mouth is filled with rows of sharp teeth, said to be hotter than white-hot steel.
 
-***Faithful Servants.*** Core hounds are the faithful servants of the Firelord and his minions, and in many way acts like massive loyal bulldogs that fulfill the commands of their masters whenever possible. 
+***Faithful Servants.*** Core hounds are the faithful servants of the Firelord and his minions, and in many ways do act like loyal dogs in that regard, following the will of their fiery master as best they can. 
 
-***Endless Growth.*** Core hounds can grow for an eternity of allowed, all the way to hulking titan of gargantuan size like their ancestor Magmadar. Although few ever manage to reach such sizes because of their aggressive nature toward others and each other.
+***Endless Growth.*** If allowed, a core hound can grow for an eternity, ultimately becoming hulking titans of gargan&shy;tuan size -- like their progenitor, Magmadar. Few core hounds ever manage to reach such a size, as often their aggressive nature becomes their downfall.
 
-The dark iron hounds are considered misshapen by core hounds and cease to grow in size once they mature fully.
+The dark iron hounds, considered misshapen by true core hounds, cease to grow once they reach maturity.
 
 ### Core Hound
-The monstrous two-headed bulldog that is a core hound are vicious, faithful servants of the Firelord Ragnaros and his minions. Waves of scorching heat emanates from the core hound, and those engaging it with sword and axe quickly find their weapons unusable as each slash melts more of the weapon away.
+The core hound is a monstrous, vicious, two-headed bulldog with a faithful bond to the Firelord Ragnaros and his minions. Waves of scorching heat emanate from the core hound's body, and those who engage it with head-on quickly find their weapons rendered useless as each slash and stab melts it all away.
 
-Core hounds are ferocious and unforgivable beings that are immediately hostile towards intruders, they can't be reasoned with and only takes new orders from the Firelord himself or his lieutenants.
+They are are ferocious, unforgivable beings. Hostility toward intruders is always a given, as they are impossible to reason with. They take orders solely from the Firelord's rank and file, or from the Firelord himself.
 
 ### Dark Iron Hound
-The dark iron hound are smaller, one headed, core hounds often seen accompanying the dark iron dwarves who live within the Blackrock Mountain. These hounds are much less ferocious and do not emanate nearly as much heat as a fully grown core hound.
+A dark iron hounds is smaller, one headed, core hound. They are often seen accompanying the dark iron dwarves who dwell within Blackrock Mountain.
+
+These hounds are often used as mounts by the dark iron dwarves that keep them, though they do not take well to others.
 
 A dark iron hound can be used as a mount by creatures of Medium or smaller size, although they are not fond of carrying creatures other than dark iron dwarves.
 
