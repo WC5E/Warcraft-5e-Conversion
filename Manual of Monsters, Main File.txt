@@ -314,24 +314,24 @@
 <div style="text-align:Right"> 
 
 ## Foreword </div>
-We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of Dungeons & Dragons. It is a task that has taken us months to do, and many more to come as we continue to work on this in our spare time, in the hopes of bringing a genuine recreation of Warcraft into a tabletop game.
+We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of Dungeons & Dragons. It is a task that has taken us months to do, and it'll likely take many more still. Everyone involved are working this in their spare time, aiming to bring a genuine recreation of *Warcraft* as a D&D 5th Edition tabletop RPG.
 
-This book is made to compliment Dungeons & Dragons 5th edition **Player's Handbook, Dungeon Master's Guide**, and **Monster Manuals**. Using the rules presented in those books, and balanced around being playable in a standard D&D setting without requiring balancing.
+This book is made to compliment official D&D 5th edition books, including the **Player's Handbook, Dungeon Master's Guide**, and **Monster Manual**. It has been built on the framework set by those books, and designed to be brought in as any supplement book would. Without any more work than to just use the material presented.
 
-It has been written with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe in a Dungeons & Dragons format. Not for any monetary gain.
+It has been written with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe under D&D 5th Edition rules. Not for any monetary gain.
 
 With each coming update, all changes will be noted in the Changelog — Link is provided below.
 <div style='margin-top:-5px;'></div>
-<div style="text-align:Center"> 
+<div style="text-align:Center">
 
 #### [ChangeLog](https://drive.google.com/open?id=1487fO7RPdUbloD7NY6mdCC-yFwsU4yFHOUQ4CBqX9mE)
 </div>
 
 <br> **Heroes Handbook**
 <br><span style="margin-left:12px"></span> Did you know that we have a Heroes Handbook as well 
-<br><span style="margin-left:12px"></span> to go along side this Manual of Monsters?! A fully fleshed 
-<br><span style="margin-left:12px"></span> player handbook bringing all the races and classes from 
-<br><span style="margin-left:12px"></span> World of Warcraft into Dungeons and Dragons!
+<br><span style="margin-left:12px"></span> to go alongside the Manual of Monsters? A fully fleshed- 
+<br><span style="margin-left:12px"></span> out player book, bringing with it all the races and classes 
+<br><span style="margin-left:12px"></span>  from World of Warcraft!
 <div style='margin-top:-5px;'></div>
 <div style="text-align:Center"> 
 
@@ -340,12 +340,12 @@ With each coming update, all changes will be noted in the Changelog — Link is 
 
 <br> **Want to help grow a community?**
 <br><span style="margin-left:12px"></span> We're a relatively small group working together on this, 
-<br><span style="margin-left:12px"></span> and as such our ability to playtest all of this is limited in 
-<br><span style="margin-left:12px"></span> scope. If you want to help this project, improve and 
-<br><span style="margin-left:12px"></span> balance what's inside its books, suggest changes, or talk 
-<br><span style="margin-left:12px"></span> with us and others using the project to create a Warcraft 
-<br><span style="margin-left:12px"></span> campaign, we have both an active discord server and a
-<br><span style="margin-left:12px"></span> subreddit dedicated to this project! — Links below!
+<br><span style="margin-left:12px"></span> and as such our ability to playtest all of it is limited. 
+<br><span style="margin-left:12px"></span> If you want to help the project out and give feedback,
+<br><span style="margin-left:12px"></span> suggest changes and new features for the books, or 
+<br><span style="margin-left:12px"></span> simply just join our growing Warcraft RPG community, 
+<br><span style="margin-left:12px"></span> we have both an active discord server and a subreddit 
+<br><span style="margin-left:12px"></span> dedicated to this project! — Links below!
 <div style='margin-top:-5px;'></div>
 <div style="text-align:Center"> 
 
