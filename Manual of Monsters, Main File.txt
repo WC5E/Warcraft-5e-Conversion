@@ -2077,7 +2077,7 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:160px;'></div>
+<div style='margin-top:140px;'></div>
 
 ## Elementals
 
@@ -2086,6 +2086,10 @@ Elementals are as ageless as they are unchanging; volatile beings of raw element
 ***Bound to the Elemental Plane.*** On Azeroth, as the titanic Keepers saw to the ordering of the world, they found the elementals wreaking havoc under the corrupting influence of the Old Gods. As a safeguard, to protect their intended new denizens of the planet from such a destructive force, the Keepers constructed the Elemental Plane as a prison in which the elementals could be locked away, free to roam at their own behest. In their absence, the Keepers could tend to their task at hand; settling the natural order of Azeroth.
 
 The Elemental Plane is divided into four interlinked regions, each existing within its own pocket dimension as a representation of its associated element: The Abyssal Maw, domain of water; Deepholm, domain of earth; the Firelands, domain of fire; and Skywall, domain of air.
+
+\columnbreak
+
+<div style='margin-top:140px;'></div>
 
 ***An Eternity of Conflict.*** Though the domains within the Elemental Plane are intended to be sealed off, none of them accessible from the others, the elementals have never ceased their endless strife with one another. By what means they can, whether by breaching the walls of their domain to invade another or by taking their conflict to the physical plane with the help of mortal hands, the elementals are quick to clash as they meet -- sometimes waging battles of titanic proprtions.
 
@@ -2097,9 +2101,15 @@ Carrying out the bidding of the Elemental Lords are their lieutenants. While now
 
 ***Elemental Nature.*** A elemental doesn't require air, food, drink, or sleep.
 
-\columnbreak
+<div class='letterheader'></div>
+<div class="mmletter mml-e"></div>
+<div class="pageLetter">E</div>
+<div class='footnote'>ELEMENTALS </div>
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
-<div style='margin-top:125px;'></div>
+\pagebreakNum
+
+<div style='margin-top:140px;'></div>
 
 ### Air Elemental
 Taking form as a swirling storm, or a billowing cloud given faint humanoid shape, an air elemental holds command of wind and weather. Fast and silent, it strikes out by enveloping its foes in a blinding whirlwind to seize the upper hand.
@@ -2118,6 +2128,10 @@ Manifest from frozen water, ice elementals share domain and allegiance with othe
 
 ### Water Elemental
 A favoured companion among mages, human mages in particular, a water elemental is near impossible to discern while underwater. If able, it often attempts to deal with threats by luring them along into the water -- and from there, drag them along into the murky depths.
+
+\columnbreak
+
+<div style='margin-top:740px;'></div>
 
 > ##### Variant: Elemental Revenant
 > An elemental revenant is a furious elemental being that has manifested itself with a crude suit of armor for protection.
