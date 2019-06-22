@@ -1551,7 +1551,7 @@ ___
 <div style='margin-top:355px;'></div>
 
 ## Core Hounds
-Most who venture to the Blackrock Mountain would rather face a squad of orcs than confront a single core hound. These hulking bulldogs drip of magma as they trail, guard&shy;ing the molten core of the black mountain -- as well as the scorched earth of the lands around.
+Most who venture to Blackrock Mountain would rather face a squad of orcs than confront a single core hound. These hulking bulldogs drip of magma as they trail, guard&shy;ing the molten core of the black mountain -- as well as the scorched earth of the lands around.
 
 A core hound's body is covered in thick, sweltering metal plates, with streaks of fire running the length of its back. Its mouth is filled with rows of sharp teeth, said to be hotter than white-hot steel.
 
@@ -1834,27 +1834,52 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:160px;'></div>
+<div style='margin-top:100px;'></div>
 
 ## Dwarves: Dark Iron
-Known for their fiery tempers and fierce determination, the Dark iron have a history of strife with the other dwarven clans, as well as their own kin. The dark iron dwarves have been twisted by the influence of Ragnaros the Firelord, making them greedy, cruel, and despotic.
+Known for their fiery tempers and fierce determination, the Dark Iron clan of dwarves has a history of strife with the other dwarven clans, as well as within their own ranks. Twisted by the influence of Ragnaros the Firelord, they are a greedy, cruel, and despotic kind.
 
-Most dark iron have fiery or black hair that trickles with the flake of embers and dark gray skin. They wear clothes that prominent displays their stature in drab dark colors, along with ornate jewelry.
+Most dark iron dwarves have hair as red as fire or black as coal, trickling with ember flakes, and skin the colour of ash. Though their clothes are drab and dark, their ornate style and lavish jewelry is a prominent display of status.
 
-***Influence of the Firelord.*** As the combined forces of Ironforge and Grim Batol marched upon the dark iron dwarves, their leader Thaurissan attempted to summon an ancient power sleeping beneath the mountains of Redridge unbeknownst to what he would awaken. Freed by the Dark Irons frantic attempt to survive, Ragnaros erupted from his elemental prison, creating a raging volcano at the center of devastation. The volcano, known as Blackrock Mountain, would become the residence of those of the Dark Irons who survived and were ultimately enslaved by the Firelord and his elementals.
+***Legacy of Thaurissan.*** In ages past, the Dark Iron clan cut out their own from the Bronzebeard clan of Ironforge and the Wildhammer clan of Grim Batol. Sworn to revenge on his dwarven king, the Sorcerer-Thane Thaurissan and his wife Modgud led their clansfolk to the southern borders of Khaz Modan, into the far-reaching stretches of the Redridge Mountains.
 
-***Born in Flames.*** Like other dwarves, dark iron dwarves have strong constitution. Adding to their physical stamina an incredible affinity towards fire resulting from their time influenced by Ragnaros the Firelord.
+There, founding the city of Thaurissan, the clan let their hatred seethe and and their forces swell, before they ultimately led a two-pronged assault on both Ironforge and Grim Batol. Thaurissan himself was routed by the Bronzebeards at Ironforge and his wife saw her end to the Wildhammers at Grim Batol. The Dark Iron clan fled back to their home in the Redridge Mountains, where they were ultimately cornered by their dwarven kin -- intent to wipe Thaurissan's legacy from the continent.
 
-***Conflicted Kin.*** The dark iron dwarves have long had conflicts with the other dwarven clans. A failed coup in Ironforge ignited the War of the Three Hammers which only stirred the hatred towards the secluded dwarves. The Dark Iron are as split between themselves as they are with the rest of their kin, and open conflicts between indepen&shy;dent organizations is a common occurrence.
+***Rise of the Firelord.*** To avoid a seemingly inevitable defeat, Thaurissan attempted to summon forth and ancient power that had been left sleeping beneath the earth. What he brought forth was the Firelord, Ragnaros, once locked away by the Titans when the world was still young.
+
+The towering elemental Lord rose forth, unleashed from his prison, in an apocalyptic rebirth that shattered the Redridge Mountains. At the center of the devastation, a volcano rose forth to spew ash and molten rock across the land. This volcano became known as Blackrock Mountain. The smoldering crater of destruction to its north became known as the Searing Gorge, while the lifeless reaches to its south became the Burning Steppes.
+
+Though Sorcerer-Thane Thaurissan himself was killed in the eruption, both the legacy of his name and the legacy of his surviving clansfolk have lived on. Enslaved by the Ragnaros the Firelord and his elemental hordes.
+
+***Shadowforge City.*** For decades on after, the Dark Iron clan lived in servitude to their elemental master. Not as thralls in chains, but as devoted warriors under the Firelord's scalding banner. Following on in the footsteps the Sorcerer-Thane's legacy was the son of him and his wife Modgud; Dagran Thaurissan, crowned emperor of the Dark Iron clan and their new home beneath Blackrock Mountain -- Shadowforge City.
+
+<div class="pageLetter">D</div>
+<div class='footnote'>DWARVES: DARK IRON </div>
+
+\pagebreakNum
+
+<div style='margin-top:290px;'></div>
+
+***Born in Flames.*** Like other dwarves, dark iron dwarves have strong constitution. Adding to their formidable stamina is an incredible affinity to fire -- a gift granted to them by their long servitude to Ragnaros the Firelord. 
+
+Though fire can still harm them, the soot-stained skin of a dark iron dwarf shields them well from the smoldering fires at the heart of Blackrock Mountain.
+
+***Conflicted Kin.*** The dark iron dwarves have long nurtured conflict with the other dwarven clans. A failed coup in Ironforge ignited the War of the Three Hammers, which in turn became the catalyst that ultimately brought forth Ragnaros. Worse still, the dwarves remain as split within their own ranks as they are with the other clans. 
+
+Open conflicts between independent groups and splintered factions is a common occurrence within the blackened halls beneath the mountain.
 
 ### Dark Iron Sorcerer
-Privileged dark iron dwarves who lack the strength to train as warriors pursue the study of magic to harness the fire that blazes within them. These sorcerers have become core to Dark Irons societies for their affinity towards fiery magic that can be harnessed in the daily tasks of Dark Irons.
+For those among the dark iron dwarves who lack the strength to train as warriors, a few hold the privilige to instead pursue the study of magic. Sorcerers within the Dark Iron clan have unlocked the power to harness their inner fire, and even yield some control of the mountain's elemental forces from their master. This power seats them at the heart of clan.
 
 ### Dark Iron Overseer
-The Dark Iron Overseers runs the day to day business of a society, these stern Dark Irons are few in numbers but make for powerful foes. They oversee vast legions of Dark Irons as their tireless work continues and command other dark iron dwarves with a hateful smile on their face.
+The Dark Iron Overseers keep the daily operations of the clan's numerous prospects -- both within Blackrock Mountain and out across the surrounding landscape. The Searing Gorge, in particular, has proven beyond valuable for its mithril and truesilver.
+
+As the tireless work of the dark iron work drudges on, the overseers stand with hateful smiles on their faces, cracking the whips that drive their labouring thralls forward.
 
 ### Dark Iron Herald
-Heralds stand at the pinnacle of Dark Iron societies, they are the voice of their kin and many of them lead with an iron fist. A dark Iron Herald is capable of wielding the fiery temper within all Dark Irons to an extreme, capable of weaving powerful spells and conjure servants of the Firelord to their aid.
+Heralds stand at the pinnacle of dark iron society. They are the voice of their kin, the mouth through which the Firelord enacts his will upon the dwarves. Their presence alone brings forth the fiery temper that has become the clan's legacy; driving dwarves around them to fanatical extremes. 
+
+To this end, they have been bestowed with the power to weave devastating spells and conjure forth the Firelord's minions to their own aid. 
 
 \columnbreak
 
