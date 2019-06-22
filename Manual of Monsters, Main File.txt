@@ -2592,7 +2592,7 @@ ___
 <div class='footnote'>FURBOLG </div>
 <img src='https://www.gmbinder.com/images/RK0T5LI.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/nkD6PUz.png' style='position:absolute; top:-40px; right:0px; width:930px;transform:scaley(-1)' />
-<img src='https://www.gmbinder.com/images/Dn83KUf.png ' style='position:absolute; top:-20px; right:-70px; width:500px' />
+<img src="https://www.gmbinder.com/images/Dn83KUf.png " style="position:absolute;top: 0px;right: -52px;width: 480px;">
 
 \pagebreakNum
 
