@@ -102,7 +102,7 @@
 <div class='cover-splotch'></div>
 
 <style> .phb#p1:after { display:none; } </style>
-<img src='https://www.gmbinder.com/images/IlfdPbF.jpg' style='position:absolute; top:0px; right:-100px; width:1000px' />
+<img src='https://www.gmbinder.com/images/0PdNsAt.jpg' style='position:absolute; top:-80px; right:-500px; width:2000px' />
 <img src='https://www.gmbinder.com/images/3d9m32D.png' style='position:absolute; top:1000px; right:675px; width:100px' />
 <img src='https://www.gmbinder.com/images/KXbAfyN.png' style='position:absolute; top:980px; right:56px; width:700px' />
 <img src='https://www.gmbinder.com/images/0fKd9bC.png' style='position:absolute; top:80px; right:40px; width:700px' />
@@ -117,10 +117,9 @@
 <br> **Lead Designer:** Jih
 <br> **Writing & Editing:** Jih, Tangerine
 
-<br> **Additional Contributors:** Prometheus, Reiga, Wyken, 
-<br> <span style="margin-left:12px"></span> ClockWorkTank, 123jrf, ApolloLumina
+<br> **Additional Contributors:** Our Discord Community
 
-<br> **Cover Illusrator:** Robert Maldonado
+<br> **Cover Illustrator:** Kan Liu
 <br> **Interior Illustrators:** Aaron Lovett, Adel Khanov, Alex 
 <br><span style="margin-left:12px"></span> Garner, Anastasiya Gafron, Anna Pazyniuk, Anthony 
 <br><span style="margin-left:12px"></span> Avon, Artlon, Astri Lohne, Bren Rodri, Brian Huang, Dan 
