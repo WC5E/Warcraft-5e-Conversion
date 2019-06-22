@@ -7811,7 +7811,7 @@ Delayed Blast Fireball
 <br> ✦ Glacial Spike
 <br> Mordenkainen's <br>&nbsp;&nbsp;&nbsp; Magnificent Mansion
 <br> Project Image
-<br> ✦ Pyreblast
+<br> ✦ Pyroblast
 <br> Sequester
 <br> Teleport
 
