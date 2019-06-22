@@ -2148,10 +2148,6 @@ A favoured companion among mages, human mages in particular, a water elemental i
 
 \pagebreakNum
 
-
-
-\columnbreak
-
 <div style='margin-top:313px;'></div>
 
 ___
