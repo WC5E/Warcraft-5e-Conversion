@@ -2520,7 +2520,7 @@ Though the exact origin of these monstrous aberrations is unknown, the theories 
 
 ***Parasitic Brood.*** Fleshbeasts are decidedly mindless, acting entirely on instinct. They hunt by flocking together in large swarms, overpowering their prey and consuming it, sometimes while it is still alive. Even after the fleshbeast has had its fill, most of the victim will still be left behind intact -- a perfect nesting ground for their wormlike spawn, who will later devour the remains as they hatch.
 
-Other predators attempting to scavenge remains left behind by a fleshbeast will most likely be infected as well, and later eventually devoured by the hatchlings.
+Other predators attempting to scavenge remains left behind by a fleshbeast will most likely be infected as well, and later devoured by the hatchlings.
 
 <div class="pageLetter">F</div>
 <div class='footnote'>Fleshbeast </div>
