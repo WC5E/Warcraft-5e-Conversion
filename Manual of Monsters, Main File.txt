@@ -2414,12 +2414,25 @@ Zoatroids have found a second home among the Naga, saiding their serpentine alli
 > ##### Variant: Royal Zoatroid
 > A royal zoatroid has a challenge ration of 6 (2,300 XP). It has the same statistics as a zoatroid except that it adds its Wisdom modifier to its Armor Class (AC 17) and gains the following additional trait:
 >
-> <br>&nbsp;&nbsp; ***Magic Resistance.*** The zoatroid has advantage on <br>&nbsp;&nbsp; saves against spells and other magical effects.
+> <br>&nbsp;&nbsp; ***Magic Resistance.*** The zoatroid has advantage on 
+<br>&nbsp;&nbsp; saves against spells and other magical effects.
 >
 > <br>The royal zoatroid has the following action option in place of the zoatroid's Enslave:
 >
-> <br>&nbsp;&nbsp; ***Dominate (Recharge 6).*** One humanoid grappled <br>&nbsp;&nbsp; by the zoatroid must succeed on a DC 13 Wisdom <br>&nbsp;&nbsp; saving throw or be dominated by the zoatroid: the <br>&nbsp;&nbsp; dominated target goes on the zoatroids initiative, <br>&nbsp;&nbsp; it controls the target using its action. The domi-<br>&nbsp;&nbsp; nate deprives the target of its vision but not its <br>&nbsp;&nbsp; awareness. The royal zoatroid can be targeted by <br>&nbsp;&nbsp; attacks, spells, and other effects but any attack roll <br>&nbsp;&nbsp; that misses the zoatroid  automatically hits its <br>&nbsp;&nbsp; dominated target.
-> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The domination lasts until the target drops to 0 <br>&nbsp;&nbsp; hit points, the zoatroid ends it as a bonus action, <br>&nbsp;&nbsp; or a creature uses their action to attempt a <br>&nbsp;&nbsp; grapple check contested by the zoatroid.
+> <br>&nbsp;&nbsp; ***Dominate (Recharge 6).*** One humanoid grappled 
+<br>&nbsp;&nbsp; by the zoatroid must succeed on a DC 13 Wisdom 
+<br>&nbsp;&nbsp; saving throw or be dominated by the zoatroid: the 
+<br>&nbsp;&nbsp; dominated target goes on the zoatroids initiative, 
+<br>&nbsp;&nbsp; it controls the target using its action. The *Domi-*
+<br>&nbsp;&nbsp; *nate* deprives the target of its vision but not its 
+<br>&nbsp;&nbsp; awareness. The royal zoatroid can be targeted by 
+<br>&nbsp;&nbsp; attacks, spells, and other effects but any attack roll 
+<br>&nbsp;&nbsp; that misses the zoatroid automatically hits its 
+<br>&nbsp;&nbsp; dominated target.
+> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The domination lasts until the target drops to 0 
+<br>&nbsp;&nbsp; hit points, the zoatroid ends it as a bonus action, 
+<br>&nbsp;&nbsp; or a creature uses their action to attempt a 
+<br>&nbsp;&nbsp; grapple check contested by the zoatroid.
 
 <div class='statblock-bottom-wide'>
 
