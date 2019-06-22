@@ -2377,22 +2377,28 @@ ___
 <div style='margin-top:140px;'></div>
 
 ## Faceless Ones
-The faceless ones are a monstrous race that arose from the organic matter seeping out from the blighted forms of the old gods. Cunning and intelligent, they serve their eldritch masters with fanatical loyalty and are known across the world to be virtually unstoppable juggernauts.
+The faceless ones are a monstrous kin, brought forth from the organic matter that seeped away from the Old Gods in primordial times, before the Titans brought about the ordering of Azeroth. Cunning and intelligent, they serve their eldritch masters with fanatical devotion. Tales of their unspeakable deeds paint them as unstoppable juggernauts.
 
-***Spawn of the Old Gods.*** The old gods creates faceless ones through the essence that seeps from their mighty prisons. Some are unique monstrosities, while others represent uniform strains virtually identical to each other. They are all spawns of the old gods and their loyalty towards them is unquestionable, these faceless servants cannot be turned from their evil ways and will do anything they are commanded by their powerful creators.
+***Spawn of the Old Gods.*** The faceless ones are the creation of the Old Gods, in the most literal sense of the word. They are shaped from the Old Gods' own flesh and blood; trickled from their eternal prisons through the core of the planet, like bile through the gutters.
 
-***Unexpected Allies.*** These eldritch horrors are not innumerable, but their forces are powerful and what they lack in power is regained through the beings around them that they corrupt. The faceless  ones have gained valuable allies such as the Naga's, but they have also turned the most loyal of races against itself for their own benefit.
+Some of these aberrations are unique, while others are so unfirom as to be virtually identical. They are all loyal to the gods that spawned them forth, unwavering in their devotion to the will of their creators.
 
-A faceless is never alone, they always have allies close by to command or creatures whose mind they have twisted into submission at their side.
+***Unexpected Allies.*** These eldritch horrors are powerful, but not innumerable. What they lack in either is quickly recouped by corrupting other beings that happen in their path. Even a faceless one on its own is almost guaranteed to never truly be alone.
 
-***Beings of Corruption.*** Faceless ones carry the stain of the old god's corruption with them, and their mere presence changes the world for the worse. They taint the creatures around them, slowly twisting their minds and turning them against one another. Making the creatures paranoid of those they once trusted most dearly, or directly dominating their mind in an attempt to gain complete control over its body.
+The faceless ones keep a few valuable allies, such as the Naga, while simultaneously seeding hatred and distrust even among the most loyal of factions.
 
-***Return of the Black Empire.*** The old gods once ruled over all of Azeroth in a time long before the mortal races first appeared its face. They long for the return of their mighty empire and use their faceless servants as a means to an end, preparing the world for their return by turning it against itself so that they can break free and take control.
+***Corrupting Presence.*** Faceless ones carry the stain of the Old Gods with the, wherever they go, and their presence alone can change things for the worse. Life is tainted in their wake, slowly twisted around as friends become foes and alliances dissolve into bitter hatred.
+
+Whether by instilling paranoia or asserting dominance directly, the faceless ones will always seek to divide and conquer.
+
+***Return of the Black Empire.*** The Old Gods once ruled over Azeroth, in a time long before mortal races saw the light of day. Locked away by the Titans, they have long ever since to return to power -- an end to which their faceless severants are the means by which they act.
+
+Long have they sown the seeds of corruption, turning the denizens of the world against one another, so that they can break free and seize control once more.
 
 ### Zoatroid
-Many would see the small squid-like zoatroid as an inconsequential creature and much less of a danger than the towering n'raqi. These small merciless creatures latch onto the face of their target and penetrate their mind in an attempt to gain complete control of its actions.
+Many would see the small, squid-like zoatroid as utterly inconsequential. Nowhere near as dangerous as the towering n'raqi. Fools are those who underestimate them, as these merciless critters hunt to gain complete of their victims -- which they do by latching onto the face of a suitable target in order to bore into its mind.
 
-Zoatroids have found a second home in the ranks of the naga's and while their serpentine allies are being push back against enemies, the zoatroid begins to turn the enemy against itself. Most zoatroids are only able to control the body of a creature, but some have grown to such strength as to take full control of a creature and its mind.
+Zoatroids have found a second home among the Naga, saiding their serpentine allies by infiltrating and corrupting their enemies. Some zoatroids are only able to seize control of a creature's body, while others are able to claim both body and mind as their own.
 
 <div class='letterheader'></div>
 <div class="mmletter mml-f"></div>
