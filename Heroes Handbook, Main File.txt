@@ -9511,28 +9511,24 @@ ___
 \pagebreakNum
 
 # Appendix D: Special Tasks
-Prestige classes require special tasks to be completed before a character can enter that class, this Appendix tries to explain the basics of what must be done for someone to become a Death Knight, or Demon Hunter. Bare in mind the information here is a mixture of canon and non-canon lore, and may not reflect how your DM goes about these tasks. 
+Prestige classes require special tasks to be completed before a character can enter that class, this Appendix tries to explain the basics of what must be done for someone to become a Death Knight, or Demon Hunter. Please keep in mind that the information presented here is our interpretation of how these tasks could be accomplished and is a mixture of both canon and non-canon lore.
 
 ## Death Knight Task
 **Complete a Special Task.** To become a death knight you must find the dark simulacrum and perform the ritual presented in it. At which point you will be reawaken as a weak death knight.
 
 #### Finding the Dark Simulacrum
-Finding the dark simulacrum may prove an easy task, or an exceptionally hard one. It all depends on the DM and when they decide to make the item available for you. You might have it from level 1, an heirloom passed down through generations in your family, you may stumble upon it in a warlocks lair, or you might find it in a book store tucked away and gathering dust.
-
-The exact location of the book is a mystery to all but the DM, giving them the ability to implement it in whichever way they see fit.
+Finding the *dark simulacrum* may prove an easy task, or an exceptionally hard one to accomplish. It all depends on your DM and when they decide for the book to make its appearance. You might already have it at level 1, an ancient tome passed down through your family, you might stumble upon it the lair of a necromancer, or you might find it in a bookstore — tucked away and gathering dust.
 
 #### Using the Book
-There is not stages to becoming a death knight as there are with demon hunters, the transformation is much quicker and without as much preparation required. Any character able to read Common is able to read the interior of the book, and gain its benefits if they study it for 48 hours over a period of 6 days or fewer. This is true even if you are not a spellcaster and don't have any innate magic, you will still be granted the secrets of the book.
+There are no stages a character need to pass through to become a death knight, it is a transformation that can be accomplished without much preparation if the character knows how the rituals of the simulacrum works. Any character able to read Common can read the content of the book and learn the rituals presented with. This is true even if you are not a spellcaster or don't have any innate magic. The book will still grant you its secrets in due time.
 
 #### Place of Power
-A place of power can be many things, there are not set list of specifics an area has to have to be a place a power, it could easily be a witches workshop, a necromancers demonic alter, or a mages study. These are simple places of power able to be found across Azeroth, but they might not always be available to the player, locked away or hidden. A place of power can be more than a spellcasters workshop. For a night elf it might be the world trees, for an orc the clans communion with the elements, for a human it might be a church to the Holy Light.
-
-A place of power can be more than something magically imbued, or something that has traces of past magic. It can be something icnoic, or with an emotional connection to a race or the player.
+A place of power could by many things, there is not a list of specifics an area needs to fulfill to be a place of power. It could easily be a witch's workshop, a warlocks demonic alter, or the study of a prominent mage. These are simple places of power that can be found throughout Azeroth, but a place of power does not need to be the retreat of a spell&shy;caster. It can be somewhere where a connection can be drawn for the race or player, like the moonwells or world trees of the world for a night elf or the peaks of Mulgore where tauren commune with the spirits.
 
 #### A Guardian Angel
-To complete the ritual the player must call forth a val'kyr from the realm of shadows, these ascended vrykuls are remarkable and extraordinarily powerful creatures, most of whom serve either the titan keeper Odyn or the banshee queen Sylvanas. The called val'kul serves no master, and exists only through the book, should it be destroyed she is bound to the shadow realm for eternity.
+To complete the ritual the player calls forth a val'kyr from the realm of shadows, these ascended vrykuls are remark&shy;able and extraordinarily powerful creatures, most of whom serve either the titan keeper Odyn, the Lich King, or the banshee queen Sylvanas. The summoned val'kyr serves no master and exists only through the simulacrum. Should the book be destroyed the val'kyr will vanquish for all eternity.
 
-The val'kyr's alignment is neutral, and it uses the **deva** statblock, attacking only in self defense.
+The val'kyr is of *true neutral* alignment, and uses the **planetar** stat block. She attacks only in self defense.
 
 \columnbreak
 
@@ -9540,7 +9536,9 @@ The val'kyr's alignment is neutral, and it uses the **deva** statblock, attackin
 *Wondrous item, rare*
 <div style='margin-top:-4px;'></div>
 
-This dark brown tome clad with a silver edge and a runic engraving on its front cover. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, you learn the spells *Runeblade*, *Altar of Power*, and *Summon Val'kyr* as well as how to per-form a ritual with them to gain death knights power, these spells do not take up spell slots but can only be cast once per long rest each. Once the ritual has been done, you lose all memories of these spells. Then the tome loses its magic, but regains it in a year.
+This dark brown tome is clad with a silver edge and engraved with a runic symbol on its cover. If you spend 48 hours over a period of 6 days or fewer studying the book's content and practicing its guidelines, you learn the *Alter of Power*, *Runeblade*, and *Summon Val'kyr* spells as well as how to perform a ritual with them to gain the power of a death knight. These spells do not require a spell slot and can each be cast once per long rest.
+
+Should you be successful in performing the rituals within and gain the powers of a death knight, the tome loses its magic and any creature able to perform the rituals within lose all memories of how the spells are performed.
 
 #### Altar of Power
 *Simulacrum necromancy*
@@ -9550,7 +9548,7 @@ ___
 - **Components:** V, S
 - **Duration:** 1 hour
 ___
-You touch a place of power, filling it with necrotic energy. Until the spells ends, the place of power is desecrated and able to function as an alter able to be used in the sacrificial ritual to gain the powers of the death knights.
+You touch a place of power, filling it with necrotic energy. Until the spells ends, the place of power is desecrated and able to function as an alter for the sacrificial ritual needed to gain the powers of a death knight.
 
 #### Runeblade
 *Simulacrum enchantment*
@@ -9560,7 +9558,7 @@ ___
 - **Components:** V, S
 - **Duration:** 10 hours
 ___
-You touch a nonmagical weapon, imbuing it with runes that runs along its edge. Until the spell ends, that weapon be-comes a magical weapon able to be used in the sacrificial ritual to gain the powers of the death knights.
+You touch a weapon, imbuing it with runes. Until the spell ends, the weapon is considered a magical weapon and is able to be used in the sacrificial ritual needed to gain the powers of a death knight.
 
 #### Summon Val'kyr
 *Simulacrum conjuration*
@@ -9570,13 +9568,11 @@ ___
 - **Components:** V, S
 - **Duration:** 1 hour
 ___
-You call forth a val'kyr from the shadow realm in an un-occupied space that you can see within range. The val'kyr stays for 1 hour before disappearing again. The summoned val'kyr is neutral to you and your companions, and does not obey any commands you might give it. But is able to sense the presence of a magically imbued runeblade, and a desecrated altar of power.
+You call forth the val'kyr from the shadowlands in an empty space within range. The val'kyr stays for 1 hour before dissipating into the shadows. The summoned val'kyr is neutral to you and your companions and does not obey any commands you might give it. The val'kyr is able to sense the presence of a magically imbued  runeblade, and a desecrated alter of power.
 
-If the val'kyr is witness to player sacrificing themselves on an altar of power using the runeblade, the val'kyr uses 10 minutes to cast a unique version of *resurrection*, bring-ing the player back and granting them a level in the death knight class. The player gains none of the penalties nor-mally granted by players brought back using *resurrection.*
+If the val'kur witnesses a character sacrifice themselves on the alter with the runeblade, the val'kyr uses 10 minutes to cast a unique *resurrection* spell, bringing the character back to life and granting them 1 level in the Death Knight class. The val'kyr and simulacrum then vanishes, and any character who knew how to cast the rituals granted by it loses all memory of how the rituals are performed.
 
-If the val'kyr resurrects a player, the val'kyr and dark simulacrum vanishes, and anyone who knew how to cast the spells granted by the dark simulacrum loses all memory of how the spells are performed.
-
-Once spell ends, the val'kyr vanishes leaving behind the dark simulacrum and the memories of how to cast the spells within.
+If the val'kyr is unable to sense the presence of either the imbued runeblade or a desecrated altar of power, it returns to the shadowlands once the spell ends, leaving behind the book and the memories of how to cast the spells within.
 
 <div class='footnote'>APPENDIX D | SPECIAL TASKS </div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
