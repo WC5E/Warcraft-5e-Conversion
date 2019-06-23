@@ -2156,7 +2156,7 @@ Ten classes — listed in the Classes table — define the average spectrum of h
 | &nbsp;Shaman  |A wielder of elements, calling them to his aid, and bending them to his will.                   | d8 ||Wisdom      || Strength &<br>Wisdom|Light and medium armor, shields, simple and martial weapons|
 | &nbsp;Warlock |A wielder of void and fel magic, gaining power through a secret grimoire.                       | d8 ||Intelligence|| Intelligence & Wisdom|Simple weapons, longswords, rapiers, scimitars, shortswords|
 | &nbsp;Warrior |An exceptional fighter, skilled with a variety of weapons and armor.                            | d10||Strength    || Strength &<br>Constitution|All armor, shields, simple and martial weapons, firearms|
-| &nbsp;Death <br>&nbsp;Knight |A knight of undeath, resurrected by dark powers, wielding sword and magic alike. | d8 ||Strength or Charisma|| Strength|All armor, simple and martial weapons|
+| &nbsp;Death <br>&nbsp;Knight |A knight of undeath, resurrected by dark powers, wielding sword and magic alike. | d10||Strength or Charisma|| Strength|All armor, simple and martial weapons|
 | &nbsp;Demon <br>&nbsp;Hunter |A fighter infused with fel, made for the sole purpose of destryong demons.       | d6 ||Dexterity   || Dexterity|Simple and martial weapons, warglaives|
 </div>
 
