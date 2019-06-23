@@ -4042,7 +4042,7 @@ ___
 ___
 - **Armor:** None
 - **Weapons:** All simple weapons
-- **Tools:** Healer's Kit
+- **Tools:** Herbalism kit
 ___
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
@@ -4051,7 +4051,7 @@ ___
 You start with the following equipment, in addition to the equipment granted by your background:
  - *(a)* a mace or *(b)* a quarterstaff
  - *(a)* a priest's pack or *(b)* an explorer's pack
- - a holy symbol, and two daggers
+ - a holy symbol, a herbalism kit, and two daggers
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
