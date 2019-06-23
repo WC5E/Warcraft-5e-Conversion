@@ -3371,7 +3371,7 @@ As you make your monk character, think about your connection to the monastery wh
 Consider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Arc you eager to return to your home? As a result of the structured life of a monastic community and the discipline required to harness chi, monks are almost always lawful in alignment.
 
 #### Quick Build
-You can make a monk quickly by following these sugges-tions. First, make Dexterity your highest ability score, followed by Wisdom. (Mistweaving monks make their Wisdom higher than Dexterity).
+You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom.
 
 \columnbreak
 
@@ -3420,7 +3420,7 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 ### Chi
 Starting at 2nd level, your training allows you to harness the mystic energy of chi. Your access to this energy is represented by a number of chi points. Your monk level determines the number of points you have, as shown in the Chi Points column of the Monk table.
 
-You can spend these points to fuel various chi features. You start knowing four such features: Flurry of Blows, Patient Defense, Step of the Wind, and Surging Mist. You learn more chi features as you gain levels in this class.
+You can spend these points to fuel various chi features. You start knowing four such features: Fists of Fury, Elusive Dance, Step of the Wind, and Effuse. You learn more chi features as you gain levels in this class.
 
 When you spend a chi point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended chi back into yourself. You must spend 30 minutes of the rest meditating to regain your chi points.
 
