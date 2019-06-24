@@ -3095,7 +3095,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 > 11 (+0)|13 (+1)|12 (+1)|6 (-2)|10 (+0)|7 (-2)|
 > ___  
-> - **Senses** darkvision 60 ft. passive Perception 10  
+> - **Senses** darkvision 60 ft., passive Perception 10  
 > - **Languages** Low Common, Gnoll  
 > - **Challenge** 1/2 (100 XP)  
 > ___
@@ -3122,7 +3122,7 @@ ___
 > 15 (+2)|13 (+1)|14 (+2)|6 (-2)|10 (+0)|7 (-2)|
 > ___  
 > - **Skills** Perception +2
-> - **Senses** darkvision 60 ft. passive Perception 12  
+> - **Senses** darkvision 60 ft., passive Perception 12  
 > - **Languages** Low Common, Gnoll  
 > - **Challenge** 1 (200 XP)
 > ___
@@ -3158,7 +3158,7 @@ ___
 > 10 (+0)|13 (+1)|12 (+1)|6 (-2)|14 (+2)|9 (-1)|
 > ___  
 > - **Skills** Insight +2, Perception +4, Deception +4
-> - **Senses** darkvision 60 ft. passive Perception 14  
+> - **Senses** darkvision 60 ft., passive Perception 14  
 > - **Languages** Low Common, Gnoll  
 > - **Challenge** 1 (200 XP)
 > ___
@@ -3191,7 +3191,7 @@ ___
 > 17 (+3)|14 (+2)|15 (+2)|9 (-1)|12 (+1)|13 (+1)|
 > ___  
 > - **Skills** Athletics +5, Survival +3, Intimidation +3
-> - **Senses** darkvision 60 ft. passive Perception 11  
+> - **Senses** darkvision 60 ft., passive Perception 11  
 > - **Languages** Low Common, Gnoll  
 > - **Challenge** 3 (700 XP)
 > ___
