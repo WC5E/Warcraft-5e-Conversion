@@ -2601,21 +2601,21 @@ ___
 ## Ghosts
 While most mortal souls eventually find their way to the Shadowlands, not all who have died manage to find rest. Some are unwillingly bound to roam the trackless wastes that exist between the Shadowlands and the physical world, appearing in the latter as ghostly apparitions as they search for release from their endless suffering.
 
-***Existing Between Worlds.*** There are many reasons as for why a soul might remain, including curses and deliberate magical entrapment, though most prevalent is a sheer unwillingness to abandon the physical realm -- also known as the Material Plane -- for the realm of spirits. A person whose life ended abruptly at the hands of someone else, may be likely to return as a malevolent spectre intent on exacting revenge upon those who did them wrong.
+***Existing Between Worlds.*** There are many reasons for why a soul would remain. Curses and deliberate magical entrapment are both common, though the most prevalent are souls unwilling to abandon the physical realm -- also known as the Material Plane -- for the realm of spirits. A person whose life ended abruptly at the hands of someone else is very likely to return as a malevolent spectre, seeking to exact revenge upon those who did them wrong.
 
-Conversely, other spirits may be unwilling to find rest out of fear for what lies beyond, or for a feeling that their business in life was never properly settled.
+Conversely, other spirits may be unwilling to find rest out of fear for what lies beyond, or for a feeling that their life never really reached its full potential.
 
-***Bitter Resentment.*** It is not uncommon for ghosts, especially those forced to dwell in this state for too long, to grow resentful of the living. Unable to accept their own death and spiteful of those who still live, they often come to foster hatred for warmth, hope, and joy --and the presence of such may well drive them into a murderous frenzy.
+***Bitter Resentment.*** It is not uncommon for ghosts, especially those forced to dwell in this state for too long, to grow resentful of the living. Unable to accept their own death, and envious of those still living, they grow to foster a seething hatred for warmth, hope, and joy. The presence of such may even drive them into a murderous frenzy.
 
-***The Shadowlands.*** Existing since mortal life first walked the universe, the Shadowlands is a realm of existence spanning all known worlds, including Azeroth. Those who have seen it describe it as a nightmarish world of decay, a labyrinth of intertwined spiritual planes all teeming with the souls of the dead.
+***The Shadowlands.*** Shaped before mortal life even walked the universe, the Shadowlands is a realm of existence spanning all known worlds, including Azeroth. Those who have seen it describe it as a nightmarish world of decay; a labyrinth of intertwined spiritual planes all teeming with the souls of the dead.
 
-Many believe this to be the final destination for all mortal souls, into which they are drawn on their point of death and destined to remain forever after, while others choose to hope for their final rest to be brighter -- more pleasant than an eternity languishing such cold and bleak confines.
+Many believe this to be the final destination for all mortal souls. The realm into which they are drawn in death, destined to remain forever after. Others choose to hope for their final rest to be brighter -- more pleasant than an eternity languishing such cold and bleak confines.
 
-Within the Shadowlands, time does not pass as it would elsewhere. Sometimes years outside of the Shadowlands may only seem like days within, and conversely sometimes years may pass by in its bleak wastes without a moment passing in the physical realm. While it may sometimes be near impossible to see what lies ahead inside the Shadowlands, it is possible for those within to hear what is happening outside.
+Within the Shadowlands, time does not pass as it would elsewhere. Sometimes, years outside of the Shadowlands may only seem like days within. Sometimes, a year passed by within this bleak domain takes little more than a minute, or perhaps an hour, in the physical realm. While it it is often next to impossible to see what lies ahead inside the Shadowlands, it is possible for those within to hear whispered fragments of what is happening outside.
 
 It is said that Icecrown, the frozen peak of Northrend and citadel of the Scourge, exists as an anchoring bridge between the Shadowlands and the physical world.
 
-Some of the most prominent beings dwelling in the Shadowlands are regarded as patrons of death among various races; such as the troll Loa of death, Bwonsamdi.
+Some of the most prominent beings dwelling in the Shadowlands are regarded as patrons of death among various races; such as Bwonsamdi, the troll Loa of death.
 
 Also prominent are the Spirit Healers; ascendant Val'kyr who, following the banishment of Helya and the sealing of the Halls of Valor, disappeared into the Shadowlands -- hidden away there, even from the corrupting influence of the Lich King.
 
