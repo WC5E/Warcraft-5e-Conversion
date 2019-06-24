@@ -1350,7 +1350,7 @@ Their names are short and sharp, while tribes draw their name from the first kha
 
 ___
 > ## Centaur
->*Large monstrosity, chaotic evil*
+>*Large humanoid (centaur), chaotic evil*
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 45 (6d10 + 12)
@@ -1384,7 +1384,7 @@ ___
 
 ___
 > ## Centaur Earthcaller
->*Large monstrosity, chaotic evil*
+>*Large humanoid (centaur), chaotic evil*
 > ___
 > - **Armor Class** 13 (leather)
 > - **Hit Points** 52 (7d10 + 14)
@@ -1430,7 +1430,7 @@ ___
 ___
 ___
 > ## Centaur Khan
->*Large monstrosity, chaotic evil*
+>*Large humanoid (centaur), chaotic evil*
 > ___
 > - **Armor Class** 16 (natural armor)
 > - **Hit Points** 105 (11d10 + 44)
