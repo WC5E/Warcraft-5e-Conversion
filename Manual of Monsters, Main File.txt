@@ -2645,43 +2645,43 @@ Also prominent are the Spirit Healers; ascendant Val'kyr who, following the bani
 \pagebreakNum
 
 ### Apparition
-An apparition is a spectral impression whose presence in the Material Plane has been caught in flux with latent energies from a nearby ley line or other font of magical power. As a result, apparitions possess the power to weave their anguish and their resentment into powerful, often harrowing spells.
+An apparition is a spectral impression whose presence in the Material Plane has been caught in flux with the latent energies from a nearby ley line or other font of magical power. As a result, apparitions wield the power to weave their anguish and their resentment into powerful, often harrowing spells.
 
 ### Banshee
-A banshee is the tormented remnant of an elven woman, whose death came to pass in the most gruesome manner -- with the fall of the Highborne, the first coming of the Bur&shy;ning Legion, and the fall of Quel'Thalas all as noteworthy events from which numerous banshees have been made.
+A banshee is the tormented remnant of an elven woman, whose death came to pass in the most gruesome manner -- with the fall of the Highborne, the first coming of the Bur&shy;ning Legion, and the fall of Quel'Thalas all noteworthy events from which banshees have been formed.
 
-Robbed of their elven gift of immortality, the banshees were left to wander the world in tormented silence, until discovered by Ner'zhul, the first Lich King. In return for a promise of servitude to the Scourge, Ner'zhul gifted the banshees their terrible, blood-curdling voice, which they <br> in turn have used to seek vengeance on the living. 
+Robbed of their elven gift of immortality, the banshees were left to wander the world in tormented silence until they were discovered by Ner'zhul, the first Lich King. In return for a promise of servitude to the Scourge, Ner'zhul gifted the banshees their terrible, blood-curdling voice, which they in turn have used to enact their revenge. 
 
-Though some banshees still roam free in their own lamentation, most are still beholden to their bond with the Scourge. Some banshees still, particularly those formed after the fall of Quel'Thalas, have since found new purpose among the Forsaken.
+Though some banshees still roam free in their own lamentation, most remain beholden to their bond with the Scourge. Some banshees, particularly those formed after the fall of Quel'Thalas, have since found new purpose among the Forsaken.
 
 ### Shade
-Shades are much alike other ghosts, in their presence as a disembodied spirit, wandering the reaches between the physical realm and the darkness beyond. This is, however, as far as the similarities go.
+Shades are much alike other ghosts, appearing as disembodied spirits left to wander the reaches between the physical realm and the darkness beyond. This, however, is as far as the similarities go.
 
-While other ghostly beings are the remnants of those still clinging to the physical realm, shades are formed through willing sacrifice -- necromancers sacrificing their acolytes to better serve the undead Scourge.
+While other ghostly beings are the remnants of those unwilling or unable to accept death, shades are formed through willing sacrifice: necromancers offering up their acolytes to better serve the undead Scourge.
 
-Empowered by the Lich King, shades can remain unseen if they will it -- detectable only by powerful magic -- allowing them to act as the eyes and ears of their undead masters.
+Empowered by the Lich King, shades can remain unseen if they will it, detectable only by powerful magic. This allows them to act as the eyes and ears of their undead masters.
 
 ### Spectre
-Much like the banshee, a spectre is the tormented remnant of an elven man, slain by monstrous foes and robbed of their immortality. Though spectres do not possess the anguished screams that were gifted to the banshees by Ner'zhul, they still remain a considerable danger to those who encounter them.
+Much like the banshee, a spectre is the tormented remnant of an elven man, slain by monstrous foes and robbed of their immortality. Though spectres do not possess the anguished screams for which banshees are known and feared, they still remain a considerable danger to those who encounter them.
 
 Driven both by a bitter resentment for the living and by their hubris in death, a spectre may attempt to lure unwary travelers into dangerous traps, waiting for an opportune moment to overpower them and seep away their life force.
 
 ### Wisp
 Wisps are the disembodied spirits of deceased night elves, made one with the forest in their passing. Unlike other ghosts who wander the world in anguish, wisps use their spiritual being to bridge a connection ever closer to the forests where they delve.
 
-Though silent for all but a soft, low humming, wisps are able to communicate with the living. Acting together in unison with the tree-like ancients, they act as guardians and caretakers -- often flourishing around druidic groves.
+Though silent for all but a soft, quiet humming, wisps are able to communicate with the living. Acting together in unison with the tree-like ancients, they act as guardians and caretakers -- often flourishing around druidic groves.
 
 \columnbreak
 
 ### Wraith
-Though commonly beholden to its masters -- whether that be a necromantic cults or the undead Scourge -- wraiths are reputed for retaining most of their intelligence and in&shy;dividuality, even in death. Self-motivated and exception&shy;ally cunning, it is not uncommon for a wrath to act by its own accord even while beholden to a master.
+Though they are beholden to their masters -- whether they necromantic cults or the undead Scourge -- wraiths are notorious for how they retain most of their intelligence and in&shy;dividuality, even in death. Self-motivated and exception&shy;ally cunning, it is not uncommon for a wraith to act by its own accord, in defiance of its master's plan.
 
-Some wraiths may be found holding to the same sense of honour and law as they did in life, and may even be found willing to make deals with the living if prompted. Other wraiths, in turn, carry little more than jealous rage brought on by resentment for their state of being, readily yearning for a chance to visit it upon any unfortunate enough to cross paths with them.
+Some wraiths may be found holding to the same sense of honour and law as they did in life, and may even be willing to negotiate with the living if prompted. Other wraiths, meanwhile, offer little more than a jealous rage for those who approach them. Spurred by a resentment for their undead state, these wraiths readily yearn for a chance to visit their anguish upon any unfortunate enough to cross their path.
 
 ### Ghost Template
-Ghosts are the spectral remnants of intelligent beings who, for one reason or another, cannot rest easily in their graves. A ghost greatly resembles its corporeal form in life, but in some cases the spiritual form is somewhat altered.
+Ghosts are the spectral remnants of intelligent beings who, for one reason or another, cannot rest easily in their graves. A ghost greatly resembles its corporeal form in life, but in some cases the spiritual form can be altered.
 
-When a creature becomes a ghost, it retains its statistics except as described below. The ghost loses any trait that assumes a living physiology.
+When a creature becomes a ghost, it retains its statistics unless otherwise is stated below. The ghost loses any trait that assumes a living physiology.
 
 ***Type.*** The ghost's type is undead, and it loses any tags. It no longer requires air, food, drink or sleep.
 
