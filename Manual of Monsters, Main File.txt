@@ -3117,28 +3117,35 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:30px;'></div>
-
 ## Gnolls
-Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without any warning, though highly aggressive, they are notorious for being extremely unintelligent and prone to infighting.
+Gnolls are feral humanoids, resembling bipedal hyenas. They are known attack frontier settlements and unsuspect&shy;ing hamlets without warning, rushing their way through to grab whatever they can escape with.
 
-***Nomadic Destroyers.*** Gnolls are dangerous because they strike at random. They emerge from the wilderness, plunder and slaughter, then move elsewhere. They attack like a plague of locusts, pillaging settlements and leaving little behind but razed buildings, gnawed corpses, and befauled land. Gnolls choose easy targets for their raids. Armored warriors holed up in a fortified castle will <br> survive a rampaging gnoll horde unscathed, even as the towns, villages, and farms that surround the castle are ablaze, their people slaughtered and devoured.
+***Rampant Scavengers.*** Gnolls are notorious for how they hunt. Even those fortunate enough to spot a pack settling their camp might only have hours at best to prepare, before the gnolls come charging in to plunder.
 
-Gnolls rarely build permanent structures or craft anything of lasting value. They don't make weapons or armor, but scavenge such items from the corpses of their fallen victims, stringing ears, teeth, scalps, and other trophies from their foes onto their patchwork armor.
+In their wake, they leave little more than razed buildings, burnt crops, and gnawed remains. The easier their target, the better. If they perceive no threat to the pack after the raid has been done, they might stick around in one location for longer. If they fear retaliation from armed guards, like a nearby garrison, the pack will abandon what they must in order to move on as soon as they can.
 
-***Intelligent Beasts.*** Gnolls are by no means an intelligent humanoid race, but rather many would call them relatively intelligent beasts. They are known to manipulate each other into fights over ridiculous things like *whose shadow is larger*. Gnolls use as much time to fight with each other as they do when fighting a common foe. The gnolls would be a fearsome race, if they ever stopped tearing each other to pieces long enough to organize into an army.
+***Hungering Nomads.*** Gnolls are not known for leaving anything lasting. Their weapons and armour are all scavenged from their victims, alongside trophies sewn into their patchwork clothing -- ears, teeth, scalps, and more.
 
-***Hunger for Meat.*** To a gnoll, meat is meat, and they will gnaw their victims bones clean of anything that resembles meat. Gnolls will even go so far as to kill and cannibalize outcasts of their pack if they are hungry enough. They've also made a tradition of devouring the bodies of their dead.
-
+To a gnoll, meat is meat. Once they've gone for the kill, they will gnaw the bones to the marrow. Though they are intelligent beasts, they won't go shy of cannibalizing rival packs and outcasts if they are hungry enough. Even if one of their own die in a fight, they'll try to drag the corpse away in order to eat it later.
 
 ### Gnoll Brute
-The strongest of the pack becomes those who lead it, a gnoll brute displays immense strength far superior to that of most gnolls. A gnoll brute is no more intelligent than any other gnoll, and only has a larger lust for blood.
+Gnolls are known for their immense strength, though some of them show it better than the rest. A gnoll brute is hardly intelligent, but it is guaranteed to be ferocious without equal.
 
 ### Gnoll Mystic
-Some gnolls feel a connection towards the shamanistic forces of the world, these gnolls become mystics of their packs. A gnoll mystic is capable of performing simple arts of magic that would be considered novice by most scholars, but even though their feats aren't extraordinary they are held in high regard by gnolls of their pack, seeing them as being the wisest of beings.
+Some gnolls are sensitive to the elemental forces coursing through the world. Though the powers they wield would be considered novice for true mages, these gnolls are both feared and respected by their pack; elevated to the title of mystics and regarded as wise beyond compare.
 
 ### Gnoll Pack Lord
-The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It places ornaments on its body of brutal piercings and grotesque trophies to show its superior strength over the pack.
+The alpha of a gnoll pack is its pack lord. Keeping a steel-jawed hold on any gnoll following it, the pack lord claims first pick from the pack's raids, and many have been witnessed wearing ornate decor in the form of piercing and grotesque trophies.
+
+### Gnoll Names and Language
+Gnolls speak Low Common and Gnoll; presumably a guttural offshoot of the former. Their names are often just descriptions, aiming to intimidate. A pack lord chooses the name for its pack in a similar fashion.
+
+<div style='margin-top:-5px;'></div>
+
+**Gnoll Names:** Dirtpaw, Cackler, Blackfang, White-Eye
+<br />&nbsp;&nbsp;&nbsp; Snarlface, Loose-Tooth, Yowler
+<br />**Pack Names:** Riverpaw, Mudtail, Ashfang, Bloodeyes,
+<br />&nbsp;&nbsp;&nbsp; Road-Robbers, Rotclaws, Grimepack
 
 \columnbreak
 
