@@ -3205,7 +3205,7 @@ ___
 <div class="pageLetter">G</div>
 <div class='footnote'>GNOLLS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/Z8yFnva.jpg' style='position:absolute; top:940px; right:315px; width:450px;mix-blend-mode:darken' />
+<img src='https://www.gmbinder.com/images/Z8yFnva.jpg' style='position:absolute; top:950px; right:325px; width:450px;mix-blend-mode:darken' />
 
 \pagebreakNum
 
