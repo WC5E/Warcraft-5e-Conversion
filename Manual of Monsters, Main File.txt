@@ -3384,14 +3384,14 @@ These constructs hold no ambition, need no sustenance, feel no pain, and know no
 ***Constructed Nature.*** A golem doesn't require air, food, drink, or sleep.
 
 ### Arcane Golem
-Arcane golems are hulking, magically-empowered golems created to act as peacekeepers and defenders. Their large stone builds boast with magical energies inlaid through their bodies, displaying glows in many different colors.
+Arcane golems are hulking constructs, powered by their crystallized arcane core, that are commonly employed as peacekeepers and defenders. Deep grooves are often carved into their outer shell, allowing the energies from their crystal to surge over them in colourful patterns. 
 
-Arcane golems are a favor construct amongst blood elves for their magical tenacity and are found primarily through Quel'thalas as they patrol the streets, roads, and cities of their kingdom with vigilance.
+They are highly favoured among blood elves, both for their sturdy build and for their magical resilience. In Quel'thalas, they vigilantly patrol the streets within the city and beyond.
 
 ### Harvest Golem
-Resembling a giant scarecrow equipped with razer-sharp metal claws and possessed with blazing orange eyes. That is the visage Harvest Golem. These large and terrifying 'scarecrows' wreck havoc and terror across the fallow fields of Westfall. Where these golems came from or who their creator are is but a mystery to the working folk of Westfall, but their purpose quickly became apparent. These golems are programmed with a simple purpose, to hunt down and eliminate the humans inhabiting Westfall. 
+A lumbering figure skulking across the fields, with razor-sharp claws and blazing, orange eyes: that is the visage of the Harvest Golem. These large, terrifying 'scarecrows' sow terror and wreak havoc across the fallow fields of Westfall. Where they came from or who made them still remains a mystery, but it is clear as day that they have been programmed with a single goal in mind — driving the farmers from the land, killing them if necessary. 
 
-They have brought caution to the fields of Westfall and the many scarecrows that stand atop them, eliciting terror in anyone foolish enough to roam its fallow fields alone.
+Anyone looking to cross Westfall would be wise to stay alert, look out for any odd figures in the distance, and keep clear of the fields after nightfall.
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GOLEMS </div>
