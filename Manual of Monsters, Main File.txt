@@ -3375,11 +3375,11 @@ ___
 <div style='margin-top:300px;'></div>
 
 ## Golems
-Golems are made from humble materials—flesh and bones, metal and stone—but they possess astonishing power and durability as their creation is wrought with magical energy. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. They are constructs created with a purpose in mind, to follow its creator as a guardian, protecting a person, place, or thing, or as constructs of war created to attack and defend at their creator's orders.
+Though a golem is made from humble materials — flesh and bones, metal and stone — its creation is a complex process, wrought with magic. At the hands of a skilled creator, their power, durability, and potential is nothing short of astonishing.
 
-***Blind Obedience.*** These constructs are created to perform the task at hand flawlessly. If the golem is left without instructions, it continues to follow its last orders to the best of its abilities. When it is unable to fulfill its given orders, a golem might turn to violence, or stand and do nothing until new orders are given.
+These constructs hold no ambition, need no sustenance, feel no pain, and know no remorse. Most golems are made with a singular purpose in mind; usually as a guardian for a person or a place, or as a construct of war.
 
-A golem can't think or act for itself. Though it understands its commands perfectly, it has no grasp of language beyond that understanding, and can't be reasoned with or tricked with words.
+***Blind Obedience.*** A golem is created to perform its given task, without fault. If a golem is left without any new instructions, it will continue to follow its current orders to the best of its abilities. If it is unable to do so, it will either remain idle until new orders are given or break down into a violent rampage. It cannot think or act for itself. Though it understands its commands perfectly, it has no real grasp of language and cannot be tricked or reasoned with.
 
 ***Constructed Nature.*** A golem doesn't require air, food, drink, or sleep.
 
