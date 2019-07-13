@@ -2101,6 +2101,8 @@ Carrying out the bidding of the Elemental Lords are their lieutenants. While now
 
 ***Elemental Nature.*** A elemental doesn't require air, food, drink, or sleep.
 
+> Placeholder for a page-width image tear down here.
+
 <div class='letterheader'></div>
 <div class="mmletter mml-e"></div>
 <div class="pageLetter">E</div>
@@ -2128,6 +2130,8 @@ Manifest from frozen water, ice elementals share domain and allegiance with othe
 
 ### Water Elemental
 A favoured companion among mages, human mages in particular, a water elemental is near impossible to discern while underwater. If able, it often attempts to deal with threats by luring them along into the water -- and from there, drag them along into the murky depths.
+
+> This space is too narrow to have the text block on this side. Should we leave this part of the page empty and have a page tear on the right side, or should we flow the text over columns and have a page-wide tear like on the preceding page?
 
 \columnbreak
 
