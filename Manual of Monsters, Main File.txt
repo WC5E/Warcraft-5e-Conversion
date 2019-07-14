@@ -3405,20 +3405,20 @@ Anyone looking to cross Westfall would be wise to stay alert, look out for any o
 
 \pagebreakNum
 
-<div style="margin-top:500px;"></div>
+<div style="margin-top:510px;"></div>
 
 ## Grell
-A grell is a small, long-armed forest spirit with pointed ears and accentuated brows. Though their appearance carries an uncanny resemblence to imps, they are fairly large by comparison and lack any of the typical features of a demon.
+A grell is a small, long-armed forest spirit with pointed ears and an accentuated brow. Though they are uncannily similar to imps, a grell is very large by comparison and lack any other features typical for a demon.
 
-Among explorers, researchers, and naturalists, it is speculated that the similarities between grells and imps are not coincidental, and that the first imps were in fact grells given into demonic influence during the first invasion of the Burning Legion. Such theories are widespread, but have never been confirmed nor denied.
+Among explorers, researchers, and naturalists, it is speculated that the similarities between grells and imps are not coincidental, and that the first imps were in fact grells fallen to corruption during the first invasion of the Burning Legion. Such theories are widespread, but have never been confirmed nor denied.
 
-***Wild Presence.*** Most grells have skin in shades of green, orange, or brown, mimicking the wilderness around their dwelling. Their arms and legs are covered in dense fur, and their hands and feet are all equipped with sharp claws. It is fairly common for grells to fashion themselves simple clothes, as well other adornments -- such as rings for their ears and nose.
+***Wild Presence.*** Most grells have skin in shades of green, orange, or brown, mimicking the wilderness where they dwell. Their arms and legs are covered in dense fur, and their hands and feet are all fitted with sharp claws. It is common for grells to fashion themselves simple clothes, as well other adornments -- such as ear and nose-rings.
 
 Some have speculated as to whether these adornments serve a purpose, such as magical foci for casting spells, or if they are just for decoration.
 
-***Fiendish Personality.*** It is said that the grell exist as an ebodiment of the wild, uncanny side of nature, and their personality shows this notion all too well. Grells on their own pose no particular danger to any would-be travelers, but a gang of grells working together can be a real threat to settlements and communities living close to their dwelling.
+***Fiendish Personality.*** It is said that the grell exist as an ebodiment of the wild, uncanny side of nature, and their personality shows this notion all too well. A grell on its own poses no particular danger, but a gang of grells working together can be a real threat to settlements and communities in their vicinity.
 
-The most malicious grell are the ones who choose to roam around in packs, actively searching for straggling travellers to ambush, overwhelm, and steal from. Though their diet mainly consists of moss, tubers, and mushrooms, it is not unheard of for a pack of grells to hunt wild game.
+Grells who commit to keeping in a pack like this have been witnessed actively serching for travellers to ambush, overwhelm, and steal from. Though their diet mainly consists of moss, tubers, and mushrooms, it is not unheard of for a grell pack to hunt wild game.
 
 \columnbreak
 
