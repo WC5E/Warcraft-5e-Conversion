@@ -3723,16 +3723,17 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:85px;'></div>
+<div style='margin-top:100px;'></div>
 
 ## Kodos
-A kodo is a giant reptilian beast with thick <br> hide, immense strength and horns growing <br> out above its nose. These large beasts wander <br> the plains in thunderous herds, grazing as they <br> go along. Even though they have immense <br> strength, they are peaceful creatures who <br> doesn't use violence to solve conflicts between <br> themselves, but will defend themselves vigorously <br> if threatened by outsiders.
 
-***Herd Animals.*** Kodos are pack animals and <br>move as a herd across grasslands and plains. A clear line of authority is apparent within the herd and it is formed as to protect the weak and young, and never to leave anyone behind. Most herds consists of a small dozen of kodos, but there has been sightings of herds so large as some fifty kodos. A herd leader is often an ancient kodo.
+A kodo is a giant reptile, known for its thick <br/> hide and characteristics horns. Large and <br/> lumbering, these grazing beasts roam together <br/> in herds, their steps like rolling thunder across <br/> the plains of Kalimdor. Though their strength is <br/> immense, they are peaceful creatures whose horns <br> serve more to defend than to fight.
 
-***Tauren Culture.*** The kodo beasts are key to tauren culture. Tauren hunt and use every part of kodos for their equipment, clothing, and food. But also train the mighty beasts as mounts or beasts of burden. The tauren see these creatures as a symbol of vigor and power, and hunting them is an important rite of passage for young warriors.
+***Herd Animals.*** Kodos are pack animals, and <br/> show a clear line of authority in their herds. The <br/> head of the pack leads the way, while the rest keep <br/> close guard of the weak and young as to not leave anyone behind. Most kodo herds number in a dozen at the most, though some have been sighted in groups as large as fifty beasts. It is rare for a kodo to wander alone, though some elderly beasts have been seen taking to a life of solitude. 
 
-***Pack Beasts.*** Kodos are formidable pack beasts and are used extensively by the tauren, as well as other races of the horde. The large beasts are capable of carrying immense amounts of load for long period without being exhausted.
+***Tauren Culture.*** Among the tauren, the kodos have a strong cultural presence as a symbol of vigor and power. Long have they hunted and tamed these imposing beasts, revering these acts important rites of passage for young tauren warriors. And for the size and brawn of the tauren themselves, few beasts can carry them as well as a kodo.
+
+***Pack Beasts.*** Kodos are formidable pack beasts, long elevated as such by the tauren and since ingrained in the Horde as a whole. They can carry even immense loads for long periods of time without any trouble.
 
 ___
 > ## Kodo
@@ -3792,7 +3793,7 @@ ___
 <div class='footnote'>KODOS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:0px; right:0px; width:500px'>
-<img src='https://www.gmbinder.com/images/FgqGNWT.png' style='position:absolute; top:-180px; right:-275px; width:770px; z-index:100;' />
+<img src='https://www.gmbinder.com/images/FgqGNWT.png' style='position:absolute; top:-180px; right:-280px; width:770px; z-index:100;' />
 <img src='https://www.gmbinder.com/images/2k2FW0N.jpg' style='position:absolute; top:-70px; right:590px; width:350px;mix-blend-mode:multiply' />
 
 \pagebreakNum
