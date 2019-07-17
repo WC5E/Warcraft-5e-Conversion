@@ -3522,7 +3522,7 @@ ___
 <div class="pageLetter">H</div>
 <div class='footnote'>HARPIES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:0px; width:500px'>
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:-50px; width:500px'>
 <img src='https://www.gmbinder.com/images/8xkJDn5.png' style='position:absolute; top:-100px; right:-70px; width:500px' />
 
 \pagebreakNum
@@ -3577,15 +3577,15 @@ ___
 
 Diminutive, rat-like, and subterranean, kobolds can be found dwelling in sprawling caverns and abandoned mines across Kalimdor and the Eastern Kingdoms alike. Even throughout Northrend one can find their aptly named cousins; the snobolds. As far back as the first human settlements in the Eastern Kingdoms, kobolds have been a persistent, and annoying, presence.
 
-Kobolds averages at four feet tall, with coarse skin, sharp claws, a pronounced snout, and a spindly tail. Educated guesses have pinned them as a distant offshoot from the troggs, though this has never been deemed certain.
+Kobolds average at four feet tall, with coarse skin, sharp claws, a pronounced snout, and a spindly tail. Educated guesses have pinned them as a distant offshoot from the troggs, though this has never been proven.
 
-***Skittish Creatures.*** Adventurers who have encountered a kobold, especially a kobold away from its pack and lair, can testify to their notorious cowardice. Kobolds are not particularly intelligent, and many consider them more of a nuisance than real danger -- at least in smaller numbers.
+***Skittish Creatures.*** Adventurers who have seen a kobold, especially a kobold away from its pack and lair, can testify for their cowardice. Kobolds are not particularly intelligent, and many consider them more of a nuisance than real danger -- at least in smaller numbers.
 
-***Massive Flocks.*** Kobolds are not only known to bear a resemblance to vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds aren't considered a threat in smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if attempted removed from their dwellings.
+***Massive Flocks.*** Kobolds are not only known to bear a resemblance to vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds are rarely threatening smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if one were to try and evict them.
 
-They have no concept of marriage, rather, they form a loose structure of packs and clans based on lineages, with young individuals opting to migrate between nests and warrens in search of mates outside of their own family.
+They have no concept of marriage. Rather, they form a loose structure of packs and clans based on their lineages, with young individuals opting to migrate between nests and warrens in search of mates outside of their own family.
 
-Famously, kobolds can become very protective of their belongings, and prefer to keep a distance from other races in order to keep themselves safe.
+Famously, a kobold can become very protective of its keepsakes, and they prefer to keep a distance from other races in order to keep themselves safe.
 
 ***Candle-Hoarders.*** Despite living deep underground, populating self-made caverns and abandoned mines -- sometimes even chasing miners away if the pack is large enough -- kobolds do not see well in the dark. They rely on candles to traverse whichever caverns they call home. 
 
@@ -3628,7 +3628,7 @@ ___
 <div class="pageLetter">K</div>
 <div class='footnote'>KOBOLDS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:50px; right:-50px; width:600px; transform:rotate(50deg)'>
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:50px; right:-80px; width:600px; transform:rotate(50deg)'>
 <img src='https://www.gmbinder.com/images/F1ZgnDD.png' style='position:absolute; top:132px; right:-25px; width:510px; mix-blend-mode:darken' />
 <img src='https://www.gmbinder.com/images/qLJ3Z1l.jpg' style='position:absolute; top:950px; right:390px; width:350px; mix-blend-mode:darken' />
 
@@ -3723,16 +3723,17 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:85px;'></div>
+<div style='margin-top:100px;'></div>
 
 ## Kodos
-A kodo is a giant reptilian beast with thick <br> hide, immense strength and horns growing <br> out above its nose. These large beasts wander <br> the plains in thunderous herds, grazing as they <br> go along. Even though they have immense <br> strength, they are peaceful creatures who <br> doesn't use violence to solve conflicts between <br> themselves, but will defend themselves vigorously <br> if threatened by outsiders.
 
-***Herd Animals.*** Kodos are pack animals and <br>move as a herd across grasslands and plains. A clear line of authority is apparent within the herd and it is formed as to protect the weak and young, and never to leave anyone behind. Most herds consists of a small dozen of kodos, but there has been sightings of herds so large as some fifty kodos. A herd leader is often an ancient kodo.
+A kodo is a giant reptile, known for its thick <br/> hide and characteristics horns. Large and <br/> lumbering, these grazing beasts roam together <br/> in herds, their steps like rolling thunder across <br/> the plains of Kalimdor. Though their strength is <br/> immense, they are peaceful creatures whose horns <br> serve more to defend than to fight.
 
-***Tauren Culture.*** The kodo beasts are key to tauren culture. Tauren hunt and use every part of kodos for their equipment, clothing, and food. But also train the mighty beasts as mounts or beasts of burden. The tauren see these creatures as a symbol of vigor and power, and hunting them is an important rite of passage for young warriors.
+***Herd Animals.*** Kodos are pack animals, and <br/> show a clear line of authority in their herds. The <br/> head of the pack leads the way, while the rest keep <br/> close guard of the weak and young as to not leave anyone behind. Most kodo herds number in a dozen at the most, though some have been sighted in groups as large as fifty beasts. It is rare for a kodo to wander alone, though some elderly beasts have been seen taking to a life of solitude. 
 
-***Pack Beasts.*** Kodos are formidable pack beasts and are used extensively by the tauren, as well as other races of the horde. The large beasts are capable of carrying immense amounts of load for long period without being exhausted.
+***Tauren Culture.*** Among the tauren, the kodos have a strong cultural presence as a symbol of vigor and power. Long have they hunted and tamed these imposing beasts, revering these acts important rites of passage for young tauren warriors. And for the size and brawn of the tauren themselves, few beasts can carry them as well as a kodo.
+
+***Pack Beasts.*** Kodos are formidable pack beasts, long elevated as such by the tauren and since ingrained in the Horde as a whole. They can carry even immense loads for long periods of time without any trouble.
 
 ___
 > ## Kodo
@@ -3792,34 +3793,30 @@ ___
 <div class='footnote'>KODOS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:0px; right:0px; width:500px'>
-<img src='https://www.gmbinder.com/images/FgqGNWT.png' style='position:absolute; top:-185px; right:-265px; width:770px' />
-<img src='https://www.gmbinder.com/images/2k2FW0N.jpg' style='position:absolute; top:-70px; right:580px; width:350px;mix-blend-mode:multiply' />
+<img src='https://www.gmbinder.com/images/FgqGNWT.png' style='position:absolute; top:-180px; right:-280px; width:770px; z-index:100;' />
+<img src='https://www.gmbinder.com/images/2k2FW0N.jpg' style='position:absolute; top:-70px; right:590px; width:350px;mix-blend-mode:multiply' />
 
 \pagebreakNum
 
 <div style='margin-top:110px;'></div>
 
 ## Lashers
-A lasher is a large slithering flora that can be found across Azeroth, although most lashers are not hostile, they will defend themselves fiercely if disturbed, using their long tendrils to lash out against their target.
+Lashers are a family of large, slithering flora, known for their long, appendage-like tendrils and found across most of Azeroth. Though most lashers are not predatory, they will defend themselves if threatened.
 
-***Sentient Plants.*** Lashers are the result of nature magic having seeped into the ground and corrupting the land around it, granting them the sentience to move on their own and pull themselves out of the earth. 
+***Sentient Plants.*** Their existence is the result of nature magic, seeped down into the ground and left to spread. There, it has given the plants enough will to uproot themselves and roam around. For some lashers, this awakening has been deliberate and fairly harmless. For others, it has transformed the plants into vile monstrosities.
 
-The magic of the earth affects the lashers tremendously. It has turned many lashers from their peaceful way into very hostile creatures corrupted by the magic around them.
+***Widely Adapted.*** With their presence found far and wide, most lashers have found ways to adapt to their surroundings -- be it lush jungles, arid hills, or even barren tundras. They plant their seeds wherever there's magic to sustain them, quickly sprouting into a myriad of tiny creatures before slowly maturing.
 
-***Adaptive Plants.*** These living plants can be found throughout Azeroth, lashers are capable of adapting to the environment around them to survive and sustain them. The plant their seeds wherever magic is apparent and protect them as the seeds grow into small lashers.
-
-They plant their seeds  wherever possible and protect them as they grow to maturity.
-
-***Fast Learners.*** These plants know near nothing but how to survive when they reach the maturity of their seed and become lashers. But these plants have shown an incredible ability of learning new skills like how to create small pieces of arts, set up and conceal traps, and gestures others might've shown them.
+***Fast Learners.*** Though they appear driven by little more than instinct, fully mature lashers have shown themselves to be remarkably intelligent. Even capable of laying traps, forming decorations, and converying messages with simple gestures.
 
 ### Lasher Spitter
-A lasher spitter is a large carnivorous plant capable of a vile acidic mixture within its stalk, these lashers are easily recognizable by the large maw that makes up the head of the plant. They are able to spit their toxic mixture onto nearby creatures and have it slowly dissolve their flesh.
+A lasher spitter is a large, carnivorous plant. It produces a strong acid within its stalk, which it then spits out with impressive accuracy through the large maw situated between its petals. The acid is strong enough to dissolve flesh, for easier consumption.
 
 ### Barbed Orchid
-A barbed orchid stands out from other lashers by its large flower head with the bead of an owlbeast placed in the flowers center. These lashers make dangerous combatants with their barbed edges striking back at attackers.
+A barbed orchid stands out from other lashers for its large, vibrant flower-head, centre of which some describe as resembling an owlbeast's beak. Their long tendrils are covered with barbs, which they strike out at prey and intruders alike. 
 
 ### Bloodpetal Flayer
-At a glance most would take the bloodpetal flayer for a very colorful lasher, but nothing more. These lashers are much more ferocious and carry a vile toxin within their thorns that burns beneath a creatures flesh when injected.
+At a glance, most would take the bloodpetal flayer for little more than a very colourful lasher. Looks are sure to betray, however; as these lashers are unmatched for their ferocity, and for the potency of the vile toxin kept in their sharp torns. 
 
 > ##### Variant: Mature Lasher
 > When lashers reach maturity, some learn to channel the powers of the moon in their favor. 
