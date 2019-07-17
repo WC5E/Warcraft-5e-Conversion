@@ -3522,7 +3522,7 @@ ___
 <div class="pageLetter">H</div>
 <div class='footnote'>HARPIES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:0px; width:500px'>
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:-50px; width:500px'>
 <img src='https://www.gmbinder.com/images/8xkJDn5.png' style='position:absolute; top:-100px; right:-70px; width:500px' />
 
 \pagebreakNum
@@ -3628,7 +3628,7 @@ ___
 <div class="pageLetter">K</div>
 <div class='footnote'>KOBOLDS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:50px; right:-50px; width:600px; transform:rotate(50deg)'>
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:50px; right:-80px; width:600px; transform:rotate(50deg)'>
 <img src='https://www.gmbinder.com/images/F1ZgnDD.png' style='position:absolute; top:132px; right:-25px; width:510px; mix-blend-mode:darken' />
 <img src='https://www.gmbinder.com/images/qLJ3Z1l.jpg' style='position:absolute; top:950px; right:390px; width:350px; mix-blend-mode:darken' />
 
