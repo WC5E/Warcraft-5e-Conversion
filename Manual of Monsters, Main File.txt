@@ -3992,17 +3992,19 @@ ___
 \columnbreak
 
 ## Leper Gnome
-Beneath the snow capped mountains of Dun Morogh lies the halls of Gnomeregan. It was once the capitol of the gnomes, but now its irradiated halls are home only to troggs and the crazed gnomes who survived the culling radiation of their once remarkable capitol.
+Beneath the snow capped mountains of Dun Morogh lay the halls of Gnomeregan. Once the gnomish capitol, the city's irradiated halls now only swarm with troggs and crazed, addled gnomes. These gnomes, permeating with radiation, have become known as leper gnomes. Their skin has turned a sickly green, dotted with abscesses that burst at the smallest stress or strain.
 
-Leper gnomes are gnomes contaminated by the toxic radiation of Gnomeregan. It has turned their skin a sickly green and dotted with abscesses that burst at the smallest strain they exert.
+***A Necessary Sacrifice.*** When the gnomish capitol of Gnomeregan was invaded by troggs, a desperate decision was made when the High Tinker ordered all radioactive waste from the city's numerous machines unleashed. 
 
-***A Necessary Sacrifice.*** When the gnomish capitol of Gnomeregan was invaded by hordes of troggs, the High Tinker ordered to cull the city and drive the troggs back by using the radiative waste previously contained within the machines of the city. Many more gnomes were killed than troggs when Gnomeregan was flooded by radiation.
+Vented through the city in a noxious green gas, and flooded through the pipes in rivers of green goop, the attempt to cull their invaders ultimately killed off more gnomes than troggs -- and left the city a radioactive wasteland, riddled with danger.
 
-Even worse, though, the gnomes who survived was horribly mutated and driven to madness by the radiation that sept into the city, changing them into what are now know as leper gnomes.
+Worse yet, as the city's ruins were later explored, it became clear how many had survived the ordeal; all of them mutated and driven mad by the city's green haze.
 
-***Insane and Hostile.*** Fractious in groups and individually weak, most leper gnomes continue life in the poisonous halls of their city. Their minds are left crazed by the toxic fumes and have given them a tendency toward paranoia for the troggs which they now share the vast city with. They are hostile towards all intruder who dare enter their city, believing them to be trogg invaders or at best allied with the troggs themselves. Many of the leper gnomes know nothing else than the constant fear of troggs invading, and the few remaining survivors of the culling have lost their minds and memories of any other life.
+***Hostile Insanity.*** Fractious at best, the leper gnomes have continued their life in Gnomeregan as though all is as it once was. Their minds warped by toxic fumes, most leper gnomes do not seem grasp the reality of their situation. Most dangerous are the few that do.
 
-***Mutated Creatures.*** The radiation has fundamentally altered the leper gnomes into something else and so far no cure to know to counteract the effect on them. The longer a leper gnome spend near radiation the more their body becomes a twisted and devolved. They continue to devolve further until they become mindless puddles of toxic sludge.
+Still sharing the city with their trogg invaders, leper gnomes are known to be extremely paranoid and prone to immediate hostility toward any who would come looking for them. After all, anyone they don't know could suddenly turn out to be in tow with the troggs.
+
+***Mutated Creatures.*** Once the radiation takes hold in a creature, as witnessed with the leper gnomes, it slowly warps into something else; gradually tearing it apart until little more is left than a mindless puddle of toxic sludge. With the time the leper gnomes have spent below the earth, in Gnomeregan, some unfortunate few have already twisted and devolved into monstrous aberrations.
 
 > ##### Radiation Disease
 > When an uninfected creature comes into contact with a source of radiation, such as contaminated water—being bitten by an infected creature, or for every hour spent in an area of high radiation—the creature must succeed on a DC 11 a Constitution saving throw or contract the radiation disease.
