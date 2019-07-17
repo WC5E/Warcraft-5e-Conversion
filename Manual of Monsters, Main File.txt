@@ -3801,26 +3801,22 @@ ___
 <div style='margin-top:110px;'></div>
 
 ## Lashers
-A lasher is a large slithering flora that can be found across Azeroth, although most lashers are not hostile, they will defend themselves fiercely if disturbed, using their long tendrils to lash out against their target.
+Lashers are a family of large, slithering flora, known for their long, appendage-like tendrils and found across most of Azeroth. Though most lashers are not predatory, they will defend themselves if threatened.
 
-***Sentient Plants.*** Lashers are the result of nature magic having seeped into the ground and corrupting the land around it, granting them the sentience to move on their own and pull themselves out of the earth. 
+***Sentient Plants.*** Their existence is the result of nature magic, seeped down into the ground and left to spread. There, it has given the plants enough will to uproot themselves and roam around. For some lashers, this awakening has been deliberate and fairly harmless. For others, it has transformed the plants into vile monstrosities.
 
-The magic of the earth affects the lashers tremendously. It has turned many lashers from their peaceful way into very hostile creatures corrupted by the magic around them.
+***Widely Adapted.*** With their presence found far and wide, most lashers have found ways to adapt to their surroundings -- be it lush jungles, arid hills, or even barren tundras. They plant their seeds wherever there's magic to sustain them, quickly sprouting into a myriad of tiny creatures before slowly maturing.
 
-***Adaptive Plants.*** These living plants can be found throughout Azeroth, lashers are capable of adapting to the environment around them to survive and sustain them. The plant their seeds wherever magic is apparent and protect them as the seeds grow into small lashers.
-
-They plant their seeds  wherever possible and protect them as they grow to maturity.
-
-***Fast Learners.*** These plants know near nothing but how to survive when they reach the maturity of their seed and become lashers. But these plants have shown an incredible ability of learning new skills like how to create small pieces of arts, set up and conceal traps, and gestures others might've shown them.
+***Fast Learners.*** Though they appear driven by little more than instinct, fully mature lashers have shown themselves to be remarkably intelligent. Even capable of laying traps, forming decorations, and converying messages with simple gestures.
 
 ### Lasher Spitter
-A lasher spitter is a large carnivorous plant capable of a vile acidic mixture within its stalk, these lashers are easily recognizable by the large maw that makes up the head of the plant. They are able to spit their toxic mixture onto nearby creatures and have it slowly dissolve their flesh.
+A lasher spitter is a large, carnivorous plant. It produces a strong acid within its stalk, which it then spits out with impressive accuracy through the large maw situated between its petals. The acid is strong enough to dissolve flesh, for easier consumption.
 
 ### Barbed Orchid
-A barbed orchid stands out from other lashers by its large flower head with the bead of an owlbeast placed in the flowers center. These lashers make dangerous combatants with their barbed edges striking back at attackers.
+A barbed orchid stands out from other lashers for its large, vibrant flower-head, centre of which some describe as resembling an owlbeast's beak. Their long tendrils are covered with barbs, which they strike out at prey and intruders alike. 
 
 ### Bloodpetal Flayer
-At a glance most would take the bloodpetal flayer for a very colorful lasher, but nothing more. These lashers are much more ferocious and carry a vile toxin within their thorns that burns beneath a creatures flesh when injected.
+At a glance, most would take the bloodpetal flayer for little more than a very colourful lasher. Looks are sure to betray, however; as these lashers are unmatched for their ferocity, and for the potency of the vile toxin kept in their sharp torns. 
 
 > ##### Variant: Mature Lasher
 > When lashers reach maturity, some learn to channel the powers of the moon in their favor. 
