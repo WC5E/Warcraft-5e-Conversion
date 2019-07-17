@@ -3577,15 +3577,15 @@ ___
 
 Diminutive, rat-like, and subterranean, kobolds can be found dwelling in sprawling caverns and abandoned mines across Kalimdor and the Eastern Kingdoms alike. Even throughout Northrend one can find their aptly named cousins; the snobolds. As far back as the first human settlements in the Eastern Kingdoms, kobolds have been a persistent, and annoying, presence.
 
-Kobolds averages at four feet tall, with coarse skin, sharp claws, a pronounced snout, and a spindly tail. Educated guesses have pinned them as a distant offshoot from the troggs, though this has never been deemed certain.
+Kobolds average at four feet tall, with coarse skin, sharp claws, a pronounced snout, and a spindly tail. Educated guesses have pinned them as a distant offshoot from the troggs, though this has never been proven.
 
-***Skittish Creatures.*** Adventurers who have encountered a kobold, especially a kobold away from its pack and lair, can testify to their notorious cowardice. Kobolds are not particularly intelligent, and many consider them more of a nuisance than real danger -- at least in smaller numbers.
+***Skittish Creatures.*** Adventurers who have seen a kobold, especially a kobold away from its pack and lair, can testify for their cowardice. Kobolds are not particularly intelligent, and many consider them more of a nuisance than real danger -- at least in smaller numbers.
 
-***Massive Flocks.*** Kobolds are not only known to bear a resemblance to vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds aren't considered a threat in smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if attempted removed from their dwellings.
+***Massive Flocks.*** Kobolds are not only known to bear a resemblance to vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds are rarely threatening smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if one were to try and evict them.
 
-They have no concept of marriage, rather, they form a loose structure of packs and clans based on lineages, with young individuals opting to migrate between nests and warrens in search of mates outside of their own family.
+They have no concept of marriage. Rather, they form a loose structure of packs and clans based on their lineages, with young individuals opting to migrate between nests and warrens in search of mates outside of their own family.
 
-Famously, kobolds can become very protective of their belongings, and prefer to keep a distance from other races in order to keep themselves safe.
+Famously, a kobold can become very protective of its keepsakes, and they prefer to keep a distance from other races in order to keep themselves safe.
 
 ***Candle-Hoarders.*** Despite living deep underground, populating self-made caverns and abandoned mines -- sometimes even chasing miners away if the pack is large enough -- kobolds do not see well in the dark. They rely on candles to traverse whichever caverns they call home. 
 
