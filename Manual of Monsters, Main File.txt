@@ -3792,8 +3792,8 @@ ___
 <div class='footnote'>KODOS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:0px; right:0px; width:500px'>
-<img src='https://www.gmbinder.com/images/FgqGNWT.png' style='position:absolute; top:-185px; right:-265px; width:770px' />
-<img src='https://www.gmbinder.com/images/2k2FW0N.jpg' style='position:absolute; top:-70px; right:580px; width:350px;mix-blend-mode:multiply' />
+<img src='https://www.gmbinder.com/images/FgqGNWT.png' style='position:absolute; top:-180px; right:-275px; width:770px; z-index:100;' />
+<img src='https://www.gmbinder.com/images/2k2FW0N.jpg' style='position:absolute; top:-70px; right:590px; width:350px;mix-blend-mode:multiply' />
 
 \pagebreakNum
 
