@@ -3465,20 +3465,20 @@ ___
 <div style='margin-top:140px;'></div>
 
 ## Harpies
-Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. They are vicious predators that have lured countless adventures to their death, drawing them into the depth of their nest to kill and consume.
+Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. They are vicious predators, well-know for luring adventures back to their craggy lairs and a certain death.
 
-A harpy combines the body, legs, and wings of a hunting bird with the torso, arms, and head of a night elf. Its wicked talons and graceful wings make it a formidable threat in combat, and its eyes reflect the absolute evil of its soul.
+A harpy combines the body, arms, and head of a night elf with the legs and wings of a hunting bird. Its wicked talons can rip flesh from bone, and its graceful wings lets it soar silently through the air as it hunts for its next kill. It is said that in the eyes of every harpy shines the evil dwelling in their heart.
 
-***Noxious Nests.*** Harpies nest in hard-to-reach places from where they can terrorize the land around them. They slowly destroy the environment in which they settle, killing every creature they encounter and despoiling the land to build nests noted with their noxious order. Active nests are easy to discern by the intolerable smell and rot that protrudes from inhabited nests.
+***Noxious Nests.*** Harpies nest in high-perched, hard-to-reach places, from which they can terrorize their surroundings. A flock of harpies left unchecked may leave destruction in their wake; killing anything they encounter, leaving only their noxious odor in their wake. This stench, a mixture of rotting flesh and mottled feathers, makes it easy to discern the whereabouts of an active nest.
 
-***Precious Collectors.*** These winged humanoids place great value on shiny baubles, valuable objects, rare gems, and ores. They are known to actively trade with nearby settlements to attain anything shiny, procuring a moments calm before they return to ravaging the land around them. The harpies adorn themselves with their shiny baubles and trinkets, as a show of their esteem.
+***Precious Collectors.*** These winged humanoids place great value in shiny baubles, ornate trinkets, rare gems, and ores, using them to adorn themselves and their nests. They may be willing to barter and negotiate with travellers and settlements, if there is a chance for them to claim a pretty prize from the ordeal. Whatever calm such trade may instill is never more than a temporary measure, before the harpies take wing to pillage once again.
 
-***Beguiling Creatures.*** Harpies resembles malformed night elves combined with features of large predator birds. The sadistic creatures would be considered beautiful when seen from a distance and as they grow in age, they are known to become more beautiful. Growing to resemble formidable and colorful night elves more as they grow old.
+***Beguiling Creatures.*** Harpies resembles malformed night elves, decked in feathers and given wings. Though they are a repulsive presence, they could be considered quite beautiful from afar -- and only become more beautiful as they grow older, with a strikingly vibrant plumage.
 
-Harpies are incapable of producing male children and their eggs will always hatch females. Because of this they have had to count on their cunning and deceptive nature to lure and capture males of many races for them to breed with. The males fill the role for a time, after which they become food for the nest.
+They are incapable of producing male children, as their eggs always hatch females. To this end, their survival relies on their ability to beguile and entrap males from other races, keeping them around until the end of their mating season before killing them off for food.
 
 ### Harpy Witch
-Some harpies are capable of wielding the forces of nature at their will. These harpy witches are powerful individuals within their nest, often using their aided forces of nature to rise to become queen of a nest and maintaining the title by tormenting countless enemies and allies alike to stay in their seat of power.
+Some harpies are capable of wielding the forces of nature at their will. These harpy witches are powerful individuals within their nest, with the most powerful exploiting their powers to rise to a near regal status. Keeping any semblence of control in a nest of harpies is a formidable task, driving those who try to extreme measures.
 
 > ##### Variant: Beguiling Harpy
 > Some harpies can have a special ability that allows them to charm humanoids.
