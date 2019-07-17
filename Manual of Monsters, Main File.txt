@@ -4006,6 +4006,8 @@ Still sharing the city with their trogg invaders, leper gnomes are known to be e
 
 ***Mutated Creatures.*** Once the radiation takes hold in a creature, as witnessed with the leper gnomes, it slowly warps into something else; gradually tearing it apart until little more is left than a mindless puddle of toxic sludge. With the time the leper gnomes have spent below the earth, in Gnomeregan, some unfortunate few have already twisted and devolved into monstrous aberrations.
 
+<div style='margin-top:27px;'></div>
+
 > ##### Radiation Disease
 > When an uninfected creature comes into contact with a source of radiation, such as contaminated water—being bitten by an infected creature, or for every hour spent in an area of high radiation—the creature must succeed on a DC 11 a Constitution saving throw or contract the radiation disease.
 >
@@ -4018,7 +4020,7 @@ Still sharing the city with their trogg invaders, leper gnomes are known to be e
 <div class="pageLetter">L</div>
 <div class='footnote'>LEPER GNOME </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:0px; right:300px; width:500px'>
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:0px; right:327px; width:500px'>
 <img src='https://www.gmbinder.com/images/l0q9dDf.jpg' style='position:absolute; top:15px; right:370px; width:480px;mix-blend-mode:darken;transform:scalex(-1)' />
 
 \pagebreakNum
