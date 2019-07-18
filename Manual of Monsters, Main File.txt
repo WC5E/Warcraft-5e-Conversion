@@ -4009,13 +4009,13 @@ Still sharing the city with their trogg invaders, leper gnomes are known to be e
 <div style='margin-top:27px;'></div>
 
 > ##### Radiation Disease
-> When an uninfected creature comes into contact with a source of radiation, such as contaminated water—being bitten by an infected creature, or for every hour spent in an area of high radiation—the creature must succeed on a DC 11 a Constitution saving throw or contract the radiation disease.
+> When an uninfected creature comes into contact with a source of radiation — such as contaminated water, being bitten by an infected creature, or for every hour spent in a high-radiation area — the creature must succeed on a DC 11 a Constitution saving throw or contract the radiation disease.
 >
-> It takes 1d4 days for the disease to manifest. As it does the creature's skin gains a sickly green tint and abscesses start to spread across its surface. At the end of that period, the creature gains advantage on saving throws against poison and gains resistance against poison damage. The creature also has disadvantage on all Strength and Dexterity ability checks, and weapon attack rolls.
+> It takes 1d4 days for the disease to manifest. As it does, the creature's skin takes on a sickly green tint and abscesses start to spread across its surface. At the end of that period, the creature gains advantage on saving throws against poison and resistance against poison damage. However, the creature also has disadvantage on all Strength and Dexterity ability checks, as well as weapon attack rolls.
 >
-> Creatures who have carried the radiation disease for more than two weeks have their skin turn entirely green. The creature also no longer suffers from dis&shy;advantage on their ability checks or weapon attacks, and instead gain an indefinite madness. As described in the 5th Edition *Dungeon Master's Guide*.
+> Once a creature has carried the radiation disease for more than two weeks, its skin turns completely green. It no longer suffers from disadvantage on ability checks or weapon attacks, but it gains an indefinite madness as described in the *Dungeon Master's Guide* (p. 260).
 >
-> The radiation symptoms can be cured by spells such as *lesser restoration*. Once the disease has manifest, however, more powerful magic such as *greater restoration* or *heal* is required.
+> The radiation symptoms can be cured by a spell, such as *lesser restoration*. Once the disease has manifested, a more potent spell such as *greater restoration* or *heal* is required.
 
 <div class="pageLetter">L</div>
 <div class='footnote'>LEPER GNOME </div>
