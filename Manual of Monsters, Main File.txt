@@ -4148,16 +4148,18 @@ ___
 \columnbreak
 
 ## Mana Wyrms
-Manifesting near pockets of arcane energy, mana wyrms are small shimmering creatures that hover above the ground as they slither towards creatures or objects of arcane energy.
+Manifesting near pockets of arcane energy, mana wyrms are, as the name implies, serpent-like creatures that shimmer with arcane energy. 
 
-Rarely does the sight of a mana wyrm cause a seasoned adventurer concern, for them the small creatures are more of a nuisance than a threat and is easily avoided.
+Their bodies are translucent, hovering above the ground as though they are swimming through the air. More a nuisance than a threat, they rarely pose much concern for seasoned adventurers who happen by them.
 
-***Unstable Temperament.*** The temperament of a mana wyrm hangs solely on how long it’s been since it last fed on mana. These creatures are considered docile and harmless if fed often, but aggressive and unpredictable if hungry. The wyrms are also known for exploding in a flash of arcane.
+***Unstable Temperament.*** The temperament of a mana wyrm hangs solely on how long it’s been since it last fed. Though they are considered fairly harmless, an agitated wyrm can very quickly turn aggressive. If threatened, they are known to explode in a flash of arcane energy.
 
-***Arcane Sense.*** A mana wyrms can sense the taint and use of arcane energy near them and gravitate towards it, focusing their attacks against creatures that reek of arcane magic if hungry.
+***Arcane Sense.*** A mana wyrms can sense the presence of arcane energy around it, and will gravitate toward its source. If the source is a creature and the wyrm is hungry, it may attempt to attack the creature accordingly. 
 
 ### Arcane Wyrm
-An arcane wyrm is by many considered an overgrown mana wyrm that's been allowed to feed on too much energy before being put down. These long slithering creatures resemble large mana wyrms, and carry many of the same qualities as their kin. They are known for having a more even temperament than mana wyrms, and less prone to immediate hostility.
+An arcane wyrm is in many ways similar to a mana wyrm, though it is much, much larger, slowly snaking their way through the air near arcane fonts. 
+
+Some have attributed their existence to them simply being left to feed on too much energy, though their temperament is still calm and even so long as they not directly threatened.
 
 <div style='margin-top:17px;'></div>
 
