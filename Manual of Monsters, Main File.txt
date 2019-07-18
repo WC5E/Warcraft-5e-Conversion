@@ -4028,16 +4028,16 @@ Still sharing the city with their trogg invaders, leper gnomes are known to be e
 <div style='margin-top:147px;'></div>
 
 ## Makrura
-A makrura is a large aquatic race found living in small colonies along the coastlines of Azeroth and deep within the ocean. Makrura resemble enormous crayfish and observers have mistakenly called them *lobster men*.
+A makrura is a large aquatic creature found living in small colonies along Azeroth's numerous coastlines and deep oceans. They resemble enormous crayfish, some near six feet tall, to which some call them *lobster men*.
 
-***Aggressive and Hostile.*** A makrura within the confines of its colony is immediately hostile towards intruders and attempts to kill anyone that ventures to near. They use their massive claws to pinch their target, grappling them in place while the other tears the target into pieces.
+***Aggressive and Hostile.*** Makruras within the confines of their colony are immediately hostile toward intruders, and will attack anyone who dare approach. With their massive claws, they pinch and pin their target down, before subsequently tearing it into tiny pieces.
 
-***Wrecked Colonies.*** These large aquatic creatures create small colonies at the water’s edge or on the ocean floor. The makrura is unable to create sable homes are often settle in the wreckages of lost ships or underwater caverns.
+***Wrecked Colonies.*** With their homes often situated in turbulent waters or along contested shorelines, it is not uncommon for a colony to seek seclusion by taking shelter inside wrecked ships or underwater caverns.
 
-***Savory Prey.*** The meat of a makrura has proven to be a  tasty treat to many races, and is appreciated all too well by creatures both on land and sea. Whilst some races on land hunt them for food, their most hated enemies are the ever present and notorious murlocs and nagas.
+***Savory Prey.*** Makrura meat is a delicacy, tried and tested, for many races both above and beneath the ocean. Some towns and villages may try to turn a nearby colony into a hunting opportunity, though the most prominent enemy of the makrura are murlocs and nagas.
 
 ### Makrura Tidecaller
-Some Makrura has an innate capacity for water magic and are able to call upon its forces, these makruras are called tidecallers. The makrura tidecallers call upon the waters to aid their allies and hamster their enemies if needed.
+Some Makrura have an innate affinity for water magic, able to summon its powers at will. These notorious mystics are known as tidecallers; often wise sages in their colonies, they bring forth the tides both to heal and to harm.
 
 ___
 > ## Makrura
