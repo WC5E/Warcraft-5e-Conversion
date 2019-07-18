@@ -4228,16 +4228,20 @@ ___
 \columnbreak
 
 ## Mechanicals
-Mechanical constructs distinguish themselves from organic creatures mainly for their lack of blood, internal organs, and natural instincts. Instead, gears whirr and circuits spark inside these mobile machinations -- some of which act only at the behest of whoever holds the controls, while others have been configured to automatically carry out a pre-determined set of instructions.
+Mechanical constructs distinguish themselves from organic creatures mainly for their lack of blood, internal organs, and natural instincts. Instead, gears whirr and circuits spark inside these mobile machinations. 
 
-Some mechanicals distinguish themselves further still, possessing instructions so meticulously crafted as to resemble genuine intelligence. As they are wholly driven by the logic of their configuration, mechanical constructs do not possess the ability to make an emotional response: they cannot be charmed, and they certainly cannot be frightened.
+Some act only at the behest of whoever holds the remote, while others automatically carry out their given set of pre-configured instructions. Some mechanicals distinguish themselves even further, possessing instructions so meticulously crafted as to resemble genuine intelligence. 
 
-***Titanic Legacy.*** The origin of Azeroth's great mechanical achievements can be traced back to the titanic Watchers and the ordering of Azeroth. There, the titanic Keeper Mimiron oversaw the creation of a race of diminutive clockwork humanoids; mechagnomes, forerunners of the gnomes who now stand on the contested frontier of technological innovation.
+As they are wholly driven by the logic of their instructions, mechanical constructs do not possess the ability to give any emotional response: they cannot be charmed, and they certainly cannot be frightened.
 
-***Gnomish and Goblin Ingenuity.*** Alongside the legacy of the gnomes, carrying on the work of the titanic Keeper who saw their creation, another source of technolgical innova&shy;tion on Azeroth has been the artifically enhanced ingenuity of the goblins. Unlike the gnomes, however, such goblin ingenuity has a tendency to be remarkably destructive. The two races have led a contested field of engineering, and have overseen countless mechanical wonders and mishaps across several decades -- including cities, transportation systems, explosive automatons, and giant death rays.
+***Titanic Legacy.*** The origin of Azeroth's great mechanical achievements can be traced back to the titanic Watchers and the ordering of Azeroth. There, the titanic Keeper Mimiron oversaw the creation of a race of diminutive clockwork humanoids -- mechagnomes, forerunners of the gnomes -- as well as a number of other mechanical creations that have since stood the test of time.
+
+***Gnomish and Goblin Ingenuity.*** Alongside the legacy of the gnomes, instinctly carrying on the work of their titanic creator, another point of technolgical innova&shy;tion across Azeroth has been the artifically enhanced ingenuity of the goblins. Unlike the gnomes, however, goblin creations have a dentency to be remarkably destructive.
+
+The two races lead a contested field of engineering, and have overseen countless mechanical wonders and mishaps across the years -- including cities, transportation systems, explosive automatons, and giant death rays.
 
 ### Mechanical Animal Template
-A mechanical animal is any Huge or smaller beast created by gnomes and engineers to resemble the shape of a beast found on Azeroth. The following characteristics change or are added to a mechanical animal when created.
+A mechanical animal is any Huge or smaller construct created by a skilled engineer to mimic a beast of the same size. The following characteristics change or are added to a creature when a mechanical version is created.
 
 ***Retained Characteristics.*** The mechanical animal retains its Armor Class, hit points, Hit Dice, Speed, Strength, Dexterity, Constitution, vulnerabilities, resis&shy;tances, immunities, and special traits.
 
