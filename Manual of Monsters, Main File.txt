@@ -7379,8 +7379,6 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:140px;'></div>
-
 <div style='margin-top:100px;'></div>
 
 ## Yeti
@@ -7396,10 +7394,8 @@ It can often mean untold riches for strong-hearted adventurers, as the monstrous
 
 ***Solitary Hunters.*** Most yetis are lone wanderers that wander their territory alone and serve only themselves, but yetis are not as unintelligent as they are let out to be and know that there is strength in numbers. They are willing to work together to survive -- after the strongest amongst them have shown dominance --and terrorize the land around them, desolating it of game.
 
-### Abominable Yeti
-Abominable yetis are menacing creatures towering above normal yetis with the posture of enormous apes, they make their dens high in the mountains in places so remote that no one would dare to venture close. They care little for safe-guarding a large perimeter and hunt only to survive, however, they are far more aggressive in their hunt and willing to venture much further from their den for food.
+\columnbreak
 
-Little else is known of these beings as few have encountered them and lived to tell their tale, but evidence of their existence can be heard by their primal roars as it echoes through the mountains.
 
 <div class='statblock-bottom-wide'>
 
@@ -7446,9 +7442,16 @@ ___
 <div class='footnote'>YETIS </div>
 <img src='https://www.gmbinder.com/images/8rImMFu.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:0px; right:-150px; width:700px'>
-<img src='https://www.gmbinder.com/images/idt4oFo.png' style='position:absolute; top:130px; right:-31px; width:500px' />
+<img src='https://www.gmbinder.com/images/idt4oFo.png' style='position:absolute; top:120px; right:-41px; width:500px' />
 
 \pagebreakNum
+
+<div style='margin-top:190px;'></div>
+
+### Abominable Yeti
+Abominable yetis are menacing creatures towering above normal yetis with the posture of enormous apes, they make their dens high in the mountains in places so remote that no one would dare to venture close. They care little for safe-guarding a large perimeter and hunt only to survive, however, they are far more aggressive in their hunt and willing to venture much further from their den for food.
+
+Little else is known of these beings as few have encountered them and lived to tell their tale, but evidence of their existence can be heard by their primal roars as it echoes through the mountains.
 
 <div class='statblock-bottom-wide'>
 
@@ -7506,9 +7509,9 @@ ___
 
 <div class="pageLetter">Y</div>
 <div class='footnote'>YETIS </div>
-<img src='https://www.gmbinder.com/images/ZQOYrMF.jpg' style='position:absolute; top:-100px; right:-150px; width:1100px' />
-<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
+<img src='https://www.gmbinder.com/images/ZQOYrMF.jpg' style='position:absolute; top:-100px; right:-350px; width:1100px' />
+<img src='https://www.gmbinder.com/images/0mM3BWX.png' style='position:absolute; top:0px; right:0px; width:950px; transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:-120px; right:450px; width:400px; transform:rotate(-40deg)'>
 \pagebreakNum
 
 <div class='wide'>
