@@ -7413,15 +7413,25 @@ ___
 
 <div style='margin-top:140px;'></div>
 
+<div style='margin-top:100px;'></div>
+
 ## Yeti
-Yetis—also called Wendigos in certain parts of the world—are hulking furry monstrosities that roam snowy regions and remote areas of the world in search for food and survival. They are terrifying and powerful creatures that strike fear into the hearts of weary travelers who wander too close to their dens.
+Yetis -- also known as Wendigos -- are hulking monstrosities that roam remote forests and snowy mountains with a territorial ferocity rarely seen in other creatures. They make for terrifying and powerful foes willing to hunt any creature that wanders too close to their den, striking fear into their weary hearts.
 
-***Territorial Beings.*** Yetis are territorial creatures that roam their land to claim a meal and become immediately hostile towards living creatures who traverse it. But even when driven by hunger the hulking monsters will attack nearby settlements, breaking a perimeter that that might have once daunted them in search of flesh to devour.
+***Territorial Beings.*** The territorial nature of yetis is common knowledge to the settlements near its border as the monstrous yeti is often seen roaming its vast territory, laying claim to any creature who dares venture too close. Yetis have a desire for killing that can't be quenched and will continue to hunt even when they are not hungry, dragging the spoils back to their lair for the next meal.
 
-***Horrific Dens.*** Most yetis are lone wanders living <br> by themselves in their secluded dens, but yetis are not <br> as unintelligent as they are let out to be and know that <br> there is strength in numbers. Some yetis form larger <br> dens, following the strongest amongst them as they <br> terrorize the land around them, desolating it of food.
+Driven by their desire to hunt a yeti is seldom found within its den, but rather encountered wandering <br> through the snow of the area around it.
 
-### Abonimable Yeti
-Enormous and menacing, an abominable yeti raised far above normal yetis, with their backs hunched they take on a more bestial ape-like appearance. Unlike other yetis, abominable yetis are solitary creature that would rather kill intruders than consider working together with them for survival. Though few live long enough to tell their tale evidence of these hulking monsters can be heard through the mountains by their echoing primal roars.
+***Horrific Dens.*** Yetis make their dens in caverns and under isolated overhangs, few can mistake the den of <br> a yeti for it is easily recognizable by the amass of bones strewn across its floor and an array of half eaten corpses.
+
+It can often mean untold riches for strong-hearted adventurers, as the monstrous creatures place no value on the possessions of their prey, strewing it through its den like gnawed bones for other to collect -- or die trying.
+
+***Solitary Hunters.*** Most yetis are lone wanderers that wander their territory alone and serve only themselves, but yetis are not as unintelligent as they are let out to be and know that there is strength in numbers. They are willing to work together to survive -- after the strongest amongst them have shown dominance --and terrorize the land around them, desolating it of game.
+
+### Abominable Yeti
+Abominable yetis are menacing creatures towering above normal yetis with the posture of enormous apes, they make their dens high in the mountains in places so remote that no one would dare to venture close. They care little for safe-guarding a large perimeter and hunt only to survive, however, they are far more aggressive in their hunt and willing to venture much further from their den for food.
+
+Little else is known of these beings as few have encountered them and lived to tell their tale, but evidence of their existence can be heard by their primal roars as it echoes through the mountains.
 
 <div class='statblock-bottom-wide'>
 
