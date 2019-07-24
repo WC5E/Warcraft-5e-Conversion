@@ -7258,35 +7258,6 @@ ___
 
 \pagebreakNum
 
-## Wretched
-Creatures who failed to control their innate addiction to magic and overindulged in arcane to the point of deformity, that is the story of the wretched elves. These thin elves are descendants of Quel'thalas, a danger to both themselves and others with their violent and unpredictable nature.
-
-These elves resemble unnaturally thin high elves, with claw-like fingers and strange crystalline growths appearing across their skin, giving off an eerie glow in darkness. All of these elves were once part of the Kingdom to Quel'thalas, unable to control their addiction to magic and falling into a crevice from which there is no escape and no turning back.
-
-***Insane Elves.*** Wretched are obsessed with magic and will go to extreme lengths to obtain magic items and devouring the magical energy within them. This obsessing often pushes many wretched into insanity as they fixate on objects of magical power and how to extract that power.
-
-Attempting to bargain with wretched for safe passage is rarely resolved peacefully as the unpredictable nature of the elves makes them aggressive and easy to anger. 
-
-***Pest of Quel'thalas.*** The wretched elves rarely leave <br> the confines of Quel'thalas, instead they have scattered through the kingdom and taken up residence in the ruins left behind by the Scourge. There the wretched gather and let their addiction to magic take its toll. 
-
-Because of their violent temperament and unpredictable nature few wretched have been able to gather the wretched under a single rule and fight back against Quel'thalas, but should such a leader ever arise the wretched would be a true threat to the blood elves, however, with their current behavior the wretched are little more than a pest.
-
-### Wretched Names
-Wretched were once blood elves and as such continue to speak the Thalassian tongue, although few among them how shown signs of remembering the Common language.
-
-Their overindulgence have lead many wretched into insanity, some forgetting their names entirely, or choosing to take a new one more appropriate. Wretched use the same naming conventions as high and blood elves, but instead of surnames many wretched give themselves titles that describes their newfound personality for others, like *the Reckless* or *the Hungerer*.
-
-> ##### Variant: Magic Absorption
-> Wretched have an insatiable craving for magic and will go extreme lengths to obtain and consume it. Some wretched are able to devour the essence of a magic item and be empowered by it.
->
-> A wretched devourer has a challenge rating of 1/2 (100 XP) and gains the following action option.
-> 
-> ***Devour Magic (Recharge 6).*** The wretched chooses one creature within 60 feet of it, the target must succeed on a DC 11 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the wretched's next turn. If the object is a charged item, it also loses 1d4 charges. Determine the effected item randomly, ignoring single-use items such as potions and scrolls.
->
-> If the wretched successfully devours the magic of an item, it regains the use of one of its *once per day* innate spellcasting spells.
-
-\columnbreak
-
 <div style='margin-top:470px;'></div>
 
 ___
@@ -7318,13 +7289,40 @@ ___
 >
 > ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
+\columnbreak
+
+## Wretched
+Creatures who failed to control their innate addiction to magic and overindulged in arcane to the point of deformity, that is the story of the wretched elves. These thin elves are descendants of Quel'thalas, a danger to both themselves and others with their violent and unpredictable nature.
+
+These elves resemble unnaturally thin high elves, with claw-like fingers and strange crystalline growths appearing across their skin, giving off an eerie glow in darkness. All of these elves were once part of the Kingdom to Quel'thalas, unable to control their addiction to magic and falling into a crevice from which there is no escape and no turning back.
+
+***Insane Elves.*** Wretched are obsessed with magic and will go to extreme lengths to obtain magic items and devouring the magical energy within them. This obsessing often pushes many wretched into insanity as they fixate on objects of magical power and how to extract that power.
+
+Attempting to bargain with wretched for safe passage is rarely resolved peacefully as the unpredictable nature of the elves makes them aggressive and easy to anger. 
+
+***Pest of Quel'thalas.*** The wretched elves rarely leave <br> the confines of Quel'thalas, instead they have scattered through the kingdom and taken up residence in the ruins left behind by the Scourge. There the wretched gather and let their addiction to magic take its toll. 
+
+Because of their violent temperament and unpredictable nature few wretched have been able to gather the wretched under a single rule and fight back against Quel'thalas, but should such a leader ever arise the wretched would be a true threat to the blood elves, however, with their current behavior the wretched are little more than a pest.
+
+### Wretched Names
+Wretched were once blood elves and as such continue to speak the Thalassian tongue, although few among them how shown signs of remembering the Common language.
+
+Their overindulgence have lead many wretched into insanity, some forgetting their names entirely, or choosing to take a new one more appropriate. Wretched use the same naming conventions as high and blood elves, but instead of surnames many wretched give themselves titles that describes their newfound personality for others, like *the Reckless* or *the Hungerer*.
+
+> ##### Variant: Magic Absorption
+> Wretched have an insatiable craving for magic and will go extreme lengths to obtain and consume it. Some wretched are able to devour the essence of a magic item and be empowered by it.
+>
+> A wretched devourer has a challenge rating of 1/2 (100 XP) and gains the following action option.
+> 
+> ***Devour Magic (Recharge 6).*** The wretched chooses one creature within 60 feet of it, the target must succeed on a DC 11 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the wretched's next turn. If the object is a charged item, it also loses 1d4 charges. Determine the effected item randomly, ignoring single-use items such as potions and scrolls.
+>
+> If the wretched successfully devours the magic of an item, it regains the use of one of its *once per day* innate spellcasting spells.
+
 <div class="pageLetter">W</div>
 <div class='footnote'>WRETCHED </div>
-<img src='https://www.gmbinder.com/images/bxOKVFy.jpg' style='position:absolute; top:-150px; right:-100px; width:1200px' />
-<img src='https://www.gmbinder.com/images/5SuiuAg.png' style='position:absolute; top:-200px; right:-100px; width:900px; transform:rotate(50deg)' />
-<img src='https://www.gmbinder.com/images/78Hm6FX.png' style='position:absolute; top:0px; right:0px; width:900px; transform:scalex(-1)' />
-<img src="https://www.gmbinder.com/images/m6qCwvJ.png" class="inkblot" style=" top:170px; right:-60px; width:400px; transform:rotate(44deg);">
-<img src='https://www.gmbinder.com/images/8Enaanw.png' style='position:absolute; top:-30px; right:0px; width:400px' />
+<img src='https://www.gmbinder.com/images/i7UrPYM.jpg' style='position:absolute; top:0px; right:350px; width:500px' />
+<img src='https://www.gmbinder.com/images/4TFQ04x.png' style='position:absolute; top:0px; right:-100px; width:900px; transform:scaley(-1)' />
+<img src="https://www.gmbinder.com/images/m6qCwvJ.png" class="inkblot" style=" top:570px; right:600px; width:400px; transform:rotate(44deg);">
 
 \pagebreakNum
 
