@@ -7339,7 +7339,7 @@ They have also shown a poisonous reaction towards the wolfsbane plant, a minuscu
 
 \columnbreak
 
-<div style='margin-top:380px;'></div>
+<div style='margin-top:375px;'></div>
 
 ___
 > ## Feral Worgen
