@@ -7158,20 +7158,20 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:170px;'></div>
+<div style='margin-top:230px;'></div>
 
 ## Wind Serpents
-Many adventures have seen these serpentine creatures roaming the vast deserted regions of the world, slithering across its sandy surfaces or using their powerful wings to keep them drifting above its surface. The predatory snakes pays little attention to wandering adventures, as their eyes are set on a difference price, but once provoked they become a frightening enemy to fight in large numbers.
+Slithering across in the plains of Mulgore, flying through the frosty trees of Winterspring, or prowling beneath the burning sand of Tanaris. Wind serpents are adapt creatures who can be found in all corners of Azeroth, the serpentine beasts rarely pays any attention to those who wander by, but once hungry -- or aggravated -- they become hostile and fearsome beasts with a venomous bite and innate ability to spew elemental forces at their foe.
 
-A wind serpent combines the body and head of a snake with the leathery wings of a drake, and the feathers of a brightly colored bird. Its poisonous fangs and innate ability to spew with elemental forces makes it a formidable foe.
+A wind serpent combines the body and head of a snake with the leathery wings of a drake, and the feathers of a brightly colored bird.
 
-***Spiritual Creatures.*** The winged serpents are often seen by lesser races as spirits of the sky and have become revered by tribal races such as quilboars. It is also believed that the serpents carry a connection towards the loa Hakkar the Soulflayer, granting them to name *children of hakkar* by certain individuals, and earning them a favorable place of worship by devoted individuals.
+***Spiritual Creatures.*** Wind serpents are often seen by less intelligent creatures as spirits of the sky and have long since been revered by tribal races such as the quilboars. The serpents also carry a resemblance towards the loa Hakkar the Soulflayer, giving them the name "children of hakkar" by his worshippers and earning them a favorable place at their side.
 
-***Unseen Hunters.*** Wind serpents makes for formidable hunters. They are a predator that will ambush their prey if possible to gain the moments advantage needed for a kill. They crawl among tree branches, stalk within fissures in the earth, or fly silently out from a dark nook towards their desired prey. They attack with lightning speed, swiftly poisoning their quarry.
+***Unseen Hunters.*** The serpentine beasts are formidable hunters, they are predators who utilize the environment to ambush their prey for a moments advantage. Crawling among tree branches, stalk within fissures, or flying silently out from dark nooks towards their desired target. 
 
-***Adapted Species.*** These serpentine creatures can be found in the far reaches of the world. They nest in hard-to-reach places where they can retire in safety. Many have migrated to temperate regions of the world and some to much more far off places. Different subspecies of wind serpents very drastically from one another. They adapt to the climate around them and change to better survive it.
+They attack with lightning speed and swiftly retreat once the blow has been dealt, stalking for the next opening in their targets defense. Perceptive adventurers might catch a glimpse of their colorful scales in their surroundings, a warning of their presence -- and potential quarry.
 
-Perceptive adventures are able to use the colorful scales of a wind serpent as a warning before engaging in an open fight. Their colors display nuances of the element force kept within, if any.
+***Adapted Species.*** Wind serpents can be found in the far reaches of the world. They nest in hard-to-reach places where they can retire in safety. The different subspecies of wind serpents have adapted and adjusted to the environ&shy;ment around them, changing color and elemental to better survive their harsh surroundings.
 
 > ##### Variant: Adapted Wind Serpents
 > Wind serpents are found throughout Azeroth and have adapted differently to their climate. 
