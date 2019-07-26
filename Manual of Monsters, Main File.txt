@@ -7116,11 +7116,9 @@ ___
 <div class="mmletter mml-w"></div>
 <div class="pageLetter">W</div>
 <div class='footnote'>WHALE SHARK </div>
-<img src='https://www.gmbinder.com/images/ggrco7c.jpg' style='position:absolute; top:890px; right:310px; width:500px' />
-<img src='https://www.gmbinder.com/images/nrvxpDI.png' style='position:absolute; top:300px; right:-100px; width:700px' />
-<img src='https://www.gmbinder.com/images/dStbKfZ.png' style='position:absolute; top:-30px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-blue' style='top:-200px; right:0px; width:700px; transform:rotate(-60deg)'>
-<img src='https://www.gmbinder.com/images/XARxGdz.png' style='position:absolute; top:50px; right:-200px; width:1000px' />
+<img src='https://www.gmbinder.com/images/84P8ntb.png' style='position:absolute; top:-30px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-blue' style='top:-100px; right:0px; width:700px; transform:rotate(-60deg)'>
+<img src='https://www.gmbinder.com/images/XARxGdz.png' style='position:absolute; top:150px; right:-200px; width:1000px' />
 
 \pagebreakNum
 
