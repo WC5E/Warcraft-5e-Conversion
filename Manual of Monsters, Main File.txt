@@ -6649,17 +6649,17 @@ ___
 \pagebreakNum
 
 ## Troggs
-Troggs are savage creatures with long, muscular arms and muscles that appear carved from stone. They grow thick, coarse beards in colors resembling chalk or granite, and it is not rare to see minerals outright growing on their flesh. Their slouched posture and burly proportions have many characterizing them as apelike troglodytes.
+Troggs are savage creatures with long, muscular arms and muscles that appear as if carved from stone. They grow thick, coarse beards in colors resembling chalk or granite, and it is not rare to see minerals growing on their flesh. Their slouched posture and burly proportions have many characterizing them as apelike troglodytes.
 
-***Titanic origins.*** After the titanic Keepers had ended their war with the Old Gods, they set to work on shaping a new generation of titan-forged creatures within the Titan complex of Ulduar. Regrettably, their initial designs proved far too complex, yielding a race of brutish stone-skinned monstrosities -- troggs. Though the Keepers quickly went to rectify their mistakes, they could not bring themselves to destroy the defect creations. Rather, the titanic Keeper *Ironaya* saw the construction of the vault of Uldaman; a facility that would serve as a stasis chamber for the troggs, with herself as its designated warden.
+***Titanic origins.*** After the titanic Keepers had ended their war with the Old Gods, they set to work on shaping a new generation of titan-forged creatures within the Titan complex of Ulduar. Regrettably, their initial designs proved far too complex, yielding a race of brutish stone-skinned monstrosities -- troggs. Though the Keepers quickly went to rectify their mistakes, they could not bring themselves to destroying the defect creations. Rather, the titanic Keeper *Ironaya* would oversee the construction of the vault of Uldaman; a facility that would serve as a stasis chamber for the troggs, with herself as its designated warden.
 
 Over the years, a few small groups managed to break free from Uldaman. Some of these scattered themselves out across the surface of Azeroth, while others burrowed their way deeper down to dwell in the subterranean caverns of *Deepholm*. The rest stayed as they were, asleep beneath the earth, until a dwarven excavation unearthed the titanic vault. Once the seal was broken and the troggs awoke, they quickly overpowered the dwarves and swarmed to the surface.
 
 There, the troggs burrowed their way through every peak and valley across Khaz Modan, including the subterranean gnomish city of Gnomeregan. To this day, trogg tribes can be found in every corner of the Khaz Modan -- with distant cousins across Azeroth, above and beneath the earth.
 
-***Progenitor race.*** Since the troggs were the initial failed experiment of the titanic Keepers, to flourish new life on Azeroth, their failure became the blueprint for future revised designs -- and ultimately, the *earthen*. A race of stone-carved beings created to help shape and order the subterranean regions of the world during the ordering of Azeroth, of which some later became the creatures since known as dwarves.
+***Progenitor race.*** Since the troggs were the initial failed experiment of the titanic Keepers -- to flourish new life on Azeroth, their failure became the blueprint for future revised designs -- and ultimately, the *earthen*. A race of stone-carved beings created to help shape and order the subterranean regions of the world during the ordering of Azeroth, of which some later became the creatures since known as dwarves.
 
-Theories have also been floated, mainly by the prominent dwarven explorer Brann Bronzebeard, that the *kobolds* are themselves an evolved offshoot from an early group of troggs. Likely one that early broke free from the titanic vault of Uldaman. There has been no conclusive evidence of this, only theories surrounding their resemblance.
+Theories have also been floated, mainly by the prominent dwarven explorer Brann Bronzebeard, that the *kobolds* are themselves an evolved offshoot from an early group of troggs. Likely one that earlier broke free from the titanic vault of Uldaman, however, there has been no conclusive evidence of this, only theories based on their resemblance.
 
 ***Primitive and fierce.*** Troggs are best known for their stature, ferocity, and smell -- said to resemble a mixture of mold, mange, and sour monkey. Living together in tight-knit tribes and clans, their main driving force is an imposing psyche and impressive force of will, though they are not known to be intelligent beyond being sentient. Less so than even an ogre would be considered. They follow the leadership of whoever can prove themselves the biggest and strongest, with aspiring trogg chieftains often going to great lengths to prove their viciousness. Troggs are known to eat whatever they can get their hands on; including rocks, or even occasionally other troggs.
 
@@ -6709,7 +6709,7 @@ ___
 ### Trogg Names and Language
 Troggs do not possess any discernible language of their own, and tend to resort to violence rather than negotiation when faced with a threat. Still, those who do communicate do so in a mixture of grunts and what Common they know.
 
-Their names draw from the same roots as dwarven language, especially with its hard consonants and guttural sounds. Some troggs, usually tribe leaders, choose names in Common to best describe themselves. It is unclear whether these names are direct translations, or deliberate choices to intimidate other races.
+Their names draw from the same roots as the dwarven language, especially with its hard consonants and guttural sounds. Some troggs, usually tribe leaders, choose names in Common to best describe themselves. It is unclear whether these names are direct translations, or deliberate choices to intimidate other races.
 
 Trogg tribes are usually in Common, and often draw from their way of being or directly from whichever place they claim as their home.
 
