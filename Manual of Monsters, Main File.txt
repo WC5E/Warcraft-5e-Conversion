@@ -6584,31 +6584,32 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:480px;'></div>
+<div style='margin-top:440px;'></div>
 
 ## Treant
-Treants are awakened trees imbued with great wisdom and strength that dwell in ancient forests. The moving trees prefer the calm and quiet of the world's ancient forests, and little is seen of them in times of peace and calm.
+Few would peer upon the stout treants and think of them as wise or strong beings, but the awakened trees have been imbued with great wisdom and strength by the spirits of the forests they dwell in. They are a product of war and strive, and little is seen of them in times of calm and peace.
 
-***Ancient Sapling.*** Treants are powerful, ancient trees and a more primitive form of their related wise Ancients. They sprout from the seeds of the ancients and will—if they are given enough time—grow to be ancient protectors devoted to keeping the borders of forests safe.
+***Corrupted and Unpredictable.*** During the Third War, forests would be charred and destroyed as the demons of the Burning Legion invaded Azeroth once more. <br> The destruction would be amplified through the treants as their homes and purpose was ripped and burnt away. The deforestation drove many of the stout guardians mad with grief and create a vacuum within them, a vacuum that allowed the influence of the legion to take root and drive them insane. The corruption have made many treants un&shy;predictable, driving them to lash out against any outsider, believing them to be enemies seeking to destroy what little remains of the forest around them.
 
-***Nature's Guardians.*** These primitive ancients serve nature itself. They dwell the depths of forests and patrol its borders, flinging themselves at nature's enemies as soon as they can, slashing with their wooden claws.
+Most adventurers have shown caution towards treants since the war's end as the madness of the stoic guardians won't become apparent before it is too late to retreat.
 
-Treats are closely affiliated with creatures of the forests and powerful druids and often accompany such creatures through their forests. The treants are also known to act as guide for allies of nature, showing them safe passage through the heart of the forest.
+***Saplings of Ancients.*** From the saplings of ancients sprouts their primitive offspring, the treant. Beings imbued with the strength and wisdom displayed by the ancients. Like the forest around them, treants continuously grow through their life and it is believed that with enough time a treant can become an ancient protector, a devout guardian tasked with keeping the forests safe.
 
-***Corrupted and Insane.*** The destruction of Azeroth's forests during the Third War, the removal of the peaceful and beautiful homes the treants had guarded drove many of the guardians mad with grief and allowed the demonic presence to take root within and corrupt them. It has made many treants unpredictable and driven them to lash out at anyone that approaches it.
+***Guardians of Nature.*** Like ancients, treants serve the forces of nature above all else. In times of strive they are the ones who wander the forests, seeking out those who have wronged it and flinging their barbed claws at creatures who dare to violate what is sacred.  
 
-Most adventures are cautious when approaching a treant in the depths of a forest, as the ancient guardians madness won't become apparent before it's too late to retreat.
+Their task of safe-guarding nature have granted them favors among woodland creatures and druids, making it rare to see treants wandering alone as they are often accompanied by others of sprouts or beings of the forest.
+
 
 \columnbreak
 
-<div style='margin-top:300px;'></div>
+<div style='margin-top:230px;'></div>
 
 ___
 > ## Treant
 >*Medium plant, chaotic neutral*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 32 (5d8 + 10)
+> - **Hit Points** 38 (6d8 + 12)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6622,6 +6623,8 @@ ___
 > - **Challenge** 2 (450 XP)
 > ___
 >
+> ***False Appearance.*** While the treant remains motionless, it s indistinguishable from a normal tree.
+>
 > ### Actions
 > ***Multiattack.*** The treant makes two claw attacks.
 >
@@ -6629,8 +6632,10 @@ ___
 >
 > ***Entangle (Recharges after a Short or Long Rest).*** <br> A creature within 60 feet must succeed on a DC 12 Strength saving throw or be restrained for 1 minute. The creature can use its action to make a DC 12 Strength check, freeing itself on a success.
 
+<div style='margin-top:35px;'></div>
+
 > ##### Variant: Treant Wildcaller
-> A few treants can call upon the forces of nature. A treant wildcaller has a challenge rating of 3 (700 XP) and the following trait.
+> Although all treants can manipulate the forest to some degree, wildcallers can harness the full might of the wilderness. A treant wildcaller has a challenge rating of 3 (700 XP) and the following trait.
 >
 > ***Spellcasting.*** The treant is a 4th-level spellcaster. its spellcasting ability is Wisdom (save DC 11, +3 to hit with spell attacks). The treant has the following druid spells prepared:
 >
@@ -6642,9 +6647,8 @@ ___
 <div class="mmletter mml-t"></div>
 <div class="pageLetter">T</div>
 <div class='footnote'>TREANT </div>
-<img src='https://www.gmbinder.com/images/MWWVxVG.jpg' style='position:absolute; top:0px; right:25px; width:860px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/5SuiuAg.png' style='position:absolute; top:-200px; right:-200px; width:900px;transform:rotate(30deg)' />
-<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/MWWVxVG.jpg' style='position:absolute; top:0px; right:0px; width:800px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/78Hm6FX.png' style='position:absolute; top:0px; right:0px; width:900px; transform:scalex(-1)' />
 
 \pagebreakNum
 
