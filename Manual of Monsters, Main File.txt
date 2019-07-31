@@ -6633,7 +6633,7 @@ ___
 > - **Challenge** 2 (450 XP)
 > ___
 >
-> ***False Appearance.*** While the treant remains motionless, it s indistinguishable from a normal tree.
+> ***False Appearance.*** While the treant remains motionless, it is indistinguishable from a normal tree.
 >
 > ### Actions
 > ***Multiattack.*** The treant makes two claw attacks.
