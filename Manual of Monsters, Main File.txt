@@ -2633,7 +2633,7 @@ Also prominent are the Spirit Healers; ascendant Val'kyr who, following the bani
 
 > ##### The Spirit Healers
 >
-> The first of the Val'kyr was the titanic Watcher Helya, bound by the Keeper Odyn to an eternal servitude as the bringer of souls to his gilded Halls of Valor: the golden realm for all slain spirits of Odyn's followers. Her servitude was not willing, but a punishment, and one for which she had let her hatred for Odyn simmer for milennia.
+> The first of the Val'kyr was the titanic Watcher Helya, bound by the Keeper Odyn to an eternal servitude as the bringer of souls to his gilded Halls of Valor: the golden realm for all slain spirits of Odyn's followers. Her servitude was not willing, but a punishment, and one for which she had let her hatred for Odyn simmer for millennia.
 >
 > When the Keeper Loken came with a promise of a way out, and subsequently broke her chains, she called upon her powers to bend the arcane energies of Azeroth into an impregnable seal around Odyn's halls, its inhabitants sealed within.
 >
@@ -4478,19 +4478,17 @@ ___
 \pagebreakNum
 
 ## Murloc
-From a distance the degenerated fishlike humanoids that is murlocs might not seem like a big threat, but the small creatures are never alone and never far from their tribe and the water they inhabit. Their disgraceful and often humorous nature should not be underestimated cause behind their blank expressions lies a murderous mindset.
+From a distance, the degenerate and fishlike murlocs might not seem like much of a threat, but the small creatures are rarely cornered alone. They rarely venture far from their waters, and never too far from their tribe. Though they might seem humorous for their ways, behind their blank expressions hides a murderous mind.
 
-***Strange Territories.*** Murlocs populate coastlines, lake&shy;shores and swamps, never straying far from the land of their tribe. In more recent times, they have spread to many regions across Azeroth, inhabiting inland lakes and long secluded beaches.
+***Strange Territories.*** Murlocs populate coastlines, lake&shy;shores and swamps, and prefer to keep within their territory. A murloc tribe on the move is often one looking for a new place to settle. Over the millennia, they have managed to settle across most of Azeroth.
 
-Murlocs build strange chaotic villages of mud-and-twig huts that resemble structures more suited for the bed of the ocean than above the water. Their huts are scattered chaotically about without a discernible pattern, except for the prominent hut distinctly crafted for their oracle.
+They build their chaotic villages out of mud-and-twig huts, resembling structures more suited for life underwater than life along the shore. There's no orderly pattern to where a murloc would build its home, though the tribe's oracle and strongest fighters tend to claim the best spots.
 
-***Questionable Intelligence.*** Many races suggest that the murlocs are not particularly clever, considering their nearly impossible to decipher language. Others argue that, their ability to use weapons and their unusual fighting skills indicate a devilish smartness.
+***Questionable Intelligence.*** Most would claim that murlocs are not very clever, considering their simple lives and near-indecipherable language.
 
-Murlocs are faithful creatures with a faith unlike any other. They worship entities of the sea, from the ordinary fish to huge elementals, and even prominent nagas. But their faith and belief in an entity is usually temporary and can change over the span of a week as events change.
+Still, they are ferocious hunters and zealous in their faith. There does not appear to be any singular belief to which the murlocs keep. Instead, they follow the whim of what signs they can read in the elements, and occasionally the will of other aquatic entities -- including nagas.
 
-***Pack Fighters.*** Even though murlocs aren't particularly brave, they will attack any traveler that approaches them if they can outnumber them.
-
-Under pressure they flee to the water hoping for their foe to be foolish enough to follow them. Those who chase them underwater, regrets it as soon as they realize that there are several murlocs waiting in hiding, ready to attack quickly from all directions, like a swarm of hungry fish.
+***Pack Hunters.*** Though murlocs are not particularly brave, they will attempt to hunt any foe that they can outnumber. They lead just a few murlocs in the front to trick their quarry into giving chase, often into murky waters if they can. There, the brunt of the tribe's hunters lay in wait, leaping into the fray like a swarm of hungry fish.
 
 ### Murloc Tidehunter
 While many murlocs can use their intelligence to handle weapons to defend themselves, some of them are able to use their equipment to hunt. Being able to create nets and use them, tidehunters attacking in numbers, can be a serious threat to anyone foolish enough to pass through their territory. 
