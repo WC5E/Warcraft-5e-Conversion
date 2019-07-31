@@ -6147,9 +6147,9 @@ ___
 <div style='margin-top:486px;'></div>
 
 ## Silithids
-Silithids are frightful insectoids living in large colonies beneath the crust of Azeroth. Although their individual strength is questionable at best, their collective hive mind is able to send warnings and pain surging through the hive.
+Silithids are frightful insectoids that lives in large colonies excavated beneath Azeroth. Although the insects individual strength is questionable at best, the colony's collective hive-mind can send warnings and pain surging through the hive to alert the silithids of the intruders.
 
-Silithid can range drastically in size, beginning their life as small insignificant larva and growing into the swarms of insectoids that make up their race. Whatever their size may be, they all resemble massive insects. If those insects had mutated and desperately wanted to kill you.
+Silithid can range drastically in size, beginning their life as small insignificant larva and growing into the swarms of insectoids that make up their colonies. Whatever their size may be, they all resemble massive insects. If those insects had mutated and desperately wanted to eat you.
 
 ***Spawns of Qiraji.*** As the kingdon of the aqir was left in ruins, those who remained would split in two and venture in opposite directions. One grouped traveled as far south as south goes and ransacked the research station near Uldum. Converting the titan facility into an extensive hive, renamed themselves the qiraji and their new home Ahn'Qiraj.
 
@@ -6157,17 +6157,17 @@ But their new hive held a dark secret, the facility had served as the prison of 
 
 To form this army C'Thun would create the silithid, a race of insectiod creatures born from the qiraji themselves. The silithid would grow and become an enormous force for Ahn'Qiraj to utilize as they  created their great empire.
 
-***Bestial Drones.*** Unlike the qiraji, the silithid are not intelligent, sentient beings. C'Thun created them from the powers of the qiraji to become a mighty force for Ahn'Qiraj. Mindless bestial insectoids, minions that are eternally loyal to the qiraji and in turn C'Thun himself.
+***Bestial Drones.*** Unlike the qiraji, silithids aren't sentient beings. C'Thun created them to be mindless servants of the qiraji, minions that would be eternally loyal to the rulers of Ahn'qiraj and in turn to C'Thun himself.
 
 \columnbreak
 
 <div style='margin-top:733px;'></div>
 
-&nbsp;&nbsp;&nbsp; ***Collective Hive Mind.*** Although silithids might seem to be acting of their own accord, they are not sentient beings and work as a collective entity in their hive. This does not though make them any less dangerous. A hive of silithids is often controlled by one or more colossi exerting their will over the collective hive and directing their way of life.
+&nbsp;&nbsp;&nbsp; ***Collective Hive-Mind.*** Although silithids might seem to be acting of their own accord, they are not sentient beings and work as a collective entity in their hive. This does not however make them any less dangerous. A hive of silithids are often controlled by one or more colossi exerting their will over the collective hive and directing their way of life.
 
-The hive colossi's are in turn controlled by the powerful qiraji who exert complete dominance over the race shaped from their own beings. It is not uncommon for large hives to have a large crystalline prism deep within its core for the qiraji to communicate various messages through.
+The hive colossi's are in turn controlled by the powerful qiraji who exert complete dominance over the race shaped from their own beings. It is not uncommon for large hives to have a strange crystalline prism deep within its core for the qiraji to directly communicate orders through.
 
-***Adaptable Hive.*** No other creature can adapt to changes in their environment as quickly as the silithid. Although adventurers foolish enough to delve into the hive of silithids in hopes of removing their colossi might think that killing the center of the hive mind will hamper the silithids. The larva can evolve into a variety of silithid creatures based on the needs of the hive and replenish any loss.
+***Adaptable Hive.*** No other creature can adapt to changes in their environment as quickly as the silithid. Adventurers foolish enough to delve into the heart of a silithid hive in hopes of removing its colossi might think that they've killed its mind and hampered the colony, however, the its larva are able to evolve into a variety of shapes and sizes based on the colony's needs, replenishing any loss.
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SILITHIDS </div>
