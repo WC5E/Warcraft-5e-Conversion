@@ -3992,31 +3992,35 @@ ___
 \columnbreak
 
 ## Leper Gnome
-Beneath the snow capped mountains of Dun Morogh lies the halls of Gnomeregan. It was once the capitol of the gnomes, but now its irradiated halls are home only to troggs and the crazed gnomes who survived the culling radiation of their once remarkable capitol.
+Beneath the snow capped mountains of Dun Morogh lay the halls of Gnomeregan. Once the gnomish capitol, the city's irradiated halls now only swarm with troggs and crazed, addled gnomes. These gnomes, permeating with radiation, have become known as leper gnomes. Their skin has turned a sickly green, dotted with abscesses that burst at the smallest stress or strain.
 
-Leper gnomes are gnomes contaminated by the toxic radiation of Gnomeregan. It has turned their skin a sickly green and dotted with abscesses that burst at the smallest strain they exert.
+***A Necessary Sacrifice.*** When the gnomish capitol of Gnomeregan was invaded by troggs, a desperate decision was made when the High Tinker ordered all radioactive waste from the city's numerous machines unleashed. 
 
-***A Necessary Sacrifice.*** When the gnomish capitol of Gnomeregan was invaded by hordes of troggs, the High Tinker ordered to cull the city and drive the troggs back by using the radiative waste previously contained within the machines of the city. Many more gnomes were killed than troggs when Gnomeregan was flooded by radiation.
+Vented through the city in a noxious green gas, and flooded through the pipes in rivers of green goop, the attempt to cull their invaders ultimately killed off more gnomes than troggs -- and left the city a radioactive wasteland, riddled with danger.
 
-Even worse, though, the gnomes who survived was horribly mutated and driven to madness by the radiation that sept into the city, changing them into what are now know as leper gnomes.
+Worse yet, as the city's ruins were later explored, it became clear how many had survived the ordeal; all of them mutated and driven mad by the city's green haze.
 
-***Insane and Hostile.*** Fractious in groups and individually weak, most leper gnomes continue life in the poisonous halls of their city. Their minds are left crazed by the toxic fumes and have given them a tendency toward paranoia for the troggs which they now share the vast city with. They are hostile towards all intruder who dare enter their city, believing them to be trogg invaders or at best allied with the troggs themselves. Many of the leper gnomes know nothing else than the constant fear of troggs invading, and the few remaining survivors of the culling have lost their minds and memories of any other life.
+***Hostile Insanity.*** Fractious at best, the leper gnomes have continued their life in Gnomeregan as though all is as it once was. Their minds warped by toxic fumes, most leper gnomes do not seem grasp the reality of their situation. Most dangerous are the few that do.
 
-***Mutated Creatures.*** The radiation has fundamentally altered the leper gnomes into something else and so far no cure to know to counteract the effect on them. The longer a leper gnome spend near radiation the more their body becomes a twisted and devolved. They continue to devolve further until they become mindless puddles of toxic sludge.
+Still sharing the city with their trogg invaders, leper gnomes are known to be extremely paranoid and prone to immediate hostility toward any who would come looking for them. After all, anyone they don't know could suddenly turn out to be in tow with the troggs.
+
+***Mutated Creatures.*** Once the radiation takes hold in a creature, as witnessed with the leper gnomes, it slowly warps into something else; gradually tearing it apart until little more is left than a mindless puddle of toxic sludge. With the time the leper gnomes have spent below the earth, in Gnomeregan, some unfortunate few have already twisted and devolved into monstrous aberrations.
+
+<div style='margin-top:27px;'></div>
 
 > ##### Radiation Disease
-> When an uninfected creature comes into contact with a source of radiation, such as contaminated water—being bitten by an infected creature, or for every hour spent in an area of high radiation—the creature must succeed on a DC 11 a Constitution saving throw or contract the radiation disease.
+> When an uninfected creature comes into contact with a source of radiation — such as contaminated water, being bitten by an infected creature, or for every hour spent in a high-radiation area — the creature must succeed on a DC 11 a Constitution saving throw or contract the radiation disease.
 >
-> It takes 1d4 days for the disease to manifest. As it does the creature's skin gains a sickly green tint and abscesses start to spread across its surface. At the end of that period, the creature gains advantage on saving throws against poison and gains resistance against poison damage. The creature also has disadvantage on all Strength and Dexterity ability checks, and weapon attack rolls.
+> It takes 1d4 days for the disease to manifest. As it does, the creature's skin takes on a sickly green tint and abscesses start to spread across its surface. At the end of that period, the creature gains advantage on saving throws against poison and resistance against poison damage. However, the creature also has disadvantage on all Strength and Dexterity ability checks, as well as weapon attack rolls.
 >
-> Creatures who have carried the radiation disease for more than two weeks have their skin turn entirely green. The creature also no longer suffers from dis&shy;advantage on their ability checks or weapon attacks, and instead gain an indefinite madness. As described in the 5th Edition *Dungeon Master's Guide*.
+> Once a creature has carried the radiation disease for more than two weeks, its skin turns completely green. It no longer suffers from disadvantage on ability checks or weapon attacks, but it gains an indefinite madness as described in the *Dungeon Master's Guide* (p. 260).
 >
-> The radiation symptoms can be cured by spells such as *lesser restoration*. Once the disease has manifest, however, more powerful magic such as *greater restoration* or *heal* is required.
+> The radiation symptoms can be cured by a spell, such as *lesser restoration*. Once the disease has manifested, a more potent spell such as *greater restoration* or *heal* is required.
 
 <div class="pageLetter">L</div>
 <div class='footnote'>LEPER GNOME </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:0px; right:300px; width:500px'>
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:0px; right:327px; width:500px'>
 <img src='https://www.gmbinder.com/images/l0q9dDf.jpg' style='position:absolute; top:15px; right:370px; width:480px;mix-blend-mode:darken;transform:scalex(-1)' />
 
 \pagebreakNum
@@ -4024,16 +4028,16 @@ Even worse, though, the gnomes who survived was horribly mutated and driven to m
 <div style='margin-top:147px;'></div>
 
 ## Makrura
-A makrura is a large aquatic race found living in small colonies along the coastlines of Azeroth and deep within the ocean. Makrura resemble enormous crayfish and observers have mistakenly called them *lobster men*.
+A makrura is a large aquatic creature found living in small colonies along Azeroth's numerous coastlines and deep oceans. They resemble enormous crayfish, some near six feet tall, to which some call them *lobster men*.
 
-***Aggressive and Hostile.*** A makrura within the confines of its colony is immediately hostile towards intruders and attempts to kill anyone that ventures to near. They use their massive claws to pinch their target, grappling them in place while the other tears the target into pieces.
+***Aggressive and Hostile.*** Makruras within the confines of their colony are immediately hostile toward intruders, and will attack anyone who dare approach. With their massive claws, they pinch and pin their target down, before subsequently tearing it into tiny pieces.
 
-***Wrecked Colonies.*** These large aquatic creatures create small colonies at the water’s edge or on the ocean floor. The makrura is unable to create sable homes are often settle in the wreckages of lost ships or underwater caverns.
+***Wrecked Colonies.*** With their homes often situated in turbulent waters or along contested shorelines, it is not uncommon for a colony to seek seclusion by taking shelter inside wrecked ships or underwater caverns.
 
-***Savory Prey.*** The meat of a makrura has proven to be a  tasty treat to many races, and is appreciated all too well by creatures both on land and sea. Whilst some races on land hunt them for food, their most hated enemies are the ever present and notorious murlocs and nagas.
+***Savory Prey.*** Makrura meat is a delicacy, tried and tested, for many races both above and beneath the ocean. Some towns and villages may try to turn a nearby colony into a hunting opportunity, though the most prominent enemy of the makrura are murlocs and nagas.
 
 ### Makrura Tidecaller
-Some Makrura has an innate capacity for water magic and are able to call upon its forces, these makruras are called tidecallers. The makrura tidecallers call upon the waters to aid their allies and hamster their enemies if needed.
+Some Makrura have an innate affinity for water magic, able to summon its powers at will. These notorious mystics are known as tidecallers; often wise sages in their colonies, they bring forth the tides both to heal and to harm.
 
 ___
 > ## Makrura
@@ -4144,16 +4148,18 @@ ___
 \columnbreak
 
 ## Mana Wyrms
-Manifesting near pockets of arcane energy, mana wyrms are small shimmering creatures that hover above the ground as they slither towards creatures or objects of arcane energy.
+Manifesting near pockets of arcane energy, mana wyrms are, as the name implies, serpent-like creatures that shimmer with arcane energy. 
 
-Rarely does the sight of a mana wyrm cause a seasoned adventurer concern, for them the small creatures are more of a nuisance than a threat and is easily avoided.
+Their bodies are translucent, hovering above the ground as though they are swimming through the air. More a nuisance than a threat, they rarely pose much concern for seasoned adventurers who happen by them.
 
-***Unstable Temperament.*** The temperament of a mana wyrm hangs solely on how long it’s been since it last fed on mana. These creatures are considered docile and harmless if fed often, but aggressive and unpredictable if hungry. The wyrms are also known for exploding in a flash of arcane.
+***Unstable Temperament.*** The temperament of a mana wyrm hangs solely on how long it’s been since it last fed. Though they are considered fairly harmless, an agitated wyrm can very quickly turn aggressive. If threatened, they are known to explode in a flash of arcane energy.
 
-***Arcane Sense.*** A mana wyrms can sense the taint and use of arcane energy near them and gravitate towards it, focusing their attacks against creatures that reek of arcane magic if hungry.
+***Arcane Sense.*** A mana wyrms can sense the presence of arcane energy around it, and will gravitate toward its source. If the source is a creature and the wyrm is hungry, it may attempt to attack the creature accordingly. 
 
 ### Arcane Wyrm
-An arcane wyrm is by many considered an overgrown mana wyrm that's been allowed to feed on too much energy before being put down. These long slithering creatures resemble large mana wyrms, and carry many of the same qualities as their kin. They are known for having a more even temperament than mana wyrms, and less prone to immediate hostility.
+An arcane wyrm is in many ways similar to a mana wyrm, though it is much, much larger, slowly snaking their way through the air near arcane fonts. 
+
+Some have attributed their existence to them simply being left to feed on too much energy, though their temperament is still calm and even so long as they not directly threatened.
 
 <div style='margin-top:17px;'></div>
 
@@ -4222,16 +4228,20 @@ ___
 \columnbreak
 
 ## Mechanicals
-Mechanical constructs distinguish themselves from organic creatures mainly for their lack of blood, internal organs, and natural instincts. Instead, gears whirr and circuits spark inside these mobile machinations -- some of which act only at the behest of whoever holds the controls, while others have been configured to automatically carry out a pre-determined set of instructions.
+Mechanical constructs distinguish themselves from organic creatures mainly for their lack of blood, internal organs, and natural instincts. Instead, gears whirr and circuits spark inside these mobile machinations. 
 
-Some mechanicals distinguish themselves further still, possessing instructions so meticulously crafted as to resemble genuine intelligence. As they are wholly driven by the logic of their configuration, mechanical constructs do not possess the ability to make an emotional response: they cannot be charmed, and they certainly cannot be frightened.
+Some act only at the behest of whoever holds the remote, while others automatically carry out their given set of pre-configured instructions. Some mechanicals distinguish themselves even further, possessing instructions so meticulously crafted as to resemble genuine intelligence. 
 
-***Titanic Legacy.*** The origin of Azeroth's great mechanical achievements can be traced back to the titanic Watchers and the ordering of Azeroth. There, the titanic Keeper Mimiron oversaw the creation of a race of diminutive clockwork humanoids; mechagnomes, forerunners of the gnomes who now stand on the contested frontier of technological innovation.
+As they are wholly driven by the logic of their instructions, mechanical constructs do not possess the ability to give any emotional response: they cannot be charmed, and they certainly cannot be frightened.
 
-***Gnomish and Goblin Ingenuity.*** Alongside the legacy of the gnomes, carrying on the work of the titanic Keeper who saw their creation, another source of technolgical innova&shy;tion on Azeroth has been the artifically enhanced ingenuity of the goblins. Unlike the gnomes, however, such goblin ingenuity has a tendency to be remarkably destructive. The two races have led a contested field of engineering, and have overseen countless mechanical wonders and mishaps across several decades -- including cities, transportation systems, explosive automatons, and giant death rays.
+***Titanic Legacy.*** The origin of Azeroth's great mechanical achievements can be traced back to the titanic Watchers and the ordering of Azeroth. There, the titanic Keeper Mimiron oversaw the creation of a race of diminutive clockwork humanoids -- mechagnomes, forerunners of the gnomes -- as well as a number of other mechanical creations that have since stood the test of time.
+
+***Gnomish and Goblin Ingenuity.*** Alongside the legacy of the gnomes, instinctly carrying on the work of their titanic creator, another point of technolgical innova&shy;tion across Azeroth has been the artifically enhanced ingenuity of the goblins. Unlike the gnomes, however, goblin creations have a dentency to be remarkably destructive.
+
+The two races lead a contested field of engineering, and have overseen countless mechanical wonders and mishaps across the years -- including cities, transportation systems, explosive automatons, and giant death rays.
 
 ### Mechanical Animal Template
-A mechanical animal is any Huge or smaller beast created by gnomes and engineers to resemble the shape of a beast found on Azeroth. The following characteristics change or are added to a mechanical animal when created.
+A mechanical animal is any Huge or smaller construct created by a skilled engineer to mimic a beast of the same size. The following characteristics change or are added to a creature when a mechanical version is created.
 
 ***Retained Characteristics.*** The mechanical animal retains its Armor Class, hit points, Hit Dice, Speed, Strength, Dexterity, Constitution, vulnerabilities, resis&shy;tances, immunities, and special traits.
 
@@ -4255,19 +4265,19 @@ As an example, the Mechanostrider shown here uses the base statistics of a talls
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-blue' style='top:0px; right:350px; width:600px'>
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-blue' style='top:0px; right:335px; width:600px; transform:rotate(40deg);'>
 <img src='https://www.gmbinder.com/images/FY0kkNX.png' style='position:absolute; top:0px; right:350px; width:400px' />
 
 \pagebreakNum
 
 ### Alarm-o-Bot
-These constructs are, as the name suggests, walking alarms. Originally by gnomes as a safeguard, to protect themselves against enemies hidding away in the dark, rugged terrain of their homelands, the alarm-o-bot keeps a constant watch for any sound or motion that it can discern with its numerous sensors. If it detects anything it cannot confirm as friendly, it blares out a high-pitched warning.
+These constructs are, as the name suggests, walking alarms. Envisioned by gnomes as a safeguard against threats hiding in the dark, rugged terrain of their homeland, the alarm-o-bot keeps a constant watch for sights, sounds, and more with its numerous sensors. If there's a presence it cannot confirm to be friendly, it blares out a high-pitched warning that danger is afoot.
 
 ### Bombling
-One of the original pinnacles of goblin engineering, bomb&shy;lings -- or bomb bots -- is a bomb affixed with a set of legs and a pair of eyes. Once a bombling has fixed itself onto a target, it gives chase until it gets close enough to detonate.
+An old goblin classic, the bombling -- or bomb bot -- is a small set of legs and a pair of eyes designed to carry an explosive charge on its back. It can be primed both to a specific target and to a general swathe of targets, which it will then try to chase down. Once it gets close enough, it detonates.
 
 
-<div style='margin-top:261px;'></div>
+<div style='margin-top:230px;'></div>
 
 ___
 > ## Alarm-o-bot
@@ -4298,12 +4308,12 @@ ___
 \columnbreak
 
 ### Crowd Pummeler
-A mechanical design adopted by both goblins and gnomes, crowd pummelers take the form of a tall bipedal construct loaded with heavy weaponry. Its name is not coincidental, as it is most commonly used as cheap, easily maintained sentries; programmable with a set of laws and regulations, and equipped with the chief directive to pummel anyone found to break said laws.
+A mechanical design adopted by both goblins and gnomes, crowd pummelers take the form of a tall, bipedal construct loaded with weapons. Its name is not coincidental, as it is often used as cheap throw-away sentries; programmable with a set of laws and regulations, alongside a chief directive to pummel any perpetrators.
 
 ### Mechano-Tank
-The Mechano-tank, or spider tank, is a gnomish construct best known for its armoured chassis and spider-like design. Built for close-quarters conflicts, most mechano-tanks come armed with fine-tuned and deadly weaponry. Their legs are able to contract and release, launching the tank forward into combat.
+The Mechano-tank, or spider tank, is a gnomish construct best known for its armoured chassis and spider-like design. Built for close quarters, the tanks are reinforced to withstand the elements and fined-tuned for maximum destruction. Their legs are able to contract and release, allowing the tank to launch forward into combat.
 
-<div style='margin-top:230px;'></div>
+<div style='margin-top:245px;'></div>
 
 ___
 > ## Bombling
@@ -4333,8 +4343,8 @@ ___
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-blue' style='top:100px; right:150px; width:500px; transform:rotate(260deg)' />
-<img src='https://www.gmbinder.com/images/9nXCFwU.png' style='position:absolute; top:320px; right:100px; width:200px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-blue' style='top:110px; right:150px; width:500px; transform:rotate(248deg)' />
+<img src='https://www.gmbinder.com/images/9nXCFwU.png' style='position:absolute; top:325px; right:100px; width:200px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/ggaGnjz.png' style='position:absolute; top:280px; right:360px; width:400px;transform:scalex(-1)' />
 
 \pagebreakNum
