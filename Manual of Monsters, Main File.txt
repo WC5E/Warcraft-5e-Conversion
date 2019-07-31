@@ -4271,13 +4271,13 @@ As an example, the Mechanostrider shown here uses the base statistics of a talls
 \pagebreakNum
 
 ### Alarm-o-Bot
-These constructs are, as the name suggests, walking alarms. Originally by gnomes as a safeguard, to protect themselves against enemies hidding away in the dark, rugged terrain of their homelands, the alarm-o-bot keeps a constant watch for any sound or motion that it can discern with its numerous sensors. If it detects anything it cannot confirm as friendly, it blares out a high-pitched warning.
+These constructs are, as the name suggests, walking alarms. Envisioned by gnomes as a safeguard against threats hiding in the dark, rugged terrain of their homeland, the alarm-o-bot keeps a constant watch for sights, sounds, and more with its numerous sensors. If there's a presence it cannot confirm to be friendly, it blares out a high-pitched warning that danger is afoot.
 
 ### Bombling
-One of the original pinnacles of goblin engineering, bomb&shy;lings -- or bomb bots -- is a bomb affixed with a set of legs and a pair of eyes. Once a bombling has fixed itself onto a target, it gives chase until it gets close enough to detonate.
+An old goblin classic, the bombling -- or bomb bot -- is a small set of legs and a pair of eyes designed to carry an explosive charge on its back. It can be primed both to a specific target and to a general swathe of targets, which it will then try to chase down. Once it gets close enough, it detonates.
 
 
-<div style='margin-top:261px;'></div>
+<div style='margin-top:230px;'></div>
 
 ___
 > ## Alarm-o-bot
@@ -4308,12 +4308,12 @@ ___
 \columnbreak
 
 ### Crowd Pummeler
-A mechanical design adopted by both goblins and gnomes, crowd pummelers take the form of a tall bipedal construct loaded with heavy weaponry. Its name is not coincidental, as it is most commonly used as cheap, easily maintained sentries; programmable with a set of laws and regulations, and equipped with the chief directive to pummel anyone found to break said laws.
+A mechanical design adopted by both goblins and gnomes, crowd pummelers take the form of a tall, bipedal construct loaded with weapons. Its name is not coincidental, as it is often used as cheap throw-away sentries; programmable with a set of laws and regulations, alongside a chief directive to pummel any perpetrators.
 
 ### Mechano-Tank
-The Mechano-tank, or spider tank, is a gnomish construct best known for its armoured chassis and spider-like design. Built for close-quarters conflicts, most mechano-tanks come armed with fine-tuned and deadly weaponry. Their legs are able to contract and release, launching the tank forward into combat.
+The Mechano-tank, or spider tank, is a gnomish construct best known for its armoured chassis and spider-like design. Built for close quarters, the tanks are reinforced to withstand the elements and fined-tuned for maximum destruction. Their legs are able to contract and release, allowing the tank to launch forward into combat.
 
-<div style='margin-top:230px;'></div>
+<div style='margin-top:245px;'></div>
 
 ___
 > ## Bombling
@@ -4343,8 +4343,8 @@ ___
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-blue' style='top:100px; right:150px; width:500px; transform:rotate(260deg)' />
-<img src='https://www.gmbinder.com/images/9nXCFwU.png' style='position:absolute; top:320px; right:100px; width:200px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-blue' style='top:110px; right:150px; width:500px; transform:rotate(248deg)' />
+<img src='https://www.gmbinder.com/images/9nXCFwU.png' style='position:absolute; top:325px; right:100px; width:200px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/ggaGnjz.png' style='position:absolute; top:280px; right:360px; width:400px;transform:scalex(-1)' />
 
 \pagebreakNum
