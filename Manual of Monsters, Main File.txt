@@ -6391,14 +6391,13 @@ ___
 ## Skeletons
 Skeletons arise when animated by dark magic. They heed the summons of necromancers who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromancy or presence of corrupting evil.
 
-***Animated Dead.*** Whatever sinister force awakens a skeleton infuses its bones with a dark vitality, adhering joint to joint and reassembling limbs. This energy motivates <br>a skeleton to move and think in a rudimentary fashion, though only as a pale imitation of the way it behaved in life. Resurrecting a skeleton restores its body and soul, banishing the hateful undead spirit that empowers it.
+***Animated Dead.*** Whatever sinister force awakens a skeleton infuses its bones with a dark vitality, adhering joint to joint and reassembling limbs. This energy motivates <br> a skeleton to move and think in a rudimentary fashion, though only as a pale imitation of the way it behaved in life. Resurrecting a skeleton restores its body and soul, banishing the hateful undead spirit that empowers it.
 
 While most skeletons are the animated remains of dead humans and other humanoids, skeletal undead can be created from the bones of other creatures besides human&shy;oids, giving rise to a host of terrifying and unique forms.
 
-***Obedient Servants.*** Skeletons raised by spell are bound to the will of their creator. They follow orders to the letter, never questioning the task their masters give them, regard&shy;less of the consequences. Because of their literal interpre&shy;tation of commands and unwavering obedience, skeletons adapt poorly to changing circumstances.
+***Obedient Servants.*** Skeletons raised by spells are bound to the will of their creator. They follow orders to the letter, never questioning the task their masters give them, regard&shy;less of the consequences. Because of their literal interpre&shy;tation of commands and unwavering obedience, skeletons adapt poorly to changing circumstances.
 
 A skeleton can fight with weapons and wear armor, can load and fire a catapult or trebuchet. Some are even raised with knowledge of their past life and become formidable warriors or mages able to perform complex incantations.
-
 
 Although most lack the intellect they possessed in life, skeletons aren't mindless. Rather than break its limbs attempting to batter its way through an iron door, a skele&shy;ton tries the handle first. If that doesn't work, it searches for another way through or around the obstacle.
 
