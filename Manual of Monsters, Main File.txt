@@ -4480,26 +4480,26 @@ ___
 ## Murloc
 From a distance, the degenerate and fishlike murlocs might not seem like much of a threat, but the small creatures are rarely cornered alone. They rarely venture far from their waters, and never too far from their tribe. Though they might seem humorous for their ways, behind their blank expressions hides a murderous mind.
 
-***Strange Territories.*** Murlocs populate coastlines, lake&shy;shores and swamps, and prefer to keep within their territory. A murloc tribe on the move is often one looking for a new place to settle. Over the millennia, they have managed to settle across most of Azeroth.
+***Strange Territories.*** Murlocs populate coastlines, lake&shy;shores and swamps, and prefer to keep within their territory. A murloc tribe on the move is often one looking for a new place to settle -- and settled they certainly have, in nearly every corner of Azeroth.
 
 They build their chaotic villages out of mud-and-twig huts, resembling structures more suited for life underwater than life along the shore. There's no orderly pattern to where a murloc would build its home, though the tribe's oracle and strongest fighters tend to claim the best spots.
 
-***Questionable Intelligence.*** Most would claim that murlocs are not very clever, considering their simple lives and near-indecipherable language.
+***Questionable Intelligence.*** Most would argue that murlocs are not very intelligent, considering their simple lives and near-indecipherable language.
 
-Still, they are ferocious hunters and zealous in their faith. There does not appear to be any singular belief to which the murlocs keep. Instead, they follow the whim of what signs they can read in the elements, and occasionally the will of other aquatic entities -- including nagas.
+Still, they are ferocious hunters and zealous in their faith. There does not appear to be any singular belief to which the murlocs keep. Instead, they follow the whim of what signs they read from the elements, and occasionally the will of other aquatic entities -- including nagas.
 
-***Pack Hunters.*** Though murlocs are not particularly brave, they will attempt to hunt any foe that they can outnumber. They lead just a few murlocs in the front to trick their quarry into giving chase, often into murky waters if they can. There, the brunt of the tribe's hunters lay in wait, leaping into the fray like a swarm of hungry fish.
+***Pack Hunters.*** Though murlocs are not particularly brave, they will attempt to hunt foes that they can outnumber. In doing so, they lead just a few murlocs ahead to trick their quarry into giving chase, often into murky waters if they can. There, the brunt of the tribe's hunters lay in wait, leaping into the fray like a swarm of hungry fish.
 
 ### Murloc Tidehunter
-While many murlocs can use their intelligence to handle weapons to defend themselves, some of them are able to use their equipment to hunt. Being able to create nets and use them, tidehunters attacking in numbers, can be a serious threat to anyone foolish enough to pass through their territory. 
+While most murlocs know to wield a blade or a spear, some select few have harnessed an aptitude for bringing finer tools to the hunt. The tidehunters weave and keep their own nets, sharing techniques for heavy weights and barbed hooks within their hunting parties. A group of tidehunters on the prowl can be a serious threat to anyone foolish enough to pass through their territory.
 
 ### Murloc Oracle
-Even though most murlocs are raised to be warriors and hunters, few of them are born with a heightened willpower. Those murlocs, called oracles, are natural spellcasters. They are masters of the elements and can use them to control the environment around their enemies.
+A few select murlocs are elevated above the rest of their tribe, born to a strong will and a natural affinity for magic. These murlocs, known as oracles, are adept spellcasters. They are masters of the elements and can use them to control the environment around their enemies.
 
 ### Murloc Names and Language
-Murlocs speak the Nerglish tongue, a strange language only spoken by aquatic creatures. Nerglish is a low aquatic language similar to Low Common and only spoken by a handful of lesser races.
+The murlocs' native tongue is Nerglish; a strange, aquatic language in similar lieu to Low Common, which they share with a handful of other creatures.
 
-Their names contain many wet, *soft* sounds; sh, i, and m are common amongst their names. Murlocs do not have individual surnames, instead they take the name of their tribe. Tribal names recall something of the tribe's accom&shy;plishments, appearance, history, or tradition.
+Their names, just like their language, are wet and soft-sounding. They don't keep individual surnames, but rather take ot their name of their tribe -- which in turn recalls the tribe's deeds, appearance, history, or tradition.
 <div style='margin-top:10px;'></div>
 
 **Male Names:** Ashmol, Loshof, Molgoo, Shlesh
