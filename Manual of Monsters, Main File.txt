@@ -4879,15 +4879,17 @@ ___
 <div style='margin-top:140px;'></div>
 
 ## Ogres
-Ogres are large, brutish humanoids of immense strength native to the crumbling world of Draenor, many ogres have now settled as independent clans on Azeroth. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
+Ogres are large, brutish humanoids of immense strength. Though native to the crumbling world of Draenor, many ogres have since settled as independent clans on Azeroth. The average adult ogre stands between 9 and 10 feet tall, weighing in at almost a thousand pounds.
 
-Ogres believe the most important physical attribute is size and eschew garments that cover too much skin. Many instead adorn their skin with fearsome warpaints.
+As far as the ogre is concerned, size is paramount. They eschew any attempt to cover themselves up, keeping their clothing simple, while brandishing fearsome warpaints.
 
-***Distant Settlements.*** After the Horde's second defeated attempt at invading Azeroth, the ogre clans of Draenor dispersed in all directions to establish dominance of their own in this new world. Few returned to Draenor, and many made the difficult journey across the great sea to Kalimdor. 
+***Distant Settlements.*** Following the Horde's second failure to invade Azeroth, the ogre clans that had come with them from Draenor quickly dispersed.
 
-Ogres have settled throughout all of Azeroth and can be found in the furthest corners of the world.
+Each clean headed in their own direction. Some sought to return back home, while most were content to stake a claim in this new world. Since then, ogres have settled across the world; from the hills of Arathi and the cape of Stranglethorn, to the lush reaches of Feralas.
 
-***Clan Culture.*** Ogres have long since lived in large clans in which physical strength is greatly respected, and besting a rival is usually the only way to advance within the clan. 
+***Clan Culture.*** Within ogre clans, the strongest stand as the most respected. The fastest way to rise is through an immense show of force, though the fastest way to fall is at the hands of enemies made along the way.
+
+Although, even with their aptitude for strength and their social hierarchy being as it is, the powerful and keen-minded ogre magi often enjoy elevated positions of power. 
 
 Even though physical strength is seen as being the <br> most important attribute in their societies, the <br> powerful and keen minded ogre magi's often <br> enjoy an elevated position within a clan <br> due to their magical abilities.
 
