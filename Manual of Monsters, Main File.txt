@@ -2633,7 +2633,7 @@ Also prominent are the Spirit Healers; ascendant Val'kyr who, following the bani
 
 > ##### The Spirit Healers
 >
-> The first of the Val'kyr was the titanic Watcher Helya, bound by the Keeper Odyn to an eternal servitude as the bringer of souls to his gilded Halls of Valor: the golden realm for all slain spirits of Odyn's followers. Her servitude was not willing, but a punishment, and one for which she had let her hatred for Odyn simmer for milennia.
+> The first of the Val'kyr was the titanic Watcher Helya, bound by the Keeper Odyn to an eternal servitude as the bringer of souls to his gilded Halls of Valor: the golden realm for all slain spirits of Odyn's followers. Her servitude was not willing, but a punishment, and one for which she had let her hatred for Odyn simmer for millennia.
 >
 > When the Keeper Loken came with a promise of a way out, and subsequently broke her chains, she called upon her powers to bend the arcane energies of Azeroth into an impregnable seal around Odyn's halls, its inhabitants sealed within.
 >
@@ -4478,30 +4478,28 @@ ___
 \pagebreakNum
 
 ## Murloc
-From a distance the degenerated fishlike humanoids that is murlocs might not seem like a big threat, but the small creatures are never alone and never far from their tribe and the water they inhabit. Their disgraceful and often humorous nature should not be underestimated cause behind their blank expressions lies a murderous mindset.
+From a distance, the degenerate and fishlike murlocs might not seem like much of a threat, but the small creatures are rarely cornered alone. They rarely venture far from their waters, and never too far from their tribe. Though they might seem humorous for their ways, behind their blank expressions hides a murderous mind.
 
-***Strange Territories.*** Murlocs populate coastlines, lake&shy;shores and swamps, never straying far from the land of their tribe. In more recent times, they have spread to many regions across Azeroth, inhabiting inland lakes and long secluded beaches.
+***Strange Territories.*** Murlocs populate coastlines, lake&shy;shores and swamps, and prefer to keep within their territory. A murloc tribe on the move is often one looking for a new place to settle -- and settled they certainly have, in nearly every corner of Azeroth.
 
-Murlocs build strange chaotic villages of mud-and-twig huts that resemble structures more suited for the bed of the ocean than above the water. Their huts are scattered chaotically about without a discernible pattern, except for the prominent hut distinctly crafted for their oracle.
+They build their chaotic villages out of mud-and-twig huts, resembling structures more suited for life underwater than life along the shore. There's no orderly pattern to where a murloc would build its home, though the tribe's oracle and strongest fighters tend to claim the best spots.
 
-***Questionable Intelligence.*** Many races suggest that the murlocs are not particularly clever, considering their nearly impossible to decipher language. Others argue that, their ability to use weapons and their unusual fighting skills indicate a devilish smartness.
+***Questionable Intelligence.*** Most would argue that murlocs are not very intelligent, considering their simple lives and near-indecipherable language.
 
-Murlocs are faithful creatures with a faith unlike any other. They worship entities of the sea, from the ordinary fish to huge elementals, and even prominent nagas. But their faith and belief in an entity is usually temporary and can change over the span of a week as events change.
+Still, they are ferocious hunters and zealous in their faith. There does not appear to be any singular belief to which the murlocs keep. Instead, they follow the whim of what signs they read from the elements, and occasionally the will of other aquatic entities -- including nagas.
 
-***Pack Fighters.*** Even though murlocs aren't particularly brave, they will attack any traveler that approaches them if they can outnumber them.
-
-Under pressure they flee to the water hoping for their foe to be foolish enough to follow them. Those who chase them underwater, regrets it as soon as they realize that there are several murlocs waiting in hiding, ready to attack quickly from all directions, like a swarm of hungry fish.
+***Pack Hunters.*** Though murlocs are not particularly brave, they will attempt to hunt foes that they can outnumber. In doing so, they lead just a few murlocs ahead to trick their quarry into giving chase, often into murky waters if they can. There, the brunt of the tribe's hunters lay in wait, leaping into the fray like a swarm of hungry fish.
 
 ### Murloc Tidehunter
-While many murlocs can use their intelligence to handle weapons to defend themselves, some of them are able to use their equipment to hunt. Being able to create nets and use them, tidehunters attacking in numbers, can be a serious threat to anyone foolish enough to pass through their territory. 
+While most murlocs know to wield a blade or a spear, some select few have harnessed an aptitude for bringing finer tools to the hunt. The tidehunters weave and keep their own nets, sharing techniques for heavy weights and barbed hooks within their hunting parties. A group of tidehunters on the prowl can be a serious threat to anyone foolish enough to pass through their territory.
 
 ### Murloc Oracle
-Even though most murlocs are raised to be warriors and hunters, few of them are born with a heightened willpower. Those murlocs, called oracles, are natural spellcasters. They are masters of the elements and can use them to control the environment around their enemies.
+A few select murlocs are elevated above the rest of their tribe, born to a strong will and a natural affinity for magic. These murlocs, known as oracles, are adept spellcasters. They are masters of the elements and can use them to control the environment around their enemies.
 
 ### Murloc Names and Language
-Murlocs speak the Nerglish tongue, a strange language only spoken by aquatic creatures. Nerglish is a low aquatic language similar to Low Common and only spoken by a handful of lesser races.
+The murlocs' native tongue is Nerglish; a strange, aquatic language in similar lieu to Low Common, which they share with a handful of other creatures.
 
-Their names contain many wet, *soft* sounds; sh, i, and m are common amongst their names. Murlocs do not have individual surnames, instead they take the name of their tribe. Tribal names recall something of the tribe's accom&shy;plishments, appearance, history, or tradition.
+Their names, just like their language, are wet and soft-sounding. They don't keep individual surnames, but rather take ot their name of their tribe -- which in turn recalls the tribe's deeds, appearance, history, or tradition.
 <div style='margin-top:10px;'></div>
 
 **Male Names:** Ashmol, Loshof, Molgoo, Shlesh
@@ -4623,36 +4621,38 @@ ___
 <div class='footnote'>MURLOCS </div>
 <img src='https://www.gmbinder.com/images/ijqWnhI.jpg' style='position:absolute; top:-30px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:-200px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/OyT2YY6.png' style='position:absolute; top:330px; right:-10px; width:px; transform:rotate(-3deg); z-index:100; filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42))' />
+<img src="https://www.gmbinder.com/images/OyT2YY6.png" style="position:absolute;top: 295px;left: -6px; transform: rotate(3deg);z-index:100;filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));">
 
 \pagebreakNum
 
 <div style='margin-top:120px;'></div>
 
 ## Nagas
-The naga are former Highborne night elves who mutated into vengeful humanoid sea serpents. While many remain on Azeroth to attempt to reclaim the surface world, a large group followed Illidan Stormrage into Outland and proceeded to claim the watery areas of the shattered land.
+The naga are former Highborne night elves, transformed into a race of horrifying sea serpents.
 
-***Mystical Culture.*** Naga culture is quite complex. Male naga are larger and more muscular, most of them serving as soldiers and guardians. 
+During the Great Sundering, when the Kaldorei city of Zin-Azshari was destroyed, the Kaldorei Queen Azshara and many of her Highborne followers fell into the depths of the Great Sea. Unwilling to face death, Azshara forged a pact with an Old God, N'Zoth, which saw her and her followers twisted into serpentine aberrations.
 
-Female naga are more delicate, with smaller scales and finer, more human-like faces. Naga women are natural spellcasters and rely on magic to defeat their enemies. Even though naga men are more numerous, the naga consider their women to be magically and intellectually superior. Their society is matriarchal, with women occupying most positions of leadership, and all naga paying homage to their queen, Azshara. 
+Most naga who remain belong to either of two groups: those who followed the betrayer, Illidan Stormrage, to find a new home on the shattered world of Outland; and those still loyal to Queen Azshara and her plan to reclaim the surface of Azeroth.
 
-***Altered Appearance.*** During the Great Sundering, Azshara and many of her Highborne followers fell into the depths of the Great Sea. Unable to avoid her death, Azshara forged a pact with an Old God, N'Zoth, trans&shy;forming her and her followers into the serpentine naga.
+***Mystical Culture.*** Naga culture is a complex, multi&shy;faceted affair. The distinction between male and female naga saturates everything from their appearance to their perceived place in society.
 
-The naga are part night elf, part serpent, and some have evolved oceanic mutations. In all naga, many of these mutations are simply cosmetic — soft spines running down their backs, or extra fins adorning their arms. Some naga, though, also possess mutations that have a more substantial effect. 
+Male naga are large and muscular creatures, some of them growing to be veritable behemoths with the strength to tear down walls with their bare hands. Most serve as soldiers and guardians, while some hold power as cruel taskmasters or as warlords on the battlefield.
 
-***Azshara's Followers.*** All naga revere their queen, the mighty Azshara. They have never had another queen, and Azshara has become a living demigod for the naga. They do everything according to her design. 
+Female naga are more delicate, though ruthlessly cunning and intellectually superior. They are natural spellcasters, and hone their skills to great extent in order to sunder their foes. Naga society is inherently matriarchal, favouring female leaders in zealous homage to their Highborne queen.
 
-Factions work continuously in bids for power, seeking the blessings of their queen. The vast majority of Azshara's servitors are willing to go to any means to elevate them&shy;selves in her eyes, even at the cost of their own lives.
+***Azshara's Followers.*** The naga revere their Queen, the mighty Azshara. To them, she is a living demigod in both power and stature, and all they do is by her design.
+
+Factions of naga work tirelessly in their bid for power, seeking the Queen's blessing. To this end, there are few limits to how far they will go to earn her favour -- even at the cost of their own lives.
 
 ### Naga Myrmidon
-The myrmidons, with their navy blue skin and fearsome tridents, are among the strongest warriors in the naga's huge army. They are feared by all who dwell near the sea, most especially by the Makrura Empire.
+The myrmidons, with their navy blue skin and fearsome tridents, are among the strongest among naga warriors. They are feared by all who dwell near the sea; though most prominently by the makrura.
 
-Among their people, they are the most fanatically loyal to their beloved queen so much so that they no longer bother acknowledging orders, they simply do them.
+They are often the most fanatical in their loyalty to the Queen. So much so that some would never take to their orders with anything other than utmost obedience.
 
 ### Naga Sea Witch
-"Sea witch" is the informal term for a naga priestess of the tides. These scaly denizens of the ocean have often been associated with the coming of prodigious storms, but few have actually seen them rise from the sea and lived to tell the tale.
+"Sea witch" is the informal term for a naga priestess. Many have witnessed the prodigious storm that mark their presence, but few have actually seen the witch herself and since lived to tell the tale.
 
-They are potent spellcasters, able to use terrifying frost and lightning spells against their foes. They also draw upon their race's arcane legacy to protect themselves.
+They are potent spellcasters, able to use terrifying frost and lightning spells against their foes, as well as their Highborne legacy of the arcane for personal protection.
 
 <div class='letterheader'></div>
 <div class="mmletter mml-n"></div>
@@ -4664,10 +4664,14 @@ They are potent spellcasters, able to use terrifying frost and lightning spells 
 \pagebreakNum
 
 ### Naga War Lord
-Naga war lords are male naga warriors with stony arms  and shells fused to their skin. They have no visible eyes, and a large hermit crab for a hand. This may be resultant of their mutations, or they may be a different subspecies altogether.
+Naga war lords are male naga warriors with shells and stone-like carapace fused to their skin, entirely covering their head and most of their upper body.
+
+Their right arm has taken on the appearance of a large hermit crab, though it is unknown whether this is an inherent mutation or a deliberate choice.
 
 ### Naga Brute
-Naga brutes are huge, mutated naga used as heavy fighters and even as siege weapons by the naga army. Some have rank, while some act more like mere beasts.
+Naga brutes are massive, lumbering beasts, strong enough to stand as siege weapons for the naga army. Some carry rank and title, while others act like little more than beasts.
+
+Whichever is the case for a particular brute, they are not void of intelligence. They will follow their given orders to the best of their abilities, and know well enough to strategise their way around an obvious trap when they see one.
 
 ___
 > ## Naga
@@ -4700,9 +4704,9 @@ ___
 \columnbreak
 
 > ##### Variant: Naga Siren
-> Female naga are primarily spellcasters and have developed a number of techniques in the depths of the sea. Sirens are considered apprentices of the mightier sea witches.
+> Female naga are primarily spellcasters, and consider&shy;ably powerful ones at that for how they wield the turbulent powers of the sea. Naga sirens are novice spellcasters, as apprentices of a sea witch.
 >
-> A naga siren has the same statistics as a naga, except it has Intelligence 14, Charisma 12, as well as the following trait: 
+> A naga siren has the same statistics as a naga, save for Intelligence 14, Charisma 12, and the following additional trait: 
 >
 > <br> ***Innate Spellcasting.*** The naga's innate spellcasting ability
 is Intelligence (spell save DC 12). It can innately cast the
