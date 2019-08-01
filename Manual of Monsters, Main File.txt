@@ -4621,7 +4621,7 @@ ___
 <div class='footnote'>MURLOCS </div>
 <img src='https://www.gmbinder.com/images/ijqWnhI.jpg' style='position:absolute; top:-30px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:-200px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/OyT2YY6.png' style='position:absolute; top:330px; right:-10px; width:px; transform:rotate(-3deg); z-index:100; filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42))' />
+<img src="https://www.gmbinder.com/images/OyT2YY6.png" style="position:absolute;top: 295px;left: -6px; transform: rotate(3deg);z-index:100;filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));">
 
 \pagebreakNum
 
