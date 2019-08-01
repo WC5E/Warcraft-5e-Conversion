@@ -4628,29 +4628,31 @@ ___
 <div style='margin-top:120px;'></div>
 
 ## Nagas
-The naga are former Highborne night elves who mutated into vengeful humanoid sea serpents. While many remain on Azeroth to attempt to reclaim the surface world, a large group followed Illidan Stormrage into Outland and proceeded to claim the watery areas of the shattered land.
+The naga are former Highborne night elves, transformed into a race of horrifying sea serpents.
 
-***Mystical Culture.*** Naga culture is quite complex. Male naga are larger and more muscular, most of them serving as soldiers and guardians. 
+During the Great Sundering, when the Kaldorei city of Zin-Azshari was destroyed, the Kaldorei Queen Azshara and many of her Highborne followers fell into the depths of the Great Sea. Unwilling to face death, Azshara forged a pact with an Old God, N'Zoth, which saw her and her followers twisted into serpentine aberrations.
 
-Female naga are more delicate, with smaller scales and finer, more human-like faces. Naga women are natural spellcasters and rely on magic to defeat their enemies. Even though naga men are more numerous, the naga consider their women to be magically and intellectually superior. Their society is matriarchal, with women occupying most positions of leadership, and all naga paying homage to their queen, Azshara. 
+Most naga who remain belong to either of two groups: those who followed the betrayer, Illidan Stormrage, to find a new home on the shattered world of Outland; and those still loyal to Queen Azshara and her plan to reclaim the surface of Azeroth.
 
-***Altered Appearance.*** During the Great Sundering, Azshara and many of her Highborne followers fell into the depths of the Great Sea. Unable to avoid her death, Azshara forged a pact with an Old God, N'Zoth, trans&shy;forming her and her followers into the serpentine naga.
+***Mystical Culture.*** Naga culture is a complex, multi&shy;faceted affair. The distinction between male and female naga saturates everything from their appearance to their perceived place in society.
 
-The naga are part night elf, part serpent, and some have evolved oceanic mutations. In all naga, many of these mutations are simply cosmetic — soft spines running down their backs, or extra fins adorning their arms. Some naga, though, also possess mutations that have a more substantial effect. 
+Male naga are large and muscular creatures, some of them growing to be veritable behemoths with the strength to tear down walls with their bare hands. Most serve as soldiers and guardians, while some hold power as cruel taskmasters or as warlords on the battlefield.
 
-***Azshara's Followers.*** All naga revere their queen, the mighty Azshara. They have never had another queen, and Azshara has become a living demigod for the naga. They do everything according to her design. 
+Female naga are more delicate, though ruthlessly cunning and intellectually superior. They are natural spellcasters, and hone their skills to great extent in order to sunder their foes. Naga society is inherently matriarchal, favouring female leaders in zealous homage to their Highborne queen.
 
-Factions work continuously in bids for power, seeking the blessings of their queen. The vast majority of Azshara's servitors are willing to go to any means to elevate them&shy;selves in her eyes, even at the cost of their own lives.
+***Azshara's Followers.*** The naga revere their Queen, the mighty Azshara. To them, she is a living demigod in both power and stature, and all they do is by her design.
+
+Factions of naga work tirelessly in their bid for power, seeking the Queen's blessing. To this end, there are few limits to how far they will go to earn her favour -- even at the cost of their own lives.
 
 ### Naga Myrmidon
-The myrmidons, with their navy blue skin and fearsome tridents, are among the strongest warriors in the naga's huge army. They are feared by all who dwell near the sea, most especially by the Makrura Empire.
+The myrmidons, with their navy blue skin and fearsome tridents, are among the strongest among naga warriors. They are feared by all who dwell near the sea; though most prominently by the makrura.
 
-Among their people, they are the most fanatically loyal to their beloved queen so much so that they no longer bother acknowledging orders, they simply do them.
+They are often the most fanatical in their loyalty to the Queen. So much so that some would never take to their orders with anything other than utmost obedience.
 
 ### Naga Sea Witch
-"Sea witch" is the informal term for a naga priestess of the tides. These scaly denizens of the ocean have often been associated with the coming of prodigious storms, but few have actually seen them rise from the sea and lived to tell the tale.
+"Sea witch" is the informal term for a naga priestess. Many have witnessed the prodigious storm that mark their presence, but few have actually seen the witch herself and since lived to tell the tale.
 
-They are potent spellcasters, able to use terrifying frost and lightning spells against their foes. They also draw upon their race's arcane legacy to protect themselves.
+They are potent spellcasters, able to use terrifying frost and lightning spells against their foes, as well as their Highborne legacy of the arcane for personal protection.
 
 <div class='letterheader'></div>
 <div class="mmletter mml-n"></div>
@@ -4662,10 +4664,14 @@ They are potent spellcasters, able to use terrifying frost and lightning spells 
 \pagebreakNum
 
 ### Naga War Lord
-Naga war lords are male naga warriors with stony arms  and shells fused to their skin. They have no visible eyes, and a large hermit crab for a hand. This may be resultant of their mutations, or they may be a different subspecies altogether.
+Naga war lords are male naga warriors with shells and stone-like carapace fused to their skin, entirely covering their head and most of their upper body.
+
+Their right arm has taken on the appearance of a large hermit crab, though it is unknown whether this is an inherent mutation or a deliberate choice.
 
 ### Naga Brute
-Naga brutes are huge, mutated naga used as heavy fighters and even as siege weapons by the naga army. Some have rank, while some act more like mere beasts.
+Naga brutes are massive, lumbering beasts, strong enough to stand as siege weapons for the naga army. Some carry rank and title, while others act like little more than beasts.
+
+Whichever is the case for a particular brute, they are not void of intelligence. They will follow their given orders to the best of their abilities, and know well enough to strategise their way around an obvious trap when they see one.
 
 ___
 > ## Naga
@@ -4698,9 +4704,9 @@ ___
 \columnbreak
 
 > ##### Variant: Naga Siren
-> Female naga are primarily spellcasters and have developed a number of techniques in the depths of the sea. Sirens are considered apprentices of the mightier sea witches.
+> Female naga are primarily spellcasters, and consider&shy;ably powerful ones at that for how they wield the turbulent powers of the sea. Naga sirens are novice spellcasters, as apprentices of a sea witch.
 >
-> A naga siren has the same statistics as a naga, except it has Intelligence 14, Charisma 12, as well as the following trait: 
+> A naga siren has the same statistics as a naga, save for Intelligence 14, Charisma 12, and the following additional trait: 
 >
 > <br> ***Innate Spellcasting.*** The naga's innate spellcasting ability
 is Intelligence (spell save DC 12). It can innately cast the
