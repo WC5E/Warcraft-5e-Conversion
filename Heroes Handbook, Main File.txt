@@ -8926,9 +8926,9 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-You release a blast of suns wrath against a creature within range. Make a ranged spell attack against the creature. On a hit, the target takes 1d10 radiant damage.
+You release a blast of suns wrath against a creature within range. Make a ranged spell attack against the creature. On a hit, the target takes 1d8 radiant damage.
 
-This spell's damage increases by 1d10 when you reach 5th level (2d10, 11th level 3d10, and 17th level (4d10).
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 #### Soulwell
 *2nd-level transmutation (ritual)*
