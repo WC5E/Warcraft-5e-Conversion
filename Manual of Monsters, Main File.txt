@@ -4879,27 +4879,31 @@ ___
 <div style='margin-top:140px;'></div>
 
 ## Ogres
-Ogres are large, brutish humanoids of immense strength native to the crumbling world of Draenor, many ogres have now settled as independent clans on Azeroth. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
+Ogres are large, brutish humanoids of immense strength. Though native to the crumbling world of Draenor, many ogres have since settled as independent clans on Azeroth. The average adult ogre stands between 9 and 10 feet tall, weighing in at almost a thousand pounds.
 
-Ogres believe the most important physical attribute is size and eschew garments that cover too much skin. Many instead adorn their skin with fearsome warpaints.
+As far as the ogre is concerned, size is paramount. They eschew any attempt to cover themselves up, keeping their clothing simple, while brandishing fearsome warpaints.
 
-***Distant Settlements.*** After the Horde's second defeated attempt at invading Azeroth, the ogre clans of Draenor dispersed in all directions to establish dominance of their own in this new world. Few returned to Draenor, and many made the difficult journey across the great sea to Kalimdor. 
+***Distant Settlements.*** Following the Horde's second failure to invade Azeroth, the ogre clans that had come with them from Draenor quickly dispersed.
 
-Ogres have settled throughout all of Azeroth and can be found in the furthest corners of the world.
+Each clean headed in their own direction. Some sought to return back home, while most were content to stake a claim in this new world. Since then, ogres have settled across the world; from the hills of Arathi and the cape of Stranglethorn, to the lush reaches of Feralas.
 
-***Clan Culture.*** Ogres have long since lived in large clans in which physical strength is greatly respected, and besting a rival is usually the only way to advance within the clan. 
+***Clan Culture.*** Within ogre clans, it is the strongest that stand in highest regard. An immense show of force is the fastest way to rise, though also the fastest way to fall <br/> at the hands of any enemies made along the way.
 
-Even though physical strength is seen as being the <br> most important attribute in their societies, the <br> powerful and keen minded ogre magi's often <br> enjoy an elevated position within a clan <br> due to their magical abilities.
+Still, for as highly as the ogres regard their <br/> strength, the powerful and keen-minded ogre <br/> magi are often the real presence of power <br/> within their clan. Whether acting as the right <br/> hand of an ogre lord, or as the clan leader <br/> directly, they are the ones pulling the strings.
 
-***Brutish Combatants.*** The low intelligence <br> of most ogres push them towards simple and <br> straight forward solutions when they engage in <br> combat, often suffering as much punishment as <br> they dish out, relying on their strength and <br> stamina to keep them victorious at the battles end.
+***Brutish Combatants.*** For an ogre, the best <br/> solution is often the simplest one. When engaged <br/> in a fight, it is not uncommon for the ogre to risk <br/> even deadly harm if thinks it can push through and <br/> come out on top by sheer virtue of strength.
 
-They are vicious opponents with the strength to rip off an opponent’s limbs should they so choose. Most favor heavy spiked clubs and mauls capable of bashing in the skull of their target and bring down heavy the heavy prey they hunt.
+They are vicious opponents, strong enough to rend limb from limb with their bare hands, and crush skulls with their spiked clubs and stone-hewn mauls.
 
 ### Ogre Magi
-An ogre magi is an ogre with an intelligence unlike that of most of its kin. Many ogre magi is the product of magic itself and came into existence during the Horde's second invasion of Azeroth, these hulking ogres sprouted a second head rumored to be the source of their keen mind and affinity for arcane magic. Although most ogre magi's have two heads, individual ogres have proven capable of making the incantations required to cast spells like those of a Magi.
+The ogre magi, with its two heads, holds an intelligence far exceeding the rest of its kin. Borne of the same magic that they wield, it was not uncommon for the Horde -- in its second invasion of Azeroth -- to force this transformation in order to bolster its rank of spellcasters.
+
+Although the two heads are not always in agreement, they are paramount to the ogre's magical aptitude. A living proof that having two heads can be better than having one.
 
 ### Ogre Lord
-Ogre lords are hulking ogres that towers above the heads of regular ogres, these hulking monsters have no unique powers or special affinity towards arcana, but a strength and size without equal in the clan that has made them able to best rivals and always come out victorious. These ogres are able to wield clubs the size of tree-trunks and bash them against their enemies with an unmatched fury.
+Ogre lords are massive, hulking figures, towering above their clan in both size and status. While they have no aptitude for magic and little thought for intricate plans, their imposing presence precedes them well enough to keep the rest of their clan in check.
+
+Many might try to challenge an ogre lord's power over the course of its heavy-handed rule, though for most of them this confrontation doesn't end well.
 
 \columnbreak 
 
