@@ -7640,6 +7640,7 @@ Animal Shapes
 Foresight
 <br> Mass Heal
 <br> Shapechange
+<br> Storm of Vengeance
 <br> True Resurrection
 
 ### Mage Spells
