@@ -4887,15 +4887,13 @@ As far as the ogre is concerned, size is paramount. They eschew any attempt to c
 
 Each clean headed in their own direction. Some sought to return back home, while most were content to stake a claim in this new world. Since then, ogres have settled across the world; from the hills of Arathi and the cape of Stranglethorn, to the lush reaches of Feralas.
 
-***Clan Culture.*** Within ogre clans, the strongest stand as the most respected. The fastest way to rise is through an immense show of force, though the fastest way to fall is at the hands of enemies made along the way.
+***Clan Culture.*** Within ogre clans, it is the strongest that stand in highest regard. An immense show of force is the fastest way to rise, though also the fastest way to fall <br/> at the hands of any enemies made along the way.
 
-Although, even with their aptitude for strength and their social hierarchy being as it is, the powerful and keen-minded ogre magi often enjoy elevated positions of power. 
+Still, for as highly as the ogres regard their <br/> strength, the powerful and keen-minded ogre <br/> magi are often the real presence of power <br/> within their clan. Whether acting as the right <br/> hand of an ogre lord, or as the clan leader <br/> directly, they are the ones pulling the strings.
 
-Even though physical strength is seen as being the <br> most important attribute in their societies, the <br> powerful and keen minded ogre magi's often <br> enjoy an elevated position within a clan <br> due to their magical abilities.
+***Brutish Combatants.*** For an ogre, the best <br/> solution is often the simplest one. When engaged <br/> in a fight, it is not uncommon for the ogre to risk <br/> even deadly harm if thinks it can push through and <br/> come out on top by sheer virtue of strength.
 
-***Brutish Combatants.*** The low intelligence <br> of most ogres push them towards simple and <br> straight forward solutions when they engage in <br> combat, often suffering as much punishment as <br> they dish out, relying on their strength and <br> stamina to keep them victorious at the battles end.
-
-They are vicious opponents with the strength to rip off an opponent’s limbs should they so choose. Most favor heavy spiked clubs and mauls capable of bashing in the skull of their target and bring down heavy the heavy prey they hunt.
+They are vicious opponents, strong enough to rend limb from limb with their bare hands, and crush skulls with their spiked clubs and stone-hewn mauls.
 
 ### Ogre Magi
 An ogre magi is an ogre with an intelligence unlike that of most of its kin. Many ogre magi is the product of magic itself and came into existence during the Horde's second invasion of Azeroth, these hulking ogres sprouted a second head rumored to be the source of their keen mind and affinity for arcane magic. Although most ogre magi's have two heads, individual ogres have proven capable of making the incantations required to cast spells like those of a Magi.
