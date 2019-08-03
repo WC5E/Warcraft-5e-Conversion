@@ -6124,13 +6124,13 @@ Shale spiders are durable diggers native to the elemental plane of Deepholm. It 
 \pagebreakNum
 
 ## Shredder
-Large and impressive mechanical constructs, a shredder is a marvel of goblin ingenuity designed to replace lumber&shy;jacks and increase the profits of deforesting. These metal machines are often piloted by a creature crewed in its seat.
+Shredders are large mechanical constructs, a marvel of goblin ingenuity created to increase the profits gained from deforestation. The sturdy constructs are equipped with a clamping claw and sawblade, making them efficient lumberjacks and effective combatants when outrage from woodland denizens rises as their homes are destroyed.
 
-Shredders have made their way across Azeroth and can be found in the furthest of its corners where they work under the watchful eyes of goblin foremen as they harvest lumber, deforesting entire regions for their nefarious profit.
+Shredders are core to goblin businesses across all of Azeroth, they are manual machines requiring an operator to function and rarely work in solitary.
 
-***Enemies of the Forest.*** Shredders are machines used to quickly and efficiently deforest entire regions, and because of this they have garnered a reputation and hatred amongst the creatures of the forest. 
+***Enemies of the Forest.*** The quick and efficient deforest&shy;ing displayed by shredders have garnered them a hateful reputation among creatures of the forests. Many of whom work tirelessly to push back and sabotage the constructs to stop the expand into their home.
 
-Although the large shredders are mostly used for manual labor and harvesting, they often encounter resistance from creatures of the forest and are forced into fending them off. With their solid metal construction and great saw blades the machines have become great constructs of war, a fact their pilots makes good use of.
+***War Constructs.*** Shredders have become the primary tool used by goblins in times of war. The small beings are not known for their fighting prowess, but in the seat of a shredder they become ruthless combatants.
 
 ___
 > ## Shredder
