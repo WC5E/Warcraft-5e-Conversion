@@ -5793,49 +5793,49 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:70px;'></div>
-
 ## Scourge
-Free of the demonic masters that created them, the precursor of the Burning Legions invasion into Azeroth have gained a will of their own. Under the rule of the dread Lich King the Scourge have built up their power on the arctic continent of Northrend, spreading their influence throughout the continent and beyond to the Eastern Kingdoms and Kalimdor.
+Free of the demonic masters that created them, the pre&shy;cursor of the Burning Legions invasion into Azeroth have gained a will of their own. Under the rule of the dreaded Lich King, the Scourge built themselves up on the arctic continent of Northrend, spreading their influence through&shy;out the continent and beyond.
 
-Terrifying and destructive, the Scourge consists of <br> creatures resurrected into undeath by necromancers devoted to the Lich King, twisting their forms into undead abominations raised for their dark lord's service. From the icy realm of Northrend the Lich King rules uncontested, unleashing his undead minions on the world.
+The Scourge consists of terrifying and destructive crea&shy;tures, creatures resurrected into undeath by necromancers devoted to the Lich King, their forms twisted into undead abominations raised for their dark lord's service. From the icy peak of Northrend the Lich King rules uncontested as he unleashes his undead scourge on the world.
 
-***The Lich King.*** In an attempt to escape a shattering Draenor, the old shaman Ner'zhul was apprehended by <br> the demon lord Kil'jaeden. He tore the shaman's body <br> apart, but kept his spirit intact and aware. Kil'jaeden <br> offered Ner'zhul his last chance to serve the Burning <br> Legion. The old orc agreed, his spirit was trapped within <br> a block of ice warped by the demon lord's chatoc powers.
+***The Lich King.*** In his attempt to escape the shattering world of Draenor, the old shaman Ner'zhul was appre&shy;hended by the demon lord Kil'jaeden. He tore the shaman's body apart, but kept his spirit intact and aware. Kil'jaeden offered Ner'zhul his last chance to serve the Burning Legion, an offer the orc could not deny. Kil'jaeden trapped his spirit within a the Helm of Domination and incased him in block of ice. Thus the Lich King was born.
 
-Encased in a block of ice the Lich King was sent to Azeroth, landing in the frozen wastelands of North- <br> rend. Here, the spectral being of unfathomable power would begin the formation of the Undead Scourge. From his frozen throne of Northrend, the Lich King extended his will across the land to form his Undead Scourge, ever mindful of Kil'jaedens schemes as he in secret sought a way out of his icy prison.
+Encased in a block of ice the Lich King was sent to Azeroth, landing in the frozen wastelands of Northrend. Here, the spectral being of unfathomable power would begin the formation of the Undead Scourge. From his frozen throne, the Lich King extended his will across the land to form his Undead Scourge, ever mindful of deceivers schemes as he in secret sought a way out of his icy prison.
 
-In his search for a way out of his prison, the Lich Kings attention was eventually drawn to the prince of Lordaeron, Arthas Menethil. A capable warrior who had taken up arms against the seemingly endless assaults of his Scourge. Arthas grew increasingly restless as he pushed back against the Scourge, eventually tracking the origin of its plague to Northrend. Intend on ending its threat forever he took up the cursed runeblade Frostmourne. Thought the sword did grant him great power, the cost was high as Arthas began to lose his soul. Eventually completing <br> unholy transformation as his soul slipped away. He <br> became Ner'zhuls champion and would be a fearful <br> warrior leading the Scourge through its rampage at the <br> Lich Kings command. 
+In his secret search for an escape, his attention would eventually be drawn to the prince of Lordaeron, Arthas Menethil. A capable warrior who had taken up arms against the seemingly endless assaults of the Lich Kings Scourge. Arthas grew increasingly restless as he pushed back against the Scourge, eventually tracking the origin of its plague to Northrend. Intend on ending its threat of the Scourge forever he took up the cursed runeblade Frost&shy;mourne. Though the sword did grant him great power, the cost would be high as Arthas began to lose his soul, eventually completing unholy transformation to a death knight as his soul slipped away. He became Ner'zhuls champion and would be a fearful warrior leading the Scourge through its rampage at the Lich Kings command. 
 
-After countless battles, the demise of great and powerful individuals, leaders of kingdoms and commanders of the Burning Legion. Arthas would travel to Northrend and enter the hollow glacier that had become the Lich kings throne. With a cry of strength, Arthas would strike through the Lick Kings prison. As he placed Ner'zhuls thorny helm on his head, their spirits would fuse into a single mighty being, just as the Lich King had always planned. And thus one of the most powerful entities on Azeroth was born.
+After countless battles, the demise of great and powerful individuals, leaders of kingdoms and commanders of the Burning Legion. Arthas would travel to Northrend and enter the hollow glacier that had become the Frozen Throne. With a cry of strength, Arthas would strike through the Lick Kings icy prison and pick up the Helm of Domina&shy;tion. As he placed Ner'zhuls thorny helm on his head, their spirits would fuse into a single mighty being, just as the Lich King had always planned. And thus one of the most powerful entities on Azeroth would be created.
 
-***Plague of Undeath.*** Ner'zhul needed to create an army, a vanguard for the Burning Legions invasion. For that he conjured the plague of undeath, a magical affliction that would spread across Lordaeron as a disease. Killing the afflicted and causing them to rise once more under Ner'zhuls influence. The plague was aimed at the human as of regions, but it afflicted much more than that, infecting flora and fauna and giving them strange symptoms of the plague itself, but rarely imminent death.
+***Plague of Undeath.*** Ner'zhul was tasked with creating an army, a vanguard for the invasion of the Burning Legion. For that he conjured the plague of undeath, a magical affliction that would spread across Lordaeron as a disease. Killing any afflicted and causing them to rise once more under his influence. The plague was aimed at humanoids, but it would afflict much more than that. It would affect flora and fauna with strange symptoms of the plague, but rarely imminent death.
+
+Since first conjured by Ner'zhul the plague has lingered in regions of Lordaeron, creating the plaguelands them&shy;selves. In the years following its use, others have attempted to use the plague of undeath as a weapon for their own benefit, some even tried to recreate its effects themselves.
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SCOURGE </div>
 <img src='https://www.gmbinder.com/images/rUSVZoq.jpg' style='position:absolute; top:0px; right:-300px; width:850px; transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/5SuiuAg.png' style='position:absolute; top:0px; right:-50px; width:900px; transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/JsVJeLH.png' style='position:absolute; top:0px; right:350px; width:px; transform:rotate(-5deg); filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42))' />
+<img src='https://www.gmbinder.com/images/5SuiuAg.png' style='position:absolute; top:0px; right:-70px; width:900px; transform:scalex(-1)' />
 
 \pagebreakNum
 
-&nbsp;&nbsp;&nbsp; Since first conjured by Ner'zhul the plague has lingered in regions of Lordaeron, creating the plaguelands them&shy;selves. In the years following its use, others have attempted to use the plague of undeath as a weapon for their own benefit, some have tried to recreate its effects themselves.
-
-***The Frozen Throne.*** The Icecrown Citadel dominates Northrend, visible from farther away than nearly any other structure and the home to the greatest army of undead in the known world. atop its glacial core sits dwells the Lich King, emitting his will across Azeroth to the commanders of the Scourge under his influence.
+&nbsp;&nbsp;&nbsp; ***The Frozen Throne.*** The Icecrown Citadel dominates Northrend, visible from farther away than nearly any other structure. It is the home to the greatest army of undead in the known world. Atop its glacial core dwells the Lich King, emitting his will across Azeroth to the commanders of the Scourge under his influence.
 
 ### Abomination
-Twisted, mutilated creatures comprised of multiple dead limbs and body parts from different corpses. Abominations are not risen like so many other undead, they a created. Constructed out of putrid flesh, loosely stitched together to create enormous masses of rotting flesh. 
-
-They are fearsome creatures that takes joy in carving the flesh from the bones of their quarry and lustfully eating it as if it was a delightful meal.
+Twisted, mutilated creatures comprised of multiple dead limbs and body parts from different corpses. Abominations are not risen like so many other undead, they a created. Constructed out of putrid flesh, loosely stitched together to create enormous rotting masses of meat. They are fearless creatures that takes joy in carving the flesh from the bones of their quarry and lustfully eating it as a delightful meal.
 
 ### Gargoyle
-Unlike most creatures of the Undead Scourge, Gargoyles are not undead. These strange, wiry flyers are known for their rough, crystaline hides that protects them from all manner of attacks.
-
-Stemming from the frozen northrend, gargoyles were brought to Lordaeron at Arthas' command as scouts in the army of the Scourge. Chaotic by nature, they have proven effective in their task and a frightful aerial combatant.
+Unlike most creatures of the Undead Scourge, Gargoyles are not undead. These strange, wiry flyers are known for their rough, crystaline hides that protects them from all manner of attacks. Native to Northrend, gargoyles were brought to Lordaeron at Arthas' command as scouts in the army of the Scourge. Chaotic by nature, they have proven effective in their task and a frightful aerial combatant.
 
 ### Ghoul
 Ravenous cannibals that leave only havoc and devoured corpses behind them. Ghouls are lumbering creatures of once innocent humans transformed into rotting corpses with a lust for flesh and terror.
 
-They are a weapon of panic for the Scourge, a mindless vanguard made to terrorize settlements before the forces of the Scourge arrives. Made for the sole purpose of striking terror and doubt in settlements as they feast on the dead and living, friend and foe alike.
+They are a weapon of panic for the Scourge, a mindless vanguard meant to terrorize settlements before the forces of the Scourge arrive. Made for the sole purpose of striking terror and doubt in settlements as they feast on the dead and living, friend and foe alike.
+
+> ##### Variant: Greater Abomination
+> A greater abomination has a challenge rating of 9 (5,000 XP). It has the statistics of an abomination except that it has 152 (16d10 + 62) hit points, Armor Class (AC 17), +10 to hit with its weapon attacks, and gains the following action options.
+>
+>***Engorge.*** The abomination makes one cleaver attack and places a grappled target in its ribcage. The target becomes restrained, and can use its action to break free by succeeding on a DC 17 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 14 (4d6) bludgeoning damage at the start of each of the abominations turns. An abomination can have only one creature restrained within its ribcage.
+>
+> ***Cannibalize.*** The abomination cannibalize the corpse of creature that has been dead for less than 24 hours. Each creature of the abomination's choice that is within 120 feet and can see it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the abomination's Cannibalize for the next 24 hours.
 
 \columnbreak
 
