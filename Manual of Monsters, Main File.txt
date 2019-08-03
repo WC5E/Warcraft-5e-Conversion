@@ -5066,11 +5066,13 @@ With their lumbering build and remarkably strong claws, they might seem like fea
 
 ***Forest Settlements.*** Owlbeasts keep to dense forests, finding shelter to build nests between rocks and inside caves. They are social creatures at heart, living harmoni&shy;ously with their fellows in small colonies, not keeping to any apparent structure of leadership.
 
+From time to time, their choice of settlement may bring them into close contact with another race. For the most part, this is not a problem, as the creatures have been seen thriving in the company of night elves and tauren.
+
+Other times, it may force them to fight for their claim or move on to somewhere else. Once first provoked, they are quick to enrage -- at which point all hope for reason may well be lost.
+
 ***Peaceful Creatures.*** Travellers with the care to show respect are seldom hard-pressed to find aid from these gentle giants; whether they're seeking help, or a safe passage out of the woods. Still, if one does opt to disregard the owlbeasts or meet them with hostile intent, they are rarely ever shy to respond in kind.
 
 ***Children of Elune.*** The goddess Elune first created the Owlbeasts in ages past, joining the strength of the bear with the wisdom of the owl, to serve as guardians for the demigod Cenarius. Though blessed by the moon, some have fallen stray from their path, lost and confused without the guidance of their goddess.
-
-***Corruptible Minds.*** Owlbeasts are, as with most wild beings on Azeroth, susceptible to corruption. Whether by fel energies or nightmarish whispers, it only takes so much to tip the scales and turn these docile beings into ferocious monsters. Such flocks are eventually sought out by druids seeking to intervene, though there is no telling what chaos they might have wrought in the meantime. 
 
 <div class="pageLetter">O</div>
 <div class='footnote'>OWLBEASTS</div>
@@ -5080,11 +5082,12 @@ With their lumbering build and remarkably strong claws, they might seem like fea
 
 \pagebreakNum
 
-### Owlbeast
-Owlbeasts are considered much more feral than the calm and peaceful moonkin, these creatures are more prone to be aggravated and go into an enraged stage where no sense can be made with them. They settle in large packs wherever they find shelter, even if it brings them into close contact with more sentient race, forcing them to fight for their home or find somewhere else.
+***Corruptible Minds.*** Owlbeasts are, as with most wild beings on Azeroth, susceptible to corruption. Whether by fel energies or nightmarish whispers, it only takes so much to tip the scales and turn these docile beings into ferocious monsters. Such flocks are eventually sought out by druids seeking to intervene, though there is no telling what chaos they might have wrought in the meantime.
 
 ### Moonkin
-The mighty moonkin are claimed to be Elune's creation, these creatures appear similar to a simply owlbeast when first encountered, and could easily be mistaken for such. While owlbeasts trespass the border into feral beasts. A moonkin is a sentient creature capable of rational thinking and coherent conversation. Moonkin are blessed by Elune to spread nature's grace wherever they settle, and when threatened they exert the full force of the moon goddess.
+Though all owlbeasts are children of Elune, few keep their blessing closer to heart than the graceful moonkin. The two may seem near indistinguishable at first, but the moonkin's heightened mind leaves it more than capable for coherent dialogue and rational thought.
+
+Bound to their groves and keeping in druidic circles, to whom they act as guardians, the boast a formidable breadth of magical power.
 
 ___
 > ## Moonkin
