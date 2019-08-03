@@ -5466,25 +5466,27 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:90px;'></div>
+<div style='margin-top:110px;'></div>
 
 ## Sabercats
-Sabercats are cunning felines that prowl across <br> Azeroth in their hunt for prey. These large proud, and magnificent felines have become a companion of many adventurers, and the demise of even more. <br> They are intelligent and loyal when domesticated, <br> but feral and quite aggressive when left in their <br> natural environments.
+Sabercats are cunning felines that prowl across <br> Azeroth in their hunt for prey. These large, proud, and magnificent felines have become companions for many adventurers -- and the demise of even more. They are intelligent and loyal creatures when domesticated, but <br> feral and quite aggressive in the wilds.
 
-***Stalkers of Azeroth.*** Sabercats are found in many regions of Azeroth, but the vast majority of their kind can be found upon Kalimdor. The feline creatures have each adjusted to their various climate, sprouting pelts to help them blend in, and adapting to their surroundings. 
+***Stalkers of Azeroth.*** Sabercats can be found throughout Azeroth, however, the vast majority of their kind is spread through the regions of Kalimdor. These feline creatures have adjusted to the climate around them, sprouting pelts able to camouflage them into their surroundings.
 
-Many species of sabercats exist, each having adapted <br> to their climate differently and act differently towards outsiders, the most common sabercats are: Dreadsabers, Frostsabers, and Nightsabers, as well as the magically enhanced Manasaber of Suramar.
+Many species of sabercats exist, each have adapted to their climate differently and act differently towards out&shy;siders. Of the many species, the most common sabercats are: dreadsabers, frostsabers, and nightsabers.
 
-***Supreme Predators.*** Sabercats are deadly hunters and display the pinnacle prowess when allowed. They are able to prowl up upon unaware prey with ease, even displaying great athletic and acrobatic capabilities if needed.
+***Supreme Predators.*** Sabercats are deadly predators that display the pinnacle prowess of a stalking hunter, able to prowl up on their prey with ease and even avert the gaze of even perceptive and watchful individuals.
 
-***Fierce Companion.*** Night elves have bred and trained sabercats as mounts and companions for war through the ages, the trained sabercats are always exclusively night&shy;sabers but exceptions have been made. Once domesticated or fully trained from a cub, these beasts are loyal to a fault and make for a life-long companion.
+Sabercats are also pack animals and they rarely hunt alone and even if a creature manages to notice a sabercat prowling up on them, another may already be ready to pounce onto the creature from behind.
+
+***Fierce Companion.*** Night elves have bred and trained sabercats as mounts for their army for thousands of years. Once domesticated or fully trained from a cub, the feline beasts are loyal to a fault and become life-long companions. They are agile mounts able to traverse most terrain with ease, and become fierce fighters when combat emerges.
 
 ### Manasaber
-A manasaber is a magically infused sabercat, these beasts have been locked away with the decaying Highborne of Suramar for thousands of years, slowly mutation through generations into creatures infused with arcane energy. Manasabers take the appearance of slender sabercats with magical runes of power dimly glowing across their pelt.
+Manasabers are sabercats that have been locked away with the night elves of Suramar, the well of power within the city of Suramar infused the sabercats with mana and changed them from simple sabercats into magical beasts.
 
-Most manasabers are domesticated having been trapped in close proximity with night elves for thousands of years, but feral manasabers still exist.
+Most manasabers are domesticated animals, having lived in tight proximity with the night elves of Suramar who trained and used the sabers within their tight borders.
 
-<br>
+<div style='margin-top:35px;'></div>
 
 > ##### Variant: Sabercat Armor
 > An armored sabercat has an AC based on the type of barding worn (see the *Player's Handbook* for more information on barding). The sabercat's AC includes its Dexterity modifier, where applicable. Barding doesn't alter the sabercat's challenge rating.
