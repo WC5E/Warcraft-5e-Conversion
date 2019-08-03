@@ -5060,17 +5060,17 @@ ___
 <div style='margin-top:460px;'></div>
 
 ## Owlbeasts
-An owlbeast is a serene and powerful creature <br>that inhabits forested regions of the world. They <br>resemble a cross between a bear and an owl, and <br>with the antlers of a great stag. Its strong claws and <br>hooked beak suggest a violent being, but its large golden eyes show its gentle nature.
+The owlbeasts are serene and powerful creatures, <br/> inhabiting many forested regions across Azeroth. <br>They resemble a cross between a bear and an owl, <br>suited with the antlers of a great stag and the massive, <br/>hooked beak of a bird of prey. 
 
-***Forest Settlers.*** Owlbeasts live within the depths of forested regions, finding shelter in rocky terrain and uninhabited caverns. Owlbeasts are social creatures and live in small colonies within themselves. With no apparent structure of leadership, they live a harmonious lifestyle.
+With their lumbering build and remarkably strong claws, they might seem like fearsome predators. However, their looks betray them for the gentle creatures they really are -- at least when they are left well alone.
 
-***Peaceful Creatures.*** Most owlbeasts treat peaceful travelers with as much respect as they are shown, occasio&shy;nally coming to their aid or assisting lost visitors by showing them safe roads out of their forests. Although owlbeasts are respectful of others who wander the forests, they show extreme ferocity against those who do not heed their gentle declines or openly show them hostility.
+***Forest Settlements.*** Owlbeasts keep to dense forests, finding shelter to build nests between rocks and inside caves. They are social creatures at heart, living harmoni&shy;ously with their fellows in small colonies, not keeping to any apparent structure of leadership.
 
-***Elune's Creation.*** Night elves and druids alike claim that the goddess Elune created the first owlbeasts in the early days of the world to serve as guardians to Cenarius. Combi&shy;ning the best traits of the owl, the most beloved of her night birds, and the bear, the lumbering protector of the woods. Resulting in the swift, elegant, and fiercely loyal hunters
+***Peaceful Creatures.*** Travellers with the care to show respect are seldom hard-pressed to find aid from these gentle giants; whether they're seeking help, or a safe passage out of the woods. Still, if one does opt to disregard the owlbeasts or meet them with hostile intent, they are rarely ever shy to respond in kind.
 
-But through the ages, the owlbeasts have grown more feral in their nature, and without the guidance of the goddess many are confused. They wander without purpose, though some find their way back to the sacred areas that they once swore to protect.
+***Children of Elune.*** The goddess Elune first created the Owlbeasts in ages past, joining the strength of the bear with the wisdom of the owl, to serve as guardians for the demigod Cenarius. Though blessed by the moon, some have fallen stray from their path, lost and confused without the guidance of their goddess.
 
-***Corruptible Minds.*** Owlbeasts are by nature peaceful and calm, but they are not the strongest mental creatures on Azeroth, and their minds have shown to be easily corrupted by greater powers, turning the calm owlbeasts into ferocious and easily aggravated beasts that can turn against visitors at a moment’s notice.
+***Corruptible Minds.*** Owlbeasts are, as with most wild beings on Azeroth, susceptible to corruption. Whether by fel energies or nightmarish whispers, it only takes so much to tip the scales and turn these docile beings into ferocious monsters. Such flocks are eventually sought out by druids seeking to intervene, though there is no telling what chaos they might have wrought in the meantime. 
 
 <div class="pageLetter">O</div>
 <div class='footnote'>OWLBEASTS</div>
