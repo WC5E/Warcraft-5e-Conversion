@@ -5614,27 +5614,28 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:150px;'></div>
-
 ## Satyrs
-An ancient curse afflicted a Highborne sorcerer, destroying and remaking him as the very first satyr. These demonic beings were once night elves of the kaldorei empire, but little of that heritage is left in the demonic bodies of the satyrs and now these creatures carry a hatred towards all.
+An ancient curse afflicting a highborne sorcerer would create the first satyr and other would soon follow. These demonic beings were once night elves of the Kaldorei Empire, but little of that heritage remains in their twisted bodies, now there's only anger and hatred towards all.
 
-***Cursed Affliction.*** During the War of the Ancients, the Highborne sorcerer Xavius was tasked with opening the portal that connect the Twisting Nether and Azeroth, a task he failed in accomplishing and his disembodied spirit tortured as punishment by Sargaras. Yet the creator of the Burning Legion saw use in Xavius still and created him a new body, the first satyr in existence.
+***Cursed Affliction.*** During the War of the Ancients, the Highborne sorcerer Xavius was tasked with opening a portal that connected Azeroth to the Twisting Nether, a task he would fail in accomplishing and as a punishment for his failure, Sargaras would torture his disembodied spirit. However, the Lord of the Burning Legion still saw use in Xavious and would create for him a ned body, the demonic body of the first satyr.
 
-Xavius was sent back to Azeroth to spread his cursed existence to the Kaldorei Empire, twisting and reshaping night elves into the demonic satyr race. Like Xavius, all satyrs have the ability to pass on their curse and the curse have continued to spread through the ages, although the curse has weakened over time and become less effective.
+The satyr Xavius was sent back to Azeroth to spread his cursed existence through the Kaldorei Empire, twisting and reshaping night elves into the demonic satyur race. Like Xavius himself, all the satyrs he created was capable of passing on their curse to others, and the satyr curse would continue to spread through the ages to night elves and denizens of other races as well. Although it has grown weaker and less effective over time.
 
-***A Burning Hatred.*** Satyrs are creatures of hatred; they were created out of hate and carry on that quality from their creator. Satyrs have a burning hatred for all other living creatures and especially their night elven kin. They are immediately hostile towards outsiders and attempts to manipulate or corrupt them if possible.
+***Created Not Born.*** Although both male and female satyrs exist, they have never been able to reproduce. Thus all satyrs in existence have been created by being afflicted with the satyr curse. Even though few new satyr are created, they continue to be an imminent threat to Azeroth.
 
-***Tainted Magic.*** These demonic creatures corrupt the land they walk on and drain its magic as if they were wielding the powers of fel directly. They feed off its purity, leeching and corrupting. The magic they drain is stored in their hooves; the satyr that has drawn the most magic are distinguished by their swollen, uncloven hooves.
+***Burning Hatred.*** Satyrs are creatured of hatred; they were created out of hate and gained that quality from their creator. They have a burning hatred for all other living creatures, however, nothing surpasses the hate they show for their old night elven kin. Satyrs are immediately hostile towards outsiders and will attempt to manipulate or corrupt them if possible.
 
-***Frightful Fighters.*** Satyrs are not known for being an organized enemy with a strategy for battle. They live in smaller sects found in more remote regions of Azeroth. When the sentry sounds danger, every satyr in the sect is quick to throw themselves into battle without worrying for their own lives. They act like a horde of demons without a commander whose orders to follow. 
+***Tainted Magic.*** These demonic beings corrupt the land they walk on and drain it of magic as if they were wielding the powerful fel itself, they leech onto purity and drain it of power for their own nefarious needs.
+
+All the power they drain is stored in their hooves, and perceptive creatures are able to distinguish a truly power&shy;full satyr from the rest by its swollen hooves.
+
+***Frightful Fighters.*** Satyrs are not known for forming an organized army with a strategy or plan. They live in small and remote sects and when a sentry sounds danger, every satyr in the sect is quick to throw themselves into battle without worrying for their own lives. They act like a horde of demons without a commander whose orders to follow.
 
 ### Satyr Trickster
-Some satyrs show a certain penchant for painful traps and ambushing their target, these satyrs are called tricksters. They revere and mimic their Lord, Xavius' abilities of manipulation, and take a more subtle approach when the horn of battle is sound, sneaking up on their enemies and stabbing them in the back in an attempt to take out the strongest target of the assault.
+Certain satyrs show a penchant for laying painful traps and ambushing their targets. These tricksters revere and mimic their Lord, Xavius' abilities of manipulation and take subtle approaches when the horn of battle sounds. By sneaking up on their enemies they are able to take out the strongest target of the assault.
 
 ### Satyr Hellcaller
-A satyr hellcaller is a spellcaster skilled in fielding the chaotic fel of the Burning Legion. Rather than summoning demons of the Legion, these warlocks manipulate the entropic fire of fel itself. They are larger and more imposing than a common satyr because of magic they have drained from the land.
-
+Satyrs who revel in  fel magic are called hellcallers, these warlocks are larger and more imposing than common satyrs as the magic they have drained bolster their physical form. They make powerful warlocks who wield fel and shadow with an equally destructive will.
 
 \columnbreak
 
@@ -5670,9 +5671,7 @@ ___
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SATYRS </div>
-<img src='https://www.gmbinder.com/images/H7ClVNg.jpg' style='position:absolute; top:-160px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/eNvjdqv.png' style='position:absolute; top:-200px; right:0px; width:900px;transform:rotate(40deg)' />
-<img src='https://www.gmbinder.com/images/BVT8CtR.png' style='position:absolute; top:10px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/84P8ntb.png' style='position:absolute; top:0px; right:0px; width:900px'>
 <img src='https://www.gmbinder.com/images/OkSEy3f.png' class='inkblot' style='top:150px; right:-50px; width:500px'>
 <img src='https://www.gmbinder.com/images/0O5RO1a.png' style='position:absolute; top:-40px; right:-10px; width:430px' />
 
@@ -5758,6 +5757,7 @@ ___
 <div class='footnote'>SATYRS </div>
 <img src='https://www.gmbinder.com/images/ODT1rsG.jpg' style='position:absolute; top:-60px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/ycQApVU.png' style='position:absolute; top:-170px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/OkSEy3f.png' class='inkblot' style='top:500px; right:-50px; width:700px'>
 
 \pagebreakNum
 
