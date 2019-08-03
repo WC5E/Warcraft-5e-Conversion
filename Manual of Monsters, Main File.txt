@@ -6061,11 +6061,11 @@ ___
 <div style='margin-top:360px;'></div>
 
 ## Shale Spider
-Shale spiders are durable diggers native to the elemental plane of Deepholm. It is the large stone spider’s tenacity and ferocity that makes other creatures fear them, even if they are harmed or pushed away, they will come back until someone has truly destroyed them.
+Shale spiders are durable diggers native to the elemental plane of Deepholm with a tenacity and ferocity not shown in many other elementals. Even if they are harmed or pushed away, a shale spider will continue to strike back until someone has truly destroyed it.
 
-***Stone Nuisance.*** The stone spiders often find their way out of the elemental plane of earth and into Azeroth, at first the spiders are more playful than anything, but their playful nature quickly changes as they get accustomed to their surroundings and gain their predatorial nature.
+***Stone Nuisance.*** These stone spiders often find their way out of Deepholm and into Azeroth and considerably harmless when they first enter Azeroth. But their harmless nature quickly changes as they grow accustomed to their surroundings and begin their ferocious hunting game.
 
-***Swarmers.*** Shale spiders are never alone, the earth is their family and the elemental spiders always has others nearby. They are notorious swarmers that work together to take down their prey.
+***Swarmers.*** The shale spiders are notorious swarmers that work together to take down their prey. The earth and stone around them is their hunting ground and a lone shale spider is quick to gain reinforcement when encountered.
 
 ***Elemental Nature.*** The shale spider doesn't require air, food, drink, or sleep.
 
