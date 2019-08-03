@@ -5539,15 +5539,9 @@ Most manasabers are domesticated animals, having lived in tight proximity with t
 > | 19 | Plate |
 > </div>
 
-<div class='letterheader'></div>
-<div class="mmletter mml-s"></div>
-<div class="pageLetter">S</div>
-<div class='footnote'>SABERCAT </div>
-<img src='https://www.gmbinder.com/images/TQz5CzC.jpg' style='position:absolute; top:0px; right:-450px; width:1800px' />
-<img src='https://www.gmbinder.com/images/zceyjKB.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/P5JAFgK.png' style='position:absolute; top:810px; right:-230px; width:700px;transform:scalex(-1)' />
+\columnbreak
 
-\pagebreakNum
+<div style='margin-top:470px;'></div>
 
 ___
 > ## Young Sabercat
@@ -5575,7 +5569,17 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
 
-<div style='margin-top:30px;'></div>
+<div class='letterheader'></div>
+<div class="mmletter mml-s"></div>
+<div class="pageLetter">S</div>
+<div class='footnote'>SABERCAT </div>
+<img src='https://www.gmbinder.com/images/TQz5CzC.jpg' style='position:absolute; top:0px; right:-450px; width:1800px' />
+<img src='https://www.gmbinder.com/images/zceyjKB.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scalex(-1)' />
+
+
+\pagebreakNum
+
+<div style='margin-top:470px;'></div>
 
 ___
 > ## Sabercat
@@ -5603,7 +5607,10 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
-___
+\columnbreak
+
+<div style='margin-top:280px;'></div>
+
 ___
 > ## Manasaber
 >*Large beast, unaligned*
@@ -5639,12 +5646,13 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage.
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
->
-> <div style='margin-top:80px;'></div>
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SABERCAT </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:-100px; right:340px; width:700px'>
+<img src='https://www.gmbinder.com/images/P5JAFgK.png' style='position:absolute; top:250px; right:370px; width:600px' />
+<img src='https://www.gmbinder.com/images/fl3pPXY.png' style='position:absolute; top:40px; right:-200px; width:700px; mix-blend-mode:multiply; transform:scalex(-1)' />
 
 \pagebreakNum
 
