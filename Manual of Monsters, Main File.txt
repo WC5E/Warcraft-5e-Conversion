@@ -5199,21 +5199,25 @@ ___
 <div style='margin-top:340px;'></div>
 
 ## Quilboars
-A ferocious, suicidally brave race with an alien mentality and devotion to their tribe, quilboars are stubby hunched humanoids with a pig-like face and rows of sharp spines running down its muscular back.
+A ferocious, suicidally brave race, quilboars are renowned for their stubby, pig-like appearance. Rows of sharp spines run down their hunched backs, and stubby tusks protrude from their mouth.
 
-Quilboars have worn down brown skin adorned with tribal markings and tattoos, long razer-sharp quills runs the length of their back in place of hair. Multiple sets of stubby tusks protrude from the side of their mouth.
+They adorn their skin with tribal markings and tattoos, and their devotion to their tribe may seem almost alien to most other races.
 
-***Sacred Settlements.*** Quilboars live in the shade and protection of enormous roots that mar the land and choke out other life, turning the earth around them barren. The quilboar tribes flock to the thorny areas of central Kalimdor believe the regions to be sacred, and the erupted roots to have grown from the blood of Agamaggan.
+***Sacred Settlements.*** Quilboars live in the protective shade of enormous bramble roots, so large that they choke the land of all other life. These thorny landscapes, believed to have first grown from the blood of the ancient guardian Agamaggan, are considered sacred to the quilboars.
 
-When quilboars have turned a land too barren for them to settle in, their tribe moves on to find new areas to hunt in and their mighty thornweavers seed and grow new roots for them to live in.
+Should the land become too barren for even them, they are quick to tear down and move on. Once a tribe finds a new place to settle, its mighty thornweavers seed and grow forth new roots for them to live in.
 
-***Hostile Colonies.*** These pig-like humanoids live in large colonies within their sacred thorn settlements. They are fiercely loyal to their colony, and defend it with reckless ferocity when nearby denizens venture too close to the thorns that mark their territories.
+***Hostile Colonies.*** Within their thorny settlements, a quilboar tribe can grow impressively large. Loyalty to the tribe is paramount for its survival, to which they train their young quickly to meet any outsiders with hostility.
 
-***Crude Shamanism.*** Quilboars practice a crude form of shamanism, weaving its forces together with druidic magic to make their mighty thornweavers. These shamans are kept in high regard by their colonies, and are seen as the voice of Agamaggan.
+***Ancient Powers.*** Quilboars practice a crude form of shamanism, with the blessing of Agamaggan. These shamans, known as thornweavers, are kept in high regard by their tribes as the voice of their ancient guardian.
 
-Quilboars revere the ancient Agamaggan as their creator and deity. Calling upon his aid to bolster them in fights and making sacrifices in his name. His blood would grow the twisted thorns of Razorfen, and his remain would adorn its entrance. All quilboars consider it to be a sacred place without equal on this earth.
+They revere Agamaggan, the great boar, as their creator. By making offerings in his name, a tribe's fighters can summon forth terrifying strength as they descend upon their foes.
+
 ### Quilboar Packmaster
-Quilboars have a natural affinity towards boars, and some amongst them have made it their lives worth to raise and fight alongside such creatures. These packmasters are rarely alone, taking in the company of one or more boars wherever they go.
+With their natural bond to the great boar, some quilboars have have made it their lives to raise and fight alongside such creatures. A packmaster rarely walks alone, always taking one or more boars in its company.
+
+### Quilboar Thornweaver
+The thornweavers are vital to a quilboar tribe's survival, as these wise shamans bring forth the thorny brambles in which the tribe makes its home. Even the tribe's chieftain knows well to respect the word of a thornweaver. By their bond, they are the voice of Agamaggan.
 
 <div class='letterheader'></div>
 <div class="mmletter mml-q"></div>
@@ -5225,15 +5229,22 @@ Quilboars have a natural affinity towards boars, and some amongst them have made
 
 \pagebreakNum
 
-<div style='margin-top:40px;'></div>
-
-### Quilboar Thornweaver
-The wise thornweavers are core to most quilboar colonies, these shamans are the voice of Agamaggan within a colony and their word is respected by all, and they are often close advisors of a colony's chieftain. In some colonies, the word of a thornweaver is placed above that of its chieftain and on rare occasions a thornweaver replaces a chieftain.
-
 ### Quilboar Chieftain
-A quilboar chieftain rules over each colony, in most cases a quilboar became chieftain by overthrowing the colony's previous leader. They are surrounded by wise thornweavers and under rare circumstances a chieftain has one or more battleguards under their command. These brutish quil&shy;boars are the honor guards of a chieftain, and oversee the colony in the chieftains absence.
+At the head of the quilboar tribe sits its chieftain. In most cases, the rise of a tribe's chieftain came at the demise of its last. They surround themselves with their thornweavers for guidance, and sometimes wield a host of battleguards at their side.
 
-<div style='margin-top:30px;'></div>
+### Quilboar Names and Language
+The quilboar language is a rough, sharp-spoken tongue that relies on a mixture of guttural sounds and sharp squeals. There is little room for eloquence in their vocabulary, though it is by no means primitive.
+
+Their names follow a mixture of native descriptions and short words, and their names lead descriptive, evocative titles -- for which rough translations in other languages often become the most widely known.
+
+<div style='margin-top:-5px;'></div>
+
+**Quilboar Names:** Aggem, Jargba, Gukk'rok, Hagg,
+<br />&nbsp;&nbsp;&nbsp; Kuz, Mok, Nak, Roogug, Snokh, Trok
+<br />**Clan Names:** Blacksnout, Briarback, Bristleback,
+<br />&nbsp;&nbsp;&nbsp; Foultusk, Razorfen, Razormane
+
+<div style='margin-top:-10px;'></div>
 
 ___
 > ## Quilboar Packmaster
@@ -5310,7 +5321,7 @@ ___
 <div class='footnote'>QUILBOARS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:0px; width:500px'>
-<img src='https://www.gmbinder.com/images/Tmf8a9n.png' style='position:absolute; top:-30px; right:35px; width:390px' />
+<img src='https://www.gmbinder.com/images/Tmf8a9n.png' style='position:absolute; top:-20px; right:25px; width:390px' />
 
 \pagebreakNum
 
@@ -5367,7 +5378,7 @@ ___
 <img src='https://www.gmbinder.com/images/wYkRYT1.jpg' style='position:absolute; top:0px; right:-150px; width:1000px' />
 <img src='https://www.gmbinder.com/images/LNmpIht.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-green' style='top:50px; right:-100px; width:600px'>
-<img src='https://www.gmbinder.com/images/DY0bq9o.png' style='position:absolute; top:0px; right:-50px; width:600px' />
+<img src='https://www.gmbinder.com/images/DY0bq9o.png' style='position:absolute; top:0px; right:-20px; width:600px' />
 
 \pagebreakNum
 
