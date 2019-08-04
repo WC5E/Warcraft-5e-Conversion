@@ -5382,21 +5382,23 @@ ___
 <div style='margin-top:140px;'></div>
 
 ## Ravagers
-Native to the world of Draenor, these quadrupedal beings roam the land surrounding them in search of food to fill their insatiable appetite, willing to dig their ragged teeth into any creature made of flesh.
+Native to the world of Draenor, these quadrupedal beings roam across their surrounding land in search of food to fill their insatiable appetite, ready to hound down and tear apart any creature made of flesh.
 
-Ravagers resemble giant insectiods equipped with ragged teeth and a carnivorous lust for meat. Their bodies are covered in hard chitin, combined with their surprising speed they make able fighters.
+Ravagers resemble giant insectiods, equipped with ragged teeth and a voracious lust for meat. Their bodies are covered in hard chitin, which combined with their impressive speed make them amicable fighters.
 
-***Voracious Carnivores.*** Ravagers are able predators who hide behind rocks and in crevices until their quarry's within reach, only to emerge in great numbers and swarm around their prey to eliminate any possible escape. They ravage the land around them, extinguishing all potential life as they hunt for their colony's survival.
+***Ferocious Carnivores.*** Being such fierce predators, ravagers hunt together in swarms. They hide behind rocks and within crevices, waiting for their quarry to come within reach. Then, as soon as the moment comes, lunge out from hiding and rush into the fray with overwhelming force.
 
-***Swarm Mentality.*** These large insectoids live in ever-growing colonies with the mentality of a large swarm.  They move as one, never leaving anyone behind and wander the land in search for food to survive. Although ravagers do not have an innate link like that of silithids, but they seem to be capable of predicting each others ideas and movements, mimicking them with immense precision.
+***Swarm Mentality.*** Perhaps not too surprising, given their insect-like appearance, are the ever-growing ravager colonies. Though their hive mind is not as intrinsically linked as some others, it still binds the colony together as a large, fiercely protective swarm.
 
-***Migrated Creatures.*** Ravagers are native to the world of Draenor and have no equivalent on Azeroth. Yet they have found their way onto its surface through the crashed ship, Exodar. Stowaway beings on the ship, they had previously been captured and imprisoned, but the crashing of the ship allowed them to escape onto the shimmer isles west of kalimdors coast.
+***Migrated Creatures.*** Ravagers are native to the world of Draenor, with no true equal on Azeroth -- save for one small colony, locked away on the Exodar with the fleeing Draenei.
+
+The ship's subsequent crash off the northern coast of Kalimdor saw this particular group of ravagers released into the wild. Most were stopped in their tracks, though some may yet have escaped to flee deeper into the thickets, or across the waters to the mainland.
 
 ### Ravager Brood Mother
-At the heart of a ravager colony sits the brood mother, she grants the colony life by laying the eggs that hatches into small ravager larva, blostering the colony's numbers. The brood mother is the queen of the colony and her survival means the survival of the colony as a whole, ravagers will go to extreme lengths to secure her safety.
+At the heart of a ravager colony sits its queen; the brood mother. She grants the colony life, by laying the eggs that hatches into the ravager larva. For her vital part in keeping the colony alive, other ravagers in the colony will go to extreme lengths to ensure her safety.
 
 ### Ravager Wasp
-Ravagers hatch as small insignificant larva that are quick to disappear into pupae, only to emerge as slender wasps with a swarm mentality and a ferocious sting. Wasps gorge themselves until their wings can no longer support their body weight, after which they undergo a third and final metamorphosis into the vicious four-legged ravagers.
+Following the birth of a ravager larva, the creature quickly cocoons itself in order to grow further. From the cocoon, the ravager emerges as a slender wasp with a ferocious sting. The ravager wasp gorges itself on its prey, feeding until its wings can no longer support the weight of its body. Then, its wings are shed; as the wasp undergoes one final metamorphosis into a full-grown, four-legged ravager.
 
 > ##### Ravagers on alternate Draenor
 > The ravagers of alternate Draenor were never exposed to the powers of fel, their bodies were not malformed. These creatures have evolved into large monsters more resembling four-legged spiders, their wings have grown with them giving all ravagers a flying speed equal to their normal speed.
