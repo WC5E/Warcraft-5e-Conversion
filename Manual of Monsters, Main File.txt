@@ -4179,9 +4179,9 @@ ___
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MANA WYRMS </div>
-<img src='https://www.gmbinder.com/images/MmGP2TI.png' style='position:absolute; top:0px; right:380px; width:400px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/oN2RVqL.png' style='position:absolute; top:-120px; right:250px; width:700px' />
-<img src='https://www.gmbinder.com/images/vxT8f0L.png' style='position:absolute; top:0px; right:-150px; width:950px' />
+<img src='https://www.gmbinder.com/images/MmGP2TI.png' style='position:absolute; top:0px; right:400px; width:450px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:-80px; width:900px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:80px; right:0px; width:900px' />
 
 \pagebreakNum
 
