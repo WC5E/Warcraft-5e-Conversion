@@ -5629,9 +5629,9 @@ ___
 <div class="pageLetter">S</div>
 <div class='footnote'>SABERCAT </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:-100px; right:340px; width:700px'>
-<img src='https://www.gmbinder.com/images/P5JAFgK.png' style='position:absolute; top:250px; right:370px; width:600px' />
-<img src='https://www.gmbinder.com/images/fl3pPXY.png' style='position:absolute; top:40px; right:-200px; width:700px; mix-blend-mode:multiply; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:-100px; right:200px; width:700px'>
+<img src='https://www.gmbinder.com/images/0bxYxgb.png' style='position:absolute; top:130px; right:370px; width:380px' />
+<img src='https://www.gmbinder.com/images/3u2fjsX.png' style='position:absolute; top:-80px; right:-300px; width:1000px; mix-blend-mode:multiply' />
 
 \pagebreakNum
 
