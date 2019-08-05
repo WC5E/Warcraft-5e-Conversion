@@ -4658,7 +4658,11 @@ Their right arm has taken on the appearance of a large hermit crab, though it is
 ### Naga Brute
 Naga brutes are massive, lumbering beasts, strong enough to stand as siege weapons for the naga army. Some carry rank and title, while others act like little more than beasts.
 
-Whichever is the case for a particular brute, they are not void of intelligence. They will follow their given orders to the best of their abilities, and know well enough to strategise their way around an obvious trap when they see one.
+Whichever is the case for a particular brute, they are not avoid of intelligence. They follow given orders to the best of their abilities, and know well enough to strategize their way around an obvious trap when they see one.
+
+### Naga Names and Languages
+
+
 
 ___
 > ## Naga
