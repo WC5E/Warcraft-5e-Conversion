@@ -4889,13 +4889,6 @@ They are vicious opponents, strong enough to rend limb from limb with their bare
 ### Ogre Magi
 The ogre magi, with its two heads, holds an intelligence far exceeding the rest of its kin. Borne of the same magic that they wield, it was not uncommon for the Horde -- in its second invasion of Azeroth -- to force this transformation in order to bolster its rank of spellcasters.
 
-Although the two heads are not always in agreement, they are paramount to the ogre's magical aptitude. A living proof that having two heads can be better than having one.
-
-### Ogre Lord
-Ogre lords are massive, hulking figures, towering above their clan in both size and status. While they have no aptitude for magic and little thought for intricate plans, their imposing presence precedes them well enough to keep the rest of their clan in check.
-
-Many might try to challenge an ogre lord's power over the course of its heavy-handed rule, though for most of them this confrontation doesn't end well.
-
 \columnbreak 
 
 <div style='margin-top:600px;'></div>
@@ -4933,6 +4926,15 @@ ___
 
 \pagebreakNum
 
+&nbsp;&nbsp;&nbsp; Although the two heads are not always in agreement, they are paramount to the ogre's magical aptitude. A living proof that having two heads can be better than having one.
+
+### Ogre Lord
+Ogre lords are massive, hulking figures, towering above their clan in both size and status. While they have no aptitude for magic and little thought for intricate plans, their imposing presence precedes them well enough to keep the rest of their clan in check.
+
+Many might try to challenge an ogre lord's power over the course of its heavy-handed rule, though for most of them this confrontation doesn't end well.
+
+### Ogre Names and Languages
+
 ___
 > ## Ogre Magi
 >*Large giant, chaotic evil*
@@ -4963,7 +4965,7 @@ ___
 > ### Actions
 > ***Maul:*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
-<br>
+\columnbreak
 
 > ##### Variant: Ogre Priest 
 > A few ogre magi supplement their dark powers with healing spells to aid their allies. They are regarded as spiritual leaders and record-keepers for their tribe. An ogre priest has Intelligence 11 and Wisdom 14, as well as the following trait: 
@@ -4973,10 +4975,10 @@ ___
 > <br> Cantrips (at will): *resistance, shadow bolt, virtue*
 > <br> 1st level (4 slots): *dark void, healing word, <br>&nbsp;&nbsp;&nbsp; shield of faith*
 > <br> 2nd level (4 slots): *lesser restoration, mind blast, <br>&nbsp;&nbsp;&nbsp; silence*
-> <br> 3rd level (3 slots): *glyph of warding, fear, <br>&nbsp;&nbsp;&nbsp; shadow crash*
+> <br> 3rd level (3 slots): *dispel magic, fear, shadow crash*
 > <br> 4th level (1 slot): *void shift*
 
-\columnbreak
+<div style='margin-top:-5px;'></div>
 
 ___
 > ## Ogre Lord
@@ -5011,8 +5013,7 @@ ___
 
 <div class="pageLetter">O</div>
 <div class='footnote'>OGRES </div>
-<img src='https://www.gmbinder.com/images/HEpeTDx.jpg' style='position:absolute; top:700px; right:-200px; width:1000px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
