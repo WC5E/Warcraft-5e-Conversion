@@ -5156,12 +5156,17 @@ ___
 
 \columnbreak
 
-<div style='margin-top:340px;'></div>
+<div style='margin-top:300px;'></div>
 
-## Quilboars
-A ferocious, suicidally brave race, quilboars are renowned for their stubby, pig-like appearance. Rows of sharp spines run down their hunched backs, and stubby tusks protrude from their mouth.
+## <span style="margin-left:95px"></span> Quilboars
+<span style="margin-left:110px"></span> A ferocious, suicidally brave race, quil- 
+<span style="margin-left:115px"></span> boars are renowned for their stubby, 
+<span style="margin-left:125px"></span> pig-like appearance. Rows of sharp 
+<span style="margin-left:130px"></span> spines run down their hunched 
+<span style="margin-left:125px"></span> backs, and stubby tusks protrude 
+<span style="margin-left:110px"></span> from their mouth.
 
-They adorn their skin with tribal markings and tattoos, and their devotion to their tribe may seem almost alien to most other races.
+<span style="margin-left:40px"></span> They adorn their skin with tribal markings and tattoos, and their devotion to their tribe may seem almost alien to most other races.
 
 ***Sacred Settlements.*** Quilboars live in the protective shade of enormous bramble roots, so large that they choke the land of all other life. These thorny landscapes, believed to have first grown from the blood of the ancient guardian Agamaggan, are considered sacred to the quilboars.
 
@@ -5185,7 +5190,7 @@ The thornweavers are vital to a quilboar tribe's survival, as these wise shamans
 <div class='footnote'>QUILBOARS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/KcRAZwq.png' class='inkblot inkblot-green' style='top:-100px; right:300px; width:500px; transform:rotate(40deg)'>
-<img src='https://www.gmbinder.com/images/ljH3Xaj.png' style='position:absolute; top:-50px; right:200px; width:650px' />
+<img src='https://www.gmbinder.com/images/ljH3Xaj.png' style='position:absolute; top:40px; right:250px; width:650px' />
 
 \pagebreakNum
 
