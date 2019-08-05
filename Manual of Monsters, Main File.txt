@@ -975,7 +975,7 @@ ___
 <img src='https://www.gmbinder.com/images/W7JrNLv.jpg' style='position:absolute; top:0px; right:-170px; width:1300px' />
 <img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:90px; right:0px; width:900px' />
 
-\pagebreak
+\pagebreakNum
 
 <div style='margin-top:64px;'>
 
@@ -1294,6 +1294,10 @@ ___
 
 \pagebreakNum
 
+---
+
+\columnbreak
+
 <div style='margin-top:140px;'></div>
 
 ## Centaurs
@@ -1325,9 +1329,16 @@ Their names are short and sharp, while tribes draw their name from the first kha
 <br />**Tribe Names:** Galak, Jhenek, Kolkar, Krenek, Okrim,
 <br />&nbsp;&nbsp;&nbsp; Wethek, Worrak
 
-\columnbreak
+<div class='letterheader'></div>
+<div class="mmletter mml-c"></div>
+<div class="pageLetter">C</div>
+<div class='footnote'>CENTAURS </div>
+<img src='https://www.gmbinder.com/images/bGAMsIn.jpg' style='position:absolute; top:0px; right:250px; width:820px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:-80px; width:900px; transform:scalex(-1)' />
 
-<div style='margin-top:650px;'></div>
+\pagebreakNum
+
+<div style='margin-top:48px;'></div>
 
 > ##### The Children of Zaetar
 > The centaur are the progeny of Zaetar, a Keeper of the Grove and son of Cenarius; Lord of the forest and Demigod of the Groves. Though Zaetar was no lesser than his brother, Remulos, he often felt himself living in the shadow of his brother's presence and accomplishments.
@@ -1337,18 +1348,6 @@ Their names are short and sharp, while tribes draw their name from the first kha
 > The two became mates, in secrecy, and out of their forbidden union the centaur were born. Zaetar realized his deed upon seeing the centaurs, who in turn saw the disgust in their father's eyes and brutally murdered him. Therazane chastised them for the deed, for which the centaurs promised to honor Zaetar's memory to please their beloved mother.
 >
 > Theradras entombed her lover's spirit within her own lair, which the centaur gave the name Maraudon and grew to regard as a sacred place.
-
-<div class='letterheader'></div>
-<div class="mmletter mml-c"></div>
-<div class="pageLetter">C</div>
-<div class='footnote'>CENTAURS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src="https://www.gmbinder.com/images/64Wsryy.png" class="inkblot" style="top: 87px;right: -230px;width: 640px;transform: rotate(-47deg);">
-<img src='https://www.gmbinder.com/images/3myZ2DH.png' style='position:absolute; top:150px; right:-90px; width:550px;' />
-
-\pagebreakNum
-
-<div style='margin-top:411px;'></div>
 
 ___
 > ## Centaur
@@ -1422,8 +1421,9 @@ ___
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
-<img src='https://www.gmbinder.com/images/jPRzhev.jpg' style='position:absolute; top:0px; right:-20px; width:1200px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:50px; right:0px; width:900px;' />
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://www.gmbinder.com/images/64Wsryy.png" class="inkblot" style=" top:0px; right:-130px; width:640px; transform:rotate(-47deg);">
+<img src='https://www.gmbinder.com/images/3myZ2DH.png' style='position:absolute; top:-20px; right:-70px; width:500px;' />
 
 \pagebreakNum
 
@@ -1468,9 +1468,8 @@ ___
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src="https://www.gmbinder.com/images/e5Dbuzd.png" class="inkblot" style="top: 20px;right: -17px;width: 800px;transform: rotate(-170deg);">
-<img src='https://www.gmbinder.com/images/EojlAJ6.png' style='position:absolute; top:-20px; left:38px; width:840px;' />
+<img src='https://www.gmbinder.com/images/jPRzhev.jpg' style='position:absolute; top:0px; right:-180px; width:1500px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:350px; right:0px; width:900px;' />
 
 \pagebreakNum
 
@@ -1570,7 +1569,6 @@ They are are ferocious, unforgivable beings. Hostility toward intruders is alway
 A dark iron hounds is smaller, one headed, core hound. They are often seen accompanying the dark iron dwarves who dwell within Blackrock Mountain.
 
 These hounds are often used as mounts by the dark iron dwarves that keep them, though they do not take well to others.
-
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CORE HOUNDS </div>
@@ -1834,8 +1832,6 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:100px;'></div>
-
 ## Dwarves: Dark Iron
 Known for their fiery tempers and fierce determination, the Dark Iron clan of dwarves has a history of strife with the other dwarven clans, as well as within their own ranks. Twisted by the influence of Ragnaros the Firelord, they are a greedy, cruel, and despotic kind.
 
@@ -1853,18 +1849,15 @@ Though Sorcerer-Thane Thaurissan himself was killed in the eruption, both the le
 
 ***Shadowforge City.*** For decades on after, the Dark Iron clan lived in servitude to their elemental master. Not as thralls in chains, but as devoted warriors under the Firelord's scalding banner. Following on in the footsteps the Sorcerer-Thane's legacy was the son of him and his wife Modgud; Dagran Thaurissan, crowned emperor of the Dark Iron clan and their new home beneath Blackrock Mountain: Shadowforge City.
 
-\columnbreak
-
-> Let's put a big half-page tear with some fitting artwork, either for the Dark Irons or from the War of the Three Hammers.
-
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
+<img src='https://www.gmbinder.com/images/UUqvr23.jpg' style='position:absolute; top:0px; right:-250px; width:900px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:-20px; width:900px' />
+<img src='https://www.gmbinder.com/images/MYPQgR3.png' style='position:absolute; top:830px; right:435px; width:300px' />
 
 \pagebreakNum
 
-<div style='margin-top:290px;'></div>
-
-***Born in Flames.*** Like other dwarves, dark iron dwarves have strong constitution. Adding to their formidable stamina is an incredible affinity to fire -- a gift granted to them by their long servitude to Ragnaros the Firelord. 
+&nbsp;&nbsp;&nbsp; ***Born in Flames.*** Like other dwarves, dark iron dwarves have strong constitution. Adding to their formidable stamina is an incredible affinity to fire -- a gift granted to them by their long servitude to Ragnaros the Firelord. 
 
 Though fire can still harm them, the soot-stained skin of a dark iron dwarf shields them well from the smoldering fires at the heart of Blackrock Mountain.
 
@@ -1881,9 +1874,15 @@ The Dark Iron Overseers keep the daily operations of the clan's numerous prospec
 As the tireless work of the dark iron work drudges on, the overseers stand with hateful smiles on their faces, cracking the whips that drive their labouring thralls forward.
 
 ### Dark Iron Herald
-Heralds stand at the pinnacle of dark iron society. They are the voice of their kin, the mouth through which the Firelord enacts his will upon the dwarves. Their presence alone brings forth the fiery temper that has become the clan's legacy; driving dwarves around them to fanatical extremes. 
+Heralds stand at the pinnacle of dark iron society. They are the voice of their kin, the mouth through which the Firelord 
+enacts his will upon the dwarves. Their presence brings
+<br> <span style="margin-left:10px"></span> forth the fiery temper that has become the clan's legacy; 
+<br> <span style="margin-left:20px"></span> driving dwarves around them to fanatical extremes. 
 
-To this end, they have been bestowed with the power to weave devastating spells and conjure forth the Firelord's minions to their own aid. 
+<span style="margin-left:50px"></span> To this end, they have been bestowed with the 
+<br> <span style="margin-left:80px"></span> power to weave devastating spells and 
+<br> <span style="margin-left:95px"></span> conjure forth the Firelord's minions to 
+<br> <span style="margin-left:110px"></span> their own aid. 
 
 \columnbreak
 
@@ -1920,10 +1919,11 @@ ___
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/bST4TE9.jpg' style='position:absolute; top:530px; right:330px; width:1050px' />
+<img src='https://www.gmbinder.com/images/kjkhmQF.png' style='position:absolute; top:0px; right:-180px; width:1000px' />
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:-100px; right:-100px; width:600px'>
 <img src='https://www.gmbinder.com/images/NxtWzOA.png' style='position:absolute; top:0px; right:0px; width:400px' />
-<img src='https://www.gmbinder.com/images/VgKYEVj.png' style='position:absolute; top:-75px; right:565px; width:400px;transform:rotate(140deg)' />
+
 
 \pagebreakNum
 
@@ -2008,7 +2008,7 @@ ___
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
-<img src='https://www.gmbinder.com/images/bST4TE9.jpg' style='position:absolute; top:530px; right:-340px; width:1050px' />
+<img src='https://www.gmbinder.com/images/bST4TE9.jpg' style='position:absolute; top:530px; right:-490px; width:1050px' />
 <img src='https://www.gmbinder.com/images/LNmpIht.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scaley(-1)' />
 <img src='https://www.gmbinder.com/images/0AudugF.png' style='position:absolute; top:800px; right:420px; width:520px;transform:rotate(60deg)' />
 
@@ -2077,23 +2077,17 @@ ___
 <div class='footnote'>DWARVES: DARK IRON </div>
 <img src='https://www.gmbinder.com/images/iBiU601.jpg' style='position:absolute; top:0px; right:-50px; width:850px' />
 <img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:-20px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/MYPQgR3.png' style='position:absolute; top:355px; right:555px; width:350px' />
 
 \pagebreakNum
 
 <div style='margin-top:140px;'></div>
 
 ## Elementals
-
 Elementals are as ageless as they are unchanging; volatile beings of raw elemental power, manifested in physical form. Since the early days of creation, as life hurdled through the cosmos and manifested itself upon countless worlds, the most common primordial form of life has been the elementals -- who now populate nearly every world spanning across the great dark beyond, nourishing themselves off of the energies within.
 
 ***Bound to the Elemental Plane.*** On Azeroth, as the titanic Keepers saw to the ordering of the world, they found the elementals wreaking havoc under the corrupting influence of the Old Gods. As a safeguard, to protect their intended new denizens of the planet from such a destructive force, the Keepers constructed the Elemental Plane as a prison in which the elementals could be locked away, free to roam at their own behest. In their absence, the Keepers could tend to their task at hand; settling the natural order of Azeroth.
 
 The Elemental Plane is divided into four interlinked regions, each existing within its own pocket dimension as a representation of its associated element: The Abyssal Maw, domain of water; Deepholm, domain of earth; the Firelands, domain of fire; and Skywall, domain of air.
-
-\columnbreak
-
-<div style='margin-top:140px;'></div>
 
 ***An Eternity of Conflict.*** Though the domains within the Elemental Plane are intended to be sealed off, none of them accessible from the others, the elementals have never ceased their endless strife with one another. By what means they can, whether by breaching the walls of their domain to invade another or by taking their conflict to the physical plane with the help of mortal hands, the elementals are quick to clash as they meet -- sometimes waging battles of titanic proprtions.
 
@@ -2105,41 +2099,32 @@ Carrying out the bidding of the Elemental Lords are their lieutenants. While now
 
 ***Elemental Nature.*** A elemental doesn't require air, food, drink, or sleep.
 
-> Placeholder for a page-width image tear down here.
-
-<div class='letterheader'></div>
-<div class="mmletter mml-e"></div>
-<div class="pageLetter">E</div>
-<div class='footnote'>ELEMENTALS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
+\columnbreak
 
 <div style='margin-top:140px;'></div>
 
 ### Air Elemental
 Taking form as a swirling storm, or a billowing cloud given faint humanoid shape, an air elemental holds command of wind and weather. Fast and silent, it strikes out by enveloping its foes in a blinding whirlwind to seize the upper hand.
+<div style='margin-top:-5px;'></div>
 
 ### Arcane Elemental
 Appearing in areas suffused with arcane energy, these ele&shy;mentals manifest from its energy and are often found in the service of mages, feeding of the fluctuation of magic from their spells.
+<div style='margin-top:-5px;'></div>
 
 ### Earth Elemental
 Near indistinguishable from rocks if standing still, an earth elemental is as hardy and steadfast as the element it embodies. It burrows through the ground with utmost ease, and faces its opponents head-on if engaged.
+<div style='margin-top:-5px;'></div>
 
 ### Fire Elemental
 A fire elemental manifests as a smoldering pillar of unwavering destruction. While susceptible to water, it is a cunning presence that will often attempt to overwhelm and outright engulf those who try to stand in its way.
+<div style='margin-top:-5px;'></div>
 
 ### Ice Elemental
 Manifest from frozen water, ice elementals share domain and allegiance with other water elementals. It moves unhindered through the icy reaches in which it dwells, and is very quick to enrage at the sight of fire wielded in its vicinity.
+<div style='margin-top:-5px;'></div>
 
 ### Water Elemental
 A favoured companion among mages, human mages in particular, a water elemental is near impossible to discern while underwater. If able, it often attempts to deal with threats by luring them along into the water -- and from there, drag them along into the murky depths.
-
-> This space is too narrow to have the text block on this side. Should we leave this part of the page empty and have a page tear on the right side, or should we flow the text over columns and have a page-wide tear like on the preceding page?
-
-\columnbreak
-
-<div style='margin-top:740px;'></div>
 
 > ##### Variant: Elemental Revenant
 > An elemental revenant is a furious elemental being that has manifested itself with a crude suit of armor for protection.
@@ -2225,9 +2210,9 @@ ___
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:0px; right:-50px; width:500px' />
-<img src='https://www.gmbinder.com/images/9oFdFdN.jpg' style='position:absolute; top:0px; right:370px; width:500px;mix-blend-mode:darken' />
-<img src='https://www.gmbinder.com/images/119Iqk8.png' style='position:absolute; top:0px; right:-100px; width:500px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:-300px; right:-100px; width:900px; transform:rotate(60deg)' />
+<img src='https://www.gmbinder.com/images/9oFdFdN.jpg' style='position:absolute; top:40px; right:400px; width:400px;mix-blend-mode:darken' />
+<img src='https://www.gmbinder.com/images/119Iqk8.png' style='position:absolute; top:0px; right:0px; width:400px' />
 
 \pagebreakNum
 
@@ -2299,9 +2284,9 @@ ___
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:0px; right:350px; width:500px;transform:rotate(40deg)' />
-<img src='https://www.gmbinder.com/images/6aDvUEv.png' style='position:absolute; top:20px; right:310px; width:650px' />
-<img src='https://www.gmbinder.com/images/cNtNh1F.jpg' style='position:absolute; top:-50px; right:-10px; width:450px;mix-blend-mode:darken' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:-100px; right:50px; width:800px; transform:rotate(110deg)' />
+<img src='https://www.gmbinder.com/images/6aDvUEv.png' style='position:absolute; top:160px; right:370px; width:450px' />
+<img src='https://www.gmbinder.com/images/cNtNh1F.jpg' style='position:absolute; top:-10px; right:10px; width:400px;mix-blend-mode:darken' />
 
 \pagebreakNum
 
@@ -2376,9 +2361,9 @@ ___
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:0px; right:350px; width:500px' />
-<img src='https://www.gmbinder.com/images/7urPPrg.png' style='position:absolute; top:-50px; right:370px; width:500px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/FTRgu1c.jpg' style='position:absolute; top:-20px; right:-30px; width:450px;transform:scalex(-1);mix-blend-mode:darken' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:-150px; right:300px; width:700px' />
+<img src='https://www.gmbinder.com/images/7urPPrg.png' style='position:absolute; top:0px; right:380px; width:400px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/FTRgu1c.jpg' style='position:absolute; top:-50px; right:20px; width:400px; transform:scalex(-1); mix-blend-mode:darken' />
 
 \pagebreakNum
 
