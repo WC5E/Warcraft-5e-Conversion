@@ -3472,9 +3472,16 @@ Some harpies are capable of wielding the forces of nature at their will. These h
 >
 > ***Innate Spellcasting (2/day).*** The harpy's can innately cast *charm person*, requiring no material or somatic components. Its spellcasting modifier is Wisdom.
 
-\columnbreak
+<div class='letterheader'></div>
+<div class="mmletter mml-h"></div>
+<div class="pageLetter">H</div>
+<div class='footnote'>HARPIES </div>
+<img src='https://www.gmbinder.com/images/wJyeYKG.jpg' style='position:absolute; top:0px; right:-300px; width:900px' />
+<img src='https://www.gmbinder.com/images/5SuiuAg.png' style='position:absolute; top:0px; right:-80px; width:900px; transform:scalex(-1)' />
 
-<div style='margin-top:360px;'></div>
+\pagebreakNum
+
+<div style='margin-top:370px;'></div>
 
 ___
 > ## Harpy
@@ -3504,15 +3511,9 @@ ___
 >
 > ***Incapacitating Screech (Recharge 6).*** The harpy emits a horrific screech. Each creature within 15 feet of it that can hear it and that isn't a harpy must succeed on a DC 11 Constitution saving throw or be incapaci&shy;tated until the end of the harpy's next turn.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-h"></div>
-<div class="pageLetter">H</div>
-<div class='footnote'>HARPIES </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:-50px; width:500px'>
-<img src='https://www.gmbinder.com/images/8xkJDn5.png' style='position:absolute; top:-100px; right:-70px; width:500px' />
+\columnbreak
 
-\pagebreakNum
+<div style='margin-top:216px;'></div>
 
 ___
 > ## Harpy Witch
@@ -3551,10 +3552,9 @@ ___
 
 <div class="pageLetter">H</div>
 <div class='footnote'>HARPIES </div>
-<img src='https://www.gmbinder.com/images/YKW43zQ.jpg' style='position:absolute; top:760px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/dStbKfZ.png' style='position:absolute; top:-220px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/KcRAZwq.png' class='inkblot inkblot-green' style='top:0px; right:0px; width:500px'>
-<img src='https://www.gmbinder.com/images/tvBKpv9.jpg' style='position:absolute; top:20px; right:-150px; width:700px;mix-blend-mode:darken' />
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:50px; width:700px'>
+<img src='https://www.gmbinder.com/images/8xkJDn5.png' style='position:absolute; top:-50px; right:400px; width:400px; transform:scalex(-1)' />
 
 \pagebreakNum
 
