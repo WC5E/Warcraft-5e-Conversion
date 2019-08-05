@@ -8908,6 +8908,7 @@ A **zhevra** is a large zebra with the horn piercing through its forehead simila
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
+<img src='https://www.gmbinder.com/images/4TyqQuB.png' style='position:absolute; top:600px; right:-75px; width:500px' />
 
 \pagebreakNum
 
