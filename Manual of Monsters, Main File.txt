@@ -2523,7 +2523,7 @@ Other predators attempting to scavenge remains left behind by a fleshbeast will 
 
 \pagebreakNum
 
-<div style='margin-top:410px;'></div>
+<div style='margin-top:250px;'></div>
 
 ## Furbolg
 Furbolgs are large, kind-hearted creatures. Resembling humanoid bears, they form tribal settlements in caves, forest thickets, and other defensible locations. Though they have care little for conflict, they appear particularly susceptible to corruption.
@@ -2535,6 +2535,8 @@ Their tribes can grow exceptionally large, though they are masters at staying se
 ***Corrupted Kin.*** Perhaps leading to their secluded nature, furbolgs have been shown to be easily manipulated by outside forces. As the lands around have blightened, trubes have been transformed into vicious, hateful packs.
 
 Many such tribes lost their ways to the Burning Legion's invading forces, as well as to the corrupting influence of the Old Gods.  Turned away from their kin and onto a bloody path of war.
+
+### Furbolg Names and Languages
 
 > ##### Variant: Furbolg Shaman
 > Some furbolgs devote themselves to becoming a shaman for their tribe. A furbolg shaman gains the Spellcasting trait.
@@ -2584,7 +2586,7 @@ ___
 <div class="pageLetter">F</div>
 <div class='footnote'>FURBOLG </div>
 <img src='https://www.gmbinder.com/images/RK0T5LI.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/nkD6PUz.png' style='position:absolute; top:-40px; right:0px; width:930px;transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/nkD6PUz.png' style='position:absolute; top:-170px; right:0px; width:1000px; transform:rotate(180deg)' />
 <img src="https://www.gmbinder.com/images/Dn83KUf.png " style="position:absolute;top: 0px;right: -52px;width: 480px;">
 
 \pagebreakNum
