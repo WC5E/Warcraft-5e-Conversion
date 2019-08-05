@@ -4253,7 +4253,7 @@ As an example, the Mechanostrider shown here uses the base statistics of a talls
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-blue' style='top:0px; right:335px; width:600px; transform:rotate(40deg);'>
-<img src='https://www.gmbinder.com/images/FY0kkNX.png' style='position:absolute; top:0px; right:350px; width:400px' />
+<img src='https://www.gmbinder.com/images/VEo4qYs.png' style='position:absolute; top:0px; right:350px; width:400px' />
 
 \pagebreakNum
 
