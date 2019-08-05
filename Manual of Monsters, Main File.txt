@@ -8001,6 +8001,7 @@ ___
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot inkblot-green' style='top:850px; right:100px; width:700px; transform:rotate(-40deg)'>
+<img src='https://www.gmbinder.com/images/5b3OUol.png' style='position:absolute; top:820px; right:370px; width:500px' />
 
 \pagebreakNum
 
