@@ -5473,7 +5473,7 @@ ___
 <div class='footnote'>RAVAGERS </div>
 <img src='https://www.gmbinder.com/images/DLVtbKb.jpg' style='position:absolute; top:350px; right:-500px; width:2000px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:-360px; right:0px; width:900px' />
-<img src="https://www.gmbinder.com/images/BoirSoS.png" style="position:absolute;top: 925px;right: -18px;width:px;transform: rotate(-3deg);filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));">
+<img src="https://www.gmbinder.com/images/y63HAI5.png" style="position:absolute; top:470px; right:-18px; width:px; transform:rotate(-3deg); filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));">
 
 \pagebreakNum
 
