@@ -6578,7 +6578,7 @@ ___
 <div class='footnote'>SKELETONS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:0px; right:200px; width:600px; transform:rotate(150deg)'>
-<img src='https://www.gmbinder.com/images/AuHA2cU.png' style='position:absolute; top:0px; right:230px; width:850px' />
+<img src='https://www.gmbinder.com/images/O699N4q.png' style='position:absolute; top:-70px; right:150px; width:750px' />
 
 \pagebreakNum
 
