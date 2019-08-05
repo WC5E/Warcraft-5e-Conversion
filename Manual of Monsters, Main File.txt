@@ -975,7 +975,7 @@ ___
 <img src='https://www.gmbinder.com/images/W7JrNLv.jpg' style='position:absolute; top:0px; right:-170px; width:1300px' />
 <img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:90px; right:0px; width:900px' />
 
-\pagebreak
+\pagebreakNum
 
 <div style='margin-top:64px;'>
 
@@ -1294,6 +1294,10 @@ ___
 
 \pagebreakNum
 
+---
+
+\columnbreak
+
 <div style='margin-top:140px;'></div>
 
 ## Centaurs
@@ -1325,9 +1329,16 @@ Their names are short and sharp, while tribes draw their name from the first kha
 <br />**Tribe Names:** Galak, Jhenek, Kolkar, Krenek, Okrim,
 <br />&nbsp;&nbsp;&nbsp; Wethek, Worrak
 
-\columnbreak
+<div class='letterheader'></div>
+<div class="mmletter mml-c"></div>
+<div class="pageLetter">C</div>
+<div class='footnote'>CENTAURS </div>
+<img src='https://www.gmbinder.com/images/bGAMsIn.jpg' style='position:absolute; top:0px; right:250px; width:820px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:-80px; width:900px; transform:scalex(-1)' />
 
-<div style='margin-top:650px;'></div>
+\pagebreakNum
+
+<div style='margin-top:48px;'></div>
 
 > ##### The Children of Zaetar
 > The centaur are the progeny of Zaetar, a Keeper of the Grove and son of Cenarius; Lord of the forest and Demigod of the Groves. Though Zaetar was no lesser than his brother, Remulos, he often felt himself living in the shadow of his brother's presence and accomplishments.
@@ -1337,18 +1348,6 @@ Their names are short and sharp, while tribes draw their name from the first kha
 > The two became mates, in secrecy, and out of their forbidden union the centaur were born. Zaetar realized his deed upon seeing the centaurs, who in turn saw the disgust in their father's eyes and brutally murdered him. Therazane chastised them for the deed, for which the centaurs promised to honor Zaetar's memory to please their beloved mother.
 >
 > Theradras entombed her lover's spirit within her own lair, which the centaur gave the name Maraudon and grew to regard as a sacred place.
-
-<div class='letterheader'></div>
-<div class="mmletter mml-c"></div>
-<div class="pageLetter">C</div>
-<div class='footnote'>CENTAURS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src="https://www.gmbinder.com/images/64Wsryy.png" class="inkblot" style="top: 87px;right: -230px;width: 640px;transform: rotate(-47deg);">
-<img src='https://www.gmbinder.com/images/3myZ2DH.png' style='position:absolute; top:150px; right:-90px; width:550px;' />
-
-\pagebreakNum
-
-<div style='margin-top:411px;'></div>
 
 ___
 > ## Centaur
@@ -1422,8 +1421,9 @@ ___
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
-<img src='https://www.gmbinder.com/images/jPRzhev.jpg' style='position:absolute; top:0px; right:-20px; width:1200px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:50px; right:0px; width:900px;' />
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src="https://www.gmbinder.com/images/64Wsryy.png" class="inkblot" style=" top:0px; right:-130px; width:640px; transform:rotate(-47deg);">
+<img src='https://www.gmbinder.com/images/3myZ2DH.png' style='position:absolute; top:-20px; right:-70px; width:500px;' />
 
 \pagebreakNum
 
@@ -1468,9 +1468,8 @@ ___
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src="https://www.gmbinder.com/images/e5Dbuzd.png" class="inkblot" style="top: 20px;right: -17px;width: 800px;transform: rotate(-170deg);">
-<img src='https://www.gmbinder.com/images/EojlAJ6.png' style='position:absolute; top:-20px; left:38px; width:840px;' />
+<img src='https://www.gmbinder.com/images/jPRzhev.jpg' style='position:absolute; top:0px; right:-180px; width:1500px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:350px; right:0px; width:900px;' />
 
 \pagebreakNum
 
@@ -1570,7 +1569,6 @@ They are are ferocious, unforgivable beings. Hostility toward intruders is alway
 A dark iron hounds is smaller, one headed, core hound. They are often seen accompanying the dark iron dwarves who dwell within Blackrock Mountain.
 
 These hounds are often used as mounts by the dark iron dwarves that keep them, though they do not take well to others.
-
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CORE HOUNDS </div>
@@ -1834,8 +1832,6 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:100px;'></div>
-
 ## Dwarves: Dark Iron
 Known for their fiery tempers and fierce determination, the Dark Iron clan of dwarves has a history of strife with the other dwarven clans, as well as within their own ranks. Twisted by the influence of Ragnaros the Firelord, they are a greedy, cruel, and despotic kind.
 
@@ -1853,18 +1849,15 @@ Though Sorcerer-Thane Thaurissan himself was killed in the eruption, both the le
 
 ***Shadowforge City.*** For decades on after, the Dark Iron clan lived in servitude to their elemental master. Not as thralls in chains, but as devoted warriors under the Firelord's scalding banner. Following on in the footsteps the Sorcerer-Thane's legacy was the son of him and his wife Modgud; Dagran Thaurissan, crowned emperor of the Dark Iron clan and their new home beneath Blackrock Mountain: Shadowforge City.
 
-\columnbreak
-
-> Let's put a big half-page tear with some fitting artwork, either for the Dark Irons or from the War of the Three Hammers.
-
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
+<img src='https://www.gmbinder.com/images/UUqvr23.jpg' style='position:absolute; top:0px; right:-250px; width:900px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:-20px; width:900px' />
+<img src='https://www.gmbinder.com/images/MYPQgR3.png' style='position:absolute; top:830px; right:435px; width:300px' />
 
 \pagebreakNum
 
-<div style='margin-top:290px;'></div>
-
-***Born in Flames.*** Like other dwarves, dark iron dwarves have strong constitution. Adding to their formidable stamina is an incredible affinity to fire -- a gift granted to them by their long servitude to Ragnaros the Firelord. 
+&nbsp;&nbsp;&nbsp; ***Born in Flames.*** Like other dwarves, dark iron dwarves have strong constitution. Adding to their formidable stamina is an incredible affinity to fire -- a gift granted to them by their long servitude to Ragnaros the Firelord. 
 
 Though fire can still harm them, the soot-stained skin of a dark iron dwarf shields them well from the smoldering fires at the heart of Blackrock Mountain.
 
@@ -1881,9 +1874,15 @@ The Dark Iron Overseers keep the daily operations of the clan's numerous prospec
 As the tireless work of the dark iron work drudges on, the overseers stand with hateful smiles on their faces, cracking the whips that drive their labouring thralls forward.
 
 ### Dark Iron Herald
-Heralds stand at the pinnacle of dark iron society. They are the voice of their kin, the mouth through which the Firelord enacts his will upon the dwarves. Their presence alone brings forth the fiery temper that has become the clan's legacy; driving dwarves around them to fanatical extremes. 
+Heralds stand at the pinnacle of dark iron society. They are the voice of their kin, the mouth through which the Firelord 
+enacts his will upon the dwarves. Their presence brings
+<br> <span style="margin-left:10px"></span> forth the fiery temper that has become the clan's legacy; 
+<br> <span style="margin-left:20px"></span> driving dwarves around them to fanatical extremes. 
 
-To this end, they have been bestowed with the power to weave devastating spells and conjure forth the Firelord's minions to their own aid. 
+<span style="margin-left:50px"></span> To this end, they have been bestowed with the 
+<br> <span style="margin-left:80px"></span> power to weave devastating spells and 
+<br> <span style="margin-left:95px"></span> conjure forth the Firelord's minions to 
+<br> <span style="margin-left:110px"></span> their own aid. 
 
 \columnbreak
 
@@ -1920,10 +1919,11 @@ ___
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/bST4TE9.jpg' style='position:absolute; top:530px; right:330px; width:1050px' />
+<img src='https://www.gmbinder.com/images/kjkhmQF.png' style='position:absolute; top:0px; right:-180px; width:1000px' />
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:-100px; right:-100px; width:600px'>
 <img src='https://www.gmbinder.com/images/NxtWzOA.png' style='position:absolute; top:0px; right:0px; width:400px' />
-<img src='https://www.gmbinder.com/images/VgKYEVj.png' style='position:absolute; top:-75px; right:565px; width:400px;transform:rotate(140deg)' />
+
 
 \pagebreakNum
 
@@ -2008,7 +2008,7 @@ ___
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
-<img src='https://www.gmbinder.com/images/bST4TE9.jpg' style='position:absolute; top:530px; right:-340px; width:1050px' />
+<img src='https://www.gmbinder.com/images/bST4TE9.jpg' style='position:absolute; top:530px; right:-490px; width:1050px' />
 <img src='https://www.gmbinder.com/images/LNmpIht.png' style='position:absolute; top:0px; right:0px; width:900px;transform:scaley(-1)' />
 <img src='https://www.gmbinder.com/images/0AudugF.png' style='position:absolute; top:800px; right:420px; width:520px;transform:rotate(60deg)' />
 
@@ -2077,23 +2077,17 @@ ___
 <div class='footnote'>DWARVES: DARK IRON </div>
 <img src='https://www.gmbinder.com/images/iBiU601.jpg' style='position:absolute; top:0px; right:-50px; width:850px' />
 <img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:-20px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/MYPQgR3.png' style='position:absolute; top:355px; right:555px; width:350px' />
 
 \pagebreakNum
 
 <div style='margin-top:140px;'></div>
 
 ## Elementals
-
 Elementals are as ageless as they are unchanging; volatile beings of raw elemental power, manifested in physical form. Since the early days of creation, as life hurdled through the cosmos and manifested itself upon countless worlds, the most common primordial form of life has been the elementals -- who now populate nearly every world spanning across the great dark beyond, nourishing themselves off of the energies within.
 
 ***Bound to the Elemental Plane.*** On Azeroth, as the titanic Keepers saw to the ordering of the world, they found the elementals wreaking havoc under the corrupting influence of the Old Gods. As a safeguard, to protect their intended new denizens of the planet from such a destructive force, the Keepers constructed the Elemental Plane as a prison in which the elementals could be locked away, free to roam at their own behest. In their absence, the Keepers could tend to their task at hand; settling the natural order of Azeroth.
 
 The Elemental Plane is divided into four interlinked regions, each existing within its own pocket dimension as a representation of its associated element: The Abyssal Maw, domain of water; Deepholm, domain of earth; the Firelands, domain of fire; and Skywall, domain of air.
-
-\columnbreak
-
-<div style='margin-top:140px;'></div>
 
 ***An Eternity of Conflict.*** Though the domains within the Elemental Plane are intended to be sealed off, none of them accessible from the others, the elementals have never ceased their endless strife with one another. By what means they can, whether by breaching the walls of their domain to invade another or by taking their conflict to the physical plane with the help of mortal hands, the elementals are quick to clash as they meet -- sometimes waging battles of titanic proprtions.
 
@@ -2105,41 +2099,32 @@ Carrying out the bidding of the Elemental Lords are their lieutenants. While now
 
 ***Elemental Nature.*** A elemental doesn't require air, food, drink, or sleep.
 
-> Placeholder for a page-width image tear down here.
-
-<div class='letterheader'></div>
-<div class="mmletter mml-e"></div>
-<div class="pageLetter">E</div>
-<div class='footnote'>ELEMENTALS </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-\pagebreakNum
+\columnbreak
 
 <div style='margin-top:140px;'></div>
 
 ### Air Elemental
 Taking form as a swirling storm, or a billowing cloud given faint humanoid shape, an air elemental holds command of wind and weather. Fast and silent, it strikes out by enveloping its foes in a blinding whirlwind to seize the upper hand.
+<div style='margin-top:-5px;'></div>
 
 ### Arcane Elemental
 Appearing in areas suffused with arcane energy, these ele&shy;mentals manifest from its energy and are often found in the service of mages, feeding of the fluctuation of magic from their spells.
+<div style='margin-top:-5px;'></div>
 
 ### Earth Elemental
 Near indistinguishable from rocks if standing still, an earth elemental is as hardy and steadfast as the element it embodies. It burrows through the ground with utmost ease, and faces its opponents head-on if engaged.
+<div style='margin-top:-5px;'></div>
 
 ### Fire Elemental
 A fire elemental manifests as a smoldering pillar of unwavering destruction. While susceptible to water, it is a cunning presence that will often attempt to overwhelm and outright engulf those who try to stand in its way.
+<div style='margin-top:-5px;'></div>
 
 ### Ice Elemental
 Manifest from frozen water, ice elementals share domain and allegiance with other water elementals. It moves unhindered through the icy reaches in which it dwells, and is very quick to enrage at the sight of fire wielded in its vicinity.
+<div style='margin-top:-5px;'></div>
 
 ### Water Elemental
 A favoured companion among mages, human mages in particular, a water elemental is near impossible to discern while underwater. If able, it often attempts to deal with threats by luring them along into the water -- and from there, drag them along into the murky depths.
-
-> This space is too narrow to have the text block on this side. Should we leave this part of the page empty and have a page tear on the right side, or should we flow the text over columns and have a page-wide tear like on the preceding page?
-
-\columnbreak
-
-<div style='margin-top:740px;'></div>
 
 > ##### Variant: Elemental Revenant
 > An elemental revenant is a furious elemental being that has manifested itself with a crude suit of armor for protection.
@@ -2225,9 +2210,9 @@ ___
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:0px; right:-50px; width:500px' />
-<img src='https://www.gmbinder.com/images/9oFdFdN.jpg' style='position:absolute; top:0px; right:370px; width:500px;mix-blend-mode:darken' />
-<img src='https://www.gmbinder.com/images/119Iqk8.png' style='position:absolute; top:0px; right:-100px; width:500px' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:-300px; right:-100px; width:900px; transform:rotate(60deg)' />
+<img src='https://www.gmbinder.com/images/9oFdFdN.jpg' style='position:absolute; top:40px; right:400px; width:400px;mix-blend-mode:darken' />
+<img src='https://www.gmbinder.com/images/119Iqk8.png' style='position:absolute; top:0px; right:0px; width:400px' />
 
 \pagebreakNum
 
@@ -2299,9 +2284,9 @@ ___
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:0px; right:350px; width:500px;transform:rotate(40deg)' />
-<img src='https://www.gmbinder.com/images/6aDvUEv.png' style='position:absolute; top:20px; right:310px; width:650px' />
-<img src='https://www.gmbinder.com/images/cNtNh1F.jpg' style='position:absolute; top:-50px; right:-10px; width:450px;mix-blend-mode:darken' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:-100px; right:50px; width:800px; transform:rotate(110deg)' />
+<img src='https://www.gmbinder.com/images/6aDvUEv.png' style='position:absolute; top:160px; right:370px; width:450px' />
+<img src='https://www.gmbinder.com/images/cNtNh1F.jpg' style='position:absolute; top:-10px; right:10px; width:400px;mix-blend-mode:darken' />
 
 \pagebreakNum
 
@@ -2376,9 +2361,9 @@ ___
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:0px; right:350px; width:500px' />
-<img src='https://www.gmbinder.com/images/7urPPrg.png' style='position:absolute; top:-50px; right:370px; width:500px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/FTRgu1c.jpg' style='position:absolute; top:-20px; right:-30px; width:450px;transform:scalex(-1);mix-blend-mode:darken' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='position:absolute; top:-150px; right:300px; width:700px' />
+<img src='https://www.gmbinder.com/images/7urPPrg.png' style='position:absolute; top:0px; right:380px; width:400px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/FTRgu1c.jpg' style='position:absolute; top:-50px; right:20px; width:400px; transform:scalex(-1); mix-blend-mode:darken' />
 
 \pagebreakNum
 
@@ -2538,7 +2523,7 @@ Other predators attempting to scavenge remains left behind by a fleshbeast will 
 
 \pagebreakNum
 
-<div style='margin-top:410px;'></div>
+<div style='margin-top:250px;'></div>
 
 ## Furbolg
 Furbolgs are large, kind-hearted creatures. Resembling humanoid bears, they form tribal settlements in caves, forest thickets, and other defensible locations. Though they have care little for conflict, they appear particularly susceptible to corruption.
@@ -2550,6 +2535,8 @@ Their tribes can grow exceptionally large, though they are masters at staying se
 ***Corrupted Kin.*** Perhaps leading to their secluded nature, furbolgs have been shown to be easily manipulated by outside forces. As the lands around have blightened, trubes have been transformed into vicious, hateful packs.
 
 Many such tribes lost their ways to the Burning Legion's invading forces, as well as to the corrupting influence of the Old Gods.  Turned away from their kin and onto a bloody path of war.
+
+### Furbolg Names and Languages
 
 > ##### Variant: Furbolg Shaman
 > Some furbolgs devote themselves to becoming a shaman for their tribe. A furbolg shaman gains the Spellcasting trait.
@@ -2599,7 +2586,7 @@ ___
 <div class="pageLetter">F</div>
 <div class='footnote'>FURBOLG </div>
 <img src='https://www.gmbinder.com/images/RK0T5LI.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/nkD6PUz.png' style='position:absolute; top:-40px; right:0px; width:930px;transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/nkD6PUz.png' style='position:absolute; top:-170px; right:0px; width:1000px; transform:rotate(180deg)' />
 <img src="https://www.gmbinder.com/images/Dn83KUf.png " style="position:absolute;top: 0px;right: -52px;width: 480px;">
 
 \pagebreakNum
@@ -3485,9 +3472,16 @@ Some harpies are capable of wielding the forces of nature at their will. These h
 >
 > ***Innate Spellcasting (2/day).*** The harpy's can innately cast *charm person*, requiring no material or somatic components. Its spellcasting modifier is Wisdom.
 
-\columnbreak
+<div class='letterheader'></div>
+<div class="mmletter mml-h"></div>
+<div class="pageLetter">H</div>
+<div class='footnote'>HARPIES </div>
+<img src='https://www.gmbinder.com/images/wJyeYKG.jpg' style='position:absolute; top:0px; right:-300px; width:900px' />
+<img src='https://www.gmbinder.com/images/5SuiuAg.png' style='position:absolute; top:0px; right:-80px; width:900px; transform:scalex(-1)' />
 
-<div style='margin-top:360px;'></div>
+\pagebreakNum
+
+<div style='margin-top:370px;'></div>
 
 ___
 > ## Harpy
@@ -3517,15 +3511,9 @@ ___
 >
 > ***Incapacitating Screech (Recharge 6).*** The harpy emits a horrific screech. Each creature within 15 feet of it that can hear it and that isn't a harpy must succeed on a DC 11 Constitution saving throw or be incapaci&shy;tated until the end of the harpy's next turn.
 
-<div class='letterheader'></div>
-<div class="mmletter mml-h"></div>
-<div class="pageLetter">H</div>
-<div class='footnote'>HARPIES </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:-50px; width:500px'>
-<img src='https://www.gmbinder.com/images/8xkJDn5.png' style='position:absolute; top:-100px; right:-70px; width:500px' />
+\columnbreak
 
-\pagebreakNum
+<div style='margin-top:216px;'></div>
 
 ___
 > ## Harpy Witch
@@ -3564,10 +3552,9 @@ ___
 
 <div class="pageLetter">H</div>
 <div class='footnote'>HARPIES </div>
-<img src='https://www.gmbinder.com/images/YKW43zQ.jpg' style='position:absolute; top:760px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/dStbKfZ.png' style='position:absolute; top:-220px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/KcRAZwq.png' class='inkblot inkblot-green' style='top:0px; right:0px; width:500px'>
-<img src='https://www.gmbinder.com/images/tvBKpv9.jpg' style='position:absolute; top:20px; right:-150px; width:700px;mix-blend-mode:darken' />
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:50px; width:700px'>
+<img src='https://www.gmbinder.com/images/8xkJDn5.png' style='position:absolute; top:-50px; right:400px; width:400px; transform:scalex(-1)' />
 
 \pagebreakNum
 
@@ -4192,9 +4179,9 @@ ___
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MANA WYRMS </div>
-<img src='https://www.gmbinder.com/images/MmGP2TI.png' style='position:absolute; top:0px; right:380px; width:400px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/oN2RVqL.png' style='position:absolute; top:-120px; right:250px; width:700px' />
-<img src='https://www.gmbinder.com/images/vxT8f0L.png' style='position:absolute; top:0px; right:-150px; width:950px' />
+<img src='https://www.gmbinder.com/images/MmGP2TI.png' style='position:absolute; top:0px; right:400px; width:450px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; right:-80px; width:900px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/2V0DJX8.png' style='position:absolute; top:80px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -4266,7 +4253,7 @@ As an example, the Mechanostrider shown here uses the base statistics of a talls
 <div class='footnote'>MECHANICALS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-blue' style='top:0px; right:335px; width:600px; transform:rotate(40deg);'>
-<img src='https://www.gmbinder.com/images/FY0kkNX.png' style='position:absolute; top:0px; right:350px; width:400px' />
+<img src='https://www.gmbinder.com/images/VEo4qYs.png' style='position:absolute; top:0px; right:350px; width:400px' />
 
 \pagebreakNum
 
@@ -4671,7 +4658,11 @@ Their right arm has taken on the appearance of a large hermit crab, though it is
 ### Naga Brute
 Naga brutes are massive, lumbering beasts, strong enough to stand as siege weapons for the naga army. Some carry rank and title, while others act like little more than beasts.
 
-Whichever is the case for a particular brute, they are not void of intelligence. They will follow their given orders to the best of their abilities, and know well enough to strategise their way around an obvious trap when they see one.
+Whichever is the case for a particular brute, they are not avoid of intelligence. They follow given orders to the best of their abilities, and know well enough to strategize their way around an obvious trap when they see one.
+
+### Naga Names and Languages
+
+
 
 ___
 > ## Naga
@@ -4898,13 +4889,6 @@ They are vicious opponents, strong enough to rend limb from limb with their bare
 ### Ogre Magi
 The ogre magi, with its two heads, holds an intelligence far exceeding the rest of its kin. Borne of the same magic that they wield, it was not uncommon for the Horde -- in its second invasion of Azeroth -- to force this transformation in order to bolster its rank of spellcasters.
 
-Although the two heads are not always in agreement, they are paramount to the ogre's magical aptitude. A living proof that having two heads can be better than having one.
-
-### Ogre Lord
-Ogre lords are massive, hulking figures, towering above their clan in both size and status. While they have no aptitude for magic and little thought for intricate plans, their imposing presence precedes them well enough to keep the rest of their clan in check.
-
-Many might try to challenge an ogre lord's power over the course of its heavy-handed rule, though for most of them this confrontation doesn't end well.
-
 \columnbreak 
 
 <div style='margin-top:600px;'></div>
@@ -4942,6 +4926,15 @@ ___
 
 \pagebreakNum
 
+&nbsp;&nbsp;&nbsp; Although the two heads are not always in agreement, they are paramount to the ogre's magical aptitude. A living proof that having two heads can be better than having one.
+
+### Ogre Lord
+Ogre lords are massive, hulking figures, towering above their clan in both size and status. While they have no aptitude for magic and little thought for intricate plans, their imposing presence precedes them well enough to keep the rest of their clan in check.
+
+Many might try to challenge an ogre lord's power over the course of its heavy-handed rule, though for most of them this confrontation doesn't end well.
+
+### Ogre Names and Languages
+
 ___
 > ## Ogre Magi
 >*Large giant, chaotic evil*
@@ -4972,7 +4965,7 @@ ___
 > ### Actions
 > ***Maul:*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
-<br>
+\columnbreak
 
 > ##### Variant: Ogre Priest 
 > A few ogre magi supplement their dark powers with healing spells to aid their allies. They are regarded as spiritual leaders and record-keepers for their tribe. An ogre priest has Intelligence 11 and Wisdom 14, as well as the following trait: 
@@ -4982,10 +4975,10 @@ ___
 > <br> Cantrips (at will): *resistance, shadow bolt, virtue*
 > <br> 1st level (4 slots): *dark void, healing word, <br>&nbsp;&nbsp;&nbsp; shield of faith*
 > <br> 2nd level (4 slots): *lesser restoration, mind blast, <br>&nbsp;&nbsp;&nbsp; silence*
-> <br> 3rd level (3 slots): *glyph of warding, fear, <br>&nbsp;&nbsp;&nbsp; shadow crash*
+> <br> 3rd level (3 slots): *dispel magic, fear, shadow crash*
 > <br> 4th level (1 slot): *void shift*
 
-\columnbreak
+<div style='margin-top:-5px;'></div>
 
 ___
 > ## Ogre Lord
@@ -5020,8 +5013,7 @@ ___
 
 <div class="pageLetter">O</div>
 <div class='footnote'>OGRES </div>
-<img src='https://www.gmbinder.com/images/HEpeTDx.jpg' style='position:absolute; top:700px; right:-200px; width:1000px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -5164,44 +5156,17 @@ ___
 
 \columnbreak
 
-<div style='margin-top:440px;'></div>
+<div style='margin-top:300px;'></div>
 
-___
-> ## Quilboar
->*Medium humanoid (quilboar), neutral evil*
-> ___
-> - **Armor Class** 11
-> - **Hit Points** 7 (1d8 + 2)
-> - **Speed** 30 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|12 (+1)|11 (+1)|14 (+2)|8 (-1)|10 (+0)|9 (-1)|
->___
-> - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Common, Quilboar
-> - **Challenge** 1/4 (50 XP)
-> ___
-> ***Keen Smell.*** The quilboar has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ***Vengeance.*** The quilboar can make an opportunity attack with disadvantage against a target within range when an ally that it can see or hear dies.
->
-> ### Actions
-> ***Tusk.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) slashing damage.
->
-> ***Mace.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage.
->
-> ### Reactions
-> ***Quills.*** In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+## <span style="margin-left:95px"></span> Quilboars
+<span style="margin-left:110px"></span> A ferocious, suicidally brave race, quil- 
+<span style="margin-left:115px"></span> boars are renowned for their stubby, 
+<span style="margin-left:125px"></span> pig-like appearance. Rows of sharp 
+<span style="margin-left:130px"></span> spines run down their hunched 
+<span style="margin-left:125px"></span> backs, and stubby tusks protrude 
+<span style="margin-left:110px"></span> from their mouth.
 
-\columnbreak
-
-<div style='margin-top:340px;'></div>
-
-## Quilboars
-A ferocious, suicidally brave race, quilboars are renowned for their stubby, pig-like appearance. Rows of sharp spines run down their hunched backs, and stubby tusks protrude from their mouth.
-
-They adorn their skin with tribal markings and tattoos, and their devotion to their tribe may seem almost alien to most other races.
+<span style="margin-left:40px"></span> They adorn their skin with tribal markings and tattoos, and their devotion to their tribe may seem almost alien to most other races.
 
 ***Sacred Settlements.*** Quilboars live in the protective shade of enormous bramble roots, so large that they choke the land of all other life. These thorny landscapes, believed to have first grown from the blood of the ancient guardian Agamaggan, are considered sacred to the quilboars.
 
@@ -5225,7 +5190,7 @@ The thornweavers are vital to a quilboar tribe's survival, as these wise shamans
 <div class='footnote'>QUILBOARS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/KcRAZwq.png' class='inkblot inkblot-green' style='top:-100px; right:300px; width:500px; transform:rotate(40deg)'>
-<img src='https://www.gmbinder.com/images/ljH3Xaj.png' style='position:absolute; top:-50px; right:200px; width:650px' />
+<img src='https://www.gmbinder.com/images/ljH3Xaj.png' style='position:absolute; top:40px; right:250px; width:650px' />
 
 \pagebreakNum
 
@@ -5508,7 +5473,7 @@ ___
 <div class='footnote'>RAVAGERS </div>
 <img src='https://www.gmbinder.com/images/DLVtbKb.jpg' style='position:absolute; top:350px; right:-500px; width:2000px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/zOxNEiD.png' style='position:absolute; top:-360px; right:0px; width:900px' />
-<img src="https://www.gmbinder.com/images/BoirSoS.png" style="position:absolute;top: 925px;right: -18px;width:px;transform: rotate(-3deg);filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));">
+<img src="https://www.gmbinder.com/images/y63HAI5.png" style="position:absolute; top:470px; right:-18px; width:px; transform:rotate(-3deg); filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));">
 
 \pagebreakNum
 
@@ -5664,9 +5629,9 @@ ___
 <div class="pageLetter">S</div>
 <div class='footnote'>SABERCAT </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:-100px; right:340px; width:700px'>
-<img src='https://www.gmbinder.com/images/P5JAFgK.png' style='position:absolute; top:250px; right:370px; width:600px' />
-<img src='https://www.gmbinder.com/images/fl3pPXY.png' style='position:absolute; top:40px; right:-200px; width:700px; mix-blend-mode:multiply; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:-100px; right:200px; width:700px'>
+<img src='https://www.gmbinder.com/images/0bxYxgb.png' style='position:absolute; top:130px; right:370px; width:380px' />
+<img src='https://www.gmbinder.com/images/3u2fjsX.png' style='position:absolute; top:-80px; right:-300px; width:1000px; mix-blend-mode:multiply' />
 
 \pagebreakNum
 
@@ -6613,7 +6578,7 @@ ___
 <div class='footnote'>SKELETONS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:0px; right:200px; width:600px; transform:rotate(150deg)'>
-<img src='https://www.gmbinder.com/images/AuHA2cU.png' style='position:absolute; top:0px; right:230px; width:850px' />
+<img src='https://www.gmbinder.com/images/O699N4q.png' style='position:absolute; top:-70px; right:150px; width:750px' />
 
 \pagebreakNum
 
@@ -8036,6 +8001,7 @@ ___
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot inkblot-green' style='top:850px; right:100px; width:700px; transform:rotate(-40deg)'>
+<img src='https://www.gmbinder.com/images/5b3OUol.png' style='position:absolute; top:820px; right:370px; width:500px' />
 
 \pagebreakNum
 
@@ -8942,6 +8908,7 @@ A **zhevra** is a large zebra with the horn piercing through its forehead simila
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
+<img src='https://www.gmbinder.com/images/4TyqQuB.png' style='position:absolute; top:600px; right:-75px; width:500px' />
 
 \pagebreakNum
 
