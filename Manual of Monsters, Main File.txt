@@ -9,6 +9,74 @@
   .phb:after { content: ""; }
 
 
+/* FRONT PAGE STYLES */
+
+  .cover-header-container {
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: 80px;
+    left: 0;
+    right: 0;
+    clear: both;
+  }
+
+  .cover-header-logo {
+    display: block;
+    width: 700px;
+    margin: auto;
+  }
+
+  .cover-header-divider {
+    display: block;
+    width: 580px;
+    margin: -12px auto -6px;
+  }
+
+  .cover-header-title {
+    display: block;
+    width: 700px;
+    margin: auto;
+    color: white;
+    font-family: NodestoCaps,nodesto,sans-serif;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 72px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000, -2px 2px 4px #000, 2px -2px 4px #000, -2px -2px 4px #000;
+  }
+
+  .cover-footer-container {
+    display: block;
+    position: absolute;
+    width: 100%;
+    bottom: 28px;
+    left: 0;
+    right: 0;
+    clear: both;
+  }
+
+  .cover-footer-subtitle,
+  .cover-footer-version {
+    display: block;
+    width: 500px;
+    margin: auto;
+    color: white;
+    font-family: NodestoCaps,nodesto,sans-serif;
+    font-weight: normal;
+    text-align: center;
+    text-shadow: 1px 1px 2px #000, -1px 1px 2px #000, 0px 0px 2px #000;
+  }
+  .cover-footer-subtitle {
+    font-size: 28px;
+    line-height: 28px;
+  }
+  .cover-footer-version {
+    margin-top: 16px;
+    font-size: 20px;
+    line-height: 20px;
+  }
+
 /* TABLE OF CONTENTS  */
 
   /* toc specifically wants black text. This resets the headers*/
@@ -248,15 +316,31 @@
 
 </style>
 
-<div class='cover-header'> <div style='margin-top:115px;'></div> Manual of Monsters </div>
+<div class='cover-header-container'>
+  <img class='cover-header-logo' src='https://www.gmbinder.com/images/0fKd9bC.png' />
+  <img class='cover-header-divider' src='https://www.gmbinder.com/images/SGYtcP2.png' />
+  <span class='cover-header-title'>
+    Manual of Monsters
+  </span>
+</div>
+
 <div class='cover-splotch'></div>
+
+<div class='cover-footer-container'>
+  <span class='cover-footer-subtitle'>
+    An assortment of monsters and races
+    <br />
+    for your adventurers to face in the world of Azeroth
+    <br />
+  </span>
+  <span class='cover-footer-version'>
+    Version 1
+  </span>
+</div>
 
 <style> .phb#p1:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/v1OE3Fq.jpg' style='position:absolute; top:-3px; right:-5px; width:810px' />
-<img src='https://www.gmbinder.com/images/igAVnj8.png' style='position:absolute; top:980px; right:56px; width:700px' />
 <img src='https://www.gmbinder.com/images/3d9m32D.png' style='position:absolute; top:1000px; right:675px; width:100px' />
-<img src='https://www.gmbinder.com/images/0fKd9bC.png' style='position:absolute; top:80px; right:40px; width:700px' />
-<img src='https://www.gmbinder.com/images/SGYtcP2.png' style='position:absolute; top:190px; right:90px; width:580px' />
 
 \pagebreak
 
