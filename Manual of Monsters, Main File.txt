@@ -5866,31 +5866,55 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:320px;'></div>
+
 ## Scourge
-Free of the demonic masters that created them, the pre&shy;cursor of the Burning Legions invasion into Azeroth have gained a will of their own. Under the rule of the dreaded Lich King, the Scourge built themselves up on the arctic continent of Northrend, spreading their influence through&shy;out the continent and beyond.
+The Undead Scourge saw its creation at the hands of the Nathrezim; the cunning, bat-like dreadlords of the Burning Legion. In a second bid to conquer Azeroth, they envisioned themselves a grand army of the dead. A perfect precursor for their own triumphant return.
 
-The Scourge consists of terrifying and destructive crea&shy;tures, creatures resurrected into undeath by necromancers devoted to the Lich King, their forms twisted into undead abominations raised for their dark lord's service. From the icy peak of Northrend the Lich King rules uncontested as he unleashes his undead scourge on the world.
+With its foothold on the arctic continent Northrend, under the command of the Lich King, the ranks of the Scourge swell larger with every passing day -- housing hordes of terrifying, destructive monstrosities. Brought forth by devoted cults of necromancers, and by Val'kyr held to their master's will.
 
-***The Lich King.*** In his attempt to escape the shattering world of Draenor, the old shaman Ner'zhul was appre&shy;hended by the demon lord Kil'jaeden. He tore the shaman's body apart, but kept his spirit intact and aware. Kil'jaeden offered Ner'zhul his last chance to serve the Burning Legion, an offer the orc could not deny. Kil'jaeden trapped his spirit within a the Helm of Domination and incased him in block of ice. Thus the Lich King was born.
+***The Lich King.*** At the head of the Undead Scourge stands the Lich King, whose dread presence drives the shambling hordes forward. The first Lich King, and creator of the Scourge, was the orc shaman Ner'zhul. Though the old shaman had intended to lead his followers in search of other worlds to conquer, he found himself apparehended by by Kil'jaeden; demon lord of the Burning Legion.
 
-Encased in a block of ice the Lich King was sent to Azeroth, landing in the frozen wastelands of Northrend. Here, the spectral being of unfathomable power would begin the formation of the Undead Scourge. From his frozen throne, the Lich King extended his will across the land to form his Undead Scourge, ever mindful of deceivers schemes as he in secret sought a way out of his icy prison.
+The demon lord tore the orc's body apart, but kept his spirit intact. Ner'zhul was offered one last chance to serve; bound to the demon-forged Helm of Domination and encased within a throne of ice at the northernmost peak of Azeroth. Ultimately, the orc chose to accept the demon's bargain, bidding for the power it would bestow upon him. Thus, the Lich King was born.
 
-In his secret search for an escape, his attention would eventually be drawn to the prince of Lordaeron, Arthas Menethil. A capable warrior who had taken up arms against the seemingly endless assaults of the Lich Kings Scourge. Arthas grew increasingly restless as he pushed back against the Scourge, eventually tracking the origin of its plague to Northrend. Intend on ending its threat of the Scourge forever he took up the cursed runeblade Frost&shy;mourne. Though the sword did grant him great power, the cost would be high as Arthas began to lose his soul, eventually completing unholy transformation to a death knight as his soul slipped away. He became Ner'zhuls champion and would be a fearful warrior leading the Scourge through its rampage at the Lich Kings command. 
+***The Plague of Undeath.*** In service to the Burning Legion, the Lich King Ner'zhul would become the lone, governing mind of an army of the damned.
 
-After countless battles, the demise of great and powerful individuals, leaders of kingdoms and commanders of the Burning Legion. Arthas would travel to Northrend and enter the hollow glacier that had become the Frozen Throne. With a cry of strength, Arthas would strike through the Lick Kings icy prison and pick up the Helm of Domina&shy;tion. As he placed Ner'zhuls thorny helm on his head, their spirits would fuse into a single mighty being, just as the Lich King had always planned. And thus one of the most powerful entities on Azeroth would be created.
+His first claim was to the frozen reaches of Northrend, after a long and hard-won war against the nerubians and their underground kingdom of Azjol-Nerub. His second was in unleashing the gruesome Plague of Undeath upon the human kingdom of Lordaeron.
 
-***Plague of Undeath.*** Ner'zhul was tasked with creating an army, a vanguard for the invasion of the Burning Legion. For that he conjured the plague of undeath, a magical affliction that would spread across Lordaeron as a disease. Killing any afflicted and causing them to rise once more under his influence. The plague was aimed at humanoids, but it would afflict much more than that. It would affect flora and fauna with strange symptoms of the plague, but rarely imminent death.
+The ambitious plan laid forth by the demon lord Kil'jaeden, to see Azeroth heel, required a new foothold through which the Legion could enter. Just as it had been the last time, the writings of the Guardian Medivh, locked away in the city of Dalaran, would be the key.
 
-Since first conjured by Ner'zhul the plague has lingered in regions of Lordaeron, creating the plaguelands them&shy;selves. In the years following its use, others have attempted to use the plague of undeath as a weapon for their own benefit, some even tried to recreate its effects themselves.
+The Lich King reached far and wide for those with an aptitude for necromancy. Chief among them stood the archmage Kel'Thuzad; around whom the Cult of the Damned formed. It was be the piece with which the Lich King's undead plague would spread.
+
+\columnbreak
+
+<div style='margin-top:354px;'></div>
+
+***Crown Prince Menethil.*** Although the Lich King and the Scourge had been given form to prelude the Burning Legion, Ner'zhul's true ambition was his own salvation: to break free from the shackles of his demonic masters.
+
+To this end, the Lich King sought a champion to carry out his will. He had already envisioned the crown piece of Lordaeron, Arthas Menethil, supplanting him in his rule of the damned. The prince was a capable warrior; a paladin of the Silver Hand, seasoned from numerous skirmishes with errant orc clans across the human kingdoms.
+
+This new undead threat, however, was not one Arthas could bring to an end. It drove the prince to desperation; to the purging of his own homeland; to a vengeful crusade across Northrend; and ultimately to his doom.
+
+***The Runeblade.*** Buried away in a frozen vault, Arthas drew forth an ancient runeblade -- Frostmourne. He had been told the blade would be the means to his long-sought ends, and by its powers he carved his way through the undead hordes with a might which none around him had before seen.
+
+However, the blade would ultimately cost the crown prince his soul. Through it, the Lich King exerted his will upon Arthas, binding him as a champion of the Scourge.
+
+***The Fall of Lordaeron.*** Upon his return to Lordaeron, Arthas ultimately drove his kingdom to ruin. Thereafter, the kingdoms of Quel'thalas and Dalaran fell just the same. From their ashes, with the aid of Kel'thuzad -- reborn a Lich -- Arthas saw the Burning Legion summoned forth.
+
+Though the invasion of the Legion was ultimately a failure, and the lands of Dalaran and Quel'thalas reclaimed, Lordaeron was  forever enveloped in undeath. The final piece of the Lich King's plan, with which the Scourge would truly take foot, was to bring Arthas to his side.
+
+***The Frozen Throne.*** And so, leaving Lordaeron behind for what would laterbecome the Forsaken, Arthas took heed of his master's request and set sail back to Northrend. There, atop the peak of its glacial wastes, the prince found the frozen tomb in which Ner'zhul's spirit had been bound.
+
+With his runeblade held aloft, Arthas shattered the ice; freeing the Helm of Domination to which the old shaman had been bound. As he placed the helm on his head, their spirit fused together as one. Bound to their trackless kingdom of the damned. 
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SCOURGE </div>
-<img src='https://www.gmbinder.com/images/rUSVZoq.jpg' style='position:absolute; top:0px; right:-300px; width:850px; transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/5SuiuAg.png' style='position:absolute; top:0px; right:-70px; width:900px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/rUSVZoq.jpg' style='position:absolute; top:-350px; right:0px; width:800px; transform:scalex(-1)' />
+<img src='https://i.imgur.com/zOxNEiD.png' style='position:absolute; top:-20px; right:-100px; width:900px; transform:scaley(-1)' />
 
 \pagebreakNum
 
-&nbsp;&nbsp;&nbsp; ***The Frozen Throne.*** The Icecrown Citadel dominates Northrend, visible from farther away than nearly any other structure. It is the home to the greatest army of undead in the known world. Atop its glacial core dwells the Lich King, emitting his will across Azeroth to the commanders of the Scourge under his influence.
+***The Icecrown Citadel.*** Since then, through the tireless machinations of the Scourge, a massive citadel has been erected around the Icecrown glacier upon which the Frozen Throne resides. Its spiked walls and towering spires can be seen from every far-reaching corer of Northrend, as a warning to any who would set foot on its shores. At the peak of the tallest spire, the Lich King dwells on his throne, projecting his iron will across Azeroth.
 
 ### Abomination
 Twisted, mutilated creatures comprised of multiple dead limbs and body parts from different corpses. Abominations are not risen like so many other undead, they a created. Constructed out of putrid flesh, loosely stitched together to create enormous rotting masses of meat. They are fearless creatures that takes joy in carving the flesh from the bones of their quarry and lustfully eating it as a delightful meal.
