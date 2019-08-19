@@ -5866,16 +5866,31 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:320px;'></div>
+<div style='margin-top:760px;'></div>
 
 ## Scourge
 The Undead Scourge saw its creation at the hands of the Nathrezim; the cunning, bat-like dreadlords of the Burning Legion. In a second bid to conquer Azeroth, they envisioned themselves a grand army of the dead. A perfect precursor for their own triumphant return.
 
 With its foothold on the arctic continent Northrend, under the command of the Lich King, the ranks of the Scourge swell larger with every passing day -- housing hordes of terrifying, destructive monstrosities. Brought forth by devoted cults of necromancers, and by Val'kyr held to their master's will.
 
-***The Lich King.*** At the head of the Undead Scourge stands the Lich King, whose dread presence drives the shambling hordes forward. The first Lich King, and creator of the Scourge, was the orc shaman Ner'zhul. Though the old shaman had intended to lead his followers in search of other worlds to conquer, he found himself apparehended by by Kil'jaeden; demon lord of the Burning Legion.
+***The Lich King.*** At the head of the Undead Scourge stands the Lich King, whose dread presence drives the shambling hordes forward.
 
-The demon lord tore the orc's body apart, but kept his spirit intact. Ner'zhul was offered one last chance to serve; bound to the demon-forged Helm of Domination and encased within a throne of ice at the northernmost peak of Azeroth. Ultimately, the orc chose to accept the demon's bargain, bidding for the power it would bestow upon him. Thus, the Lich King was born.
+\columnbreak
+
+<div style='margin-top:794px;'></div>
+
+The first Lich King, and creator of the Scourge, was the orc shaman Ner'zhul. Though the old shaman had intended to lead his followers in search of other worlds to conquer, he found himself apparehended by by Kil'jaeden; demon lord of the Burning Legion.
+
+The demon lord tore the orc's body apart, but kept his spirit intact. Ner'zhul was offered one last chance to serve; to be forever bound to the demon-forged Helm of Domination and encased within a throne of ice, seated atop the tallest peak amidst Azeroth's northern wastes.
+
+Ultimately, the orc chose to accept the demon's bargain, bidding for the power it would bestow upon him. Thus, the Lich King was born.
+
+<div class="pageLetter">S</div>
+<div class='footnote'>SCOURGE </div>
+<img src='https://www.gmbinder.com/images/rUSVZoq.jpg' style='position:absolute; top:-200px; right:0px; width:800px; transform:scalex(-1)' />
+<img src='https://i.imgur.com/M4hsHsw.png' style='position:absolute; top:230px; right:0px; width:840px;' />
+
+\pagebreakNum
 
 ***The Plague of Undeath.*** In service to the Burning Legion, the Lich King Ner'zhul would become the lone, governing mind of an army of the damned.
 
@@ -5884,10 +5899,6 @@ His first claim was to the frozen reaches of Northrend, after a long and hard-wo
 The ambitious plan laid forth by the demon lord Kil'jaeden, to see Azeroth heel, required a new foothold through which the Legion could enter. Just as it had been the last time, the writings of the Guardian Medivh, locked away in the city of Dalaran, would be the key.
 
 The Lich King reached far and wide for those with an aptitude for necromancy. Chief among them stood the archmage Kel'Thuzad; around whom the Cult of the Damned formed. It was be the piece with which the Lich King's undead plague would spread.
-
-\columnbreak
-
-<div style='margin-top:354px;'></div>
 
 ***Crown Prince Menethil.*** Although the Lich King and the Scourge had been given form to prelude the Burning Legion, Ner'zhul's true ambition was his own salvation: to break free from the shackles of his demonic masters.
 
@@ -5905,16 +5916,20 @@ Though the invasion of the Legion was ultimately a failure, and the lands of Dal
 
 ***The Frozen Throne.*** And so, leaving Lordaeron behind for what would laterbecome the Forsaken, Arthas took heed of his master's request and set sail back to Northrend. There, atop the peak of its glacial wastes, the prince found the frozen tomb in which Ner'zhul's spirit had been bound.
 
-With his runeblade held aloft, Arthas shattered the ice; freeing the Helm of Domination to which the old shaman had been bound. As he placed the helm on his head, their spirit fused together as one. Bound to their trackless kingdom of the damned. 
+With his runeblade held aloft, Arthas shattered the ice; freeing the Helm of Domination to which the old shaman had been bound. As he placed the helm on his head, their spirit fused together as one. Bound to their trackless kingdom of the damned.
+
+***The Icecrown Citadel.*** Since then, through the tireless machinations of the Scourge, a massive citadel has been erected around the Icecrown glacier upon which the Frozen Throne resides. 
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SCOURGE </div>
-<img src='https://www.gmbinder.com/images/rUSVZoq.jpg' style='position:absolute; top:-350px; right:0px; width:800px; transform:scalex(-1)' />
-<img src='https://i.imgur.com/zOxNEiD.png' style='position:absolute; top:-20px; right:-100px; width:900px; transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/rUSVZoq.jpg' style='position:absolute; top:-350px; right:-430px; width:1120px; transform:scalex(-1)' />
+<img src='https://i.imgur.com/7QFujZ4.png' style='position:absolute; top:0px; left:-80px; width:880px;' />
 
 \pagebreakNum
 
-***The Icecrown Citadel.*** Since then, through the tireless machinations of the Scourge, a massive citadel has been erected around the Icecrown glacier upon which the Frozen Throne resides. Its spiked walls and towering spires can be seen from every far-reaching corer of Northrend, as a warning to any who would set foot on its shores. At the peak of the tallest spire, the Lich King dwells on his throne, projecting his iron will across Azeroth.
+Its spiked walls and towering spires can be seen from every far-reaching corer of Northrend, as a warning to any who would set foot on its shores.
+
+At the peak of the tallest spire, the Lich King dwells on his throne, projecting his iron will across Azeroth.
 
 ### Abomination
 Twisted, mutilated creatures comprised of multiple dead limbs and body parts from different corpses. Abominations are not risen like so many other undead, they a created. Constructed out of putrid flesh, loosely stitched together to create enormous rotting masses of meat. They are fearless creatures that takes joy in carving the flesh from the bones of their quarry and lustfully eating it as a delightful meal.
