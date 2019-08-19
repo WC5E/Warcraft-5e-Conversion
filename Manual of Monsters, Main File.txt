@@ -5932,15 +5932,19 @@ Its spiked walls and towering spires can be seen from every far-reaching corer o
 At the peak of the tallest spire, the Lich King dwells on his throne, projecting his iron will across Azeroth.
 
 ### Abomination
-Twisted, mutilated creatures comprised of multiple dead limbs and body parts from different corpses. Abominations are not risen like so many other undead, they a created. Constructed out of putrid flesh, loosely stitched together to create enormous rotting masses of meat. They are fearless creatures that takes joy in carving the flesh from the bones of their quarry and lustfully eating it as a delightful meal.
+Twisted, mutilated creatures comprised of flesh from a multitude of corpses, Abominations are not risen like most undead. Instead, they are created, loosely stitched together. These putrid constructs resemble enormous mounds of flesh, given limbs and a vague semblence of form.
+
+They are fearless, and take joy in cleaving flesh from bone with rusted cleavers. As though their creators saw it only fit to arm the beasts with weapons as bizarre as their excess of arms.
 
 ### Gargoyle
-Unlike most creatures of the Undead Scourge, Gargoyles are not undead. These strange, wiry flyers are known for their rough, crystaline hides that protects them from all manner of attacks. Native to Northrend, gargoyles were brought to Lordaeron at Arthas' command as scouts in the army of the Scourge. Chaotic by nature, they have proven effective in their task and a frightful aerial combatant.
+Unlike most creatures of the Undead Scourge, Gargoyles are not undead. These strange, wiry flyers are known for their rough, crystaline hides keep them well protected. 
+
+Native to Northrend, gargoyles were brought to Lordaeron at Arthas' command as scouts in the army of the Scourge. Chaotic by nature, they have proven effective in their task and a frightful aerial combatant.
 
 ### Ghoul
-Ravenous cannibals that leave only havoc and devoured corpses behind them. Ghouls are lumbering creatures of once innocent humans transformed into rotting corpses with a lust for flesh and terror.
+Ravenous cannibals that leave only havoc and devoured corpses behind them. Ghouls are the lumbering remains of once innocent humans, transformed into hollow-eyes terrors with an insatiable hunger for flesh.
 
-They are a weapon of panic for the Scourge, a mindless vanguard meant to terrorize settlements before the forces of the Scourge arrive. Made for the sole purpose of striking terror and doubt in settlements as they feast on the dead and living, friend and foe alike.
+They are the Scourge's prime tool for spreading panic; a mindless vanguard to swarm through settlements, breaking chaos before the rest of the Scourge arrive. Feasting on the living and dead alike as they do.
 
 > ##### Variant: Greater Abomination
 > A greater abomination has a challenge rating of 9 (5,000 XP). It has the statistics of an abomination except that it has 152 (16d10 + 62) hit points, Armor Class (AC 17), +10 to hit with its weapon attacks, and gains the following action options.
