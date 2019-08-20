@@ -7506,19 +7506,21 @@ Their overindulgence have lead many wretched into insanity, some forgetting thei
 \pagebreakNum
 
 ## Worgen: Feral
-The curse of the worgen can transform the most civilized humanoids into ravening lupines, primal beasts filled with rage that gradually lose all vestiges of their former lives and turn into mindless predators. These feral beings bear more of a resemblance with monstrous wolves than intelligent humanoids, however, a close inspection of their eyes reveals the intelligent creature that lives within.
+The curse of the worgen can transform even the most civilized person into a ravenous, primal beast. Filled with rage, it gradually loses all vestiges of its former life, as it slowly turns into a mindless hunter. These feral beings bear a closer semblence to monstrous wolves than to intelligent humanoids. However, upon a closer inspection, their eyes betray the mind still trapped within.
 
-***Ancient Curse.*** The worgen curse originates from night elves who attempted to tame the powers of the ancient Godrinn and instead transformed themselves into the first worgens. These feral creatures would be locked away in the Emerald Dream for centuries, only to be released as a weapon against the forsaken invasion in Gilneas. The feral worgens were effective, however, they did not differentiate between forsaken and humans, spreading their curse like a rapid disease through the kingdom.
+***Ancient Curse.*** The worgen curse began with a sect of night elves, who tried to tame the powers of the ancient Godrinn. Instead, they were transformed into feral beasts, and subsequently locked away in the Emerald Dream. They were alter brought forth by the Archmage Arugal -- who himself sought a weapon against the Scourge.
 
-***Pack Animals.*** Feral worgens have but a shred of humanity left, they have become predatory animals that can't be reasoned or communicated with. Like wolves they live in large packs within forested areas, following the strongest of amongst them -- the alpha.
+Though the worgen were successful in keeping the damned at bay, they did not differ between the living and dead; leaving the curse to quickly seep through Gilneas.
 
-***Humanoid Cubs.*** Worgens do not give birth to lupine humanoids, but instead give birth to a humanoid of their original race. Although the mother of the child might have an affection towards it, that affection is not shared by the rest of its pack who see the child as no more than food.
+***Pack Animals.*** Feral worgens have but a shred of humanity left, locked away in a beast that cannot be reasoned or communicated with. Like wolves, they keep to forested areas and gather  in large packs, headed by their strongest -- the alpha.
 
-***Undeath Resistance.*** The curse of the worgen draws its power from both the emerald dream and the holy power of the goddess Elune. These polar opposite forces to death have made rising worgens into undeath far more difficult than it is for normal humanoids.
+***Humanoid Cubs.*** Worgens do not give birth to lupine humanoids, but rather to a humanoid of their original race. Although the mother might care for its child, this is often not shared by the rest of its pack.
 
-***Feral Weaknesses.*** These feral beasts are vicious, inti&shy;midated by nothing and with a pack mentality to strong that they rarely back down. However, the beasts have shown a dislike of open fires, often avoiding areas lit by open flames whenever possible. A room lit by braziers might make the worgens stop momentarily, but the hunger for flesh will drive them onwards if need be.
+***Resistance to Undeath.*** The curse of the worgen draws its power from the Emerald Dream, and the light of the goddess Elune. For this, raising a worgen into undeath is by far more difficult than it is with most other humanoids.
 
-They have also shown a poisonous reaction towards the wolfsbane plant, a minuscule flower sprouting through the kingdom of Gilneas. When the harmless plant comes into contact with their open wounds, it seemingly prevents the worgen from recuperating.
+***Feral Weaknesses.*** As vicious as they are, these feral beasts are hardly intimidated and rarely back down if the pack keeps together. They do, however, have a strong dislike for open fires, and avoid areas lit by open flames whenever possible -- so long as the hunger for flesh does not force them to push through.
+
+They also appear to be very susceptible to the wolfsbane plant; a small, purple flower commonly found across the kingdom of Gilneas. If this seemingly harmless plant comes in contact with a worgen's wounds, it prevents the beast from recuperating.
 
 > ##### Player Characters as Feral Worgens
 > A humanoid bit by a worgen must succeed on a DC 12 Constitution saving throw or be cursed. The curse has no effect on undead beings, such as the forsaken. A character bit begins to show the effects of the curse after 1d4 days, at which point the character is transformed into a feral worgen. It gains a Strength of 15 if their score isn't already higher, and their alignment changes to Chaotic Evil.
