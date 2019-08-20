@@ -7570,20 +7570,19 @@ ___
 <div style='margin-top:100px;'></div>
 
 ## Yeti
-Yetis -- also known as Wendigos -- are hulking monstrosities that roam remote forests and snowy mountains with a territorial ferocity rarely seen in other creatures. They make for terrifying and powerful foes willing to hunt any creature that wanders too close to their den, striking fear into their weary hearts.
+Yetis -- also known as Wendigos -- are hulking monstrosities that roam remote forests and snowy mountains. They exhibit a territorial ferocity rarely seen in other creatures, and make for terrifying and powerful foes. Especially with how they are willing to hunt any and all that would happen to wander too close to their den.
 
-***Territorial Beings.*** The territorial nature of yetis is common knowledge to the settlements near its border as the monstrous yeti is often seen roaming its vast territory, laying claim to any creature who dares venture too close. Yetis have a desire for killing that can't be quenched and will continue to hunt even when they are not hungry, dragging the spoils back to their lair for the next meal.
+***Territorial Beings.*** The territorial nature of a yeti is common knowledge for any settlement near its hunting ground. When venturing outside, one must be sure to keep clear of any sign of the creature's trail; easily noticeable for the massive, clawed depressions and bloody carnage it leaves behind in the snow.
 
-Driven by their desire to hunt a yeti is seldom found within its den, but rather encountered wandering <br> through the snow of the area around it.
+Yetis possess a desire for blood that cannot be <br/> quenched. They often continue to hunt even when they <br/> are not hungry, dragging any un-eaten scraps back to <br/> their lair as a snack for later. As such, a yeti found <br/> roaming is seldom one left without purpose: it is almost guaranteed to be out looking for easy prey.
 
-***Horrific Dens.*** Yetis make their dens in caverns and under isolated overhangs, few can mistake the den of <br> a yeti for it is easily recognizable by the amass of bones strewn across its floor and an array of half eaten corpses.
+***Horrific Dens.*** Yetis make their dens in caverns and under isolated overhangs, usually recognized by an entrance strewn across with bones and half-eaten corpses. The cold climate of their habitat keeps the smell at bay, though the sight is as unmistakable as it is terrifying.
 
-It can often mean untold riches for strong-hearted adventurers, as the monstrous creatures place no value on the possessions of their prey, strewing it through its den like gnawed bones for other to collect -- or die trying.
+This can, however, mean untold riches for strong-hearted adventurers. If anything manages to survive the yeti's frenzy, it is left strewn under the snow across its den -- like a treasure for any who would dare to collect it.
 
-***Solitary Hunters.*** Most yetis are lone wanderers that wander their territory alone and serve only themselves, but yetis are not as unintelligent as they are let out to be and know that there is strength in numbers. They are willing to work together to survive -- after the strongest amongst them have shown dominance --and terrorize the land around them, desolating it of game.
+***Solitary Hunters.*** It is not a lack of intelligence, but an assertion of pride and dominance that drives the yeti to wander alone. If they first do decide to join together, whether to survive or simply for sport, they will fight tooth and claw to establish a leader -- before setting out to terrorize their surroundings.
 
 \columnbreak
-
 
 <div class='statblock-bottom-wide'>
 
