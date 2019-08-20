@@ -7727,7 +7727,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-An **ashwing moth** is a nocturnal creature that takes its name from its those who employ them most. Assassins prize these creatures for their vibrant light, using it as a decoy or distraction in their missions, and they are sought after by those venturing into dark places for their ability to shed light for 1d8 days while in captivity.
+An **ashwing moth** is a nocturnal creature, best known for its vibrant light. Assassins prize them for it, using it as a decoy or distraction, as well as a subtle light in dark places. An ashwing moth in captivity sheds light for up to 1d8 days.
 
 ___
 > ## Bat
@@ -7859,7 +7859,7 @@ ___
 >
 > ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage
 
-A **carrion bird** is a large carnivorous, scavenger bird found across Azeroth. These birds usually have featherless heads and broad wingspans. They stalk their prey from the skies and lurk from a distance, waiting for it to fall to the ground out of exhaustion or for someone else to finish it off.
+A **carrion bird** is a large, carnivorous scavenger bird found across Azeroth. Their wings are broad and their heads often featherless. They stalk their prey from the skies, lurk&shy;ing from a distance, as they wait for it to fall -- whether from exhaustion, or from another hunter.
 
 \columnbreak
 
@@ -7966,7 +7966,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, plus 2 (1d4) poison damage.
 
-A **darkhound** is a demonic dog found stalking the forests of the world either by themselves or in small packs, most consider them to be little more than a nuisance to be rid of. The dark iron dwarves have found good use in the demonic dogs and use them vigorously as patrol animals.
+A **darkhound** is a demonic dog found stalking the forests of the world, either by themselves or in small packs. Most consider them to be little more than a nuisance to be rid of, though the dark iron dwarves have found good use in them as patrol animals.
 
 \columnbreak
 
@@ -8782,14 +8782,16 @@ ___
 > ___
 > ***Keen Smell.*** The moth has advantage on Wisdom (Perception) checks that rely on smell.
 >
-> ***Arcane Interference.*** When a spell is cast within a 10-foot radius of the moth, roll a d20. On a roll of 1, the spell is interrupted as if be a *counterspell* spell.
+> ***Arcane Interference.*** When a spell is cast within a 10-foot radius of the moth, roll a d20. On a roll of 1, the spell is interrupted as if by the *counterspell* spell.
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
 >
 > ***Pulverulent Wings (1/day).*** A cloud of thick powder disperses out from the moth in a 5-foot radius. Each creature in that area must make on a DC 11 Constitution saving throw, or be blinded until the end of the moth's next turn on a failed save.
 
-A **skywisp moth** is considered an insignificant beast to most, these curious moths have been found to sometimes interrupting the spells of arcane practitioners that ventured too close to it.
+A **skywisp moth** is considered a docile, insignificant beast to most. Among arcane practicioners, however, they have a notorious reputation for their curiosity and their uncanny ability to interfere with spells cast in their vicinity.
+
+Because of this, they are often a favoured companion for any hunters whose quarry is a dangerous spellcaster.
 
 \columnbreak
 
@@ -8925,7 +8927,9 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.
 
-**Tallstriders** are large flightless birds that roam across Kalimdor, earning their strider name depending on their surroundings. These birds are seen as little more than game and have proven useless as beasts of burden, companions, or pets.
+**Tallstriders** are large, flightless birds, native to the plains and savannahs of central Kalimdor. There is a very clear and stubborn pride to the tallstriders, making them near impossible to domesticate and useless as beasts of burden.
+
+Some skilled hunters and beast-handlers have mastered the art of taming a tallstrider, however. For them, the birds' strength and speed make them excellent companions for any sudden skirmish.
 
 ___
 > ## Turtle
@@ -9028,7 +9032,7 @@ ___
 >
 > ***Horn.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 3) piercing damage.
 
-A **zhevra** is a large zebra with the horn piercing through its forehead similar to that of a unicorn. These horse-like creatures are considerably passive and more frightened of others than they are curious or hostile, preferring to run away rather than fight.
+A **zhevra** resembles a large, striped horse with a horn piercing through its forehead, similar to that of a unicorn. Though they might seem threatening, they are usually very passive beasts; remarkably easy to frighten. They move together in herds, keeping close for their own protection.
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
