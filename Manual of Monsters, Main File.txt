@@ -7636,9 +7636,9 @@ ___
 <div style='margin-top:190px;'></div>
 
 ### Abominable Yeti
-Abominable yetis are menacing creatures towering above normal yetis with the posture of enormous apes, they make their dens high in the mountains in places so remote that no one would dare to venture close. They care little for safe-guarding a large perimeter and hunt only to survive, however, they are far more aggressive in their hunt and willing to venture much further from their den for food.
+Abominable yetis are menacing creatures, towering above their kin with the posture of enormous apes. They make their dens high in the mountains, in places so remote that no one would dare to venture close. They care little for keeping a large perimeter and hunt only to survive. They are, however, far more aggressive in their hunt; willing to venture much farther from their den for food.
 
-Little else is known of these beings as few have encountered them and lived to tell their tale, but evidence of their existence can be heard by their primal roars as it echoes through the mountains.
+The greatest evidence of their existence are their primal roars; as loud as they are terrifying, echoing through the mountains. Little else is known of the abominable yeti, as few have encountered one and since lived to tell their tale.
 
 <div class='statblock-bottom-wide'>
 
