@@ -4985,6 +4985,11 @@ They are vicious opponents, strong enough to rend limb from limb with their bare
 ### Ogre Magi
 The ogre magi, with its two heads, holds an intelligence far exceeding the rest of its kin. Borne of the same magic that they wield, it was not uncommon for the Horde -- in its second invasion of Azeroth -- to force this transformation in order to bolster its rank of spellcasters.
 
+Although the two heads are not always in agreement, they are paramount to the ogre's magical aptitude. A living proof that having two heads can be better than having one.
+
+### Ogre Lord
+Ogre lords are massive, hulking figures, towering above their clan in both size and status. While they have no aptitude for magic and little thought for intricate plans, their imposing presence precedes them well enough to keep the rest of their clan in check.
+
 \columnbreak
 
 <div style='margin-top:600px;'></div>
@@ -5022,14 +5027,24 @@ ___
 
 \pagebreakNum
 
-&nbsp;&nbsp;&nbsp; Although the two heads are not always in agreement, they are paramount to the ogre's magical aptitude. A living proof that having two heads can be better than having one.
-
-### Ogre Lord
-Ogre lords are massive, hulking figures, towering above their clan in both size and status. While they have no aptitude for magic and little thought for intricate plans, their imposing presence precedes them well enough to keep the rest of their clan in check.
-
-Many might try to challenge an ogre lord's power over the course of its heavy-handed rule, though for most of them this confrontation doesn't end well.
+&nbsp;&nbsp;&nbsp; Many might try to challenge an ogre lord's power over the course of its heavy-handed rule, though for most of them this confrontation doesn't end well.
 
 ### Ogre Names and Languages
+
+Historically, ogres have long held their own tongue, though their dispersion across Azeroth have turned many clans to broken forms of Common -- and sometimes Orcish.
+
+Ogre is a very coarse language, largely consisting of short, throaty sounds. Its written form has long been kept solely to the upper echelons of ogre society.
+
+For many ogres, the closest remnant of their language is in their names. Some ogres carry simple, descriptive titles for names, though many still use names with clear meaning in their own tongue.
+
+Most prominent are the names of the **ogre magi**. Their two heads have each a mind of their own, and with it their own name. The full name of the magi is a combination of the two: the smartest head first and the other thereafter.
+
+<div style='margin-top:-5px;'></div>
+
+**Male names:** Chokk, Drak, Garg, Hok'kran, Krol, Mug
+<br />**Female names:** Agra, Baki, Brakka, Nakki, Mruka, Ugra'ka
+<br />**Tribe names:** Bloodcrush, Boulderfist, Dustgorge,
+<br />&nbsp;&nbsp;&nbsp; Splinterstone, Stonemaul, Warmaul
 
 ___
 > ## Ogre Magi
@@ -5045,7 +5060,7 @@ ___
 >___
 > - **Skills** Arcana +5, History +5
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Common, Giant, Low Common
+> - **Languages** Common, Ogre, Low Common
 > - **Challenge** 5 (1800 XP)
 > ___
 > ***Spellcasting.*** The ogre is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +5 to hit with spell attacks). The ogre has the following mage spells prepared:
@@ -5090,7 +5105,7 @@ ___
 >___
 > - **Skills** Perception +2
 > - **Senses** darkvision 60 ft., passive Perception 12
-> - **Languages** Low Common, Giant
+> - **Languages** Low Common, Ogre
 > - **Challenge** 7 (2900 XP)
 > ___
 > ***Aggressive.*** As a bonus action, the ogre can move up to its speed toward an enemy of its choice that it can see or hear. It must end this move closer to the enemy than it started.
