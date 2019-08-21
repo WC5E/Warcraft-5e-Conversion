@@ -4747,7 +4747,9 @@ Whichever is the case for a particular brute, they are not avoid of intelligence
 
 ### Naga Names and Languages
 
+In addition to speaking Common, the Naga have derived their own language from their Kaldorei roots -- Nazja.
 
+Since the time of the Great Sundering, the language has grown to a distinctly sharp, wheezing character; well-suited for keeping conversation under the sea.
 
 ___
 > ## Naga
@@ -4778,6 +4780,15 @@ ___
 > ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and target is grappled (escape DC 12). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.
 
 \columnbreak
+
+**Male names:** Atoph, Drazj, Heth'jatar, Kriellith, Nazjak,
+<br />&nbsp;&nbsp;&nbsp; Naz'jaran, Skesessh, Zan'zarak
+<br />**Female names:** Athiasa, Asrasi, Chazjia, Fyashi, Kazsi,
+<br />&nbsp;&nbsp;&nbsp; Scyalla, Najesha, Zhiasi
+<br />**Surnames:** Bloodstrike, Darksquall, Murkwail, Stormbow,
+<br />&nbsp;&nbsp;&nbsp; Slitherfin, Stormscale, Wrathtail
+
+<div style='margin-top:20px;'></div>
 
 > ##### Variant: Naga Siren
 > Female naga are primarily spellcasters, and consider&shy;ably powerful ones at that for how they wield the turbulent powers of the sea. Naga sirens are novice spellcasters, as apprentices of a sea witch.
