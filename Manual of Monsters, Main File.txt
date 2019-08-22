@@ -5849,7 +5849,7 @@ ___
 >
 > ***Cleaver.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 5) slashing damage plus 5 (1d10) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned for 1 minute. It can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 >
-> ***Horrific Hook.*** *Melee or Ranged Weapon Attack:* +9 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 14 (2d8 + 5) piercing damage, and the target must succeed on a contested grapple check against the its Strength (Athletics) or be pulled to an empty space next to the abomination and be grappled.
+> ***Horrific Hook.*** *Melee or Ranged Weapon Attack:* +9 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 14 (2d8 + 5) piercing damage, and if the target is a creature it must succeed on a DC 16 Strength saving throw or be grappled and pulled to an empty space next to the abomination.
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SCOURGE </div>
