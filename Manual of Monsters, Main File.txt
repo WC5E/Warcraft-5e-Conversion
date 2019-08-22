@@ -1919,7 +1919,7 @@ ___
 ## Dwarves: Dark Iron
 Known for their fiery tempers and fierce determination, the Dark Iron clan of dwarves has a history of strife with the other dwarven clans, as well as within their own ranks. Twisted by the influence of Ragnaros the Firelord, they are a greedy, cruel, and despotic kind.
 
-Most dark iron dwarves have hair as red as fire or black as coal, trickling with ember flakes, and skin the colour of ash. Though their clothes are drab and dark, their ornate style and lavish jewelry is a prominent display of status.
+Most dark iron dwarves have hair as red as fire or black as coal, trickling with ember flakes, and skin the color of ash. Though their clothes are drab and dark, their ornate style and lavish jewelry is a prominent display of status.
 
 ***Legacy of Thaurissan.*** In ages past, the Dark Iron clan cut out their own from the Bronzebeard clan of Ironforge and the Wildhammer clan of Grim Batol. Sworn to revenge on his dwarven king, the Sorcerer-Thane Thaurissan and his wife Modgud led their clansfolk to the southern borders of Khaz Modan, into the far-reaching stretches of the Redridge Mountains.
 
@@ -3460,7 +3460,7 @@ These constructs hold no ambition, need no sustenance, feel no pain, and know no
 ***Constructed Nature.*** A golem doesn't require air, food, drink, or sleep.
 
 ### Arcane Golem
-Arcane golems are hulking constructs, powered by their crystallized arcane core, that are commonly employed as peacekeepers and defenders. Deep grooves are often carved into their outer shell, allowing the energies from their crystal to surge over them in colourful patterns.
+Arcane golems are hulking constructs, powered by their crystallized arcane core, that are commonly employed as peacekeepers and defenders. Deep grooves are often carved into their outer shell, allowing the energies from their crystal to surge over them in colorful patterns.
 
 They are highly favoured among blood elves, both for their sturdy build and for their magical resilience. In Quel'thalas, they vigilantly patrol the streets within the city and beyond.
 
@@ -3888,7 +3888,7 @@ A lasher spitter is a large, carnivorous plant. It produces a strong acid within
 A barbed orchid stands out from other lashers for its large, vibrant flower-head, centre of which some describe as resembling an owlbeast's beak. Their long tendrils are covered with barbs, which they strike out at prey and intruders alike.
 
 ### Bloodpetal Flayer
-At a glance, most would take the bloodpetal flayer for little more than a very colourful lasher. Looks are sure to betray, however; as these lashers are unmatched for their ferocity, and for the potency of the vile toxin kept in their sharp thorns.
+At a glance, most would take the bloodpetal flayer for little more than a very colorful lasher. Looks are sure to betray, however; as these lashers are unmatched for their ferocity, and for the potency of the vile toxin kept in their sharp thorns.
 
 > ##### Variant: Mature Lasher
 > When lashers reach maturity, some learn to channel the powers of the moon in their favor.
@@ -7332,17 +7332,19 @@ ___
 <div style='margin-top:230px;'></div>
 
 ## Wind Serpents
-Slithering across in the plains of Mulgore, flying through the frosty trees of Winterspring, or prowling beneath the burning sand of Tanaris. Wind serpents are adapt creatures who can be found in all corners of Azeroth, the serpentine beasts rarely pays any attention to those who wander by, but once hungry -- or aggravated -- they become hostile and fearsome beasts with a venomous bite and innate ability to spew elemental forces at their foe.
+Slithering across in the plains of Mulgore, flying through the frosty trees of Winterspring, or prowling beneath the burning sand of Tanaris. Wind serpents are adaptable beasts who can be found in all corners of Azeroth. The serpentine creatures rarely pay any attention to those who wander by, but once hungry -- or aggravated -- they quickly turn hostile; ready to strike with their venomous bite and innate power to spew elemental fury.
 
-A wind serpent combines the body and head of a snake with the leathery wings of a drake, and the feathers of a brightly colored bird.
+A wind serpent combines the bright-scaled body and head of a snake with the leathery wings of a drake, as well as the feathers of a brightly colored bird.
 
-***Spiritual Creatures.*** Wind serpents are often seen by less intelligent creatures as spirits of the sky and have long since been revered by tribal races such as the quilboars. The serpents also carry a resemblance towards the loa Hakkar the Soulflayer, giving them the name "children of hakkar" by his worshippers and earning them a favorable place at their side.
+***Spiritual Creatures.*** Wind serpents are often seen by less intelligent creatures as spirits of the sky, and have long since been revered by tribal races like the quilboars.
 
-***Unseen Hunters.*** The serpentine beasts are formidable hunters, they are predators who utilize the environment to ambush their prey for a moment's advantage. Crawling among tree branches, stalk within fissures, or flying silently out from dark nooks towards their desired target.
+They also carry a srong resemblance to Hakkar the Soulflayer, a prominent troll Loa, prompting those who worship him to keep and train the beasts in his reverence.
 
-They attack with lightning speed and swiftly retreat once the blow has been dealt, stalking for the next opening in their targets defense. Perceptive adventurers might catch a glimpse of their colorful scales in their surroundings, a warning of their presence -- and potential quarry.
+***Unseen Hunters.*** The serpentine beasts are formidable hunters; predators who utilize the environment to ambush their prey for a moment's advantage. Crawling among tree branches, stalk within fissures, or flying silently out from dark nooks towards their desired target.
 
-***Adapted Species.*** Wind serpents can be found in the far reaches of the world. They nest in hard-to-reach places where they can retire in safety. The different subspecies of wind serpents have adapted and adjusted to the environ&shy;ment around them, changing color and elemental to better survive their harsh surroundings.
+They attack with lightning speed and swiftly retreat once the blow has been dealt, stalking for the next opportunity to strike. Perceptive adventurers might catch a glimpse of their colorful scales glinting, as a warning of their presence -- and potential quarry.
+
+***Adapted Species.*** Wind serpents can be found in the far reaches of the world. They nest in hard-to-reach places where they may safely retire. The different subspecies of wind serpents have adapted and adjusted to the environ&shy;ment around them, changing elemental bond -- and color with it --  to better survive their harsh surroundings.
 
 > ##### Variant: Adapted Wind Serpents
 > Wind serpents are found throughout Azeroth and have adapted differently to their climate.
