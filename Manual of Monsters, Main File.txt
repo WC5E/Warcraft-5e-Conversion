@@ -7273,13 +7273,15 @@ In their great hunt for food, wary scouts have noticed that the great thunder li
 <div style='margin-top:630px;'></div>
 
 ## Whale Shark
-In the depths of the ocean, beneath the sunlit reaches of the Great Sea swims the arbiter of the deep. Known to many simple as whale sharks, these legendary leviathans patrol the sunken depths and devour any inattentive or overzealous adventurer that cross their paths.
+In the depths of the ocean, beneath the sun-bathed reaches of the Great Sea, swims the arbiter of the deep. Known to many simple as whale sharks, these legendary leviathans patrol the deepest oceans; devouring any inattentive or overzealous adventurer that would cross their path.
 
-***Devourer of All*** These horrific leviathans swim through the oceans of Azeroth in an eternal hunt for survival. They care little for what -- or who -- gets swallowed into the darkness by their maw, it will provide them with nutrients in either case. Whale sharks are rarely aggressive enough to directly hunt down prey and often its swallowed prey are but unfortunate creatures caught in front of its maw.
+***Devourer of All*** These larger-than-life behemoths swim through the oceans of Azeroth in an eternal hunt for survival. With their massive, lumbering bodies, whale sharks rarely benefit from being aggressive enough to directly hunt down their meal. Instead, they eat what happens to be caught in front of their massive maw. 
 
-***Guardians of the Deeps.*** Whale sharks are known for being territorial creatures, often swimming in great circles around the borders of their territory, swallowing everything that passes by their maw. These sharks have been traced to roaming the waters of ancient ruins and it is speculated that they are safeguarding the forgotten ruins.
+So long as it can offer some form of sustenance, they care little for what -- or who -- else they might swallow.
 
-However, few adventurers have been foolish, or brave, enough to swim into the eye of their realm to unearth what forgotten world they might be guarding.
+***Guardians of the Deeps.*** Whale sharks are known for being fairly territorial. Their domains are large, and they patrol it in broad circles along its borders, swallowing down whatever they happen by along the way.
+
+Some have been spotted roaming waters around ancient ruins, leading to speculations that they are safeguarding the remnants within. Few, however, have been daring enough to venture deep enough within their realm to prove whether these are true stories or flighty legends.
 
 \columnbreak
 
