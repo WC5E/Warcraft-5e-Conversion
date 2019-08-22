@@ -7250,17 +7250,19 @@ ___
 ## Thunder Lizard
 Few who scout a thunder lizard approaching dare engage the beast in an open skirmish. The thick-skinned beasts bears a striking resemblance to kodos and many have speculated that the two are related in one way or another.
 
-But that is where the similarities between the creatures ends, as the monstrous thunder lizard is easily aggravated, persistent in hunting down those who provoked it, and capable of exhaling a streak of lightning towards it target.
+But that is where the similarities between the creatures end; as the monstrous thunder lizard is easily aggravated, persistent in hunting down whoever would provoke it, and capable of exhaling a breath of lightning.
 
-***Creature of Myth.*** Thunder lizards are considered mystical creatures and a rare sight by many, only made rarer by their aggressive nature putting an end to any who doesn't take appropriate precautions before attempting to get a closer look.
+***Creature of Myth.*** Thunder lizards are considered mystical creatures and a rare sight by many. They are only made rarer by their aggressive nature, as failing to take necessary precautions before attempting to approach a thunder lizard may quickly spell doom.
 
-The mighty tauren think of thunder lizards as a creature of legend. Believing that the spirits of kodos can be bound by the sky and storm, creating the thundering monsters.
+Among the tauren, legends claim thunder lizards to be formed from ancient kodo spirits; bound to the sky and storm and brought back as thundering monsters.
 
-***Grassland Scavengers.*** The thunderous monsters roam the vast plains of Kalimdor in search of prey to consume. Thunder lizards are carnivorous and will eat their prey whole and dissolving the body and everything the creature carried with it in the process, with magical items leaving with its excrements.
+***Grassland Scavengers.*** The lumbering creatures roam the vast plains of Kalimdor in search of prey. Thunder lizards are carnivorous, and will often eat their prey whole: dissolving both the creature and everything it carried in the process. Thankfully, magical items are usually left behind without being too much worse for wear.
 
-In their great hunt for food, wary scouts have noticed that the great thunder lizards leave ordinary kodos unharmed and seek nutrients elsewhere.
+Wary scouts who have witnessed the great thunder lizards and lived, often note that they leave ordinary kodos unharmed -- rather seeking food elsewhere.
 
-***Lone Wanderers.*** Thunder lizards are rarely found in large numbers, preferring to hunt alone or following a pack of kodos around as a fearsome guardian. They move vast distances in their tireless hunt for food and tales have been told of thunder lizards wandering carelessly through the streets of open settlements, often leaving little in their wake if first aggravated.
+***Lone Wanderers.*** Thunder lizards are rarely found in large numbers, preferring to either hunt alone or follow a pack of kodos as some form of guardian. 
+
+They move vast distances in their tireless hunt, and tales have been told of thunder lizards even wandering their way through open settlements. They rarely cause any trouble, however, so long as they are not provoked.
 
 <div class="pageLetter">T</div>
 <div class='footnote'>THUNDER LIZARD </div>
