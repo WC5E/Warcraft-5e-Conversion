@@ -7497,22 +7497,24 @@ ___
 \columnbreak
 
 ## Wretched
-Creatures who failed to control their innate addiction to magic and overindulged in arcane to the point of deformity, that is the story of the wretched elves. These thin elves are descendants of Quel'thalas, a danger to both themselves and others with their violent and unpredictable nature.
+Poor souls who failed to control their addiction to magic, and thus gorged on arcane power to the point of deformity — that is the story of the wretched. 
 
-These elves resemble unnaturally thin high elves, with claw-like fingers and strange crystalline growths appearing across their skin, giving off an eerie glow in darkness. All of these elves were once part of the Kingdom to Quel'thalas, unable to control their addiction to magic and falling into a crevice from which there is no escape and no turning back.
+These frail-bodied denizens of Quel'thalas are recogni&shy;sable for their gaunt, emaciated appearance, pale skin, and claw-like hands. Strange crystalling growths have spurred across their skin, giving them an eerie glow in darkness. They are a danger both to themselves and to others, with their violent and unpredictable nature. 
 
-***Insane Elves.*** Wretched are obsessed with magic and will go to extreme lengths to obtain magic items and devouring the magical energy within them. This obsessing often pushes many wretched into insanity as they fixate on objects of magical power and how to extract that power.
+***Insane Elves.*** The wretched are obsessed with magic, willing to go to extreme lengths for any scrap of magic that they can drain; whether from enchanted items, arcane fonts, or even errant spellcasters. Their fixation goes to the brink of insanity, and often far beyond it.
 
-Attempting to bargain with wretched for safe passage is rarely resolved peacefully as the unpredictable nature of the elves makes them aggressive and easy to anger.
+Attempting to bargain with wretched for safe passage through their domain is rarely a peaceful affair, as their unpredictable nature makes them all too easy to anger.
 
-***Pest of Quel'thalas.*** The wretched elves rarely leave <br> the confines of Quel'thalas, instead they have scattered through the kingdom and taken up residence in the ruins left behind by the Scourge. There the wretched gather and let their addiction to magic take its toll.
+***Pest of Quel'thalas.*** Being denizens of Quel'thalas themselves, the wretched elves rarely leave the confines of their magical kingdom. Instead, they have opted to scatter through the forest, taking up residence in ruins still left behind by the undead Scourge. There, they huddle together in small packs, letting their addiction take its toll.
 
-Because of their violent temperament and unpredictable nature few wretched have been able to gather the wretched under a single rule and fight back against Quel'thalas, but should such a leader ever arise the wretched would be a true threat to the blood elves, however, with their current behavior the wretched are little more than a pest.
+For the most part, in the eyes of Silvermoon, the wretched are little more than a pest upon the land. Their violent nature have left few wretched able to gather a force large enough to spur any proper conflicts, though they would pose a true threat to their elven kin should such a leader arise.
 
 ### Wretched Names
-Wretched were once blood elves and as such continue to speak the Thalassian tongue, although few among them how shown signs of remembering the Common language.
+Despite their addled presence and disownment by their kin, the wretches are still blood elves. As such, they still know to speak Thalassian. Few among them, however, seem to show any signs of remembering Common.
 
-Their overindulgence have lead many wretched into insanity, some forgetting their names entirely, or choosing to take a new one more appropriate. Wretched use the same naming conventions as high and blood elves, but instead of surnames many wretched give themselves titles that describes their newfound personality for others, like *the Reckless* or *the Hungerer*.
+Their overindulgence have lead many wretched into insanity, with some forgetting their names entirely. Others simply choose to take one a new one, casting aside any remnants of their old identity.
+
+The wretched use the same naming conventions as high and blood elves, but opt for descriptive and often profound titles in place of typical elven surnames — such as *the Reckless* or *the Hungerer*.
 
 > ##### Variant: Magic Absorption
 > Wretched have an insatiable craving for magic and will go to extreme lengths to obtain and consume it. Some wretched are able to devour the essence of a magic item and be empowered by it.
