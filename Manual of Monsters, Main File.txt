@@ -5823,7 +5823,7 @@ ___
 
 ___
 > ## Abomination
->*Large undead, neutral evil*
+>*Large construct (undead), neutral evil*
 > ___
 > - **Armor Class** 14 (natural armor)
 > - **Hit Points** 114 (12d10 + 48)
