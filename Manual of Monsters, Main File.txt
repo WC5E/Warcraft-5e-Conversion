@@ -5591,13 +5591,13 @@ ___
 <div style='margin-top:110px;'></div>
 
 ## Sabercats
-Sabercats are cunning felines that prowl across <br> Azeroth in their hunt for prey. These large, proud, and magnificent felines have become companions for many adventurers -- and the demise of even more. They are intelligent and loyal creatures when domesticated, but <br> feral and quite aggressive in the wilds.
+Sabercats are cunning felines, native to the reaches <br/> of northern Kalimdor. These proud, magnificent have <br/> been the companions of many adventurers -- and the demise of many more. They are intelligent creatures; <br/> very loyal when properly domesticated, while still <br/> remaining aggressive and territorial in the wilds.
 
-***Stalkers of Azeroth.*** Sabercats can be found throughout Azeroth, however, the vast majority of their kind is spread through the regions of Kalimdor. These feline creatures have adjusted to the climate around them, sprouting pelts able to camouflage them into their surroundings.
+***Stalkers of Azeroth.*** After years spent in the company of travellers, sabercats can be found far and wide across Azeroth. Still, the majority of their kind keep to Kalimdor, where they populate both dense forests and icy wastes. They are quick to adapt to their given habitat, sprouting pelts able to camouflage them into their surroundings.
 
-Many species of sabercats exist, each have adapted to their climate differently and act differently towards out&shy;siders. Of the many species, the most common sabercats are: dreadsabers, frostsabers, and nightsabers.
+Many species of sabercats exist, each one unique in its own ways, and most different in how they treat outsiders. The most common among them are the dreadsabers, the frostsabers, and the nightsabers.
 
-***Supreme Predators.*** Sabercats are deadly predators that display the pinnacle prowess of a stalking hunter, able to prowl up on their prey with ease and even avert the gaze of even perceptive and watchful individuals.
+***Supreme Predators.*** Sabercats are deadly predators, representing the pinnacle of a stalking hunter. They are able to prowl up on their prey with ease, averting the gaze of even the most perceptive and watchful.
 
 Sabercats are also pack animals and they rarely hunt alone and even if a creature manages to notice a sabercat prowling up on them, another may already be ready to pounce onto the creature from behind.
 
