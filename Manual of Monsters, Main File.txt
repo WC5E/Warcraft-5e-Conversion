@@ -5591,22 +5591,22 @@ ___
 <div style='margin-top:110px;'></div>
 
 ## Sabercats
-Sabercats are cunning felines, native to the reaches <br/> of northern Kalimdor. These proud, magnificent have <br/> been the companions of many adventurers -- and the demise of many more. They are intelligent creatures; <br/> very loyal when properly domesticated, while still <br/> remaining aggressive and territorial in the wilds.
+Sabercats are cunning felines, native to the northern <br/> reaches of Kalimdor. These magnificent beasts have <br/> been the companions of many adventurers -- and the demise of many more. They are intelligent creatures; <br/> very loyal when properly domesticated, while still <br/> remaining aggressive and territorial in the wilds.
 
-***Stalkers of Azeroth.*** After years spent in the company of travellers, sabercats can be found far and wide across Azeroth. Still, the majority of their kind keep to Kalimdor, where they populate both dense forests and icy wastes. They are quick to adapt to their given habitat, sprouting pelts able to camouflage them into their surroundings.
+***Stalkers of Azeroth.*** Favoured as they are among travellers, sabercats have come to live far and wide across Azeroth. Still, the majority of their kind keep to Kalimdor, where they populate dense forests and icy wastes alike. They are quick to adapt to their given habitat, sprouting pelts able to blend their surroundings.
 
-Many species of sabercats exist, each one unique in its own ways, and most different in how they treat outsiders. The most common among them are the dreadsabers, the frostsabers, and the nightsabers.
+Many species of sabercats exist, each one distinct and differing remarkably in how it would approach outsiders. The most common types of sabercats are the dreadsabers, the frostsabers, and the nightsabers.
 
 ***Supreme Predators.*** Sabercats are deadly predators, representing the pinnacle of a stalking hunter. They are able to prowl up on their prey with ease, averting the gaze of even the most perceptive and watchful.
 
-Sabercats are also pack animals and they rarely hunt alone and even if a creature manages to notice a sabercat prowling up on them, another may already be ready to pounce onto the creature from behind.
+They are also pack animals, rarely ever hunting alone. Even when one does spot a prowling sabercat, it is likely that another is about to pounce from behind.
 
-***Fierce Companion.*** Night elves have bred and trained sabercats as mounts for their army for thousands of years. Once domesticated or fully trained from a cub, the feline beasts are loyal to a fault and become life-long companions. They are agile mounts able to traverse most terrain with ease, and become fierce fighters when combat emerges.
+***Fierce Companion.*** Whether raised from a cub or tamed in the wild, the beasts become loyal to a fault once properly bonded. Night elves have bred and trained sabercats for thousands of years, even utilizing them as mounts in their armies.
 
 ### Manasaber
-Manasabers are sabercats that have been locked away with the night elves of Suramar, the well of power within the city of Suramar infused the sabercats with mana and changed them from simple sabercats into magical beasts.
+Manasabers are a type of sabercat found residing within the borders of Suramar. The well of power, radiating from inside the city, has infused them with mana and trans&shy;formed them into magical beings.
 
-Most manasabers are domesticated animals, having lived in tight proximity with the night elves of Suramar who trained and used the sabers within their tight borders.
+Most manasabers are domesticated animals, having lived in such close proximity to the elves of Suramar -- who in turn take great care to train them well.
 
 <div style='margin-top:35px;'></div>
 
