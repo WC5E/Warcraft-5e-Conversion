@@ -6576,9 +6576,13 @@ ___
 \pagebreakNum
 
 ## Skeletons
-Skeletons arise when animated by dark magic. They heed the summons of necromancers who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromancy or presence of corrupting evil.
+Skeletons arise when animated by dark magic. Sometimes, they come at the behest of necromancers, who call them from their stony tombs and ancient battlegrounds.
 
-***Animated Dead.*** Whatever sinister force awakens a skeleton infuses its bones with a dark vitality, adhering joint to joint and reassembling limbs. This energy motivates <br> a skeleton to move and think in a rudimentary fashion, though only as a pale imitation of the way it behaved in life. Resurrecting a skeleton restores its body and soul, banishing the hateful undead spirit that empowers it.
+Other times, they rise of their own accord -- drawn from their muddy graves in fields saturated with death.
+
+***Animated Dead.*** Whatever sinister force awakene the skeleton, it infuses its bones with a dark vitality, adhering joint to joint and reassembling limbs. With its newfound energy, the skeleton 
+
+This energy motivate a skeleton to move and think in a rudimentary fashion, though only as a pale imitation of the way it behaved in life. Resurrecting a skeleton restores its body and soul, banishing the hateful undead spirit that empowers it.
 
 While most skeletons are the animated remains of dead humans and other humanoids, skeletal undead can be created from the bones of other creatures besides human&shy;oids, giving rise to a host of terrifying and unique forms.
 
