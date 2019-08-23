@@ -6328,27 +6328,33 @@ ___
 <div style='margin-top:486px;'></div>
 
 ## Silithids
-Silithids are frightful insectoids that lives in large colonies excavated beneath Azeroth. Although the insects individual strength is questionable at best, the colony's collective hive-mind can send warnings and pain surging through the hive to alert the silithids of the intruders.
+Silithids are frightful insectoids, living in large colonies excavated beneath scorching sands. Although their individual strength is questionable at best, a colony's collective hive-mind can send signals and pain surging through the hive to alert its members of intruders.
 
-Silithid can range dramatically in size, beginning their life as small insignificant larva and growing into the swarms of insectoids that make up their colonies. Whatever their size may be, they all resemble massive insects. If those insects had mutated and desperately wanted to eat you.
+They range dramatically in size. Beginning their life as small insignificant larva, they grow into the swarms of monstrosities that make up their flock. Whatever their size may be, they all resemble massive insects -- if those insects were grotesquely mutated and thirsting for flesh.
 
-***Spawns of Qiraji.*** As the kingdom of the aqir was left in ruins, those who remained would split in two and venture in opposite directions. One grouped traveled as far south as south goes and ransacked the research station near Uldum. Converting the titan facility into an extensive hive, renamed themselves the qiraji and their new home Ahn'Qiraj.
+***Spawns of Qiraji.*** As the kingdom of the aqir was left in ruins, those who remained split in two and ventured in opposite directions. One grouped traveled far south, where they found and ransacked a titan research station near Uldum. Turning the facility into a hive, they renamed themselves the qiraji -- and their new home, Ahn'Qiraj.
 
-But their new hive held a dark secret, the facility had served as the prison of C'Thun, one of the Old Gods who had once reigned over primordial Azeroth. The arrival of the qiraji turned the facility from a prison into a seat of power. Worshiping the Old God as the aqir had before them, the qiraji would become his servants and spent thousands of years building an army capable of exacting revenge upon the whole of Kalimdor.
+But their new hive held a dark secret: it was the prison of C'Thun, one of the Old Gods who had ruled primordial Azeroth. Just as the aqir before them had served him, the qiraji quickly bowed down to his will.
 
-To form this army C'Thun would create the silithid, a race of insectoid creatures born from the qiraji themselves. The silithid would grow and become an enormous force for Ahn'Qiraj to utilize as they  created their great empire.
+The facility was transformed from a prison into a seat of power, one from which the qiraji grew over milennia into an army; one capable of exacting the Old God's revenge. The key to Cthun's plan was the creation of the silithid: a race of insectoid creatures born from the qiraji, one with which Ahn'Qiraj would be poised to as a new empire.
 
-***Bestial Drones.*** Unlike the qiraji, silithids aren't sentient beings. C'Thun created them to be mindless servants of the qiraji, minions that would be eternally loyal to the rulers of Ahn'qiraj and in turn to C'Thun himself.
+***Bestial Drones.*** Unlike the qiraji, silithids aren't sentient beings. They are slavering beasts at most, linked together in a hive-mind that spans the entirety of southern Kalimdor.
+
+ C'Thun created them to be mindless servants of the qiraji; minions that would be eternally loyal to their masters -- and in turn to C'Thun himself.
 
 \columnbreak
 
 <div style='margin-top:733px;'></div>
 
-&nbsp;&nbsp;&nbsp; ***Collective Hive-Mind.*** Although silithids might seem to be acting on their own accord, they are not sentient beings and work as a collective entity in their hive. This does not however make them any less dangerous. A hive of silithids are often controlled by one or more colossi exerting their will over the collective hive and directing their way of life.
+&nbsp;&nbsp;&nbsp; ***Collective Hive-Mind.*** Although silithids might seem to be acting on their own accord, their actions are all the exertion of their hive collective. This, however, does not make them any less dangerous.
 
-The hive colossi's are in turn controlled by the powerful qiraji who exert complete dominance over the race shaped from their own beings. It is not uncommon for large hives to have a strange crystalline prism deep within its core for the qiraji to directly communicate orders through.
+A hive of silithids are controlled by one or more colossi, whose masive -- sometimes exposed -- brain keeps a tidy order of all other members of its hive, directing them.
 
-***Adaptable Hive.*** No other creature can adapt to changes in their environment as quickly as the silithid. Adventurers foolish enough to delve into the heart of a silithid hive in hopes of removing its colossi might think that they've killed its mind and hampered the colony, however, its larvae are able to evolve into a variety of shapes and sizes based on the colony's needs, replenishing any loss.
+The colossi in turn are controlled by the qiraji, whose dominance over the race is absolute. Hives typically possess a strange crystalline prism, hidden deep within its core, through which the qiraji communicate with them.
+
+***Adaptable Hive.*** No other creature can adapt to changes in their environment as quickly as the silithid. 
+
+Adventurers daring enough to delve into the heart of a silithid hive, hoping to kill its colossi and hamper the colony as a whole, will soon find it replaced. Before long, another colossi will have taken over before long; acting as a surrogate until a new one can rise from the hive's young.
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SILITHIDS </div>
