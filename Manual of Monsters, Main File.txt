@@ -5747,27 +5747,33 @@ ___
 \pagebreakNum
 
 ## Satyrs
-An ancient curse afflicting a highborne sorcerer would create the first satyr and others would soon follow. These demonic beings were once night elves of the Kaldorei Empire, but little of that heritage remains in their twisted bodies, now there's only anger and hatred towards all.
+An ancient curse borne by a highborne sorcerer brought forth the first satyr -- and with it, others would soon follow. These demonic beings were once night elves of the Kaldorei Empire, but little of that heritage remains in their twisted forms. Now there is only anger and hatred.
 
-***Cursed Affliction.*** During the War of the Ancients, the Highborne sorcerer Xavius was tasked with opening a portal that connected Azeroth to the Twisting Nether, a task he would fail in accomplishing and as a punishment for his failure, Sargaras would torture his disembodied spirit. However, the Lord of the Burning Legion still saw use in Xavius and would create for him a new body, the demonic body of the first satyr.
+***Cursed Affliction.*** During the War of the Ancients, the Highborne sorcerer Xavius was tasked with opening a portal that would connect Azeroth to the Twisting Nether. His failture to do so brought upon him the wrath of Sargeras, who tore him asunder and tortured his spirit.
 
-The satyr Xavius was sent back to Azeroth to spread his cursed existence through the Kaldorei Empire, twisting and reshaping night elves into the demonic satyr race. Like Xavius himself, all the satyrs he created was capable of passing on their curse to others, and the satyr curse would continue to spread through the ages to night elves and denizens of other races as well. Although it has grown weaker and less effective over time.
+As pain and anguish shattered Xavius' mind, the Lord of the Burning Legion still saw use in the sorcerer; and set to forge a new, demonic form for his servant.
 
-***Created Not Born.*** Although both male and female satyrs exist, they have never been able to reproduce. Thus all satyrs in existence have been created by being afflicted with the satyr curse. Even though few new satyrs are created, they continue to be an imminent threat to Azeroth.
+In the form of a satyr, Xavius was sent back to Azeroth to spread his curse through the Kaldorei Empire. Like himself, all who he affected were turned to misshapen beasts, capable of pasing their curse onto others in turn. Scores of night elves, and some other races as well, fell to Xavius' dark influence.
 
-***Burning Hatred.*** Satyrs are creatures of hatred; they were created out of hate and gained that quality from their creator. They have a burning hatred for all other living creatures, however, nothing surpasses the hate they show for their old night elven kin. Satyrs are immediately hostile towards outsiders and will attempt to manipulate or corrupt them if possible.
+***Created, Not Born.*** Although both male and female satyrs exist, they have never been able to reproduce. All satyrs in existence were formed from their affliction, some thousands of years old. Though the ages have made them rare, they still pose an imminent threat to any unfortunate enough to encounter them.
 
-***Tainted Magic.*** These demonic beings corrupt the land they walk on and drain it of magic as if they were wielding the powerful fel itself, they leech onto purity and drain it of power for their own nefarious needs.
+***Burning Hatred.*** Satyrs are creatures of malice; their veins run a smoldering red as the anguish visited on Xavius is bestowed upon them in turn. They find an indescribable glee in visiting their pain upon others, beast or humanoid -- though none as much as their old elven kin. 
 
-All the power they drain is stored in their hooves, and perceptive creatures are able to distinguish a truly power&shy;full satyr from the rest by its swollen hooves.
+Should a satyr cross paths with an outsider, it is not unlikely for it to try and manipulate them, even corrupt them if possible.
 
-***Frightful Fighters.*** Satyrs are not known for forming an organized army with a strategy or plan. They live in small and remote sects and when a sentry sounds danger, every satyr in the sect is quick to throw themselves into battle without worrying for their own lives. They act like a horde of demons without a commander whose orders to follow.
+***Tainted Magic.*** Wherever the satyrs walk, their demonic presence slowly seeps magic from the land. Life withers away, as if touched by the fel itself, while the satyr drains its power for its own nefarous needs.
+
+All the power they drain is stored in their hooves. A peprceptive traveller may be able to distinguish the weak from the strong among satyrs, solely by examining its step -- as if the ground has been scorched by brimstone.
+
+***Frightful Fighters.*** Satyrs are not known for forming organized armies with strategies or plans. They live in small and remote sects, tending to their sinister schemes. 
+
+When a sentry sounds the alarm, every satyr is quick to join into the fray without any care for their own life. They act like a true horde of demons; one with no commander, and no orders to follow.
 
 ### Satyr Trickster
-Certain satyrs show a penchant for laying painful traps and ambushing their targets. These tricksters revere and mimic their Lord, Xavius' abilities of manipulation and take subtle approaches when the horn of battle sounds. By sneaking up on their enemies they are able to take out the strongest target of the assault.
+Certain satyrs show a penchant for laying painful traps and ambushing their targets. These tricksters revere and mimic their Lord, Xavius, for his sinister deeds. When the call to battle sounds, they take the subtle approach -- by sneaking up on their enemies to pick off any target they can waylay.
 
 ### Satyr Hellcaller
-Satyrs who revel in  fel magic are called hellcallers, these warlocks are larger and more imposing than common satyrs as the magic they have drained bolster their physical form. They make powerful warlocks who wield fel and shadow with an equally destructive will.
+Satyrs who revel in the arts of fel and shadow magic alike, are known as hellcallers. These warlocks are by far more imposing than the common satyr, as their thirst for magic has bolstered their form just as much as it has tempered their apetite for destruction.
 
 \columnbreak
 
