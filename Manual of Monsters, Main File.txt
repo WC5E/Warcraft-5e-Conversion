@@ -4484,9 +4484,9 @@ ___
 >
 > A Small or smaller creature can expend 5 feet of movement to enter an unoccupied mechano-tank. A creature unfamiliar with the controls of tank must succeed on a DC 15 Intelligence check to under&shy;stand the controls of the machine before it is able to pilot it and control its actions and movement.
 >
-> While piloted, the mechano-tanks Intelligence, Wisdom, and Charisma scores are exchanged with those of the pilot. A piloted tank uses the initiative of its pilot. The pilot must use its action, reaction, and movement to use the machines action options or force it to move to a new location. While a crea&shy;ture is crewing the mechano-tank, it is considered to have full cover against any attack made against it from the ground.
+> While piloted, the mechano-tank's Intelligence, Wisdom, and Charisma scores are exchanged with those of the pilot. A piloted tank uses the initiative of its pilot. The pilot must use its action, reaction, and movement to use the machines action options or force it to move to a new location. While a crea&shy;ture is crewing the mechano-tank, it is considered to have full cover against any attack made against it from the ground.
 >
-> Taking control of an **autopiloted** tank requires a successful DC 17 Tinker's Tool Intelligence check. On a successful save, the creature takes control of the tank until the end of the creature's next turn. At which point the shredder’s failsafe mechanisms return, requiring a new save to temporarily take control of it.
+> Taking control of an **autopiloted** tank requires a successful DC 17 Tinker's Tool Intelligence check. On a successful save, the creature takes control of the tank until the end of the creature's next turn. At which point the tank's failsafe mechanisms return, requiring a new save to temporarily take control of it.
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
@@ -6265,13 +6265,13 @@ Shale spiders are durable diggers, native to the elemental plane of Deepholm. Th
 \pagebreakNum
 
 ## Shredder
-Shredders are large mechanical constructs, a marvel of goblin ingenuity created to increase the profits gained from deforestation. The sturdy constructs are equipped with a clamping claw and sawblade, making them efficient lumberjacks and effective combatants when outrage from woodland denizens rises as their homes are destroyed.
+Shredders are large mechanical constructs: a marvel of goblin ingenuity, created to truly maximize profits from mass deforestation. The sturdy machines are equipped with a clamping claw and a deadly sawblade, making them just as  efficient lumberjacks as effective combatants when outraged woodland denizens come for revenge.
 
-Shredders are core to goblin businesses across all of Azeroth, they are manual machines requiring an operator to function and rarely work in solitary.
+Shredders are core to numerous goblin enterprises, across Azeroth. They are manual machines, requiring either an operator or an operator's instructions.
 
-***Enemies of the Forest.*** The quick and efficient deforest&shy;ing displayed by shredders have garnered them a hateful reputation among creatures of the forests. Many of whom work tirelessly to push back and sabotage the constructs to stop the expand into their home.
+***Enemies of the Forest.*** The brutally efficient deforest&shy;ations conducted by shredders have garnered them a deep-seeded hatred among those who dwell in the wilds. Many of whom work tirelessly to push back and sabotage the constructs, if only to save their home.
 
-***War Constructs.*** Shredders have become the primary tool used by goblins in times of war. The small beings are not known for their fighting prowess, but in the seat of a shredder they become ruthless combatants.
+***War Constructs.*** Shredders have on occasion become frontline fighters in times of war. If a goblin on its lonesome won't pose much of a threat, a ruthless goblin operating a spinning buzzer-blade certainly will.
 
 ___
 > ## Shredder
@@ -6314,7 +6314,7 @@ ___
 >
 > A Medium or smaller creature can expend 5 feet of movement to enter an unoccupied shredder. A creature unfamiliar with the controls of shredders must succeed on a DC 12 Intelligence check to understand the controls of the machine before it is able to pilot it and control its actions and movement.
 >
-> While piloted, the shredders Intelligence, Wisdom, and Charisma scores are exchanged with those of the pilot. A piloted shredder uses the initiative of its pilot. The pilot must use its action, reaction, and movement to use the machines action options or force it to move to a new location. While a creature is crewing the shredder, it is considered to have three-quarters cover against any attack made against it from the ground.
+> While piloted, the shredder's Intelligence, Wisdom, and Charisma scores are exchanged with those of the pilot. A piloted shredder uses the initiative of its pilot. The pilot must use its action, reaction, and movement to use the machines action options or force it to move to a new location. While a creature is crewing the shredder, it is considered to have three-quarters cover against any attack made against it from the ground.
 >
 > Taking control of an **autopiloted** shredder requires a successful DC 14 Tinker's Tool Intelligence check. On a successful save, the creature takes control of the shredder until the end of the creature's next turn. At which point the shredder’s  failsafe mechanisms return, requiring a new save to temporarily take control of it.
 
