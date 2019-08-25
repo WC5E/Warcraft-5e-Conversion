@@ -1423,7 +1423,7 @@ Though centaurs follow a shamanistic faith, their rites and rituals are unique; 
 ### Centaur Khan
 At the heart of each centaur tribe is the khan, who acts as a leader both for their great intelligence and their unmatched ferocity. Rage and savagery are key to the centaur khans, allowing them to lead their tribe into battle as a fearless commander without equal.
 
-### Centaur Names and Language
+### Centaur Names and Languages
 The centaur speak Low Common, and often learn phrases from the languages of their enemies; including Common, Orcish, Goblin, and Taur-ahe. A few centaurs  even go as far as to learn the entirety of these languages, with fewer still adopting this second language as their primary language.
 
 Their names are short and sharp, while tribes draw their name from the first khan to lead them -- such as khan Gelk of the Gelkis. The ending of a tribe's name sits at the whim of its first khan, it is speculated that they draw these from other languages spoken by the tribe's founding members.
@@ -2643,6 +2643,14 @@ Their tribes can grow exceptionally large, though they are masters at staying se
 Many such tribes lost their ways to the Burning Legion's invading forces, as well as to the corrupting influence of the Old Gods.  Turned away from their kin and onto a bloody path of war.
 
 ### Furbolg Names and Languages
+Furbolgs have their own language, Furbolg, whose sayings are usually intended literally. A few also speak Darnassian or Common. Their names are comprised of short utterings, each of which has meaning in their own tongue.
+
+<div style='margin-top:-5px;'></div>
+
+**Furbolg Names:** Ak, Adak, Dal, Grazle, Krolg, Oota, Rann
+<br /> **Tribe Names:** Barkskin, Blackwood, Deadwood, Frostpaw
+<br />&nbsp;&nbsp;&nbsp; Gnarlpine, Redfang, Timbermaw, Thistlefur
+
 
 > ##### Variant: Furbolg Shaman
 > Some furbolgs devote themselves to becoming a shaman for their tribe. A furbolg shaman gains the Spellcasting trait.
@@ -3238,7 +3246,7 @@ Some gnolls are sensitive to the elemental forces coursing through the world. Th
 ### Gnoll Pack Lord
 The alpha of a gnoll pack is its pack lord. Keeping a steel-jawed hold on any gnoll following it, the pack lord claims first pick from the pack's raids, and many have been witnessed wearing ornate decor in the form of piercing and grotesque trophies.
 
-### Gnoll Names and Language
+### Gnoll Names and Languages
 Gnolls speak Low Common and Gnoll; presumably a guttural offshoot of the former. Their names are often just descriptions, aiming to intimidate. A pack lord chooses the name for its pack in a similar fashion.
 
 <div style='margin-top:-5px;'></div>
@@ -3835,7 +3843,7 @@ ___
 
 \pagebreakNum
 
-### Kobold Names and Language
+### Kobold Names and Languages
 Kobolds typically speak Low Common, and often adopt other wide-spoken languages in the regions they dwell. The latter is especially prevalent across the Eastern Kingdoms, where most kobold packs and clans have learned Common over their long history of interacting with humans.
 
 Kobold names and clan names are a descriptive amal&shy;gamation of everyday words. Kobold name usually has two parts; a short, easily vocalized first name, and a descriptive surname. Kobold surnames are personal and not inherited, but rather like a title that sums up their character, appear&shy;ance, or a well-known possession of theirs.
@@ -4697,7 +4705,7 @@ While most murlocs know to wield a blade or a spear, some select few have harnes
 ### Murloc Oracle
 A few select murlocs are elevated above the rest of their tribe, born to a strong will and a natural affinity for magic. These murlocs, known as oracles, are adept spellcasters. They are masters of the elements and can use them to control the environment around their enemies.
 
-### Murloc Names and Language
+### Murloc Names and Languages
 The murlocs' native tongue is Nerglish; a strange, aquatic language in similar lieu to Low Common, which they share with a handful of other creatures.
 
 Their names, just like their language, are wet and soft-sounding. They don't keep individual surnames, but rather take to their name of their tribe -- which in turn recalls the tribe's deeds, appearance, history, or tradition.
@@ -5437,7 +5445,7 @@ The thornweavers are vital to a quilboar tribe's survival, as these wise shamans
 ### Quilboar Chieftain
 At the head of the quilboar tribe sits its chieftain. In most cases, the rise of a tribe's chieftain came at the demise of its last. They surround themselves with their thornweavers for guidance, and sometimes wield a host of battleguards at their side.
 
-### Quilboar Names and Language
+### Quilboar Names and Languages
 The quilboar language is a rough, sharp-spoken tongue that relies on a mixture of guttural sounds and sharp squeals. There is little room for eloquence in their vocabulary, though it is by no means primitive.
 
 Their names follow a mixture of native descriptions and short words, and their names lead descriptive, evocative titles -- for which rough translations in other languages often become the most widely known.
@@ -7010,7 +7018,7 @@ ___
 
 \pagebreakNum
 
-### Trogg Names and Language
+### Trogg Names and Languages
 Troggs do not possess any discernible language of their own, and tend to resort to violence rather than negotiation when faced with a threat. Still, those who do communicate do so in a mixture of grunts and what Common they know.
 
 Their names draw from the same roots as the dwarven language, especially with its hard consonants and guttural sounds. Some troggs, usually tribe leaders, choose names in Common to best describe themselves. It is unclear whether these names are direct translations, or deliberate choices to intimidate other races.
