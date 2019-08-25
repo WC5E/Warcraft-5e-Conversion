@@ -6842,7 +6842,7 @@ Theories have also been floated, mainly by the prominent dwarven explorer Brann 
 
 \columnbreak
 
-<div style='margin-top:405px;'></div>
+<div style='margin-top:398px;'></div>
 
 ___
 > ## Trogg
