@@ -380,18 +380,19 @@
 <br> **Additional Contribution:** Our Discord Community
 
 <br> **Cover Illustrator:** Zhang Zs
-<br> **Interior Illustrators:** Alex Garner, Andrei Kiselev, Andrew
-<br><span style="margin-left:12px"></span> Hou, Anndr, Anthony Avon, Arthur Bozonnet, Blizzard
-<br><span style="margin-left:12px"></span> Cinematics, Blizzard Entertainment, Chris Deboda, Dan
-<br><span style="margin-left:12px"></span> Mumford, Dan Scott, Dmitry Bolotov, Dmitry Prozorov,
-<br><span style="margin-left:12px"></span> Elodie Metivier, Glenn Rane, Grace Liu, Jakub Kasber,
-<br><span style="margin-left:12px"></span> James Ryman, Jimmy Lo, Jorge Jacinto, Justin Kunz,
-<br><span style="margin-left:12px"></span> kikicianjur, Laurel D. Austin, Lloyd Hoshide, Luke
-<br><span style="margin-left:12px"></span> Mancini, Mark Gibbons, Markus Erdt, Matt Smith,
-<br><span style="margin-left:12px"></span> Matthew Mckeown, Maxence Burgel, Miao Zi, Monica
-<br><span style="margin-left:12px"></span> Langlois, Mr. Jack, Noah Warner, Peter Lee, Phillip
-<br><span style="margin-left:12px"></span> Zhang, Raymond Swanland, Ruan Jia, Sean O'Daniels,
-<br><span style="margin-left:12px"></span> Sojin Hwang, Timens, UnidColor, Wei Wang, Zhang Zs
+<br> **Interior Illustrators:** Abe Taraky, Alex Garner, Andrei
+<br><span style="margin-left:12px"></span> Kiselev, Andrew Hou, Anndr, Anthony Avon, Arthur
+<br><span style="margin-left:12px"></span> Bozonnet, Blizzard Cinematics, Blizzard Entertainment,
+<br><span style="margin-left:12px"></span> Chris Deboda, Dan Mumford, Dan Scott, Dmitry Bolotov,
+<br><span style="margin-left:12px"></span> Dmitry Prozorov, Elodie Metivier, Glenn Rane, Grace
+<br><span style="margin-left:12px"></span> Liu, Jakub Kasber, James Ryman, Jimmy Lo, Jorge
+<br><span style="margin-left:12px"></span> Jacinto, Justin Kunz, kikicianjur, Laurel D. Austin,
+<br><span style="margin-left:12px"></span> Lloyd Hoshide, Luke Mancini, Mark Gibbons, Markus
+<br><span style="margin-left:12px"></span> Erdt, Matt Smith, Matthew Mckeown, Maxence Burgel,
+<br><span style="margin-left:12px"></span> Miao Zi, Monica Langlois, Mr. Jack, Noah Warner,
+<br><span style="margin-left:12px"></span> Peter Lee, Phillip Zhang, Raymond Swanland, Ruan
+<br><span style="margin-left:12px"></span> Jia, Sean O'Daniels, Sojin Hwang, Timens, UnidColor,
+<br><span style="margin-left:12px"></span> Wei Wang, Zhang Zs
 
 <br> **Based on the original D&D game created by**
 <br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as
@@ -2650,7 +2651,6 @@ Furbolgs have their own language, Furbolg, whose sayings are usually intended li
 **Furbolg Names:** Ak, Adak, Dal, Grazle, Krolg, Oota, Rann
 <br /> **Tribe Names:** Barkskin, Blackwood, Deadwood, Frostpaw
 <br />&nbsp;&nbsp;&nbsp; Gnarlpine, Redfang, Timbermaw, Thistlefur
-
 
 > ##### Variant: Furbolg Shaman
 > Some furbolgs devote themselves to becoming a shaman for their tribe. A furbolg shaman gains the Spellcasting trait.
@@ -6062,7 +6062,7 @@ Ultimately, the orc chose to accept the demon's bargain, bidding for the power i
 
 \pagebreakNum
 
-***The Plague of Undeath.*** In service to the Burning Legion, the Lich King Ner'zhul would become the lone, governing mind of an army of the damned.
+&nbsp;&nbsp;&nbsp; ***The Plague of Undeath.*** In service to the Burning Legion, the Lich King Ner'zhul would become the lone, governing mind of an army of the damned.
 
 His first claim was to the frozen reaches of Northrend, after a long and hard-won war against the nerubians and their underground kingdom of Azjol-Nerub. His second was in unleashing the gruesome Plague of Undeath upon the human kingdom of Lordaeron.
 
@@ -6092,7 +6092,7 @@ With his runeblade held aloft, Arthas shattered the ice; freeing the Helm of Dom
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SCOURGE </div>
-<img src='https://www.gmbinder.com/images/rUSVZoq.jpg' style='position:absolute; top:-350px; right:-430px; width:1120px; transform:scalex(-1)' />
+<img src="https://cdn.discordapp.com/attachments/507216962753921035/613352129247182848/abe-taraky-frozen-throne-at-final-web.png" style="position:absolute;top: -151px;right: -203px;width: 990px;transform: rotate(17deg);">
 <img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; left:-80px; width:880px;' />
 
 \pagebreakNum
