@@ -7648,7 +7648,7 @@ Yetis possess a desire for blood that cannot be <br/> quenched. They often conti
 
 This can, however, mean untold riches for strong-hearted adventurers. If anything manages to survive the yeti's frenzy, it is left strewn under the snow across its den -- like a treasure for any who would dare to collect it.
 
-***Solitary Hunters.*** It is not a lack of intelligence, but an assertion of pride and dominance that drives the yeti to wander alone. If they first do decide to join together, whether to survive or simply for sport, they will fight tooth and claw to establish a leader -- before setting out to terrorize their surroundings.
+***Solitary Hunters.*** It is not a lack of intelligence, but an assertion of pride and dominance that drives the yeti to wander alone. If they first do decide to join together, whether to survive or simply for sport, they will first fight tooth and claw to establish a leader.
 
 \columnbreak
 
