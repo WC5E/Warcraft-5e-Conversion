@@ -3388,35 +3388,37 @@ ___
 <div style='margin-top:480px;'></div>
 
 ### Gnoll King Hogger
-Ask any person in Elwynn forest, from the simplest farmer to a soldier of the king's guard, and they can tell you stories of the Gnoll King and his horrific riverpaw's. This notorious gnoll is unlike any other, as the leader of the Riverpaw clan he has transformed the ragtag gnolls into an organized clan wreaking havoc through the forests of Elwynn.
+Ask any person in Elwynn forest, from the simplest farmer to a soldier of the king's guard, and they can tell you stories of the Gnoll King and his horrific riverpaws. This notorious gnoll is unlike any other. As the leader of the Riverpaw clan he has transformed the ragtag gnolls into an organized clan wreaking havoc through the forests of Elwynn.
 
-**The Gnoll King.** Hogger has crowned himself the *king* of gnolls, a title well deserved for the mad gnoll. He is a formidable foe on his own and any adventurer seeking to take him down is advised to be well prepared. However, it <br> is because of his ability to control other gnolls and make them work in unison that turns Hogger from a fearful chieftain to a Gnoll King.
+**The Gnoll King.** Hogger has crowned himself the *king* of gnolls, a title well deserved for the beast. He is a formidable foe on his own, and any adventurer seeking to take him down is advised to be well prepared. It is solely for his prowess in controlling other gnolls, making them work in unison, that he enjoys his status.
 
-**Cheap Tactics**. The gnoll king will stop at nothing to gain an advantage and are not beneath using dirty tricks to achieve his goal. Hogger is not a creature of honor and won't let notions of a fair fight get in his way, there are no laws of engagement that he needs to adhere by, as long as his quarry dies at the end.
+**Cheap Tactics**. The mad gnoll will stop at nothing to achieve his goals, and is not beneath utilizing dirty tricks to gain an advantage in doing so. Hogger is not a creature of honor and won't let notions of a fair fight get in his way. After all, there are no real laws of engagement for a gnoll; all that matters is that his quarry dies in the end.
 
-***Unknown Alliances.*** Although many of their supplies are considered plundered goods, the Riverpaw clan have access to high quality steel tool, arms, and armor, which suggests that the gnolls -- or Hogger himself -- have an understanding with some unknown ally capable of supply&shy;ing them with such equipment. However, it is unknown whom that would be.
+***Unknown Alliances.*** Although many of their supplies are considered plundered goods, the Riverpaw clan have access to high quality steel tools, arms, and armor. All of it suggests that the gnolls -- or Hogger himself -- have an understanding with some unknown ally, one capable of escorting such tools to them in the dead of night. It is unknown, however, who such allies would even be.
 
-**Public Enemy No. 1.** Through Elwynn forest and other nearby regions, the Riverpaw clan have gained a notorious reputation. With their supply of quality weaponry they are able to strike at small-and-large settlements alike. Since gnoll king Hogger have become their chieftain, the River&shy;paw's have become a thorn in the side of the Kingdom of Stormwind and through many of Stormwind's settlements you can find posters offering a reward their heads.
+**Public Enemy No. 1.** Through Elwynn forest and other nearby regions, the Riverpaw clan have gained a notorious reputation. With their supply of quality weaponry they are able to strike at small-and-large settlements alike.
+
+Ever since the gnoll king took charge, the Riverpaws have become a thorn in the side of the Kingdom of Storm&shy;wind. Far and wide trough Stormwind's settlements, posters can be found offering rewards for their heads.
 
 \columnbreak
 
 <div style='margin-top:297px;'></div>
 
 ### Hogger's Lair
-Hogger is a notorious villain and even when he is captured and put under lock-and-key, the gnoll king is still capable of rallying the creatures around him. Hogger's lair reeks of death as the carcasses of previous meals are scattered across the floor and decorated on spikes. 
+Hogger is a notorious villain. Even when he is captured and put under lock-and-key, the gnoll king is still capable of rallying the creatures around him. Hogger's lair reeks of death, as the carcasses of previous meals are scattered across the floor and decorated on spikes. 
 
-Through his life, Hogger has had two different lairs, each of which are described below:
+Through his life, Hogger has had two different lairs, both of which are described in further detail below:
 
-***Hogger Hill.*** In the southwestern thickets of Elwynn forest, unlucky travelers may stumble upon Hogger Hill, a hill of insignificant proportions that have become home to the Riverpaw clan. A clan of gnolls ruled with an iron fist and grim temper by Hogger himself.
+***Hogger Hill.*** In the southwestern thickets of Elwynn forest, unlucky travelers may stumble upon Hogger Hill.
 
-Adventures are unlikely to ever find Hogger alone, as his clan is never far away and willing to rush to his aid in the event that combat breaks out
+A hill of insignificant proportions, it has become home to the Riverpaws; a clan of gnolls ruled with an iron fist and grim temper by Hogger himself. Adventures are unlikely to ever find Hogger alone, as his clan is never far away and willing to rush to his aid in the event that a fight breaks out.
 
-***Stockades.*** Rumor spurs that hogger was once caught by Alliance troops and locked away in Stormwind's stock&shy;ades. His loyal Riverpaw's would use the cover of night to sneak into Stormwind, and rip the guards protection it to pieces. From the depths of the stockades he would dominate and turn prisoners to his side.
+***Stockades.*** Rumors claim that hogger was once caught by Alliance troops and locked away in Stormwind's stock&shy;ades. His loyal Riverpaw's would use the cover of night to sneak into Stormwind, tearing apart the guards keeping watch over the prison. From the depths of the stockades, he would turn the other prisoners to his side, claiming its torch-lit tunnels as his domain.
 
 #### Lair Actions
 On initiative count 20 (losing initiative ties), Hogger takes a lair action to cause one of the following effects:
 
- - Hogger screams for aid, 1d4 **gnolls** within 300 feet of Hogger that can hear him rush to his aid and appears in a space within 60 feet of him. This lair action has no effect if there are no gnolls within 300 feet of Hogger.
+ - Hogger screams for aid. 1d4 **gnolls** within 300 feet of Hogger that can hear him rush to his side, appearing in a space within 60 feet of him. This lair action has no effect if there are no gnolls within 300 feet of Hogger.
  - Each gnoll that Hogger can see can use its reaction to move up to its speed without provoking attacks of opportunity.
  - Until the next initiative count 20, all gnolls within the lair are enraged, causing them to have advantage on melee weapon attack rolls and causing attack rolls to have advantage against them.
 
