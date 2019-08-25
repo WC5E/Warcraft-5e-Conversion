@@ -7116,10 +7116,9 @@ ___
 <div class="pageLetter">T</div>
 <div class='footnote'>TROLLS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/h0bOYtd.png' style='position:absolute; top:-50px; right:-105px; width:550px' />
 <img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:-100px; right:-100px; width:600px'>
 <img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:500px; right:0px; width:700px; transform:rotate(40deg)'>
-<img src='https://www.gmbinder.com/images/h0bOYtd.png' style='position:absolute; top:-50px; right:-105px; width:550px' />
+<img src="https://www.gmbinder.com/images/h0bOYtd.png" style="position:absolute;top:-38px; right:-85px; width:530px; transform:rotate(-6deg);">
 
 \pagebreakNum
 
