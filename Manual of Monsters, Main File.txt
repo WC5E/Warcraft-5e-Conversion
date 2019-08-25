@@ -6218,7 +6218,7 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:432px;'></div>
+<div style='margin-top:418px;'></div>
 
 ___
 > ## Gargoyle
@@ -6284,7 +6284,7 @@ ___
 <div class="pageLetter">S</div>
 <div class='footnote'>SCOURGE </div>
 <img src='https://www.gmbinder.com/images/vALA45Q.png' style='position:absolute; top:0px; right:175px; width:800px' />
-<img src='https://www.gmbinder.com/images/058qlda.png' style='position:absolute; top:0px; right:-100px; width:1000px' />
+<img src='https://www.gmbinder.com/images/058qlda.png' style='position:absolute; top:-50px; right:-100px; width:940px' />
 <img src='https://www.gmbinder.com/images/Sjc9IFl.png' class='inkblot' style='top:100px; right:-100px; width:500px; transform:rotate(40deg)' />
 <img src='https://www.gmbinder.com/images/0xslXmq.png' style='position:absolute; top:40px; right:-20px; width:400px; z-index:100' />
 
