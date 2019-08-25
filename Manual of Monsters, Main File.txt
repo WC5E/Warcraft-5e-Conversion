@@ -7010,25 +7010,33 @@ ___
 \pagebreakNum
 
 ## Trolls
-Trolls have made their mark upon the world through thousands of years as ancient divides among their race have resulted in a number of distinct troll kins, each with their own appearance, customs, and way of life. Trolls can be found across Azeroth as the race have scattered and settled in the farthest reaches of the world.
+Trolls have made their mark upon the world over milennia, as ancient divides among their kin have brought forth a wide foray of tribes. Today, trolls can be found far and wide across Azeroth, each tribe unuque in its own appearance, customs, and way of life.
 
-***Rulers of Kalimdor.*** When the world was still known <br> as Kalimdor, the troll race flourished under the rule of <br> the powerful and influential Zandalari, an empire of trolls capable of matching the mighty mogu dynasty. The Zan&shy;dalari Emprie was heavily dependent on a caste system, and as time went on many of those castes would evolve <br> into a people of their own and leave the Zandalari Empire, marking the beginning of the divide among all trolls.
+***Rulers of the Ancient World.*** When the world was still one, before the Great Sundering, the troll race flourished under the rule of the powerful Zandalari empire; able to match even the mighty Mogu dynasti.
 
-Over time two distinct empires would emerge to rival the Zandalari Empire, the Amani and Gurubashi, with smaller tribes settling in farther reaches of Azeroth. Although the new empires held some animosity for one another, the many threats of Azeroth would draw a common enemy between them, resulting in them rarely being warred.
+The Zandalari relied heavily on its intricate caste system, under which each troll had its given place in life. As time went on, many of these castes grew into a people of their own, parting from the Zandalari to cut their own path in life. From this, two other empires grew forth to rival the Zandalari -- the Amani and the Gurubashi.
 
-Thousands of years later, a colony of dark trolls would break from the Amani empire and discover the cosmic Well of Eternity at Kalimdors center, by the wells influence they would be transformed into the kaldorei -- night elves. <br> The night elves built a strong empire for themselves at the heart of Kalimdor and systematically dismantled the trolls' defenses, leaving the empires with fragments of the power they previously boasted.
+Other, smaller tribes tried to escape conflict by settling farther away, though many were made to heel by the three empires. Although animosity between the three was great, Azeroth had a host of other threats that would often draw a common enemy between them.
 
-Eventually, the night elves' reckless overuse of magic lured the demonic Burning Legion to the world. Igniting the War of the Ancients. At its end, the Well of Eternity would implode, resulting in a shockwave that shattered the great Kalimdor into the world it is today. Great chunks of the remaining Amani and Gurubashi empires were lost, but plenty of land remained for the trolls to rebuild their ravaged cities and reclaim their territories free from the struggles of night elves.
+***Progenitors of the Elves.*** Eventually, a colony of dark trolls split free from the Amani empire, ventured forth discover the heart of the continent -- and with it, the cosmic Well of Eternity. By the influence of the well, they were transformed into the Kaldorei, night elves. 
 
-***Racial Differences.*** The troll race is considered one of the most separated, their ancient divide has turned each tribe into a unique race of their own with customs not seen in other tribes. They have settled across the face of Azeroth and adapted to the environment around them.
+At the base of the well, they forged for themselves a new empire. One with which they systematically dismantled the trolls around them, leaving once great empires in ruin.
 
-***Tribal Preference.*** Trolls have always been a tribal race, isolating themselves and starting anew. A troll’s tribe is its family, and many will go to extreme lengths to protect those of its tribe, owing loyalty to no one but those of the tribe.
+Ultimately, however, the elves' reckless use of magic lured the demonic Burning Legion to the world. With it, the War of the Ancients began, by the end of which the Well of Eternity imploded in a shockwave that shattered the land and split the continents as they have been ever since.
 
-***Outside Hostility.*** Trolls settle in remote and isolated area, regions where the trolls can gain influence and start a new empire. They are known for their territorial behavior and will retaliate with force and fierce numbers if their empire's borders are threatened.
+Great chunks of the remaining Amani and Gurubashi empires were lost, but plenty of land remained for the trolls to rebuild their  cities and reclaim their territories.
 
-***Loa's Guidance.*** Loa is the name trolls have given to the animalistic spirit gods of the world. Countless loa exist, many of them weak and shapeless beings that only trolls can sense, whilst others take the form of majestic animals. Troll societies make up Loas of their own, families might have a family loa, cities their own civic deities, and empires can have sanctioned certain Loas above others.
+***Racial Differences.*** The troll race is considered one of the most numerous, yet thoroughly divided. As each tribe has split its own course and claimed its own land, a troll's appearance can alone tell who they are.
 
-***Regeneration.*** Smashing a troll's bones and slashing through its rubbery hide only makes them angry as their wounds close at an extraordinary speed. Only through acid or fire can a creature arrest the regenerative properties of a troll, however, their natural regeneration can only restore so much and once the heart pumps its last there's no way for it to retaliate.
+***Tribal Devotion.*** Trolls have always been a tribal race, isolating themselves and starting anew. A troll’s tribe is its family, and many will go to extreme lengths to protect it as such. They owe loyalty to no-one but their own.
+
+***Outside Hostility.*** Trolls settle in remote and isolated areas, places where they can stake their claim and turn the land into their own. The ferocity with which they defend their borders is legendar,y to say the least, as they will retaliate swiftly and with force if threatened.
+
+***Loa's Guidance.*** Loa is the name trolls have given their animalistic spirit gods. Countless Loa exist, many of them weak and shapeless beings that only trolls can sense, while others take the form of majestic animals. Most troll tribes and empires have their own Loas, manifested as though given shape by the trolls in their worship.
+
+***Regeneration.*** Smashing a troll's bones and slashing through its rubbery hide will only serve to anger it, as a troll's wounds close at an extraordinary speed. Only through acid or fire can one arrest their regeneration.
+
+The ability for trolls to regenerate themselves is nothing short of legendary. It can only restore so much, however; as once a troll heart pumps its last, there is no natural way for it to recover.
 
 <div class="pageLetter">T</div>
 <div class='footnote'>TROLLS </div>
