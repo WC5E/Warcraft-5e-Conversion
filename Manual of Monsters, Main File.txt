@@ -6753,18 +6753,19 @@ ___
 <div style='margin-top:440px;'></div>
 
 ## Treant
-Few would peer upon the stout treants and think of them as wise or strong beings, but the awakened trees have been imbued with great wisdom and strength by the spirits of the forests they dwell in. They are a product of war and strive, and little is seen of them in times of calm and peace.
+Few would gaze upon the stout treants and assume them to be wise or strong, but these awakened trees have been imbued by the spirits of the forests in which they dwell. In times of peace, they act as keepers and tenders. In times of war, they rise to defend their groves with fervor.
 
-***Corrupted and Unpredictable.*** During the Third War, forests would be charred and destroyed as the demons of the Burning Legion invaded Azeroth once more. <br> The destruction would be amplified through the treants as their homes and purpose was ripped and burnt away. The deforestation drove many of the stout guardians mad with grief and create a vacuum within them, a vacuum that allowed the influence of the legion to take root and drive them insane. The corruption have made many treants un&shy;predictable, driving them to lash out against any outsider, believing them to be enemies seeking to destroy what little remains of the forest around them.
+***Saplings of Ancients.*** The treants begin their lives as sapling sprouds of the ancients, carrying many of the same qualities as the tree from which they came -- be it be it boldness, tenderness, or a great force of will. Like the forest around them, treants never cease to grow. Instead, they rise taller and taller, century by century passing by, until the time is right for one to rise into the annals as an ancient protector.
 
-Most adventurers have shown caution towards treants since the war's end as the madness of the stoic guardians won't become apparent before it is too late to retreat.
+***Guardians of Nature.*** Like the ancients, treants live to serve the forces of nature. Should someone dare to bring harm to their domain, it is they who wander the woods in search the perpetrators. If confronted, the treants respond by slashing wildly with their barbed claws.
 
-***Saplings of Ancients.*** From the saplings of ancients sprouts their primitive offspring, the treant. Beings imbued with the strength and wisdom displayed by the ancients. Like the forest around them, treants continuously grow through their life and it is believed that with enough time a treant can become an ancient protector, a devout guardian tasked with keeping the forests safe.
+Their task of safe-guarding nature have granted them favor among druids and woodland creatures alike. It is rare to see a treant wandering alone, as they are often accompanied by sprouts and other critters.
 
-***Guardians of Nature.*** Like the ancients, treants serve the forces of nature above all else. In times of strive they are the ones who wander the forests, seeking out those who have wronged it and flinging their barbed claws at creatures who dare to violate what is sacred.  
+***Corrupted and Unpredictable.*** During the Third War, as the Burning Legion once more invaded Azeroth, numerous forests were set ablaze -- most notably, the forests of Ashenvale and Quel'Thalas.
 
-Their task of safe-guarding nature have granted them favors among woodland creatures and druids, making it rare to see treants wandering alone as they are often accompanied by others of sprouts or beings of the forest.
+With the destruction of their groves, the treants who delved within were driven to the brink of insanity, their hollow shells quickly gripped by the Legion's influence.
 
+Though the invasion was since quelled, many groves are still saturated with demonic corruption; the treants within ready to lash out at any who would dare appproach. Adventurers who have taken upon them to visit these ancient sites, have borne witness to withered shambles lurking between dead trees and fallen ruins.
 
 \columnbreak
 
