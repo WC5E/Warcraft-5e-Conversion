@@ -7046,18 +7046,24 @@ The ability for trolls to regenerate themselves is nothing short of legendary. I
 \pagebreakNum
 
 ### Troll Berserker
-To survive a tribe must be powerful and to be powerful means to be stronger than your enemy. Berserkers are the embodiment of strength, these brutish trolls toss weapons at their target as they call out a war cry and spring into the frey, they are fearless and reckless in their as they swing their axes around without a care.
+To survive a tribe, one must be powerful. For a troll, being powerful means being stronger than one's enemy.
+
+Berserkers are the embodiment of this; with their brutish strength, they hurl their weapons at their targets as they cry for blood. Fearless, they hurl themselves into the fray to attack with reckless abandon.
 
 ### Troll Headhunter
-Headhunters are the trackers and hunters of a tribe, using a combination of spear and bolas to hunt down their prey. They make formidable hunters who takes trophies from their fallen opponents to display as adornments for others. These trophies are often severe fingers of ears, or other small trinkets that their quarry might have carried.
+Headhunters are the trackers and hunters of a tribe, using a combination of spear and bolas to bring down their prey.
+
+They make formidable fighters, keen to take trophies from their fallen opponent to display as adornments. These trophies are usually severed fingers or ears, as well as the odd trinket that their quarry might have worn.
 
 ### Troll Witch Doctor
-A troll witch doctor is seen as the spiritual leader of the tribe and considered a close adviser to its chief. It is the witch doctor that the tribe looks to for spiritual guidance and as the speaker of Loas. These cunning and intelligent trolls are capable magic users and use it vividly in their practice of voodoo.
+A troll witch doctor holds status as a spiritual leader for its tribe, often acting as a close advisor to its chieftain. They are the eyes that see things which others cannot, and the ones who commune with the Loas on behalf of the tribe.
 
-They are also known for being dastardly alchemists who knows no limits when it comes to creating magical concoctions or fumes that will bolster ones physique or give visions of something that may, or may not, be true.
+As cunning as they are intelligent, the wield great magical prowess in their practice of voodoo and alchemy. They know few limits for creating magical concoctions, both to cure ailments and to spur horrors.
 
 ### Dire Troll
-These enormous trolls tower above the heads of their kin. These trolls utilize the full capabilities of their immense strength to toss boulders -- or enemies -- through the air and to pummel invaders. There is no definitive say behind their size and strength. Some are elevated through alchemical or magical means, while others have simply evolved beyond the rest of their tribe. Whatever the case might be, dire trolls are seen as proud and honorable creatures among the trolls.
+These enormous trolls tower above the rest of their kin, as they wield their immense strength to hurl boulders and enemies alike through the air, as well as to pummel them into the ground with almost bestial ferocity.
+
+There is no definitive way to say what stands behind a dire troll's immense stature. Some are elevated through magical or alchemical means, while others have simply evolved to stand larger than life. Whatever the case might be, they are revered as proud and honorable souls among the trolls.
 
 <br>
 
