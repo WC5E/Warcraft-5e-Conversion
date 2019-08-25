@@ -7300,7 +7300,7 @@ They move vast distances in their tireless hunt, and tales have been told of thu
 <div class='footnote'>THUNDER LIZARD </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-green' style='top:-300px; right:0px; width:700px; transform:rotate(60deg)'>
-<img src='https://www.gmbinder.com/images/wRMRQeP.png' style='position:absolute; top:-60px; right:-50px; width:1000px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/wRMRQeP.png' style='position:absolute; top:-40px; right:-50px; width:1000px;transform:scalex(-1)' />
 
 \pagebreakNum
 
