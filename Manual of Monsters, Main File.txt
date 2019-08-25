@@ -158,7 +158,7 @@
 
   /* For creature statblocks within range (start and end must be specified),
      don't show a background. Used for the appendix creatures */
-  .phb:nth-of-type(n+111):nth-of-type(-n+130) hr+section blockquote {
+  .phb:nth-of-type(n+114):nth-of-type(-n+150) hr+section blockquote {
     background: none;
     border: none;
     box-shadow: none;
