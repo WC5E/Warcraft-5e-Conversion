@@ -188,7 +188,29 @@
   }
   .phb .footnote { color: #7e735c; }
 
-  /* On odd child pages, have the Monster Manual page tear and lettering */
+  /* On odd pages before the bestiary, have just the page tear */
+  .phb:nth-child(odd):nth-of-type(n+2):nth-of-type(-n+9):after {
+    content: '';
+    height: 125px;
+    background-image: url(https://www.gmbinder.com/images/PB8On0U.png), url('https://gmbinder.com/images/YWardeu.png');
+    background-size: 120px 120px, 816px 55px;
+    background-repeat: no-repeat, no-repeat;
+    background-position: bottom right -10px, bottom;
+  }
+
+  /* Reversed for alternating pages */
+  .phb:nth-child(even):nth-of-type(n+2):nth-of-type(-n+9):after {
+    content: '';
+    height: 125px;
+    background-image: url(https://www.gmbinder.com/images/PB8On0U.png), url('https://gmbinder.com/images/YWardeu.png');
+    background-size: 120px 120px, 816px 55px;
+    background-repeat: no-repeat, no-repeat;
+    background-position: bottom right -10px, bottom;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
+
+  /* On odd bestiary pages, have the Monster Manual page tear and lettering */
   .phb:nth-child(odd):after {
     content: '';
     height: 125px;
@@ -198,7 +220,7 @@
     background-position: bottom right -10px, bottom;
   }
 
-  /* Hacked reverse of the Monster Manual page tear for alternating pages */
+  /* Reversed for alternating pages */
   .phb:nth-child(even):after {
     content: '';
     height: 125px;
@@ -6026,7 +6048,7 @@ Ultimately, the orc chose to accept the demon's bargain, bidding for the power i
 <div class="pageLetter">S</div>
 <div class='footnote'>SCOURGE </div>
 <img src='https://www.gmbinder.com/images/rUSVZoq.jpg' style='position:absolute; top:-200px; right:0px; width:800px; transform:scalex(-1)' />
-<img src='https://i.imgur.com/M4hsHsw.png' style='position:absolute; top:230px; right:0px; width:840px;' />
+<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:230px; right:0px; width:840px;' />
 
 \pagebreakNum
 
@@ -6061,7 +6083,7 @@ With his runeblade held aloft, Arthas shattered the ice; freeing the Helm of Dom
 <div class="pageLetter">S</div>
 <div class='footnote'>SCOURGE </div>
 <img src='https://www.gmbinder.com/images/rUSVZoq.jpg' style='position:absolute; top:-350px; right:-430px; width:1120px; transform:scalex(-1)' />
-<img src='https://i.imgur.com/7QFujZ4.png' style='position:absolute; top:0px; left:-80px; width:880px;' />
+<img src='https://www.gmbinder.com/images/7QFujZ4.png' style='position:absolute; top:0px; left:-80px; width:880px;' />
 
 \pagebreakNum
 
