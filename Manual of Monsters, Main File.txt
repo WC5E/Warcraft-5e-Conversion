@@ -334,7 +334,7 @@
     <br />
   </span>
   <span class='cover-footer-version'>
-    Version 1.0 -- First release
+    Version 1.0 — First release
   </span>
 </div>
 
