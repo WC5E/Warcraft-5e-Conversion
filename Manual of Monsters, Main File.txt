@@ -9269,6 +9269,6 @@ Did you know this was all made using GmBinder? I can't stretch enough how fantas
 </div>
 <div class='back-cover-logo'></div>
 
-<style> .phb#p124:after { display:none; } </style>
+<style> .phb#p129:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/03TEaX0.jpg' style='position:absolute; top:0px; right:-300px; width:860px' />
 <img src='https://www.gmbinder.com/images/x83va2I.png' style='position:absolute; top:0px; right:-100px; width:900px' />
