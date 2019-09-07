@@ -544,6 +544,8 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
 
 \pagebreakNum
 
+<div style='margin-top:350px;'></div>
+
 # Chapter 1: Bestiary
 THERE IS A BIG WORLD OUT THERE. From the familiar shores of Azeroth and the torn reaches of Draenor, across the Twisting Nether to a thousand worlds within the great cosmic planes. It's no wonder so many take to the call for adventure and seek out on the&shy;ir own, and no surprise to hear of the dang&shy;ers they've found along the way.
 
@@ -559,13 +561,13 @@ As of this first release of our *Manual of Monsters*, this book contains statist
 
 In the long run, our full goal is a book of statistics for approximately 600 (and perhaps later, even more) monsters, creatures, and NPCs. From mundane beasts to the great Dragonflights and the infernal armies of the Burning Legion, as well as legendary figures.
 
-\columnbreak
-
 ## Statistics
 A monster's statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
 
 ### Size
 A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categories table shows how much space a creature of a particular size controls in combat. See the 5th edition *Player's Handbook* for more information on creature size and space.
+
+\columnbreak
 
 ##### Size Categories
 |&nbsp; Size       | Space | Examples |
@@ -590,7 +592,8 @@ The game includes the following monster types, which have no rules of their own.
 **Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
 
 <div class='footnote'>CHAPTER 2 | INTRODUCTION </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/aVVaaY1.jpg' style='position:absolute; top:-150px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/dStbKfZ.png' style='position:absolute; top:50px; right:0px; width:900px; transform:scaley(-1)' />
 
 \pagebreakNum
 
