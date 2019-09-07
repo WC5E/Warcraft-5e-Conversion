@@ -7911,7 +7911,7 @@ ___
 <img src='https://www.gmbinder.com/images/ZQOYrMF.jpg' style='position:absolute; top:-100px; right:-350px; width:1100px' />
 <img src='https://www.gmbinder.com/images/0mM3BWX.png' style='position:absolute; top:0px; right:0px; width:950px; transform:scaley(-1)' />
 <img src="https://www.gmbinder.com/images/e5Dbuzd.png" class="inkblot" style="top:-120px;right: 390px;width:400px;transform:rotate(-40deg);">
-<img src="https://www.gmbinder.com/images/QsGzjQf.png" style="position:absolute;top: 50px;left: 100px;transform: rotate(2deg);z-index:100;filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));">
+<img src="https://www.gmbinder.com/images/QsGzjQf.png" style="position:absolute;top: 50px;left: 70px;transform: rotate(2deg);z-index:100;filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));">
 
 \pagebreakNum
 
