@@ -3777,7 +3777,7 @@ ___
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot inkblot-green' style='top:0px; right:50px; width:700px'>
 <img src='https://www.gmbinder.com/images/8xkJDn5.png' style='position:absolute; top:-50px; right:400px; width:400px; transform:scalex(-1)' />
-<img src="https://i.imgur.com/mqqDcER.png" style="position:absolute;top: 295px;left: -6px; transform: rotate(3deg);z-index:100;filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));" />
+<img src="https://i.imgur.com/mqqDcER.png" style="position:absolute;top: 75px;right: 100px;transform: rotate(-2deg);z-index:100;filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));">
 
 \pagebreakNum
 
