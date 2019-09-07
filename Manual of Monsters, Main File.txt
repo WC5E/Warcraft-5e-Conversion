@@ -7564,6 +7564,7 @@ ___
 <img src='https://www.gmbinder.com/images/Vm7cCm7.jpg' style='position:absolute; top:0px; right:-200px; width:900px; transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/058qlda.png' style='position:absolute; top:0px; right:-40px; width:900px; transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:-100px; right:500px; width:400px; transform:rotate(-40deg)'>
+<img src="https://i.imgur.com/qoSXNIN.png" style="position:absolute;top: 75px;right: 100px;transform: rotate(-2deg);z-index:100;filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42));">
 
 
 \pagebreakNum
