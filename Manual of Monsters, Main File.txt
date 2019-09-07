@@ -189,7 +189,7 @@
   .phb .footnote { color: #7e735c; }
 
   /* On odd pages before the bestiary, have just the page tear */
-  .phb:nth-child(odd):nth-of-type(n+2):nth-of-type(-n+9):after {
+  .phb:nth-child(odd):nth-of-type(n+2):after {
     content: '';
     height: 125px;
     background-image: url(https://www.gmbinder.com/images/PB8On0U.png), url('https://gmbinder.com/images/YWardeu.png');
@@ -199,7 +199,7 @@
   }
 
   /* Reversed for alternating pages */
-  .phb:nth-child(even):nth-of-type(n+2):nth-of-type(-n+9):after {
+  .phb:nth-child(even):nth-of-type(n+2):after {
     content: '';
     height: 125px;
     background-image: url(https://www.gmbinder.com/images/PB8On0U.png), url('https://gmbinder.com/images/YWardeu.png');
@@ -211,7 +211,7 @@
   }
 
   /* On odd bestiary pages, have the Monster Manual page tear and lettering */
-  .phb:nth-child(odd):after {
+  .phb:nth-child(odd):nth-of-type(n+10):nth-of-type(-n+115):after {
     content: '';
     height: 125px;
     background-image: url(https://gmbinder.com/images/lLWeevR.png), url('https://gmbinder.com/images/YWardeu.png');
@@ -221,7 +221,7 @@
   }
 
   /* Reversed for alternating pages */
-  .phb:nth-child(even):after {
+  .phb:nth-child(even):nth-of-type(n+10):nth-of-type(-n+115):after {
     content: '';
     height: 125px;
     background-image: url(https://gmbinder.com/images/lLWeevR.png), url('https://gmbinder.com/images/YWardeu.png');
