@@ -7182,6 +7182,8 @@ The ability for trolls to regenerate themselves is nothing short of legendary. I
 
 \pagebreakNum
 
+<div style='margin-top:180px;'></div>
+
 ### Troll Berserker
 To survive a tribe, one must be powerful. For a troll, being powerful means being stronger than one's enemy.
 
@@ -7201,8 +7203,6 @@ As cunning as they are intelligent, the wield great magical prowess in their pra
 These enormous trolls tower above the rest of their kin, as they wield their immense strength to hurl boulders and enemies alike through the air, as well as to pummel them into the ground with almost bestial ferocity.
 
 There is no definitive way to say what stands behind a dire troll's immense stature. Some are elevated through magical or alchemical means, while others have simply evolved to stand larger than life. Whatever the case might be, they are revered as proud and honorable souls among the trolls.
-
-<br>
 
 > ##### Variant: Dire Troll Caster
 > Some dire trolls possess innate magical powers in their blood. These trolls are known as *Warcasters*, or *Warmothers* if the troll in question is female. They have a Wisdom of 17 (+3), and gain the Innate Spellcasting trait as follows.
@@ -7253,9 +7253,10 @@ ___
 <div class="pageLetter">T</div>
 <div class='footnote'>TROLLS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:-100px; right:-100px; width:600px'>
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:500px; right:0px; width:700px; transform:rotate(40deg)'>
-<img src="https://www.gmbinder.com/images/h0bOYtd.png" style="position:absolute;top:-38px; right:-85px; width:530px; transform:rotate(-6deg);">
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:-100px; right:-110px; width:600px'>
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot' style='top:500px; right:-30px; width:700px; transform:rotate(40deg)'>
+<img src="https://www.gmbinder.com/images/MaxlH3h.png" style="position:absolute; top:35px; right:400px; width:px; filter:drop-shadow(1px 1px 4px rgba(0,0,0,0.42)); transform:rotate(-2deg)">
+<img src="https://www.gmbinder.com/images/h0bOYtd.png" style="position:absolute;top:-38px; right:-90px; width:530px; transform:rotate(-6deg);">
 
 \pagebreakNum
 
