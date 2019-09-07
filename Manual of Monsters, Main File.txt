@@ -4164,6 +4164,7 @@ ___
 <div class="pageLetter">L</div>
 <div class='footnote'>LASHERS </div>
 <img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/a81VyUK.png' class='inkblot inkblot-green' style='top:200px; right:100px; width:700px'>
 
 \pagebreakNum
 
@@ -5127,6 +5128,8 @@ Although the two heads are not always in agreement, they are paramount to the og
 ### Ogre Lord
 Ogre lords are massive, hulking figures, towering above their clan in both size and status. While they have no aptitude for magic and little thought for intricate plans, their imposing presence precedes them well enough to keep the rest of their clan in check.
 
+Many might try to challenge an ogre lord's power over the course of its heavy-handed rule, though for most of them this confrontation doesn't end well.
+
 \columnbreak
 
 <div style='margin-top:600px;'></div>
@@ -5164,10 +5167,7 @@ ___
 
 \pagebreakNum
 
-&nbsp;&nbsp;&nbsp; Many might try to challenge an ogre lord's power over the course of its heavy-handed rule, though for most of them this confrontation doesn't end well.
-
 ### Ogre Names and Languages
-
 Historically, ogres have long held their own tongue, though their dispersion across Azeroth have turned many clans to broken forms of Common -- and sometimes Orcish.
 
 Ogre is a very coarse language, largely consisting of short, throaty sounds. Its written form has long been kept solely to the upper echelons of ogre society.
@@ -5322,7 +5322,7 @@ Other times, it may force them to fight for their claim or move on to somewhere 
 
 \pagebreakNum
 
-***Corruptible Minds.*** Owlbeasts are, as with most wild beings on Azeroth, susceptible to corruption. Whether by fel energies or nightmarish whispers, it only takes so much to tip the scales and turn these docile beings into ferocious monsters. Such flocks are eventually sought out by druids seeking to intervene, though there is no telling what chaos they might have wrought in the meantime.
+&nbsp;&nbsp;&nbsp; ***Corruptible Minds.*** Owlbeasts are, as with most wild beings on Azeroth, susceptible to corruption. Whether by fel energies or nightmarish whispers, it only takes so much to tip the scales and turn these docile beings into ferocious monsters. Such flocks are eventually sought out by druids seeking to intervene, though there is no telling what chaos they might have wrought in the meantime.
 
 ### Moonkin
 Though all owlbeasts are children of Elune, few keep their blessing closer to heart than the graceful moonkin. The two may seem near indistinguishable at first, but the moonkin's heightened mind leaves it more than capable of coherent dialogue and rational thought.
