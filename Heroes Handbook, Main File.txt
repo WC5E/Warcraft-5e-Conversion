@@ -163,45 +163,149 @@
        right      : 12px;
    }
 
+/* FRONT PAGE STYLES */
+
+  .cover-header-container {
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: 80px;
+    left: 0;
+    right: 0;
+    clear: both;
+  }
+
+  .cover-header-logo {
+    display: block;
+    width: 700px;
+    margin: auto;
+  }
+
+  .cover-header-divider {
+    display: block;
+    width: 580px;
+    margin: -12px auto -6px;
+  }
+
+  .cover-header-title {
+    display: block;
+    width: 700px;
+    margin: auto;
+    color: white;
+    font-family: NodestoCaps,nodesto,sans-serif;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 72px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000, -2px 2px 4px #000, 2px -2px 4px #000, -2px -2px 4px #000;
+  }
+
+  .cover-footer-container {
+    display: block;
+    position: absolute;
+    width: 100%;
+    bottom: 28px;
+    left: 0;
+    right: 0;
+    clear: both;
+  }
+
+  .cover-footer-subtitle,
+  .cover-footer-version {
+    display: block;
+    width: 500px;
+    margin: auto;
+    color: white;
+    font-family: NodestoCaps,nodesto,sans-serif;
+    font-weight: normal;
+    text-align: center;
+    text-shadow: 1px 1px 2px #000, -1px 1px 2px #000, 0px 0px 2px #000;
+  }
+  .cover-footer-subtitle {
+    font-size: 28px;
+    line-height: 28px;
+  }
+  .cover-footer-version {
+    margin-top: 16px;
+    font-size: 20px;
+    line-height: 20px;
+  }
+
 </style>
 
-<div class='cover-header'> <div style='margin-top:115px;'></div> Heroes Handbook </div>
+<div class='cover-header-container'>
+  <img class='cover-header-logo' src='https://www.gmbinder.com/images/0fKd9bC.png' />
+  <img class='cover-header-divider' src='https://www.gmbinder.com/images/SGYtcP2.png' />
+  <span class='cover-header-title'>
+    Heroes Handbook
+  </span>
+</div>
+
 <div class='cover-splotch'></div>
 
+<div class='cover-footer-container'>
+  <span class='cover-footer-subtitle'>
+    Everything a player needs to create 
+    <br />
+    heroic adventurers for the World of Azeroth
+    <br />
+  </span>
+  <span class='cover-footer-version'>
+    Version 3.0 — Feel of Warcraft
+  </span>
+</div>
+
 <style> .phb#p1:after { display:none; } </style>
-<img src='https://www.gmbinder.com/images/IlfdPbF.jpg' style='position:absolute; top:0px; right:-100px; width:1000px' />
+<img src='https://www.gmbinder.com/images/0PdNsAt.jpg' style='position:absolute; top:-80px; right:-500px; width:2000px' />
 <img src='https://www.gmbinder.com/images/3d9m32D.png' style='position:absolute; top:1000px; right:675px; width:100px' />
-<img src='https://www.gmbinder.com/images/KXbAfyN.png' style='position:absolute; top:980px; right:56px; width:700px' />
-<img src='https://www.gmbinder.com/images/0fKd9bC.png' style='position:absolute; top:80px; right:40px; width:700px' />
-<img src='https://www.gmbinder.com/images/SGYtcP2.png' style='position:absolute; top:190px; right:90px; width:580px' />
 
 \pagebreak
 
 ## Credits
-**Lead Designer:** Jih
+*Contributors listed by community usernames.*
+<div style='margin-top:-20px;'></div>
+
+<br> **Lead Designer:** Jih
 <br> **Writing & Editing:** Jih, Tangerine
-<br> **Reddit Names:** Jihia, TangerineThunder
 
-<br> **Additional Contributors:** Prometheus, Reiga, Wyken, <br>&nbsp;&nbsp;&nbsp; ClockWorkTank, 123jrf, ApolloLumina
+<br> **Contributors:** Auvreannia, Tseims
+<br> **Additional Contributors:** Our Discord Community
 
-<br> **Cover Illusrator:** Robert Maldonado
-<br> **Interior Illustrators:** Anastasiya Gafron, Unidcolor, Jerry <br>&nbsp;&nbsp;&nbsp; Mascho, Rogier van de Beek, Tim Gou, Shanton Feng, <br>&nbsp;&nbsp;&nbsp; Peter Lee, Shamanguli, Juhani Jokinen, Nagli, Jimmy Lo, <br>&nbsp;&nbsp;&nbsp; Glenn Rane, Liuhao, Robin Olausson, Nosfer, Jorge <br>&nbsp;&nbsp;&nbsp; Jacinto, Brian Huang, Richard Suwono, PersonalAmi, <br>&nbsp;&nbsp;&nbsp; Bren Rodri, Krysdecker, James Ryman, Alex Garner, <br>&nbsp;&nbsp;&nbsp; Nina Ikävalko, Shuzong, Howard Pak, Dan Scott, Jojo <br>&nbsp;&nbsp;&nbsp; So, Matthew McKeown, Astri Lohne, Jason Wang, Peet <br>&nbsp;&nbsp;&nbsp; Cooper, Wei Wang, Ryan Metcalf, Ina Wong, Tyson <br>&nbsp;&nbsp;&nbsp; Murphy, Jerry Mascho, Aaron Lovett, Phillip Zhang, <br>&nbsp;&nbsp;&nbsp; Kristina Toxicpanda, Dariia Kasimova, Artlon, Dmitry <br>&nbsp;&nbsp;&nbsp; Vernygor, Syncmax, Adel Khanov, Anthony Avon, Lowly <br>&nbsp;&nbsp;&nbsp; Owly, Anna Pazyniuk
+<br> **Cover Illustrator:** Kan Liu
+<br> **Interior Illustrators:** Aaron Lovett, Adel Khanov, Alex 
+<br><span style="margin-left:12px"></span> Garner, Anastasiya Gafron, Anna Pazyniuk, Anthony 
+<br><span style="margin-left:12px"></span> Avon, Artlon, Astri Lohne, Bren Rodri, Brian Huang, Dan 
+<br><span style="margin-left:12px"></span> Scott, Dariia Kasimova, Dmitry Vernygor, Glenn Rane,
+<br><span style="margin-left:12px"></span> Howard Pak, Ina Wong, James Ryman, Jason Wang, Jerry 
+<br><span style="margin-left:12px"></span> Mascho, Jimmy Lo, Jojo So, Jorge Jacinto, Juhani Jokinen,
+<br><span style="margin-left:12px"></span> Katrina Toxicpanda, Krysdecker, Liuhao, Lowly Owly, 
+<br><span style="margin-left:12px"></span> Matthew Mckeown, Nagli, Nina Ikävalko, Nosfer, 
+<br><span style="margin-left:12px"></span> PersonalAmi, Peet Cooper, Peter Lee, Phillip Zhang, 
+<br><span style="margin-left:12px"></span> Richard Suwono, Robin Olausson, Rogier van de Beek, 
+<br><span style="margin-left:12px"></span> Ryan Metcalf, Tim Gou, Shamanguli, Shanton Feng,
+<br><span style="margin-left:12px"></span> Shuzong, Syncmax, Tyson Murphy, Unidcolor, Wei Wang
 
-<br> **Based on the original D&D game created by** 
-<br>&nbsp;&nbsp;&nbsp; E. Gary Gygax and Dave Arneson, as well as <br>&nbsp;&nbsp;&nbsp; Brian Blume, Rob Kuntz, James Ward and Don Kaye.
+<br> **Based on the original D&D game created by**
+<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as Brian
+<br><span style="margin-left:12px"></span> Blume, Rob Kuntz, James Ward and Don Kaye.
 
 <br> **Based on the Warcraft franchise by**
-<br>&nbsp;&nbsp;&nbsp; © Blizzard Entertainment
+<br><span style="margin-left:12px"></span> © Blizzard Entertainment
 
 <br> **Playtesting provided by**
 
 [Roll Need](https://www.twitch.tv/solidjakegg), they run a weekly stream on Twitch using this <br>&nbsp;&nbsp;&nbsp; handbook for their races and classes. Check them out!
 
 <br> **Special thanks to** 
-<br>&nbsp;&nbsp;&nbsp; This entire book was made using GmBinder, it is an <br>&nbsp;&nbsp;&nbsp; amazing tool for creating authentic looking homebrew <br>&nbsp;&nbsp;&nbsp; material for 5th Edition Dungeons and Dragons, and <br>&nbsp;&nbsp;&nbsp; without it this project would've never been considered.
+<br><span style="margin-left:12px"></span> This entire book was made using GM Binder. It is an
+<br><span style="margin-left:12px"></span> amazing tool for creating authentic-looking homebrew
+<br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons. Without
+<br><span style="margin-left:12px"></span> it, this project would've likely never been considered.
 
-<div style='margin-top:105px'></div>
+<div style='margin-top:24px'></div>
 <div style="text-align:Center">
+
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='width:150px' />
 
 ##### [www.GmBinder.com](https://www.gmbinder.com/)
 </div>
@@ -210,38 +314,52 @@
 <div style="text-align:Right"> 
 
 ## Foreword </div>
-We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of Dungeons & Dragons. It is a task that has taken us months to do, and many more to come as we continue to work on this in our spare time, in the hopes of bringing a genuine recreation of Warcraft into a tabletop game.
+We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of D&D. It is a task that has taken us months to do, and it'll likely take many more still. Everyone involved are working this in their spare time, aiming to bring a genuine recreation of *Warcraft* as a D&D 5th Edition tabletop RPG.
 
-This book is made to compliment Dungeons & Dragons 5th edition **Player's Handbook, Dungeon Master's Guide**, and **Monster Manuals**. Using the rules presented in those books, and balanced around being playable in a standard D&D setting without requiring balancing.
+This book is made to compliment official D&D 5th edition books, including the **Player's Handbook, Dungeon Master's Guide**, and **Monster Manual**. It has been built on the framework set by those books, and designed to be brought in as any supplement book would. Without any more work than to just use the material presented.
 
-This books is made in our spare time with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe in a Dungeons & Dragons format. Not for any monetary gain.
+It has been written with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe under D&D 5th Edition rules. Not for any monetary gain.
 
-With each coming update, all changes will be noted in the Changelog--Link is provided below. Likewise we've provided a link to our racial balance shreadsheet, using the rules of Detect Balance by  Eleazzaar.
-
+With each coming update, all changes will be noted in the Changelog — Link is provided below.
+<div style='margin-top:-5px;'></div>
 <div style="text-align:Center"> 
 
-### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A) &nbsp;&nbsp;&nbsp;&nbsp; [Race Balance](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
+#### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A)
+</div>
+
+<br> **Our Other Projects**
+<br><span style="margin-left:12px"></span> Did you know that we have a Manual of Monsters as well
+<br><span style="margin-left:12px"></span> to go alongside the Heroes Handbook? A fully fleshed-out
+<br><span style="margin-left:12px"></span> Dungeon Master's book, bringing many of monsters with
+<br><span style="margin-left:12px"></span> it from the World of Warcraft! 
+<div style='margin-top:-5px;'></div>
+<div style="text-align:Center"> 
+
+#### [Project Folder](https://drive.google.com/open?id=1kVoAMR8TiO3CXFYcigFN2B6zk62xcnv9)
 </div>
 
 <br> **Want to help grow a community?**
-
-We're a relatively small group working together on this, <br>&nbsp;&nbsp;&nbsp; and as such our ability to playtest all of this is limited in <br>&nbsp;&nbsp;&nbsp; scope. If you want to help better this book, improve and <br>&nbsp;&nbsp;&nbsp; balance what's inside it, suggest changes, or talk with <br>&nbsp;&nbsp;&nbsp; others using this to create a Warcraft campaign. Then <br>&nbsp;&nbsp;&nbsp; head over to the [r/wc5e](https://old.reddit.com/r/wc5e/), a subreddit dedicated to this <br>&nbsp;&nbsp;&nbsp; handbook and project! <br>&nbsp;&nbsp;&nbsp; We also have a discord that you can join if you want to <br>&nbsp;&nbsp;&nbsp; come talk with us and others using this handbook for <br>&nbsp;&nbsp;&nbsp; their campaigns!
-
+<br><span style="margin-left:12px"></span> We're a relatively small group working together on this, 
+<br><span style="margin-left:12px"></span> and as such our ability to playtest all of it is limited. 
+<br><span style="margin-left:12px"></span> If you want to help the project out and give feedback,
+<br><span style="margin-left:12px"></span> suggest changes and new features for the books, or 
+<br><span style="margin-left:12px"></span> simply just join our growing Warcraft RPG community, 
+<br><span style="margin-left:12px"></span> we have both an active discord server and a subreddit 
+<br><span style="margin-left:12px"></span> dedicated to this project! — Links below!
+<div style='margin-top:-5px;'></div>
 <div style="text-align:Center"> 
 
-### [Discord](https://discord.gg/dKMJmmD)
+#### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:48px"></span> [Subreddit](https://old.reddit.com/r/wc5e/)
 </div>
 
 <div style='margin-top:70px'></div>
 <div class='wide'> 
 
 #### Legal Stuff
-DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers League, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.
-<br> ©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK.
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
+<br> This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.
+<br> All other original material in this work is copyright 2019 by [your legal name or company name] and published under the Community Content Agreement for Dungeon Masters Guild.
 </div>
-
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:665px; right:498px; width:150px' />
 
 \pagebreakNum
 
@@ -308,8 +426,6 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 
 \columnbreak
 
-<div style='margin-top:-25px;'></div>
-
 - ### [<span>142</span><span>Part III: Variant Rules                         </span>](#p142)
  - [<span>143</span><span>Hero Points                                        </span>](#p143)
  - [<span>144</span><span>Mana                                               </span>](#p144)
@@ -321,7 +437,6 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampe
 </div>
 
 <style> .phb#p3:after { display:none; } </style>
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 <img src='https://www.gmbinder.com/images/XJrqmye.png' style='position:absolute; top:290px; right:-750px; width:1450px;transform:scalex(-1)' />
 
 \pagebreakNum
