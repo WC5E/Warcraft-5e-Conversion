@@ -96,6 +96,73 @@
     filter: hue-rotate(120deg)
   }
 
+/* PAGE STYLE */
+
+   /* Background */
+     .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
+     .phb{ background-size: cover }
+
+   /* Notes */
+     .phb section blockquote {background-color: #f6e5d4}
+     .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
+
+   /* Tables */
+     table tr:nth-child(odd) td {background-color: #cccccc}
+
+   /* Footer */
+     .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
+     .phb .footnote {color: rgba(0, 0, 0, 0.5)}
+     .phb:nth-child(odd):after{ 
+       content          : '';
+       position         : absolute;
+       bottom           : -7px;
+       left             : 10px;
+       z-index          : -1;
+       height           : 336px;
+       width            : 100%;
+       background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
+       background-size  : cover;
+   }
+
+   .phb:nth-child(even):after{ 
+       content          : '';
+       position         : absolute;
+       bottom           : -7px;
+       left             : -10px;
+       z-index          : -1;
+       height           : 336px;
+       width            : 100%;
+       background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
+       background-size  : cover;
+   }
+
+   /* Page Number */
+   .phb .pageNumber{
+       position   : absolute;
+       bottom     : 30px;
+       width      : 50px;
+       text-align : center;
+   }
+   .phb:nth-child(even) .pageNumber{
+       left      : 12px;
+   }
+   .phb:nth-child(odd) .pageNumber{
+       right      : 12px;
+   }
+
+   .phb .pageNumber.auto{
+       position   : absolute;
+       bottom     : 41px;
+       width      : 50px;
+       text-align : center;
+   }
+   .phb:nth-child(even) .pageNumber.auto{
+       left      : 12px;
+   }
+   .phb:nth-child(odd) .pageNumber.auto{
+       right      : 12px;
+   }
+
 </style>
 
 <div class='cover-header'> <div style='margin-top:115px;'></div> Heroes Handbook </div>
