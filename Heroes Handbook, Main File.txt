@@ -1,108 +1,11 @@
-<style>
-/* GLOBAL FORMATTING  */
-
-  /* Resize page to international A4 */
-  .phb {
-    width: 210mm;
-    height: 296.8mm;
-  }
-  .phb:after { content: ""; }
-
-
-/* TABLE OF CONTENTS  */
-
-  /* toc specifically wants black text. This resets the headers*/
-  .toc a {
-    color: inherit !important;
-  }
-  /* Allow dot leaders to fill remaining space but not overlap */
-  .toc li span:nth-child(2) {
-    width: auto;
-    overflow: hidden;
-    white-space: nowrap;
-    display: block;
-  }
-  .toc li span:nth-child(2):after {
-    font-family: BookSanity;
-    font-size: 0.317cm;
-    font-weight: normal;
-    color: black;
-    content:
-      " ........................................"
-      "........................................."
-      ".........................................";
-    }
-
-  /* Style TOC page numbers*/
-  .toc li span:first-child {
-    float: right;
-    font-family: BookSanity;
-    font-size: 0.317cm;
-    font-weight: normal;
-    color: black;
-    margin-left: 1px;
-  }
-
-  /* Adjust TOC H3 styles */
-  .toc li h3 span:nth-child(2):after {
-  	content: " ";
-  }
-  .toc li h3 {
-    margin-bottom: 4px !important;
-    margin-top: 10px !important;
-    line-height: initial !important;
-  }
-  .toc li h3 span:first-child {
-  	line-height: 1.8em !important;
-  }
-
-  /* Reduce TOC list indentation*/
-  .toc ul ul {
-  	margin-left: 10px !important;
-  }
-  .toc>ul>li {
-    margin-bottom: initial !important;
-  }
-
-
-/* TABLES AND BLOCKS */
-
-  /* Clear internal padding and add gap above for green note blocks*/
-  .phb blockquote {
-    padding-left: 0px;
-    padding-right: 0px;
-  }
-  .phb blockquote { margin-top: 1em;
-  }
-
-
-/* INK BLOT STYLES */
-
-  /* Root style for inkblots. Use alone, or together with
-  one of the inkb lotstyle classes below. Essentially:
-  <img url='{url}' class='inkblot inkblot-blue' />
-  */
-  .inkblot {
-    position: absolute;
-    mix-blend-mode: multiply;
-    opacity: 0.6;
-  }
-
-  .inkblot-blue {
-    filter: hue-rotate(190deg) saturate(120%)
-  }
-
-  .inkblot-green {
-    filter: hue-rotate(120deg)
-  }
-
-</style>
+<style> .phb{width : 210mm;height : 296.8mm;} .phb:after {content: "";} </style>
+<style> .phb blockquote { margin-top: 1em; } </style>
 
 <div class='cover-header'> <div style='margin-top:115px;'></div> Heroes Handbook </div>
 <div class='cover-splotch'></div>
 
 <style> .phb#p1:after { display:none; } </style>
-<img src='https://www.gmbinder.com/images/0PdNsAt.jpg' style='position:absolute; top:-80px; right:-500px; width:2000px' />
+<img src='https://www.gmbinder.com/images/IlfdPbF.jpg' style='position:absolute; top:0px; right:-100px; width:1000px' />
 <img src='https://www.gmbinder.com/images/3d9m32D.png' style='position:absolute; top:1000px; right:675px; width:100px' />
 <img src='https://www.gmbinder.com/images/KXbAfyN.png' style='position:absolute; top:980px; right:56px; width:700px' />
 <img src='https://www.gmbinder.com/images/0fKd9bC.png' style='position:absolute; top:80px; right:40px; width:700px' />
@@ -111,49 +14,30 @@
 \pagebreak
 
 ## Credits
-*Contributors listed by community usernames.*
-<div style='margin-top:-20px;'></div>
-
-<br> **Lead Designer:** Jih
+**Lead Designer:** Jih
 <br> **Writing & Editing:** Jih, Tangerine
+<br> **Reddit Names:** Jihia, TangerineThunder
 
-<br> **Additional Contributors:** Our Discord Community
+<br> **Additional Contributors:** Prometheus, Reiga, Wyken, <br>&nbsp;&nbsp;&nbsp; ClockWorkTank, 123jrf, ApolloLumina
 
-<br> **Cover Illustrator:** Kan Liu
-<br> **Interior Illustrators:** Aaron Lovett, Adel Khanov, Alex 
-<br><span style="margin-left:12px"></span> Garner, Anastasiya Gafron, Anna Pazyniuk, Anthony 
-<br><span style="margin-left:12px"></span> Avon, Artlon, Astri Lohne, Bren Rodri, Brian Huang, Dan 
-<br><span style="margin-left:12px"></span> Scott, Dariia Kasimova, Dmitry Vernygor, Glenn Rane,
-<br><span style="margin-left:12px"></span> Howard Pak, Ina Wong, James Ryman, Jason Wang, Jerry 
-<br><span style="margin-left:12px"></span> Mascho, Jimmy Lo, Jojo So, Jorge Jacinto, Juhani Jokinen,
-<br><span style="margin-left:12px"></span> Katrina Toxicpanda, Krysdecker, Liuhao, Lowly Owly, 
-<br><span style="margin-left:12px"></span> Matthew Mckeown, Nagli, Nina Ikävalko, Nosfer, 
-<br><span style="margin-left:12px"></span> PersonalAmi, Peet Cooper, Peter Lee, Phillip Zhang, 
-<br><span style="margin-left:12px"></span> Richard Suwono, Robin Olausson, Rogier van de Beek, 
-<br><span style="margin-left:12px"></span> Ryan Metcalf, Tim Gou, Shamanguli, Shanton Feng,
-<br><span style="margin-left:12px"></span> Shuzong, Syncmax, Tyson Murphy, Unidcolor, Wei Wang
+<br> **Cover Illusrator:** Robert Maldonado
+<br> **Interior Illustrators:** Anastasiya Gafron, Unidcolor, Jerry <br>&nbsp;&nbsp;&nbsp; Mascho, Rogier van de Beek, Tim Gou, Shanton Feng, <br>&nbsp;&nbsp;&nbsp; Peter Lee, Shamanguli, Juhani Jokinen, Nagli, Jimmy Lo, <br>&nbsp;&nbsp;&nbsp; Glenn Rane, Liuhao, Robin Olausson, Nosfer, Jorge <br>&nbsp;&nbsp;&nbsp; Jacinto, Brian Huang, Richard Suwono, PersonalAmi, <br>&nbsp;&nbsp;&nbsp; Bren Rodri, Krysdecker, James Ryman, Alex Garner, <br>&nbsp;&nbsp;&nbsp; Nina Ikävalko, Shuzong, Howard Pak, Dan Scott, Jojo <br>&nbsp;&nbsp;&nbsp; So, Matthew McKeown, Astri Lohne, Jason Wang, Peet <br>&nbsp;&nbsp;&nbsp; Cooper, Wei Wang, Ryan Metcalf, Ina Wong, Tyson <br>&nbsp;&nbsp;&nbsp; Murphy, Jerry Mascho, Aaron Lovett, Phillip Zhang, <br>&nbsp;&nbsp;&nbsp; Kristina Toxicpanda, Dariia Kasimova, Artlon, Dmitry <br>&nbsp;&nbsp;&nbsp; Vernygor, Syncmax, Adel Khanov, Anthony Avon, Lowly <br>&nbsp;&nbsp;&nbsp; Owly, Anna Pazyniuk
 
-<br> **Based on the original D&D game created by**
-<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as Brian
-<br><span style="margin-left:12px"></span> Blume, Rob Kuntz, James Ward and Don Kaye.
+<br> **Based on the original D&D game created by** 
+<br>&nbsp;&nbsp;&nbsp; E. Gary Gygax and Dave Arneson, as well as <br>&nbsp;&nbsp;&nbsp; Brian Blume, Rob Kuntz, James Ward and Don Kaye.
 
 <br> **Based on the Warcraft franchise by**
-<br><span style="margin-left:12px"></span> © Blizzard Entertainment
+<br>&nbsp;&nbsp;&nbsp; © Blizzard Entertainment
 
 <br> **Playtesting provided by**
 
 [Roll Need](https://www.twitch.tv/solidjakegg), they run a weekly stream on Twitch using this <br>&nbsp;&nbsp;&nbsp; handbook for their races and classes. Check them out!
 
 <br> **Special thanks to** 
-<br><span style="margin-left:12px"></span> This entire book was made using GM Binder. It is an
-<br><span style="margin-left:12px"></span> amazing tool for creating authentic-looking homebrew
-<br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons. Without
-<br><span style="margin-left:12px"></span> it, this project would've likely never been considered.
+<br>&nbsp;&nbsp;&nbsp; This entire book was made using GmBinder, it is an <br>&nbsp;&nbsp;&nbsp; amazing tool for creating authentic looking homebrew <br>&nbsp;&nbsp;&nbsp; material for 5th Edition Dungeons and Dragons, and <br>&nbsp;&nbsp;&nbsp; without it this project would've never been considered.
 
-<div style='margin-top:24px'></div>
+<div style='margin-top:105px'></div>
 <div style="text-align:Center">
-
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='width:150px' />
 
 ##### [www.GmBinder.com](https://www.gmbinder.com/)
 </div>
@@ -162,58 +46,79 @@
 <div style="text-align:Right"> 
 
 ## Foreword </div>
-We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of D&D. It is a task that has taken us months to do, and it'll likely take many more still. Everyone involved are working this in their spare time, aiming to bring a genuine recreation of *Warcraft* as a D&D 5th Edition tabletop RPG.
+We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of Dungeons & Dragons. It is a task that has taken us months to do, and many more to come as we continue to work on this in our spare time, in the hopes of bringing a genuine recreation of Warcraft into a tabletop game.
 
-This book is made to compliment official D&D 5th edition books, including the **Player's Handbook, Dungeon Master's Guide**, and **Monster Manual**. It has been built on the framework set by those books, and designed to be brought in as any supplement book would. Without any more work than to just use the material presented.
+This book is made to compliment Dungeons & Dragons 5th edition **Player's Handbook, Dungeon Master's Guide**, and **Monster Manuals**. Using the rules presented in those books, and balanced around being playable in a standard D&D setting without requiring balancing.
 
-It has been written with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe under D&D 5th Edition rules. Not for any monetary gain.
+This books is made in our spare time with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe in a Dungeons & Dragons format. Not for any monetary gain.
 
-With each coming update, all changes will be noted in the Changelog — Link is provided below.
-<div style='margin-top:-5px;'></div>
+With each coming update, all changes will be noted in the Changelog--Link is provided below. Likewise we've provided a link to our racial balance shreadsheet, using the rules of Detect Balance by  Eleazzaar.
+
 <div style="text-align:Center"> 
 
-#### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A)
-</div>
-
-<br> **Manual of Monsters**
-<br><span style="margin-left:12px"></span> Did you know that we have a Manual of Monsters as well
-<br><span style="margin-left:12px"></span> to go alongside the Heroes Handbook? A fully fleshed-out
-<br><span style="margin-left:12px"></span> Dungeon Master's book, bringing a many of monsters 
-<br><span style="margin-left:12px"></span> with it from the World of Warcraft! This book is still a 
-<br><span style="margin-left:12px"></span> *Work in Progress*, with more monsters being planned for
-<br><span style="margin-left:12px"></span> future updates of it!
-<div style='margin-top:-5px;'></div>
-<div style="text-align:Center"> 
-
-#### [Manual of Monsters](https://www.gmbinder.com/share/-LHmhCbrkzK6sNhE_t40)
+### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A) &nbsp;&nbsp;&nbsp;&nbsp; [Race Balance](https://drive.google.com/open?id=1S-XKXMaiLtRLpeIg9t50PvvAfEajpq72MxjTqa9ZbaI)
 </div>
 
 <br> **Want to help grow a community?**
-<br><span style="margin-left:12px"></span> We're a relatively small group working together on this, 
-<br><span style="margin-left:12px"></span> and as such our ability to playtest all of it is limited. 
-<br><span style="margin-left:12px"></span> If you want to help the project out and give feedback,
-<br><span style="margin-left:12px"></span> suggest changes and new features for the books, or 
-<br><span style="margin-left:12px"></span> simply just join our growing Warcraft RPG community, 
-<br><span style="margin-left:12px"></span> we have both an active discord server and a subreddit 
-<br><span style="margin-left:12px"></span> dedicated to this project! — Links below!
-<div style='margin-top:-5px;'></div>
+
+We're a relatively small group working together on this, <br>&nbsp;&nbsp;&nbsp; and as such our ability to playtest all of this is limited in <br>&nbsp;&nbsp;&nbsp; scope. If you want to help better this book, improve and <br>&nbsp;&nbsp;&nbsp; balance what's inside it, suggest changes, or talk with <br>&nbsp;&nbsp;&nbsp; others using this to create a Warcraft campaign. Then <br>&nbsp;&nbsp;&nbsp; head over to the [r/wc5e](https://old.reddit.com/r/wc5e/), a subreddit dedicated to this <br>&nbsp;&nbsp;&nbsp; handbook and project! <br>&nbsp;&nbsp;&nbsp; We also have a discord that you can join if you want to <br>&nbsp;&nbsp;&nbsp; come talk with us and others using this handbook for <br>&nbsp;&nbsp;&nbsp; their campaigns!
+
 <div style="text-align:Center"> 
 
-#### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:48px"></span> [Subreddit](https://old.reddit.com/r/wc5e/)
+### [Discord](https://discord.gg/dKMJmmD)
 </div>
 
 <div style='margin-top:70px'></div>
 <div class='wide'> 
 
 #### Legal Stuff
-DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
-<br> This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.
-<br> All other original material in this work is copyright 2019 by [your legal name or company name] and published under the Community Content Agreement for Dungeon Masters Guild.
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers League, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.
+<br> ©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK.
 </div>
 
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='position:absolute; top:665px; right:498px; width:150px' />
 
 \pagebreakNum
+
+<style>
+  .toc a {
+    color: inherit !important;	/*toc specifically wants black text. This resets the headers*/}
+  .toc li span:nth-child(2){	/*Allow dot leaders to fill remaining space but not overlap*/
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap; 
+    display: block;}
+  .toc li span:nth-child(2):after{
+    font-family		: BookSanity;	/*Remove any header styles from dot leaders*/
+     font-size   	: 0.317cm;
+    font-weight		: normal;
+    color			: black;
+    content:
+      " ........................................"
+      "........................................."
+      "........................................."; }      
+  .toc li span:first-child{
+    float: right;
+    font-family		: BookSanity;	/*Remove any header styles from page numbers*/
+    font-size   	: 0.317cm;
+    font-weight		: normal;
+    color			: black;
+    margin-left		: 1px;	/*Leaves a small space between page numbers and dot leaders*/} 
+/*Special cases for headings*/    
+  .toc li h3 span:nth-child(2):after{
+  	content: " ";						/*Remove dot leaders on h3*/}  
+  .toc li h3 {
+    margin-bottom: 4px !important;		/*Special spacing for h3*/
+    margin-top: 10px !important;
+    line-height: initial !important;	/*For some reason Multi-line h3 line spacing changed*/}  
+  .toc li h3 span:first-child{
+  	line-height: 1.8em !important;  	/*Line page numbers up with Multi-line h3 better*/}  
+  .toc ul ul {
+  	margin-left: 10px !important;		/*Original lists intented too much*/}  
+  .toc>ul>li {
+    margin-bottom: initial !important;	/*margin for list items needs to be removed or 0*/}
+</style>
 
 <div style="text-align: Center">
 
@@ -277,6 +182,8 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
      - [<span>134</span><span>Spell Descriptions                             </span>](#p134)
 
 \columnbreak
+
+<div style='margin-top:-25px;'></div>
 
 - ### [<span>142</span><span>Part III: Variant Rules                         </span>](#p142)
  - [<span>143</span><span>Hero Points                                        </span>](#p143)
@@ -2156,7 +2063,7 @@ Ten classes — listed in the Classes table — define the average spectrum of h
 | &nbsp;Shaman  |A wielder of elements, calling them to his aid, and bending them to his will.                   | d8 ||Wisdom      || Strength &<br>Wisdom|Light and medium armor, shields, simple and martial weapons|
 | &nbsp;Warlock |A wielder of void and fel magic, gaining power through a secret grimoire.                       | d8 ||Intelligence|| Intelligence & Wisdom|Simple weapons, longswords, rapiers, scimitars, shortswords|
 | &nbsp;Warrior |An exceptional fighter, skilled with a variety of weapons and armor.                            | d10||Strength    || Strength &<br>Constitution|All armor, shields, simple and martial weapons, firearms|
-| &nbsp;Death <br>&nbsp;Knight |A knight of undeath, resurrected by dark powers, wielding sword and magic alike. | d10||Strength or Charisma|| Strength|All armor, simple and martial weapons|
+| &nbsp;Death <br>&nbsp;Knight |A knight of undeath, resurrected by dark powers, wielding sword and magic alike. | d8 ||Strength or Charisma|| Strength|All armor, simple and martial weapons|
 | &nbsp;Demon <br>&nbsp;Hunter |A fighter infused with fel, made for the sole purpose of destryong demons.       | d6 ||Dexterity   || Dexterity|Simple and martial weapons, warglaives|
 </div>
 
@@ -2244,7 +2151,7 @@ As a druid, you gain the following class features.
 ___
 - **Hit Dice:** 1d8 per druid level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
+- **Hit Points at Higher Levels:** 1d8 + your Constitution modifier per druid level after 1st
 
 #### Proficiencies
 ___
@@ -2670,7 +2577,7 @@ As a hunter, you gain the following class features.
 ___
 - **Hit Dice:** 1d10 per hunter level
 - **Hit Points at 1st Level:** 10 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per hunter level after 1st
+- **Hit Points at Higher Levels:** 1d10 + your Constitution modifier per hunter level after 1st
 
 #### Proficiencies
 ___
@@ -3016,7 +2923,7 @@ As a mage, you gain the following class features.
 ___
 - **Hit Dice:** 1d6 per mage level
 - **Hit Points at 1st Level:** 6 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per mage level after 1st
+- **Hit Points at Higher Levels:** 1d6 + your Constitution modifier per mage level after 1st
 
 #### Proficiencies
 ___
@@ -3371,7 +3278,7 @@ As you make your monk character, think about your connection to the monastery wh
 Consider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Arc you eager to return to your home? As a result of the structured life of a monastic community and the discipline required to harness chi, monks are almost always lawful in alignment.
 
 #### Quick Build
-You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom.
+You can make a monk quickly by following these sugges-tions. First, make Dexterity your highest ability score, followed by Wisdom. (Mistweaving monks make their Wisdom higher than Dexterity).
 
 \columnbreak
 
@@ -3382,7 +3289,7 @@ As a monk, you gain the following class features.
 ___
 - **Hit Dice:** 1d8 per monk level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
+- **Hit Points at Higher Levels:** 1d8 + your Constitution modifier per monk level after 1st
 
 #### Proficiencies
 ___
@@ -3420,7 +3327,7 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 ### Chi
 Starting at 2nd level, your training allows you to harness the mystic energy of chi. Your access to this energy is represented by a number of chi points. Your monk level determines the number of points you have, as shown in the Chi Points column of the Monk table.
 
-You can spend these points to fuel various chi features. You start knowing four such features: Fists of Fury, Elusive Dance, Step of the Wind, and Effuse. You learn more chi features as you gain levels in this class.
+You can spend these points to fuel various chi features. You start knowing four such features: Flurry of Blows, Patient Defense, Step of the Wind, and Surging Mist. You learn more chi features as you gain levels in this class.
 
 When you spend a chi point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended chi back into yourself. You must spend 30 minutes of the rest meditating to regain your chi points.
 
@@ -3672,7 +3579,7 @@ As a paladin, you gain the following class features.
 ___
 - **Hit Dice:** 1d10 per paladin level
 - **Hit Points at 1st Level:** 10 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per paladin level after 1st
+- **Hit Points at Higher Levels:** 1d10 + your Constitution modifier per paladin level after 1st
 
 #### Proficiencies
 ___
@@ -4036,13 +3943,13 @@ As a priest, you gain the following class features.
 ___
 - **Hit Dice:** 1d6 per priest level
 - **Hit Points at 1st Level:** 6 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per priest level after 1st
+- **Hit Points at Higher Levels:** 1d6 + your Constitution modifier per priest level after 1st
 
 #### Proficiencies
 ___
 - **Armor:** None
 - **Weapons:** All simple weapons
-- **Tools:** Herbalism kit
+- **Tools:** Healer's Kit
 ___
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
@@ -4051,7 +3958,7 @@ ___
 You start with the following equipment, in addition to the equipment granted by your background:
  - *(a)* a mace or *(b)* a quarterstaff
  - *(a)* a priest's pack or *(b)* an explorer's pack
- - a holy symbol, a herbalism kit, and two daggers
+ - a holy symbol, and two daggers
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
@@ -4387,7 +4294,7 @@ As a rogue, you gain the following class features.
 ___
 - **Hit Dice:** 1d8 per rogue level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
+- **Hit Points at Higher Levels:** 1d8 + your Constitution modifier per rogue level after 1st
 
 #### Proficiencies
 ___
@@ -4645,7 +4552,7 @@ As a shaman, you gain the following class features.
 ___
 - **Hit Dice:** 1d8 per shaman level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per shaman level after 1st
+- **Hit Points at Higher Levels:** 1d8 + your Constitution modifier per shaman level after 1st
 
 #### Proficiencies
 ___
@@ -5066,7 +4973,7 @@ As a warlock, you gain the following class features.
 ___
 - **Hit Dice:** 1d8 per warlock level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per warlock level after 1st
+- **Hit Points at Higher Levels:** 1d8 + your Constitution modifier per warlock level after 1st
 
 #### Proficiencies
 ___
@@ -5428,7 +5335,7 @@ As a warrior, you gain the following class features.
 ___
 - **Hit Dice:** 1d10 per warrior level
 - **Hit Points at 1st Level:** 10 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per warrior level after 1st
+- **Hit Points at Higher Levels:** 1d10 + your Constitution modifier per warrior level after 1st
 
 #### Proficiencies
 ___
@@ -5794,7 +5701,7 @@ As a death knight, you gain the following class features.
 #### Hit Points
 ___
 - **Hit Dice:** 1d10 per death knight level
-- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per death knight level
+- **Hit Points at Higher Levels:** 1d10 + your Constitution modifier per death knight level
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
@@ -6165,7 +6072,7 @@ As a demon hunter, you gain the following class features.
 #### Hit Points
 ___
 - **Hit Dice:** 1d6 per demon hunter level
-- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per demon hunter level
+- **Hit Points at Higher Levels:** 1d6 + your Constitution modifier per demon hunter level
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/ARDxiQB.jpg' style='position:absolute; top:0px; right:0px; width:1200px' />
@@ -6923,7 +6830,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 |:--------------------|-----:|-----:|-----:|------:|---------:|
 |&nbsp; Copper (cp)   | 1    | 1/10 | 1/50 | 1/100 | 1/1000   |
 |&nbsp; Silver (sp)   | 10   | 1    | 1/5  | 1/10  | 1/100    |
-|&nbsp; Electrum (ep) | 50   | 5    | 1    | 1/2   | 1/20     |
+|&nbsp; Silver (sp)   | 50   | 5    | 1    | 1/2   | 1/20     |
 |&nbsp; Gold (gp)     | 100  | 10   | 2    | 1     | 1/10     |
 |&nbsp; Platinum (pp) | 1000 | 100  | 20   | 10    | 1        |
 
@@ -7640,7 +7547,6 @@ Animal Shapes
 Foresight
 <br> Mass Heal
 <br> Shapechange
-<br> Storm of Vengeance
 <br> True Resurrection
 
 ### Mage Spells
@@ -7812,7 +7718,7 @@ Delayed Blast Fireball
 <br> ✦ Glacial Spike
 <br> Mordenkainen's <br>&nbsp;&nbsp;&nbsp; Magnificent Mansion
 <br> Project Image
-<br> ✦ Pyroblast
+<br> ✦ Pyreblast
 <br> Sequester
 <br> Teleport
 
@@ -8927,9 +8833,9 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-You release a blast of suns wrath against a creature within range. Make a ranged spell attack against the creature. On a hit, the target takes 1d8 radiant damage.
+You release a blast of suns wrath against a creature within range. Make a ranged spell attack against the creature. On a hit, the target takes 1d10 radiant damage.
 
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+This spell's damage increases by 1d10 when you reach 5th level (2d10, 11th level 3d10, and 17th level (4d10).
 
 #### Soulwell
 *2nd-level transmutation (ritual)*
@@ -9512,24 +9418,28 @@ ___
 \pagebreakNum
 
 # Appendix D: Special Tasks
-Prestige classes require special tasks to be completed before a character can enter that class, this Appendix tries to explain the basics of what must be done for someone to become a Death Knight, or Demon Hunter. Please keep in mind that the information presented here is our interpretation of how these tasks could be accomplished and is a mixture of both canon and non-canon lore.
+Prestige classes require special tasks to be completed before a character can enter that class, this Appendix tries to explain the basics of what must be done for someone to become a Death Knight, or Demon Hunter. Bare in mind the information here is a mixture of canon and non-canon lore, and may not reflect how your DM goes about these tasks. 
 
 ## Death Knight Task
 **Complete a Special Task.** To become a death knight you must find the dark simulacrum and perform the ritual presented in it. At which point you will be reawaken as a weak death knight.
 
 #### Finding the Dark Simulacrum
-Finding the *dark simulacrum* may prove an easy task, or an exceptionally hard one to accomplish. It all depends on your DM and when they decide for the book to make its appearance. You might already have it at level 1, an ancient tome passed down through your family, you might stumble upon it the lair of a necromancer, or you might find it in a bookstore — tucked away and gathering dust.
+Finding the dark simulacrum may prove an easy task, or an exceptionally hard one. It all depends on the DM and when they decide to make the item available for you. You might have it from level 1, an heirloom passed down through generations in your family, you may stumble upon it in a warlocks lair, or you might find it in a book store tucked away and gathering dust.
+
+The exact location of the book is a mystery to all but the DM, giving them the ability to implement it in whichever way they see fit.
 
 #### Using the Book
-There are no stages a character need to pass through to become a death knight, it is a transformation that can be accomplished without much preparation if the character knows how the rituals of the simulacrum works. Any character able to read Common can read the content of the book and learn the rituals presented with. This is true even if you are not a spellcaster or don't have any innate magic. The book will still grant you its secrets in due time.
+There is not stages to becoming a death knight as there are with demon hunters, the transformation is much quicker and without as much preparation required. Any character able to read Common is able to read the interior of the book, and gain its benefits if they study it for 48 hours over a period of 6 days or fewer. This is true even if you are not a spellcaster and don't have any innate magic, you will still be granted the secrets of the book.
 
 #### Place of Power
-A place of power could by many things, there is not a list of specifics an area needs to fulfill to be a place of power. It could easily be a witch's workshop, a warlocks demonic alter, or the study of a prominent mage. These are simple places of power that can be found throughout Azeroth, but a place of power does not need to be the retreat of a spell&shy;caster. It can be somewhere where a connection can be drawn for the race or player, like the moonwells or world trees of the world for a night elf or the peaks of Mulgore where tauren commune with the spirits.
+A place of power can be many things, there are not set list of specifics an area has to have to be a place a power, it could easily be a witches workshop, a necromancers demonic alter, or a mages study. These are simple places of power able to be found across Azeroth, but they might not always be available to the player, locked away or hidden. A place of power can be more than a spellcasters workshop. For a night elf it might be the world trees, for an orc the clans communion with the elements, for a human it might be a church to the Holy Light.
+
+A place of power can be more than something magically imbued, or something that has traces of past magic. It can be something icnoic, or with an emotional connection to a race or the player.
 
 #### A Guardian Angel
-To complete the ritual the player calls forth a val'kyr from the realm of shadows, these ascended vrykuls are remark&shy;able and extraordinarily powerful creatures, most of whom serve either the titan keeper Odyn, the Lich King, or the banshee queen Sylvanas. The summoned val'kyr serves no master and exists only through the simulacrum. Should the book be destroyed the val'kyr will vanquish for all eternity.
+To complete the ritual the player must call forth a val'kyr from the realm of shadows, these ascended vrykuls are remarkable and extraordinarily powerful creatures, most of whom serve either the titan keeper Odyn or the banshee queen Sylvanas. The called val'kul serves no master, and exists only through the book, should it be destroyed she is bound to the shadow realm for eternity.
 
-The val'kyr is of *true neutral* alignment, and uses the **planetar** stat block. She attacks only in self defense.
+The val'kyr's alignment is neutral, and it uses the **deva** statblock, attacking only in self defense.
 
 \columnbreak
 
@@ -9537,9 +9447,7 @@ The val'kyr is of *true neutral* alignment, and uses the **planetar** stat block
 *Wondrous item, rare*
 <div style='margin-top:-4px;'></div>
 
-This dark brown tome is clad with a silver edge and engraved with a runic symbol on its cover. If you spend 48 hours over a period of 6 days or fewer studying the book's content and practicing its guidelines, you learn the *Alter of Power*, *Runeblade*, and *Summon Val'kyr* spells as well as how to perform a ritual with them to gain the power of a death knight. These spells do not require a spell slot and can each be cast once per long rest.
-
-Should you be successful in performing the rituals within and gain the powers of a death knight, the tome loses its magic and any creature able to perform the rituals within lose all memories of how the spells are performed.
+This dark brown tome clad with a silver edge and a runic engraving on its front cover. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, you learn the spells *Runeblade*, *Altar of Power*, and *Summon Val'kyr* as well as how to per-form a ritual with them to gain death knights power, these spells do not take up spell slots but can only be cast once per long rest each. Once the ritual has been done, you lose all memories of these spells. Then the tome loses its magic, but regains it in a year.
 
 #### Altar of Power
 *Simulacrum necromancy*
@@ -9549,7 +9457,7 @@ ___
 - **Components:** V, S
 - **Duration:** 1 hour
 ___
-You touch a place of power, filling it with necrotic energy. Until the spells ends, the place of power is desecrated and able to function as an alter for the sacrificial ritual needed to gain the powers of a death knight.
+You touch a place of power, filling it with necrotic energy. Until the spells ends, the place of power is desecrated and able to function as an alter able to be used in the sacrificial ritual to gain the powers of the death knights.
 
 #### Runeblade
 *Simulacrum enchantment*
@@ -9559,7 +9467,7 @@ ___
 - **Components:** V, S
 - **Duration:** 10 hours
 ___
-You touch a weapon, imbuing it with runes. Until the spell ends, the weapon is considered a magical weapon and is able to be used in the sacrificial ritual needed to gain the powers of a death knight.
+You touch a nonmagical weapon, imbuing it with runes that runs along its edge. Until the spell ends, that weapon be-comes a magical weapon able to be used in the sacrificial ritual to gain the powers of the death knights.
 
 #### Summon Val'kyr
 *Simulacrum conjuration*
@@ -9569,11 +9477,13 @@ ___
 - **Components:** V, S
 - **Duration:** 1 hour
 ___
-You call forth the val'kyr from the shadowlands in an empty space within range. The val'kyr stays for 1 hour before dissipating into the shadows. The summoned val'kyr is neutral to you and your companions and does not obey any commands you might give it. The val'kyr is able to sense the presence of a magically imbued  runeblade, and a desecrated alter of power.
+You call forth a val'kyr from the shadow realm in an un-occupied space that you can see within range. The val'kyr stays for 1 hour before disappearing again. The summoned val'kyr is neutral to you and your companions, and does not obey any commands you might give it. But is able to sense the presence of a magically imbued runeblade, and a desecrated altar of power.
 
-If the val'kur witnesses a character sacrifice themselves on the alter with the runeblade, the val'kyr uses 10 minutes to cast a unique *resurrection* spell, bringing the character back to life and granting them 1 level in the Death Knight class. The val'kyr and simulacrum then vanishes, and any character who knew how to cast the rituals granted by it loses all memory of how the rituals are performed.
+If the val'kyr is witness to player sacrificing themselves on an altar of power using the runeblade, the val'kyr uses 10 minutes to cast a unique version of *resurrection*, bring-ing the player back and granting them a level in the death knight class. The player gains none of the penalties nor-mally granted by players brought back using *resurrection.*
 
-If the val'kyr is unable to sense the presence of either the imbued runeblade or a desecrated altar of power, it returns to the shadowlands once the spell ends, leaving behind the book and the memories of how to cast the spells within.
+If the val'kyr resurrects a player, the val'kyr and dark simulacrum vanishes, and anyone who knew how to cast the spells granted by the dark simulacrum loses all memory of how the spells are performed.
+
+Once spell ends, the val'kyr vanishes leaving behind the dark simulacrum and the memories of how to cast the spells within.
 
 <div class='footnote'>APPENDIX D | SPECIAL TASKS </div>
 <img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
