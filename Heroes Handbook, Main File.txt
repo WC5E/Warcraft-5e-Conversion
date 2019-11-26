@@ -4480,39 +4480,39 @@ Rogues devote as much effort to mastering the use of a variety of skills as they
 When it comes to combat, rogues prioritize cunning over brute strength. A rogue would rather make one precise strike, placing it exactly where the attack will hurt the target most, than wear an opponent down with a barrage of attacks. Rogues have an almost supernatural knack for avoiding danger, and a few learn magical tricks to supplement their other abilities.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/XHxM0Dm.jpg' style='position:absolute; top:0px; right:0px; width:800px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-450px; right:-200px; width:1500px;transform:rotate(-25deg' />
+<img src='https://www.gmbinder.com/images/XHxM0Dm.jpg' style='position:absolute; top:0px; right:0px; width:820px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/pbSeYXZ.png' style='position:absolute; top:-40px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/so5kn8u.png' style='position:absolute; top:80px; right:250px; width:600px;transform:scalex(-1)' />
 
 \pagebreakNum
 
-<div style='margin-top:6px'></div>
+<div style='margin-top:40px'></div>
+
 <div class='classTable'>
 
 ##### The Rogue
-|Level|&nbsp;| Proficiency<br>Bonus |&nbsp;| Sneak<br>Attack |&nbsp;| Features |
-|:---:|:-|:--:|:-|:---:|:-|:---------------------------------------------------|
-| 1st || +2 || 1d6 || Expertise, Sneak Attack, <br> Thieves' Cant              |
-| 2nd || +2 || 1d6 || Cunning Action                                           |
-| 3rd || +2 || 2d6 || Roguish Specialization                                   |
-| 4th || +2 || 2d6 || Ability Score Improvement                                |
-| 5th || +3 || 3d6 || Uncanny Dodge                                            |
-| 6th || +3 || 3d6 || Expertise                                                |
-| 7th || +3 || 4d6 || Evasion                                                  |
-| 8th || +3 || 4d6 || Ability Score Improvement                                |
-| 9th || +4 || 5d6 || Roguish Specialization feature                           |
-| 10th|| +4 || 5d6 || Ability Score Improvement                                |
-| 11th|| +4 || 6d6 || Reliable Talent                                          |
-| 12th|| +4 || 6d6 || Ability Score Improvement                                |
-| 13th|| +5 || 7d6 || Roguish Specialization feature                           |
-| 14th|| +5 || 7d6 || Blindsense                                               |
-| 15th|| +5 || 8d6 || Slippery Mind                                            |
-| 16th|| +5 || 8d6 || Ability Score Improvement                                |
-| 17th|| +6 || 9d6 || Roguish Specialization feature                           |
-| 18th|| +6 || 9d6 || Elusive                                                  |
-| 19th|| +6 ||10d6 || Ability Score Improvement                                |
-| 20th|| +6 ||10d6 || Stroke of Luck                                           |
-
+|Level|&nbsp;|Proficiency<br>Bonus|Features|Vigor|
+|:---:|-|:-:|:------------------------------------------------|:-:|
+| 1st || +2 | Expertise, Finishing Move, <br> Secret Missives | 1 |
+| 2nd || +2 | Cunning Action                                  | 1 |
+| 3rd || +2 | Roguish Archetype                               | 1 |
+| 4th || +2 | Ability Score Improvement                       | 1 |
+| 5th || +3 | Uncanny Dodge, <br> Cheap Shot                  | 2 |
+| 6th || +3 | Expertise                                       | 2 |
+| 7th || +3 | Evasion                                         | 2 |
+| 8th || +3 | Ability Score Improvement                       | 2 |
+| 9th || +4 | Roguish Archetype feature                       | 3 |
+| 10th|| +4 | Fleet Footed                                    | 3 |
+| 11th|| +4 | Reliable Talent                                 | 3 |
+| 12th|| +4 | Ability Score Improvement                       | 3 |
+| 13th|| +5 | Roguish Archetype feature                       | 4 |
+| 14th|| +5 | Blindsense                                      | 4 |
+| 15th|| +5 | Anticipation                                    | 4 |
+| 16th|| +5 | Ability Score Improvement                       | 4 |
+| 17th|| +6 | Roguish Archetype feature                       | 5 |
+| 18th|| +6 | Elusive                                         | 5 |
+| 19th|| +6 | Ability Score Improvement                       | 5 |
+| 20th|| +6 | Stroke of Luck                                  | 5 |
 </div>
 
 ### Creating a Rogue
@@ -4521,10 +4521,11 @@ As you create your rogue character, consider the charac-ter's relationship to th
 What was the trigger that led you away from your previous life? Did a great con or heist gone terribly wrong cause you to reevaluate your career? Maybe you were lucky and successful robbery gave you the coin you needed to escape the squalor of your life. Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself cut off from your family or your mentor, and you had to find a new means of support. Or maybe you made a new friend, who showed you new possibilities for earning a living and employing your particular talents.
 
 #### Quick Build
-You can make a rogue quickly by following these sugges-tions. First, Dexterity should be your highest ability score. Make intelligence your next-highest if you want to excel at Investigation. Choose Charisma instead if you plan to emphasize deception and social interaction.
+You can make a rogue quickly by following these sugges&shy;tions. First, Dexterity should be your highest ability score. Make intelligence your next highest if you want to excel at Investigation. Choose Charisma instead if you plan to emphasize deception and social interaction.
 
-<br>
-<div style='margin-top:550px'></div>
+\columnbreak
+
+<div style='margin-top:440px'></div>
 
 ## Class Features
 As a rogue, you gain the following class features.
@@ -4533,12 +4534,12 @@ As a rogue, you gain the following class features.
 ___
 - **Hit Dice:** 1d8 per rogue level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 + your Constitution modifier per rogue level after 1st
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
 
 #### Proficiencies
 ___
 - **Armor:** Light armor
-- **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+- **Weapons:** Simple weapons, hand crossbows, <br> longswords, rapiers, shortswords
 - **Tools:** Thieves' tools
 ___
 - **Saving Throws:** Dexterity, Intelligence
@@ -4551,54 +4552,77 @@ You start with the following equipment, in addition to the equipment granted by 
  - *(a)* a burglar's pack or *(b)* a dungeoneer's pack, or *(c)* an explorer's pack
  - Leather armor, two daggers, and thieves' tools
 
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/IrcE8nJ.jpg' style='position:absolute; top:0px; right:0px; width:1100px' />
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-500px; right:-200px; width:1500px' />
-
-\pagebreakNum
-
 ### Expertise
 At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for ability checks you make that uses either of the chosen proficiencies.
 
 At 6th level, you can choose two more of your proficien-cies (in skills or with thieves' tools) to gain this benefit.
 
-### Sneak Attack
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. 
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/IrcE8nJ.jpg' style='position:absolute; top:0px; right:0px; width:1100px' />
+<img src='https://www.gmbinder.com/images/vn90cy3.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't in-capacitated, and you don't have disadvantage on the attack.
+\pagebreakNum
 
-The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+### Finishing Move
+Beginning at 1st level, you know how to exploit the weak&shy;nesses in a foe. Once per turn immediately after you hit a creature with a weapon attack that has the light or finesse property, you can use your bonus action to make a second attack with a weapon you're wielding against the creature and perform a combo move. On a hit, you perform a known combo move of your choice as well as dealing normal weapon damage for the attack. You do not add your ability modifier to the damage of this attack.
 
-### Thieves' Cant
-During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+You start knowing three such combo moves: Eviscerate, Expose Armor, and Rapture. You learn more combo moves as you gain levels in this class.
 
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, or will provide a safe house for thieves on the run.
+The amount of extra damage dealt by your combo moves increases as you gain levels in this class, as shown in the Vigor column of the Rogue table.
+
+Some of your combo moves require your target to make a saving throw to resist the move's effects. The saving throw DC is calculated as follows:
+
+<div style="text-align: Center">
+
+**Combo save DC** = 8 + your proficiency bonus + <br> your Dexterity modifier
+
+</div>
+
+#### Eviscerate
+Your attack deals an extra 1d12 damage to the target for each point of vigor.
+
+#### Expose Armor
+Your attack deals an extra 1d4 damage to the target for each point of vigor, and weapon attacks against the target have advantage until the start of your next turn.
+
+#### Garrote
+Your attack deals an extra 1d6 damage to the target for each point of vigor, and the target must succeed on a Constitution saving throw or be unable to speak until the end of its next turn.
+
+### Secret Missives
+During your rogue training you learned how to conceal messages, instructions, and simple ideas in plain sight. You do so by weaving subtle jargon and motions in seemingly normal dialogue, sharing statements with hidden meanings or even by writing cryptic code.
+
+You can use 4 hours to share a set of such rules with another creature, allowing you to weave secret messages and commands in your conversations and letters. More elaborate rules may require an Intelligence check at your DM's discretion.
 
 ### Cunning Action
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
 
-### Roguish Specialization
+### Roguish Archetype
 At 3rd level, you choose an area to specialize yourself within, that shapes your rogue abilities: Assassin, Outlaw, or Subtlety, all detailed at the end of the class description. Your specialization choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
+\columnbreak
+
 ### Ability Score Improvement
-When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Uncanny Dodge
 Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
-### Evasion
-At 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half--
+### Cheap Shot
+At 5th level, you learn how to strike at an enemies weakest point. When you make a combo attack, you may choose to perform a cheap shot on the target as your combo move. The target must succeed on a Constitution saving throw or be stunned until the start of your next turn.
 
-damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+### Evasion
+At 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+### Fleet Footed
+Starting at 10th level, your speed increases by 10 feet while you aren't wearing medium or heavy armor.
 
 ### Reliable Talent
 By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
 ### Blindsense
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creatures within 10 feet of you.
 
-### Slippery Mind
-By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
+### Anticipation
+At 15th level, you are always surveying your enemies and looking for openings. In combat, you get a second reaction that you can take once per turn. You can use this second reaction only to make an opportunity attack, and you can't use it on the same turn that you take your normal reaction.
 
 ### Elusive
 Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
@@ -4608,92 +4632,98 @@ At 20th level, you have an uncanny knack for succeeding when you need to. If you
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
-## Roguish Specialization
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+## Roguish Archtypes
 Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directi-ons, embodied by the rogue specializations.
 
 ### Assassin
 You focus your training on the grim art of death. Favoring stealth and vicious poisons over direct approaches. Those who adhere to this specialization are diverse: hired killers, spies, and bounty hunters. Stealth, and poison help you eliminate your foes with deadly efficiency.
-<div style='margin-top:-5px;'></div>
+
+#### Bonus Proficiency
+When you choose this archetype at 3rd level, you gain proficiency with the poisoner's kit.
 
 #### Assassin's Intuition
-When you choose this specialization at 3rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first round of each combat deals additional damage equal to your Rogue level.
-<div style='margin-top:-5px;'></div>
+Starting at 3rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first round of each combat deals additional weapon damage equal to your Rogue level.
 
-#### Poisoned Knife
-At 9th level, you gain proficiency with the poisoner's kit. In addition, when you use your Sneak Attack feature, you can force the target to make a Constitution saving throw (DC of 8 + your Intelligence modifier + proficiency bonus).
+#### Combo Move: Envenom
+Also at 3rd level, you learn the following combo move.
 
-On a failed save, your Sneak Attack damage is dealt as poison damage, and the target is poisoned for 1 minute. On a successful save, the target takes half the poison damage and isn't poisoned.
+***Envenom.*** Your attack deals an extra 1d8 poison <br> damage to the target for each point of vigor, and the <br> target must succeed on a Constitution saving throw <br> or be poisoned until the start of your next turn.
 
-When you poison a creature in this way, you apply an additional effect from the list below. You can only affect a creature with one of these at a time.
+#### Vendetta
+Beginning at 9th level, you are able to make the most of an opportune moment. When you take the Attack action on your turn and score a critical hit with a weapon attack, you may make another weapon attack as part of the same Attack action.
 
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
-
- - The creature can't regain hit points.
- - The creature's speed is reduced by 10 feet.
- - The creature can't take reactions.
-
-You can use this feature a number of times equal to your Intelligence modifier. You regain all spent uses after finish-ing a short or long rest.
+Additionally, when a target that you can see within reach is hit by a critical weapon attack made by another creature, you may use your reaction to make an opportunity attack against that target.
 
 #### Venomous Wounds
-Starting at 13th level, when you use your Poisoned Knife feature and successfully poison a creature, the creature gains disadvantage on one ability saving throw of your choice for the poisoned conditions duration.
+Upon reaching 13th level, when you use your Envenom combo move and successfully poison a creature, the creature gains disadvantage on one ability saving throw of your choice until the start of your next turn.
 
 #### Seal Fate
-At 17th level, you have become a master of instant death. When you hit a creature with a weapon attack, you can force it to make a Constitution saving throw against a DC of 8 + your Strength or Dexterity modifier (your choice) + your proficiency bonus. On a failed save, the damage of your attack is doubled, and it automatically fails its saving throw against your Poisoned Knife feature. 
+At 17th level, you have become a master of instant death. When you hit a creature with a weapon attack, you can force it to make a Constitution saving throw against a DC of 8 + your Strength or Dexterity modifier (your choice) + your proficiency bonus. On a failed save, the damage of your attack is doubled.
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/jeNomzN.png' style='position:absolute; top:0px; right:-300px; width:900px' />
+<img src='https://www.gmbinder.com/images/IDvHEPS.png' style='position:absolute; top:0px; right:-50px; width:900px' />
+<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:910px; right:480px; width:160px; transform:rotate(-70deg)' />
+
+\pagebreakNum
 
 ### Outlaw
 You hone your skills in larcenous arts. Burglars, bandits, pirates, and other criminals typically follow this specializa-tion, but so do rogues who prefer to not fight fair, using dirty tricks to gain the upper hand in combat. They care little for discretion, and happily engages in brawls head on.
 
-#### Firearm Intrigue
-When you choose this specialization at 3rd level, you gain proficiency with firearms.
+#### Bonus Proficiency
+When you choose this archetype at 3rd level, you gain proficiency with handgun firearms.
+
+Additionally, being within 5 feet of a hostile creature doesn't impose disadvantage on your handgun attack rolls.
 
 #### Hit and Run
-At 3rd level, you learn how to land a strike and slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make oppor-tunity attacks against you for the rest of your turn.
+At 3rd level, you learn how to land a strike and slip <br> away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.
 
-You also gain an additional way to use your Sneak Attack you don't need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.
+#### Combo Move: Point Blank
+Also at 3rd level, you learn the following combo move. In order to use this combo move, you must wield a handgun or have an empty hand able to draw one.
 
-#### Quick Combatant
-Starting at 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this in-crease applies to that speed as well.
+***Point Blank.*** Your handgun deals an additional damage die for each point of vigor. If the target of your Point Blank combo move is within 5 feet of you, it must also succeed on a Constitution saving throw or be incapacitated until the start of your next turn.
+
+#### Riposte
+Beginning at 9th level, you have become quick and deadly with your weapons. Once per turn, when a creature within 5 feet of you misses you with an attack, you may deal 1d4 damage to the creature. This damage is dealt as the damage type of a melee weapon you're wielding.
 
 #### Misdirection
-Starting at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature is within 5 feet of you, you can use your reaction to have the attack target that creature instead of you.
+Starting at 13th level, you are able to avert attacks meant for you and turn them against others. When you are hit by an attack roll and there is a creature within 5 feet of you, you can use your reaction to have the attack hit the creature instead of you.
 
-You can use this feature a number of times equal to your Dexterity modifier, regaining uses after a short or long rest.
+You can use this feature twice. You regain all spent uses when you finish a short or long rest.
 
 #### Adrenaline Rush
-At 17th level, the rush of battle runs to your head. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your se-cond turn at your initiative minus 10. You can't use this feature when you are surprised.
+At 17th level, you are able to let the thrill of the moment heighten your senses. As a bonus action on your turn, you may give yourself the benefits of a *haste* spell for 1 minute. 
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 \columnbreak
 
 ### Subtlety
-Subtlety rogues are the masters of the shadows, and they strike unseen. They don’t have the lethal strikes of the assassin or the brawling prowess of the outlaw, but their ability to hide in plain sight are unrivaled, performing devastating strikes, and slipping away to strike again. 
+Subtlety rogues are the masters of the shadows, and they strike unseen. They don’t have the lethal strikes of the assassin or the brawling prowess of the outlaw, but their ability to hide in plain sight are unrivaled, performing devastating strikes, and slipping away to strike again.
 
-#### Symbols of Death
-When you choose this specialization at 3rd level, you can invoke ancient symbols of powers to gain the upper hand. As a bonus action, you can place a symbol of death on creature you can see, allowing you to use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
+#### Vanish
+When you choose this archetype at 3rd level, you become adept at eluding the gaze of weakened targets. Immediately after you hit a creature with a finishing move, you may vanish from their sight. While vanished, you are considered invisible to that creature until the start of your next turn, or until you attack or cast a spell.
 
-The symbol lasts for 1 minute or until you use this feature against a different target.
+Additionally, you have advantage on Dexterity (Stealth) checks made to hide.
 
-You can use this feature a number of times equal to your Dexterity modifier. You regain all spent uses after finishing a short or long rest.
+#### Combo Move: Nightblade
+Also at 3rd level, you learn the following combo move.
 
-#### Nightblade
-At 3rd level, you gain darkvision out to a range of 60 feet. If you already have darkvision from your rage, its range increases by 30 feet.
-
-Additionally, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+***Nightblade.*** Your attack deals an extra 1d8 necrotic damage for each point of vigor, and the target must succeed on a Dexterity saving throw or have its speed halved until the start of your next turn.
 
 #### Shadowstep
-Starting at 9th level, you can use a bonus action to teleport up to 30 feet to an unoccupied space within 5 feet of another creature that you can see. 
-If you hit the targeted creature with an attack, on the same turn, it is surrounded by entangling shadows and its movement speed is halved until the start of your next turn. 
+Starting at 9th level, you can use a bonus action to teleport up to 30 feet to an unoccupied space within 5 feet of another creature that you can see. You have advantage on the first attack roll you make against that creature before the end of your turn.
 
-You can use this feature twice starting at 9th level, and gain an additional use at 13th and 17th level. You regain expended uses when you finish a short or long rest.
+You can use this feature a number of times equal to your Intelligence modifier. You regain all spent uses when you finish a short or long rest.
 
 #### Cloak of Shadows
-At 13th level, you are able to evade attacks by enveloping yourself in supernatural shadows. Whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. 
-
-You must use this feature before you know the outcome of the attack roll. 
+At 13th level, your ability to sway the shadows enables you to lessen the harm done to you. When you take damage from an attack, you can use your reaction to give yourself resistance to all of the attack's damage on this turn.
 
 #### Veil of Deceit
 At 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.
@@ -4701,8 +4731,8 @@ At 17th level, your thoughts can't be read by telepathy or other means, unless y
 Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/ev9U1oh.png' style='position:absolute; top:820px; right:0px; width:250px;transform:rotate(-70deg);z-index:1000' />
+<img src='https://www.gmbinder.com/images/1EWcEWI.jpg' style='position:absolute; top:800px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-170px; right:0px; width:900px' />
 
 \pagebreakNum
 
