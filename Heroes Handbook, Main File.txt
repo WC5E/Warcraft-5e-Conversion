@@ -3479,36 +3479,38 @@ For a monk, becoming an adventurer means leaving a structured, communal lifes to
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/NYSqgLC.jpg' style='position:absolute; top:0px; right:-300px; width:1200px' />
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-50px; right:20px; width:900px;transform:rotate(-13deg)' />
+<img src='https://www.gmbinder.com/images/vn90cy3.png' style='position:absolute; top:50px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/cUVZ02S.png' style='position:absolute; top:-100px; right:-60px; width:500px' />
 
 \pagebreakNum
 
+<div style='margin-top:70px;'></div>
+
 <div class='classTable wide'>
 
 ##### The Monk
-|Level|Proficiency<br>Bonus|&nbsp;|Martial<br>Arts|&nbsp;|Chi<br>Points|&nbsp;|Unarmored<br>Movement|&nbsp;|Features|
-|:---:|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:---------------------------------------------|
-| 1st | +2 || 1d4|| — ||      — || Unarmored Defense, Martial Arts                   |
-| 2nd | +2 || 1d4|| 2 || +10 ft.|| Chi, Unarmored Movement                           |
-| 3rd | +2 || 1d4|| 3 || +10 ft.|| Monastic Tradition, Roll                          |
-| 4th | +2 || 1d4|| 4 || +10 ft.|| Ability Score Improvement                         |
-| 5th | +3 || 1d6|| 5 || +10 ft.|| Extra Attack, Stunning Palm                       |
-| 6th | +3 || 1d6|| 6 || +15 ft.|| Monastic Tradition feature, Chi-Empowered Strikes |
-| 7th | +3 || 1d6|| 7 || +15 ft.|| Evasion, Detox                                    |
-| 8th | +3 || 1d6|| 8 || +15 ft.|| Ability Score Improvement                         |
-| 9th | +4 || 1d6|| 9 || +15 ft.|| —                                                 |
-| 10th| +4 || 1d6|| 10|| +20 ft.|| Mystic Vitality                                   |
-| 11th| +4 || 1d8|| 11|| +20 ft.|| Monastic Tradition feature                        |
-| 12th| +4 || 1d8|| 12|| +20 ft.|| Ability Score Improvement                         |
-| 13th| +5 || 1d8|| 13|| +20 ft.|| Transcendence                                     |
-| 14th| +5 || 1d8|| 14|| +25 ft.|| Zen Focus                                         |
-| 15th| +5 || 1d8|| 15|| +25 ft.|| Timeless Body                                     |
-| 16th| +5 || 1d8|| 16|| +25 ft.|| Ability Score Improvement                         |
-| 17th| +6 ||1d10|| 17|| +25 ft.|| Monastic Tradition feature                        |
-| 18th| +6 ||1d10|| 18|| +30 ft.|| Transcendence Improvement                         |
-| 19th| +6 ||1d10|| 19|| +30 ft.|| Ability Score Improvement                         |
-| 20th| +6 ||1d10|| 20|| +30 ft.|| Inner Self                                        |
+|Level|Proficiency<br>Bonus|&nbsp;|Martial<br>Arts|&nbsp;|Chi<br>Points|&nbsp;|Features|
+|:---:|:-:|-|:-:|-|:-:|-|:-------------------------------------------------|
+| 1st | +2 || 1d4|| — || Unarmored Defense, Martial Arts                   |
+| 2nd | +2 || 1d4|| 2 || Chi, Roll                                         |
+| 3rd | +2 || 1d4|| 3 || Monastic Tradition, Serenity                      |
+| 4th | +2 || 1d4|| 4 || Ability Score Improvement                         |
+| 5th | +3 || 1d6|| 5 || Extra Attack, Stunning Palm                       |
+| 6th | +3 || 1d6|| 6 || Monastic Tradition feature, Chi-Empowered Strikes |
+| 7th | +3 || 1d6|| 7 || Evasion, Detox                                    |
+| 8th | +3 || 1d6|| 8 || Ability Score Improvement                         |
+| 9th | +4 || 1d6|| 9 || Transcendence                                     |
+| 10th| +4 || 1d6|| 10|| Inner Peace                                       |
+| 11th| +4 || 1d8|| 11|| Monastic Tradition feature                        |
+| 12th| +4 || 1d8|| 12|| Ability Score Improvement                         |
+| 13th| +5 || 1d8|| 13|| Rushing Jade Wind                                 |
+| 14th| +5 || 1d8|| 14|| Diffuse Magic                                     |
+| 15th| +5 || 1d8|| 15|| Timeless Body                                     |
+| 16th| +5 || 1d8|| 16|| Ability Score Improvement                         |
+| 17th| +6 ||1d10|| 17|| Monastic Tradition feature                        |
+| 18th| +6 ||1d10|| 18|| Auguest Blessing, Transcendence improvement       |
+| 19th| +6 ||1d10|| 19|| Ability Score Improvement                         |
+| 20th| +6 ||1d10|| 20|| Perfect Zen                                       |
 </div>
 
 ### Creating a Monk
@@ -3517,7 +3519,7 @@ As you make your monk character, think about your connection to the monastery wh
 Consider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Arc you eager to return to your home? As a result of the structured life of a monastic community and the discipline required to harness chi, monks are almost always lawful in alignment.
 
 #### Quick Build
-You can make a monk quickly by following these sugges-tions. First, make Dexterity your highest ability score, followed by Wisdom. (Mistweaving monks make their Wisdom higher than Dexterity).
+You can make a monk quickly by following these sugges-tions. First, Dexterity should be your highest ability score, followed by Wisdom.
 
 \columnbreak
 
@@ -3528,7 +3530,7 @@ As a monk, you gain the following class features.
 ___
 - **Hit Dice:** 1d8 per monk level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 + your Constitution modifier per monk level after 1st
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
 
 #### Proficiencies
 ___
@@ -3546,8 +3548,7 @@ You start with the following equipment, in addition to the equipment granted by 
  - 10 darts
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/eec1Qjq.png' style='position:absolute; top:940px; right:100px; width:600px' />
+<img src='https://www.gmbinder.com/images/eec1Qjq.png' style='position:absolute; top:-70px; right:50px; width:700px' />
 
 \pagebreakNum
 
@@ -3566,7 +3567,7 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 ### Chi
 Starting at 2nd level, your training allows you to harness the mystic energy of chi. Your access to this energy is represented by a number of chi points. Your monk level determines the number of points you have, as shown in the Chi Points column of the Monk table.
 
-You can spend these points to fuel various chi features. You start knowing four such features: Flurry of Blows, Patient Defense, Step of the Wind, and Surging Mist. You learn more chi features as you gain levels in this class.
+You can spend these points to fuel various chi features. You start knowing four such features: Fists of Fury, Elusive Dance, Step of the Wind, and Effuse. You learn more chi features as you gain levels in this class.
 
 When you spend a chi point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended chi back into yourself. You must spend 30 minutes of the rest meditating to regain your chi points.
 
@@ -3587,20 +3588,22 @@ You can spend 1 chi point to take the Dodge action as a bonus action on your tur
 You can spend 1 chi point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 #### Effuse
-You can spend chi points and use your bonus action to touch a creature within range. The creature regains hit points equal to 1d4 + 1 for each chi point you spent, to a maximum of 4d4 + 4.
+You can spend 1 chi point and use your bonus action to touch a creature. The creature regains hit points equal to your Wisdom modifier.
 
 \columnbreak
 
-### Unarmored Movement
-Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
+### Roll
+Starting at 2nd level, you can tumble across the battlefield when you are not wielding a shield. Once per turn, you can expend movement to roll a number of feet in a straight line equal to the movement expended. You can roll through the space of any hostile creatures, however, you cannot end your roll within their space.
+
+Any opportunity attacks made against you while you're rolling are made with disadvantage.
 
 ### Monastic Tradition
 When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Brewmaster, the Way of the Mistweaver, or the Way of the Windwalker, all detailed at the end of the class description. Your tradition grants you features at 3rd level and again at 6th. 11th, and 17th level.
 
-### Roll
-At 3rd level, you are able to tumble across the battlefield when you are not wearing armor or wielding a shield. Using your bonus action, you can tumble 10 feet in a straight line without expending movement, giving opportunity attacks against you disadvantage.
+### Serenity
+At 3rd level, you may enter a serene stance for 1 minute when you use chi points. While in this stance, you use your Wisdom modifier for your attack and damage rolls when attacking with a monk weapon or your unarmed strikes.
 
-Once you use this feature, you can't use it again until you move 0 feet on one of your turns.
+Your serenity ends early if you become charmed, fright&shy;ened, or incapacitated, or if you try to accomplish a task more strenuous than interacting with an object.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -3618,122 +3621,154 @@ Starting at 6th level, your unarmed strikes count as magical for the purpose of 
 At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's frost breath or a *fireball* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and half damage if you fail.
 
 ### Detox
-Starting at 7th level, you can use an action to end one effect on yourself that is causing you to be charmed or frightened.
-
-### Mystic Vitality
-Beginning at 10th level, your mastery of the chi flowing through you makes you immune to disease and poison.
+Starting at 7th level, you can use your action to remove one disease or poisoned condition that is affecting you.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
 
 ### Transcendence
-At 13th level, you can use your action and spend 1 chi point to summon an incorporeal jade visage of yourself in your space, the visage doesn't move and appears to be in deep meditation. It stays for 1 minute before vanishing.
+Upon reaching 9th level, you can concentrate your chi into an incorporeal visage of yourself for you to traverse to in the future. You can use your action and spend 1 chi point to summon the visage in your space, the visage is incorporeal and can't be interacted with. The visage linger for 1 minute before disappearing.
 
-While you are within 60 feet of the visage, you can use your bonus action to change position with it, teleporting you to the space you summoned it in. Once done, the visage vanishes.
+While you are within 60 feet of it, you can use your bonus action to transcend the material world and teleporting to the visage's space. The incorporeal visage then disappears.
 
-Upon reaching 18th level, your visage stays for 1 hour before vanishing, and its range increases to 1 mile.
+At 18th level, your incorporeal jade visage lingers for 1 hour, and the range at which you can transcend to it is increased to 1 mile.
 
-### Zen Focus
-Beginning at 14th level, your mastery over chi grants you proficiency in all saving throws.
+### Inner Peace
+Beginning at 10th level, you can use your bonus action and spend 1 chi point to end one effect on yourself that is causing you to be charmed or frightened.
 
-Additionally, whenever you make a saving throw and fail, you can spend 1 chi point to reroll it and use the new roll.
+### Rushing Jade Wind
+Starting at 13th level, immediately after you take the Attack action on your turn, you can spend 1 chi points and choose any number of creatures within 5 feet of you. A target must succeed on a Dexterity saving throw or be pushed 10 feet directly away from you, a target pushed this way provokes opportunity attacks from nearby creatures.
+
+### Diffuse Magic
+At 14th level, your flow of chi fortifies you against harmful spells and effects. You have advantage on all intelligence, Wisdom, and Charisma saving throws against magic.
 
 ### Timeless Body
-At 15th level, your chi sustains you so that you suffer none of the frailty of old age, and you can't he aged magically. You can still die of old age, however. In addition, you no longer need food or water.
+Beginning at 15th level, your chi sustains you so that you suffer none of the frailty of old age, and you can't he aged magically. You can still die of old age, however. In addition, you no longer need food or water.
 
-### Inner Self
+### August Blessing
+Beginning at 18th level, whenever you make a saving throw and fail, you can spend 1 chi point to reroll it. You must use the new result.
+
+### Perfect Zen
 At 20th level, when you roll for initiative and have no chi points remaining, you regain 4 chi points.
 
 ## Monastic Traditions
-Three traditions of monastic pursuit were common in the monasteries scattered across Pandaria. Most monasteries practice one tradition exclusively, sending out monks to teach their ways throughout Azeroth. All three traditions rely on the same basic techniques, diverging as the student grows more adept.
+There are many monastic traditions that have made their mark on Azeroth, some reminiscent of the martial artists from Pandaria and others much more unique. Three such traditions are honored among monks and taught. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level.
+
+\columnbreak
 
 ### Way of the Brewmaster
 Brewmasters are often quirky and joyful, many would think them merely as fools that enjoy a drink to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the brewmaster can be a madden-ing, masterful foe.
 
 #### Bonus Proficiency
-When you choose this monastery at 3rd level, you gain pro-ficiency with brewer's supplies if you don't already have it.
+Starting when you choose this tradition at 3rd level, you gain proficiency in brewer's supplies. If you are already proficient in brewer's supplies, your proficiency bonus doubles for any ability check you make with it.
+
+#### Elusive Brewer
+At 3rd level, you learn to channel your chi into brews that bolster your powers.
+
+You know the Black Ox brew and one other brew of your choice, all of which are detailed in the "Elusive Brews" section below. You learn one additional brew of your choice at 6th, 11th, and 17th level.
+
+When you gain a level in this class, you can choose one of the brews you know and replace it with another brew that you could learn at that level
+
+***Using Elusive Brews.*** Your elusive brews all require an action to be used, when you take the action you choose which known brew you wish to drink and spend chi points equal to its cost. A brew requires you to spend chi points each time you use it unless specified otherwise.
+
+To use any of your known brews, you must have a flask of drinkable liquid on you as all brews require you to channel chi into some liquid as you drink it.
 
 #### Stagger
-At 3rd level, you are able to shrug off attacks made against you. You can use your reaction upon taking damage to give yourself resistance to all damage dealt by the attack, except psychic damage.
+Beginning at 6th level, you learn to shrug off harmful attacks made against you. You can use your reaction upon taking damage to give yourself resistance to all damage dealt by the attack, except psychic damage.
 
 You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
-#### Elusive Brawler
-Starting at 6th level, you can move in sudden, swaying ways. You gain the following benefits.
+#### Light Brewing
+Starting at 11th level, when you use your action to drink a brew, you can make one unarmed strike as a bonus action.
 
-***Leap to Your Feet.*** When you're prone, you can stand up by spend 5 feet of movement, rather than half your speed.
+At 17th level, this increases to two unarmed strikes.
 
-***Redirect Attack.*** When a creature misses you with a melee attack roll, you can spend 1 chi point as a reaction to cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you.
+#### Elusive Brews
+The elusive brews are presented in alphabetical order. If a brew requires a level, you must be that level in this class to learn the brew.
+
+***Black Ox Brew.*** You can spend 1 chi point to give your&shy;self advantage on the next melee attack you make. You may make one melee attack as part of the same action.
+
+***Blackout Brew (11th level Required).*** You can spend 3 chi points to gain the effects of the *blur* spell for 1 minute.
+
+***Breath of Fire (6th level Required).*** You can spend 2 chi points to exhale fire in a 15-foot cone. Each creature in the area must make a Dexterity saving throw, taking fire damage equal to your Monk level + your Wisdom modifier on a failed save, or half as much damage on a success.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/rxBRBUh.jpg' style='position:absolute; top:0px; right:-200px; width:850px' />
-<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/ZUiw9ln.jpg' style='position:absolute; top:760px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-50px; right:0px; width:900px' />
 
 \pagebreakNum
 
-#### Black Ox Brew
-Starting at 11th level, when you make an ability check, an attack roll, or a saving throw and have disadvantage on the roll, you can spend 2 chi points to cancel the disadvantage for that roll.
+&nbsp;&nbsp;&nbsp; ***Fortifying Brew.*** You can spend 1 chi point to gain temporary hit points equal to half your Monk level + your Wisdom modifier.
 
-#### High Tolerance
-At 17th level, you are capable of shrugging of immense pain like it was nothing. Whenever you use your Stagger feature, you gain immunity to all damage except psychic.
+***Invigorating Brew (11th level Required).*** You can spend 4 chi points to gain the effects of the *haste* spell for 1 minute.
+
+***Ironskin Brew (6th level required).*** You can spend 2 chi points to gain resistance to bludgeoning, piercing, and slashing damage dealt by nonmagical attacks for 1 minute.
+
+***Nimble Brew (11th level Required).*** You can spend 3 chi points to gain the effects of the *freedom of movement* spell for 1 minute.
+
+***Purifying Brew. (17th level Required).*** You can spend 5 chi points to cast *greater restoration* on yourself.
+
+***Thunder Tea.*** You can spend 1 chi point to gain the strength of Xuen, until the end of your next turn, your melee attacks deal extra thunder damage equal to your Wisdom modifier.
 
 ### Way of the Mistweaver
-Mistweavers are unique among those who heal, they channel mysterious energy. Those who weave the mists wield the power of life’s essence, using a mixture of preven-tative and restorative spells to mend their allies’ wounds.
+Mistweavers are unique among those who heal. They channel energies that are mysterious, oftentimes misunder&shy;stood by commoners as some form of folk medicine. <br> But those who weave the mists wield the power of life’s essence, using a mixture of preventative and restorative spells to mend their allies’ wounds.
 
 #### Soothing Mist
-At 3rd level, you have a pool of healing chi that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your monk level x 10.
+Starting when you choose this tradition at 3rd level, you have a pool of healing chi that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your monk level x 10.
 
 As an action, you can manifest a beam of chi towards a creature within 30 feet of you and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
 
 Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Soothing Mist, expending hit pointss separately for each one.
 
-This feature has no effect on constructs.
+This feature has no effect on undead and constructs.
+
+#### Chi-Ji's Palm
+At 3rd level, when you use your Soothing Mist feature, you can make an unarmed strike as a bonus action and may use your Wisdom modifier for the attack and damage roll with this attack.
 
 #### Mistwalk
-Starting at 6th level, you are able to teleport short distances through mist. As an action, you can spend 1 chi point and teleport 60 feet to an unoccupied space you can see. As part of the same action you can use your soothing mist on a target within range of your new position.
+At 6th level, you are able to teleport short distances through mist. As an action, you can spend 1 chi point and teleport 60 feet to an unoccupied space you can see. As part of the same action you can use your soothing mist on a target within range of your new position.
 
-#### Reawaken
-Upon reaching 11th level, you are able to manifest your chi to reawaken a creature that has fallen. As an action, you can expend 4 chi points to cast *revivify* without providing a material component. You must then finish a long rest to cast *revivify* again in this way.
+#### Ring of Peace
+Upon reaching 11th level, you can use your action and choose a number of creatures within 15 feet of you equal to your Wisdom modifier. A target must succeed on a Wisdom saving throw or be incapacitated until the end of your next turn or until it takes damage.
 
-#### Statue of the Jade Serpent
-At 17th level, you can give your chi physical form, shaping it into a statue of Yu'lon the Jade Serpent. You can spend 3 chi points as an action, and choose an empty space within 30 feet of you, manifesting a statue of jade. 
+You can use this feature a number of times equal to your Wisdom modifier. You regain expended uses when you finish a long rest.
 
 \columnbreak
 
-<br>
-
-&nbsp;&nbsp;&nbsp; The statue has hit points equal to twice your monk level, resistance to all damage, and immunity to psychic and poison damage. Whenever you use your Soothing Mist feature, you may choose a second target within 60 feet of the jade statue to be healed for half of the hit points you restore.
+#### Statue of the Jade Serpent
+At 17th level, you can give your chi physical form, shaping it into a statue of Yu'lon the Jade Serpent. You can spend 3 chi points as an action, and choose an empty space within 30 feet of you, manifesting a statue of jade. 
+The statue has hit points equal to twice your monk level, resistance to all damage, and immunity to psychic and poison damage. Whenever you use your Soothing Mist feature, you may choose a second target within 60 feet of the jade statue to be healed for half of the hit points you restore.
 
 The statue remains for 1 minute or until it is destroyed.
 
 ### Way of the Windwalker
 Among monks, none have mastered the martial arts as the windwalkers have, and few across Azeroth can fight with their grace. Windwalkers possess unparalleled physical finesse, and are capable of overwhelming their enemies with a dizzying flurry of punches and kicks. 
 
-#### Winds Technique
-Starting at 3rd level, you can manipulate your enemy's chi when you harness your own. Whenever you hit a creature with one of the attacks granted by your Fists of Fury, you can impose one of the following effects on that target:
+#### Spear Hand Strikes
+Starting when you choose this tradition at 3rd level, you can manipulate your enemy's chi when you harness your own. Whenever you hit a creature with one of the attacks granted by your Fists of Fury, you can impose one of the following effects on that target:
 
  - It must succeed on a Dexterity saving throw or be knocked prone.
  - It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
  - It can't take reactions until the end of your next turn.
 
+#### Tiger's Reflexes
+Also at 3rd level, you react with the swiftness of a tiger. You can give yourself a bonus to your initiative equal to your Wisdom modifier.
+
 #### Windwalking
-Starting at 6th level, you gain the ability to channel your chi into enhancing your own body. As an action, you can spend 4 chi points to cast the *haste* spell on yourself without pro-viding a material component.
+Beginning at 6th level, when you use Step of the Wind chi feature you gain a flying speed equal to half your movement speed until the end of your turn. If you end your turn in the air, you immediately fall to the ground.
 
 In addition, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to twice your monk level.
 
 #### Unpredictable Strikes
 Upon reaching at 11th level, whenever you make an oppor-tunity attack, you may spend 1 chi point to use your Fists of Fury feature against the target instead.
 
-#### Touch of Death
-At 17th level, when you hit with an unarmed strike, you can spend 3 chi points to transfer a deadly stream of chi into their body. The target must make a Constitution saving throw. Taking 7d8 + 20 psychic damage on a failed save, or half as much damage on a successful one.
+#### Quivering Palm
+At 17th level, you are able to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 chi points to start these impercep&shy;tible vibrations, which lats for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When done, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
 
-Once you have used this feature, you can't use it again until you have finished a long rest.
+You can only have one creature under the effect of this feature at a time. You can chose to end the vibrations harmlessly without using an action.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/ZUiw9ln.jpg' style='position:absolute; top:760px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-20px; right:0px; width:900px' />
 
 \pagebreakNum
 
