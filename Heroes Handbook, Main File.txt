@@ -8119,6 +8119,7 @@ Banishing Smite
 Guidance
 <br> Light
 <br> Mending
+<br> ✦ Mind Blast
 <br> Resistance
 <br> Sacred Flame
 <br> Spare the Dying
@@ -8140,6 +8141,7 @@ Guidance
 <br> Guiding Bolt
 <br> Healing Word
 <br> Inflict Wounds
+<br> ✦ Mind Vision
 <br> Prot. from Evil and Good
 <br> Purify Food and Drink
 <br> Sanctuary
@@ -8150,29 +8152,19 @@ Aid
 <br> Blindness/Deafness
 <br> Calm Emotions
 <br> Crown of Madness
-<br> ✦ Divine Star
 <br> Gentle Repose
 <br> Healing Spirit
 <br> Hold Person
 <br> Lesser Restoration
-<br> ✦ Mind Blast
 <br> ✦ Mind Flay
 <br> Mind Spike
 <br> Prayer of Healing
 <br> Protection from Poison
+<br> ✦ Shackle Undead
 <br> Shadow Blade
 <br> ✦ Shining Force
 <br> Silence
 <br> Suggestion
-<br> ✦ Void Strike
-</div>
-
-<div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
-
-<div style='column-count:2'>
 
 ##### 3rd Level
 Animate Dead
@@ -8180,16 +8172,20 @@ Animate Dead
 <br> Bestow Curse
 <br> Daylight
 <br> Dispel Magic
+<br> ✦ Divine Star
 <br> Fear
 <br> Feign Death
 <br> Glyph of Warding
 <br> Hunger of Hadar
 <br> Life Transference
+<br> Magic Circle
 <br> Mass Healing Word
+
+\columnbreak
+
 <br> Protection from Energy
 <br> Remove Curse
 <br> Revivify
-<br> ✦ Shadow Crash
 <br> Speak with Dead
 <br> Spirit Guardians
 <br> Tongues
@@ -8214,6 +8210,8 @@ Dawn
 <br> Mass Cure Wounds
 <br> Negative Energy Flood
 <br> Raise Dead
+<br> Scrying
+<br> ✦ Shadow Crash
 <br> Wall of Light
 
 ##### 6th Level
@@ -8240,13 +8238,19 @@ Abi-Dalzim's Horrid Wilting
 <br> Maddening Darkness
 <br> Mind Blank
 
-\columnbreak
-
 ##### 9th Level
 Foresight
 <br> Mass Heal
 <br> Psychic Scream
 <br> True Resurrection
+</div>
+
+<div class='footnote'>PART 2 | SPELLS </div>
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+
+\pagebreakNum
+
+<div style='column-count:2'>
 
 ### Shaman Spells
 ##### Cantrips (0 Level)
@@ -8512,14 +8516,14 @@ Imprisonment
 The new spells are presented in alphabetical order.
 
 #### Angelic Feather
-*1st-level conjuration*
+*1st-level enchantment*
 ___
-- **Casting Time:** 1 minute
-- **Range:** Self
-- **Components:** V, S, M (a feather worth at least 1 gp)
-- **Duration:** 1 hour
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S, M (a feather)
+- **Duration:** Concentration, up to 1 minute
 ___
-You create 3 divine feathers in your palm that can be given to other creatures. A creature can crush a feather as a bonus action, and gain the benefit of the Dash, Disengage, or Dodge action until the end of their current turn. The feathers last for 1 hour before dissipating.
+You touch one creature within reach, granting it the swiftness of an angelic being. For the duration of the spell, the creature can take the Dash, Disengage, or Dodge action as a bonus action on its turn.
 
 #### Arcane Barrage
 *4th-level evocation*
@@ -8679,9 +8683,9 @@ ___
 - **Components:** V, S, M (a holy symbol)
 - **Duration:** Instantaneous
 ___
-You grasp the fabric around a target within range, pulling necrotic energy from it and creatures within a 5-foot radius of your choice. The creatures must make a Constitution saving throw. On a failed saving throw, the creature takes 1d8 necrotic damage and gains the effect of your Word of Power: Pain. On a successful save, the creature takes half damage, but suffers no effect from the word of power.
+You grasp the fabric around a target within range, pulling necromantic energies from it and creatures of your choice within 5 feet of it. A target must make a Constitution saving throw, taking 2d4 necrotic damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
 
 #### Death Chain
 *5th-level necromancy*
@@ -8746,16 +8750,16 @@ You ward yourself against attacks. Until the spell ends, you gain immunity to al
 If you make an attack or cast a spell that affects an enemy creature, this spell ends.
 
 #### Divine Star
-*2nd-level evocation*
+*3rd-level evocation*
 ___
 - **Casting Time:** 1 action
 - **Range:** self (30-foot line)
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-A star of divine energy streaks forward in a 30 feet long and 5 feet wide line from you in a direction you choose, and returns to you at the end of your turn in a similar fashion. Each allied creature in the stars path regains 1d6 hit points, and each enemy creature must make a Dexterity saving throw. Taking 1d6 radiant damage on a failed save, or half as much on a successful one.
+A star of divine energy streaks forward in a 30 feet long and 5 feet wide line from you in a direction you choose. Each friendly creature in the stars path regains 1d6 hit points, and each hostile creature must make a Dexterity saving throw, taking 1d6 radiant damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the spells healing and damage increases by 1d6 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the spells healing and damage increases by 1d6 for each slot level above 3rd.
 
 #### Earthen Spike
 *3rd-level transmutation*
@@ -9027,18 +9031,16 @@ You call upon the element of air and surround a friendly target within range wit
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
 
 #### Mind Blast
-*2nd-level evocation*
+*Evocation cantrip*
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-You pierce through the mental defenses of a creature within range. It must succeed on a Wisdom saving throw. On a failed save, the target takes 2d6 psychic damage and is frightened of you for a minute, or half of the damage on a successful one and isn't frightened of you.
+You attempt to pierce through the mental defenses of a creature you can see within range. The target must succeed on a Wisdom saving throw or take 1d10 psychic damage.
 
-The creature makes a new saving throw at the end of its turns to end the frightened condition.
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 1st.
+This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 \columnbreak
 
@@ -9050,9 +9052,9 @@ ___
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 ___
-You attempt to pierce the mind of a creature within range. The creature must make a Wisdom saving throw. On a failed save, the creature takes 2d6 psychic damage and has disadvantage on all attack rolls and ability checks for the spells duration. 
+You wreathe the mind of a creature you can see within range. The target must make a Wisdom saving throw. On a failed save, the creature takes 2d6 psychic damage and has disadvantage on all attack rolls and ability checks for the spells duration, and on as successful save, the creature takes half damage but suffers no other effects of the spell.
 
-On a successful save, the creature takes half damage, but suffers no other effect. At the end of each of its turns, the target can make a Wisdom saving throw. On a success, the spell ends.
+At the end of each of its turns, the creature can make a Wisdom saving throw, ending the spell on a success.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
@@ -9065,6 +9067,16 @@ ___
 - **Duration:** Instantaneous
 ___
 You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcast-ing ability, if you counter the spell, the creature takes 2d8 cold damage. The DC equals 10 + the spell’s level. On a success, the creature’s spell fails and has no effect.
+
+#### Mind Vison
+*1st-level divination*
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
+___
+You extend your arm and touch a willing creature within reach. For the duration of the spell, you see through the creatures eyes and hear what it hears. During this time, you lose of your own senses and are considered blinded, deafened, and stunned. You can end your mind vision as a free action on your turn.
 
 #### Pyroblast
 *7th-level evocation*
@@ -9109,6 +9121,18 @@ A creature can choose to ignore the mirror, in which case it vanishes after 1 mi
 
 The ritual of summoning is only able to call creatures too it, a creature can't use the summoning stone to traverse back to their previous location.
 
+#### Shackle Undead
+*2nd-level enchantment*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a short piece of chain)
+- **Duration:** 1 minute
+___
+Choose an undead creature that you can see within range. The target must succeed on a Wisdom saving throw or be stunned for the duration or until it takes damage. At the end of each of its turns, the target can make a new Wisdom saving throw. On a success, the spell ends on the target.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target on additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them.
+
 #### Shadow Bolt
 *Evocation cantrip*
 ___
@@ -9122,16 +9146,16 @@ A shoot a blast of necrotic energy at a creature within range. Make a ranged spe
 This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 #### Shadow Crash
-*3rd-level necromancy*
+*5th-level necromancy*
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-A bolt of shadow energy forms from your palm to a point you choose within range and blankets the area as inescap-able darkness covers all. Each creature in a 20-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 6d6 necrotic damage on a failed save, or half as much damage on a successful one. The darkness spreads around corners.
+Shadow energy drips from your palm as you pull it towards the ground and blanket a point that you can see within range in darkness. Each creature in a 20-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. The darkness spreads around corner and the area of the spell is heavily obscured by magical darkness until the end of your next turn.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 #### Shadowfury
 *6th-level enchantment*
@@ -9153,7 +9177,7 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 ___
-Bright light bursts out from a target of your choice within range, attempting to disrupt nearby enemies. Each creature you choose within a 10-foot radius of the target must make a Dexterity saving throw. On a failed save, a creature is pushed 10 feet away from the target and is knocked prone. On each of your turns for the duration, you can use your action to burst light from the same target again.
+Bright light bursts out from a creature you can see within range, pushing away hostile creatures. Each creature of your choice within a 10-foot-radius of the target must succeed a Dexterity saving throw, or be pushed 10 feet away from the target and be knocked prone. For the duration of the spell, you can use your action to burst the shining force from the chosen creature again.
 
 #### Solar Wrath
 *Evocation cantrip*
