@@ -8009,6 +8009,7 @@ Antilife Shell
 Dancing Lights
 <br> Druidcraft
 <br> Guidance
+<br> ✦ Lunar Strike
 <br> Primal Savagery
 <br> Resistance
 <br> Shape Water
@@ -8043,10 +8044,7 @@ Animal Friendship
 Animal Messenger
 <br> Barkskin
 <br> Beast Sense
-
-\columnbreak
-
-✦ Cyclone
+<br> ✦ Cyclone
 <br> Darkvision
 <br> Dust Devil
 <br> Enhance Ability
@@ -8067,10 +8065,12 @@ Catnap
 <br> Daylight
 <br> Dispel Magic
 <br> Feign Death
+<br> Magic Circle
 <br> Mass Healing Word
 <br> Plant Growth
 <br> Protection from Energy
 <br> Revivify
+
 <br> Speak with Plants
 <br> ✦ Starsurge
 <br> Water Breathing
@@ -8087,6 +8087,7 @@ Blight
 <br> Guardian of Nature
 <br> Hallucinatory Terrain
 <br> Locate Creature
+<br> ✦ Ursol's Vortex
 <br> Watery Sphere
 
 ##### 5th Level
@@ -8106,14 +8107,12 @@ Awaken
 ##### 6th Level
 Conjure Fey
 <br> Druid Grove
+<br> ✦ Eclipse
 <br> Find the Path
 <br> Heal
 <br> Investiture of Wind
 <br> ✦ Starfall
-
-\columnbreak
-
-Sunbeam
+<br> Sunbeam
 <br> Transport via Plants
 <br> Wall of Thorns
 <br> Wind walk
@@ -8135,7 +8134,10 @@ Animal Shapes
 Foresight
 <br> Mass Heal
 <br> Shapechange
+<br> Storm of Vengeance
 <br> True Resurrection
+
+\columnbreak
 
 ### Mage Spells
 ##### Cantrips (0 Level)
@@ -8965,16 +8967,18 @@ At the end of each of its turns, the target can make another Dexterity saving th
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for every two slot levels above 2nd.
 
 #### Cyclone
-*2nd-level transmutation*
+*2nd-level conjuration*
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 ___
-A whirl of wind 5-foot wide and 15-foot high rushes up around a target within range. The target must make a successful Dexterity saving throw, or be grappled for the spells duration. A grappled target can use its action to make a Dexterity saving throw. On a successful save, the target forces itself out of the cyclone in an empty space within 5 feet of it.
+A whirl of wind forms around a Large or smaller creature that you can see within range. The target must make a Strength saving throw. On a failed save, the target is lifted off the ground and is restrained for the spell's duration.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you conjure one additional cyclone beneath a target within range for every two slot levels above 2nd.
+As an action, you can cause the cyclone to move up to 20 feet in a direction of your choice. A creature restrained by the cyclone moves with it. If the cyclone moves through a space too narrow for its restrained creature, the creature breaks out and the spell ends.
+
+To break out, the restrained target can use its action to make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand. The cyclone then vanishes.
 
 <div class='footnote'>PART 2 | SPELLS </div>
 <img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
@@ -9085,6 +9089,18 @@ The earthen spike remains for the duration of the spell or until your concentrat
 <img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
+
+#### Eclipse
+*6th-level transmutation*
+___
+- **Casting Time:** 1 minute
+- **Range:** Self (5-mile radius)
+- **Components:** V, S, M (a vail of water from a moonwell)
+- **Duration:** Up to 1 hour
+___
+You evoke the goddess Elune to block out the rays of An'she within 5 miles of you for the duration. You must be in an outdoor area to cast this spell.
+
+When you cast this spell, an eclipse gradually blocks out any natural light over 1 minute, bathing any outdoor area in complete darkness. The eclipse also affects any light source with a clear path to the sky, changing bright light to dim light and dim light to darkness. When the spell ends, the eclipse gradually vanishes over the cause of 1 minute as natural light returns.
 
 #### Elemental Shock
 *1st-level evocation*
@@ -9346,6 +9362,18 @@ When the spell ends, your concentration is broken, or you end it as a free actio
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage of the explosion increases by 1d6 for each slot level above 2nd.
 
+#### Lunar Strike
+*Evocation cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+A streak of lunar energy to flare through the air. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity save or take 1d4 force damage.
+
+***At Higher Levels.*** This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
 #### Mind Blast
 *Evocation cantrip*
 ___
@@ -9503,9 +9531,9 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-You release a blast of suns wrath against a creature within range. Make a ranged spell attack against the creature. On a hit, the target takes 1d10 radiant damage.
+You release a blast of suns wrath against a creature within range. Make a ranged spell attack against the creature. On a hit, the target takes 1d8 radiant damage.
 
-This spell's damage increases by 1d10 when you reach 5th level (2d10, 11th level 3d10, and 17th level (4d10).
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 #### Soulwell
 *2nd-level transmutation (ritual)*
@@ -9575,6 +9603,22 @@ ___
 A blast of moonlight bursts forward in a line 100 feet long and 5 feet wide out from you in a direction you choose. Each creature in the bursts path must make a Dexterity saving throw. A creature takes 8d6 radiant damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+#### Ursol's Vortex
+*4th-level conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
+Choose a point that you can see within range. An elemental force that resembles a swirling vortex extends in a 10-foot radius from the point and lasts for the spell's duration.
+
+The area is considered to be difficult terrain and any creature who enters or starts their turn in the vortex must make a Strength saving throw. On failed save, the creature takes 2d6 bludgeoning damage and is pulled to an empty space nearest the vortex's centre. On a successful save, the creature takes half as much damage and isn't pulled towards the centre of the vortex.
+
+As a bonus action, you can move the vortex up to 30 feet in any direction.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 for each slot level above 4th.
 
 #### Void Shift
 *4th-level necromancy*
