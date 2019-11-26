@@ -7032,18 +7032,20 @@ When you create your character, you receive equipment based on a combination of 
 You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. You might have been equipped with a weapon. armor, and a backpack as part of military service. You might even have stolen your gear. A weapon could be a family heirloom, passed down from generation to generation until your character finally took up the mantle and followed in an ancestor's adventurous footsteps.
 
 ##### Starting Wealth by Class
-|&nbsp;| Class  | Funds |&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-|:-|:-----|------------:|:-|:-|:-|:-|:-|:-|
-|| Druid  | 2d4 x 10 gp |||||||
-|| Hunter | 5d4 x 10 gp |||||||
-|| Mage   | 4d4 x 10 gp |||||||
-|| Monk   | 5d4 gp      |||||||
-|| Paladin| 5d4 x 10 gp |||||||
-|| Priest | 4d4 x 10 gp |||||||
-|| Rogue  | 4d4 x 10 gp |||||||
-|| Shaman | 5d4 x 10 gp |||||||
-|| Warlock| 4d4 x 10 gp |||||||
-|| Warrior| 5d4 x 10 gp |||||||
+|&nbsp; Class        | Funds       <span style="margin-left:75px"></span>|
+|:-------------------|--------------------------------------------------:|
+|&nbsp; Death Knight | 4d4 x 10 gp <span style="margin-left:75px"></span>|
+|&nbsp; Demon Hunter | 2d4 x 10 gp <span style="margin-left:75px"></span>|
+|&nbsp; Druid        | 2d4 x 10 gp <span style="margin-left:75px"></span>|
+|&nbsp; Hunter       | 5d4 x 10 gp <span style="margin-left:75px"></span>|
+|&nbsp; Mage         | 4d4 x 10 gp <span style="margin-left:75px"></span>|
+|&nbsp; Monk         | 5d4 gp      <span style="margin-left:75px"></span>|
+|&nbsp; Paladin      | 5d4 x 10 gp <span style="margin-left:75px"></span>|
+|&nbsp; Priest       | 4d4 x 10 gp <span style="margin-left:75px"></span>|
+|&nbsp; Rogue        | 4d4 x 10 gp <span style="margin-left:75px"></span>|
+|&nbsp; Shaman       | 5d4 x 10 gp <span style="margin-left:75px"></span>|
+|&nbsp; Warlock      | 4d4 x 10 gp <span style="margin-left:75px"></span>|
+|&nbsp; Warrior      | 5d4 x 10 gp <span style="margin-left:75px"></span>|
 
 \columnbreak
 
@@ -7070,17 +7072,13 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 |:--------------------|-----:|-----:|-----:|------:|---------:|
 |&nbsp; Copper (cp)   | 1    | 1/10 | 1/50 | 1/100 | 1/1000   |
 |&nbsp; Silver (sp)   | 10   | 1    | 1/5  | 1/10  | 1/100    |
-|&nbsp; Silver (sp)   | 50   | 5    | 1    | 1/2   | 1/20     |
+|&nbsp; Electrum (ep) | 50   | 5    | 1    | 1/2   | 1/20     |
 |&nbsp; Gold (gp)     | 100  | 10   | 2    | 1     | 1/10     |
 |&nbsp; Platinum (pp) | 1000 | 100  | 20   | 10    | 1        |
 
 <div class='footnote'>PART 1 | NEW EQUIPMENT</div>
-<img src='https://www.gmbinder.com/images/gJg0VCn.jpg' style='position:absolute; top:555px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:950px' />
 
 \pagebreakNum
-
-<div style='margin-top:270px;'></div>
 
 <div class='classTable wide'>
 
@@ -7104,22 +7102,23 @@ Shields with special rules are described here.
 
 ***Tower Shield.*** You use your Strength modifier, instead of your Dexterity for determining your Armor Class while you have this shield donned.
 
-<div style='margin-top:100px;'></div>
-
 ## Racial Weapons
-Your race may grant proficiency in special weapons that are crafted and used by your race exclusively. The night elves with their circular moon swords and glaives, taurens with their heavy blunt totems, capable of crushing most men, and the blood elves with their double ended warblades.
+Your race may grant proficiency in special weapons that are crafted and used by your race exclusively. Such weapons include the circular moon swords of the night elves, the engraved tree trunks used by the tauren, and the iconic warglaives used by elves and demon hunters alike.
+
+***Kaldorei Moon Sword.*** Moon sword's are odd circular blades about 2-1/2 feet in diameter with a sharpened edge forming almost the complete circle. These crescent blades are iconic among night elven wardens and are a stable of an extremely skilled warrior.
+
+***Kaldorei Moonglaive.*** Moonglaive's are favored among night elven sentinels. The weapon consists of three equi&shy;distant curved blades that extend from a central handle. 
+
+***Tauren Totem.*** Tauren totem are intricately carved tree trunks. They serve as items of cultural significance as a piece of art and history and a heavy bludgeoning weapon.
+
+***Warglaive.*** Warglaive's are favored by demon hunters. The weapon is made up of two crescent blades that extend in opposite directions from a central hilt.
 
 ### Racial Weapon Proficiency
-Your race, and feats can grant you proficiency with certain racial weapons. These weapons are exotic, and can't be wielded proficiently with simple and martial proficiency.
+Your race, and feats can grant you proficiency with certain racial weapons. These weapons are **exotic**, and can't be wielded proficiently with simple and martial proficiency.
 
 Proficiency with a racial weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
 
-#### Special Weapons
-Weapons with special rules are described here.
-
-***Sin'dorei Warblade.*** Immediately after attacking an enemy with this blade, you may make an additional attack with its second blade using your bonus action.
-
-<div style='margin-top:50px;'></div>
+<br><br><br><br><br><br>
 
 <div class='classTable wide'>
 
@@ -7127,75 +7126,76 @@ Weapons with special rules are described here.
 |&nbsp; Name | Cost |&nbsp;&nbsp;&nbsp;&nbsp;| Damage | Weight |&nbsp;&nbsp;&nbsp;&nbsp;| Properties       &nbsp;|
 |:--------------------------------------|---:|:-|:---------------|---:|:-:|:-------------------------------------|
 |&nbsp; *Melee Weapons*                 |      ||                |       ||                                      |
-|&nbsp;&nbsp;&nbsp; Kaldorei Moon sword | 15 gp|| 1d8 slashing   |  4 lb.|| Versatile (2d6)                      |
+|&nbsp;&nbsp;&nbsp; Kaldorei Moon Sword | 15 gp|| 1d8 slashing   |  4 lb.|| Versatile (2d6)                      |
 |&nbsp;&nbsp;&nbsp; Kaldorei Moonglaive | 20 gp|| 1d6 slashing   |  3 lb.|| Finesse, light, thrown (range 20/60) |
-|&nbsp;&nbsp;&nbsp; Sin'dorei Warblade  | 25 gp|| 1d8 slashing   |  5 lb.|| Special                              |
-|&nbsp;&nbsp;&nbsp; Totem, tauren       | 20 gp|| 2d8 bludgeoning| 45 lb.|| Heavy, two-handed                    |
+|&nbsp;&nbsp;&nbsp; Tauren Totem        | 20 gp|| 2d8 bludgeoning| 45 lb.|| Heavy, two-handed                    |
 |&nbsp;&nbsp;&nbsp; Warglaive           | 30 gp|| 1d8 slashing   |  3 lb.|| Light                                |
 </div>
 
 <div class='footnote'>PART 1 | NEW EQUIPMENT</div>
-<img src='https://www.gmbinder.com/images/0KOVSmb.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-100px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/MzuVWpF.png' style='position:absolute; top:520px; right:540px; width:200px;transform:rotate(80deg)' />
+<img src='https://www.gmbinder.com/images/MzuVWpF.png' style='position:absolute; top:680px; right:300px; width:200px; transform:rotate(270deg)' />
 
 \pagebreakNum
+
+<div style='margin-top:170px;'></div>
+
+<div class='classTable wide'>
+
+##### Firearms
+|&nbsp; Name | Cost |&nbsp;| Damage | Weight |&nbsp;| Properties                     |
+|:---------------------------------|------:|-|:----------|---:|-|:----------------------|
+|&nbsp; *Handguns*                 |        ||           |     ||                       |
+|&nbsp;&nbsp;&nbsp; Dragon         |  50 gp || 1d10 piercing | 2 lb.|| Ammunition (range 20/30 ), light, scattershot (1d6) |
+|&nbsp;&nbsp;&nbsp; Pepperbox      | 125 gp ||  1d8 piercing | 3 lb.|| Ammunition (range 20/80), light, multi-barrel (3) |
+|&nbsp;&nbsp;&nbsp; Pistol         | 75 gp ||  1d8 piercing | 2 lb.|| Ammunition (range 30/120), light |
+|&nbsp;&nbsp;&nbsp; Pistol, silent |  90 gp ||  1d8 piercing | 2 lb.|| Ammunition (range 20/80), light, suppressor |
+|&nbsp; *Long Guns*                |     ||               |      ||                       |
+|&nbsp;&nbsp;&nbsp; Blunderbuss    | 75 gp ||  3d4 piercing | 5 lb.|| Ammunition (range 30/45), two-handed, scattershot (1d8) |
+|&nbsp;&nbsp;&nbsp; Musket         | 100 gp || 1d12 piercing | 6 lb.|| Ammunition (range 60/240), two-handed |
+|&nbsp;&nbsp;&nbsp; Musket, double | 150 gp || 1d12 piercing | 7 lb.|| Ammunition (range 60/240), two-handed, multi-barrel (2) |
+</div>
 
 ## Firearms
 For tinkers the invention of the crossbow was not enough. They strived to further improve the ability to shoot from a distance without the aid of magic. With the invention of black powder, the dwarves of Ironforge were quick to act in experimenting with its uses, crafting the first firearms from which the weapon has evolved around.
 
 ### Firearm Proficiency
-Your race, class, and feats can grant you proficiency with firearms. The two categories are **flintlock** and **caplock**.
+Your race, class, and feats can grant you proficiency with certain firearms, or firearms as a whole.
 
-If you make an attack roll with a firearm without being proficient, you do not add your proficiency bonus to the attack roll, and you increase the firearms misfire score by 1. 
+Proficiency with a firearm allows you to add your proficiency bonus to the attack roll for any attack you make with them. If you make an attack roll using a firearm with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
 
-***Flintlock.*** A common trigger, requiring black powder to be poured into the barrel following a bullet in order to be fired. Flintlock weapons are unable to be shot in heavy rain, or while submerged in water.
+A firearm is considered a ranged weapon, and therefore, uses your Dexterity modifier for the attack and damage rolls you make with it.
 
-***Caplock.*** A rare trigger, requiring special bullets with a black powder compartment built into them to be operated. Caplock weapons can be shot even in heavy rain, or whilst submerged in water.
+#### Reloading
+Firearms are muzzle-loaded and each barrel of a firearm can only be fired once per turn, regardless of the number of attacks you can normally make. A firearm can actively be reloaded on your turn by using an action or bonus action.
 
-<div style='margin-top:100px;'></div>
+#### Booming Sound
+Firearms make loud noises, a flash of light and a faint smell of burnt explosives when used. A shot can be heard as far as 200 feet away from the shooter.
+
+\columnbreak
+
+
+#### Gunsmith's Tools
+A gunsmuth's tools enables a character to craft, modify and maintain firearms, as well as craft ammunition. It weights 10 lb. and costs 50 gp.
+
+***Crafting Firearms.*** If you are proficient with gunsmith's tools, you can create any firearm of your choice over the course of one workweek (5 days of 8 hours of work) spend&shy;ing gold equal to half the firearms cost in resources.
+
+***Crafting Ammunition.*** If you are proficient with gun&shy;smith's tools, as part of a long rest, you can create batches of ammunition of 6 + double your proficiency bonus. Each batch requires 1 gp worth of material cost.
+
+Some weapons are capable of firing *pellet shells*, special ammunition designed to spread into a volley of shots. You can create batches of pellet shells of 3 + your proficiency bonus. Each batch requires 1 gp worth of materials.
 
 #### Firearm Properties
 Firearms have special properties related to their use that are unique to them, as shown in the Weapons table.
 
-***Misfire.*** Whenever you make an attack roll with a firearm, and the dice roll is equal to or lower than the weapon's Misfire score, the weapon misfires. The attack misses, and the weapon cannot be used again until you spend an action to try and repair it. To repair your firearm, you must make a successful Intelligence or Tinker's Tools check (DC equal to 8 + misfire score). If your check fails, the weapon is broken and must be mended out of combat at a quarter of the cost of the firearm.
+***Ammunition.*** Firearms use precisely crafted bullets as ammunition. each time you attack with a firearm, you expend one bullet. There is no means of recovering bullets once they have been fired.
 
-***Reload.*** A limited number of shots can be made with a firearm. You must then reload it using an action or bonus action (Your choice).
+***Multi-barrels.*** You can attack with the weapon multiple times before reloading. The number of barrels the weapon has is indicated in parenthesis.
 
-#### Ammunition
-Firearms require ammunition to make an attack. Flint and caplock firearms use the same ammunition. Both ammuni-tions are generally sold in batches at the prices list below. Blunderbuss and Scatterguns use special ammunition that has its own price.
+***Scattershot.*** This weapon can fire special *pellet shells* that spread into a volley of shots rather than a single one, making it easier to hit far away targets with at least one pellet. Targets within the first half of your short range take one extra damage dice and you have advantage on attack rolls made against targets beyond that, up to the weapons long range—which doesn't incur you disadvan&shy;tage. When shooting a scattershot, it deals the damage dice indicated in parenthesis, rather than its normal damage.
 
-#### Crafting
-If materials are gathered, you can craft ammunition your-self using Tinker's Tools at half the cost in the table below. 
-
-Requiring a successful DC 12 Tinker's Tools check to be done over the course of a short rest, crafting 1 batch of ammunition for the chosen weapon type.
-
-<div style='margin-top:0px;'></div>
-<div class='classTable wide'>
-
-##### Firearms
-|&nbsp; Name | Cost |&nbsp;&nbsp;&nbsp;&nbsp;| Damage | Weight |&nbsp;&nbsp;&nbsp;&nbsp;| Properties                                   &nbsp;|
-|:-------------------------------|-----:|:-|:--------------|----:|:-|:-----------------------------------------------------------------------|
-|&nbsp; *Flintlock Firearms*     |        ||               |       ||                                                                  &nbsp;|
-|&nbsp;&nbsp;&nbsp; Blunderbuss  | 300 gp ||  2d8 piercing | 10 lb.|| Ammunition (range 15/60), reload 1, misfire 2                    &nbsp;|
-|&nbsp;&nbsp;&nbsp; Musket       | 300 gp || 1d12 piercing | 10 lb.|| Ammunition (range 120/480), two-handed, <br> reload 1, misfire 2 &nbsp;|
-|&nbsp;&nbsp;&nbsp; Pistol       | 150 gp || 1d10 piercing |  3 lb.|| Ammunition (range 60/240), reload 2, misfire 1                   &nbsp;|
-|&nbsp; *Caplock Firearms*       |        ||               |       ||                                                                  &nbsp;|
-|&nbsp;&nbsp;&nbsp; Pepperbox    | 350 gp ||  2d4 piercing |  5 lb.|| Ammunition (range 80/320), reload 4, misfire 2                   &nbsp;|
-|&nbsp;&nbsp;&nbsp; Revolver     | 525 gp || 1d10 piercing |  6 lb.|| Ammunition (range 120/380), reload 6, misfire 1                  &nbsp;|
-|&nbsp;&nbsp;&nbsp; Rifle        | 600 gp ||  2d6 piercing | 10 lb.|| Ammunition (range 300/600), two-handed, <br> reload 8, misfire 2 &nbsp;|
-|&nbsp;&nbsp;&nbsp; Scattergun   | 400 gp || 2d10 piercing | 12 lb.|| Ammunition (range 30/90), reload 1, misfire 3                    &nbsp;|
-|&nbsp; *Ammunition*                        |        ||    |       ||                                                                  &nbsp;|
-|&nbsp;&nbsp;&nbsp; Flintlock, bullets (10) |   3 gp || —  |  2 lb.|| —                                                                &nbsp;|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blunderbuss, bullets (5)|5 gp || —  |  2 lb.|| —                                                  &nbsp;|
-|&nbsp;&nbsp;&nbsp; Caplock, rifle (10)     |   5 gp || —  |  3 lb.|| —                                                                &nbsp;|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scattergun, bullets (5)|8 gp || —  |  3 lb.|| —                                                  &nbsp;|
-</div>
+***Suppressor.*** The weapon makes no sound and light when used, and thus, ignores the booming sound rules.
 
 <div class='footnote'>PART 1 | NEW EQUIPMENT</div>
-<img src='https://www.gmbinder.com/images/jksRqck.jpg' style='position:absolute; top:700px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:-250px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/OT3bM1A.png' style='position:absolute; top:410px; right:400px; width:340px;transform:rotate(10deg)' />
+<img src='https://www.gmbinder.com/images/J4qhu5m.png' style='position:absolute; top:5px; right:110px; width:600px' />
 
 \pagebreakNum
 
