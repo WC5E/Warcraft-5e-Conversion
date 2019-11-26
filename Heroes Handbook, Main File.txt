@@ -8217,7 +8217,8 @@ Foresight
 
 ### Shaman Spells
 ##### Cantrips (0 Level)
-Control Flames
+Booming Blade
+<br> Control Flames
 <br> Create Bonfire
 <br> Frostbite
 <br> Gust
@@ -8233,7 +8234,6 @@ Control Flames
 
 ##### 1st Level
 Absorb Elements
-<br> Chromatic Orb
 <br> Create or Destroy Water
 <br> Cure Wounds
 <br> Detect Magic
@@ -8242,13 +8242,13 @@ Absorb Elements
 <br> ✦ Elemental Shock
 <br> Fog Cloud
 <br> Guiding Hand
+<br> ✦ Lightning Shield
 <br> Searing Smite
 <br> Thunderous Smite
 <br> Thunderwave
 
 ##### 2nd Level
 Augury
-<br> ✦ Chain Heal
 <br> Continual Flame
 <br> Dust Devil
 <br> Gust of Wind
@@ -8264,25 +8264,25 @@ Augury
 
 ##### 3rd Level
 Call Lightning
+<br> ✦ Chain Heal
 <br> Counterspell
 <br> Dispel Magic
 <br> ✦ Earthen Spike
 <br> Erupting Earth
-<br> ✦ Lesser Chain Lightning
 <br> Lightning Bolt
+<br> Magic Circle
 <br> Meld Into Stone
 <br> Protection from Energy
 <br> Revivify
 <br> Spirit Guardians
-
-\columnbreak
-
-Thunderstep
+<br> Thunderstep
 <br> Tidal Wave
 <br> Wall of Water
 <br> Water Breathing
 <br> Water Walk
 <br> Wind Wall
+
+\columnbreak
 
 ##### 4th Level
 Conjure Minor Elementals
@@ -8297,7 +8297,8 @@ Conjure Minor Elementals
 <br> Watery Sphere
 
 ##### 5th Level
-Commune with Nature
+✦ Bloodlust and Heroism
+<br> Commune with Nature
 <br> Conjure Elemental
 <br> Control Winds
 <br> Greater Restoration
@@ -8318,7 +8319,6 @@ Bones of the Earth
 <br> Investiture of Wind
 <br> Move Earth
 <br> Primordial Ward
-<br> Tenser's Transformation
 <br> Wind Walk
 
 ##### 7th Level
@@ -8329,6 +8329,7 @@ Etherealness
 
 ##### 8th Level
 Antimagic Field
+<br> ✦ Cataclysm
 <br> Control Weather
 <br> Earthquake
 <br> Tsunami
@@ -8336,6 +8337,7 @@ Antimagic Field
 ##### 9th Level
 Foresight
 <br> Imprisonment
+<br> Mass Heal
 <br> Storm of Vengeance
 <br> True Resurrection
 <div style='margin-top:1000px;'></div>
@@ -8553,6 +8555,20 @@ As an action on each of your turns before the spell ends, you can call down anot
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
+#### Bloodlust and Heroism
+*5th-level enchantment*
+___
+- **Casting Time:** 1 action
+- **Range:** self (30-feet radius)
+- **Components:** V, S
+- **Duration:**  Concentration, up to 1 minute
+___
+You imbue creatures of your choice within range with the will and determination to fight harder. Each target gains the following benefits for the duration of the spell.
+
+- The target is immune to being frightened and any frightened condition on the target is surpressed for the spell's duration.
+- Whenever the target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
+- The target gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
+
 #### Cataclysm
 *8th-level conjuration*
 ___
@@ -8561,25 +8577,25 @@ ___
 - **Components:** V, S, M (a piece of charcoal)
 - **Duration:** Concentration, up to 10 minutes
 ___
-The ground cracks as small fissures reveal molten magma beneath its surface in a 20-foot radius centered on a point within range. The fissures are harmless and too small to deal damage to any creature that moves over them.
+The ground cracks as fissures reveal molten magma beneath the surface in a 20-foot radius centered on a point within range. The fissures are harmless and too small to deal damage to any creature that moves over them.
 
-While you are concentrating on the spell, you can use your action to rip open the fissured earth, bursting a torrent of flame 10-feet tall through the fissures. Once done, you can do so again and the spell lasts for its duration. When you rip open the ground, each creature in the area must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there.
+Once while you are concentrating on the spell, you can use your action to erupt the fissured in a torrent of flames until the spell ends or you use your bonus action to calm the fissures. Each creature in the area of the cataclysm must make a Constitution saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. 
 
-You can use a bonus action on your turn to end the spell, making the spells area natural difficult terrain.
+A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there.
 
 \columnbreak
 
 #### Chain Heal
-*2nd-level evocation*
+*3rd-level evocation*
 ___
 - **Casting Time:** 1 action
-- **Range:** 30 feet
+- **Range:** 30 feet (15-feet between targets)
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-Your primary target regains hit points equal to 1d8 + your spellcasting modifier. The spell then jumps to a second creature within 15 feet of the primary target, who regains 1d6 + your spellcasting modifier hit points. Lastly, the spell jumps to a third creature within 15 feet of the second one, and replenishing 1d4 + your spellcasting modifier hit points to it. The spell has no effect on constructs.
+A beam of restorative energies surges through a friendly creatures. Choose a target within range, then choose a target within range of it, and another within range of the second target. You can't choose the same target more than once. Each target chosen by this spell regains a number of hit points equal to 2d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the healing each target receives increase by one hit dice size for each slot level above 2nd. To a maximum of 1d12 for each creature affected.
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the chain heal surges through one additional target for each slot level above 3rd.
 
 #### Chains of Ice
 *2nd-level transmutation*
@@ -8716,18 +8732,16 @@ ___
 - **Components:** V, S, M (a granite pebble)
 - **Duration:** Concentration, up to 1 hour
 ___
-A place your hand to the ground, and erupt a large stalag-mite beneath a creature within range. The creature must make a Dexterity saving throw. On a failed save, the target takes 6d8 bludgeoning damage and is knocked 20 feet into the air as a 15-foot in diameter and 20 feet high spike rises beneath it. On a successful saving throw, the target takes half damage.
+You place your hand on the ground and evoke the element of earth, erupting a spike of earth at a point within range. A 5-foot radius, 15-foot high spike of earth erupts from that point. Each creature within that area must make a Dexterity saving throw. On a failed save, a creature takes 6d8 bludgeoning damage, or half as much damage on a success. Each creature affected by this spike is pushed away from the point of the spell to the nearest empty space. A creature who failed the saving throw falls prone.
 
-Each creature within 5 feet of the chosen target must also make a Dexterity saving throw. On a failed save, the target takes half damage, and no damage on a success. 
+The earthen spike remains for the duration of the spell or until your concentration is broken at which point it crumbles, leaving its area as difficult terrain. When it crumbles, each creature within 5 feet of it must succeed on a Dexterity saving throw or take 1d6 bludgeoning damage. 
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
 <div class='footnote'>PART 2 | SPELLS </div>
 <img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
-
-The creature is then pushed back 5 feet. The stalag-mite remains until your concentration is broken, at which point it crumbles, making its area difficult terrain.
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
 #### Elemental Shock
 *1st-level evocation*
@@ -8737,7 +8751,7 @@ ___
 - **Components:** V, S, M (a piece of brimstone, granite, glass, and a feather)
 - **Duration:** Instantaneous
 ___
-You manifest a swift burst of elemental force, and launch it at creature of within range. Make a ranged spell attack against the target. On a hit, the target takes 3d8 bludgeo&shy;ning, cold, fire, or lightning damage (your choice).
+You manifest a burst of elemental force around a creature within range. You choose acid, cold, fire, lightning, or thunder for the shock you make, the creature must then make a Dexterity saving throw. Taking 3d8 of the chosen damage type on a failed save, or half as much on a success.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
@@ -8963,9 +8977,21 @@ ___
 - **Components:** S
 - **Duration:** Instantaneous
 ___
-An arc of lightning blasts from your palms towards a creature within range. Make a ranged spell attack. On a hit, the target takes 1d8 lightning damage.
+An arc of lightning streaks from your palms towards a creature within range. Make a ranged spell attack. On a hit, the target takes 1d8 lightning damage. If the target is wearing armor made of metal, it instead takes 1d12 lightning damage.
 
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+This spell's damage increases by 1d8 when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
+
+#### Lightning Shield
+*1st-level abjuration*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** 60 feet
+- **Components:** S
+- **Duration:** Concentration, up to 10 minutes
+___
+You call upon the element of air and surround a friendly target within range with a field of crackling electricity. Until the spell ends, the target gains a +1 bonus to AC and when a creature hits it with a melee attack, that creature takes 1d4 lightning damage.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
 
 #### Mind Blast
 *2nd-level evocation*
