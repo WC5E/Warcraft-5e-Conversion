@@ -231,6 +231,19 @@
     line-height: 20px;
   }
 
+/* STAT BLOCKS */
+  /* For creature statblocks within range (start and end must be specified),
+     don't show a background. Used for the appendix creatures */
+  .phb:nth-of-type(n+140):nth-of-type(-n+200) hr+section blockquote {
+    background: none;
+    border: none;
+    box-shadow: none;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+
 </style>
 
 <div class='cover-header-container'>
@@ -9796,8 +9809,6 @@ This system can be applied to monsters that cast spells using spell slots, but i
 <img src='https://www.gmbinder.com/images/f4ZZbj7.jpg' style='position:absolute; top:0px; right:-350px; width:2200px;transform:rotate(-10deg)' />
 
 \pagebreak
-
-<style>.phb hr+section blockquote { background: none; border: none; box-shadow: none; } </style>
 
 # Appendix A: Shapeshifts
 
