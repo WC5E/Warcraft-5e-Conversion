@@ -7921,7 +7921,8 @@ Foresight
 
 ### Mage Spells
 ##### Cantrips (0 Level)
-Blade Ward
+✦ Arcane Blast
+<br> Blade Ward
 <br> Control Flames
 <br> Create Bonfire
 <br> Dancing Lights
@@ -7957,16 +7958,7 @@ Alarm
 <br> Magic Missile
 <br> Shield
 <br> Silent Image
-</div>
-
-<div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
-
-<div style='column-count:2'>
-
-Snare
+<br> Snare
 <br> Sudden Awakening
 <br> Tenser's Floating Disk
 <br> Unseen Servant
@@ -7985,6 +7977,7 @@ Aganazzar's Scorcher
 <br> Enlarge/Reduce
 <br> Flame Blade
 <br> Flaming Sphere
+<br> ✦ Freezing Touch
 <br> Heat Metal
 <br> Hold Person
 <br> Invisibility
@@ -7992,6 +7985,9 @@ Aganazzar's Scorcher
 <br> Levitate
 <br> Magic Mouth
 <br> Mirror Image
+
+\columnbreak
+
 <br> Misty Step
 <br> Phantasmal Force
 <br> Scorching Ray
@@ -8001,12 +7997,12 @@ Aganazzar's Scorcher
 <br> Suggestion
 
 ##### 3rd Level
-Bestow Curse
+✦ Arcane Explosion
+<br> Bestow Curse
 <br> Blink
 <br> ✦ Blizzard
 <br> Counterspell
 <br> Create food and Water
-<br> ✦ Dampen Magic
 <br> Dispel Magic
 <br> Feign Death
 <br> Fireball
@@ -8014,6 +8010,7 @@ Bestow Curse
 <br> Glyph of Warding
 <br> Haste
 <br> Hypnotic Pattern
+<br> Magic Circle
 <br> Major Image
 <br> Nondetection
 <br> Protection from Energy
@@ -8026,18 +8023,15 @@ Bestow Curse
 <br> Tongues
 
 ##### 4th Level
-✦ Arcane Barrage
-<br> ✦ Arcane Explosion
+✦ Amplify or <br>&nbsp;&nbsp;&nbsp; Dampen Magic
+<br> ✦ Arcane Barrage
 <br> Banishment
 <br> Charm Monster
 <br> Confusion
+<br> Conjure Minor Elementals
 <br> Dimension Door
 <br> Fire Shield
-<br> ✦ Freezing Touch
-
-\columnbreak
-
-Greater Invisibility
+<br> Greater Invisibility
 <br> Hallucinatory Terrain
 <br> ✦ Ice Block
 <br> Ice Storm
@@ -8052,11 +8046,16 @@ Animate Objects
 <br> Cone of Cold
 <br> Creation
 <br> Dominate Person
+<br> Conjure Elemental
 <br> Enervation
 <br> Immolation
 <br> Passwall
+<br> Planar Binding
 <br> Scrying
 <br> Seeming
+
+\columnbreak
+
 <br> Skill Empowerment
 <br> Synaptic Static
 <br> Teleportation Circle
@@ -8088,9 +8087,11 @@ Delayed Blast Fireball
 <br> ✦ Glacial Spike
 <br> Mordenkainen's <br>&nbsp;&nbsp;&nbsp; Magnificent Mansion
 <br> Project Image
-<br> ✦ Pyreblast
+<br> ✦ Pyroblast
 <br> Sequester
 <br> Teleport
+
+\columnbreak
 
 ##### 8th Level
 Antimagic Field
@@ -8104,13 +8105,22 @@ Antimagic Field
 <br> Mind Blank
 
 ##### 9th Level
-Imprisonment
+Gate
+<br> Imprisonment
 <br> Invulnerability
 <br> ✦ Jaina's Flying Ship
 <br> Mass Polymorph
 <br> Meteor Swarm
 <br> Time Stop
 <br> True Polymorph
+</div>
+
+<div class='footnote'>PART 2 | SPELLS </div>
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+
+\pagebreakNum
+
+<div style='column-count:2'>
 
 ### Paladin Spells
 ##### 1st Level
@@ -8227,7 +8237,6 @@ Aid
 <br> Prayer of Healing
 <br> Protection from Poison
 <br> ✦ Shackle Undead
-<br> Shadow Blade
 <br> ✦ Shining Force
 <br> Silence
 <br> Suggestion
@@ -8496,7 +8505,6 @@ Cloud of Daggers
 <br> Phantasmal Force
 <br> Ray of Enfeeblement
 <br> Scorching Ray
-<br> Shadow Blade
 <br> ✦ Soulwell
 
 ##### 3rd Level
@@ -8581,6 +8589,20 @@ Imprisonment
 ## Spell Descriptions
 The new spells are presented in alphabetical order.
 
+#### Amplify or Dampen Magic
+*4th-level abjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** S, M (something of value to the creature)
+- **Duration:** Concentration, up to 1 minute
+___
+You manipulate the flow of mana rushing through a creature, if the creature is unwilling you must succeed on a melee spell attack before you can manipulate their flow. When you touch a creature with this spell, you choose which effect you want to affect the creature with for the spells duration.
+
+***Amplify.*** You amplify a creatures magical prowess. The creature takes additional damage when hit by a spell, deals additional damage when casting a spell, and restores additional hit points to a creature with a spell by an amount equal to your spellcasting modifier.
+
+***Dampen.*** You dampen a creatures magical prowess. The creature reduces damage taken by spells, damage dealt by spells, and the number of hit points restored to it by a spell by an amount equal to your spellcasting modifier.
+
 #### Angelic Feather
 *1st-level enchantment*
 ___
@@ -8599,21 +8621,33 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-You conjure two swirling intertwined balls of raw force, hurling them at a point you choose within range and then pushing beings away as they make an explosion of force. Each creature in a 10-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 6d8 force damage on a failed save, or half as much damage on a successful one, and are pushed 5 feet away from the point of impact. 
+You manifest two bolts of raw force and launch them at a target within range. Make a ranged spell attack for each bolt. On a hit, a target takes 4d6 force damage and is pushed 10 feet directly away from you.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8, and the push back by 5 feet for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a <br> spell slot of 5th level or higher, the damage of each bolt increases by 1d6 for each slot level above 4th.
+
+#### Arcane Blast
+*Evocation cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+You extend your hand and make a burst of arcane energy erupt from a target within range. If the target is a creature it must succeed on a Dexterity saving throw or take 1d8 force damage. A creature forced to make a Constitution saving throw to maintain concentration because of this spell, makes the saving throw with disadvantage.
+
+This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), 17th level (4d8).
 
 #### Arcane Explosion
-*4th-level evocation*
+*3rd-level evocation*
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (10-foot-radius sphere)
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-Arcane forces blast out from you in a 10-foot-radius sphere. Each creature within range must make a Constitution saving throw, taking 12d4 force damage on a failed saving throw, or half as much on a successful one.
+You draw from the fluctuating arcane near you and burst with a wave of arcane power. Each creature within range must make a Dexterity saving throw. A target takes 6d8 force damage on a failed saving throw, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 2d4 for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
 #### Asphyxiate
 *3rd-level necromancy*
@@ -8640,9 +8674,7 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-Orange light flashes as a 15-foot tall wall of fire expands outward from your position. Each creature hit by the wall must make a Constitution saving throw. On a failed save, a creature takes takes 12d6 fire damage and is knocked prone. Taking half damage on a successful save.
-
-This spell dispels any darkness in its area that was created by a spell, and makes the area brightly lit until the start of your next turn.
+Your hands burst into flames as you push a roaring wave of fire outward from yourself. Each creature in a 60-foot cone must make a Constitution saving throw. A target takes 12d8 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried. A creature killed by this spell is reduced to ash.
 
 #### Blizzard
 *3rd-level evocation*
@@ -8652,7 +8684,7 @@ ___
 - **Components:** V, S, M (shards of glass)
 - **Duration:** Concentration, up to 1 minute
 ___
-A cold light flashes from your hand into the sky, as blue shards hurl down at a point you choose within range, slash-ing through flesh with a biting cold. Each creature in a 20-foot-radius, 60-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A target takes 3d6 cold damage on a failed save, or half as much damage on a successful one.
+A cold light flashes from your hand into the sky as blue shards hurl down at a point you can see within range. Each creature in a 20-foot-radius, 60-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A target takes 3d6 cold damage on a failed save, or half as much damage on a successful one.
 
 As an action on each of your turns before the spell ends, you can call down another blizzard in the same location.
 
@@ -8725,16 +8757,6 @@ ___
 A whirl of wind 5-foot wide and 15-foot high rushes up around a target within range. The target must make a successful Dexterity saving throw, or be grappled for the spells duration. A grappled target can use its action to make a Dexterity saving throw. On a successful save, the target forces itself out of the cyclone in an empty space within 5 feet of it.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you conjure one additional cyclone beneath a target within range for every two slot levels above 2nd.
-
-#### Dampen Magic
-*3rd-level abjuration*
-___
-- **Casting Time:** 1 bonus action
-- **Range:** Touch
-- **Components:** S
-- **Duration:** Concentration, up to 1 minute
-___
-You place your hand on a creature within range, and mani-fest an invisible barrier around their body. The target gains resistance to damage dealt by spells for the spells duration.
 
 <div class='footnote'>PART 2 | SPELLS </div>
 <img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
@@ -8883,16 +8905,14 @@ A shard of ice streaks toward a creature within range. Make a ranged spell attac
 The spell creates more than one shard when you reach higher levels: two shards at 5th level, three shards at 11th level, and four shards at 17th level. You can direct the shards at the same target or at different ones. Make a separate attack roll for each shard.
 
 #### Freezing Touch
-*4th-level evocation*
+*2nd-level evocation*
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Components:** V, S, M (a shard of glass or ice)
 - **Duration:** 1 minute
 ___
-Ice forms on your finger tips. Make a melee spell attack against a creature within range. On a hit, the creature is encapsulated as ice rapidly forms around it. The creature is stunned for the duration of the spell.
-
-On the end of each of the creatures turns, it must make a Strength saving throw. On a successful save it breaks itself out of the ice, ending the spell.
+Your fingers become cold to the touch as frost manifests on their surface. Make a melee spell attack against a creature within range. On a hit, the creature is incapacitated, can't move, and can't breathe until the spell ends as ice encap&shy;sulates their body. A target who hits the creature with an attack breaks the ice and ends the spell.
 
 \columnbreak
 
@@ -8916,7 +8936,7 @@ ___
 - **Components:** V, S, M (a piece of glass and sulfur)
 - **Duration:**  Instantaneous
 ___
-You hurl a blue flamed firebolt at a creature within range. Make a ranged spell attack against the creature. On a hit, the target takes 2d6 fire damage and 2d6 frost damage.
+You hurl a bolt of blue flames at a creature within range. Make a ranged spell attack against the creature. On a hit, the target takes 2d6 fire damage and 2d6 frost damage.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the fire and cold damage increases by 1d6 for each slot level above 1st.
 
@@ -8928,9 +8948,9 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-You form a large spike of ice above your head, and launch it at a creature that you can see within range, causing it to shatter across their body. The target must make a Constitution saving throw. It takes 7d8 cold damage plus 30 bludgeoning damage on a failed save, or half as much damage on a successful one. If this damage reduces the target to 0 hit points, it and everything it is wearing and carrying, except magic items, are transformed into shards of ice that shatters in its space. The creature can be restored to life only by means of a true resurrection or a wish spell. 
+You form a large spike of ice above your head, and launch it at a creature that you can see within range, causing it to shatter across their body. The target must make a Constitu&shy;tion saving throw. It takes 8d8 + 40 cold damage on a failed save, or half as much damage on a successful one. 
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher, the cold damage increases by 2d8 for each slot level above 7th.
+If this damage reduces a creature to 0 hit points, it is reduced to shards of ice, leaving behind everything it was wearing and carrying. The creature can be restored to life only by means of a true resurrection or a wish spell.
 
 #### Guardian of the Forgotten Queen
 *3rd-level abjuration*
@@ -8974,14 +8994,12 @@ You release a burst of radiant energy in a blast centered around you. Each enemy
 #### Ice Block
 *4th-level abjuration*
 ___
-- **Casting Time:** 1 reaction, which you take when you are targeted by an attack or spell
+- **Casting Time:** 1 reaction, which you take when you are hit by an attack or spell
 - **Range:** Self
 - **Components:** V, S
-- **Duration:**  Concentration, up to 10 minutes
+- **Duration:**  Concentration, up to 1 minute
 ___
-Solid ice rapidly encases your body, protecting you from harm. You immediately gain 40 temporary hit points, and resistance against all damage except fire and psychic, and immunity to cold damage. Ice block continues until your concentration is broken, your temporary hit points vanish, or you end it prematurely.
-
-While encased, you are under the effects of being incapacitated, with the exception of your concentration being broken.
+Ice rapidly materializes around you, protecting you from harm. You gain 40 temporary hit points and immunity to cold damage for the spells duration. While the spell is active you can't move and take any actions or reactions. The spell remains until the temporary hit points have been expend, your concentration breaks, or you end it as a free action on your turn.
 
 #### Ice Nova
 *8th-level evocation*
@@ -8991,7 +9009,7 @@ ___
 - **Components:** V, S, M (glass dust and water)
 - **Duration:** Instantaneous
 ___
-Frigid cold rapid expands in a 15-foot-radius centered on a point you choose within range. Each creature in the cold must succeed on a Dexterity saving throw. On a failed save, a creature takes 10d6 cold damage and is grappled for 1 hour as ice encases the lower part of their legs. On a successful save, it takes half as much damage and isn't grappled by this spell.
+Frigid cold rapid expands in a 15-foot-radius centered on a point you you can see within range. Each creature in the cold must succeed on a Dexterity saving throw. On a failed save, a creature takes 10d6 cold damage and is grappled for 1 minute as ice encases the lower part of their legs. On a successful save, it takes half as much damage and isn't grappled by this spell.
 
 A creature can break the grapple by using their action to make a Strength saving throw, or deal a total of 40 hit points worth of damage to the ice.
 
@@ -9095,6 +9113,20 @@ ___
 You call upon the element of air and surround a friendly target within range with a field of crackling electricity. Until the spell ends, the target gains a +1 bonus to AC and when a creature hits it with a melee attack, that creature takes 1d4 lightning damage.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
+
+#### Living Bomb
+*2nd-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a flammable liquid)
+- **Duration:**  Concentration, up to 1 minute
+___
+You manipulate the mana flowing through a creature within range, making it burn from the inside with a roaring fire. The target must make a Constitution saving throw. Taking 1d10 fire damage on a failed save, or half as much on a successful one. At the start of each of your turns for the spells duration, the target must make another Constitution saving throw as it takes the damage again
+
+When the spell ends, your concentration is broken, or you end it as a free action. The target and each creature within 10 feet of it must succeed on a Dexterity saving throw or take 2d6 fire damage.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage of the explosion increases by 1d6 for each slot level above 2nd.
 
 #### Mind Blast
 *Evocation cantrip*
