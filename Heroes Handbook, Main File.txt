@@ -4102,7 +4102,7 @@ At 20th level, you gain the ability to harness extraordinary martial prowess. Us
 
 \pagebreakNum
 
-<div style='margin-top:430px'></div>
+<div style='margin-top:370px;'></div>
 
 ## Priest
 *It is faith in ourselves that separates us from others, and with our powers, we will cause great change in all of Azeroth. The weak will come to lean on you. The lepers will call you Lord. And the ignorant will look to you for guidance.*
@@ -4121,10 +4121,11 @@ Priests are the bridge between light and dark, they are the wielders of the warm
 ### Invokers of Light and Darkness
 Priests are devoted to the spiritual, and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders. These masters of the healing arts keep their companions fighting far beyond their normal capacities with an array of restorative powers and blessings. The divine forces at the priest’s command can also be turned against foes.
 
-<br>
-<div style='margin-top:630px'></div>
-
 As light cannot exist without darkness, and darkness without light, some priests tap into shadow to better understand their own abilities, as well as the abilities of those who threaten them.
+
+\columnbreak
+
+<div style='margin-top:726px;'></div>
 
 ### Devoted Acolytes
 Priests practice a complex, organized form of spirituality built around moral philosophy, the worship of a particular deity (such as Elune) in some cases, and/or idol worship, rather than around the reverence of the elements that shamans practice, or the close divine connection with animals and the wilderness that druids maintain. Priests serve not only as influential religious figures in their respective societies, but also as powerful practitioners of divine magic, which they use to heal and protect, or harm and weaken.
@@ -4132,37 +4133,37 @@ Priests practice a complex, organized form of spirituality built around moral ph
 Devotion to the faiths of Azeroth leads many priests to the paths of courage and heroism. In dark times, priests carry the Light of faith with them as a reminder of the powerful forces at work beyond the comprehension of the peoples who walk the land. Powerful healers with an intimate connection to the divine, priests are empowered with abilities that aid them in times of dire need.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/ydhgeyS.jpg' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-500px; right:-200px; width:1500px;transform:rotate(-25deg' />
-<img src='https://www.gmbinder.com/images/HVhj3nD.png' style='position:absolute; top:0px; right:-100px; width:600px' />
+<img src='https://www.gmbinder.com/images/ydhgeyS.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/vn90cy3.png' style='position:absolute; top:0px; right:-100px; width:900px' />
+<img src='https://www.gmbinder.com/images/lyv4YVJ.png' style='position:absolute; top:40px; right:-100px; width:600px' />
 
 \pagebreakNum
 
 <div class='classTable wide'>
 
 ##### The Priest
-|Level|Proficiency<br>Bonus|Light<br>Points|&nbsp;|Features|Cantrips<br>Known|&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;|6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th|
-|:---:|:--:|:--:|:-|:-------------------|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|:-|:--:|
-| 1st | +2 |  — || Spellcasting, Divine Priesthood                                      |3||2||—||—||—||—||—||—||—||—|
-| 2nd | +2 |  2 || Channel Divinity (1/rest), Divine Priesthood feature, Lightwell      |3||3||—||—||—||—||—||—||—||—|
-| 3rd | +2 |  3 || Word of Power                                                        |3||4||2||—||—||—||—||—||—||—|
-| 4th | +2 |  4 || Ability Score Improvement                                            |4||4||3||—||—||—||—||—||—||—|
-| 5th | +3 |  5 || —                                                                    |4||4||3||2||—||—||—||—||—||—|
-| 6th | +3 |  6 || Channel Divinity (2/rest), Divine Priesthood feature                 |4||4||3||3||—||—||—||—||—||—|
-| 7th | +3 |  7 ||  —                                                                   |4||4||3||3||1||—||—||—||—||—|
-| 8th | +3 |  8 || Ability Score Improvement, Divine Priesthood feature                 |4||4||3||3||2||—||—||—||—||—|
-| 9th | +4 |  9 || —                                                                    |4||4||3||3||3||1||—||—||—||—|
-| 10th| +4 | 10 || Divine Intervention, Word of Power                                   |5||4||3||3||3||2||—||—||—||—|
-| 11th| +4 | 11 || —                                                                    |5||4||3||3||3||2||1||—||—||—|
-| 12th| +4 | 12 || Ability Score Improvement                                            |5||4||3||3||3||2||1||—||—||—|
-| 13th| +5 | 13 || —                                                                    |5||4||3||3||3||2||1||1||—||—|
-| 14th| +5 | 14 || Word of Power                                                        |5||4||3||3||3||2||1||1||—||—|
-| 15th| +5 | 15 || —                                                                    |5||4||3||3||3||2||1||1||1||—|
-| 16th| +5 | 16 || Ability Score Improvement                                            |5||4||3||3||3||2||1||1||1||—|
-| 17th| +6 | 17 || Divine Priesthood feature, Word of Power                             |5||4||3||3||3||2||1||1||1||1|
-| 18th| +6 | 18 || Channel Divinity (3/rest)                                            |5||4||3||3||3||3||1||1||1||1|
-| 19th| +6 | 19 || Ability Score Improvement                                            |5||4||3||3||3||3||2||1||1||1|
-| 20th| +6 | 20 || Divine Intervention improvement                                      |5||4||3||3||3||3||2||2||1||1|
+|Level|Proficiency<br>Bonus|Faith<br>Points|&nbsp;|Features|Cantrips<br>Known|&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;|6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th|
+|:---:|:--:|:-:|-|:----------|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|
+| 1st | +2 | —|| Spellcasting, Divine Calling             |3||2||—||—||—||—||—||—||—||—|
+| 2nd | +2 | 2|| Devotion                                 |3||3||—||—||—||—||—||—||—||—|
+| 3rd | +2 | 3|| Power Word                               |3||4||2||—||—||—||—||—||—||—|
+| 4th | +2 | 4|| Ability Score Improvement                |4||4||3||—||—||—||—||—||—||—|
+| 5th | +3 | 5|| —                                        |4||4||3||2||—||—||—||—||—||—|
+| 6th | +3 | 6|| Divine Calling feature                   |4||4||3||3||—||—||—||—||—||—|
+| 7th | +3 | 7||  —                                       |4||4||3||3||1||—||—||—||—||—|
+| 8th | +3 | 8|| Ability Score Improvement                |4||4||3||3||2||—||—||—||—||—|
+| 9th | +4 | 9|| —                                        |4||4||3||3||3||1||—||—||—||—|
+| 10th| +4 |10|| Power Word, Divine Restoration           |5||4||3||3||3||2||—||—||—||—|
+| 11th| +4 |11|| —                                        |5||4||3||3||3||2||1||—||—||—|
+| 12th| +4 |12|| Ability Score Improvement                |5||4||3||3||3||2||1||—||—||—|
+| 13th| +5 |13|| —                                        |5||4||3||3||3||2||1||1||—||—|
+| 14th| +5 |14|| Divine Calling feature                   |5||4||3||3||3||2||1||1||—||—|
+| 15th| +5 |15|| —                                        |5||4||3||3||3||2||1||1||1||—|
+| 16th| +5 |16|| Ability Score Improvement                |5||4||3||3||3||2||1||1||1||—|
+| 17th| +6 |17|| Power Word                               |5||4||3||3||3||2||1||1||1||1|
+| 18th| +6 |18|| Divine Restoration improvement           |5||4||3||3||3||3||1||1||1||1|
+| 19th| +6 |19|| Ability Score Improvement                |5||4||3||3||3||3||2||1||1||1|
+| 20th| +6 |20|| Divine Calling feature                   |5||4||3||3||3||3||2||2||1||1|
 </div>
 
 ### Creating a Priest
@@ -4173,7 +4174,9 @@ How did you enter priesthood? Were you raised in a mo-nastery? Did you hear a wh
 As guardians against forces of wickedness and evil, priests are rarely of any evil alignment. Most of them walk the paths of charity and soothing, or did you never feel the warmth of the holy light, and instead felt the calling of the old gods? their voidic magic wrapping around you, making your actions chaotic?
 
 #### Quick Build
-You can make a priest quickly by following these sugges-tions. First. Wisdom should be your highest ability score, followed by Constitution.
+You can make a priest quickly by following these sugges&shy;tions. First, Charisma should be your highest ability score, followed by Constitution.
+
+\columnbreak
 
 ## Class Features
 As a priest, you gain the following class features.
@@ -4182,13 +4185,13 @@ As a priest, you gain the following class features.
 ___
 - **Hit Dice:** 1d6 per priest level
 - **Hit Points at 1st Level:** 6 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d6 + your Constitution modifier per priest level after 1st
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per priest level after 1st
 
 #### Proficiencies
 ___
 - **Armor:** None
 - **Weapons:** All simple weapons
-- **Tools:** Healer's Kit
+- **Tools:** Herbalism kit
 ___
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
@@ -4197,12 +4200,13 @@ ___
 You start with the following equipment, in addition to the equipment granted by your background:
  - *(a)* a mace or *(b)* a quarterstaff
  - *(a)* a priest's pack or *(b)* an explorer's pack
- - a holy symbol, and two daggers
+ - a holy symbol, herbalism kit, and two daggers
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
 
 \pagebreakNum
+
+<div style='margin-top:160px;'></div>
 
 ### Spellcasting
 As a conduit for divine power. you can cast priest spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the priest spell list.
@@ -4213,20 +4217,20 @@ At 1st level, you know three cantrips of your choice from the priest spell list.
 #### Preparing and Casting Spells
 The Priest table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain expended spell slots when you finish a long rest.
 
-You prepare the list of priest spells that are available for you to cast, choosing from the priest spell list. When you do so, choose a number of priest spells equal to your Wisdom modifier + your priest level (minimum of one spell). The spells must be of a level for which you have spell slots.
+You prepare the list of priest spells that are available for you to cast, choosing from the priest spell list. When you do so choose a number of priest spells equal to your Charisma modifier + your priest level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level priest, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *flash heal*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level priest, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *flash heal*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of priest spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 #### Spellcasting Ability
-Wisdom is your spellcasting ability for your priest spells. The power of your spells comes from the light. You use your Wisdom whenever a priest spell refers to your spell-casting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a priest spell you cast and when making an attack roll with one.
+Charisma is your spellcasting ability for your priest spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a priest spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a priest spell you cast and when making an attack roll with one.
 
 <div style="text-align: Center">
 
-**Spell save DC** = 8 + your proficiency bonus + <br> your Wisdom modifier
+**Spell save DC** = 8 + your proficiency bonus + <br> your Charisma modifier
 
-**Spell attack modifier** = your proficiency bonus + <br> your Wisdom modifier
+**Spell attack modifier** = your proficiency bonus + <br> your Charisma modifier
 </div>
 
 #### Ritual Casting
@@ -4235,216 +4239,215 @@ You can cast a priest spell as a ritual if that spell has the ritual tag and you
 #### Spellcasting Focus
 You can use a holy symbol as a spellcasting focus for your priest spells.
 
-### Divine Priesthood
-Choose a divine priesthood: Discipline, Holy, or Shadow. Each priesthood is detailed at the end of the class descrip-tion. Your choice grants you spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+\columnbreak
 
-#### Priesthood Spells
-Each priesthood has a list of spells that you gain at the priest levels noted in the priesthood description. 
+<div style='margin-top:160px;'></div>
 
-<br>
+### Divine Calling
+Choose a divine calling, a path of priesthood that you have devoted yourself to: Discipline, Holiness or Shadow, each calling is detailed at the end of the class description. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 20th level.
 
-&nbsp;&nbsp;&nbsp; Once you gain a priesthood spell, you always have it pre-pared, and it doesn't count against the number of spells you can prepare each day.
+#### Calling Spells
+Each calling has a list of associated spells. You gain access to these spells at the levels specified in the calling descrip&shy;tion. Once you gain access to a calling spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
-If you have a priesthood spell that doesn't appear on the priest spell list, the spell is considered a priest spell for you.
+If you gain a calling spell that doesn't appear on the priest spell list, the spell is considered a priest spell for you.
 
-### Channel Divinity
-At 2nd level, you gain the ability to channel divine energy directly from the holy light, using that energy to fuel magical effects. You start with two such effects: Shackle Undead and an effect determined by your priesthood.
+### Devotion
+At 2nd level, you devotion to your divine calling bolsters you. This devotion is represented by faith points, which allow you to create a variety of magical effects.
 
-When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+#### Faith Points
+You have 2 faith points, and you gain more as you reach higher levels, as shown in the Faith Points column of the Priest table. You can never have more faith points than shown on the table for your level. You regain all spent faith points when you finish a long rest.
 
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your priest spell save DC.
+#### Enlightenment
+You can use your faith points to gain additional spell slots, or sacrifice spell slots to gain additional faith points. You learn other ways to use your faith points as you reach higher levels.
 
-Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
-
-#### Channel Divinity: Shackle Undead
-As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is stunned for 1 minute or until it takes any damage.
-
-### Lightwell
-Also at 2nd level, you tap into a deep wellspring of divine energy within yourself. This wellspring is represented by light points, which allow you to create magical effects.
-
-#### Light Points
-You have 2 light points, and you gain more as you reach higher levels, as shown in the Light Points column of the Priest table. You can never have more light points than shown on the table for your level. You regain all spent light points when you finish a long rest.
-
-#### Flexible Casting
-You can use your light points to gain additional spell slots, or sacrifice spell slots to gain additional light points. You learn other ways to use your light points as you reach higher levels.
-
-***Creating Spell Slots.*** You can transform unexpended light points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
+***Creating Spell Slots.*** You can transform unexpended faith points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating spell slot of a given level. You can create spell <br> slots no higher in level than 5th.
 
 ##### Creating Spell Slots
-| Spell Slot Level | Light Point Cost |&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
-|:----:|:-------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1st  | 2 ||||||||||||||
-| 2nd  | 3 ||||||||||||||
-| 3rd  | 5 ||||||||||||||
-| 4th  | 6 ||||||||||||||
-| 5th  | 7 ||||||||||||||
+| Spell Slot Level | Faith Point Cost |
+|:----:|:-------:|
+| 1st  | 2 |
+| 2nd  | 3 |
+| 3rd  | 5 |
+| 4th  | 6 |
+| 5th  | 7 |
 
-***Converting a Spell Slot to Light Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of light points equal to the slot's level.
+***Converting a Spell Slot to Faith Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of faith points equal to the slot's level.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://wallpapercave.com/wp/wp3333372.jpg' style='position:absolute; top:-50px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:20px; right:0px; width:900px; transform:scaley(-1)' />
 
 \pagebreakNum
 
-### Word of Power
-Starting at 3rd level, you gain the ability to speak words of power to envelope your allies or harm a creature. You learn two of the following Word of Power options of your choice. You learn another word at 10th, 14th, and 17th level.
-
-Speaking a word of power requires an action unless otherwise specified. You can only have one Word of Power active at a time, and can dismiss an active word as a bonus action on your turn.
+### Power Word
+At 3rd level, you are able to utter words of power weaved with magical effects. You gain two of the following Power Word options of your choice. You gain another one at 10th and 17th level.
 
 #### Barrier
-You can spend 2 light points and choose a creature within 30 feet of you, the chosen creature gains the benefit of the *protection from evil and good* spell for its duration.
+You can use your reaction and spend 1 faith point when you or a creature within 30 feet of you is hit by an attack roll, forcing the creature to re-roll the attack.
 
-This word of power requires your concentration.
+#### Beckon
+You can use your reaction and spend 2 faith points when a friendly creature within 60 feet of you is forced to make a saving throw to avoid an area effect or falls. The creature is pulled to an empty space within 5 feet of you and suffers no effects from the area effect if beckon pulled it out of its area and takes no damage from falling.
 
 #### Chastise
-You can spend 2 light point and choose a point within 60 feet of you, all allies within 10 feet gains advantage on attack rolls until the start of your next turn. If they hit with a weapon attack, their weapon deals radiant damage instead of weapon damage.
+You can use your action and spend 2 faith points to chastise a creature of your choice within 30 feet of you. The target must succeed on a Wisdom saving throw against your spell save DC or be incapacitated until the end of its next turn. 
+
+#### Death
+When you roll damage for a priest spell, you can spend 1 faith point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls for those dice.
 
 #### Fortitude
-You can spend 2 light point and choose a creature within 60 feet of you, the chosen creature have resistance against all damage for  up to 1 minute.
+You can use reaction when one or more creatures are forced to make a saving throw. To do so, you must spend 2 faith point and choose a number of creatures up to your Charisma modifier (minimum of one creature). A chosen creature gains advantage the saving throw.
 
-This word of power requires your concentration.
+#### Radiance
+You can use your reaction and spend 1 faith point when you are hit by a melee attack to extend the will of your divine calling onto the attacker. The target must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the end of its next turn.
 
 #### Pain
-You can spend 1 light point and choose a creature within 60 feet of you, the chosen creature must succeed on a Constitution saving throw, or have disadvantage on attack rolls until the end of its next turn.
-
-#### Sanctify
-You can spend 2 light points and choose a creature within 30 feet of you, the chosen creature gains the benefit of the *sanctuary* spell for its duration.
-
-This word of power requires your concentration.
+You can use your bonus action and spend 1 faith point to wreathe a creature in searing pain. The creature must succeed on a Constitution saving throw against your priest spell save DC, or have disadvantage on all attack rolls until the end of its next turn
 
 #### Shield
-You can spend 2 light points and choose a creature within 60 feet of you, the chosen creature gains temporary hit points equal to your priest level + your Wisdom modifier.
+You can use your bonus action and spend 2 faith point to give a creature you touch temporary hit points equal to half your priest level + Charisma modifier.
+
+#### Solace
+You can grant creatures the comfort of your calling. When you restore hit points to a creature with a priest spell of 1st level or higher, you can spend 1 faith point to restore addi&shy;tional hit points equal to your Charisma modifier. 
+
+\columnbreak
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Divine Intervention
-Beginning at 10th level, you can call on a divine power to intervene on your behalf when your need is great.
+### Divine Restoration
+At 10th level, you are able to take comfort in your divine calling whenever you rest. You regain 2 expended faith points whenever you finish a short rest.
 
-Imploring a powers aid requires your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your priest level, the power intervenes. The DM chooses the nature of the intervention; the effect of any priest spell would be appropriate.
+At 18th level, you regain 4 expended faith points whenever you finish a short rest.
 
-If a divine power intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+## Divine Calling
+Priests choose a divine calling, a path of priesthood that they follow. This calling could be the Church of the Holy Light, the goddess Elune, or a sect dedicated to the dark shadows and void. Your choice might correspond to a particular branch of the divine callings, it could simply be a matter of personal preference, following the purpose that appeals to you the most.
 
-At 20th level, your call for intervention succeeds automatically, no roll required.
+### Discipline
+Some priests pride themselves on pragmatism. They understand that light casts a shadow, that darkness is defined by light, and that true discipline stems from one’s ability to balance these opposing powers in services of a greater cause. While these priests possess many holy virtues to aid their allies, they also dabble in the dark arts to debilitate their enemies.
 
-\columnbreak
-
-## Divine Priesthoods
-Priests enter into divine priesthoods, some strive to follow the holy light directly, others enter sects dedicated to lesser powers, or fall to the void entirely. Your choice might corre-spond to a particular branch of priesthood, it could simply be a matter of personal preference, having the purpose that appeals to you the most.
-
-### Discipline Priesthood
-These priests understand that light casts a shadow, that darkness is defined by light, and that true discipline stems from one’s ability to balance these opposing powers in services of a greater cause. While they poss many holy virtues to aid their allies, they also dabble in the dark arts to debilitate their enemies.
-
-##### Discipline Priesthood Spells
+##### Discipline Calling Spells
 | Priest Level | Spells               |
 |:---:|:------------------------------|
 | 1st | cure wounds, inflict wounds   |
-| 3rd | darkness, spiritual weapon    |
-| 5th | animate dead, vampiric touch  |
+| 3rd | darkness, silence             |
+| 5th | divine star, vampiric touch   |
 | 7th | death ward, guardian of faith |
-| 9th | contagion, raise dead         |
+| 9th | contagion, wall of force      |
 
-#### Shadow Mend
-At 1st level, you are able to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit point, you instead use the highest number possible for each die.
+#### Bonus Cantrip
+Starting at 1st level, you learn one additional priest cantrip of your choice, this cantrip does not count against your number of priest cantrips known.
 
-In addition, you learn the *spare the dying* cantrip, which doesn't count against the number of priest cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+#### Penance
+At 1st level, your can exert your will through your healing spells. Whenever you use a spell of 1st level or higher to restore hit points to a creature, you may choose a creature within 30 feet of it to succeed on a Wisdom saving throw, or take necrotic damage equal to half your priest level.
 
-#### Channel Divinity: Penance
-Starting at 2nd level, you can use your Channel Divinity to burst out an expanse of radiant and necrotic force.
-
-As an action, you present your holy symbol, and release a volley of holy light towards a target within 60 feet of you. Its effect changing depending on if you target an ally or enemy. 
-
-***Ally.*** The target regains hit points equal to 1d10 + twice your priest level. This feature can restore a creature to no more than half of its hit point maximum.
-
-***Enemy.*** The target must make a Constitution saving throw, taking necrotic damage equal to three times your priest level on a failed save, or half as much on a success.
-
-#### Atonement
-Beginning at 6th level, the harmful spells you cast bolster your allies. When you cast a spell of 1st level or higher that deals damage to a creature, an ally within 30 feet of you regains hit points equal to 2 + the spell's level.
-
-#### Potent Spellcasting
-Starting at 8th level, you add your Wisdom modifier to the damage you deal with any priest cantrip.
-
-#### Pain Suppression
-At 17th level, you can spend 4 light points and use your reaction when a creature is hit by an attack or spell to give them resistance to all damage except psychic until the end of the current turn.
+You can use this feature a number of times equal to your Charisma modifier. You regain expended uses when you finish a short or long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+<img src='https://www.gmbinder.com/images/873nzvm.png' style='position:absolute; top:910px; right:70px; width:300px' />
 
 \pagebreakNum
 
-### Holy Priesthood
-These priests carry out the holy message of the light, they leave their house of worship to serve on the battlefield. They use their divine powers to bless their allies and mend wounds from afar, pulling creatures out of harm's way by enveloping them in divine light.
+#### Pain Suppression
+Beginning at 6th level, your disciplined mind is capable of projecting a suppressive barrier for your allies' protection.
 
-##### Holy Priesthood Spells
+As a bonus action, you can grant a barrier to a friendly creature that you can see within 60 feet of you. The barrier is invisible. Any bludgeoning, piercing, or slashing damage the target takes is reduced by 2 + your proficiency bonus. This effect lasts for 1 minute, until you use it again, or until you are incapacitated.
+
+#### Castigation
+Starting at 14th level, when you cast a spell that deals damage, choose one creature damaged by that spell on the round you cast it. That creature takes extra radiant or ne&shy;crotic damage (your choice) equal to half your priest level. This feature can be used only once per casting of a spell.
+
+#### Clarity of Will
+At 20th level, you are able to harness your focused will, improving your Pain Suppression. Your suppression barrier now reduces all damage taken.
+
+While a creature is under the effect of your suppression barrier, it also has advantage on saving throws to avoid being charmed or frightened.
+
+### Holy
+The most adept priests leave their houses of worship to serve on the battlefield, as shepherd to flock. There, they use their holy powers to bless allies and mend wounds.  And while most stay behind the frontlines to aid their comrades, these holy champions are also capable of smiting foes and carrying out sacred justice.
+
+##### Holy Calling Spells
 | Priest Level | Spells                      |
 |:---:|:-------------------------------------|
-| 1st | bless, cure wounds                   |
-| 3rd | lesser restoration, spiritual weapon |
-| 5th | beacon of hope, revivify             |
-| 7th | death ward, guardian of faith        |
-| 9th | mass cure wounds, raise dead         |
+| 1st | bless, cure wounds |
+| 3rd | lesser restoration, shining force |
+| 5th | beacon of hope, revivify |
+| 7th | death ward, divination |
+| 9th | mass cure wounds, raise dead |
 
-#### Echoes of Life
-At 1st level, whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
+#### Bonus Proficiency
+Starting at 1st level, you gain proficiency in religion if you don't already have it and your proficiency bonus doubles for any ability check you make with it.
 
-#### Channel Divinity: Prayer of Healing
-Starting at 2nd level, you can use your Channel Divinity to heal those that are badly injured.
+#### Divine Hymn
+At 1st level, you can use your action and present your holy symbol to evoke healing energy that can restore a number of hit points equal to five times your priest level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
 
-As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your priest level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
-#### Perseverance
-Beginning at 6th level, the healing spells you cast on others can heal you as well. When you cast a spell with a spell slot and it restores hit points to any creature other than you this turn, you regain hit points equal to 2 + the spell's level.
+#### Healing Prayer
+At 6th level, the divine enery of your faith can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 faith point to reroll any number of those dice once, provided you aren't incapacitated. You can use this feature only once per turn.
 
-#### Leap of Faith
-Starting at 8th level, you can spend 2 light points to warp a target in divine energy and pull them towards you. As an action, choose a creature within 60 feet of you, pulling it to an empty space within 5 feet of you, doing so does not provoke opportunity attacks. If a creature is unwilling to be moved, it must succeed on a Strength saving throw.
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/Jeyz36q.jpg' style='position:absolute; top:0px; right:-150px; width:700px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/E8GrMME.png' style='position:absolute; top:0px; right:-20px; width:900px' />
+
+\pagebreakNum
+
+#### Holy Nova
+Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal radiant damage to the attacker. The damage equals your priest level. The attacker must also make a Strength saving throw against your priest spell save DC. On a failed save, the attacker is pushed in a straight line up to 20 feet away from you.
 
 #### Guardian Spirit
-At 17th level, you can call upon a guardian to guide a fallen allies spirit back to their body. When a target dies, you can use your reaction to return them to life before their spirit lives for the afterlife. The target is immediately returned to life, healed for twice your priest level, and gains immunity to all damage until the beginning of their next turn.
+At 20th level, you can call upon a spirit to guide a fallen ally back to  their body. When a creature within 60 feet of you dies, you can use your reaction to return them to live before their spirit leaves for the shadowlands. The target is imme&shy;diately returned to life and healed for half of their hit point maximum. The target also gains immunity towards all damage until the start of their next turn.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-\columnbreak
+### Shadow
+The brightest light casts the darkest shadow -- and from within this blackness, a rival power dwells. Shadow priests fully embrace this opposing polarity, their faith equally resolute as their holy counterparts. Like all priests, they dedicate much of their lives to worship -- but they derive their power from the Void, straying dangerously close to the domain of the Old Gods.
 
-### Shadow Priesthood 
-These priests fully embrace the void and its magics, their faith equal to their holy counterparts, yet focused on dark magics and mental manipulation. They dedicate their lives to worship, but they derive their power from the Void, stray-ing dangerously close to the domain of the Old Gods.
+##### Shadow Calling Spells
+| Priest Level | Spells                      |
+|:---:|:-------------------------------------|
+| 1st | arms of hadar, dark void |
+| 3rd | mind flay, phantasmal force |
+| 5th | fear, vampiric touch |
+| 7th | evard's black tentacles, void shift |
+| 9th | enervation, shadow crash |
 
-##### Shadow Priesthood Spells
-| Priest Level | Spells                   |
-|:---:|:----------------------------------|
-| 1st | arms of hadar, hex                |
-| 3rd | mind blast, phantasmal force      |
-| 5th | fear, hunger of hadar             |
-| 7th | black Tentacle, phantasmal Killer |
-| 9th | negative energy flood, wall of Force |
+#### Psychic Voice
+Starting at 1st level, you are able to pierce the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to under&shy;stand your telepathic utterances, but the creature must be able to understand at least one language.
 
 #### Legacy of the Void
-Also at 1st level, learn one necromancy cantrip of your choice from any spell list. When you cast a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.
+Also at 1st level, when you damage a creature with a priest cantrip, you may deal additional psychic damage equal to your Charisma modifier.
 
-#### Chan. Divinity: Surrender to Madness
-Starting at 2nd level, you can use your Channel Divinity to submit to the whispers of the Old Gods.
+When you use this feature, you must succeed on a Wisdom saving throw (DC 10 + 1 for each additional use of this feature since your last long rest). On a failed save, you can't use this feature again until you finish a long rest.
 
-As a bonus action, you invoke the madness of the old gods into your holy symbol, shrouding your body in void. For 1 minute, you gain the following benefits:
- - You add your Wisdom modifier to your Armor Class.
- - You can use your reaction to give a weapon attack against you disadvantage, shifting your void form.
- - When you would normally roll one or more dice to damage a target with a spell of 5th level or lower, you instead use the highest number possible for each die.
+\columnbreak
 
-At the end of each of your turns, you must succeed on a DC 10 Wisdom saving throw, or take half of your hit point maximum in psychic damage and ending the madness on a failed save, this damage can't be prevented or resisted.
+#### Shadowform
+Beginning at 6th level, you can invoke the dark corruption laying dormant within you.
 
-The DC increases by 1 for each consecutive turn.
+As a bonus action, you can magically shroud yourself in shadow. For 1 minute, you gain the following benefits:
+ - If you are not wearing any armor, you add your Charisma modifier to your Armor Class.
+ - A creature takes necrotic damage equal to your Charisma modifier when it hits you with a melee attack or if it touches you. 
+ - You spells ignores resistance towards necrotic and psychic damage, and creatures immune to necrotic damage are considered resistant.
 
-#### Inescapable Corruption
-Beginning at 6th level, you learn to weave necrotic magic past a creatures natural resistances. Necrotic damage dealt by your spells ignore resistance to necrotic damage.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
-#### Void Eruption
-Starting at 8th level, you gain the ability to infuse your weapon strikes with necrotic energy---a gift from the void. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+#### Dominant Mind
+Upon reaching 14th level, you can use your telepathic voice to overwhelm the minds of others. As an action, you can spend 6 faith points to cast *dominate beast* or *dominate person* on a creature within 30 feet of you. 
 
-#### Improved Legacy of the Void
-Upon reaching 17th level, when you cast a necromancy spell of 1st through 5th-level that targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other. If the spell consumes its mate-rial components, you must provide them for each target.
+Additionally, you have advantage on saving throws against being charmed.
+
+#### Surrender to Madness
+At 20th level, you can embrace the mad whispers of the void and let their powers flow through you.
+
+When you use your bonus action to shroud yourself in your shadowform, or as a bonus action while it is active. You can submit yourself to the void for the shadowforms duration and grant the following benefits:
+ - When you would normally roll one or more damage dice for a priest spell of 5th level or lower, you instead use the highest number possible for each die.
+ - You can use your reaction when a creature that you can see targets you with an attack or spell, piercing its mind with the ramblings of the old gods. The creature must succeed on a Wisdom saving throw against your spell DC or be incapacitated until the start of your next turn.
+
+At the end of each of your turns while Surrender to Madness is activate, you must succeed on a Wisdom saving throw (DC 10 + 1 for each successful save), or take half your hit point maximum in psychic damage as the madness overwhelms you and ends your shadowform.
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/AqgsnIF.jpg' style='position:absolute; top:750px; right:80px; width:800px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/VxJ8X1u.png' style='position:absolute; top:0px; right:-200px; width:1030px;transform:rotate(180deg)' />
-<img src='https://www.gmbinder.com/images/873nzvm.png' style='position:absolute; top:970px; right:65px; width:300px;z-index:1000' />
+<img src='https://www.gmbinder.com/images/dlh3o9V.jpg' style='position:absolute; top:800px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:0px; right:0px; width:1000px' />
 
 \pagebreakNum
 
@@ -8116,6 +8119,7 @@ Banishing Smite
 Guidance
 <br> Light
 <br> Mending
+<br> ✦ Mind Blast
 <br> Resistance
 <br> Sacred Flame
 <br> Spare the Dying
@@ -8137,6 +8141,7 @@ Guidance
 <br> Guiding Bolt
 <br> Healing Word
 <br> Inflict Wounds
+<br> ✦ Mind Vision
 <br> Prot. from Evil and Good
 <br> Purify Food and Drink
 <br> Sanctuary
@@ -8147,29 +8152,19 @@ Aid
 <br> Blindness/Deafness
 <br> Calm Emotions
 <br> Crown of Madness
-<br> ✦ Divine Star
 <br> Gentle Repose
 <br> Healing Spirit
 <br> Hold Person
 <br> Lesser Restoration
-<br> ✦ Mind Blast
 <br> ✦ Mind Flay
 <br> Mind Spike
 <br> Prayer of Healing
 <br> Protection from Poison
+<br> ✦ Shackle Undead
 <br> Shadow Blade
 <br> ✦ Shining Force
 <br> Silence
 <br> Suggestion
-<br> ✦ Void Strike
-</div>
-
-<div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
-
-<div style='column-count:2'>
 
 ##### 3rd Level
 Animate Dead
@@ -8177,16 +8172,20 @@ Animate Dead
 <br> Bestow Curse
 <br> Daylight
 <br> Dispel Magic
+<br> ✦ Divine Star
 <br> Fear
 <br> Feign Death
 <br> Glyph of Warding
 <br> Hunger of Hadar
 <br> Life Transference
+<br> Magic Circle
 <br> Mass Healing Word
+
+\columnbreak
+
 <br> Protection from Energy
 <br> Remove Curse
 <br> Revivify
-<br> ✦ Shadow Crash
 <br> Speak with Dead
 <br> Spirit Guardians
 <br> Tongues
@@ -8211,6 +8210,8 @@ Dawn
 <br> Mass Cure Wounds
 <br> Negative Energy Flood
 <br> Raise Dead
+<br> Scrying
+<br> ✦ Shadow Crash
 <br> Wall of Light
 
 ##### 6th Level
@@ -8237,13 +8238,19 @@ Abi-Dalzim's Horrid Wilting
 <br> Maddening Darkness
 <br> Mind Blank
 
-\columnbreak
-
 ##### 9th Level
 Foresight
 <br> Mass Heal
 <br> Psychic Scream
 <br> True Resurrection
+</div>
+
+<div class='footnote'>PART 2 | SPELLS </div>
+<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:0px; right:0px; width:1200px' />
+
+\pagebreakNum
+
+<div style='column-count:2'>
 
 ### Shaman Spells
 ##### Cantrips (0 Level)
@@ -8509,14 +8516,14 @@ Imprisonment
 The new spells are presented in alphabetical order.
 
 #### Angelic Feather
-*1st-level conjuration*
+*1st-level enchantment*
 ___
-- **Casting Time:** 1 minute
-- **Range:** Self
-- **Components:** V, S, M (a feather worth at least 1 gp)
-- **Duration:** 1 hour
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S, M (a feather)
+- **Duration:** Concentration, up to 1 minute
 ___
-You create 3 divine feathers in your palm that can be given to other creatures. A creature can crush a feather as a bonus action, and gain the benefit of the Dash, Disengage, or Dodge action until the end of their current turn. The feathers last for 1 hour before dissipating.
+You touch one creature within reach, granting it the swiftness of an angelic being. For the duration of the spell, the creature can take the Dash, Disengage, or Dodge action as a bonus action on its turn.
 
 #### Arcane Barrage
 *4th-level evocation*
@@ -8676,9 +8683,9 @@ ___
 - **Components:** V, S, M (a holy symbol)
 - **Duration:** Instantaneous
 ___
-You grasp the fabric around a target within range, pulling necrotic energy from it and creatures within a 5-foot radius of your choice. The creatures must make a Constitution saving throw. On a failed saving throw, the creature takes 1d8 necrotic damage and gains the effect of your Word of Power: Pain. On a successful save, the creature takes half damage, but suffers no effect from the word of power.
+You grasp the fabric around a target within range, pulling necromantic energies from it and creatures of your choice within 5 feet of it. A target must make a Constitution saving throw, taking 2d4 necrotic damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
 
 #### Death Chain
 *5th-level necromancy*
@@ -8743,16 +8750,16 @@ You ward yourself against attacks. Until the spell ends, you gain immunity to al
 If you make an attack or cast a spell that affects an enemy creature, this spell ends.
 
 #### Divine Star
-*2nd-level evocation*
+*3rd-level evocation*
 ___
 - **Casting Time:** 1 action
 - **Range:** self (30-foot line)
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-A star of divine energy streaks forward in a 30 feet long and 5 feet wide line from you in a direction you choose, and returns to you at the end of your turn in a similar fashion. Each allied creature in the stars path regains 1d6 hit points, and each enemy creature must make a Dexterity saving throw. Taking 1d6 radiant damage on a failed save, or half as much on a successful one.
+A star of divine energy streaks forward in a 30 feet long and 5 feet wide line from you in a direction you choose. Each friendly creature in the stars path regains 1d6 hit points, and each hostile creature must make a Dexterity saving throw, taking 1d6 radiant damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the spells healing and damage increases by 1d6 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the spells healing and damage increases by 1d6 for each slot level above 3rd.
 
 #### Earthen Spike
 *3rd-level transmutation*
@@ -9024,18 +9031,16 @@ You call upon the element of air and surround a friendly target within range wit
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
 
 #### Mind Blast
-*2nd-level evocation*
+*Evocation cantrip*
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-You pierce through the mental defenses of a creature within range. It must succeed on a Wisdom saving throw. On a failed save, the target takes 2d6 psychic damage and is frightened of you for a minute, or half of the damage on a successful one and isn't frightened of you.
+You attempt to pierce through the mental defenses of a creature you can see within range. The target must succeed on a Wisdom saving throw or take 1d10 psychic damage.
 
-The creature makes a new saving throw at the end of its turns to end the frightened condition.
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 1st.
+This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 \columnbreak
 
@@ -9047,9 +9052,9 @@ ___
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 ___
-You attempt to pierce the mind of a creature within range. The creature must make a Wisdom saving throw. On a failed save, the creature takes 2d6 psychic damage and has disadvantage on all attack rolls and ability checks for the spells duration. 
+You wreathe the mind of a creature you can see within range. The target must make a Wisdom saving throw. On a failed save, the creature takes 2d6 psychic damage and has disadvantage on all attack rolls and ability checks for the spells duration, and on as successful save, the creature takes half damage but suffers no other effects of the spell.
 
-On a successful save, the creature takes half damage, but suffers no other effect. At the end of each of its turns, the target can make a Wisdom saving throw. On a success, the spell ends.
+At the end of each of its turns, the creature can make a Wisdom saving throw, ending the spell on a success.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
@@ -9062,6 +9067,16 @@ ___
 - **Duration:** Instantaneous
 ___
 You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcast-ing ability, if you counter the spell, the creature takes 2d8 cold damage. The DC equals 10 + the spell’s level. On a success, the creature’s spell fails and has no effect.
+
+#### Mind Vison
+*1st-level divination*
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
+___
+You extend your arm and touch a willing creature within reach. For the duration of the spell, you see through the creatures eyes and hear what it hears. During this time, you lose of your own senses and are considered blinded, deafened, and stunned. You can end your mind vision as a free action on your turn.
 
 #### Pyroblast
 *7th-level evocation*
@@ -9106,6 +9121,18 @@ A creature can choose to ignore the mirror, in which case it vanishes after 1 mi
 
 The ritual of summoning is only able to call creatures too it, a creature can't use the summoning stone to traverse back to their previous location.
 
+#### Shackle Undead
+*2nd-level enchantment*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a short piece of chain)
+- **Duration:** 1 minute
+___
+Choose an undead creature that you can see within range. The target must succeed on a Wisdom saving throw or be stunned for the duration or until it takes damage. At the end of each of its turns, the target can make a new Wisdom saving throw. On a success, the spell ends on the target.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target on additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them.
+
 #### Shadow Bolt
 *Evocation cantrip*
 ___
@@ -9119,16 +9146,16 @@ A shoot a blast of necrotic energy at a creature within range. Make a ranged spe
 This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 #### Shadow Crash
-*3rd-level necromancy*
+*5th-level necromancy*
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-A bolt of shadow energy forms from your palm to a point you choose within range and blankets the area as inescap-able darkness covers all. Each creature in a 20-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 6d6 necrotic damage on a failed save, or half as much damage on a successful one. The darkness spreads around corners.
+Shadow energy drips from your palm as you pull it towards the ground and blanket a point that you can see within range in darkness. Each creature in a 20-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. The darkness spreads around corner and the area of the spell is heavily obscured by magical darkness until the end of your next turn.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 #### Shadowfury
 *6th-level enchantment*
@@ -9150,7 +9177,7 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 ___
-Bright light bursts out from a target of your choice within range, attempting to disrupt nearby enemies. Each creature you choose within a 10-foot radius of the target must make a Dexterity saving throw. On a failed save, a creature is pushed 10 feet away from the target and is knocked prone. On each of your turns for the duration, you can use your action to burst light from the same target again.
+Bright light bursts out from a creature you can see within range, pushing away hostile creatures. Each creature of your choice within a 10-foot-radius of the target must succeed a Dexterity saving throw, or be pushed 10 feet away from the target and be knocked prone. For the duration of the spell, you can use your action to burst the shining force from the chosen creature again.
 
 #### Solar Wrath
 *Evocation cantrip*
