@@ -470,7 +470,7 @@ Armies and factions have always defined the Warcraft world, and two of the most 
 ## Choosing a Side
 At character creation, every player must choose their character’s faction. It is as much a part of the hero as their class or background. All characters in a party are usually of the same faction.
 
-Although every race has an affiliation, there are excep-tions. Creating a character outside their normal affiliation is challenging, but offers a great role play opportunities for the player. Some suggestions are listed below.
+Although every race has an affiliation, there are excep&shy;tions. Creating a character outside their normal affiliation is challenging, but offers a great role play opportunities for the player. Some suggestions are listed below.
 
  - The character was born into the faction.
  - The character was saved or befriended by members of the faction.
@@ -478,26 +478,60 @@ Although every race has an affiliation, there are excep-tions. Creating a charac
  - The character witnessed members of their faction doing something they found reprehensible.
 
 ## The Alliance
-The Alliance have proven themselves to be fierce combatants, often giving their lives when called for. The faction is not a uniform governmental body, but is a coalition of mutual military and economic aid. Diplomacy is key with in the Alliance and decisions are traditionally made by being voted on by the Alliance's most influential members. Stormwind is described as the most powerful force in the now multiracial Alliance. With it becoming the de facto leader of the remaining human kingdoms and entering a powerful alliance with the strongest dwarven kingdom, Ironforge, Stormwind has thus been shown to be the most influential kingdom and therefore the de facto driving force of Alliance politics. Therefore, Stormwind is undisputedly looked to for maintaining the Alliance and its policies. Stormwind is where the main superpowers of the Alliance conference to discuss world issues and mutual defense. The majority of Alliance citizens also recognizes Stormwind City as the heart of the Alliance. The High King coordinates the workings of the Alliance's armies in order to safeguard the Alliance's interests and defense. 
+The Alliance have proven themselves to be fierce comba&shy;tants, often giving their lives when called for. The faction is not a uniform governmental body, but is a coalition of mutual military and economic aid. Diplomacy is key with in the Alliance and decisions are traditionally made by being voted on by the Alliance's most influential members. Storm&shy;wind is described as the most powerful force in the now multiracial Alliance. With it becoming the de facto leader of the remaining human kingdoms and entering a powerful alliance with the strongest dwarven kingdom, Ironforge, Stormwind has thus been shown to be the most influential kingdom and therefore the de facto driving force of Alliance politics. Therefore, Stormwind is undisputedly looked to for maintaining the Alliance and its policies. Stormwind is where the main superpowers of the Alliance conference to discuss world issues and mutual defense. The majority of Alliance citizens also recognizes Stormwind City as the heart of the Alliance. The High King coordinates the workings of the Alliance's armies in order to safeguard the Alliance's interests and defense. 
 
-Even now, as always, humans are the glue that hold the Alliance together, being the most numerous and diplomatic of the member races. The armies of Stormwind are primarily stationed in the southern Eastern Kingdoms, securing regions such as Elwynn Forest, Duskwood, Westfall, and the Redridge mountains. As well as having outposts and bases stationed at key points in Lordaeron, Northrend, and Kalimdor. The armies of Ironforge are mainly stationed in Khaz Modan along with their gnome allies, and the night elven armies are mainly defending &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;northern Kalimdor from the Horde's deforestation of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the Ashenvale. The remaining draenei forces &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;are still trying to secure their new home on &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azuremyst Isle, and are also stationed in &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outland. The recently brought in Gil- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nean armies are defending them- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selves from the endless Forsaken.
+Even now, as always, humans are the glue that hold the Alliance together, being the most numerous and diplomatic of the member races. The armies of Stormwind are primarily stationed in the southern Eastern Kingdoms, securing regions such as Elwynn Forest, Duskwood, Westfall, and the Redridge mountains. As well as having outposts and bases stationed at key points in Lordaeron, Northrend, and Kalimdor. The armies of Ironforge are mainly stationed in Khaz Modan along with their gnome allies, and the night elven armies are mainly defending 
+<br> <span style="margin-left:30px"></span> northern Kalimdor from the Horde's deforestation of 
+<br> <span style="margin-left:75px"></span> the Ashenvale. The remaining draenei forces 
+<br> <span style="margin-left:85px"></span> are still trying to secure their new home on
+<br> <span style="margin-left:90px"></span> Azuremyst Isle, and are also stationed in
+<br> <span style="margin-left:105px"></span> Outland. The recently brought in
+<br> <span style="margin-left:110px"></span> Gilnean armies are defending them-
+<br> <span style="margin-left:120px"></span> selves from the endless Forsaken.
 
 \columnbreak
 
 ## The Horde 
-The Horde makes no compromises <br> when it comes to excellence, and the <br> power and ferocity of their warriors is <br> legendary. Misunderstood by many as <br> evil, the Horde possesses a strong code of <br> honor and strict laws for disobedience. <br> All members of the Horde have to swear a blood oath to join the faction and are thus obligated to follow the warchief's commands and support the warchief in war if the warchief calls upon them for aid. The position of warchief can be attained by having the previous warchief choose a successor or challenging the current warchief to a Mak'gora: a prearranged duel with deadly weapons between two people following a formal procedure in the presence of witnesses and traditionally fought until one party yields or is killed, usually to settle a quarrel involving a point of honor. Above all else, the title warchief is granted to those who display strength and decisive action.
+The Horde makes no compromises 
+<br> when it comes to excellence, and the 
+<br> power and ferocity of their warriors is 
+<br> legendary. Misunderstood by many as evil,
+<br> the Horde possesses a strong code of honor
+<br> and strict laws for disobedience. All members
+<br> of the Horde have to swear a blood oath to join 
+<br> the faction and are thus obligated to follow the warchief's commands and support the warchief in war if the warchief calls upon them for aid. The position of warchief can be attained by having the previous warchief choose a succes&shy;sor or challenging the current warchief to a Mak'gora: a prearranged duel with deadly weapons between two people following a formal procedure in the presence of witnesses and traditionally fought until one party yields or is killed, usually to settle a quarrel involving a point of honor. Above all else, the title warchief is granted to those who display strength and decisive action.
 
-The warchief may accept ambassadors and advisors from all the different tribes and members of the Horde to makes sure their voice is heard in the running of the fledgling hegemony but ultimately, only the warchief may have the final say in matters concerning the entire Horde. Each race within the Horde choose a single leader to govern their people and their people's kingdoms and also to represent their people in the high Horde echelon.
+The warchief may accept ambassadors and advisors from all the different tribes and members of the Horde to makes sure their voice is heard in the running of the fledg&shy;ling hegemony but ultimately, only the warchief may have the final say in matters concerning the entire Horde. Each race within the Horde choose a single leader to govern their people and their people's kingdoms and also to represent their people in the high Horde echelon.
 
-Despite their somewhat monstrous appearance, the majority of the Horde is not evil, much like the Alliance, it is comprised of diverse factions and individuals who possess a wide range of values and virtues. Even so, there is one expectation that must be met when joining the Horde: regardless of gender or station, all are expected to pull their own weight and give their talents for the betterment of the Horde. When weakness is a liability to the <br> of the Horde, it is the duty of the strong to <br> usurp control from the incompetent <br> and redeem the Horde. *Lok'tar ogar! <br> Victory or death* - These words bind <br> one to the Horde. For they are the <br> most sacred and fundamental of <br> truths to any warrior of the <br> Horde, for the Horde, failure <br> is not an option.
+Despite their somewhat monstrous appearance, the majority of the Horde is not evil, much like the Alliance, it is comprised of diverse factions and individuals who possess a wide range of values and virtues. Even so, there is one expectation that must be met when joining the Horde: regardless of gender or station, all are expected to pull their own weight and give their talents for the 
+<br> betterment of the Horde. When weakness is 
+<br> a liability to the of the Horde, it is the duty 
+<br> of the strong to usurp control from the 
+<br> incompetent and redeem the Horde. 
+<br> *Lok'tar ogar! Victory or death*—These 
+<br> words bind one to the Horde. For 
+<br> they are the most sacred and funda-
+<br> mental of truths to any warrior of 
+<br> the Horde, for the Horde, failure 
+<br> is not an option.
 
-Culturally, orcs and tauren <br> believe in redemption more <br> than most other races on <br> Azeroth and are willing to <br> give almost anyone a chance, <br> regardless of reputation. The trolls <br> seem to have even accepted, (if not <br> at least tolerate) their ancient enemy <br> the blood elves. Largely because of <br> these beliefs, a number of mortal races <br> and many diverse factions can be found <br> in bservice to the Horde.
+Culturally, orcs and tauren be-
+<br> lieve in redemption more than 
+<br> most other races on Azeroth 
+<br> and are willing to give almost 
+<br> anyone a chance, regardless 
+<br> of reputation. The trolls seem 
+<br> to have even accepted, (if not at 
+<br> least tolerate) their ancient enemy
+<br> the blood elves. Largely because of 
+<br> these beliefs, a number of mortal races
+<br> and many diverse factions can be found 
+<br> in service to the Horde.
 
 <div class='footnote'>PART 1 | RACES </div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/5ItC6WX.png' style='position:absolute; top:955px; right:600px; width:230px;transform:rotate(-40deg);z-index:1000' />
-<img src='https://www.gmbinder.com/images/EK9lCTV.png' style='position:absolute; top:-40px; right:-47px; width:240px;transform:rotate(-25deg)' />
-<img src='https://www.gmbinder.com/images/Dqr1bzo.png' style='position:absolute; top:490px; right:-170px; width:430px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/5ItC6WX.png' style='position:absolute; top:955px; right:620px; width:230px' />
+<img src='https://www.gmbinder.com/images/EK9lCTV.png' style='position:absolute; top:-50px; right:-50px; width:240px' />
+<img src='https://www.gmbinder.com/images/Dqr1bzo.png' style='position:absolute; top:490px; right:-180px; width:430px;transform:scalex(-1)' />
 
 \pagebreakNum
 
@@ -548,7 +582,7 @@ Many races have subraces. Members of a subrace have the traits of the parent rac
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/nSelxYT.jpg' style='position:absolute; top:740px; right:0px; width:920px' />
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-280px; right:-100px; width:1100px;transform:rotate(5deg)' />
+<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-240px; right:0px; width:900px' />
 
 \pagebreakNum
 
