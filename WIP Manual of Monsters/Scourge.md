@@ -27,9 +27,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The bone golem makes two melee attacks. If it has 26 or less hit points remaining, it makes 3 melee attacks instead.
 >
-> ***Arm blade.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
+> ***Bone Scythe.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 >
-> ***Bone spike.*** *Ranged Weapon Attack:* +8 to hit, range 20/60 ft, one target. *Hit:* 19 (4d6 + 5) piercing damage.
+> ***Bone Splinter.*** *Ranged Weapon Attack:* +8 to hit, range 20/60 ft, one target. *Hit:* 19 (4d6 + 5) piercing damage.
 
 https://wow.gamepedia.com/Bone_golem#/media/File:Skeletal_Flayer.jpg
 
@@ -301,7 +301,7 @@ Bone Wraith		17	Huge
 Death Knight		16	Medium	Draws inspiration from Death Knights.
 Death Revenant		8	Large
 Deathcharger		3	Large	Draws inspiration from Nightmares.
-Flesh Giant		13	Huge
+Flesh Giant		13	Huge    
 Floating Skull		4	Tiny	Draws inspiration from Flameskulls.
 Geist		1	Medium
 Necrolord		8	Medium
