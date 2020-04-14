@@ -281,7 +281,8 @@
 <br> **Lead Designer:** Jih
 <br> **Writing & Editing:** Jih, Tangerine
 
-<br> **Contributors:** Auvreannia, Tseims
+<br> **Contributors:** Ace Azzermeen, Auvreannia, Nagash, 
+<br><span style="margin-left:12px"></span> Silverblade, Tseims
 <br> **Additional Contributors:** Our Discord Community
 
 <br> **Cover Illustrator:** Kan Liu
@@ -306,9 +307,6 @@
 <br><span style="margin-left:12px"></span> © Blizzard Entertainment
 
 <br> **Playtesting provided by**
-
-[Roll Need](https://www.twitch.tv/solidjakegg), they run a weekly stream on Twitch using this <br>&nbsp;&nbsp;&nbsp; handbook for their races and classes. Check them out!
-
 <br> **Special thanks to** 
 <br><span style="margin-left:12px"></span> This entire book was made using GM Binder. It is an
 <br><span style="margin-left:12px"></span> amazing tool for creating authentic-looking homebrew
