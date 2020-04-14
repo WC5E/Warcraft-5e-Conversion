@@ -543,12 +543,12 @@ A *visit to one of the great cities in the world of Azeroth Stormwind City, the 
 
 *— A poetic gnome* &nbsp;</div>
 
-Not every intelligent race of the multiverse is appropriate for a player-controlled adventurer. The ones presented in this book are the races most well known to become adventurers and heroes, spread throughout every corner of Azeroth's continents.
+Not every intelligent race of the multiverse is appropriate for a player-controlled adventurer. The ones presented in this book are the races most well known to become adven&shy;turers and heroes, spread throughout every corner of Azeroth's continents.
 
 Your choice of race affects many different aspects of your character. It establishes fundamental qualities that exist throughout your character's adventuring career. When making this decision, keep in mind the kind of character you want to play. For example, a gnome could be a good choice for a sneaky rogue, a dwarf makes a tough warrior, and an elf can be a master of arcane magic.
 
 Your character race not only affects your ability scores and traits but also provides the cues for building your character's story. Each race's description in this chapter includes information to help you roleplay a character of that race, including personality, physical appearance, features of society, and racial alignment tendencies.
-<br>
+
 These details are suggestions to help you think about your character; adventurers can deviate widely from the norm for their race. It's worthwhile to consider why your character is different, as a helpful way to think about your character's background and personality.
 
 \columnbreak
@@ -578,9 +578,48 @@ By virtue of your race, your character can speak, read, and write certain langua
 #### Subraces
 Many races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among the subraces vary significantly from race to race.
 
+## Class Suggestions
+The races of the Warcraft universe have cultures, societies and homelands of their own, and it is rare that every class is taught among its people. The table below offers a list of suggested classes for each race that your Dungeon Master may choose to use for your campaign and adventures on Azeroth. The suggested combinations are considered to be common and taught be a race and its people, but heroes are meant to break molds and exceptions are sure to arise.
+
+If you use the following table for your table's campaign and want to pick a class not on your race's suggested table, work with your Dungeon Master to create a backstory for why you are a member of that class.
+
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/nSelxYT.jpg' style='position:absolute; top:740px; right:0px; width:920px' />
-<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-240px; right:0px; width:900px' />
+
+\pagebreakNum
+
+<div class='classTable wide'>
+
+##### Class Suggestions
+|&nbsp; Races|Death<br>Knight|Demon<br>Hunter|Druid|Hunter|Mage|Monk|Paladin|Priest|Rogue|Shaman|Warlock|Warrior|
+|:-----------------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|&nbsp; Blood Elf        |✦|✦|✦|✦|✦|—|✦|✦|✦|—|✦|✦|
+|&nbsp; Draenei, broken  |—|—|—|—|✦|—|—|—|✦|✦|✦|—|
+|&nbsp; Draenei, exodar  |✦|—|—|✦|✦|✦|✦|✦|—|✦|—|✦|
+|&nbsp; Draenei, light   |—|—|—|✦|✦|—|✦|✦|—|—|—|✦|
+|&nbsp; Dwarf, dark      |—|—|—|✦|—|—|✦|✦|✦|✦|✦|✦|
+|&nbsp; Dwarf, iron      |✦|—|—|✦|✦|—|✦|✦|✦|✦|—|✦|
+|&nbsp; Dwarf, wild      |—|—|—|✦|—|✦|—|—|✦|✦|—|✦|
+|&nbsp; Forsaken, elf    |✦|—|—|—|✦|—|✦|✦|✦|—|—|✦|
+|&nbsp; Forsaken, human  |✦|—|—|✦|✦|—|—|✦|✦|—|✦|✦|
+|&nbsp; Gnome            |✦|—|—|✦|✦|—|—|✦|✦|—|✦|—|
+|&nbsp; Goblin           |✦|—|—|✦|✦|—|—|✦|✦|✦|✦|—|
+|&nbsp; Human            |✦|✦|—|✦|✦|✦|✦|✦|✦|—|✦|✦|
+|&nbsp; Nightborne       |—|—|—|—|✦|—|✦|✦|—|—|✦|✦|
+|&nbsp; Night Elf        |—|✦|✦|✦|—|—|—|✦|✦|—|—|✦|
+|&nbsp; Orc              |✦|—|—|✦|✦|—|—|—|✦|✦|✦|✦|
+|&nbsp; Pandaren         |—|—|—|—|✦|✦|—|✦|✦|✦|—|✦|
+|&nbsp; Tauren, high     |—|—|✦|✦|—|✦|—|—|—|✦|—|✦|
+|&nbsp; Tauren, mulgore  |✦|—|✦|✦|✦|—|✦|✦|—|✦|—|✦|
+|&nbsp; Tauren, taunka   |✦|—|—|✦|—|—|—|—|—|✦|—|✦|
+|&nbsp; Troll, forest    |—|—|✦|✦|—|—|—|✦|✦|—|—|✦|
+|&nbsp; Troll, ice       |✦|—|—|—|✦|—|—|✦|—|✦|—|✦|
+|&nbsp; Troll, jungle    |✦|—|✦|✦|—|✦|—|✦|—|✦|—|✦|
+|&nbsp; Troll, zandalari |—|—|✦|✦|✦|—|✦|✦|—|—|—|✦|
+|&nbsp; Void Elf         |—|—|—|✦|✦|—|—|✦|✦|—|✦|✦|
+|&nbsp; Worgen           |✦|—|✦|✦|✦|—|—|✦|✦|—|✦|✦|
+</div>
+
+<div class='footnote'>PART 1 | RACES </div>
 
 \pagebreakNum
 
@@ -589,60 +628,6 @@ Many races have subraces. Members of a subrace have the traits of the parent rac
 <img src='https://www.gmbinder.com/images/c1ja74s.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 
 \pagebreak
-
-<div style="text-align:Center"> 
-
-# Alliance Class Suggestions
-</div>
-
-The following are a set of class suggestions, pulled from World of Wacraft, as the classes the Alliance races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
-
-You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the races of the Alliance began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the Alliance races were less open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race.
- 
-<div class='wide'; style="text-align:Center"> 
-
-# Pre-Cataclysm
-</div>
-
-<div class='classTable wide'>
- 
-| **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
-|:----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ***Human*** | | | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
-| ***Dwarf, ironforge*** | | ✦ | | ✦ | ✦ | ✦ | | | ✦ | ✦ |
-| ***Dwarf, wildhammer*** | | ✦ | | | | |  ✦ | | ✦ | |
-| ***Night Elf*** | ✦ | ✦ | | | ✦ | ✦ | | | ✦ | ✦ |
-| ***Gnome*** | | | ✦ | | | ✦ | | ✦ | ✦ | ✦ |
-| ***Draenei, exodar*** | | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ |
-| ***Draenei, broken*** | | ✦ | ✦ | | | ✦ | ✦ | ✦ | ✦ | |
-</div>
- 
-<div class='wide'; style="text-align:Center"> 
-
-# Post-Cataclysm
-</div>
-
-<div class='classTable wide'>
-
-| **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ***Human*** | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | |
-| ***Dwarf, dark iron*** | | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | |
-| ***Dwarf, ironforge*** | | ✦ | ✦ |  ✦ |✦ | ✦ | ✦ | ✦ |  ✦ | ✦ | ✦ | |
-| ***Dwarf, wildhammer*** | ✦ | ✦ | | ✦ | | | | ✦ | | ✦ | | |
-| ***Night Elf***      | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | | ✦ | ✦ | ✦ |
-| ***Gnome*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
-| ***Draenei, exodar*** | | ✦ | ✦ |  ✦ | ✦ | ✦ | | ✦ | | ✦ | ✦ | 
-| ***Draenei, broken*** | | ✦ | ✦ | | | | ✦ | ✦ | ✦ | ✦ | | |
-| ***Draenei, lightforged*** | | ✦ | ✦ | | ✦ | ✦ | | | | ✦ | | |
-| ***Worgen*** | ✦ | ✦ | ✦ | | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
-| ***Void Elf***       | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
-</div>
-
-<div class='footnote'>PART 1 | RACES </div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
 
 <br>
 <div style='margin-top:530px'></div>
@@ -1373,62 +1358,6 @@ Starting at 3rd level, you also gain resistance to all damage when you go throug
 <img src='https://www.gmbinder.com/images/oo0t1rp.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 
 \pagebreak
-
-<div style="text-align:Center"> 
-
-# Horde Class Suggestions
-</div>
-
-The following are a set of class suggestions, pulled from World of Wacraft, as the classes the Horde races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
-
-You will likely notice that there are two class suggestion charts. One for Pre-Cataclysm, and one for Post-Cataclysm. This was done because the Cataclysm is a major turning point in the history of Azeroth, and the races of the Horde began learning new abilities and sources of power, in order to fight back against the threats that assail their world. Prior to the Cataclysm, the Horde races were less open to sharing knowledge of and learning about new classes and tended to stay within the traditional classes of their race.
-
-<div class='wide'; style="text-align:Center"> 
-
-# Pre-Cataclysm
-</div>
-
-<div class='classTable wide'>
-
-| **Races** | **Druid** | **Hunter** | **Mage** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ***Orc*** | | ✦ | | | | ✦ | ✦ | ✦ | ✦ | ✦ |
-| ***Forsaken*** | | | ✦ | | ✦ | ✦ | | ✦ | ✦ | ✦ |
-| ***Tauren, mulgore*** | ✦ | ✦ | | | | | ✦ | | ✦ | ✦ |
-| ***Tauren, taunka*** | ✦ | ✦ | | | | | ✦ | | ✦ | |
-| ***Troll, forest*** | | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ | ✦ |
-| ***Troll, ice*** | | ✦ | | | ✦ | | | | ✦ |
-| ***Troll, jungle*** | | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | ✦ |
-| ***Blood Elf***  | | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ |
-</div>
-
-<div class='wide'; style="text-align:Center"> 
-
-# Post-Cataclysm
-</div>
-
-<div class='classTable wide'>
-
-| **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ***Orc*** | | ✦ | ✦ | ✦ | | | ✦ | ✦ | ✦ | ✦ | ✦ | |
-| ***Forsaken*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | ✦ | |
-| ***Tauren, mulgore*** | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | | ✦ | ✦ | |
-| ***Tauren, taunka*** | ✦ | ✦ | | | | | | ✦ | | ✦ | | |
-| ***Tauren, highmountain*** | ✦ | ✦ | | ✦ | | | | ✦ | | ✦ | | |
-| ***Troll, forest*** | | ✦ | ✦ | | | ✦ | ✦ | ✦ | ✦ | ✦ |
-| ***Troll, ice*** | | ✦ | | | | ✦ | | | | ✦ | | |
-| ***Troll, jungle*** | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | |
-| ***Troll, zandalari*** | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | | |
-| ***Blood Elf***       | | ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | ✦ |
-| ***Goblin*** | | ✦ | ✦ | | |  ✦ | ✦ | ✦ | ✦ | ✦ | ✦ | |
-| ***Nightborne*** | | ✦ | ✦ | ✦ | | ✦ | ✦ | | ✦ | ✦ | | |
-</div>
-
-<div class='footnote'>PART 1 | RACES </div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-
-\pagebreakNum
 
 <div style='margin-top:450px'></div>
 
@@ -2188,34 +2117,6 @@ Your nightborne character has a variety of natural abilities, harnessed by old t
 <img src='https://www.gmbinder.com/images/kkjaoG4.jpg' style='position:absolute; top:0px; right:-65px; width:900px' />
 
 \pagebreak
-
-<div style="text-align:Center"> 
-
-# Independent Class Suggestions
-</div>
-
-The following are a set of class suggestions, pulled from World of Wacraft, as the classes the independent races will more than likely be. It is suggested that you pick from among your race's suggested classes to keep with the thematic elements of the setting. That said, heroes are meant to break molds and be the exception to rules, so feel free to pick a class that is not typically used by your race. If you do pick outside your racial classes though, work with your Dungeon Master to create a backstory for why you are a member of this class. 
-
-<div class='wide'; style="text-align:Center"> 
-
-# Post-Cataclysm
-</div>
-
-<div class='classTable wide'>
-
-| **Races** | **Druid** | **Hunter** | **Mage** | **Monk** | **Paladin** | **Priest** | **Rogue** | **Shaman** | **Warlock** | **Warrior** | **Death Knight** | **Demon Hunter** |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ***Pandaren***        | | ✦ | ✦ | ✦ | | ✦ | ✦ | ✦ | | ✦ | | |
- </div>
-
-<div class='footnote'>PART 1 | RACES </div>
-<img src='https://www.gmbinder.com/images/cPPYV7h.png' style='position:absolute; top:0px; right:0px; width:1200px' />
-<img src='https://www.gmbinder.com/images/GkAxqdi.png' style='position:absolute; top:100px; right:0px; width:300px;transform:rotate(20deg)' />
-
-
-
-
-\pagebreakNum
 
 <div style='margin-top:507px'></div>
 
