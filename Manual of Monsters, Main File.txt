@@ -1177,7 +1177,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|16 (+3)|8 (-1)|15 (+2)|2 (-4)|8 (-1)|7 (+2)|
+>|16 (+3)|8 (-1)|15 (+2)|2 (-4)|8 (-1)|7 (-2)|
 >___
 > - **Senses** Darkvision 60 ft., passive Perception 9
 > - **Languages** —
@@ -1705,7 +1705,7 @@ ___
 > ___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|12 (+2)|16 (+3)|12 (+1)|3 (-4)|14 (+2)|6 (-2)|
+>|12 (+1)|16 (+3)|12 (+1)|3 (-4)|14 (+2)|6 (-2)|
 > ___
 > - **Skills** Perception +4, Stealth +4
 > - **Senses** passive Perception 14
@@ -1738,7 +1738,7 @@ ___
 > ___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|12 (+2)|17 (+3)|14 (+2)|8 (-1)|14 (+2)|12 (+1)|
+>|12 (+1)|17 (+3)|14 (+2)|8 (-1)|14 (+2)|12 (+1)|
 > ___
 > - **Skills** Perception +4, Stealth +5, Intimidation +3
 > - **Senses** passive Perception 14
@@ -2008,7 +2008,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|14 (+2)|11 (+0)|14 (+1)|12 (+1)|10 (+0)|9 (-1)|
+>|14 (+2)|11 (+0)|14 (+2)|12 (+1)|10 (+0)|9 (-1)|
 >___
 > - **Damage Resistances** fire
 > - **Senses** darkvision 120 ft., passive Perception 10
@@ -2137,7 +2137,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|15 (+2)|14 (+2)|18 (+4)|19 (+5)|13 (+1)|12 (+1)|
+>|15 (+2)|14 (+2)|18 (+4)|19 (+4)|13 (+1)|12 (+1)|
 >___
 > - **Saving Throws** Str +6, Con +8, Int +8
 > - **Skills** History +8, Insight +5, Intimidation +5
@@ -2297,7 +2297,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|12 (+1)|18 (+4)|16 (+3)|7 (-1)|10 (+0)|6 (-2)|
+>|12 (+1)|18 (+4)|16 (+3)|7 (-2)|10 (+0)|6 (-2)|
 >___
 > - **Damage Resistances** acid; bludgeoning, piercing, and slashing from non magical attacks
 > - **Damage Immunities** force, poison
@@ -2412,7 +2412,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|14 (+4)|18 (+4)|5 (-3)|10 (+0)|8 (-1)|
+>|18 (+4)|14 (+2)|18 (+4)|5 (-3)|10 (+0)|8 (-1)|
 >___
 > - **Damage Vulnerabilities** fire
 > - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
@@ -2447,7 +2447,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|14 (+4)|18 (+4)|5 (-3)|10 (+0)|8 (-1)|
+>|18 (+4)|14 (+2)|18 (+4)|5 (-3)|10 (+0)|8 (-1)|
 >___
 > - **Damage Resistances** acid; bludgeoning, piercing, and slashing from non magical attacks
 > - **Damage Immunities** poison
@@ -2678,7 +2678,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|17 (+3)|12 (+1)|16 (+3)|10 (+0)|15 (+1)|7 (-2)|
+>|17 (+3)|12 (+1)|16 (+3)|10 (+0)|15 (+2)|7 (-2)|
 >___
 > - **Skills** Nature +2, Perception +4, Survival +4
 > - **Senses** darkvision 60 ft., passive Perception 14
@@ -3147,7 +3147,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|1 (-5)|26 (+8)|10 (+0)|13 (+2)|14 (+2)|11 (+0)|
+>|1 (-5)|26 (+8)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
 >___
 > - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from non magical attacks.
 > - **Damage Immunities** poison, radiant
@@ -4115,7 +4115,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|13 (+1)|15 (+3)|14 (+2)|4 (-3)|8 (-1)|3 (-4)|
+>|13 (+1)|15 (+2)|14 (+2)|4 (-3)|8 (-1)|3 (-4)|
 >___
 > - **Skills** Stealth +5
 > - **Damage Vulnerabilities** fire
@@ -5386,7 +5386,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|12 (+1)|11 (+1)|14 (+2)|8 (-1)|10 (+0)|9 (-1)|
+>|12 (+1)|11 (+0)|14 (+2)|8 (-1)|10 (+0)|9 (-1)|
 >___
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** Common, Quilboar
@@ -7970,7 +7970,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|15 (+2)|10 (+0)|14 (+2)|2 (-4)|12 (+1)|8 (-2)|
+>|15 (+2)|10 (+0)|14 (+2)|2 (-4)|12 (+1)|8 (-1)|
 >___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
@@ -8816,7 +8816,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|14 (+2)|15 (+2)|11 (+0)|3 (-4)|12 (+1)|7 (-1)|
+>|14 (+2)|15 (+2)|11 (+0)|3 (-4)|12 (+1)|7 (-2)|
 >___
 > - **Skills** Perception +3, Stealth +4
 > - **Senses** passive Perception 10
