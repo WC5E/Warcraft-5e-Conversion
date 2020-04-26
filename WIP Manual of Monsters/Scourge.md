@@ -60,6 +60,8 @@ ___
 >
 > ***Magic Weapons.*** The bone wraith's weapon attacks are magical.
 >
+> ***Three Heads.*** The bone wraiths has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+>
 > ### Actions
 > ***Multiattack.*** The bone wraith uses its Bone Spike and then makes two melee weapon attacks.
 >
