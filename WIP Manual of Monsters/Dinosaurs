@@ -161,7 +161,7 @@ If the devilsaur king takes 45 damage or more on a single turn from creatures in
 </div>
 
 <img src='https://gamepedia.cursecdn.com/wowpedia/2/20/King_Mosh_HS.jpg?version=07b10225d9c4f2dde2519656bd6fcccc' style='position:absolute; top:-180px; right:-50px; width:850px; transform:scalex(1)' />
-<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:-50px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/M4hsHsw.png' style='position:absolute; top:300px; right:0px; width:900px' />
 
 \pagebreak
 
@@ -319,7 +319,7 @@ ___
 >
 > ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage.
 >
-> ***Terrifying Screech.*** Each creature within 60 feet of the pterrorwing that can hear it must succeed on a DC 11 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this pterrorwing's Frightful Screech for the next 24 hours.
+> ***Terrifying Screech.*** Each creature within 60 feet of the pterrorwing that can hear it must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this pterrorwing's Frightful Screech for the next 24 hours.
 >
 > ***Skycall (Recharge 5-6).*** The pterrorwing screams and a thunderous force sweeps out from it in a 15 foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 27 (5d10) thunder damage on a failed save and is pushed 15 feet away from it. On a sueeessful save, the creature takes half as much damage and isn't pushed.
 
