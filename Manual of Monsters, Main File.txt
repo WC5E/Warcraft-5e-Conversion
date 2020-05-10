@@ -2886,8 +2886,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
 >___
-> - **Skills** Deception +5, Insight +4, Perception +6, <br>
-Persuasion +5, Stealth +4
+> - **Skills** Deception +5, Insight +4, Perception +6, <br>Persuasion +5, Stealth +4
 > - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from non magical attacks
 > - **Damage Immunities** cold, necrotic, poison
 > - **Condition Immunities** charmed, exhaustion, frightened grappled, paralyzed, petrified, poisoned, prone, restrained
@@ -3361,7 +3360,7 @@ ___
 > *Medium humanoid (gnoll), chaotic evil*   
 > ___  
 > - **Armor Class** 17 (chain shirt, shield)  
-> - **Hit Points** 52  (8d8 + 16)
+> - **Hit Points** 52   (8d8 + 16)
 > - **Speed** 30 ft.  
 > ___  
 > STR | DEX | CON | INT | WIS | CHA
