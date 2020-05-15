@@ -1267,7 +1267,7 @@ ___
 >___
 > - **Skills** Perception +2, Stealth +3
 > - **Damage Vulnerabilities** fire
-> - **Damage Resistances** lightning; bludgeoning, piercing and slashing from nonmagical attacks
+> - **Damage Resistances** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Senses** darkvision 60 ft., passive Perception 12
 > - **Languages** -
 > - **Challenge** 1 (200 XP)
@@ -1301,7 +1301,7 @@ ___
 >___
 > - **Skills** Perception +3, Stealth +4
 > - **Damage Vulnerabilities** fire
-> - **Damage Resistances** lightning; bludgeoning, piercing and slashing from nonmagical attacks
+> - **Damage Resistances** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Senses** darkvision 60 ft., passive Perception 13
 > - **Languages** —
 > - **Challenge** 4 (1,100 XP)
@@ -1340,7 +1340,7 @@ ___
 >___
 > - **Skills** Perception +3, Stealth +5
 > - **Damage Vulnerabilities** fire
-> - **Damage Resistances** lightning; bludgeoning, piercing and slashing from nonmagical attacks
+> - **Damage Resistances** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Senses** darkvision 60 ft., passive Perception 13
 > - **Languages** —
 > - **Challenge** 5 (1,800 XP)
@@ -1374,7 +1374,7 @@ ___
 >___
 > - **Skills** Perception +3, Stealth +5
 > - **Damage Vulnerabilities** fire
-> - **Damage Resistances** lightning; bludgeoning, piercing and slashing from non magical attacks
+> - **Damage Resistances** lightning; bludgeoning, piercing and slashing from nonmagical attacks
 > - **Senses** darkvision 60 ft., passive Perception 13
 > - **Languages** —
 > - **Challenge** 8 (3,900 XP)
@@ -1385,7 +1385,7 @@ ___
 >
 > ***Swamp Camouflage.*** The tar creeper has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
 >
-> ***Swamp Mobility.*** The tar creeper ignores difficult terrain created by swamps, and can see through non magical mists of swamplands.
+> ***Swamp Mobility.*** The tar creeper ignores difficult terrain created by swamps, and can see through nonmagical mists of swamplands.
 >
 > ***Charge.*** If the tar creeper moves at least 10 feet straight toward a target and then hits it with a claw attack on the same turn, the target takes an additional 14 (3d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 >
@@ -1599,7 +1599,7 @@ ___
 >|21 (+5)|9 (-1)|20 (+5)|8 (-1)|10 (+0)|6 (-2)|
 >___
 > - **Skills** Athletics +8
-> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** fire
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** understands Kalimag but can't speak
@@ -1618,7 +1618,7 @@ ___
 >
 > ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage plus 9 (2d8) fire damage.
 >
-> ***Molten Breath (Recharge 4-6).*** The core hound exhales searing flames in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 11 (2d10) fire damage on a failed save, or half as much damage on a successful one. A creature failing the save who wears non magical armor or a shield take a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.
+> ***Molten Breath (Recharge 4-6).*** The core hound exhales searing flames in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 11 (2d10) fire damage on a failed save, or half as much damage on a successful one. A creature failing the save who wears nonmagical armor or a shield take a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.
 
 </div>
 
@@ -1917,7 +1917,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|13 (+1)|6 (-2)|10 (+0)|6 (-2)|
 >___
-> - **Damage Resistances** thunder; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -2265,7 +2265,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|20 (+5)|14 (+2)|6 (-2)|10 (+0)|6 (-2)|
 >___
-> - **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -2299,7 +2299,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|16 (+3)|7 (-2)|10 (+0)|6 (-2)|
 >___
-> - **Damage Resistances** acid; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** force, poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -2341,14 +2341,14 @@ ___
 >|20 (+5)|8 (-1)|20 (+5)|5 (-3)|10 (+0)|5 (-3)|
 >___
 > - **Damage Vulnerabilities** thunder
-> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., tremorsense 60 ft., <br> passive Perception 10
 > - **Languages** Terran
 > - **Challenge** 5 (1,800 XP)
 > ___
-> ***Earth Glide.*** The elemental can burrow through non magical unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
+> ***Earth Glide.*** The elemental can burrow through nonmagical unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
 >
 > ***Siege Monster.*** The elemental deals double damage to objects and structures.
 >
@@ -2373,7 +2373,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|17 (+3)|16 (+3)|6 (-2)|10 (+0)|7 (-2)|
 >___
-> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** fire, poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -2415,14 +2415,14 @@ ___
 >|18 (+4)|14 (+2)|18 (+4)|5 (-3)|10 (+0)|8 (-1)|
 >___
 > - **Damage Vulnerabilities** fire
-> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** cold, poison
 > - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** Aquan
 > - **Challenge** 5 (1,800 XP)
 > ___
-> ***Frost Form.*** The elemental can burrow through non magical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) cold damage. Additionally, the elemental freezes non-creature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is grappled (escape DC 14).
+> ***Frost Form.*** The elemental can burrow through nonmagical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) cold damage. Additionally, the elemental freezes non-creature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is grappled (escape DC 14).
 >
 > ***Ice Walk.*** The elemental can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost extra movement.
 >
@@ -2449,7 +2449,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|5 (-3)|10 (+0)|8 (-1)|
 >___
-> - **Damage Resistances** acid; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -2801,7 +2801,7 @@ When a creature becomes a ghost, it retains its statistics unless otherwise is s
 
 ***Senses.*** The ghost has darkvision with a radius of 60 ft.
 
-***Damage Resistances.*** The ghost gains resistance to acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from non magical attacks
+***Damage Resistances.*** The ghost gains resistance to acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Damage Immunities.*** The ghost gains immunity to cold, necrotic and poison damage.
 
@@ -2845,7 +2845,7 @@ ___
 >|16 (+3)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)|
 >___
 > - **Saving Throws** Con +4, Wis +2
-> - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** cold, necrotic, poison
 > - **Condition Immunities** charmed, exhaustion, frightened grappled, paralyzed, petrified, poisoned, prone, restrained
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -2887,7 +2887,7 @@ ___
 >|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
 >___
 > - **Skills** Deception +5, Insight +4, Perception +6, <br>Persuasion +5, Stealth +4
-> - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** cold, necrotic, poison
 > - **Condition Immunities** charmed, exhaustion, frightened grappled, paralyzed, petrified, poisoned, prone, restrained
 > - **Senses** darkvision 60 ft., passive Perception 16
@@ -2935,7 +2935,7 @@ ___
 >___
 > - **Saving Throws** Con +4, Wis +5
 > - **Skills** Arcana +3, Insight +6, Medicine +6, Nature +6
-> - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from non magical attacks.
+> - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks.
 > - **Damage Immunities** cold, necrotic, poison
 > - **Condition Immunities** charmed, exhaustion, frightened grappled, paralyzed, petrified, poisoned, prone, restrained
 > - **Senses** darkvision 60 ft., passive Perception 13
@@ -2977,7 +2977,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|14 (+2)|11 (+0)|14 (+2)|10 (+0)|12 (+1)|
 >___
-> - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** cold, necrotic, poison
 > - **Condition Immunities** charmed, exhaustion, frightened grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -3021,7 +3021,7 @@ ___
 >|1 (-5)|16 (+3)|14 (+2)|11 (+0)|13 (+1)|19 (+4)|
 >___
 > - **Saving Throws** Wis +4, Cha +7
-> - **Damage Resistances** acid, fire, lightning, <br/>thunder; bludgeoning, piercing, and slashing from non magical attacks.
+> - **Damage Resistances** acid, fire, lightning, <br/>thunder; bludgeoning, piercing, and slashing from nonmagical attacks.
 > - **Damage Immunities** cold, necrotic, poison
 > - **Condition Immunities** charmed, exhaustion, grappled, frightened,  paralyzed, petrified, poisoned, prone, restrained
 > - **Senses** darkvision 60 ft., passive Perception 11
@@ -3075,7 +3075,7 @@ ___
 >___
 > - **Skills** Stealth +4 (+6 in dim light or darkness)
 > - **Damage Vulnerabilities** radiant
-> - **Damage Resistances** acid, cold, lightning, thunder; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** acid, cold, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** necrotic, poison
 > - **Condition Immunities** exhaustion, frightened, grappled paralyzed, petrified, poisoned, prone, restrained
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -3110,7 +3110,7 @@ ___
 >|1 (-5)|14 (+2)|11 (+0)|10 (+0)|11 (+0)|15 (+2)|
 >___
 > - **Saving Throws** Wis +2, Cha +4
-> - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** necrotic, poison
 > - **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -3148,7 +3148,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|26 (+8)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
 >___
-> - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from non magical attacks.
+> - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks.
 > - **Damage Immunities** poison, radiant
 > - **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 120 ft., passive Perception 12
@@ -3518,7 +3518,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|9 (-1)|18 (+4)|20 (+5)|11 (+0)|1 (-5)|
 >___
-> - **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Condition Immunities** charmed, exhaustion, frightened paralyzed, petrified, poisoned
 > - **Senses** darkvision 120 ft., passive Perception ##
 > - **Languages** understands the languages of its creator but can't speak
@@ -3566,7 +3566,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|9 (-1)|18 (+4)|3 (-4)|8 (-1)|1 (-5)|
 >___
-> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** poison, psychic
 > - **Condition Immunities** charmed, exhaustion, frightened paralyzed, petrified, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 9
@@ -4576,7 +4576,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|9 (-1)|16 (+3)|3 (-4)|11 (+0)|1 (-5)|
 >___
-> - **Damage Resistances** poison, psychic; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Condition Immunities** charmed, exhaustion, frightened paralyzed, petrified, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** understands gnomish but can't speak
@@ -4651,7 +4651,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|14 (+2)|16 (+3)|13 (+1)|10 (+0)|9 (-1)|
 >___
-> - **Damage Resistances** poison; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** poison; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Condition Immunities** charmed, exhaustion, frightened paralyzed, petrified, poisoned
 > - **Senses** darkvision 60 ft., blindsight 60 ft., passive Perception 10
 > - **Languages** Common, Gnomish
@@ -6199,7 +6199,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|9 (-1)|18 (+4)|3 (-4)|8 (-1)|4 (-3)|
 >___
-> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, frightened, petrified, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 9
@@ -6241,7 +6241,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|11 (+0)|16 (+3)|5 (-3)|11 (+0)|7 (-2)|
 >___
-> - **Damage Resistances** bludgeoning, piercing, and slash&shy;ing from non magical attacks that aren't adamantine
+> - **Damage Resistances** bludgeoning, piercing, and slash&shy;ing from nonmagical attacks that aren't adamantine
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, petrified, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 10
@@ -6349,14 +6349,14 @@ ___
 >|16 (+3)|14 (+2)|16 (+3)|7 (-2)|10 (+0)|5 (-3)|
 >___
 > - **Damage Vulnerabilities** thunder
-> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** —
 > - **Challenge** 3 (700 XP)
 > ___
-> ***Earth Glide.*** The spider can burrow through non magical unworked earth and stone. While doing so, it doesn't disturb the material it moves through.
+> ***Earth Glide.*** The spider can burrow through nonmagical unworked earth and stone. While doing so, it doesn't disturb the material it moves through.
 >
 > ***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
@@ -6423,7 +6423,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|9 (-1)|15 (+2)|3 (-4)|11 (+0)|1 (-5)|
 >___
-> - **Damage Resistances** poison; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** poison; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Condition Immunities** charmed, exhaustion, frightened paralyzed, petrified, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 9
 > - **Languages** Common, Goblin
@@ -6681,7 +6681,7 @@ ___
 >___
 > - **Saving Throws** Str +9, Con +8
 > - **Skills** Perception +6
-> - **Damage Resistances** poison; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** poison; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Condition Immunities** poisoned
 > - **Senses** darkvision 60 ft., tremorsense 120 ft., passive Perception 16
 > - **Languages** —
@@ -7471,7 +7471,7 @@ ___
 >|27 (+8)|11 (+0)|23 (+6)|7 (-2)|13 (+1)|11 (+0)|
 >___
 > - **Saving Throws** Dex +6, Con +12, Wis +7
-> - **Damage Resistance** fire; bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistance** fire; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Condition Immunities** frightened, paralyzed
 > - **Skills** Perception +7
 > - **Senses** blindsight 120 ft., passive Perception 17
@@ -7749,7 +7749,7 @@ ___
 >|15 (+2)|13 (+1)|14 (+2)|7 (-2)|11 (+0)|10 (+0)|
 >___
 > - **Skills** Perception +4, Survival +2, Stealth +3
-> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks and weapons <br>that aren't silvered
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks and weapons <br>that aren't silvered
 > - **Senses** darkvision 60 ft., passive Perception 14
 > - **Languages** Wolf
 > - **Challenge** 2 (450 XP)
