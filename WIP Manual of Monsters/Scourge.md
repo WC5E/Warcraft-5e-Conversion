@@ -29,7 +29,7 @@ ___
 >
 > ***Bone Scythe.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 >
-> ***Bone Splinter.*** *Ranged Weapon Attack:* +8 to hit, range 20/60 ft, one target. *Hit:* 19 (4d6 + 5) piercing damage.
+> ***Bone Spike.*** *Ranged Weapon Attack:* +8 to hit, range 20/60 ft, one target. *Hit:* 19 (4d6 + 5) piercing damage.
 
 https://wow.gamepedia.com/Bone_golem#/media/File:Skeletal_Flayer.jpg
 
@@ -38,23 +38,26 @@ ___
 > *Huge construct (undead), chaotic evil*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 203 (14d12 + 112) <!-- effectively 253 -->
+> - **Hit Points** 203 (14d12 + 112)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
-> 25 (+7)|14 (+2)|27 (+8)|8 (-1)|13 (+1)|7 (-2)|
+> 26 (+7)|14 (+2)|27 (+8)|8 (-1)|13 (+1)|7 (-2)|
 > ___
 > - **Saving Throws** Str +13, Con +14, Wis +7, Cha +4
 > - **Skills** Intimidation +10
-> - **Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+> - **Damage Immunities** necrotic, poison;
 > - **Condition Immunities** charmed, exhaustion, frightened, poisoned
 > - **Senses** darkvision 90 ft., passive Perception 11
 > - **Languages** Common
-> - **Challenge** 17 (18,000 XP)
+> - **Challenge** 18 (20,000 XP) <!-- OCR: 23 DCR: 13 -->
 > ___
 >	
 > ***Bone Storm.*** At the start of each of the bone wraith's turns, each creature within 10 feet of it takes 7 (2d6) slashing and 7 (2d6) necrotic damage.
+>
+> ***Legendary Resistance (3/Day).*** If the bone wraith fails a saving throw, it can choose to succeed instead.
 >
 > ***Magic Resistance.*** The bone wraith has advantage on saving throws against spells and other magical effects.
 >
@@ -69,9 +72,19 @@ ___
 >
 > ***Bone Slice.*** *Melee Weapon Attack:* +13 to hit, reach 10ft., up to three targets. *Hit:* 13 (1d12 + 7) slashing damage.
 >
-> ***Bone Spike.*** A medium sized spike of bone raises from the ground within 60 ft. of the bone wraith. A creature in the same space must make a DC 19 Dexterity save or take 11 (2d8 + 2) piercing damage and be restrained. A restrained creature can use an action to try to break free by succeeding on a DC 19 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 9 (2d8) piercing damage at the start of each of the bone wraith's turns. On a successful save the creature takes half damage and is not restrained.
+> ***Graveyard Spike.*** A medium sized spike of bone raises from the ground within 60 ft. of the bone wraith. A creature in the same space must make a DC 19 Dexterity save or take 11 (2d8 + 2) piercing damage and be restrained. A restrained creature can use an action to try to break free by succeeding on a DC 19 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 9 (2d8) piercing damage at the start of each of the bone wraith's turns. On a successful save the creature takes half damage and is not restrained.
 >
 > ***Coldflame (Recharge 5-6).*** The bone wraith exhales an icy blast in a 90-foot line that is 5 feet wide. Each creature in that area must make a DC 19 Constitution saving throw, taking 56 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+>
+> ### Legendary Actions
+> The bone wraith can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The bone wraith regains spent legendary actions at the start of its turn.
+>
+> ***Bone Storm.*** Any creature within the bone wraith's bone storm aura must make a DC 19 Dexterity saving throw or take 7 (2d6) slashing and 7 (2d6) necrotic damage.
+>
+> ***Detect.*** The bone wraith makes a Wisdom (Perception) check.
+> 
+> ***Spine Attack (Costs 2 Actions).*** The bone wraith strikes its spinal wing towards a creature. Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: (3d10 + 7) piercing damage and the target must succeed on a DC 19 Strength check or be grappled (escape DC 19). Until this grapple ends, the target is restrained. The bone wraith can have maximum two creatures grappled this way.
+> 
 
 https://wow.gamepedia.com/Bone_wraith#/media/File:Bone_Guard_Boss_Concept.jpg
 
