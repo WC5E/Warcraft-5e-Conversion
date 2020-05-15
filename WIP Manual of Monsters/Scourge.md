@@ -33,6 +33,11 @@ ___
 
 https://wow.gamepedia.com/Bone_golem#/media/File:Skeletal_Flayer.jpg
 
+\pagebreak
+
+<div class='statblock-bottom-wide'>
+
+___
 ___
 > ## Bone Wraith
 > *Huge construct (undead), chaotic evil*
@@ -87,6 +92,8 @@ ___
 > 
 
 https://wow.gamepedia.com/Bone_wraith#/media/File:Bone_Guard_Boss_Concept.jpg
+
+</div>
 
 \pagebreak
 
