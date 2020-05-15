@@ -71,7 +71,7 @@ ___
 > ***Three Heads.*** The bone wraiths has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
 >
 > ### Actions
-> ***Multiattack.*** The bone wraith uses its Bone Spike and then makes two melee weapon attacks.
+> ***Multiattack.*** The bone wraith uses its Graveyard Spike and then makes two melee weapon attacks.
 >
 > ***Bone Axe.*** *Melee Weapon Attack:* +13 to hit, reach 15ft., one target. *Hit:* 26 (3d12 + 7) slashing damage.
 >
