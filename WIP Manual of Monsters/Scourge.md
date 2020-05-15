@@ -25,7 +25,7 @@ ___
 > ___
 >	
 > ### Actions
-> ***Multiattack.*** The bone golem makes two melee attacks. If it has 26 or less hit points remaining, it makes 3 melee attacks instead.
+> ***Multiattack.*** The bone golem makes two melee attacks, or three melee attacks if it has half of its hit points or fewer.
 >
 > ***Bone Scythe.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 >
