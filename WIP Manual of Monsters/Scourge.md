@@ -20,7 +20,8 @@ ___
 > - **Damage Immunities** necrotic, poison
 > - **Condition Immunities** charmed, exhaustion, frightened, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 9
-> - **Languages** understands Common, but can't speak.
+> - **Languages** understands the languages of its creator, but
+can't speak
 > - **Challenge** 5 (450 XP)
 > ___
 >	
@@ -56,7 +57,7 @@ ___
 > - **Damage Immunities** necrotic, poison;
 > - **Condition Immunities** charmed, exhaustion, frightened, poisoned
 > - **Senses** darkvision 90 ft., passive Perception 11
-> - **Languages** Common
+> - **Languages** the languages of its creator
 > - **Challenge** 18 (20,000 XP) <!-- OCR: 23 DCR: 13 -->
 > ___
 >	
@@ -117,7 +118,7 @@ ___
 > - **Damage Immunities** necrotic, poison
 > - **Condition Immunities** exhaustion, frightened, poisoned
 > - **Senses** darkvision 120 ft., passive Perception 13
-> - **Languages** Common
+> - **Languages** common
 > - **Challenge** 16 (15,000 XP)
 > ___
 >	
@@ -192,19 +193,21 @@ ___
 > ___
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
-> 18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
+> 18 (+4)|15 (+2)|16 (+3)|2 (-4)|13 (+1)|7 (-2)|
 > ___
 > - **Damage Immunities** necrotic, poison
 > - **Condition Immunities** exhaustion, frightened, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** -
+> - **Languages** understands the languages of its creator, but can't speak
 > - **Challenge** 3 (700 XP)
 > ___
 >
 > ***Confer Necrotic Resistance.*** The deathcharger can grant resistance to necrotic damage to anyone riding it.
 >
+> ***Trampling Charge.*** If the deathcharger moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the deathcharger can make another attack with its hooves against it as a bonus action.
+>
 > ### Actions 
-> ***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) necrotic damage.
+> ***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) necrotic damage.
 
 \pagebreak
 
@@ -212,31 +215,40 @@ ___
 > ## Flesh Giant
 > *Huge construct (undead), chaotic evil*
 > ___
-> - **Armor Class** 14 (Natural Armor)
-> - **Hit Points** 230 (20d12 + 100)
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 230 (20d12 + 100) <!-- effectively 287 -->
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 > 29 (+9)|14 (+2)|20 (+5)|7 (-2)|9 (-1)|6 (-2)|
 > ___
-> - **Saving Throws** Str +14, Con +10, Wis +4, Cha +3
+> - **Saving Throws** Str +14, Con +10
 > - **Skills** Athletics +14, Intimidation +8
-> - **Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+> - **Damage Immunities** poison
 > - **Condition Immunities** charmed, exhaustion, frightened, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 9
-> - **Languages** common
+> - **Languages** understands the languages of its creator, but can't speak
 > - **Challenge** 13 (10,000 XP)
 > ___
->	
+>
+> ***Fear of Fire.*** When the flesh giant takes fire damage, it has to make a wisdom saving throw. The DC equals 10 or half the damage it takes, whichever number is higher. On a failure the flesh giant has disadvantage on ability checks and attack rolls until the end of its next turn.
+>
 > ### Actions 
 > ***Multiattack.*** The flesh giant makes two fist attacks.
 >
 > ***Fist.*** *Melee Weapon Attack*: +14 to hit, reach 10 ft., one target. *Hit:* 22 (3d8 + 9) bludgeoning damage.
 >
+> ***Frightful Presence.*** Each creature of the flesh giant's choice that is within 120 feet of the flesh giant and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the flesh giant's Frightful Presence for the next 24 hours.
+>
 > ***Stomp (recharge 5-6)***  The flesh giant stomps the ground knocking any creature and unsecured object into the air. Each creature within 50 yards of the stone giant must make a DC 17 Strength saving throw or take 10d8 bludgeoning damage and be hurled 20 feet into the air, immediately falling if it cannot hover. On a successful save, the target takes half damage and is not hurled into the air. Unsecure objects are automatically hurled into the air.
 >
-> ***Thunderclap*** The flesh giant claps his hands together creating a thunderous wave that can be heard 300 feet away. Each creature in a 30 foot cone originating from the flesh giant must make a DC 17 Constitution saving throw, or take 4d8 thunder damage and be pushed 20 feet away from the flesh giant. On a successful save the target takes half damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 20 feet away from the flesh giant.
+> ### Reactions
+>
+> ***Acid Spinal Fluid*** When hit by a melee attack that deals slashing or piercing damage to the flesh giant, it spews corrosive acid over its attacker. The attacker have to make a DC 17 dexterity saving throw or take 13 (3d8) acid damage.
+
+**Should go into its description:** "A little-known quality of the flesh giants is that their spinal fluid interacts with the plague in a very interesting way, turning it into a corrosive acid."
 
 https://gamepedia.cursecdn.com/wowpedia/f/f5/Provoke.jpg
 
@@ -254,8 +266,8 @@ ___
 > 1 (-5)|17 (+3)|14 (+2)|16 (+3)|10 (+0)|11 (+0)|
 > ___
 > - **Skills** Arcana +5, Perception +2
-> - **Damage Resistances** Piercing
-> - **Damage Immunities** necrotic, poison
+> - **Damage Resistances** necrotic, piercing
+> - **Damage Immunities** poison
 > - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, prone
 > - **Senses** darkvision 60 ft., passive Perception 12
 > - **Languages** common
@@ -264,15 +276,20 @@ ___
 >
 > ***Magic Resistance.*** The doomskull has advantage on saving throws against spells and other magical effects.
 >
-> ***Spellcasting.*** he doomskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The doomskull has the following wizard spells prepared:
+> ***Spellcasting.*** The doomskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The doomskull has the following spells prepared:
 >
-> Cantrips (at will): *mage hand, shadow bolt*
+> Cantrips (at will): *mage hand, ✦ shadow bolt*
 > <br> 1st level (3 slots): *hex, magic missile, shield*
 > <br> 2nd level (2 slots): *blur, phantasmal force, ray of enfeeblement*
 > <br> 3rd level (1 slot): *bestow curse, enemies abound*
 >
 > ### Actions 
-> ***Multiattack.*** The doomskull casts *shadow bolt* twice.
+>
+> ***Bite.*** *Melee Weapon Attack*: +5 to hit, reach 0 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage.
+>
+> ### Bonus Actions
+>
+> ***Swift casting.*** The doomskull casts a cantrip.
 >
 > ### Reactions
 > ***Curse of Doom.*** When the doomskull is reduced to 0 hit points from taking damage caused by another creature, it utters some incomprehensible words to curse the creature with doom. The creature has to make a DC 13 Wisdom saving throw or gain one level of exhaustion and become cursed. While cursed the creature cannot reduce its exhaustion level. Undead and constructs are immune to the curse.
