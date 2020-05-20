@@ -284,11 +284,9 @@ ___
 > <br> 3rd level (1 slot): *bestow curse, enemies abound*
 >
 > ### Actions 
->
 > ***Bite.*** *Melee Weapon Attack*: +5 to hit, reach 0 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage.
 >
 > ### Bonus Actions
->
 > ***Swift casting.*** The doomskull casts a cantrip.
 >
 > ### Reactions
@@ -300,37 +298,30 @@ ___
 > ## Gheist
 > *Medium undead, chaotic evil*
 > ___
-> - **Armor Class** 13
-> - **Hit Points** 40 (9d4 + 18)
-> - **Speed** 0 ft., fly 40 ft. (hover)
+> - **Armor Class** 12
+> - **Hit Points** 27 (6d8 + 0)
+> - **Speed** 35 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
-> 1 (-5)|17 (+3)|14 (+2)|16 (+3)|10 (+0)|11 (+0)|
+> 10 (+0)|14 (+2)|10 (+0)|8 (-2)|12 (+1)|7 (-2)|
 > ___
-> - **Skills** Arcana +5, Perception +2
-> - **Damage Resistances** Piercing
-> - **Damage Immunities** necrotic, poison
-> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, prone
-> - **Senses** darkvision 60 ft., passive Perception 12
+> - **Skills** Acrobatics +4
+> - **Damage Immunities** poison
+> - **Condition Immunities** poisoned
+> - **Senses** darkvision 60 ft., passive Perception 6
 > - **Languages** common
 > - **Challenge** 1 (200 XP)
 > ___
 >
-> ***Magic Resistance.*** The doomskull has advantage on saving throws against spells and other magical effects.
+> ***Hangman's rope.*** The geist has disadvantage on ability checks to contest or escape a grapple.
 >
-> ***Spellcasting.*** he doomskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The flameskull has the following wizard spells prepared:
->
-> Cantrips (at will): *mage hand, shadow bolt*
-> <br> 1st level (3 slots): *hex, magic missile, shield*
-> <br> 2nd level (2 slots): *blur, phantasmal force, ray of enfeeblement*
-> <br> 3rd level (1 slot): *bestow curse, enemies abound*
+> ***One eyed.*** The geist has disadvantage on perception checks.
 >
 > ### Actions 
-> ***Multiattack.*** The doomskull casts *shadow bolt* twice.
+> ***Multiattack.*** The geist makes two claw attacks.
 >
-> ### Reactions
-> ***Curse of Doom.*** When the doomskull is reduced to 0 hit points from taking damage caused by another creature, it utters some incomprehensible words to curse the creature with doom. The creature has to make a DC 13 Wisdom saving throw or gain one level of exhaustion and become cursed. While cursed the creature cannot reduce its exhaustion level. Undead and constructs are immune to the curse.
+> ***Claw.*** *Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
 
 https://gamepedia.cursecdn.com/wowpedia/9/9f/Runeforge_Haunter.jpg
 
