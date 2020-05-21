@@ -318,6 +318,8 @@ ___
 >
 > ***One eyed.*** The geist has disadvantage on perception checks.
 >
+> ***Standing Leap.*** The geist's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
+>
 > ### Actions 
 > ***Multiattack.*** The geist makes two claw attacks.
 >
