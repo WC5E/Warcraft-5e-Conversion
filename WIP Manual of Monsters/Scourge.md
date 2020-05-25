@@ -20,10 +20,11 @@ ___
 > - **Damage Immunities** necrotic, poison
 > - **Condition Immunities** charmed, exhaustion, frightened, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 9
-> - **Languages** understands the languages of its creator, but
-can't speak
-> - **Challenge** 5 (450 XP)
+> - **Languages** understands the languages of its creator but can't speak
+> - **Challenge** 5 (1,800 XP)
 > ___
+>
+> ***Immutable Form.*** The bone golem is immune to any spell or effect that would alter its form.
 >	
 > ### Actions
 > ***Multiattack.*** The bone golem makes two melee attacks, or three melee attacks if it has half of its hit points or fewer.
@@ -52,11 +53,11 @@ ___
 > 26 (+7)|14 (+2)|27 (+8)|8 (-1)|13 (+1)|7 (-2)|
 > ___
 > - **Saving Throws** Str +13, Con +14, Wis +7, Cha +4
-> - **Skills** Intimidation +10
+> - **Skills** Insight +7, Intimidation +10, Perception +7
 > - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 > - **Damage Immunities** necrotic, poison;
 > - **Condition Immunities** charmed, exhaustion, frightened, poisoned
-> - **Senses** darkvision 90 ft., passive Perception 11
+> - **Senses** darkvision 90 ft., passive Perception 22
 > - **Languages** the languages of its creator
 > - **Challenge** 18 (20,000 XP) <!-- OCR: 23 DCR: 13 -->
 > ___
@@ -118,10 +119,12 @@ ___
 > - **Damage Immunities** necrotic, poison
 > - **Condition Immunities** exhaustion, frightened, poisoned
 > - **Senses** darkvision 120 ft., passive Perception 13
-> - **Languages** common
+> - **Languages** the languages it knew in life.
 > - **Challenge** 16 (15,000 XP)
 > ___
 >	
+> ***Cursed air.*** Living creatures within 10 feet of the death knight is unable to restore hit points.
+>
 > ***Magic Resistance.*** The death knight has advantage on saving throws against spells and other magical effects.
 >
 > ***Magic Weapons.*** The death knight's weapon attacks are magical.
@@ -135,13 +138,10 @@ ___
 >
 > ***Intimidating Shout. (1/day)*** The death knight lets out a horrifying cry and all creatures withing 30 ft. have to make a DC 17 wisdom saving throw or be paralyzed as it can do nothing else but cowering in fear. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
-> ***Raise Dead (recharge 5-6).*** The death knight animates a non-undead, non-construct corpse within 60 ft. A *bone golem* appears in the space of the corpse and the corpse is destroyed. The bone golem then rolls for initiative acting on its turn as normal.
->
-> ### Bonus Actions
-> ***Curse.*** The death knight curses one creature within 60 ft. until the start of the death knight's next turn. While cursed the creature can not restore hit points.
+> ***Raise Dead (recharge 5-6).*** The death knight animates a non-undead, non-construct corpse within 60 ft. A bone golem appears in the space of the corpse and the corpse is destroyed. The bone golem then rolls for initiative acting on its turn as normal.
 >
 > ### Reactions
-> ***Hysteria.*** When an allied undead creature targets another creature the death knight utters some maddening words targeted at the allied creature. The allied creature gains advantage on all of its attacks until the end of its turn, but takes 7 (2d6) psychic damage every time it attacks during the duration.
+> ***Hysteria.*** When a friendly undead makes an attack roll, the death knight can utter maddening words that deal 7 (2d6) psychic damage to the undead and give it advantage on all attack rolls made until the end of its turn.
 
 </div>
 
@@ -164,7 +164,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** common
+> - **Languages** undestands common but cannot speak
 > - **Challenge** 8 (3,900 XP)
 > ___
 >	
@@ -172,14 +172,16 @@ ___
 >
 > ***Magic Weapons.*** The death revenant's weapon attacks are magical.
 >
+> ***Telepathy.*** The revenant can magically transmit messages and images to any creature within 120 feet of it that can understand a language.
+>
 > ### Actions 
 > ***Multiattack.*** The death revenant makes a scythe attack and then uses *Death Coil*.
 >
 > ***Scythe.*** *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage, plus 10 (3d6) necrotic damage.
 >
-> ***Death Coil.*** The death revenant fires a blast of unholy energy at a living or undead creature. A living creature has to make a DC 15 Constitution saving throw or take 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one. An undead creature don't get to save, but instead of taking damage it restores 21 (6d6) hit points.
+> ***Death Coil.*** The death revenant fires a blast of unholy energy at a living or undead creature. A living creature has to make a DC 15 Constitution saving throw or take 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one. An undead creature restores 21 (6d6) hit points instead.
 >
-> ***Raise Dead (recharge 5-6).*** The death revenant animates a non-undead, non-construct corpse within 60 ft. A *ghoul* appears in the space of the corpse and the corpse is destroyed. The ghoul then rolls for initiative acting on its turn as normal.
+> ***Raise Dead (recharge 5-6).*** The death revenant animates a non-undead, non-construct corpse within 60 ft. A ghoul appears in the space of the corpse and the corpse is destroyed. The ghoul then rolls for initiative acting on its turn as normal.
 
 https://gamepedia.cursecdn.com/wowpedia/f/fe/Death_Revenant.jpg
 
@@ -198,11 +200,11 @@ ___
 > - **Damage Immunities** necrotic, poison
 > - **Condition Immunities** exhaustion, frightened, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** understands the languages of its creator, but can't speak
+> - **Languages** understands the languages of its creator but can't speak
 > - **Challenge** 3 (700 XP)
 > ___
 >
-> ***Confer Necrotic Resistance.*** The deathcharger can grant resistance to necrotic damage to anyone riding it.
+> ***Confer Resistance.*** The deathcharger can grant resistance to necrotic damage to anyone riding it.
 >
 > ***Trampling Charge.*** If the deathcharger moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the deathcharger can make another attack with its hooves against it as a bonus action.
 >
@@ -229,20 +231,22 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** charmed, exhaustion, frightened, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 9
-> - **Languages** understands the languages of its creator, but can't speak
+> - **Languages** understands the languages of its creator but can't speak
 > - **Challenge** 13 (10,000 XP)
 > ___
 >
 > ***Fear of Fire.*** When the flesh giant takes fire damage, it has to make a wisdom saving throw. The DC equals 10 or half the damage it takes, whichever number is higher. On a failure the flesh giant has disadvantage on ability checks and attack rolls until the end of its next turn.
 >
+> ***Immutable Form.*** The flesh giant is immune to any spell or effect that would alter its form.
+>
 > ### Actions 
-> ***Multiattack.*** The flesh giant makes two fist attacks.
+> ***Multiattack.*** The flesh giant can use its Frightful Presence. It then makes two fist attacks.
 >
 > ***Fist.*** *Melee Weapon Attack*: +14 to hit, reach 10 ft., one target. *Hit:* 22 (3d8 + 9) bludgeoning damage.
 >
 > ***Frightful Presence.*** Each creature of the flesh giant's choice that is within 120 feet of the flesh giant and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the flesh giant's Frightful Presence for the next 24 hours.
 >
-> ***Stomp (recharge 5-6)***  The flesh giant stomps the ground knocking any creature and unsecured object into the air. Each creature within 50 yards of the stone giant must make a DC 17 Strength saving throw or take 10d8 bludgeoning damage and be hurled 20 feet into the air, immediately falling if it cannot hover. On a successful save, the target takes half damage and is not hurled into the air. Unsecure objects are automatically hurled into the air.
+> ***Stomp (Recharge 5-6)***  The flesh giant stomps the ground knocking any creature and unsecured object into the air. Each creature within 50 yards of the stone giant must make a DC 17 Strength saving throw or take 10d8 bludgeoning damage and be hurled 20 feet into the air, immediately falling if it cannot hover. On a successful save, the target takes half damage and is not hurled into the air. Unsecure objects are automatically hurled into the air.
 >
 > ### Reactions
 >
@@ -283,11 +287,12 @@ ___
 > <br> 2nd level (2 slots): *blur, phantasmal force, ray of enfeeblement*
 > <br> 3rd level (1 slot): *bestow curse, enemies abound*
 >
+> ***Swift caster.*** The doomskull can use a bonus action to cast a cantrip.
+>
+> ***Tiny.*** The doomskull can occupy another creature's space and vice versa.
+>
 > ### Actions 
 > ***Bite.*** *Melee Weapon Attack*: +5 to hit, reach 0 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage.
->
-> ### Bonus Actions
-> ***Swift casting.*** The doomskull casts a cantrip.
 >
 > ### Reactions
 > ***Curse of Doom.*** When the doomskull is reduced to 0 hit points from taking damage caused by another creature, it utters some incomprehensible words to curse the creature with doom. The creature has to make a DC 13 Wisdom saving throw or gain one level of exhaustion and become cursed. While cursed the creature cannot reduce its exhaustion level. Undead and constructs are immune to the curse.
@@ -295,7 +300,7 @@ ___
 \pagebreak
 
 ___
-> ## Gheist
+> ## Geist
 > *Medium undead, chaotic evil*
 > ___
 > - **Armor Class** 12
@@ -304,21 +309,21 @@ ___
 > ___
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
-> 10 (+0)|14 (+2)|10 (+0)|8 (-2)|12 (+1)|7 (-2)|
+> 10 (+0)|14 (+2)|10 (+0)|6 (-2)|10 (+0)|5 (-3)|
 > ___
 > - **Skills** Acrobatics +4
 > - **Damage Immunities** poison
 > - **Condition Immunities** poisoned
-> - **Senses** darkvision 60 ft., passive Perception 6
-> - **Languages** common
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** the languages it knew in life.
 > - **Challenge** 1 (200 XP)
 > ___
 >
-> ***Hangman's rope.*** The geist has disadvantage on ability checks to contest or escape a grapple.
+> ***Hangman's Rope.*** The geist has disadvantage on ability checks to contest or escape a grapple.
 >
-> ***One eyed.*** The geist has disadvantage on perception checks.
+> ***One Eyed.*** The geist has disadvantage on perception checks that rely on sight.
 >
-> ***Standing Leap.*** The geist's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
+> ***Standing Leap.*** The geist's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start. If the geist jumps atleast 15 feet towards a creature, it has advantage on its next attack against the creature until the end of its turn.
 >
 > ### Actions 
 > ***Multiattack.*** The geist makes two claw attacks.
