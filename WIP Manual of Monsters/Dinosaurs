@@ -455,7 +455,7 @@ ___
 > *Large beast, unaligned*
 > ___
 > - **Armor Class** 16 (natural armor)
-> - **Hit Points** 67 (9d10 + 18)
+> - **Hit Points** 52 (8d10 + 16)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -477,7 +477,7 @@ ___
 > *Gargantuan beast, unaligned*
 > ___
 > - **Armor Class** 12 (natural armor)
-> - **Hit Points** 135 (10d20 + 30)
+> - **Hit Points** 162 (12d20 + 36)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -492,9 +492,9 @@ ___
 >
 > ### Actions
 >
-> ***Stomp.*** *Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 32 (6d8 + 5) bludgeoning damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.
+> ***Stomp.*** *Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 36 (7d8 + 5) bludgeoning damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.
 >
-> ***Tail.*** *Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 27 (5d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be pushed up to 30 feet away from the brutosaur and knocked prone.
+> ***Tail.*** *Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 32 (6d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be pushed up to 30 feet away from the brutosaur and knocked prone.
 
 <img src="https://www.gmbinder.com/images/3JU0NjS.jpg" style="position:absolute;top: 490px;right: -67px;width: 540px;">
 <img src="https://www.gmbinder.com/images/VdV67Oz.png" style="position:absolute;top: -260px;right: -115px;width:900px;transform: rotate(19deg);">
@@ -562,11 +562,11 @@ ___
 > ### Actions
 > ***Multiattack.*** The devilsaur makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.
 >
-> ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17) . Until this grapple ends, the target is restrained, and the devilsaur can't bite another target.
+> ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 39 (5d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17) . Until this grapple ends, the target is restrained, and the devilsaur can't bite another target.
 >
-> ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 20 (3d8 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 10 feet away from the devilsaur and knocked prone.
+> ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 25 (4d8 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 10 feet away from the devilsaur and knocked prone.
 >
-> ***Maim.*** One creature grappled by the devilsaur's bite takes 46 (6d12 + 7) piercing damage. If this reduces the creature to 0 hp, the devilsaur swallows it and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the devilsaur, and it takes 10 (3d6) acid damage at the start of each of the devilsaur's turns.
+> ***Maim.*** One creature grappled by the devilsaur's bite takes 59 (8d12 + 7) piercing damage. If this reduces the creature to 0 hp, the devilsaur swallows it and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the devilsaur, and it takes 10 (3d6) acid damage at the start of each of the devilsaur's turns.
 If the Devilsaur takes 20 damage or more on a single turn from creatures inside it, it must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the devilsaur dies, a swallowed creature is no longer restrained by him and can escape from the corpse using 15 feet of movement, exiting prone.
 
 <div class="pageLetter">D</div>
@@ -595,16 +595,18 @@ ___
 > - **Challenge** 14 (11,500 XP)
 > ___
 >
+> ***Legendary Resistance (2/Day).*** If the devilsaur king fails a saving throw, it can choose to succeed instead.
+>
 > ***Trample.*** When the devilsaur king moves into an area occupied by a medium or smaller creature, the creature must succeed on a DC 19 Strength saving throw or take 11 (2d10) bludgeoning damage and be knocked prone.
 >
 > ### Actions
 > ***Multiattack.*** The devilsaur king makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.
 >
-> ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10ft., one target. *Hit:* 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 19) . Until this grapple ends, the target is restrained, and the devilsaur king can't bite another target.
+> ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10ft., one target. *Hit:* 39 (5d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 19) . Until this grapple ends, the target is restrained, and the devilsaur king can't bite another target.
 >
-> ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 10ft., one target. *Hit:* 20 (3d8 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 19 Strength saving throw or be pushed up to 10 feet away from the devilsaur king and knocked prone.
+> ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 10ft., one target. *Hit:* 25 (4d8 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 19 Strength saving throw or be pushed up to 10 feet away from the devilsaur king and knocked prone.
 >
-> ***Maim.*** One grappled creature takes 46 (6d12 + 7) piercing damage. If this reduces the creature to 0 hp, the devilsaur swallows it and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the devilsaur king, and it takes 21 (6d6) acid damage at the start of each of the devilsaur king's turns.
+> ***Maim.*** One grappled creature takes 29 (8d12 + 7) piercing damage. If this reduces the creature to 0 hp, the devilsaur swallows it and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the devilsaur king, and it takes 21 (6d6) acid damage at the start of each of the devilsaur king's turns.
 If the devilsaur king takes 45 damage or more on a single turn from creatures inside it, it must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the devilsaur king dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 >
 > ***Terrifying Roar.***  Each creature within 60 feet of the devilsaur king that can hear him must succeed on a DC 17 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success.
