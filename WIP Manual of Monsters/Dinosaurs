@@ -455,7 +455,7 @@ ___
 > *Large beast, unaligned*
 > ___
 > - **Armor Class** 16 (natural armor)
-> - **Hit Points** 52 (8d10 + 16)
+> - **Hit Points** 45 (6d10 + 12)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -686,6 +686,8 @@ ___
 > - **Languages** -
 > - **Challenge** 5 (1,800 XP)
 > ___
+>
+> ***Reflective Armor Plating.*** The direhorn has advantage on saving throws against spells and other magical effects.
 >
 > ***Trampling Charge.*** If the direhorn moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the direhorn can make one stomp attack against it as a bonus action.
 >
