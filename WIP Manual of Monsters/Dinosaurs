@@ -816,7 +816,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The raptor makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d4+3) Piercing damage.
+> ***Bite***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6+3) Piercing damage.
 >
 > ***Claws***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (1d8+3) Slashing damage.
 
@@ -829,7 +829,7 @@ ___
 >*Medium beast, unaligned*
 > ___
 > - **Armor Class** 13 (Natural Armor)
-> - **Hit Points** 45 (7d8 + 14)
+> - **Hit Points** 65 (10d8 + 20)
 > - **Speed** 50 ft
 > ___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -849,7 +849,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The raptor makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6+3) Piercing damage.
+> ***Bite***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6+3) Piercing damage.
 >
 > ***Claws***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 12 (2d8+3) Slashing damage.
 >
