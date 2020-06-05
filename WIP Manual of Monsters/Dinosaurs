@@ -634,7 +634,7 @@ ___
 > *Large beast, unaligned*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 60 (8d10 + 16)
+> - **Hit Points** 90 (12d10 + 24)
 > - **Speed** 25 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -653,9 +653,9 @@ ___
 >
 > ***Multiattack.*** The diemetradon makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6+2) piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 12 (3d6+2) piercing damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8+2) slashing damage.
 >
 > ***Silencing Howl (1/day).*** The diemetradon casts *silence*, centered on itself.
 
