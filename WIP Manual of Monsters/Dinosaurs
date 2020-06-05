@@ -936,13 +936,13 @@ ___
 > ## Saurid
 > *Tiny beast, unaligned*
 > ___
-> - **Armor Class** 10 (natural armor)
+> - **Armor Class** 11 (natural armor)
 > - **Hit Points** 12 (5d4)
 > - **Speed** 25 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
-> 7 (-2)|15 (+2)|11 (+0)|2 (-4)|10 (+0)|4 (-3)|
+> 7 (-2)|13 (+1)|11 (+0)|2 (-4)|10 (+0)|4 (-3)|
 > ___
 > - **Senses** passive Perception 10
 > - **Languages** -
@@ -955,7 +955,7 @@ ___
 >
 > ### Actions
 >
-> ***Attack.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage plus 5 (2d4) poison damage, and the target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. It can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+> ***Attack.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4+1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 7 (3d4) poison damage and be poisoned for 1 minute. It can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
 \columnbreak
 
