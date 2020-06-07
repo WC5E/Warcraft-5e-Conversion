@@ -280,7 +280,7 @@ ___
 >
 > ***Magic Resistance.*** The doomskull has advantage on saving throws against spells and other magical effects.
 >
-> ***Spellcasting.*** The doomskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The doomskull has the following spells prepared:
+> ***Spellcasting.*** The doomskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The doomskull has the following warlock spells prepared:
 >
 > Cantrips (at will): *mage hand, ✦ shadow bolt*
 > <br> 1st level (3 slots): *hex, magic missile, shield*
@@ -289,7 +289,7 @@ ___
 >
 > ***Swift caster.*** The doomskull can use a bonus action to cast a cantrip.
 >
-> ***Tiny.*** The doomskull can occupy another creature's space and vice versa.
+> ***Vacant Size.*** The doomskull can occupy another creature's space and vice versa.
 >
 > ### Actions 
 > ***Bite.*** *Melee Weapon Attack*: +5 to hit, reach 0 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage.
