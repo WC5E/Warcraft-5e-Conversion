@@ -3265,7 +3265,7 @@ ___
 > *Medium humanoid (gnoll), chaotic evil*   
 > ___  
 > - **Armor Class** 14 (hide armor)  
-> - **Hit Points** 16 (3d8 + 3)
+> - **Hit Points** 22 (4d8 + 4)
 > - **Speed** 30 ft.  
 > ___  
 > STR | DEX | CON | INT | WIS | CHA
@@ -3344,9 +3344,9 @@ ___
 >
 > ***Spellcasting.*** The gnoll is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:     
 >
-> Cantrips (at will): *lightning blast, gust*
+> Cantrips (at will): *✦ lightning blast, gust*
 > <br> 1st level (4 slots): *absorb elements, cure wounds, <br>&nbsp;&nbsp;&nbsp; detect magic, fog cloud*
-> <br> 2nd level (2 slots): *dust devil, heat metal*
+> <br> 2nd level (2 slots): *dust devil, heat metal, ✦ lava burst*
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) piercing damage.   
@@ -3455,7 +3455,7 @@ ___
 > *Medium humanoid (gnoll), chaotic evil*
 > ___
 > - **Armor Class** 15 (chain shirt)
-> - **Hit Points** 67  (9d8 + 27)
+> - **Hit Points** 90  (12d8 + 36)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -3488,7 +3488,7 @@ ___
 > ***Headbutt.*** Hogger headbutts a creature within reach that missed him with an attack. The creature must succeed on a DC 13 Constitution saving throw or be stunned until the end of Hogger's next turn. To do so, Hogger must see the attacker.
 >
 > ### Legendary Actions
-> Hogger can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Hogger regains spent legendary actions at the start of his turn.
+> Hogger can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Hogger regains spent legendary actions at the start of his turn.
 >
 > **Attack.** Hogger makes one melee weapon attack.
 > <br> **Move.** Hogger move up to half his speed.
