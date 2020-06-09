@@ -3265,7 +3265,7 @@ ___
 > *Medium humanoid (gnoll), chaotic evil*   
 > ___  
 > - **Armor Class** 14 (hide armor)  
-> - **Hit Points** 16 (3d8 + 3)
+> - **Hit Points** 22 (4d8 + 4)
 > - **Speed** 30 ft.  
 > ___  
 > STR | DEX | CON | INT | WIS | CHA
@@ -3284,7 +3284,8 @@ ___
 >
 > ***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.   
 >
-> ***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.   
+> ***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;22;3;12;5;0;5;0;5;2;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;  -->
 
 ___
 > ## Gnoll Brute
@@ -3312,6 +3313,7 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4 + 2) piercing damage.   
 >
 > ***Greatclub.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 2) bludgeoning damage.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;32;4;12;11;0;11;0;11;7;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GNOLLS </div>
@@ -3344,12 +3346,13 @@ ___
 >
 > ***Spellcasting.*** The gnoll is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:     
 >
-> Cantrips (at will): *lightning blast, gust*
+> Cantrips (at will): *✦ lightning blast, gust*
 > <br> 1st level (4 slots): *absorb elements, cure wounds, <br>&nbsp;&nbsp;&nbsp; detect magic, fog cloud*
-> <br> 2nd level (2 slots): *dust devil, heat metal*
+> <br> 2nd level (2 slots): *dust devil, heat metal, ✦ lava burst*
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) piercing damage.   
+> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) piercing damage.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;21;0;21;0;6;2;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -3387,6 +3390,7 @@ ___
 > ***Heavy Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 100/400 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage.
 >
 > ***Kill Command (Recharge 5-6).*** The gnoll targets one ally it can see within 30 feet of it. If the target can see and hear it, the target can make one weapon attack as a reaction.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;17;52;5;12;14;0;14;0;14;5;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;1;;10;;;;;; -->
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GNOLLS </div>
@@ -3455,7 +3459,7 @@ ___
 > *Medium humanoid (gnoll), chaotic evil*
 > ___
 > - **Armor Class** 15 (chain shirt)
-> - **Hit Points** 67  (9d8 + 27)
+> - **Hit Points** 82  (11d8 + 33)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -3488,11 +3492,12 @@ ___
 > ***Headbutt.*** Hogger headbutts a creature within reach that missed him with an attack. The creature must succeed on a DC 13 Constitution saving throw or be stunned until the end of Hogger's next turn. To do so, Hogger must see the attacker.
 >
 > ### Legendary Actions
-> Hogger can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Hogger regains spent legendary actions at the start of his turn.
+> Hogger can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Hogger regains spent legendary actions at the start of his turn.
 >
 > **Attack.** Hogger makes one melee weapon attack.
 > <br> **Move.** Hogger move up to half his speed.
 > <br> **Kill Command (Costs 2 Actions).** Hogger uses Kill <br>&nbsp;&nbsp;&nbsp; Command.
+<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;82;7;12;45;7;45;0;45;6;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;1;;10;;;;;; -->
 
 </div>
 
