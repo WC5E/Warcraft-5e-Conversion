@@ -3284,7 +3284,8 @@ ___
 >
 > ***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.   
 >
-> ***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.   
+> ***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.  
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;22;3;12;5;0;5;0;5;2;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;  -->
 
 ___
 > ## Gnoll Brute
