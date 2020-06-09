@@ -471,6 +471,7 @@ ___
 > ### Actions
 >
 > ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 22 (4d8+4) piercing damage.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;16;52;6;12;22;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 ___
 > ## Brutosaur
@@ -495,6 +496,7 @@ ___
 > ***Stomp.*** *Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 36 (7d8 + 5) bludgeoning damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.
 >
 > ***Tail.*** *Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 32 (6d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be pushed up to 30 feet away from the brutosaur and knocked prone.
+<!-- https://wc5e-cr-calculator.frogvall.com/?1;12;162;8;12;36;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <img src="https://www.gmbinder.com/images/3JU0NjS.jpg" style="position:absolute;top: 490px;right: -67px;width: 540px;">
 <img src="https://www.gmbinder.com/images/VdV67Oz.png" style="position:absolute;top: -260px;right: -115px;width:900px;transform: rotate(19deg);">
@@ -567,7 +569,8 @@ ___
 > ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 25 (4d8 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 10 feet away from the devilsaur and knocked prone.
 >
 > ***Maim.*** One creature grappled by the devilsaur's bite takes 59 (8d12 + 7) piercing damage. If this reduces the creature to 0 hp, the devilsaur swallows it and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the devilsaur, and it takes 10 (3d6) acid damage at the start of each of the devilsaur's turns.
-If the Devilsaur takes 20 damage or more on a single turn from creatures inside it, it must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the devilsaur dies, a swallowed creature is no longer restrained by him and can escape from the corpse using 15 feet of movement, exiting prone.
+<!-- If the Devilsaur takes 20 damage or more on a single turn from creatures inside it, it must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the devilsaur dies, a swallowed creature is no longer restrained by him and can escape from the corpse using 15 feet of movement, exiting prone. -->
+https://wc5e-cr-calculator.frogvall.com/?1;13;136;10;12;39;25;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DINOSAURS </div>
@@ -595,7 +598,7 @@ ___
 > - **Challenge** 14 (11,500 XP)
 > ___
 >
-> ***Legendary Resistance (2/Day).*** If the devilsaur king fails a saving throw, it can choose to succeed instead.
+> ***Legendary Resistance (1/Day).*** If the devilsaur king fails a saving throw, it can choose to succeed instead.
 >
 > ***Trample.*** When the devilsaur king moves into an area occupied by a medium or smaller creature, the creature must succeed on a DC 19 Strength saving throw or take 11 (2d10) bludgeoning damage and be knocked prone.
 >
@@ -606,7 +609,7 @@ ___
 >
 > ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 10ft., one target. *Hit:* 25 (4d8 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 19 Strength saving throw or be pushed up to 10 feet away from the devilsaur king and knocked prone.
 >
-> ***Maim.*** One grappled creature takes 29 (8d12 + 7) piercing damage. If this reduces the creature to 0 hp, the devilsaur swallows it and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the devilsaur king, and it takes 21 (6d6) acid damage at the start of each of the devilsaur king's turns.
+> ***Maim.*** One grappled creature takes 59 (8d12 + 7) piercing damage. If this reduces the creature to 0 hp, the devilsaur swallows it and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the devilsaur king, and it takes 21 (6d6) acid damage at the start of each of the devilsaur king's turns.
 If the devilsaur king takes 45 damage or more on a single turn from creatures inside it, it must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the devilsaur king dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 >
 > ***Terrifying Roar.***  Each creature within 60 feet of the devilsaur king that can hear him must succeed on a DC 17 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success.
@@ -618,6 +621,7 @@ If the devilsaur king takes 45 damage or more on a single turn from creatures in
 >**Move.** The devilsaur king moves half his speed.
 > <br> **Terrifying Roar** The devilsaur king uses Terrifying Roar.
 > <br> **Swallow (Costs 2 Actions).** The devilsaur king swallows a creature it is grappling and the grapple ends. See *Maim*.
+<!-- https://wc5e-cr-calculator.frogvall.com/?2;15;187;14;12;75;11;75;32;75;53;0;0;0;0;0;0;;;;;3;;;;;;;;;1;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -658,6 +662,7 @@ ___
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8+2) slashing damage.
 >
 > ***Silencing Howl (1/day).*** The diemetradon casts *silence*, centered on itself.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;90;4;12;23;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
   <!-- This is to break collapsing space between these two elements -->
 
@@ -667,6 +672,7 @@ ___
 > An incendosaur has the same statistics as a diemetradon, except it is immune to fire damage and it has the following action in place of diemetradon's Silencing Howl:
 >
 > <br> ***Fire Breath (Recharge 5-6).***  The incendosaur exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 17 (5d6) fire damage on a failed save, or half as much damage on a successful one.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;90;4;12;34;0;23;0;23;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -696,6 +702,7 @@ ___
 > ***Gore.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 24 (4d8 + 6) piercing damage.
 >
 > ***Stomp.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one prone creature. *Hit:* 22 (3d10 + 6) bludgeoning damage
+<!-- https://wc5e-cr-calculator.frogvall.com/?1;13;95;9;12;24;22;24;0;24;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
 
 <img src='https://gamepedia.cursecdn.com/wowpedia/2/2e/It%27s_a_Secret_to_Everybody_tcg.jpg' style='position:absolute;bottom:0px;right:0px;width:800px'/>
 <img src='https://www.gmbinder.com/images/MVDaLa2.png' style='position:absolute; top:-90px; right:0px; width:900px' />
@@ -730,13 +737,14 @@ ___
 >
 > ### Actions
 >
-> ***Multiattack.*** The pterrordax can use its Terryfying Screech. It then makes two claw attacks.
+> ***Multiattack.*** The pterrordax can use its Terrifying Screech. It then makes two claw attacks.
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage.
 >
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage.
 >
 > ***Terrifying Screech.*** Each creature within 60 feet of the pterrordax that can hear it must succeed on a DC 11 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this pterrordax's Frightful Screech for the next 24 hours.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;44;5;12;14;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;1;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -773,6 +781,7 @@ ___
 > ***Terrifying Screech.*** Each creature within 60 feet of the pterrorwing that can hear it must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this pterrorwing's Frightful Screech for the next 24 hours.
 >
 > ***Skycall (Recharge 5-6).*** The pterrorwing screams and a thunderous force sweeps out from it in a 15 foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 33 (6d10) thunder damage on a failed save and is pushed 15 feet away from it. On a successful save, the creature takes half as much damage and isn't pushed.
+<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;85;6;12;66;0;26;0;26;0;0;0;0;0;0;0;;;;;3;;;;;;;1;;;1;;;;;;;;10;;;;;; -->
 
 
 <img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="top:-100px; right:80px; width:800px;transform:rotate(120deg)">
@@ -790,6 +799,7 @@ ___
 > The most ferocious in a pack of raptors are often referred to as *ravagers*. A raptor ravager has a challenge rating of 2 (450 XP). It has the same statistics as a raptor, and gains the following trait:
 >
 > **Rampage**. When the raptor reduces a creature to 0 hit points with a melee attack on its turn, the raptor can take a bonus action to move up to half its speed and make a bite attack.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;27;5;12;14;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;1;;10;;;;;; -->
 
 ___
 > ## Raptor
@@ -819,6 +829,7 @@ ___
 > ***Bite***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6+3) Piercing damage.
 >
 > ***Claws***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (1d8+3) Slashing damage.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;27;5;12;14;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -854,6 +865,7 @@ ___
 > ***Claws***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 12 (2d8+3) Slashing damage.
 >
 > ***Matron's Call (1/Day).*** The raptor utters a series of guttural noises and cries. Other raptors within 30 ft. who hear the call, can use their reaction to make an opportunity attack against a creature within 5 ft. of them.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;65;5;12;22;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DINOSAURS </div>
@@ -923,6 +935,7 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) piercing damage.
 >
 > ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6+4) slashing damage.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;65;6;12;14;20;14;7;14;7;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="bottom: -170px;right: 110px;width: 730px;transform: rotate(479deg);">
 <img src="https://www.gmbinder.com/images/x2uBrWh.png" style="position:absolute;bottom: 35px;right: 30px;width:600px;">
@@ -956,6 +969,7 @@ ___
 > ### Actions
 >
 > ***Attack.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4+1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 7 (3d4) poison damage and be poisoned for 1 minute. It can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;11;12;3;12;10;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -983,9 +997,10 @@ ___
 > ***Relentless (Recharges after a Short or Long Rest).*** <br> If the threshadon takes 12 points of damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 >
 > ### Actions
-> ***Multiattack.*** The threshadon makes two attacks with its bite.
+> ***Multiattack.*** The threshadon makes two attacks with its bite. 
 >
 > ***Bite.*** *Melee Weapon Attack*: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) piercing damage.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;60;6;12;28;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;; -->
 
 <div class='statblock-bottom-wide' style='bottom: 208px;'>
 
@@ -1014,6 +1029,7 @@ ___
 > ***Stomp.*** *Melee Attack Weapon:* +7 to hit, reach 5 ft., one target. *Hit:* 21 (3d10 + 5) bludgeoning damage.
 >
 > ***Impale***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 23 (4d8 + 5) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 13) . Until this grapple ends, the target is restrained, and the stegadon can't impale another target.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;95;7;12;18;21;23;0;21;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
