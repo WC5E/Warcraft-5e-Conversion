@@ -988,6 +988,7 @@ ___
 > ***Rock*** *Ranged Weapon Attack:* +8 to hit, range 60/180 ft., one target. *Hit:* 27 (5d8 + 5) bludgeoning damage.
 >
 > ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
+<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;105;8;16;30;0;30;0;30;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -1038,8 +1039,8 @@ ___
 > ## Ancient of Lore
 >*Huge plant, neutral good*
 > ___
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 115 (11d12 + 44)
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 94 (9d12 + 36)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1052,7 +1053,7 @@ ___
 > - **Damage Resistances** bludgeoning, piercing
 > - **Senses** darkvision 120 ft., passive Perception ##
 > - **Languages** Darnassian, Druidic
-> - **Challenge** 7 (2,900 XP)
+> - **Challenge** 8 (3,900 XP)
 > ___
 > ***False Appearance.*** While the ancient remains motion&shy;less, it is indistinguishable from a normal tree.
 >
@@ -1062,13 +1063,13 @@ ___
 >
 > ***Spellcasting.*** The ancient is a 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The ancient has the following druid spells prepared:
 >
-> Cantrips (at will): *dancing lights, druidcraft, solar <br>&nbsp;&nbsp;&nbsp; wrath, thorn whip*
-> <br> 1st level (4 slots): *detect magic, detect poison and <br>&nbsp;&nbsp;&nbsp; disease, faerie fire, starfire*
+> Cantrips (at will): *dancing lights, druidcraft, ✦ solar <br>&nbsp;&nbsp;&nbsp; wrath, thorn whip*
+> <br> 1st level (4 slots): *detect magic, detect poison and <br>&nbsp;&nbsp;&nbsp; disease, faerie fire, ✦ starfire*
 > <br> 2nd level (3 slots): *locate animals and plants, <br>&nbsp;&nbsp;&nbsp; moonbeam, skywrite*
-> <br> 3rd level (3 slots): *dispel magic, plant growth, <br>&nbsp;&nbsp;&nbsp; protection from energy, starsurge*
+> <br> 3rd level (3 slots): *dispel magic, plant growth, <br>&nbsp;&nbsp;&nbsp; protection from energy, ✦ starsurge*
 > <br> 4th level (3 slots): *confusion, locate creature*
 > <br> 5th level (2 slots): *dream, wrath of nature*
-> <br> 6th level (1 slot): *starfall, wall of thorns*
+> <br> 6th level (1 slot): *✦ starfall, wall of thorns*
 >
 > ### Actions
 > ***Multiattack.*** The ancient makes two slam attacks.
@@ -1078,6 +1079,7 @@ ___
 > ***Rock*** *Ranged Weapon Attack:* +6 to hit, range 60/180 ft., one target. *Hit:* 25 (5d8 + 3) bludgeoning damage.
 >
 > ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
+<!-- https://wc5e-cr-calculator.frogvall.com/?1;14;94;8;16;84;0;70;0;70;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -1093,10 +1095,10 @@ ___
 > ##### Variant: Tree of Life
 > A tree of life is a sapling born from the world tree Nordrassil, these ancients have suffered great losses in recent wars, and those who remain have returned to the forest to spread their seeds and replenish their numbers undisturbed.
 >
-> A tree of life has a challenge rating of 11 (7,200 XP). It has the same statistics as an ancient of lore, and gains the following additional traits:
+> A tree of life has a challenge rating of 10 (5,900 XP). It has the same statistics as an ancient of lore, and gains the following additional traits:
 > <div style='margin-top:0px;'></div>
 >
-> &nbsp;&nbsp;&nbsp; ***Nature's Blessing.*** The tree add its Wisdom <br>&nbsp;&nbsp;&nbsp; modifier to its Armor Class (AC 20).
+> &nbsp;&nbsp;&nbsp; ***Nature's Blessing.*** The tree add its Wisdom <br>&nbsp;&nbsp;&nbsp; modifier to its Armor Class (AC 19).
 > <div style='margin-top:0px;'></div>
 >
 > &nbsp;&nbsp;&nbsp; ***Rooted Tranquility.*** While the tree have taken root, <br>&nbsp;&nbsp;&nbsp; each plant of the tree's choice within 60 feet of it <br>&nbsp;&nbsp;&nbsp; regains 20 hit points at the start of its turn. If the <br>&nbsp;&nbsp;&nbsp; plant takes fire damage, this trait doesn't function <br>&nbsp;&nbsp;&nbsp; at the start of the plant's next turn. A plant dies if <br>&nbsp;&nbsp;&nbsp; it starts its turn with 0 hit points.
@@ -1113,6 +1115,7 @@ ___
 > <div style='margin-top:0px;'></div>
 >
 > &nbsp;&nbsp;&nbsp; ***Summon Wisps (1/Day).*** The tree calls forth ten <br>&nbsp;&nbsp;&nbsp; wisps that appear in empty spaces within 60 feet <br>&nbsp;&nbsp;&nbsp; of it. These wisps act as allies of the tree. The <br>&nbsp;&nbsp;&nbsp; wisps remains for 1 day or until they die.
+<!-- https://wc5e-cr-calculator.frogvall.com/?1;19;94;8;16;84;0;70;0;70;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -1148,13 +1151,14 @@ ___
 > ### Actions
 > ***Multiattack.*** The ancient makes two slam attacks.
 >
-> ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16 (3d6 + 6) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 23 (5d6 + 6) bludgeoning damage.
 >
-> ***Rock.*** *Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:* 28 (5d8 + 6) bludgeoning.
+> ***Rock.*** *Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:* 42 (8d8 + 6) bludgeoning.
 >
 > ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
 >
 > ***Animate Trees (1/Day).*** The ancient magically animates five or fewer trees that it can see within 60 feet of it. The trees have the statistics of a treant, except they have Intelligence and Charisma scores of 1 and they only have the Claw action. An animated tree acts as an ally of the ancient. The tree remains animated for 1 day, until it dies, or until the ancient takes a bonus action to turn it back into an inanimate tree. If the tree doesn't die and is made inanimate, it takes root again if it can.
+<!-- https://wc5e-cr-calculator.frogvall.com/?1;16;138;10;12;46;0;46;0;46;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
