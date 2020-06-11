@@ -1527,7 +1527,7 @@ ___
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage.
 >
 > ### Reactions
-> ***Earthen Shield (3/Day).*** When a creature makes an attack against another creature within 15 feet of the centaur, the centaur can give all attacks against that creature disadvantage until the start of its next turn.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;52;5;12;54;0;54;0;26;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> ***Earthen Shield (3/Day).*** When a creature makes an attack against another creature within 15 feet of the centaur, the centaur can give all attacks against that creature disadvantage until the start of its next turn.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;52;5;13;54;0;54;0;26;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
@@ -1591,7 +1591,7 @@ ___
 >*Large elemental, chaotic evil*
 > ___
 > - **Armor Class** 16 (natural armor)
-> - **Hit Points** 115 (11d10 + 55)
+> - **Hit Points** 126 (12d10 + 60)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1616,9 +1616,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The core hound makes two bite attacks.
 >
-> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage plus 9 (2d8) fire damage.
+> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage plus 18 (4d8) fire damage.
 >
-> ***Molten Breath (Recharge 4-6).*** The core hound exhales searing flames in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 11 (2d10) fire damage on a failed save, or half as much damage on a successful one. A creature failing the save who wears nonmagical armor or a shield take a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.
+> ***Molten Breath (Recharge 4-6).*** The core hound exhales searing flames in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 11 (2d10) fire damage on a failed save, or half as much damage on a successful one. A creature failing the save who wears nonmagical armor or a shield take a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.<!-- https://wc5e-cr-calculator.frogvall.com/?1;16;126;8;16;56;4;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -1653,7 +1653,7 @@ ___
 > ***Illumination.*** The hound sheds bright light in a 10-foot radius and dim light in an additional 10 feet.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:*  7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:*  7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;30;5;12;14;7;14;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
