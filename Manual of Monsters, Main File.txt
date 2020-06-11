@@ -1487,7 +1487,7 @@ ___
 >
 > ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 >
-> ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing.
+> ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing.<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;45;6;12;20;10;21;0;21;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -1514,20 +1514,20 @@ ___
 >
 > ***Spellcasting.*** The centaur is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following shaman spells prepared:
 >
-> Cantrips (at will): *lightning blast, mending, mold earth*
+> Cantrips (at will): *✦ lightning blast, mending, mold earth*
 > <br> 1st level (4 slots): *detect magic, earth tremor, fog <br>&nbsp;&nbsp;&nbsp; cloud, thunderwave*
-> <br> 2nd level (3 slots): *chain heal, lava burst, maximilian's <br>&nbsp;&nbsp;&nbsp; earthern grasp*
-> <br> 3rd level (2 slots): *call lightning, earthen spike*
+> <br> 2nd level (3 slots): *✦ lava burst, maximilian's <br>&nbsp;&nbsp;&nbsp; earthen grasp*
+> <br> 3rd level (2 slots): *call lightning, ✦ chain heal, ✦ earthen spike*
 >
 > ### Actions
 > ***Multiattack.*** The centaur makes two attacks: one with its hooves and one with another melee weapon.
 >
 > ***Pike.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage.
 >
-> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 3) bludgeoning damage.
+> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage.
 >
 > ### Reactions
-> ***Earthen Shield (3/Day).*** When a creature makes an attack against another creature within 15 feet of the centaur, the centaur can give all attacks against that creature disadvantage until the start of its next turn.
+> ***Earthen Shield (3/Day).*** When a creature makes an attack against another creature within 15 feet of the centaur, the centaur can give all attacks against that creature disadvantage until the start of its next turn.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;52;5;12;54;0;54;0;26;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
@@ -1544,7 +1544,7 @@ ___
 > ## Centaur Khan
 >*Large humanoid (centaur), chaotic evil*
 > ___
-> - **Armor Class** 16 (natural armor)
+> - **Armor Class** 15 (natural armor)
 > - **Hit Points** 105 (11d10 + 44)
 > - **Speed** 50 ft.
 >___
@@ -1561,7 +1561,7 @@ ___
 >
 > ***Brute.*** A melee weapon deals one extra damage die when the centaur hits with it (included in the attack).
 >
-> ***Charge.*** If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
+> ***Charge.*** If the centaur moves at least 30 feet straight toward a target and then hits it with a greataxe attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
 >
 > ***Relentless (Recharges after a Short or Long Rest).*** If the centaur takes 25 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 >
@@ -1572,7 +1572,7 @@ ___
 >
 > ***Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15 (3d6 + 5) bludgeoning damage.
 >
-> ***War Cry (1/Day).*** Each creature of the centaurs choice within 30 feet of it that can hear it gains advantage on attack rolls until the start of the centaurs next turn. The centaur then makes a melee weapon attack as a bonus action.
+> ***War Cry (1/Day).*** Each creature of the centaurs choice within 30 feet of it that can hear it gains advantage on attack rolls until the start of the centaurs next turn. The centaur then makes a melee weapon attack as a bonus action.<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;105;8;12;51;10;51;0;51;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;-->
 
 </div>
 
