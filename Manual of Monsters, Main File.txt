@@ -1827,7 +1827,7 @@ ___
 >*Medium beast, unaligned*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 22 (4d8 + 4)
+> - **Hit Points** 33 (6d8 + 6)
 > - **Speed** 10 ft., fly 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1849,6 +1849,7 @@ ___
 > ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
 >
 > ***Fire Breath (Recharges after a Short or Long Rest).*** The dragonhawk exhales fire  in a 15-foot cone. Each creature in that area must make a DC 11 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;33;4;11;20;0;8;0;8;0;0;0;0;0;0;0;;;;;3;;;1;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -1858,13 +1859,13 @@ ___
 > ## Dragonhawk
 >*Large beast, unaligned*
 > ___
-> - **Armor Class** 13
-> - **Hit Points** 67 (9d10 + 18)
+> - **Armor Class** 14
+> - **Hit Points** 105 (14d10 + 28)
 > - **Speed** 10 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|12 (+1)|16 (+3)|15 (+2)|7 (-2)|14 (+2)|8 (-1)|
+>|12 (+1)|18 (+4)|15 (+2)|7 (-2)|14 (+2)|8 (-1)|
 >___
 > - **Saving Throws** Dex +5, Con +4
 > - **Skills** Perception +4
@@ -1881,9 +1882,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The dragonhawk makes two attacks with its talons.
 >
-> ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 +   3) slashing damage.
+> ***Talons.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 4) slashing damage.
 >
-> ***Fire Breath (Recharge 5-6).*** The dragonhawk exhales fire  in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+> ***Fire Breath (Recharge 5-6).*** The dragonhawk exhales fire  in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;105;6;12;48;0;14;0;14;0;0;0;0;0;0;0;;;;;3;;;1;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DRAGONHAWKS </div>
@@ -2025,7 +2026,7 @@ ___
 > ### Actions
 > ***Battleaxe.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack.
 >
-> ***Blunderbuss.*** *Ranged Weapon Attack:* +2 to hit, range 15/60 ft., one target. *Hit:* 9 (2d8) piercing damage.
+> ***Blunderbuss.*** *Ranged Weapon Attack:* +2 to hit, range 15/60 ft., one target. *Hit:* 9 (2d8) piercing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;16;26;3;11;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
@@ -2041,7 +2042,7 @@ ___
 > ## Dark Iron Sorcerer
 >*Medium humanoid (dwarf), lawful evil*
 > ___
-> - **Armor Class** 12 (15 with *mage armor*)
+> - **Armor Class** 12
 > - **Hit Points** 52 (8d8 + 16)
 > - **Speed** 25 ft.
 >___
@@ -2065,8 +2066,8 @@ ___
 > ***Spellcasting.*** The dwarf is an 8th-level spellcaster. Its spellcasting ability is Intelligence (save DC 13, +5 to hit with spell attacks). The dwarf has the following mage spells prepared:
 >
 > Cantrips (at will): *control flames, fire bolt, mage hand*
-> <br> 1st level (4 slots): *burning hands, hellish rebuke, <br>&nbsp;&nbsp;&nbsp; mage armor, sudden awakening*
-> <br> 2nd level (3 slots): *aganazzar's scorcher, continual <br>&nbsp;&nbsp;&nbsp; flame, flaming sphere, hold person*
+> <br> 1st level (4 slots): *burning hands, hellish rebuke, <br>&nbsp;&nbsp;&nbsp; sudden awakening*
+> <br> 2nd level (3 slots): *aganazzar's scorcher, continual <br>&nbsp;&nbsp;&nbsp; flame, flaming sphere, hold person, ✦ living bomb*
 > <br> 3rd level (3 slots): *counterspell, slow*
 > <br> 4th level (2 slots): *fire shield, wall of fire*
 >
@@ -2075,7 +2076,7 @@ ___
 > ### Actions
 > ***Warhammer.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 >
-> ***Summon Darkhound (1/Day).*** The dwarf magically summons a pair of darkhounds. The darkhounds appears in unoccupied spaces within 60 feet of the summoner, and acts as an ally of its summoner. They remain for 10 minutes, until they die, or until the summoner dismisses them as an action.
+> ***Summon Darkhound (1/Day).*** The dwarf magically summons a pair of darkhounds. The darkhounds appears in unoccupied spaces within 60 feet of the summoner, and acts as an ally of its summoner. They remain for 10 minutes, until they die, or until the summoner dismisses them as an action.<!-- https://wc5e-cr-calculator.frogvall.com/?1;12;52;0;13;44;22;44;44;36;38;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -2084,7 +2085,7 @@ ___
 >*Medium humanoid (dwarf), lawful evil*
 > ___
 > - **Armor Class** 17 (half plate, shield)
-> - **Hit Points** 102 (12d8 + 48)
+> - **Hit Points** 153 (18d8 + 72)
 > - **Speed** 25 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2097,6 +2098,8 @@ ___
 > - **Languages** Common, Dwarven
 > - **Challenge** 7 (2,900 XP)
 > ___
+> ***Forged in Flames.*** Any melee weapon the dwarf wields deals an extra 7 (2d6) fire damage on a hit (included in the attack).
+>
 > ***Innate Spellcasting.*** The dwarf's spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 >
 > At will: *produce flame*
@@ -2107,14 +2110,14 @@ ___
 > ### Actions
 > ***Multiattack.*** The dwarf makes three battleaxe attacks, or two blunderbuss attacks and uses Call to Attack.
 >
-> ***Battleaxe.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands to make a melee attack.
+> ***Battleaxe.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands to make a melee attack, plus 7 (2d6) fire damage.
 >
 > ***Blunderbuss.*** *Ranged Weapon Attack:* +2 to hit, range 15/60 ft., one target. *Hit:* 9 (2d8) piercing damage.
 >
 > ***Call to Attack.*** Up to three allied dark iron dwarves within 120 feet of this dwarf that can hear it can each use their reaction to make one weapon attack.
 >
 > ### Reactions
-> ***Hateful Command.*** When an ally that the dwarf can see makes a d20 roll, the dwarf can roll a d6 and the ally can add the number rolled to the d20 roll by taking 3 (1d6) psychic damage. A creature immune to psychic damage can't be affected by Hateful Command.
+> ***Hateful Command.*** When an ally that the dwarf can see makes a d20 roll, the dwarf can roll a d6 and the ally can add the number rolled to the d20 roll by taking 3 (1d6) psychic damage. A creature immune to psychic damage can't be affected by Hateful Command.<!-- https://wc5e-cr-calculator.frogvall.com/?1;17;153;6;12;45;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
@@ -2157,14 +2160,14 @@ ___
 >
 > Cantrips (at will): *control flames, fire bolt, mage hand, <br>&nbsp;&nbsp;&nbsp; minor illusion, prestidigitation*
 >
-> 1st level (4 slots): *burning hands, hellish rebuke, <br>&nbsp;&nbsp;&nbsp; mage armor, sudden awakening*
-> <br> 2nd level (3 slots): *aganazzar's scorcher, continual <br>&nbsp;&nbsp;&nbsp; flame, flaming sphere, hold person*
+> 1st level (4 slots): *burning hands, hellish rebuke, <br>&nbsp;&nbsp;&nbsp; sudden awakening*
+> <br> 2nd level (3 slots): *aganazzar's scorcher, continual <br>&nbsp;&nbsp;&nbsp; flame, flaming sphere, hold person, ✦ living bomb*
 > <br> 3rd level (3 slots): *counterspell, fireball, slow*
-> <br> 4th level (3 slots): *confusion, fire shield**, *wall of fire*
+> <br> 4th level (3 slots): *confusion, fire shield, wall of fire*
 > <br> 5th level (2 slots): *dominate person, immolation*
-> <br> 6th level (1 slot): *investiture of flame**
+> <br> 6th level (1 slot): *investiture of flame*
 >
-> **The dwarf casts these spells on itself before combat.*
+> **The dwarf casts fire shield on itself before combat.*
 >
 > ***Sunlight Sensitivity.*** While in sunlight, the dwarf has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
@@ -2173,13 +2176,7 @@ ___
 >
 > ***Warhammer.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack, plus 10 (3d6) fire damage.
 >
-> ***Conjure Fire Elemental (1/Day).*** The dwarf magically conjures a fire elemental. The fire elemental appears in an unoccupied space within 60 feet of its conjurer, and acts as an ally of its conjurer. It remains for 10 minutes, or until it dies.
->
-> ### Legendary Actions
-> The dwarf can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dwarf regains spent legendary actions at the start of its turn.
->
-> **Attack.** The dwarf makes one melee weapon attack.
-> <br> **Spell (Costs 2 Actions).** The dwarf casts a spell from its <br>&nbsp;&nbsp;&nbsp; prepared spell list.
+> ***Conjure Fire Elemental (1/Day).*** The dwarf magically conjures a fire elemental. The fire elemental appears in an unoccupied space within 60 feet of its conjurer, and acts as an ally of its conjurer. It remains for 10 minutes, or until it dies.<!-- https://wc5e-cr-calculator.frogvall.com/?2;18;127;4;15;62;36;54;36;54;36;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
