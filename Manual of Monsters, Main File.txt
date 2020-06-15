@@ -959,7 +959,7 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 <div style='margin-top:414px;'></div>
 
 ___
-> ## Ancient Protector
+> ## Ancient Protector 
 >*Huge plant, neutral good*
 > ___
 > - **Armor Class** 15 (natural armor)
@@ -987,7 +987,7 @@ ___
 >
 > ***Rock*** *Ranged Weapon Attack:* +8 to hit, range 60/180 ft., one target. *Hit:* 27 (5d8 + 5) bludgeoning damage.
 >
-> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
+> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;105;8;16;30;0;30;0;30;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -1038,8 +1038,8 @@ ___
 > ## Ancient of Lore
 >*Huge plant, neutral good*
 > ___
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 115 (11d12 + 44)
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 94 (9d12 + 36)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1052,7 +1052,7 @@ ___
 > - **Damage Resistances** bludgeoning, piercing
 > - **Senses** darkvision 120 ft., passive Perception ##
 > - **Languages** Darnassian, Druidic
-> - **Challenge** 7 (2,900 XP)
+> - **Challenge** 8 (3,900 XP)
 > ___
 > ***False Appearance.*** While the ancient remains motion&shy;less, it is indistinguishable from a normal tree.
 >
@@ -1062,13 +1062,13 @@ ___
 >
 > ***Spellcasting.*** The ancient is a 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The ancient has the following druid spells prepared:
 >
-> Cantrips (at will): *dancing lights, druidcraft, solar <br>&nbsp;&nbsp;&nbsp; wrath, thorn whip*
-> <br> 1st level (4 slots): *detect magic, detect poison and <br>&nbsp;&nbsp;&nbsp; disease, faerie fire, starfire*
+> Cantrips (at will): *dancing lights, druidcraft, ✦ solar <br>&nbsp;&nbsp;&nbsp; wrath, thorn whip*
+> <br> 1st level (4 slots): *detect magic, detect poison and <br>&nbsp;&nbsp;&nbsp; disease, faerie fire, ✦ starfire*
 > <br> 2nd level (3 slots): *locate animals and plants, <br>&nbsp;&nbsp;&nbsp; moonbeam, skywrite*
-> <br> 3rd level (3 slots): *dispel magic, plant growth, <br>&nbsp;&nbsp;&nbsp; protection from energy, starsurge*
+> <br> 3rd level (3 slots): *dispel magic, plant growth, <br>&nbsp;&nbsp;&nbsp; protection from energy, ✦ starsurge*
 > <br> 4th level (3 slots): *confusion, locate creature*
 > <br> 5th level (2 slots): *dream, wrath of nature*
-> <br> 6th level (1 slot): *starfall, wall of thorns*
+> <br> 6th level (1 slot): *✦ starfall, wall of thorns*
 >
 > ### Actions
 > ***Multiattack.*** The ancient makes two slam attacks.
@@ -1077,7 +1077,7 @@ ___
 >
 > ***Rock*** *Ranged Weapon Attack:* +6 to hit, range 60/180 ft., one target. *Hit:* 25 (5d8 + 3) bludgeoning damage.
 >
-> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
+> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.<!-- https://wc5e-cr-calculator.frogvall.com/?1;14;94;8;16;84;0;70;0;70;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -1093,10 +1093,10 @@ ___
 > ##### Variant: Tree of Life
 > A tree of life is a sapling born from the world tree Nordrassil, these ancients have suffered great losses in recent wars, and those who remain have returned to the forest to spread their seeds and replenish their numbers undisturbed.
 >
-> A tree of life has a challenge rating of 11 (7,200 XP). It has the same statistics as an ancient of lore, and gains the following additional traits:
+> A tree of life has a challenge rating of 10 (5,900 XP). It has the same statistics as an ancient of lore, and gains the following additional traits:
 > <div style='margin-top:0px;'></div>
 >
-> &nbsp;&nbsp;&nbsp; ***Nature's Blessing.*** The tree add its Wisdom <br>&nbsp;&nbsp;&nbsp; modifier to its Armor Class (AC 20).
+> &nbsp;&nbsp;&nbsp; ***Nature's Blessing.*** The tree add its Wisdom <br>&nbsp;&nbsp;&nbsp; modifier to its Armor Class (AC 19).
 > <div style='margin-top:0px;'></div>
 >
 > &nbsp;&nbsp;&nbsp; ***Rooted Tranquility.*** While the tree have taken root, <br>&nbsp;&nbsp;&nbsp; each plant of the tree's choice within 60 feet of it <br>&nbsp;&nbsp;&nbsp; regains 20 hit points at the start of its turn. If the <br>&nbsp;&nbsp;&nbsp; plant takes fire damage, this trait doesn't function <br>&nbsp;&nbsp;&nbsp; at the start of the plant's next turn. A plant dies if <br>&nbsp;&nbsp;&nbsp; it starts its turn with 0 hit points.
@@ -1112,7 +1112,7 @@ ___
 > The tree has the following additional action option.
 > <div style='margin-top:0px;'></div>
 >
-> &nbsp;&nbsp;&nbsp; ***Summon Wisps (1/Day).*** The tree calls forth ten <br>&nbsp;&nbsp;&nbsp; wisps that appear in empty spaces within 60 feet <br>&nbsp;&nbsp;&nbsp; of it. These wisps act as allies of the tree. The <br>&nbsp;&nbsp;&nbsp; wisps remains for 1 day or until they die.
+> &nbsp;&nbsp;&nbsp; ***Summon Wisps (1/Day).*** The tree calls forth ten <br>&nbsp;&nbsp;&nbsp; wisps that appear in empty spaces within 60 feet <br>&nbsp;&nbsp;&nbsp; of it. These wisps act as allies of the tree. The <br>&nbsp;&nbsp;&nbsp; wisps remains for 1 day or until they die.<!-- https://wc5e-cr-calculator.frogvall.com/?1;19;94;8;16;84;0;70;0;70;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -1148,13 +1148,13 @@ ___
 > ### Actions
 > ***Multiattack.*** The ancient makes two slam attacks.
 >
-> ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16 (3d6 + 6) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 23 (5d6 + 6) bludgeoning damage.
 >
-> ***Rock.*** *Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:* 28 (5d8 + 6) bludgeoning.
+> ***Rock.*** *Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:* 42 (8d8 + 6) bludgeoning.
 >
 > ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
 >
-> ***Animate Trees (1/Day).*** The ancient magically animates five or fewer trees that it can see within 60 feet of it. The trees have the statistics of a treant, except they have Intelligence and Charisma scores of 1 and they only have the Claw action. An animated tree acts as an ally of the ancient. The tree remains animated for 1 day, until it dies, or until the ancient takes a bonus action to turn it back into an inanimate tree. If the tree doesn't die and is made inanimate, it takes root again if it can.
+> ***Animate Trees (1/Day).*** The ancient magically animates five or fewer trees that it can see within 60 feet of it. The trees have the statistics of a treant, except they have Intelligence and Charisma scores of 1 and they only have the Claw action. An animated tree acts as an ally of the ancient. The tree remains animated for 1 day, until it dies, or until the ancient takes a bonus action to turn it back into an inanimate tree. If the tree doesn't die and is made inanimate, it takes root again if it can.<!-- https://wc5e-cr-calculator.frogvall.com/?1;16;138;10;12;46;0;46;0;46;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -1188,7 +1188,7 @@ ___
 > <br>&nbsp;&nbsp;&nbsp; If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
 >
 > ### Actions
-> ***Bit.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 10 (2d6 +3) piercing damage plus 7 (2d6) poison damage.
+> ***Bit.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 10 (2d6 +3) piercing damage plus 7 (2d6) poison damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;15;52;5;12;17;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -1281,7 +1281,7 @@ ___
 >
 > ### Actions
 >
-> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage. If the target is Medium or smaller, it is either grappled (escape DC 12) or pushed up to 10 feet away. Until the grapple ends, the target is restrained, and the swamp&shy;walker can only make one claw attack.
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage. If the target is Medium or smaller, it is either grappled (escape DC 12) or pushed up to 10 feet away. Until the grapple ends, the target is restrained.<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;26;4;12;9;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -1314,9 +1314,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The thistleshrub makes two claw attacks.
 >
-> ***Thorny Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage. If the target is Large or smaller, it is either grappled (escape DC 14) or pushed up to 10 feet away. Until the grapple ends, the target is restrained, and the swamp&shy;walker can only make one claw attack.
+> ***Thorny Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage. If the target is Large or smaller, it is either grappled (escape DC 14) or pushed up to 10 feet away. Until the grapple ends, the target is restrained, and the thistle&shy;shrub can only make one claw attack.
 >
-> ***Entangling Roots (Recharge 5-6).*** Grasping thorny roots and vines sprout in a 15-foot radius centered on the thistleshrub, withering away after 1 minute. For the duration, that area is difficult terrain for non-plant creatures. In addition, each creature of the thistleshrub's choice in that area when the plants appear must succeed on a DC 14 Strength saving throw or become restrained. While restrained in this way, the target takes 9 (2d8) piercing damage at the start of their turn. A creature can use its action to make a DC 14 Strength check, freeing itself or another entangled creature within reach on a success.
+> ***Entangling Roots (Recharge 5-6).*** Grasping thorny roots and vines sprout in a 15-foot radius centered on the thistleshrub, withering away after 1 minute. For the duration, that area is difficult terrain for non-plant creatures. In addition, each creature of the thistleshrub's choice in that area when the plants appear must succeed on a DC 14 Strength saving throw or become restrained. While restrained in this way, the target takes 9 (2d8) piercing damage at the start of their turn. A creature can use its action to make a DC 14 Strength check, freeing itself or another entangled creature within reach on a success.<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;68;6;12;24;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">B</div>
 <div class='footnote'>BOG BEASTS </div>
@@ -1331,7 +1331,7 @@ ___
 >*Large plant, unaligned*
 > ___
 > - **Armor Class** 15 (natural armor)
-> - **Hit Points** 76 (9d10 + 27)
+> - **Hit Points** 93 (11d10 + 33)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1356,7 +1356,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The swampwalker makes two claw attacks.
 >
-> ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., <br>one target. *Hit:* 13 (2d8 + 4) slashing damage. If the target is Large or smaller, it is either grappled (escape DC 13) or pushed up to 10 feet away. Until the grapple ends, the target is restrained, and the swamp&shy;walker can only make one claw attack.
+> ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., <br>one target. *Hit:* 13 (2d8 + 4) slashing damage. If the target is Large or smaller, it is either grappled (escape DC 13) or pushed up to 10 feet away. Until the grapple ends, the target is restrained, and the swamp&shy;walker can only make one claw attack.<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;93;7;12;26;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;1;5;;;;;; -->
 
 \columnbreak
 
@@ -1395,7 +1395,7 @@ ___
 > ***Poison Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage plus 7 (2d6) poison damage.
 >
 > ***Tar Spray (1/Day).*** The tar creeper sprays sticky tar in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw. On a failed saving throw a creature's speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't use reactions.
-> <br>&nbsp;&nbsp;&nbsp; A creature can remove the tar on itself during a short or long rest by bathing in water, alcohol, or vinegar.
+> <br>&nbsp;&nbsp;&nbsp; A creature can remove the tar on itself during a short or long rest by bathing in water, alcohol, or vinegar.<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;123;7;12;42;14;42;0;42;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;1;;;;;5;;;;;; -->
 
 <div class="pageLetter">B</div>
 <div class='footnote'>BOG BEASTS </div>
@@ -1487,7 +1487,7 @@ ___
 >
 > ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 >
-> ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing.
+> ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing.<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;45;6;12;20;10;21;0;21;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -1514,20 +1514,20 @@ ___
 >
 > ***Spellcasting.*** The centaur is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following shaman spells prepared:
 >
-> Cantrips (at will): *lightning blast, mending, mold earth*
+> Cantrips (at will): *✦ lightning blast, mending, mold earth*
 > <br> 1st level (4 slots): *detect magic, earth tremor, fog <br>&nbsp;&nbsp;&nbsp; cloud, thunderwave*
-> <br> 2nd level (3 slots): *chain heal, lava burst, maximilian's <br>&nbsp;&nbsp;&nbsp; earthern grasp*
-> <br> 3rd level (2 slots): *call lightning, earthen spike*
+> <br> 2nd level (3 slots): *✦ lava burst, maximilian's <br>&nbsp;&nbsp;&nbsp; earthen grasp*
+> <br> 3rd level (2 slots): *call lightning, ✦ chain heal, ✦ earthen spike*
 >
 > ### Actions
 > ***Multiattack.*** The centaur makes two attacks: one with its hooves and one with another melee weapon.
 >
 > ***Pike.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage.
 >
-> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 3) bludgeoning damage.
+> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage.
 >
 > ### Reactions
-> ***Earthen Shield (3/Day).*** When a creature makes an attack against another creature within 15 feet of the centaur, the centaur can give all attacks against that creature disadvantage until the start of its next turn.
+> ***Earthen Shield (3/Day).*** When a creature makes an attack against another creature within 15 feet of the centaur, the centaur can give all attacks against that creature disadvantage until the start of its next turn.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;52;5;13;54;0;54;0;26;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">C</div>
 <div class='footnote'>CENTAURS </div>
@@ -1544,7 +1544,7 @@ ___
 > ## Centaur Khan
 >*Large humanoid (centaur), chaotic evil*
 > ___
-> - **Armor Class** 16 (natural armor)
+> - **Armor Class** 15 (natural armor)
 > - **Hit Points** 105 (11d10 + 44)
 > - **Speed** 50 ft.
 >___
@@ -1561,7 +1561,7 @@ ___
 >
 > ***Brute.*** A melee weapon deals one extra damage die when the centaur hits with it (included in the attack).
 >
-> ***Charge.*** If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
+> ***Charge.*** If the centaur moves at least 30 feet straight toward a target and then hits it with a greataxe attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
 >
 > ***Relentless (Recharges after a Short or Long Rest).*** If the centaur takes 25 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 >
@@ -1572,7 +1572,7 @@ ___
 >
 > ***Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15 (3d6 + 5) bludgeoning damage.
 >
-> ***War Cry (1/Day).*** Each creature of the centaurs choice within 30 feet of it that can hear it gains advantage on attack rolls until the start of the centaurs next turn. The centaur then makes a melee weapon attack as a bonus action.
+> ***War Cry (1/Day).*** Each creature of the centaurs choice within 30 feet of it that can hear it gains advantage on attack rolls until the start of the centaurs next turn. The centaur then makes a melee weapon attack as a bonus action.<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;105;8;12;51;10;51;0;51;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;-->
 
 </div>
 
@@ -1591,7 +1591,7 @@ ___
 >*Large elemental, chaotic evil*
 > ___
 > - **Armor Class** 16 (natural armor)
-> - **Hit Points** 115 (11d10 + 55)
+> - **Hit Points** 126 (12d10 + 60)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1616,9 +1616,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The core hound makes two bite attacks.
 >
-> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage plus 9 (2d8) fire damage.
+> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage plus 18 (4d8) fire damage.
 >
-> ***Molten Breath (Recharge 4-6).*** The core hound exhales searing flames in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 11 (2d10) fire damage on a failed save, or half as much damage on a successful one. A creature failing the save who wears nonmagical armor or a shield take a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.
+> ***Molten Breath (Recharge 4-6).*** The core hound exhales searing flames in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 11 (2d10) fire damage on a failed save, or half as much damage on a successful one. A creature failing the save who wears nonmagical armor or a shield take a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.<!-- https://wc5e-cr-calculator.frogvall.com/?1;16;126;8;16;56;4;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -1653,7 +1653,7 @@ ___
 > ***Illumination.*** The hound sheds bright light in a 10-foot radius and dim light in an additional 10 feet.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:*  7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:*  7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;30;5;12;14;7;14;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -1827,7 +1827,7 @@ ___
 >*Medium beast, unaligned*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 22 (4d8 + 4)
+> - **Hit Points** 33 (6d8 + 6)
 > - **Speed** 10 ft., fly 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1849,6 +1849,7 @@ ___
 > ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
 >
 > ***Fire Breath (Recharges after a Short or Long Rest).*** The dragonhawk exhales fire  in a 15-foot cone. Each creature in that area must make a DC 11 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;33;4;11;20;0;8;0;8;0;0;0;0;0;0;0;;;;;3;;;1;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -1858,13 +1859,13 @@ ___
 > ## Dragonhawk
 >*Large beast, unaligned*
 > ___
-> - **Armor Class** 13
-> - **Hit Points** 67 (9d10 + 18)
+> - **Armor Class** 14
+> - **Hit Points** 105 (14d10 + 28)
 > - **Speed** 10 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|12 (+1)|16 (+3)|15 (+2)|7 (-2)|14 (+2)|8 (-1)|
+>|12 (+1)|18 (+4)|15 (+2)|7 (-2)|14 (+2)|8 (-1)|
 >___
 > - **Saving Throws** Dex +5, Con +4
 > - **Skills** Perception +4
@@ -1881,9 +1882,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The dragonhawk makes two attacks with its talons.
 >
-> ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 +   3) slashing damage.
+> ***Talons.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 4) slashing damage.
 >
-> ***Fire Breath (Recharge 5-6).*** The dragonhawk exhales fire  in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+> ***Fire Breath (Recharge 5-6).*** The dragonhawk exhales fire  in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;105;6;12;48;0;14;0;14;0;0;0;0;0;0;0;;;;;3;;;1;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DRAGONHAWKS </div>
@@ -2025,7 +2026,7 @@ ___
 > ### Actions
 > ***Battleaxe.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack.
 >
-> ***Blunderbuss.*** *Ranged Weapon Attack:* +2 to hit, range 15/60 ft., one target. *Hit:* 9 (2d8) piercing damage.
+> ***Blunderbuss.*** *Ranged Weapon Attack:* +2 to hit, range 15/60 ft., one target. *Hit:* 9 (2d8) piercing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;16;26;3;11;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
@@ -2041,7 +2042,7 @@ ___
 > ## Dark Iron Sorcerer
 >*Medium humanoid (dwarf), lawful evil*
 > ___
-> - **Armor Class** 12 (15 with *mage armor*)
+> - **Armor Class** 12
 > - **Hit Points** 52 (8d8 + 16)
 > - **Speed** 25 ft.
 >___
@@ -2065,8 +2066,8 @@ ___
 > ***Spellcasting.*** The dwarf is an 8th-level spellcaster. Its spellcasting ability is Intelligence (save DC 13, +5 to hit with spell attacks). The dwarf has the following mage spells prepared:
 >
 > Cantrips (at will): *control flames, fire bolt, mage hand*
-> <br> 1st level (4 slots): *burning hands, hellish rebuke, <br>&nbsp;&nbsp;&nbsp; mage armor, sudden awakening*
-> <br> 2nd level (3 slots): *aganazzar's scorcher, continual <br>&nbsp;&nbsp;&nbsp; flame, flaming sphere, hold person*
+> <br> 1st level (4 slots): *burning hands, hellish rebuke, <br>&nbsp;&nbsp;&nbsp; sudden awakening*
+> <br> 2nd level (3 slots): *aganazzar's scorcher, continual <br>&nbsp;&nbsp;&nbsp; flame, flaming sphere, hold person, ✦ living bomb*
 > <br> 3rd level (3 slots): *counterspell, slow*
 > <br> 4th level (2 slots): *fire shield, wall of fire*
 >
@@ -2075,7 +2076,7 @@ ___
 > ### Actions
 > ***Warhammer.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 >
-> ***Summon Darkhound (1/Day).*** The dwarf magically summons a pair of darkhounds. The darkhounds appears in unoccupied spaces within 60 feet of the summoner, and acts as an ally of its summoner. They remain for 10 minutes, until they die, or until the summoner dismisses them as an action.
+> ***Summon Darkhound (1/Day).*** The dwarf magically summons a pair of darkhounds. The darkhounds appears in unoccupied spaces within 60 feet of the summoner, and acts as an ally of its summoner. They remain for 10 minutes, until they die, or until the summoner dismisses them as an action.<!-- https://wc5e-cr-calculator.frogvall.com/?1;12;52;0;13;44;22;44;44;36;38;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -2084,7 +2085,7 @@ ___
 >*Medium humanoid (dwarf), lawful evil*
 > ___
 > - **Armor Class** 17 (half plate, shield)
-> - **Hit Points** 102 (12d8 + 48)
+> - **Hit Points** 153 (18d8 + 72)
 > - **Speed** 25 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2097,6 +2098,8 @@ ___
 > - **Languages** Common, Dwarven
 > - **Challenge** 7 (2,900 XP)
 > ___
+> ***Forged in Flames.*** Any melee weapon the dwarf wields deals an extra 7 (2d6) fire damage on a hit (included in the attack).
+>
 > ***Innate Spellcasting.*** The dwarf's spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 >
 > At will: *produce flame*
@@ -2107,14 +2110,14 @@ ___
 > ### Actions
 > ***Multiattack.*** The dwarf makes three battleaxe attacks, or two blunderbuss attacks and uses Call to Attack.
 >
-> ***Battleaxe.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands to make a melee attack.
+> ***Battleaxe.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands to make a melee attack, plus 7 (2d6) fire damage.
 >
 > ***Blunderbuss.*** *Ranged Weapon Attack:* +2 to hit, range 15/60 ft., one target. *Hit:* 9 (2d8) piercing damage.
 >
 > ***Call to Attack.*** Up to three allied dark iron dwarves within 120 feet of this dwarf that can hear it can each use their reaction to make one weapon attack.
 >
 > ### Reactions
-> ***Hateful Command.*** When an ally that the dwarf can see makes a d20 roll, the dwarf can roll a d6 and the ally can add the number rolled to the d20 roll by taking 3 (1d6) psychic damage. A creature immune to psychic damage can't be affected by Hateful Command.
+> ***Hateful Command.*** When an ally that the dwarf can see makes a d20 roll, the dwarf can roll a d6 and the ally can add the number rolled to the d20 roll by taking 3 (1d6) psychic damage. A creature immune to psychic damage can't be affected by Hateful Command.<!-- https://wc5e-cr-calculator.frogvall.com/?1;17;153;6;12;45;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DWARVES: DARK IRON </div>
@@ -2157,14 +2160,14 @@ ___
 >
 > Cantrips (at will): *control flames, fire bolt, mage hand, <br>&nbsp;&nbsp;&nbsp; minor illusion, prestidigitation*
 >
-> 1st level (4 slots): *burning hands, hellish rebuke, <br>&nbsp;&nbsp;&nbsp; mage armor, sudden awakening*
-> <br> 2nd level (3 slots): *aganazzar's scorcher, continual <br>&nbsp;&nbsp;&nbsp; flame, flaming sphere, hold person*
+> 1st level (4 slots): *burning hands, hellish rebuke, <br>&nbsp;&nbsp;&nbsp; sudden awakening*
+> <br> 2nd level (3 slots): *aganazzar's scorcher, continual <br>&nbsp;&nbsp;&nbsp; flame, flaming sphere, hold person, ✦ living bomb*
 > <br> 3rd level (3 slots): *counterspell, fireball, slow*
-> <br> 4th level (3 slots): *confusion, fire shield**, *wall of fire*
+> <br> 4th level (3 slots): *confusion, fire shield, wall of fire*
 > <br> 5th level (2 slots): *dominate person, immolation*
-> <br> 6th level (1 slot): *investiture of flame**
+> <br> 6th level (1 slot): *investiture of flame*
 >
-> **The dwarf casts these spells on itself before combat.*
+> **The dwarf casts fire shield on itself before combat.*
 >
 > ***Sunlight Sensitivity.*** While in sunlight, the dwarf has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
@@ -2173,13 +2176,7 @@ ___
 >
 > ***Warhammer.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack, plus 10 (3d6) fire damage.
 >
-> ***Conjure Fire Elemental (1/Day).*** The dwarf magically conjures a fire elemental. The fire elemental appears in an unoccupied space within 60 feet of its conjurer, and acts as an ally of its conjurer. It remains for 10 minutes, or until it dies.
->
-> ### Legendary Actions
-> The dwarf can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dwarf regains spent legendary actions at the start of its turn.
->
-> **Attack.** The dwarf makes one melee weapon attack.
-> <br> **Spell (Costs 2 Actions).** The dwarf casts a spell from its <br>&nbsp;&nbsp;&nbsp; prepared spell list.
+> ***Conjure Fire Elemental (1/Day).*** The dwarf magically conjures a fire elemental. The fire elemental appears in an unoccupied space within 60 feet of its conjurer, and acts as an ally of its conjurer. It remains for 10 minutes, or until it dies.<!-- https://wc5e-cr-calculator.frogvall.com/?2;18;127;4;15;62;36;54;36;54;36;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -3284,8 +3281,7 @@ ___
 >
 > ***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.   
 >
-> ***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
-<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;22;3;12;5;0;5;0;5;2;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;  -->
+> ***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;22;3;12;5;0;5;0;5;2;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;  -->
 
 ___
 > ## Gnoll Brute
@@ -3312,8 +3308,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4 + 2) piercing damage.   
 >
-> ***Greatclub.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 2) bludgeoning damage.
-<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;32;4;12;11;0;11;0;11;7;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> ***Greatclub.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 2) bludgeoning damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;32;4;12;11;0;11;0;11;7;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GNOLLS </div>
@@ -3351,8 +3346,7 @@ ___
 > <br> 2nd level (2 slots): *dust devil, heat metal, ✦ lava burst*
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) piercing damage.
-<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;21;0;21;0;6;2;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) piercing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;21;0;21;0;6;2;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -3389,8 +3383,7 @@ ___
 >
 > ***Heavy Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 100/400 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage.
 >
-> ***Kill Command (Recharge 5-6).*** The gnoll targets one ally it can see within 30 feet of it. If the target can see and hear it, the target can make one weapon attack as a reaction.
-<!-- https://wc5e-cr-calculator.frogvall.com/?0;17;52;5;12;14;0;14;0;14;5;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;1;;10;;;;;; -->
+> ***Kill Command (Recharge 5-6).*** The gnoll targets one ally it can see within 30 feet of it. If the target can see and hear it, the target can make one weapon attack as a reaction.<!-- https://wc5e-cr-calculator.frogvall.com/?0;17;52;5;12;14;0;14;0;14;5;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;1;;10;;;;;; -->
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GNOLLS </div>
@@ -3496,8 +3489,7 @@ ___
 >
 > **Attack.** Hogger makes one melee weapon attack.
 > <br> **Move.** Hogger move up to half his speed.
-> <br> **Kill Command (Costs 2 Actions).** Hogger uses Kill <br>&nbsp;&nbsp;&nbsp; Command.
-<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;82;7;12;45;7;45;0;45;6;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;1;;10;;;;;; -->
+> <br> **Kill Command (Costs 2 Actions).** Hogger uses Kill <br>&nbsp;&nbsp;&nbsp; Command.<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;82;7;12;45;7;45;0;45;6;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;1;;10;;;;;; -->
 
 </div>
 
