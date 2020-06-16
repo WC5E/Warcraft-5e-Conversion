@@ -6348,14 +6348,14 @@ ___
 >|16 (+3)|14 (+2)|16 (+3)|7 (-2)|10 (+0)|5 (-3)|
 >___
 > - **Damage Vulnerabilities** thunder
-> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** —
 > - **Challenge** 3 (700 XP)
 > ___
-> ***Earth Glide.*** The spider can burrow through non magical unworked earth and stone. While doing so, it doesn't disturb the material it moves through.
+> ***Earth Glide.*** The spider can burrow through nonmagical unworked earth and stone. While doing so, it doesn't disturb the material it moves through.
 >
 > ***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
