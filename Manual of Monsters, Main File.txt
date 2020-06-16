@@ -3933,13 +3933,12 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:100px;'></div>
+<div style='margin-top:20px;'></div>
 
 ## Kodos
+A kodo is a giant reptile, known for its thick hide <br/> and characteristics horns. Large and lumbering, <br/> these grazing beasts roam together in herds, <br/> their steps like rolling thunder across the plains <br/> of Kalimdor. Though their strength is immense, <br/> they are peaceful creatures whose horns serve <br> more to defend than to fight.
 
-A kodo is a giant reptile, known for its thick <br/> hide and characteristics horns. Large and <br/> lumbering, these grazing beasts roam together <br/> in herds, their steps like rolling thunder across <br/> the plains of Kalimdor. Though their strength is <br/> immense, they are peaceful creatures whose horns <br> serve more to defend than to fight.
-
-***Herd Animals.*** Kodos are pack animals, and <br/> show a clear line of authority in their herds. The <br/> head of the pack leads the way, while the rest keep <br/> close guard of the weak and young as to not leave anyone behind. Most kodo herds number in a dozen at the most, though some have been sighted in groups as large as fifty beasts. It is rare for a kodo to wander alone, though some elderly beasts have been seen taking to a life of solitude.
+***Herd Animals.*** Kodos are pack animals, and <br/> show a clear line of authority in their herds. The <br/> head of the pack leads the way, while the rest keep <br/> close guard of the weak and young as to not leave <br> anyone behind. Most kodo herds number in a dozen at <br> the most, though some have been sighted in groups as large as fifty beasts. It is rare for a kodo to wander <br> alone, though some elderly beasts have been seen taking <br> to a life of solitude.
 
 ***Tauren Culture.*** Among the tauren, the kodos have a strong cultural presence as a symbol of vigor and power. Long have they hunted and tamed these imposing beasts, revering these acts important rites of passage for young tauren warriors. And for the size and brawn of the tauren themselves, few beasts can carry them as well as a kodo.
 
@@ -3955,56 +3954,59 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|17 (+3)|9 (-1)|15 (+2)|3 (-4)|10 (+0)|6 (-2)|
+>|21 (+5)|9 (-1)|15 (+2)|3 (-4)|10 (+0)|6 (-2)|
 >___
 > - **Senses** passive Perception 10
 > - **Languages** —
 > - **Challenge** 2 (450 XP)
 > ___
-> ***Trampling Charge.*** If the kodo moves at least 20 feet straight towards a Large or smaller creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the kodo can make one stomp attack against it as a bonus action.
+> ***Beast of Burden.*** The kodo is considered to be a Huge animal for the purpose of determining its carrying capacity.
+> 
+> ***Trampling Charge.*** If the kodo moves at least 20 feet straight towards a Large or smaller creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the kodo can make one stomp attack against it as a bonus action.
 >
 > ### Actions
-> ***Gore.*** *Melee Attack Weapon:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage.
+> ***Gore.*** *Melee Attack Weapon:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) piercing damage.
 >
-> ***Stomp.*** *Melee Attack Weapon:* +5 to hit, reach 5 ft., one target. *Hit:* 14 (2d10 + 3) bludgeoning damage.
+> ***Stomp.*** *Melee Attack Weapon:* +7 to hit, reach 5 ft., one prone target. *Hit:* 16 (2d10 + 5) bludgeoning damage. <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;45;7;15;30;0;14;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;30;;;;;; -->
 
 \columnbreak
 
-<div style='margin-top:250px;'></div>
+<div style='margin-top:185px;'></div>
 
 ___
 > ## Ancient Kodo
 >*Huge beast, unaligned*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 76 (8d12 + 24)
+> - **Hit Points** 114 (12d12 + 36)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|21 (+5)|9 (-1)|17 (+3)|4 (-3)|11 (+0)|6 (-2)|
+>|23 (+6)|9 (-1)|17 (+3)|4 (-3)|11 (+0)|6 (-2)|
 >___
 > - **Senses** passive Perception 10
 > - **Languages** —
 > - **Challenge** 4 (1,100 XP)
 > ___
-> ***Trampling Charge.*** If the kodo moves at least 20 feet straight towards a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the kodo can make one stomp attack against it as a bonus action.
+> ***Beast of Burden.*** The kodo is considered to be a Gargantuan animal for the purpose of determining its carrying capacity.
+> 
+> ***Trampling Charge.*** If the kodo moves at least 20 feet straight towards a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the kodo can make one stomp attack against it as a bonus action.
 >
 > ### Actions
-> ***Gore.*** *Melee Attack Weapon:* +7 to hit, reach 5 ft., one target. *Hit:* 18 (3d8 + 5) piercing damage.
+> ***Gore.*** *Melee Attack Weapon:* +8 to hit, reach 5 ft., one target. *Hit:* 19 (3d8 + 6) piercing damage.
 >
-> ***Stomp.*** *Melee Attack Weapon:* +7 to hit, reach 5 ft., one target. *Hit:* 21 (3d10 + 5) bludgeoning damage.
+> ***Stomp.*** *Melee Attack Weapon:* +8 to hit, reach 5 ft., one prone target. *Hit:* 22 (3d10 + 6) bludgeoning damage.
 >
-> ***Devour.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15 (2d10 + 5) piercing damage. A Medium or smaller target must succeed on a DC 13 Dexterity saving throw or swallowed by the lizard. The lizard can only have one target swallowed at a time. If a target fails the saving throw while the lizard has a creature swallowed, it is grappled instead.
-> <br>&nbsp;&nbsp;&nbsp; A swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the lizard, and it takes 10 (3d6) acid damage at the start of each of the lizard's turns.
-> <br>&nbsp;&nbsp;&nbsp; If the lizard takes 15 damage or more on a single turn from the swallowed creature, the lizard must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the lizard. If the lizard dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.
+> ***Devour.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage. A Medium or smaller target must succeed on a DC 13 Dexterity saving throw or swallowed by the kodo. The kodo can only have one target swallowed at a time. If a target fails the saving throw while the kodo has a creature swallowed, it is grappled instead.
+> <br>&nbsp;&nbsp;&nbsp; A swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the kodo, and it takes 10 (3d6) acid damage at the start of each of the kodo's turns.
+> <br>&nbsp;&nbsp;&nbsp; If the kodo takes 15 damage or more on a single turn from the swallowed creature, the kodo must succeed on a DC 16 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the kodo. If the kodo dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone. <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;114;8;16;17;0;41;10;19;10;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;30;;;;;; -->
 
 <div class="pageLetter">K</div>
 <div class='footnote'>KODOS </div>
 
 <img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:0px; right:0px; width:500px'>
-<img src='https://www.gmbinder.com/images/FgqGNWT.png' style='position:absolute; top:-180px; right:-280px; width:770px; z-index:100;' />
-<img src='https://www.gmbinder.com/images/2k2FW0N.jpg' style='position:absolute; top:-70px; right:590px; width:350px;mix-blend-mode:multiply' />
+<img src='https://www.gmbinder.com/images/FgqGNWT.png' style='position:absolute; top:-190px; right:-240px; width:710px' />
 
 \pagebreakNum
 
@@ -6346,23 +6348,23 @@ ___
 >|16 (+3)|14 (+2)|16 (+3)|7 (-2)|10 (+0)|5 (-3)|
 >___
 > - **Damage Vulnerabilities** thunder
-> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** —
 > - **Challenge** 3 (700 XP)
 > ___
-> ***Earth Glide.*** The spider can burrow through nonmagical unworked earth and stone. While doing so, it doesn't disturb the material it moves through.
+> ***Earth Glide.*** The spider can burrow through non magical unworked earth and stone. While doing so, it doesn't disturb the material it moves through.
 >
 > ***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
 > ### Actions
 > ***Multiattack.*** The spider makes two attacks: one with its bite and one slam.
 >
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 2 (1d4) acid damage.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 2 (1d4) acid damage.
 >
-> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage. <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;42;5;13;21;0;21;0;21;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -6388,12 +6390,13 @@ Shale spiders are durable diggers, native to the elemental plane of Deepholm. Th
 >
 > <br>&nbsp;&nbsp;&nbsp; ***Multiattack.*** The spider makes one bite attack and <br>&nbsp;&nbsp;&nbsp; uses its Spit Fire.
 >
-> <br>&nbsp;&nbsp;&nbsp; ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., <br>&nbsp;&nbsp;&nbsp; one target. *Hit:* 6 (1d8 + 2) piercing damage, plus <br>&nbsp;&nbsp;&nbsp; 3 (1d6) fire damage.
+> <br>&nbsp;&nbsp;&nbsp; ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., <br>&nbsp;&nbsp;&nbsp; one target. *Hit:* 6 (1d8 + 2) piercing damage, plus <br>&nbsp;&nbsp;&nbsp; 4 (1d8) fire damage.
 >
-> <br>&nbsp;&nbsp;&nbsp; ***Spit Fire.*** *Ranged Weapon Attack:* +4 to hit, range <br>&nbsp;&nbsp;&nbsp; 15/30 ft., one target. *Hit:* 9 (2d6 + 2) fire damage.
+> <br>&nbsp;&nbsp;&nbsp; ***Spit Fire.*** *Ranged Weapon Attack:* +4 to hit, range <br>&nbsp;&nbsp;&nbsp; 15/30 ft., one target. *Hit:* 11 (2d8 + 2) fire <br>&nbsp;&nbsp;&nbsp; damage. <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;42;4;13;21;0;21;0;21;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SHALE SPIDER </div>
+
 <img src='https://www.gmbinder.com/images/I1Tt2hD.jpg' style='position:absolute; top:-30px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/NO1EQoX.png' style='position:absolute; top:-130px; right:0px; width:1100px;transform:scalex(-1)' />
 
