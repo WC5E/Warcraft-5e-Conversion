@@ -1188,7 +1188,7 @@ ___
 > <br>&nbsp;&nbsp;&nbsp; If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
 >
 > ### Actions
-> ***Bit.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 10 (2d6 +3) piercing damage plus 7 (2d6) poison damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;15;52;5;12;17;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 10 (2d6 +3) piercing damage plus 7 (2d6) poison damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;15;52;5;12;17;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
