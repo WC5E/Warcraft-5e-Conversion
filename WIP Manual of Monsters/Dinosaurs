@@ -701,12 +701,16 @@ ___
 
 \pagebreakNum
 
-> ##### Variant: Falcosaur
-> Falcosaurs are invasive, predatory dinosaurs found on the coastlines of the Broken Isles. They resemble feathered raptors with huge beaks for maws, and a primal need to hunt that developes at a young age. While falcosaurs are predatory, they are actually om&shy;nivorous and are as likely to hunt fruit and berries as they are living prey. Falcosaurs share statistics with raptors and gain the following additional trait:
->
-> ***Natural Camouflage.*** The falcosaur has advantage on Dexterity (Stealth) checks made to hide.
+<div style='margin-top:67px;'></div>
 
-<div style='margin-top:-20px;'></div>
+> ##### Variant: Raptor Ravagers and Falcosaurs
+> Some raptors are referred to as ravagers. A **raptor ravager** has the statistics of a raptor, a challenge rating of 2 (450 XP) and the following traits:
+>
+> <br>&nbsp;&nbsp;&nbsp; **Rampage.** When the raptor reduces a creature to <br>&nbsp;&nbsp;&nbsp; 0 hit points with a melee attack on its turn, the <br>&nbsp;&nbsp;&nbsp; raptor can take a bonus action to move up to half <br>&nbsp;&nbsp;&nbsp; its speed and make a bite attack.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;27;5;12;14;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;1;;10;;;;;; -->
+>
+> <br> Falcosaurs are invasive predatory dinosaurs found on the coastlines of the Broken Isles, that resemble fea&shy;thered raptors with huge beaks for maws. A **falcosaur raptor** uses the statistics of a raptor and a raptor matriarch, and has the following trait:
+>
+> <br>&nbsp;&nbsp;&nbsp; ***Natural Camouflage.*** The falcosaur has advantage <br>&nbsp;&nbsp;&nbsp; on Dexterity (Stealth) checks made to hide.
 
 ___
 > ## Raptor
@@ -737,11 +741,6 @@ ___
 > ***Bite***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6+3) piercing damage.
 >
 > ***Claws***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (1d8+3) slashing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;27;5;12;14;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
-
-> ##### Variant: Raptor Ravager
-> The most ferocious in a pack of raptors are often referred to as *ravagers*. A raptor ravager has a challenge rating of 2 (450 XP). It has the same statistics as a raptor, and gains the following trait:
->
-> **Rampage**. When the raptor reduces a creature to 0 hit points with a melee attack on its turn, the raptor can take a bonus action to move up to half its speed and make a bite attack.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;27;5;12;14;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;1;;10;;;;;; -->
 
 \columnbreak
 
