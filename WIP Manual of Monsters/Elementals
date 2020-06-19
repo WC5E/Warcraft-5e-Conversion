@@ -51,7 +51,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Auran
+> - **Languages** Kalimag
 > - **Challenge** 1 (200 XP)
 > ___
 > ***Air Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
@@ -82,7 +82,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Auran
+> - **Languages** Kalimag
 > - **Challenge** 5 (1,800 XP)
 > ___
 >
@@ -113,7 +113,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Auran
+> - **Languages** Kalimag
 > - **Challenge** 8 (3,900 XP)
 > ___
 >
@@ -283,6 +283,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10 
+> - **Languages** Kalimag
 > - **Challenge** 1 (200 XP)
 > ___
 > ***Earth Glide.*** The elemental can burrow through non-magical unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
@@ -314,7 +315,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., tremorsense 60 ft., <br> passive Perception 10
-> - **Languages** Terran
+> - **Languages** Kalimag
 > - **Challenge** 5 (1,800 XP)
 > ___
 > ***Earth Glide.*** The elemental can burrow through nonmagical unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
@@ -344,7 +345,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., tremorsense 60 ft., <br> passive Perception 10
-> - **Languages** Terran
+> - **Languages** Kalimag
 > - **Challenge** 8 (3,900 XP)
 > ___
 > ***Earth Glide.*** The elemental can burrow through nonmagical unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
@@ -389,7 +390,7 @@ ___
 > - **Damage Immunities** fire, poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Ignan
+> - **Languages** Kalimag
 > - **Challenge** 1 (200 XP)
 > ___
 > **Fire Form.** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 3 (1d6) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 3 (1d6) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 3 (1d6) fire damage at the start of each of its turns.
@@ -421,7 +422,7 @@ ___
 > - **Damage Immunities** fire, poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Ignan
+> - **Languages** Kalimag
 > - **Challenge** 5 (1,800 XP)
 > ___
 > ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
@@ -452,7 +453,7 @@ ___
 > - **Damage Immunities** fire, poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Ignan
+> - **Languages** Kalimag
 > - **Challenge** 8 (3,900 XP)
 > ___
 > ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 10 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
@@ -500,7 +501,7 @@ ___
 > - **Damage Immunities** cold, poison
 > - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Aquan
+> - **Languages** Kalimag
 > - **Challenge** 1 (200 XP)
 > ___
 > ***Frost Form.*** The elemental can burrow through nonmagical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 3 (1d6) cold damage. Additionally, the elemental freezes non-creature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is grappled (escape DC 13).
@@ -534,7 +535,7 @@ ___
 > - **Damage Immunities** cold, poison
 > - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Aquan
+> - **Languages** Kalimag
 > - **Challenge** 5 (1,800 XP)
 > ___
 > ***Frost Form.*** The elemental can burrow through nonmagical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) cold damage. Additionally, the elemental freezes non-creature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is grappled (escape DC 14).
@@ -566,7 +567,7 @@ ___
 > - **Damage Immunities** cold, poison
 > - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Aquan
+> - **Languages** Kalimag
 > - **Challenge** 8 (3,900 XP)
 > ___
 > ***Frost Aura.*** The ground in a 10-foot radius around the elemental is icy and is difficult terrain. The radius moves with the elemental.
@@ -616,7 +617,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Aquan
+> - **Languages** Kalimag
 > - **Challenge** 1 (200 XP)
 > ___
 > ***Water Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. 
@@ -650,7 +651,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Aquan
+> - **Languages** Kalimag
 > - **Challenge** 5 (1,800 XP)
 > ___
 > ***Water Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
@@ -682,7 +683,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** Aquan
+> - **Languages** Kalimag
 > - **Challenge** 8 (3,900 XP)
 > ___
 > ***Water Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
