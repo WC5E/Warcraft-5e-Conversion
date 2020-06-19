@@ -36,7 +36,7 @@ This space should be taken up with more text about the elementals of this type. 
 
 \columnbreak
 ___
-> ## Lesser Air Elemental
+> ## Lesser Air Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;36;5;10;7;0;7;0;7;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 > *Medium elemental, neutral*
 > ___
 > - **Armor Class** 13
@@ -60,14 +60,14 @@ ___
 > ***Slam.*** *Melee Weapon Attack.* +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage.
 > 
 > ***Whirlwind (Recharge 4-6).*** Each creature in the elemental's space must make a DC 10 Strength saving throw. On a failure, a target takes 4 (1d8) bludgeoning damage and is flung up to 10 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) blud­geoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 10 Dexterity saving throw or take the same damage and be knocked prone.
-> <br>    If the save is successful, the target takes half the damage and isn't flung away or knocked prone.
+> <br>    If the save is successful, the target takes half the damage and isn't flung away or knocked prone. 
 
 <img src='https://gamepedia.cursecdn.com/wowpedia/d/df/Stormwatcher_HS.jpg' style='position:absolute; left:-30px; bottom:00px; width:520px;' />
 <img src='https://www.gmbinder.com/images/61ldIkX.png' style='position:absolute; top:-40px; left:0px; width:900px' />
 
 \pagebreakNum
 ___
-> ## Bound Air Elemental
+> ## Bound Air Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;90;8;13;31;0;28;0;31;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large elemental, neutral*
 > ___
 > - **Armor Class** 15
@@ -94,11 +94,11 @@ ___
 > ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 >
 > ***Whirlwind (Recharge 4-6).*** Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 11 (2d8 + 2) bludgeoning damage and is flung up to 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) blud­geoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
-> <br>    If the save is successful, the target takes half the damage and isn't flung away or knocked prone.
+> <br>    If the save is successful, the target takes half the damage and isn't flung away or knocked prone. 
 
 \columnbreak
 ___
-> ## Unbound Air Elemental
+> ## Unbound Air Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;126;10;15;38;0;38;0;38;0;0;0;0;0;0;0;1;;1;;3;;;;;;;;;;1;;;;;;;;10;;;;;; OR https://wc5e-cr-calculator.frogvall.com/?1;17;126;10;15;46;0;40;0;46;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 > *Huge elemental, neutral*
 > ___
 > - **Armor Class** 17
@@ -117,7 +117,7 @@ ___
 > - **Challenge** 8 (3,900 XP)
 > ___
 >
-> ***Air Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) lightning damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) lightning damage.
+> ***Air Form.***  The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 >
 > ***Buffeting Winds.*** Ranged attacks against the elemental have disadvantage on the attack rolls.
 >
@@ -126,10 +126,10 @@ ___
 >
 > ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 20 (3d8 + 7) bludgeoning damage.
 >
-> ***Cyclone.*** The elemental creates a 15-foot cube of swirling wind centered on a point within 60 feet. Each creature in that area must make a DC 15 Constitution saving throw. A creature takes 55 (5d10) bludgeoning damage on a failed save, or half as much damage on a successful one. If a Huge or smaller creature fails the save, that creature is also pushed up to 15 feet away from the center of the cube.
+> ***Cyclone.*** The elemental creates a 15-foot cube of swirling wind centered on a point within 60 feet. Each creature in that area must make a DC 15 Constitution saving throw. A creature takes 18 (4d8) bludgeoning damage on a failed save, or half as much damage on a successful one. If a Huge or smaller creature fails the save, that creature is also pushed up to 15 feet away from the center of the cube.
 > 
-> ***Whirlwind (Recharge 4-6).*** Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 22 (3d8 + 4) bludgeoning damage and is flung up to 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) blud­geoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 15 Dexterity saving throw or take the same damage and be knocked prone.
-> <br>    If the save is successful, the target takes half the damage and isn't flung away or knocked prone.
+> ***Whirlwind (Recharge 4-6).*** Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 17 (3d8 + 4) bludgeoning damage and is flung up to 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) blud­geoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 15 Dexterity saving throw or take the same damage and be knocked prone.
+> <br>    If the save is successful, the target takes half the damage and isn't flung away or knocked prone. 
 
 <img src='https://gamepedia.cursecdn.com/wowpedia/e/ed/Vortex_Pinnacle_loading_screen_2.jpg' style='position:absolute; left:-20px; bottom:-20px; width:830px' />
 <img src='https://www.gmbinder.com/images/epoShfv.png' style='position:absolute; top:-190px; left:0px; width:830px; ' />
@@ -148,7 +148,7 @@ This space should be taken up with more text about the elementals of this type. 
 
 \columnbreak
 ___
-> ## Lesser Arcane Elemental
+> ## Lesser Arcane Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;33;4;11;24;0;6;0;6;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
 > *Medium elemental, neutral*
 > ___
 > - **Armor Class** 12
@@ -174,16 +174,16 @@ ___
 > <br>    Additionally, whenever it is subjected to force damage, it takes no damage and regains a number of hit points equal to the force damage dealt.
 >
 > ### Actions
-> ***Touch.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:*  (1d8 + 2) force damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+> ***Touch.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) force damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 >
-> ***Arcane Blast (Recharge 5-6).*** The elemental erupts arcane energy at a point it can see within 60 feet of it. Each creature within 5 feet of that point must make a DC 11 Dexterity saving throw, taking 12 (5d4) force damage on a failed save, or half as much damage on a successful one.
+> ***Arcane Blast (Recharge 5-6).*** The elemental erupts arcane energy at a point it can see within 60 feet of it. Each creature within 5 feet of that point must make a DC 11 Dexterity saving throw, taking 12 (5d4) force damage on a failed save, or half as much damage on a successful one. 
 
 <img src='https://i.pinimg.com/736x/bc/95/cd/bc95cdaab08c345d4df43784d863ce88.jpg' style='position:absolute; left:-25px; bottom:-100px; width:480px' />
 <img src='https://www.gmbinder.com/images/61ldIkX.png' style='position:absolute; top:-40px; left:-10px; width:1000px' />
 
 \pagebreakNum
 ___
-> ## Bound Arcane Elemental
+> ## Bound Arcane Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;14;85;7;14;60;0;26;0;26;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
 > *Large elemental, neutral*
 > ___
 > - **Armor Class** 14
@@ -213,11 +213,11 @@ ___
 >
 > ***Touch.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) force damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 >
-> ***Arcane Blast (Recharge 5-6).*** The elemental erupts arcane energy at a point it can see within 60 feet of it. Each creature within 10 feet of that point must make a DC 14 Dexterity saving throw, taking 20 (8d4) force damage on a failed save, or half as much damage on a successful one.
+> ***Arcane Blast (Recharge 5-6).*** The elemental erupts arcane energy at a point it can see within 60 feet of it. Each creature within 10 feet of that point must make a DC 14 Dexterity saving throw, taking 30 (12d4) force damage on a failed save, or half as much damage on a successful one. 
 
 \columnbreak
 ___
-> ## Unbound Arcane Elemental
+> ## Unbound Arcane Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;115;9;17;74;0;38;0;38;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
 > *Large elemental, neutral*
 > ___
 > - **Armor Class** 16
@@ -247,10 +247,9 @@ ___
 >
 > ***Touch.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 19 (3d8 + 6) force damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone. Creatures hit by this attack have disadvantage on checks to maintain concentration until the beginning of their next turn.
 >
-> ***Arcane Blast (Recharge 5-6).*** The elemental erupts arcane energy at a point it can see within 60 feet of it. Each creature within 20 feet of that point must make a DC 16 Dexterity saving throw, taking 27 (11d4) force damage on a failed save, or half as much damage on a successful one.
+> ***Arcane Blast (Recharge 5-6).*** The elemental erupts arcane energy at a point it can see within 60 feet of it. Each creature within 20 feet of that point must make a DC 16 Dexterity saving throw, taking 37 (15d4) force damage on a failed save, or half as much damage on a successful one.
 >
-> ***Consume Magic (Recharge 5-6).*** The elemental absorbs all magic in the area. It casts *dispel magic*, affecting each creature within 20 feet. For each spell level of spells ended this way, the elemental regains 2 hit points.
-
+> ***Consume Magic (Recharge 5-6).*** The elemental absorbs all magic in the area. It casts *dispel magic*, affecting each creature within 20 feet. For each spell level of spells ended this way, the elemental regains 2 hit points. 
 
 <img src='https://i.ytimg.com/vi/JnfSTplumZg/maxresdefault.jpg' style='position:absolute; left:-380px; bottom:-150px; width:1200px; transform:scaleX(-1)' /> 
 <img src='https://www.gmbinder.com/images/luZTiQ3.png' style='position:absolute; top:82px; left:0px; width:830px; transform:rotate(-5deg) ' />
@@ -268,11 +267,11 @@ This space should be taken up with more text about the elementals of this type. 
 
 \columnbreak
 ___
-> ## Lesser Earth Elemental
+> ## Lesser Earth Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;42;5;13;7;0;7;0;7;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 > *Medium elemental, neutral*
 > ___
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 22 (3d8 + 9)
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 37 (5d8 + 15)
 > - **Speed** 30 ft., burrow 30 ft.
 > ___ 
 > |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -291,7 +290,7 @@ ___
 > ***Siege Monster.*** The elemental deals double damage to objects and structures.
 > 
 > ### Actions
-> ***Slam.*** *Melee Weapon Attack.* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack.* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage. 
 
 <img src='https://i.pinimg.com/originals/c4/eb/97/c4eb971b2e685714cbf18604c8cb0abf.jpg' style='position:absolute; left:0px; bottom:0px; transform:scaleX(-1); width:620px;' />
 <img src='https://www.gmbinder.com/images/z86Lpca.png' style='position:absolute; left:0px; top:-440px; transform:rotate(-90deg)' />
@@ -299,7 +298,7 @@ ___
 
 \pagebreakNum
 ___
-> ## Bound Earth Elemental
+> ## Bound Earth Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;84;8;13;24;0;24;0;24;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large elemental, neutral*
 > ___
 > - **Armor Class** 17 (natural armor)
@@ -325,11 +324,11 @@ ___
 > ### Actions
 > ***Multiattack.*** The elemental makes two slam attacks.
 >
-> ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage. 
 
 \columnbreak
 ___
-> ## Unbound Earth Elemental
+> ## Unbound Earth Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;19;108;10;18;36;0;34;0;34;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Huge elemental, neutral*
 > ___
 > - **Armor Class** 19 (natural armor)
@@ -357,7 +356,7 @@ ___
 >
 > ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (3d6 + 7) bludgeoning damage.
 >
-> ***Shockwave (Recharge 4-6).*** The elemental causes the ground to shake and crack in a 30-foot-radius circle, turning it into difficult terrain. Each creature in the area must make a DC 18 Dexterity save or take 18 (4d8) bludgeoning damage and be knocked prone. A successful save results in half damage and no other effect.
+> ***Shockwave (Recharge 4-6).*** The elemental causes the ground to shake and crack in a 30-foot-radius circle, turning it into difficult terrain. Each creature in the area must make a DC 18 Dexterity save or take 18 (4d8) bludgeoning damage and be knocked prone. A successful save results in half damage and no other effect. 
 
 <img src='http://conceptartworld.com/wp-content/uploads/2013/08/EverQuest_Next_Concept_Art_MA01.jpg' style='position:absolute; left:0px; bottom:0px' />
 <img src='https://www.gmbinder.com/images/epoShfv.png' style='position:absolute; top:-180px; left:0px; width:830px; ' />
@@ -375,11 +374,11 @@ This space should be taken up with more text about the elementals of this type. 
 
 \columnbreak
 ___
-> ## Lesser Fire Elemental
+> ## Lesser Fire Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;43;3;13;7;3;7;3;7;3;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 > *Medium elemental, neutral*
 > ___
 > - **Armor Class** 11
-> - **Hit Points** 38 (7d8 + 7)
+> - **Hit Points** 44 (8d8 + 8)
 > - **Speed** 50 ft.
 > ___
 > |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -400,14 +399,14 @@ ___
 > ***Water Susceptibility.*** For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
 > 
 > ### Actions
-> ***Touch.*** *Melee Weapon Attack.* +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the start of its turn.
+> ***Touch.*** *Melee Weapon Attack.* +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the start of its turn. 
 
 <img src='https://gamepedia.cursecdn.com/wowpedia/thumb/e/e1/Fireguard_Destroyer_HS.jpg/1200px-Fireguard_Destroyer_HS.jpg' style='position:absolute; bottom:0px; left:0px; width:470px;' />
 <img src='https://www.gmbinder.com/images/61ldIkX.png' style='position:absolute; left:-130px; top:-300px' />
 
 \pagebreakNum
 ___
-> ## Bound Fire Elemental
+> ## Bound Fire Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;13;102;6;13;30;5;30;5;30;5;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large elemental, neutral*
 > ___
 > - **Armor Class** 13
@@ -438,8 +437,8 @@ ___
 
 \columnbreak
 ___
-> ## Unbound Fire Elemental
->*Huge elemental, neutral*
+> ## Unbound Fire Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;138;8;16;42;5;38;5;38;5;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> *Huge elemental, neutral*
 > ___
 > - **Armor Class** 15
 > - **Hit Points** 138 (12d12 + 60)
@@ -456,7 +455,7 @@ ___
 > - **Languages** Ignan
 > - **Challenge** 8 (3,900 XP)
 > ___
-> ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within # feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
+> ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 10 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
 >
 > ***Illumination.*** The elemental sheds bright light in a <br>60-foot radius and dim light in an additional 60 feet.
 >
@@ -465,7 +464,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The elemental makes two touch attacks.
 >
-> ***Touch.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d10 + 5) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of its turn.
+> ***Touch.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 14 (2d8 + 5) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of its turn.
 > 
 > ***Fire Storm (Recharge 5-6).*** The elemental creates a whirlwind of flame from its body, dealing 16 (3d10) fire damage to all creatures within 30 feet, or half damage on a successful DC 16 Dexterity save. This ability sets fire to flammable objects, and creatures that take any damage are ignited, taking 5 (1d10) fire damage at the start of their turns until they take an action to put out the flame.
 
@@ -485,7 +484,7 @@ This space should be taken up with more text about the elementals of this type. 
 
 \columnbreak
 ___
-> ## Lesser Ice Elemental
+> ## Lesser Ice Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;39;4;13;6;3;6;3;6;3;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 > *Medium elemental, neutral*
 > ___
 > - **Armor Class** 13 (natural armor)
@@ -519,11 +518,11 @@ ___
 
 \pagebreakNum
 ___
-> ## Bound Ice Elemental
+> ## Bound Ice Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;95;7;14;26;5;26;5;26;5;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large elemental, neutral*
 > ___
 > - **Armor Class** 15 (natural armor)
-> - **Hit Points** 104 (11d10 + 44)
+> - **Hit Points** 95 (10d10 + 40)
 > - **Speed** 40 ft., burrow 40 ft.
 >___
 > |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -551,11 +550,11 @@ ___
 
 \columnbreak
 ___
-> ## Unbound Ice Elemental
+> ## Unbound Ice Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;125;9;17;44;5;38;5;38;5;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Huge elemental, neutral*
 > ___
 > - **Armor Class** 16 (natural armor)
-> - **Hit Points** 137 (11d12 + 66)
+> - **Hit Points** 125 (10d12 + 60)
 > - **Speed** 40 ft., burrow 40 ft.
 >___
 > |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -572,7 +571,7 @@ ___
 > ___
 > ***Frost Aura.*** The ground in a 10-foot radius around the elemental is icy and is difficult terrain. The radius moves with the elemental.
 > 
-> ***Frost Form.*** The elemental can burrow through nonmagical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) cold damage. Additionally, the elemental freezes non-creature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is grappled (escape DC 17).
+> ***Frost Form.*** The elemental can burrow through nonmagical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 10 feet of it takes 5 (1d10) cold damage. Additionally, the elemental freezes non-creature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is grappled (escape DC 17).
 >
 > ***Ice Walk.*** The elemental can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost extra movement.
 >
@@ -602,7 +601,7 @@ This space should be taken up with more text about the elementals of this type. 
 
 \columnbreak
 ___
-> ## Lesser Water Elemental
+> ## Lesser Water Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;39;4;12;6;0;6;6;6;6;0;0;0;0;0;0;1;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 > *Medium elemental, neutral*
 > ___
 > - **Armor Class** 12 (natural armor)
@@ -636,7 +635,7 @@ ___
 
 \pagebreakNum
 ___
-> ## Bound Water Elemental
+> ## Bound Water Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;14;85;7;14;26;0;26;26;26;26;0;0;0;0;0;0;1;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 >*Large elemental, neutral*
 > ___
 > - **Armor Class** 14 (natural armor)
@@ -668,7 +667,7 @@ ___
 
 \columnbreak
 ___
-> ## Unbound Water Elemental
+> ## Unbound Water Elemental <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;112;9;17;30;0;30;30;30;30;0;0;0;0;0;0;1;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 >*Huge elemental, neutral*
 > ___
 > - **Armor Class** 15 (natural armor)
@@ -693,10 +692,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The elemental makes two slam attacks.
 >
-> ***Slam.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 19 (3d8 + 6) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (3d8 + 6) bludgeoning damage.
 >
 > ***Whirlpool (Recharge 4-6).*** Each creature within 15 feet of the elemental must make a DC 17 Strength saving throw. On a failure, they are pulled into the elemental's space, or as close as possible. Each creature that is in the elemental's space takes 15 (2d8 + 6) bludgeoning damage. If it is Huge or smaller, it is also grappled (escape DC 17). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
 > <br>    The elemental can grapple one Huge creature or up to two Large or 4 Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 15 (2d8 + 6) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 17 Strength and succeeding.
-
-<img src='https://images.icanvas.com/2d/MGG57.jpg' style='position:absolute; bottom:-220px; left:0px; width:830px;' />
-<img src='https://www.gmbinder.com/images/epoShfv.png' style='position:absolute; top:-70px; left:0px; width:830px; ' />
