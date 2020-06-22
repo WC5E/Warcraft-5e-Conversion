@@ -1,0 +1,65 @@
+<div style='margin-top:370px;'></div>
+
+___
+> ## Shale Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;42;5;13;21;0;21;0;21;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+>*Large elemental, chaotic evil*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 42 (5d10 + 15)
+> - **Speed** 30 ft., burrow 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|14 (+2)|16 (+3)|7 (-2)|10 (+0)|5 (-3)|
+>___
+> - **Damage Vulnerabilities** thunder
+> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Immunities** poison
+> - **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** —
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Earth Glide.*** The spider can burrow through non magical unworked earth and stone. While doing so, it doesn't disturb the material it moves through.
+>
+> ***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+> ### Actions
+> ***Multiattack.*** The spider makes two attacks: one with its bite and one slam.
+>
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 2 (1d4) acid damage.
+>
+> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage. 
+
+\columnbreak
+
+<div style='margin-top:360px;'></div>
+
+## Shale Spider
+Shale spiders are durable diggers, native to the elemental plane of Deepholm. They possess a tenacity and ferocity not shown in many other elementals; as one will often fight until it is utterly and entirely torn asunder.
+
+***Stone Nuisance.*** The spiders sometimes find their way out of Deepholm, emerging onto the surface. A newly emerged shale spider is fairly harmless, keeping reclusive while it tries to adapt to its new environment. Once it has, however, it sets out to hunt -- often with a voracious hunger.
+
+***Swarmers.*** Above all, the shale spiders are notorious swarmers. They'll often work together to take down their prey. Sometimes, a single shale spider will pretend to be alone, while its kin lays in wait for an opportunity to strike.
+
+***Elemental Nature.*** The shale spider doesn't require air, food, drink, or sleep.
+
+> ##### Variant: Lava Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;42;5;13;20;0;20;0;20;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> A lava spider has adapted to burning climate around it, it drips molten magma as it skitters across the surface and illuminates its surroundings.
+>
+> A lava spider has immunity to fire damage, and gain the following additional trait:
+>
+> <br>    ***Illumination.*** The spider sheds bright light in a 10-<br>    foot radius and dim light for an additional 10 feet.
+>
+> <br> The lava spider replaces the shale's action options has the following action options:
+>
+> <br>    ***Multiattack.*** The spider makes one bite attack and <br>    uses its Spit Fire.
+>
+> <br>    ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., <br>    one target. *Hit:* 7 (1d8 + 3) piercing damage, plus <br>    3 (1d6) fire damage.
+>
+> <br>    ***Spit Fire.*** *Ranged Weapon Attack:* +5 to hit, range <br>    15/30 ft., one target. *Hit:* 10 (2d6 + 3) fire <br>    damage. 
+
+<div class="pageLetter">S</div>
+<div class='footnote'>SHALE SPIDER </div>
+<img src='https://www.gmbinder.com/images/I1Tt2hD.jpg' style='position:absolute; top:-30px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/NO1EQoX.png' style='position:absolute; top:-130px; right:0px; width:1100px;transform:scalex(-1)' />

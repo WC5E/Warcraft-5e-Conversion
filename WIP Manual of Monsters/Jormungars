@@ -1,0 +1,53 @@
+___
+> ## Jormungar
+> *Gargantuan monstrosity, unaligned*
+> ___
+> - **Armor Class** 18 (natural armor)
+> - **Hit Points** 247 (15d20 + 90)
+> - **Speed** 50 ft., burrow 30 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |28 (+9)| 7 (-2)|22 (+6)| 1 (-5)| 8 (-1)| 4 (-3)|
+> ___
+> - **Saving Throws** Con +11, Wis +4
+> - **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 9
+> - **Languages** —
+> - **Challenge** 15 (13,000 XP)
+> ___
+> ***Acid Blood.*** The jormungar's blood is ice-cold and highly acidic. Whenever a creature within 5 feet deals damage to it with a melee attack, the attacker takes 2 (1d4) cold damage and 10 (3d6) acid damage.
+> 
+> ***Tunneler.*** The jormungar can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
+>
+> ### Actions
+> ***Multiattack.*** The jormungar makes two gore attacks and one bite attack.
+> 
+> ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 22 (3d8 + 9) piercing damage plus 10 (3d6) acid damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dex&shy;terity saving throw or be swallowed by the jormungar. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the jormungar, and it takes 21 (6d6) acid damage at the start of each of the jormungar's turns. 
+> <br>&nbsp;&nbsp;&nbsp; If the jormungar takes 30 damage or more on a single turn from a creature inside it, the jormungar must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the jormungar. If the jormungar dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
+>
+> ***Gore.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 22 (2d12 + 9) piercing damage. The target must make a DC 22 Strength saving throw or be knocked prone. <!-- https://wc5e-cr-calculator.frogvall.com/?2;18;247;9;21;76;12;76;33;76;54;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+
+\columnbreak
+___
+> ## Jormungar Tunneler
+> *Large monstrosity, unaligned*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 76 (8d10 + 32)
+> - **Speed** 30 ft., burrow 20 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |18 (+4)|11 (+1)|18 (+4)| 1 (-5)| 6 (-2)| 3 (-4)|
+> ___
+> - **Saving Throws** Con +6, Wis +0
+> - **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 7
+> - **Languages** —
+> - **Challenge** 2 (450 XP)
+> ___
+> ***Acid Blood.*** The jormungar's blood is ice-cold and highly acidic. Whenever a creature within 5 feet deals damage to it with a melee attack, the attacker 3 (1d6) acid damage.
+> 
+> ***Tunneler.*** The jormungar can burrow through solid rock at half its burrow speed and leaves a 5-foot-diameter tunnel in its wake.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage plus 3 (1d6) acid damage. <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;76;6;13;11;3;11;3;11;3;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
