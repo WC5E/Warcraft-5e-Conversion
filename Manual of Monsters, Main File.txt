@@ -2966,7 +2966,7 @@ Zoatroids have found a second home among the Naga, saiding their serpentine alli
 <div style='margin-top:32px;'></div>
 
 > ##### Variant: Royal Zoatroid
-> A royal zoatroid has a challenge ration of 6 (2,300 XP). It has the same statistics as a zoatroid except that it adds its Wisdom modifier to its Armor Class (AC 17) and gains the following additional trait:
+> A royal zoatroid has a challenge rating of 6 (2,300 XP). It has the same statistics as a zoatroid except that it adds its Wisdom modifier to its Armor Class (AC 17) and gains the following additional trait:
 >
 > <br>&nbsp;&nbsp; ***Magic Resistance.*** The zoatroid has advantage on
 <br>&nbsp;&nbsp; saves against spells and other magical effects.
@@ -2986,7 +2986,7 @@ Zoatroids have found a second home among the Naga, saiding their serpentine alli
 > <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The domination lasts until the target drops to 0
 <br>&nbsp;&nbsp; hit points, the zoatroid ends it as a bonus action,
 <br>&nbsp;&nbsp; or a creature uses their action to attempt a
-<br>&nbsp;&nbsp; grapple check contested by the zoatroid.
+<br>&nbsp;&nbsp; grapple check contested by the zoatroid.<!-- https://wc5e-cr-calculator.frogvall.com/?1;17;63;5;12;20;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;1;;;;1;1;;;;;;;10;;;;;; -->
 
 <div class='statblock-bottom-wide'>
 
@@ -3024,7 +3024,7 @@ ___
 >
 > ### Reactions
 > ***Reactive Shield.*** The zoatroid forces an attack roll that would hit it to instead hit its enslaved target. To do so, the zoatroid must be able to see the attacker.
-> <br><div style='margin-top:130px;'></div>
+> <br><div style='margin-top:130px;'></div><!-- https://wc5e-cr-calculator.frogvall.com/?0;15;63;5;12;20;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;1;;;10;;;;;; -->
 
 </div>
 
@@ -3035,7 +3035,7 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:300px;'></div>
+<div style='margin-top:110px;'></div>
 
 ___
 > ## Fleshbeast
@@ -3053,15 +3053,16 @@ ___
 > - **Condition Immunities** blinded, poisoned
 > - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 11
 > - **Languages** —
-> - **Challenge** 2 (450 XP)
+> - **Challenge** 3 (700 XP)
 > ___
+> ***Damage Transfer.*** While attached to a creature, the fleshbeast takes only half the damage dealt to it (rounded down), and that creature takes the other half.
 >
 > ### Actions
-> ***Multiattack.*** The fleshbeast makes two attacks: one with its tentacle and one with its bite.
+> ***Multiattack.*** The fleshbeast makes two attacks: one with its tentacle and one with its bite. If attached it makes two bite attacks against the creature it is attached to instead.
 >
-> ***Tentacle.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Large or smaller creature. *Hit:* The creature must succeed on a DC 12 Dexterity saving throw, or have the fleshbeast lash onto it. When done, the fleshbeast is considered grappled and shares the same space as the creature and it gains advantage on its bite attack. In addition, at the start of each of the target's turns, the target takes 7 (2d6) acid damage.
+> ***Tentacle.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6+2) bludgeoning damage, and if the target is Small or larger, the fleshbeast attaches to it, moving into its space which is shared with the target. The fleshbeast's movement speed becomes 0 and it gains advantage on bite attacks against the target. In addition, at the start of each of the target's turns, the target takes 7 (2d6) acid damage and if the target moves the fleshbeast moves with it. The fleshbeast can detach itself as a bonus action, in which case it regains its movement speed and needs to spend that movement speed to move out of the target's space. A creature, including the target, can take its action to detach the fleshbeast by succeeding on a DC 14 Strength check.
 >
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitu&shy;tion saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 3 (1d6) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured. A swarm of insect's crawl out of a creature 1d4 rounds after it died if it was diseased upon its death.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitu&shy;tion saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 3 (1d6) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured. A swarm of insect's crawl out of a creature 1d4 rounds after it died if it was diseased upon its death.<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;36;4;12;16;7;14;7;14;7;0;0;0;0;0;0;;;;;3;;;;;;1;;;;1;;;1;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -3078,7 +3079,7 @@ Other predators attempting to scavenge remains left behind by a fleshbeast will 
 
 <div class="pageLetter">F</div>
 <div class='footnote'>Fleshbeast </div>
-<img src='https://www.gmbinder.com/images/fUjDAtF.jpg' style='position:absolute; top:-110px; right:0px; width:990px' />
+<img src='https://www.gmbinder.com/images/fUjDAtF.jpg' style='position:absolute; top:-10px; right:0px; width:990px' />
 <img src='https://www.gmbinder.com/images/pZatMx5.png' style='position:absolute; top:0px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/cfCly0q.png' style='position:absolute; top:200px; right:-165px; width:700px; z-index:100' />
 
@@ -3107,13 +3108,13 @@ Furbolgs have their own language, Furbolg, whose sayings are usually intended li
 <br />&nbsp;&nbsp;&nbsp; Gnarlpine, Redfang, Timbermaw, Thistlefur
 
 > ##### Variant: Furbolg Shaman
-> Some furbolgs devote themselves to becoming a shaman for their tribe. A furbolg shaman gains the Spellcasting trait.
+> Some furbolgs devote themselves to becoming a shaman for their tribe. A furbolg shaman has a challenge rating of 3 (700 XP) and gains the Spellcasting trait.
 >
 > ***Spellcasting.*** The furbolg is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells
 >
 > <br> Cantrips (at will): *gust, produce flame*
 > <br> 1st level (4 slots): *chromatic orb, cure wounds, fog <br>&nbsp;&nbsp;&nbsp; cloud, thunderwave*
-> <br> 2nd level (2 slots): *heat metal, lesser restoration*
+> <br> 2nd level (2 slots): *heat metal, lesser restoration*<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;90;5;12;9;0;12;9;12;16;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -3124,7 +3125,7 @@ ___
 >*Medium monstrosity, neutral*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 45 (6d8 + 18)
+> - **Hit Points** 90 (12d8 + 36)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -3149,7 +3150,7 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) slashing damage
 >
-> ***Quarterstaff.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if used with two hands to make a melee attack.
+> ***Quarterstaff.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if used with two hands to make a melee attack.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;90;5;12;12;0;12;0;12;7;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">F</div>
 <div class='footnote'>FURBOLG </div>
