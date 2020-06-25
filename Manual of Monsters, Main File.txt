@@ -3108,7 +3108,7 @@ Furbolgs have their own language, Furbolg, whose sayings are usually intended li
 <br />&nbsp;&nbsp;&nbsp; Gnarlpine, Redfang, Timbermaw, Thistlefur
 
 > ##### Variant: Furbolg Shaman
-> Some furbolgs devote themselves to becoming a shaman for their tribe. A furbolg shaman has a challenge rating of 3 and gains the Spellcasting trait.
+> Some furbolgs devote themselves to becoming a shaman for their tribe. A furbolg shaman has a challenge rating of 3 (700 XP) and gains the Spellcasting trait.
 >
 > ***Spellcasting.*** The furbolg is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells
 >
