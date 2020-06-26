@@ -57,8 +57,6 @@ These documents have been set up for the project, outside of Github, to track va
 
 * [Available Spells for each Class' Spell List](https://drive.google.com/open?id=1bzXzGxXFdC3zUdm8_4aURXfftixsJTStRn49fAeSDgs)
 
-* [Future Plans](https://drive.google.com/open?id=1MXoKixt1elxs7Em_-nOrTiJ49ki8CcGaavYzBGM6jLs)
-
 #### Adding material to the WIP folder
 
 Changes, or entirely new content, can be added to the version control if wanted. Just like with the Manual of Monsters, add the WIP content to its own file under `WIP Heroes Handbook`.
