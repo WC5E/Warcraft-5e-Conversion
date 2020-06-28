@@ -9366,16 +9366,16 @@ You can expend your hero point when rolling for a weapon attack, treating your a
 
 \columnbreak
 
-&nbsp;&nbsp;&nbsp; **Mutilate.** Your weapon attack mutilates the target, deal-ing normal weapon damage, and attempts to cut off a limb (if any) of your choice. The creature must succeed on a Constitution saving throw against a DC of 12, or half the damage done. On a failed save, the creature gains one of the following mutilations.
+&nbsp;&nbsp;&nbsp; **Mutilate.** Your weapon attack mutilates the target, deal&shy;ing normal weapon damage, and attempts to cut off a limb (if any) of your choice. The creature must succeed on a Constitution saving throw or have a limb of your choice cut off. The DC equals 10 or half the damage done to it.
 
  - ***Arm / Hand.*** You cut off the creatures arm, making it unable to hold two items at once, or cast spells while their remaining arm is carrying an object.
  - ***Leg / Foot.*** You cut off the creatures leg, reducing its movement speed by half, and giving opportunity attacks against it advantage. In addition, the creature can't dash.
- - ***Eye.*** You pierce out the creatures eye, giving it disadvan-tage on Perception checks, and reducing its passive Per-ception by 5. If both eyes are removed, or if the creature only has one, it is considered Blinded. This mutilation has no effect if the damage dealt is bludgeoning.
+ - ***Eye.*** You pierce out the creatures eye, giving it disadvan&shy;tage on Perception checks, and reducing its passive Per&shy;ception by 5. If both eyes are removed, or if the creature only has one, it is considered Blinded. This mutilation has no effect if the damage dealt is bludgeoning.
 
 #### Spell Fighter
 You can expend your hero point when you cast a spell, treating your spell attack as a successful hit. When done, the player chooses one of the following effects:
 
-**Power Surge.** Your spell attack acts as a Massive Critical Hit, roll the attack's damage dice twice and add them together. Then add any relevant modifiers as normal, and add your character level to the damage.
+**Power Surge.** Your spell attack acts as a Massive Criti&shy;cal Hit, roll the attack's damage dice twice and add them together. Then add any relevant modifiers as normal, and add your character level to the damage.
 
 **Precision Spell.** You can choose a number of creatures equal to your spellcasting ability modifier to automatically succeed and fail on a saving throw to resist or negate your spells effect.
 
@@ -9396,77 +9396,78 @@ You can expend a hero point before or after rolling a skill check, changing the 
 
 Hero points are meant as a burst of energy or force, they do not suddenly make someone more charismatic, or grant them knowledge of Dalarans vast library.
 
-<div class='footnote'>PART 1 | PERSONALITY & BACKGROUND</div>
-<img src='https://www.gmbinder.com/images/ZlVqlql.jpg' style='position:absolute; top:920px; right:260px; width:600px' />
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:10px; right:0px; width:1000px;transform:rotate(10deg)' />
-<img src='https://www.gmbinder.com/images/VxJ8X1u.png' style='position:absolute; top:0px; right:0px; width:900px;transform:rotate(180deg)' />
+<div class='footnote'>PART 3 | VARIANT RULES</div>
 
 \pagebreakNum
 
 # Variant Rule: Mana
-
 With this variant rule, a character who has the Spellcasting feature uses mana instead of spell slots to fuel spells. Mana gives a caster more flexibility, at the cost of complexity.
-<br>&nbsp;&nbsp;&nbsp; In this variant, each spell has a mana cost based on its level. The Mana Cost table summarizes the cost in mana of slots from 1st to 9th level. Cantrips don't require spell slots and there-for don't require mana.
+<br>&nbsp;&nbsp;&nbsp; In this variant, each spell has a mana cost based on its level. The Mana Cost table summarizes the cost in mana of slots from 1st to 9th level. Cantrips don't require slots and therefore don't require mana.
 
-Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of mana instead. You can expend a number of your mana to create a spell slot of a given level, and then use that slot to cast a spell. Your mana can't be reduce to less than 0, and you regain all spent mana when you finish a long rest.
+Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of mana instead. You can expend a number of mana points to create a spell slot of a given level, and then use that slot to cast a spell. You can't reduce your mana total to less than 0, and you regain all spent mana when you finish a long rest.
 
-Spells of 6th level and higher are particularly straining to cast. You can use your mana to create one slot of each level of 6th or higher. You can't create another slot of the same level until you finish a long rest.
+Spells of 6th level and higher are particularly taxing to cast. You can use mana to create one slot of each level of 6th or higher. You can't create another slot of the same level until you finish a long rest.
 
 The number of mana you have to spend is based on your level as a spellcaster, as shown in the Mana by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough mana to create a slot above this maximum, you can't do so.
 
-The Mana by Level table applies to druids, mages, pala-dins, priests and shaman. A druid (Feral or Guardian), and a paladin refer to the half-caster column of the table, whilst the remaining classes refer to the full caster column.
+The Mana by Level table applies to druids, mages, priests, and shaman. For a death knight, druid (feral), or paladin, halve the character's level in that class and then consult the table.
 
 This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking mana expenditures for a monster can be a hassle.
-
-\columnbreak
 
 ##### Mana Cost
 <div style='column-count:2'>
 
 | Spell Level  | Mana Cost |
-|:---:|:-----------:|
-| 1st | 1 |
+|:---:|:-:|
+| 1st | 2 |
 | 2nd | 3 |
 | 3rd | 5 |
-| 4th | 7 |
+| 4th | 6 |
 
 | Spell Level  | Mana Cost |
-|:---:|:-----------:|
-| 5th |  9 |
-| 6th | 11 |
-| 7th | 13 |
-| 8th | 15 |
-| 9th | 17 |
+|:---:|:--:|
+| 5th |  7 |
+| 6th |  9 |
+| 7th | 10 |
+| 8th | 11 |
+| 9th | 13 |
 </div>
 
-##### Mana by Level
-| Class Level  | Full Caster | Half-Caster | Max Spell Level |
-|:----:|:--:|:-:|:-:|
-|  1st |   3 |  0 |1st|
-|  2nd |   6 |  2 |1st|
-|  3rd |   9 |  3 |2nd|
-|  4th |  12 |  4 |2nd|
-|  5th |  16 |  5 |3rd|
-|  6th |  20 |  7 |3rd|
-|  7th |  24 |  9 |4th|
-|  8th |  28 | 11 |4th|
-|  9th |  33 | 13 |5th|
-| 10th |  38 | 15 |5th|
-| 11th |  43 | 18 |6th|
-| 12th |  48 | 21 |6th|
-| 13th |  54 | 24 |7th|
-| 14th |  60 | 27 |7th|
-| 15th |  66 | 30 |8th|
-| 16th |  72 | 34 |8th|
-| 17th |  79 | 38 |9th|
-| 18th |  86 | 42 |9th|
-| 19th |  93 | 46 |9th|
-| 20th | 100 | 50 |9th|
+\columnbreak
 
-<div class='footnote'>PART 2 | SPELLS </div>
-<img src='https://www.gmbinder.com/images/yrSnqwW.jpg' style='position:absolute; top:770px; right:-50px; width:900px' />
-<img src='https://www.gmbinder.com/images/6aELefD.png' style='position:absolute; top:-70px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/fZMAlU8.png' style='position:absolute; top:550px; right:430px; width:300px' />
+<div style='margin-top:100px;'></div>
+
+<div class='classTable'>
+
+##### Mana by Level
+| Class Level  | Mana | Max Spell Level |
+|:----:|:---:|:-:|
+|  1st |   3 |1st|
+|  2nd |   6 |1st|
+|  3rd |  14 |2nd|
+|  4th |  17 |2nd|
+|  5th |  27 |3rd|
+|  6th |  32 |3rd|
+|  7th |  38 |4th|
+|  8th |  44 |4th|
+|  9th |  57 |5th|
+| 10th |  64 |5th|
+| 11th |  73 |6th|
+| 12th |  73 |6th|
+| 13th |  83 |7th|
+| 14th |  83 |7th|
+| 15th |  94 |8th|
+| 16th |  94 |8th|
+| 17th | 107 |9th|
+| 18th | 114 |9th|
+| 19th | 123 |9th|
+| 20th | 133 |9th|
+</div>
+
+<div class='footnote'>PART 3 | VARIANT RULES</div>
+<img src='https://www.gmbinder.com/images/yrSnqwW.jpg' style='position:absolute; top:750px; right:-75px; width:950px' />
+<img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/fZMAlU8.png' style='position:absolute; top:30px; right:72px; width:300px' />
 
 \pagebreakNum
 
