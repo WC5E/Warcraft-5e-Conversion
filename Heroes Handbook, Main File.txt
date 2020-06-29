@@ -803,7 +803,7 @@ Your dwarf character has the following racial traits.
 
 \columnbreak
 
-&nbsp;&nbsp;&nbsp; ***Dwarven Combat Training.*** You have proficiency with the battleaxe, handaxe, warhammer, and firearms.
+&nbsp;&nbsp;&nbsp; ***Dwarven Combat Training.*** You have proficiency with the battleaxe, handaxe, warhammer, pistol and rifle.
 
 ***Stonecunning.*** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
@@ -921,7 +921,7 @@ Your night elf character has the following racial traits.
 
 ***Superior Darkvision.*** Accustomed to twilit forests <br> and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. Your night elven heritage makes your darkvision un&shy;usual: everything you see in darkness is in a shade of violet.
 
-***Kaldorei Weapon Training.*** You have proficiency with the longbow, moonglaive, moon sword, and warglaive.
+***Kaldorei Weapon Training.*** You have proficiency with the longbow, moon sword, moonglaive, and warglaive.
 
 ***Keen Senses.*** You are proficient in the Perception skill.
 
@@ -1375,7 +1375,7 @@ Your orc character has the following racial traits.
 
 ***Menacing.*** You gain proficiency in the Intimidation skill.
 
-***Orcish Weapon Training.*** You have proficiency with the handaxe, battleaxe, and orcish claw.
+***Orcish Weapon Training.*** You have proficiency with the handaxe, battleaxe, and warclaw.
 
 ***Relentless Endurance.*** When you are reduced to 0 hit points but not killed, you can drop to 1 hit point instead. You must then finish a long rest to use this feature again.
 
@@ -1392,9 +1392,7 @@ Some orc clans prefer a more stealth approach to things, hiding and waiting for 
 
 ***Ambusher.*** You gain proficiency in the Stealth skill.
 
-***Surprise Attack.*** If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 1d6 damage to it. The damage increases to 2d6 at 6th level, 3d6 at 11th level, and 4d6 at 16th level.
-
-You can use this trait only once per combat.
+***Surprise Attack.*** If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 1d6 damage to it. The damage increases to 2d6 at 6th level, 3d6 at 11th level, and 4d6 at 16th level. You can use this trait only once per combat.
 
 #### Mystic Clans
 Not many orc clans go in for the use of magic, and those that do are usually more secretive than the rest. Generally less keen on working with other clans are spend their time as a nomadic folk rather than settling in a certain area. Such clans include The Shadowmoon, and Stormreaver. 
@@ -1604,7 +1602,7 @@ Your tauren character has the following racial traits.
 
 &nbsp;&nbsp;&nbsp; ***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
-***Tauren Weapon Training.*** You have proficiency with the halberd, tauren totem, and firearms.
+***Tauren Weapon Training.*** You have proficiency with the halberd, battle totem, pistol and rifle.
 
 ***Languages.*** You can speak, read, and write Common and Taur-ahe. Taur-ahe is a harsh, and low sounding language, without a proper alphabet, their written language is made of elaborate pictograms and pictoforms.
 
@@ -1872,7 +1870,7 @@ Your blood elf character has the following racial traits.
 <div style='margin-top:-5px;'></div>
 
 - You know one cantrip of your choice from the mage spell list. Intelligence is your spellcasting ability for it.
-- You have proficiency with the longsword, warglaive, shortbow, and longbow.
+- You have proficiency with the twinblade, warglaive, shortbow, and longbow.
 <div style='margin-top:-5px;'></div>
 
 &nbsp;&nbsp;&nbsp; ***Languages.*** You can speak, read, and write Common and Thalassian. Thalassian derives from the Darnassian tongue of night elves, and in many cases sound the same to an inexperienced ear.
@@ -2264,7 +2262,7 @@ Your void elf character has the following racial traits.
 <div style='margin-top:-5px;'></div>
 
 - You know one cantrip of your choice from the mage spell list. Intelligence is your spellcasting ability for it.
-- You have proficiency with the longsword, warglaive, shortbow, and longbow.
+- You have proficiency with the twinblade, warglaive, shortbow, and longbow.
 <div style='margin-top:-5px;'></div>
 
 &nbsp;&nbsp;&nbsp; ***Languages.*** You can speak, read, and write Common and Thalassian. Thalassian derives from the Darnassian tongue of night elves, and in many cases sound the same to an inexperienced ear.
