@@ -1077,7 +1077,7 @@ ___
 >
 > ***Rock*** *Ranged Weapon Attack:* +6 to hit, range 60/180 ft., one target. *Hit:* 25 (5d8 + 3) bludgeoning damage.
 >
-> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.<!-- https://wc5e-cr-calculator.frogvall.com/?1;14;94;8;16;84;0;70;0;70;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.<!-- https://wc5e-cr-calculator.frogvall.com/?1;14;94;0;16;84;0;70;0;70;0;0;0;0;0;0;0;1;;;1;1;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -2589,7 +2589,7 @@ ___
 >*Medium humanoid (dwarf), lawful evil*
 > ___
 > - **Armor Class** 18 (plate)
-> - **Hit Points** 127 (15d8 + 60)
+> - **Hit Points** 110 (13d8 + 52)
 > - **Speed** 25 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2630,7 +2630,7 @@ ___
 >
 > ***Warhammer.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack, plus 10 (3d6) fire damage.
 >
-> ***Conjure Fire Elemental (1/Day).*** The dwarf magically conjures a fire elemental. The fire elemental appears in an unoccupied space within 60 feet of its conjurer, and acts as an ally of its conjurer. It remains for 10 minutes, or until it dies.<!-- https://wc5e-cr-calculator.frogvall.com/?2;18;127;4;15;62;36;54;36;54;36;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> ***Conjure Fire Elemental (1/Day).*** The dwarf magically conjures a fire elemental. The fire elemental appears in an unoccupied space within 60 feet of its conjurer, and acts as an ally of its conjurer. It remains for 10 minutes, or until it dies.<!-- https://wc5e-cr-calculator.frogvall.com/?2;18;110;0;15;62;36;54;36;54;36;0;0;0;0;0;0;;;;1;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -3247,7 +3247,7 @@ Ghosts are the spectral remnants of intelligent beings who, for one reason or an
 
 When a creature becomes a ghost, it retains its statistics unless otherwise is stated below. The ghost loses any trait that assumes a living physiology.
 
-***Type.*** The ghost's type is undead, and it loses any tags. It no longer requires air, food, drink or sleep.
+***Type.*** The ghost's type is undead, and it loses any other tags. It no longer requires air, food, drink or sleep.
 
 ***Speed.*** The ghost loses its original movement speed and gains fly 40 ft. (hover).
 
@@ -3447,7 +3447,7 @@ ___
 > ***Sunlight Sensitivity.***  While in sunlight, the apparition has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 > ### Actions
-> ***Withering Touch.*** *Melee Weapon Attack:* Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 15 (4d6 + 1) necrotic damage.
+> ***Withering Touch.*** *Melee Weapon Attack:* Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 15 (4d6 + 1) necrotic damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;21;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
