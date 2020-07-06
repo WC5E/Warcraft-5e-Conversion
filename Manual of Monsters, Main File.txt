@@ -3486,11 +3486,11 @@ ___
 >
 >
 > ### Actions
-> ***Multiattack.*** The banshee makes three attacks: one with its Banshee's Curse and two with its withering touch.
+> ***Multiattack.*** The banshee can us its Banshee's Curse. It then makes two attacks with its withering touch.
 >
 > ***Withering Touch.*** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/60 ft., one target. *Hit:* 12 (2d8 + 3) necrotic damage.
 >
-> ***Banshee's Curse.*** One creature of the banshee's choice within 60 feet of it must make a Constitution saving throw or have disadvantage on all ability checks, saving throws, and attack rolls until the end of the banshee's next turn.
+> ***Banshee's Curse.*** One creature of the banshee's choice within 60 feet of it must make a DC 13 Constitution saving throw or have disadvantage on all ability checks, saving throws, and attack rolls until the end of the banshee's next turn.
 >
 > ***Wail (Recharge 4-6).*** The banshee releases a mournful wail. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw, taking 22 (4d12) necrotic damage on a failed save, or half as much damage on a successful one.
 >
@@ -3500,7 +3500,7 @@ ___
 > ### Reactions
 > ***Anti-magic Shell.*** The banshee adds 3 to its AC against one spell attack that would hit it. To do so, the banshee must see the attacker.
 >
-> <br/> <br/>
+> <br/> <br/><!-- https://wc5e-cr-calculator.frogvall.com/?1;13;91;6;13;44;0;24;0;24;0;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;;;;1;1;;;10;;;;;; -->
 
 </div>
 
