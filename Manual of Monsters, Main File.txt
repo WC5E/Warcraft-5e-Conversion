@@ -3486,7 +3486,7 @@ ___
 >
 >
 > ### Actions
-> ***Multiattack.*** The banshee can us its Banshee's Curse. It then makes two attacks with its withering touch.
+> ***Multiattack.*** The banshee can use its Banshee's Curse. It then makes two attacks with its withering touch.
 >
 > ***Withering Touch.*** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/60 ft., one target. *Hit:* 12 (2d8 + 3) necrotic damage.
 >
