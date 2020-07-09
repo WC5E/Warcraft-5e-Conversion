@@ -1077,7 +1077,7 @@ ___
 >
 > ***Rock*** *Ranged Weapon Attack:* +6 to hit, range 60/180 ft., one target. *Hit:* 25 (5d8 + 3) bludgeoning damage.
 >
-> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.<!-- https://wc5e-cr-calculator.frogvall.com/?1;14;94;8;16;84;0;70;0;70;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.<!-- https://wc5e-cr-calculator.frogvall.com/?1;14;94;0;16;84;0;70;0;70;0;0;0;0;0;0;0;1;;;1;1;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -2589,7 +2589,7 @@ ___
 >*Medium humanoid (dwarf), lawful evil*
 > ___
 > - **Armor Class** 18 (plate)
-> - **Hit Points** 127 (15d8 + 60)
+> - **Hit Points** 110 (13d8 + 52)
 > - **Speed** 25 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2630,7 +2630,7 @@ ___
 >
 > ***Warhammer.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack, plus 10 (3d6) fire damage.
 >
-> ***Conjure Fire Elemental (1/Day).*** The dwarf magically conjures a fire elemental. The fire elemental appears in an unoccupied space within 60 feet of its conjurer, and acts as an ally of its conjurer. It remains for 10 minutes, or until it dies.<!-- https://wc5e-cr-calculator.frogvall.com/?2;18;127;4;15;62;36;54;36;54;36;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> ***Conjure Fire Elemental (1/Day).*** The dwarf magically conjures a fire elemental. The fire elemental appears in an unoccupied space within 60 feet of its conjurer, and acts as an ally of its conjurer. It remains for 10 minutes, or until it dies.<!-- https://wc5e-cr-calculator.frogvall.com/?2;18;110;0;15;62;36;54;36;54;36;0;0;0;0;0;0;;;;1;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -3247,7 +3247,7 @@ Ghosts are the spectral remnants of intelligent beings who, for one reason or an
 
 When a creature becomes a ghost, it retains its statistics unless otherwise is stated below. The ghost loses any trait that assumes a living physiology.
 
-***Type.*** The ghost's type is undead, and it loses any tags. It no longer requires air, food, drink or sleep.
+***Type.*** The ghost's type is undead, and it loses any other tags. It no longer requires air, food, drink or sleep.
 
 ***Speed.*** The ghost loses its original movement speed and gains fly 40 ft. (hover).
 
@@ -3447,7 +3447,7 @@ ___
 > ***Sunlight Sensitivity.***  While in sunlight, the apparition has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 > ### Actions
-> ***Withering Touch.*** *Melee Weapon Attack:* Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 15 (4d6 + 1) necrotic damage.
+> ***Withering Touch.*** *Melee Weapon Attack:* Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 15 (4d6 + 1) necrotic damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;21;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
@@ -3486,11 +3486,11 @@ ___
 >
 >
 > ### Actions
-> ***Multiattack.*** The banshee makes three attacks: one with its Banshee's Curse and two with its withering touch.
+> ***Multiattack.*** The banshee can use its Banshee's Curse. It then makes two attacks with its withering touch.
 >
 > ***Withering Touch.*** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/60 ft., one target. *Hit:* 12 (2d8 + 3) necrotic damage.
 >
-> ***Banshee's Curse.*** One creature of the banshee's choice within 60 feet of it must make a Constitution saving throw or have disadvantage on all ability checks, saving throws, and attack rolls until the end of the banshee's next turn.
+> ***Banshee's Curse.*** One creature of the banshee's choice within 60 feet of it must make a DC 13 Constitution saving throw or have disadvantage on all ability checks, saving throws, and attack rolls until the end of the banshee's next turn.
 >
 > ***Wail (Recharge 4-6).*** The banshee releases a mournful wail. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw, taking 22 (4d12) necrotic damage on a failed save, or half as much damage on a successful one.
 >
@@ -3500,7 +3500,7 @@ ___
 > ### Reactions
 > ***Anti-magic Shell.*** The banshee adds 3 to its AC against one spell attack that would hit it. To do so, the banshee must see the attacker.
 >
-> <br/> <br/>
+> <br/> <br/><!-- https://wc5e-cr-calculator.frogvall.com/?1;13;91;6;13;44;0;24;0;24;0;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;;;;1;1;;;10;;;;;; -->
 
 </div>
 
@@ -3518,7 +3518,7 @@ ___
 >*Medium undead, lawful evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 16 (3d8 + 3)
+> - **Hit Points** 11 (2d8 + 2)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -3541,9 +3541,9 @@ ___
 > ***Sunlight Weakness.*** While in sunlight, the shade has disadvantage on attack rolls, ability checks, and saving throws.
 >
 > ### Actions
-> ***Wisdom Drain.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6 + 2) necrotic damage, and the target's Wisdom score is reduced by 1d4. If the target's Wisdom score is reduced to 0, it is para&shy;lyzed until it regains at least one point of Wisdom.
+> ***Wisdom Drain.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4 + 2) necrotic damage, and the target's Wisdom score is reduced by 1d4. If the target's Wisdom score is reduced to 0, it is para&shy;lyzed until it regains at least one point of Wisdom.
 >
-> ***Invisibility (Recharges after a Short or Long Rest).*** The shade magically turns invisible until it attacks, or until its concentration is broken, up to 1 hour (as if con&shy;centrating on a spell).
+> ***Invisibility (Recharges after a Short or Long Rest).*** The shade magically turns invisible until it attacks, or until its concentration is broken, up to 1 hour (as if con&shy;centrating on a spell)<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;11;4;12;7;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;1;;;; -->
 
 \columnbreak
 
@@ -3554,7 +3554,7 @@ ___
 >*Medium undead, chaotic evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 36 (8d8)
+> - **Hit Points** 72 (16d8)
 > - **Speed** 0 ft., fly 50 ft. (hover)
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -3575,7 +3575,7 @@ ___
 > ***Siphon Life.*** *Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 18 (4d8) necrotic damage. The target must succeed on a DC 12 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. The spectre regains hit points by an amount equal to half the necrotic damage dealt.
 >
 > ***Horrifying Wail.*** Each non-undead creature within 60 feet of the spectre that can hear it must succeed on a DC 12 Wisdom saving throw or be frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success.
-<br> &nbsp;&nbsp;&nbsp; If a target's saving throw is successful or the effect ends for it, the target is immune to this spectre's Horrifying Wail for the next 24 hours.
+<br> &nbsp;&nbsp;&nbsp; If a target's saving throw is successful or the effect ends for it, the target is immune to this spectre's Horrifying Wail for the next 24 hours.<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;72;4;12;18;0;0;0;0;0;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
@@ -3617,7 +3617,7 @@ ___
 > ***Intertwine.*** The wisp enters the space of another creature and attempts entwine it in place. The target must pass a DC 12 Wisdom saving throw or be paralyzed for 1 minute. At the end of the target's turns, it can make another save, ending the paralysis on a successful one. While the wisp has a creature intertwined, attack rolls against it has disadvantage. If a target's saving throw is successful or the effect ends for it, the target is immune to this wisp's intertwine for the next 24 hours.
 >
 > ***Renew (Recharge 5-6).*** One plant that the wisp can see within 5 feet of it is renewed by the wisp; the wisp disappears. The wisp can't be targeted by any attack, spell, or other effect while renewing a plant. The renewed plant regains 10 hit points at the start of its turn. If the plant takes fire damage, the renew doesn't function at the start of its next turn. The plant dies if it starts its turn with 0 hit points.
-> <br>&nbsp;&nbsp;&nbsp; The renew lasts until the renewed plant drops to 0 hit points, the wisp ends it as a bonus action. When the plant takes damage, the wisp must pass a Concen&shy;tration saving throw (as if concentrating on a spell) or be pushed out of the plant.
+> <br>&nbsp;&nbsp;&nbsp; The renew lasts until the renewed plant drops to 0 hit points, the wisp ends it as a bonus action. When the plant takes damage, the wisp must pass a Concen&shy;tration saving throw (as if concentrating on a spell) or be pushed out of the plant.<!-- https://wc5e-cr-calculator.frogvall.com/?0;18;14;4;12;0;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -3649,8 +3649,8 @@ ___
 > ## Wraith
 >*Medium undead, lawful evil*
 > ___
-> - **Armor Class** 13
-> - **Hit Points** 67 (9d8 + 27)
+> - **Armor Class** 14
+> - **Hit Points** 90 (12d8 + 36)
 > - **Speed** 0 ft., fly 60 ft. (hover)
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -3671,7 +3671,7 @@ ___
 > ### Actions
 > ***Life Drain.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 >
-> ***Create Spawn.*** The wraith targets a humanoid within 10 feet of it that died a violent death and has been dead for no longer than 1 minute. The target's spirit rises as a wraith spawn in an unoccupied space by the corpse, under the wraith's control. The wraith spawn has the same statistics as the wraith, except that it has an Intelligence and Charisma score of 1, it cannot speak or use Create Spawn, and its Life Drain does not reduce a target creature's hit point maximum. The wraith can have no more than two wraith spawns active under its control at one time.
+> ***Create Spawn.*** The wraith targets a humanoid within 10 feet of it that died a violent death and has been dead for no longer than 1 minute. The target's spirit rises as a wraith spawn in an unoccupied space by the corpse, under the wraith's control. The wraith spawn has the same statistics as the wraith, except that it has an Intelligence and Charisma score of 1, it cannot speak or use Create Spawn, and its Life Drain does not reduce a target creature's hit point maximum. The wraith can have no more than two wraith spawns active under its control at one time.<!-- https://wc5e-cr-calculator.frogvall.com/?1;14;90;6;12;21;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GHOSTS </div>
