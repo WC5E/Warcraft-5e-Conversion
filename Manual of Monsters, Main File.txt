@@ -4188,7 +4188,7 @@ ___
 >*Medium humanoid (harpy), chaotic evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 18 (4d8)
+> - **Hit Points** 36 (8d8)
 > - **Speed** 20 ft., fly 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -4205,7 +4205,7 @@ ___
 > ***Poisonous Kiss.*** If the harpy kisses a humanoid on the lips, the target must succeed on a DC 11 Constitution saving throw or be poisoned for 1d4 hours. While poisoned in this way, the target also has disadvantage on Wisdom saving throws.
 >
 > ### Actions
-> ***Multiattack.*** The harpy can use its Incapacitating Screech. It then makes one attack with its talons.
+> ***Multiattack.*** The harpy can use its Incapacitating Screech if available. It then makes one attack with its talons.
 >
 > ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage plus 2 (1d4) poison damage.
 >
@@ -4238,7 +4238,7 @@ ___
 >
 > ***Spellcasting.*** The harpy is a 5th-level spellcaster. Its spellcasting ability is Wisdom (Spell save DC 13, +5 to hit with spell attacks). The harpy has the following shaman spells prepared:
 >
-> Cantrips (at will): *gust, lightning blast, thunderclap*
+> Cantrips (at will): *gust, ✦ lightning blast, thunderclap*
 > <br> 1st level (4 slots): *absorb elements, earth tremor, <br>&nbsp;&nbsp;&nbsp; fog cloud, thunderwave*
 > <br> 2nd level (3 slots): *dust devil, gust of wind*
 > <br> 3rd level (2 slots): *lightning bolt, wind wall*
@@ -4248,7 +4248,7 @@ ___
 >
 > ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage plus 2 (1d4) poison damage.
 >
-> ***Incapacitating Screech (Recharge 6).*** The harpy emits a horrific screech. Each creature within 15 feet of it that can hear it and that isn't a harpy must succeed on a DC 11 Constitution saving throw or be incapaci&shy;tated until the end of the harpy's next turn.
+> ***Incapacitating Screech (Recharge 6).*** The harpy emits a horrific screech. Each creature within 15 feet of it that can hear it and that isn't a harpy must succeed on a DC 11 Constitution saving throw or be incapaci&shy;tated until the end of the harpy's next turn.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;50;4;12;26;3;56;0;56;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">H</div>
 <div class='footnote'>HARPIES </div>
