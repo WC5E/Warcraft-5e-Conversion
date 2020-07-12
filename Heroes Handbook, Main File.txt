@@ -2185,7 +2185,7 @@ After you use your quaking palm, you can't use it again until you finish a short
 
 \pagebreak
 
-<div style='margin-top:395px;'></div>
+<div style='margin-top:131px;'></div>
 
 ## Void Elf
 Infused by the void itself, the Ren'dorei--children of the void--are a group of blood elves exiled from their homeland of Quel'Thalas. Cast out for their teachings at the hand of the elven magister Umbric, the elves have embraced their newfound powers, though the inner turmoil it has caused may well follow them through their lives as they fight to maintain control over it.
@@ -2202,6 +2202,11 @@ However, the other magisters did not agree. Least of all the Grand Magister, who
 
 Now, emboldened by their newfound powers, the void elves have sworn to make their claim on the world, under the joint leadership of magister Umbric and Alleria Windrunner. 
 
+### Ethereals, Friend and Foe
+Beings of energy, Ethereals are extradimensional creatures that have travelled great distances across the Great Dark. Normally composed of arcane energies, it is a group of void-touched Ethereals that have turned the Ren'dorei into what they are today. Alleria Windrunner, co-leader to Magister Umbric, owed much of her power to the teachings of an Ethereal named Locust-Walker.
+
+It was only thanks to the machinations of void ethereals hoping to turn Magister Umbric and his followers into true creatures of void along with the timely intervention of Alleria Windrunner that has turned these former denizens of Quel'thalas into something more. Now Locust-Walker along with other ethereals who's goals aligned with the Ren'dorei roam their base of Telogrus Rift, teaching and guiding all Children of Quel'thalas in the ways of the Void.
+
 \columnbreak
 
 <div style='margin-top:790px;'></div>
@@ -2215,7 +2220,8 @@ Void elves are an independent subrace of blood elves that have been exiled from 
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/JLhq6RD.jpg' style='position:absolute; top:-100px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/kDzvP48.png' style='position:absolute; top:-170px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/H47MOpD.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/kDzvP48.png' style='position:absolute; top:0px; right:0px; width:1000px' />
 <img src='https://www.gmbinder.com/images/hTLvvHS.png' style='position:absolute; top:100px; right:-200px; width:800px' />
 
 \pagebreakNum
