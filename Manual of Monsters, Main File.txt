@@ -4269,7 +4269,7 @@ Kobolds average at four feet tall, with coarse skin, sharp claws, a pronounced s
 
 ***Skittish Creatures.*** Adventurers who have seen a kobold, especially a kobold away from its pack and lair, can testify for their cowardice. Kobolds are not particularly intelligent, and many consider them more of a nuisance than real danger -- at least in smaller numbers.
 
-***Massive Flocks.*** Kobolds are not only known to bear a resemblance to vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds are rarely threatening smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if one were to try and evict them.
+***Massive Flocks.*** Kobolds are not only known to bear a resemblance to vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds are rarely threatening in smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if one were to try and evict them.
 
 They have no concept of marriage. Rather, they form a loose structure of packs and clans based on their lineages, with young individuals opting to migrate between nests and warrens in search of mates outside of their own family.
 
@@ -4297,19 +4297,17 @@ ___
 > ___  
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
-> 10 (+0)|14 (+2)|8 (-1)|7 (-2)|7 (-2)|8 (-1)|
+> 12 (+1)|14 (+2)|8 (-1)|7 (-2)|7 (-2)|8 (-1)|
 > ___  
 > - **Skills** Perception +2
 > - **Senses** passive Perception 10
 > - **Languages** Low Common, Common  
 > - **Challenge** 1/8 (25 XP)  
 > ___
-> ***Nimble Escape.*** The kobold can take the Disengage or Hide action as a bonus action on each of its turns.
->
 > ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 ft. of the creature and the ally isn’t incapacitated.
 >
 > ### Actions
-> ***Pickaxe.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6) piercing damage.
+> ***Pickaxe.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6+1) piercing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;10;5;3;12;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 <div class='letterheader'></div>
 <div class="mmletter mml-k"></div>
@@ -4355,17 +4353,15 @@ ___
 > - **Languages** Low Common, Common  
 > - **Challenge** 1/2 (100 XP)  
 > ___
-> ***Nimble Escape.*** The kobold can take the Disengage or Hide action as a bonus action on each of its turns.
->
 > ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 ft. of the creature and the ally isn’t incapacitated.
 >
-> ***Spellcasting.*** The kobold is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:
+> ***Spellcasting.*** The kobold is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:
 >
 > Cantrips (at will): *Produce Flame, Mold Earth*
-> <br/> 1st level (3 slots): *Absorb Elements, Cure Wounds, Earth Tremor, Searing Smite, Thunderwave*
+> <br/> 1st level (2 slots): *Absorb Elements, Cure Wounds, Earth Tremor, Searing Smite, Thunderwave*
 >
 > ### Actions
-> ***Club.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) bludgeoning damage.
+> ***Club.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) bludgeoning damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;10;17;0;12;18;0;18;0;4;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -4386,23 +4382,22 @@ ___
 > ___  
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
-> 13 (+1)|14 (+2)|12 (+1)|12 (+1)|9 (-1)|11 (+0)|
+> 14 (+2)|14 (+2)|12 (+1)|12 (+1)|9 (-1)|11 (+0)|
 > ___  
 > - **Skills** Perception +2
 > - **Senses** passive Perception 11
 > - **Languages** Low Common, Common  
 > - **Challenge** 1 (200 XP)  
 > ___
-> ***Nimble Escape.*** The kobold can take the Disengage or Hide action as a bonus action on each of its turns.
 >
 > ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 ft. of the creature and the ally isn’t incapacitated.
 >
 > ### Actions
 > ***Multiattack.*** The kobold makes two melee attacks.
 >
-> ***Shovel.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d8 + 1) piercing damage.
+> ***Shovel.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8 + 2) piercing damage.
 >
-> ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the kobold can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the kobold. A creature can benefit from only one Leadership die at a time. This effect ends if the kobold is incapacitated.
+> ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the kobold can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the kobold. A creature can benefit from only one Leadership die at a time. This effect ends if the kobold is incapacitated.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;22;4;12;12;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 <div class="pageLetter">K</div>
 <div class='footnote'>KOBOLDS </div>
