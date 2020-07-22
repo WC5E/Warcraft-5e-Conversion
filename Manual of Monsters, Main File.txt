@@ -3440,8 +3440,8 @@ ___
 >
 > ***Spellcasting.*** The apparition is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The apparition has the following mage spells prepared:
 >
-> Cantrips (at will): *flurry, frostbite, ray of frost*
-> <br> 1st level (4 slots): *armor of Agathys, frostfire bolt, <br>&nbsp;&nbsp;&nbsp; ice knife*
+> Cantrips (at will): *✦ flurry, frostbite, ray of frost*
+> <br> 1st level (4 slots): *armor of Agathys, ✦ frostfire bolt, <br>&nbsp;&nbsp;&nbsp; ice knife*
 > <br> 2nd level (3 slots): *detect thoughts, hold person, <br>&nbsp;&nbsp;&nbsp; misty step*
 >
 > ***Sunlight Sensitivity.***  While in sunlight, the apparition has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
@@ -3963,7 +3963,7 @@ ___
 >*Large construct, unaligned*
 > ___
 > - **Armor Class** 12 (17 with *shield*)
-> - **Hit Points** 115 (11d10 + 44)
+> - **Hit Points** 95 (10d10 + 40)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -3982,7 +3982,7 @@ ___
 >
 > At will: *detect magic, magic missile, shield*
 > <br> 3/day each: *counterspell, dispel magic*
-> <br> 1/day each: *arcane explosion, wall of force*
+> <br> 1/day each: *✦ arcane explosion, wall of force*
 >
 > ***Magic Resistance.*** The golem has advantage on saving throws against spells and other magical effects.
 >
@@ -3993,7 +3993,7 @@ ___
 >
 > ***Arcane Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage plus 4 (1d8) force damage.
 >
-> ***Slow (Recharge 5-6).*** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 16 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+> ***Slow (Recharge 5-6).*** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 16 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<!-- https://wc5e-cr-calculator.frogvall.com/?1;17;95;0;16;54;0;34;0;34;0;0;0;0;0;0;0;;1;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -4036,7 +4036,7 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 >
-> ***Razer Claws (Recharge 5-6).*** The golem upper body spins in a circle, slashing it claws at creatures within 5 feet of it. Each creature must make a DC 13 Dexterity saving throw, taking 18 (4d8) slashing damage on a failed save, or half as much damage on a success.
+> ***Razer Claws (Recharge 5-6).*** The golem upper body spins in a circle, slashing it claws at creatures within 5 feet of it. Each creature must make a DC 13 Dexterity saving throw, taking 18 (4d8) slashing damage on a failed save, or half as much damage on a success.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;66;4;12;26;7;36;0;26;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -4069,8 +4069,6 @@ Anyone looking to cross Westfall would be wise to stay alert, look out for any o
 
 \pagebreakNum
 
-<div style="margin-top:510px;"></div>
-
 ## Grell
 A grell is a small, long-armed forest spirit with pointed ears and an accentuated brow. Though they are uncannily similar to imps, a grell is very large by comparison and lack any other features typical for a demon.
 
@@ -4084,45 +4082,70 @@ Some have speculated as to whether these adornments serve a purpose, such as mag
 
 Grells who commit to keeping in a pack like this have been witnessed actively searching for travellers to ambush, overwhelm, and steal from. Though their diet mainly consists of moss, tubers, and mushrooms, it is not unheard of for a grell pack to hunt wild game.
 
-\columnbreak
-
-<div style="margin-top:460px;"></div>
+<div style="margin-top:44px;"></div>
 
 ___
 > ## Grell
 >*Small fey, unaligned*
 > ___
-> - **Armor Class** 12
-> - **Hit Points** 9 (2d6 + 2)
+> - **Armor Class** 11
+> - **Hit Points** 7 (2d6)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|8 (-1)|14 (+2)|12 (+1)|8 (-1)|10 (+0)|12 (+1)|
+>|8 (-1)|13 (+1)|11 (+0)|8 (-1)|10 (+0)|12 (+1)|
+>___
+> - **Skills** Stealth +3
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** Low Common
+> - **Challenge** 1/8 (25 XP)
+> ___
+> ***Innate Spellcasting.*** The grell's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+>
+> At will: *✦ solar wrath*, *minor illusion*
+> <br> 1/day each:  *blur*, *misty step*
+>
+> ### Actions
+> ***Claw.***  *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) slashing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;11;7;3;1;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+
+\columnbreak
+
+<div style="margin-top:467px;"></div>
+
+___
+> ## Vile Grell
+>*Small fey, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 18 (4d6 + 4)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|14 (+2)|12 (+1)|8 (-1)|10 (+0)|13 (+1)|
 >___
 > - **Skills** Stealth +4
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** Low Common
-> - **Challenge** 1/4 (50 XP)
+> - **Challenge** 1/2 (100 XP)
 > ___
 > ***Nimble Escape.*** The grell can take the Disengage or Hide action as a bonus action on each of its turns.
 >
 > ***Innate Spellcasting.*** The grell's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 >
-> At will: *solar wrath*, *minor illusion*
+> At will: *✦ solar wrath*, *minor illusion*
 > <br> 2/day each:  *blur*, *misty step*
 >
 > ### Actions
 > ***Claw.***  *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
 >
-> ***Scimitar.***  *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 2) slashing damage.
+> ***Scimitar.***  *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.<!--https://wc5e-cr-calculator.frogvall.com/?0;12;18;4;1;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;1;;;;;;10;;;;;; -->
 
 <div class="pageLetter">G</div>
 <div class='footnote'>GRELL </div>
-<img src='https://www.gmbinder.com/images/ZTHL769.jpg' style='position:absolute; top:0px; right:250px; width:1350px' />
-<img src='https://www.gmbinder.com/images/z86Lpca.png' style='position:absolute; top:-100px; right:-50px; width:1000px' />'
-<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot' style='top:-100px; right:-100px; width:600px'>
-<img src='https://www.gmbinder.com/images/4xBV4kG.png' style='position:absolute; top:70px; right:50px; width:500px;transform:scalex(-1); z-index:100' />
+<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot' style='top:-100px; right:-120px; width:600px'>
+<img src='https://www.gmbinder.com/images/4xBV4kG.png' style='position:absolute; top:45px; right:-80px; width:500px;transform:scalex(-1); z-index:100' />
 
 \pagebreakNum
 
@@ -4165,7 +4188,7 @@ ___
 >*Medium humanoid (harpy), chaotic evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 18 (4d8)
+> - **Hit Points** 36 (8d8)
 > - **Speed** 20 ft., fly 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -4182,7 +4205,7 @@ ___
 > ***Poisonous Kiss.*** If the harpy kisses a humanoid on the lips, the target must succeed on a DC 11 Constitution saving throw or be poisoned for 1d4 hours. While poisoned in this way, the target also has disadvantage on Wisdom saving throws.
 >
 > ### Actions
-> ***Multiattack.*** The harpy can use its Incapacitating Screech. It then makes one attack with its talons.
+> ***Multiattack.*** The harpy can use its Incapacitating Screech if available. It then makes one attack with its talons.
 >
 > ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage plus 2 (1d4) poison damage.
 >
@@ -4215,7 +4238,7 @@ ___
 >
 > ***Spellcasting.*** The harpy is a 5th-level spellcaster. Its spellcasting ability is Wisdom (Spell save DC 13, +5 to hit with spell attacks). The harpy has the following shaman spells prepared:
 >
-> Cantrips (at will): *gust, lightning blast, thunderclap*
+> Cantrips (at will): *gust, ✦ lightning blast, thunderclap*
 > <br> 1st level (4 slots): *absorb elements, earth tremor, <br>&nbsp;&nbsp;&nbsp; fog cloud, thunderwave*
 > <br> 2nd level (3 slots): *dust devil, gust of wind*
 > <br> 3rd level (2 slots): *lightning bolt, wind wall*
@@ -4225,7 +4248,7 @@ ___
 >
 > ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage plus 2 (1d4) poison damage.
 >
-> ***Incapacitating Screech (Recharge 6).*** The harpy emits a horrific screech. Each creature within 15 feet of it that can hear it and that isn't a harpy must succeed on a DC 11 Constitution saving throw or be incapaci&shy;tated until the end of the harpy's next turn.
+> ***Incapacitating Screech (Recharge 6).*** The harpy emits a horrific screech. Each creature within 15 feet of it that can hear it and that isn't a harpy must succeed on a DC 11 Constitution saving throw or be incapaci&shy;tated until the end of the harpy's next turn.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;50;4;12;26;3;56;0;56;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">H</div>
 <div class='footnote'>HARPIES </div>
@@ -4246,7 +4269,7 @@ Kobolds average at four feet tall, with coarse skin, sharp claws, a pronounced s
 
 ***Skittish Creatures.*** Adventurers who have seen a kobold, especially a kobold away from its pack and lair, can testify for their cowardice. Kobolds are not particularly intelligent, and many consider them more of a nuisance than real danger -- at least in smaller numbers.
 
-***Massive Flocks.*** Kobolds are not only known to bear a resemblance to vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds are rarely threatening smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if one were to try and evict them.
+***Massive Flocks.*** Kobolds are not only known to bear a resemblance to vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds are rarely threatening in smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if one were to try and evict them.
 
 They have no concept of marriage. Rather, they form a loose structure of packs and clans based on their lineages, with young individuals opting to migrate between nests and warrens in search of mates outside of their own family.
 
@@ -4274,19 +4297,17 @@ ___
 > ___  
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
-> 10 (+0)|14 (+2)|8 (-1)|7 (-2)|7 (-2)|8 (-1)|
+> 12 (+1)|14 (+2)|8 (-1)|7 (-2)|7 (-2)|8 (-1)|
 > ___  
 > - **Skills** Perception +2
 > - **Senses** passive Perception 10
 > - **Languages** Low Common, Common  
 > - **Challenge** 1/8 (25 XP)  
 > ___
-> ***Nimble Escape.*** The kobold can take the Disengage or Hide action as a bonus action on each of its turns.
->
 > ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 ft. of the creature and the ally isn’t incapacitated.
 >
 > ### Actions
-> ***Pickaxe.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6) piercing damage.
+> ***Pickaxe.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6+1) piercing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;10;5;3;12;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 <div class='letterheader'></div>
 <div class="mmletter mml-k"></div>
@@ -4332,17 +4353,15 @@ ___
 > - **Languages** Low Common, Common  
 > - **Challenge** 1/2 (100 XP)  
 > ___
-> ***Nimble Escape.*** The kobold can take the Disengage or Hide action as a bonus action on each of its turns.
->
 > ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 ft. of the creature and the ally isn’t incapacitated.
 >
-> ***Spellcasting.*** The kobold is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:
+> ***Spellcasting.*** The kobold is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:
 >
 > Cantrips (at will): *Produce Flame, Mold Earth*
-> <br/> 1st level (3 slots): *Absorb Elements, Cure Wounds, Earth Tremor, Searing Smite, Thunderwave*
+> <br/> 1st level (2 slots): *Absorb Elements, Cure Wounds, Earth Tremor, Searing Smite, Thunderwave*
 >
 > ### Actions
-> ***Club.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) bludgeoning damage.
+> ***Club.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) bludgeoning damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;10;17;0;12;18;0;18;0;4;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -4363,23 +4382,22 @@ ___
 > ___  
 > STR | DEX | CON | INT | WIS | CHA
 >|:---:|:---:|:---:|:---:|:---:|:---:|
-> 13 (+1)|14 (+2)|12 (+1)|12 (+1)|9 (-1)|11 (+0)|
+> 14 (+2)|14 (+2)|12 (+1)|12 (+1)|9 (-1)|11 (+0)|
 > ___  
 > - **Skills** Perception +2
 > - **Senses** passive Perception 11
 > - **Languages** Low Common, Common  
 > - **Challenge** 1 (200 XP)  
 > ___
-> ***Nimble Escape.*** The kobold can take the Disengage or Hide action as a bonus action on each of its turns.
 >
 > ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 ft. of the creature and the ally isn’t incapacitated.
 >
 > ### Actions
 > ***Multiattack.*** The kobold makes two melee attacks.
 >
-> ***Shovel.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d8 + 1) piercing damage.
+> ***Shovel.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8 + 2) piercing damage.
 >
-> ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the kobold can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the kobold. A creature can benefit from only one Leadership die at a time. This effect ends if the kobold is incapacitated.
+> ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the kobold can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the kobold. A creature can benefit from only one Leadership die at a time. This effect ends if the kobold is incapacitated.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;22;4;12;12;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 <div class="pageLetter">K</div>
 <div class='footnote'>KOBOLDS </div>
