@@ -4909,7 +4909,7 @@ ___
 > ### Actions
 > ***Beak.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
 >
-> ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
+> ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;11;9;3;12;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -4974,7 +4974,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|6 (-2)|10 (+0)|10 (+0)|3 (-4)|11 (+0)|1 (-5)|
+>|8 (-1)|10 (+0)|10 (+0)|3 (-4)|11 (+0)|1 (-5)|
 >___
 > - **Skills** Perception +4
 > - **Damage Resistances** poison
@@ -4988,7 +4988,7 @@ ___
 > ***Immutable Form.*** The alarm-o-bot is immune to any spell or effect that would alter its form.
 >
 > ### Actions
-> ***Fist.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 - 1) bludgeoning damage.
+> ***Fist.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 0 (1d4 - 1) bludgeoning damage.
 
 \columnbreak
 
@@ -4996,7 +4996,7 @@ ___
 A mechanical design adopted by both goblins and gnomes, crowd pummelers take the form of a tall, bipedal construct loaded with weapons. Its name is not coincidental, as it is often used as a cheap throw-away sentry; programmable with a set of laws and regulations, alongside a chief directive to pummel any perpetrators.
 
 ### Mechano-Tank
-The Mechano-tank, or spider tank, is a gnomish construct best known for its armoured chassis and spider-like design. Built for close quarters, the tanks are reinforced to withstand the elements and fined-tuned for maximum destruction. Their legs are able to contract and release, allowing the tank to launch forward into combat.
+The Mechano-tank, or spider tank, is a gnomish construct best known for its armoured chassis and spider-like design. Built for close quarters, the tanks are reinforced to withstand the elements and fined-tuned for maximum destruction. Their legs are able to contract and release, allowing the tank to launch forward into combat.<!-- https://wc5e-cr-calculator.frogvall.com/?0;10;7;1;1;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div style='margin-top:245px;'></div>
 
@@ -5023,7 +5023,7 @@ ___
 > ***Immutable Form.*** The bombling is immune to any spell or effect that would alter its form.
 >
 > ### Actions
-> ***Self-destruct.*** The bombling immediately detonates, killing itself in the process.
+> ***Self-destruct.*** The bombling immediately detonates, killing itself in the process.<!-- https://wc5e-cr-calculator.frogvall.com/?0;10;7;0;10;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
@@ -5060,9 +5060,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The pummeler makes two claw attacks.
 >
-> ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 >
-> ***Crowd Pummel (Recharge 6).*** The pummeler slams its claws into the ground. Each creature within 5 feet of it must make a DC 12 Dexterity saving throw, taking 9 (2d8) bludgeoning damage on a failed save, or half as much damage on a successful one. On a failed saving throw, the target is knocked prone.
+> ***Crowd Pummel (Recharge 6).*** The pummeler slams its claws into the ground. Each creature within 5 feet of it must make a DC 12 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failed save, or half as much damage on a successful one. On a failed saving throw, the target is knocked prone.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;32;6;12;26;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div style='margin-top:20px;'></div>
 
@@ -5072,7 +5072,7 @@ ___
 >
 > &nbsp;&nbsp;&nbsp; ***Multiattack.*** The nullifier makes two claw attacks.
 >
-> ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 >
 > ***Slow (Recharge 5-6).*** The nullifier targets one creature it can see within 10 feet of it. The creature must make a DC 13 Wisdom saving throw against this magic. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can take either an action or a bonus action on its turn, not both. The effect lasts for 1 minute. The creature can repeat the saving throw at the end of each of its turns.
 >
@@ -5082,7 +5082,7 @@ ___
 > The nullifier also gains the following reaction.
 > <div style='margin-top:5px;'></div>
 >
-> &nbsp;&nbsp;&nbsp; ***Reflection Field.*** When a creature hits the nullifier with a ranged spell attack, the nullifier can reflect the spell onto a target within 15 feet of it.
+> &nbsp;&nbsp;&nbsp; ***Reflection Field.*** When a creature hits the nullifier with a ranged spell attack, the nullifier can reflect the spell onto a target within 15 feet of it.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;32;6;12;26;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;1;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -5149,7 +5149,7 @@ ___
 > |:------------------|:--------------:|-|:----------------------------|
 > |&nbsp; Firewalker  | Fire           || 15 ft. cone (Dex. save)      |
 > |&nbsp; Frostwalker | Cold           || 15 ft. cone (Con. save)      |
-> |&nbsp; Shockwalker | Lightning      || 5 by 30 ft. line (Dex. save) |
+> |&nbsp; Shockwalker | Lightning      || 5 by 30 ft. line (Dex. save) |<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;95;5;14;22;20;36;0;22;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
 
 </div>
 
