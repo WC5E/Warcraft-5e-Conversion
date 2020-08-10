@@ -1,0 +1,509 @@
+<style>
+/* GLOBAL FORMATTING  */
+
+  /* Resize page to international A4 */
+  .phb {
+    width: 210mm;
+    height: 296.8mm;
+  }
+  .phb:after { content: ""; }
+
+
+/* TABLE OF CONTENTS  */
+
+  /* toc specifically wants black text. This resets the headers*/
+  .toc a {
+    color: inherit !important;
+  }
+  /* Allow dot leaders to fill remaining space but not overlap */
+  .toc li span:nth-child(2) {
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+  }
+  .toc li span:nth-child(2):after {
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    content:
+      " ........................................"
+      "........................................."
+      ".........................................";
+    }
+
+  /* Style TOC page numbers*/
+  .toc li span:first-child {
+    float: right;
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    margin-left: 1px;
+  }
+
+  /* Adjust TOC H3 styles */
+  .toc li h3 span:nth-child(2):after {
+  	content: " ";
+  }
+  .toc li h3 {
+    margin-bottom: 4px !important;
+    margin-top: 10px !important;
+    line-height: initial !important;
+  }
+  .toc li h3 span:first-child {
+  	line-height: 1.8em !important;
+  }
+
+  /* Reduce TOC list indentation*/
+  .toc ul ul {
+  	margin-left: 10px !important;
+  }
+  .toc>ul>li {
+    margin-bottom: initial !important;
+  }
+
+
+/* TABLES AND BLOCKS */
+
+  /* Clear internal padding and add gap above for green note blocks*/
+  .phb blockquote {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .phb blockquote { margin-top: 1em;
+  }
+
+
+/* INK BLOT STYLES */
+
+  /* Root style for inkblots. Use alone, or together with
+  one of the inkb lotstyle classes below. Essentially:
+  <img url='{url}' class='inkblot inkblot-blue' />
+  */
+  .inkblot {
+    position: absolute;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+
+  .inkblot-blue {
+    filter: hue-rotate(190deg) saturate(120%)
+  }
+
+  .inkblot-green {
+    filter: hue-rotate(120deg)
+  }
+
+</style>
+
+<style>
+/* Background */
+  .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
+  .phb{ background-size: cover }
+
+/* Notes */
+  .phb section blockquote {background-color: #f6e5d4}
+  .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
+
+/* Tables */
+  table tr:nth-child(odd) td {background-color: #cccccc}
+
+/* Footer */
+  .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
+  .phb .footnote {color: rgba(0, 0, 0, 0.5)}
+  .phb:nth-child(odd):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : 10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
+    background-size  : cover;
+}
+
+.phb:nth-child(even):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : -10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
+    background-size  : cover;
+}
+
+/* Page Number */
+.phb .pageNumber{
+    position   : absolute;
+    bottom     : 30px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber{
+    right      : 12px;
+}
+
+.phb .pageNumber.auto{
+    position   : absolute;
+    bottom     : 41px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber.auto{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber.auto{
+    right      : 12px;
+}
+
+</style>
+
+<div style='margin-top:262px;'></div>
+
+## Warrior
+*Now, watch them attack me. Pitiful! Do they think to take vengeance for their fallen? Do they come to challenge ME? I, who have won a hundred wars? I, who stood alone against thousands and still shouted for my enemies to come? No, these saurok will crumple before me like <br> paper before the flame!*
+<div style="text-align:Right"> 
+
+*— Skeer the Bloodseeker* <span style="margin-left:90px"></span></div>
+
+A human in clanging plate armor holds her 
+<br> shield high before her as she charges toward the 
+<br> massed kobolds. A night elf behind her, clad in 
+<br> studded leather armor, peppers the kobolds with 
+<br> arrows loosed from his exquisite bow. The dwarf nearby shouts orders, helping
+the two combatants coordinate their assault to the best advantage.
+
+An orc in chainmail interposes his shield between the ogre's club and his companion in a swift action, knocking the deadly blow aside. His companion, a blood elf in scale armor, swings two scimitars in a blinding whirl as she circles the ogre, looking for a blind spot in its defenses.
+
+A gladiator fights for sport in an arena, a master with his trident and net, skilled at toppling foes and moving them around for the crowd's delight, and his own tactical advantage. His opponent's sword flares with blue light an instant before she sends lightning forth to smite him.
+
+### Ancient Practice
+For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat. Some protect from the front lines with shields, locking down enemies while allies support the warrior from behind with spell and bow. Others forgo the shield and unleash their rage at the closest threat with a variety of deadly weapons. 
+
+The warrior’s battle cries embolden friends and leave foes cowering in fear. With legendary precision, warriors target the smallest gaps in armor and slice at hamstrings in a blur of steel. Every dragon slain, corrupted tyrant toppled, and demon banished from Azeroth has trembled in the face of these lords of war.
+
+Warriors are the quintessential fearless fighters on the battlefield, and their pure martial prowess inspires courage in allies and despair in enemies. Experts in all manner of melee weaponry and possessing incredible physical strength and skill, Warriors are perfectly suited to serve as frontline combatants and battlefield commanders.
+
+\columnbreak
+
+<div style='margin-top:670px;'></div>
+
+### Well-Rounded Specialists
+Warriors learn the basics of all combat styles. Every warrior can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a warrior is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on protection their allies from mortal blows, some on fighting with two weapons at once, and some prefer a single large weapon able to be wielded with extraordinary force. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike.
+
+### Creating a Warrior
+As you build your warrior, think about two related elements of your character's background: Where did you get your combat training, and what set you apart from the mundane fighters around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication?
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/C3YpaDn.jpg' style='position:absolute; top:0px; right:0px; width:700px' />
+<img src='https://www.gmbinder.com/images/H47MOpD.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/InB4SxN.png' style='position:absolute; top:-60px; right:-310px; width:800px' />
+
+\pagebreakNum
+
+<div class='classTable wide'>
+
+##### The Warrior
+|Level| Proficiency <br> Bonus | Features | Rage <br> Reserve | Maneuvers <br> Known |
+|:---:|:--:|:------------------------------------------|:--:|:-:|
+| 1st | +2 | Fighting Style, Second Wind               |  — | — |
+| 2nd | +2 | Inner Rage                                |  1 | — |
+| 3rd | +2 | Martial Archetype, Inner Rage improvement |  2 | 2 |
+| 4th | +2 | Ability Score Improvement                 |  2 | 2 |
+| 5th | +3 | Extra Attack                              |  3 | 2 |
+| 6th | +3 | Action Surge (one use)                    |  3 | 3 |
+| 7th | +3 | Martial Archetype feature                 |  4 | 3 |
+| 8th | +3 | Ability Score Improvement                 |  4 | 3 |
+| 9th | +4 | —                                         |  5 | 3 |
+| 10th| +4 | Indomitable (one use)                     |  5 | 3 |
+| 11th| +4 | Martial Archetype feature                 |  6 | 4 |
+| 12th| +4 | Ability Score Improvement                 |  6 | 4 |
+| 13th| +5 | —                                         |  7 | 4 |
+| 14th| +5 | Indomitable (two use)                     |  7 | 4 |
+| 15th| +5 | Martial Archetype feature                 |  8 | 4 |
+| 16th| +5 | Ability Score Improvement                 |  8 | 5 |
+| 17th| +6 | Action Surge (two uses)                   |  9 | 5 |
+| 18th| +6 | Martial Archetype feature                 |  9 | 5 |
+| 19th| +6 | Ability Score Improvement                 | 10 | 5 |
+| 20th| +6 | Extra Attack (2)                          | 10 | 5 |
+</div>
+
+&nbsp;&nbsp;&nbsp; You might have enjoyed formal training in a noble's army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught -- unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms. Or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions -- the only things that stand between you and death's embrace.
+<div style='margin-top:-5px;'></div>
+
+#### Quick Build
+You can make a warrior quickly by following these sugges&shy;tions. First, put your highest ability score in Strength, followed by Constitution.
+<div style='margin-top:-5px;'></div>
+
+#### Optional Rule: Multiclassing
+If your group uses the optional rule on multiclassing in the *Player's Handbook*, here's what you need to know if you choose warrior as one of your classes.
+
+***Ability Score Minimum.*** As a multiclass character, you must have at least a Strength or Dexterity score of 13 to take a level in this class, or to take a level in another class if you are already a warrior.
+
+***Proficiencies Gained.*** If warrior isn't your initial class, here are the proficiencies you gain when you take your first level as a warrior: light armor, medium armor, shields, simple weapons, martial weapons.
+
+\columnbreak
+
+## Class Features
+As a warrior, you gain the following class features.
+
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per warrior level
+- **Hit Points at 1st Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per warrior level after 1st
+
+#### Proficiencies
+___
+- **Armor:** All armor, shields
+- **Weapons:** Simple weapons, martial weapons, firearms
+- **Tools:** None
+___
+- **Saving Throws:** Strength, Constitution
+- **Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics. History, Insight, Intimidation, Perception, and Survival
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+ - *(a)* scale mail or *(b)* chain mail
+ - *(a)* a martial weapon and a shield or *(b)* two martial weapons
+ - *(a)* a light crossbow and 20 bolts or *(b)* two handaxes
+ - *(a)* a dungeoneer's pack or *(b)* an explorer's pack
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+### <span style="margin-left:70px"></span> Fighting Style
+<span style="margin-left:70px"></span>You adopt a particular style of fighting as your 
+<span style="margin-left:70px"></span> specialty. Choose one of the following options. 
+<span style="margin-left:65px"></span> You can't take a Fighting Style option more 
+<span style="margin-left:60px"></span> than once, even if you later get to choose again.
+<div style='margin-top:20px;'></div>
+
+#### <span style="margin-left:15px"></span> Defense
+<span style="margin-left:10px"></span> While you are wearing armor, you gain a +1 bonus to AC.
+
+#### Dueling
+When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
+#### Great Weapon Fighting
+When you roll a 1 or 2 on a damage die for an attack made with a melee weapon that you wield with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit. 
+
+#### Protection
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+
+#### Two-Weapon Fighting
+When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+### Second Wind
+You can draw upon your stamina to protect yourself from harm. As a bonus action, you may expend a Hit Die to instantly recover from your wounds, as if you've taken a short rest, regaining hit points equal to the total + your Constitution Modifier.
+
+### Inner Rage
+At 2nd level, you learn to fight with overwhelming ferocity in battle and can harness that fury into your attacks.
+
+#### Rage
+You gain 1 rage point whenever you deal damage to a creature with a weapon attack that you did not spend rage points on. You can spend these rage points to fuel various maneuvers. To use one of these maneuvers, you must expend rage points equal to its cost. You can never have more rage points than your Warrior level.
+
+Your accumulated rage points remain for 1 hour before dissipating and returning your pool of rage to 0.
+
+#### Rage Maneuvers Known
+You start by knowing three maneuvers: Charge, Disarm, and Raging Blow. Each of which are detailed below.
+
+The Maneuvers Known column of the Warrior table shows when you when you learn new rage maneuvers of your choice. Your maneuver options are detailed at the end of the class description
+
+Additionally, when you gain levels in this class, you can choose one of the maneuvers you have learned and replace it with another maneuver you could learn at that level. You can not change Charge, Disarm, or Raging Blow.
+
+\columnbreak
+
+#### Rage Reserve
+You can use a bonus action on your turn to tap into your inner reserve of rage and gain a number of rage points equal to the Rage Reserve column of the Warrior table.
+
+Once you use your reserve of rage, you can't do so again until you finish a short or long rest.
+
+#### Maneuver Saving Throw
+Some of your rage maneuvers require your target to make a saving throw to resist the maneuver's effect. The saving throw DC is calculated as follows:
+
+<div style="text-align: Center">
+
+**Rage save DC** = 8 + your proficiency bonus + <br> your Strength modifier 
+</div>
+
+#### Rage Maneuvers
+You start by knowing three rage maneuvers:
+
+***Charge.*** When you take the Dash action and move at least 20 feet toward a target, you can spend 1 rage point and make one weapon attack against it as part of the Dash action, this attack is made with advantage.
+
+***Disarm.*** You can spend 2 rage points when you make an attack roll to attempt a disarming strike. If the attack hits, you deal normal weapon damage and the target drops one item of your choice it is holding.
+
+***Raging Blow.*** When you roll damage for a melee weapon attack, you can spend 1 or more rage points to reroll 1 damage die for each rage point spent. You must use the new roll.
+<div style='margin-top:-3px;'></div>
+
+### Martial archetype
+At 3rd level, you choose a martial archetype that you strive to emulate in your combat styles and techniques. Choose Arms, Fury, or Protection, all detailed at the end of the class description. Your archetype grants you features at 3rd level and again at 7th, 11th, 15th, and 18th level.
+<div style='margin-top:-3px;'></div>
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+<div style='margin-top:-3px;'></div>
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+The number of attacks increases to three when you reach 20th level in this class.
+<div style='margin-top:-3px;'></div>
+
+### Action Surge
+Starting at 6th level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.
+
+Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once per turn.
+
+### Indomitable
+Beginning at 10th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+
+You can use this feature twice between long rests starting at 14th level.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/lDb6MoU.png' style='position:absolute; top:-125px; right:635px; width:290px; z-index:100' />
+
+\pagebreakNum
+
+## Martial Archetypes
+Different warriors choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.
+
+### Arms
+Arms warriors are forged not in the classroom, tavern, or workshop, but in the dueling pits and on the arena floor. These warriors are patient fighters, waiting to capitalize on moments when their opponent is left exposed. Many arms warrior gravitate towards two-headed weapons, weapons that allow them to deliver devastating, overpowering blows, fully exploiting their enemies’ weaknesses.
+
+#### Overpower
+Beginning when you choose this archetype at 3rd level, you learn to use your weapon as a barrier. When you are hit by a melee attack, you can use you reaction to roll 1d10 and add the total to your Armor Class. If your overpower causes the attack to miss you, you can make one weapon attack against the target as part of the same reaction.
+
+You can use this feature twice. You regain expended uses when you finish a short or long rest.
+
+#### Dauntless
+At 3rd level, your rage is replenished even as you pour it into your attacks. You regain 1 rage at the end of your turn if you hit a creature with a rage move during it.
+
+#### Commanding Shout
+Starting at 7th level, you are able to command an ally to attack your quarry. As a bonus action, choose a friendly creature within 60 feet of you who can see or hear you. That creature can immediately use its reaction to make <br> one melee weapon attack.
+
+#### Colossus Smash
+Upon reaching 11th level, when you hit a creature with a melee weapon attack on your turn, you may sunder their defenses and give the next weapon attack made against the target before the end of your next turn advantage. You may only use colossus smash once on each of your turns.
+
+#### Deadly Calm
+Starting at 15th level, you instinctively enter a defensive stance when things get rough. While you are below half <br> of your hit point maximum, you have advantage on any Strength, Dexterity, or Constitution saving throw you make.
+
+#### Opportunity Strikes
+At 18th level, you respond to openings in enemies defense with unmatched ferocity. In combat, you get a special reaction that you can take once on every creature's turn, except your turn. You can use this special reaction only to make an opportunity attack, and you can't use it on the same turn that you take your normal reaction.
+
+\columnbreak
+
+### Fury
+Fury warriors are among the most feared of combatants, these fearless fighters venture into the fray with a lust for battle, disregarding their own defense to deliver punishing blows with brute force. Many fury warriors favor weapons capable of being wielded in one-hand to unleash a flurry of attacks carving their opponent to pieces.
+
+#### Rampage
+Beginning when you choose this archetype at 3rd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to rampage. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
+
+#### Fearful
+At 3rd level, you gain proficiency in the Intimidation skill if you don't already have it and when you make an ability check with it, you can choose to use your Strength modifier instead of your Charisma modifier for the check.
+
+#### Single-Minded Fury
+Starting at 7th level, your brutish strength allows you to wield weapons with might unmatched by other warriors. 
+
+When you wield a weapon that deals a single damage die, the damage die of the weapon is increased by 1. For example, a shortsword that normally deals 1d6 damage instead deals 1d8 damage. A weapon's damage die can't <br> be increased beyond a 1d12.
+
+#### Thirst for Blood
+At 11th level, when a hostile creature within 20 feet of you takes damage, you can use your reaction to move up to half your speed towards the creature without provoking oppor&shy;tunity attacks. If this movement brings you within reach of the creature, you may make one weapon attack against the creature as part of the reaction.
+
+#### Devastating Critical
+Beginning at 15th level, when you score a critical hit with a weapon attack, you gain a bonus to that weapon’s damage roll equal to your level in this class.
+
+#### Frothing Berserker
+At 18th level, if you take damage that reduces you to 0 hit points and doesn't kill you outright, you can use your reaction to delay falling unconscious and immediately take an extra turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall unconscious if you still have 0 hit points. Once you use this feature, you can't use it again until you finish a long rest.
+ 
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/z6WJzwY.jpg' style='position:absolute; top:920px; right:0px; width:800px'>
+<img src='https://www.gmbinder.com/images/qV5FBIk.png' style='position:absolute; top:-80px; right:0px; width:900px; transform:scaley(-1)' />
+
+\pagebreakNum
+
+### Protection
+Protection warriors demonstrate a knack for the use of a shield, nullifying opponent’s advances and creating oppor&shy;tunities for counterattacks. For them, being the toughest soldier on the front means nothing if allies are left vulner&shy;able to the enemy's attack. These stalwart defenders are integral to the success of any military campaign. 
+
+#### Taunt
+Beginning when you choose this archetype at 3rd level, you can use your action to taunt creatures within 30 feet of you. Any creature of your choice
+within range must succeed on a Wisdom saving throw against your Rage save DC or have disadvantage on attack rolls against creatures other than you for 1 minute. A creature can repeat the save at the end of each of their turns, ending the effect on a success. 
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Anger Management
+At 3rd level, your rage is renewed by blows made against you. When a hostile creature hits you with an attack, you immediately gain 1 rage point. You can only benefit from this effect once per turn.
+
+#### Intercept
+Beginning at 7th level, when a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to intercept the attack, forcing the attack to target you instead.
+
+You can use this feature a number of times equal to your Constitution modifier (minimum of 1). You regain all spent uses after finishing a long rest.
+
+#### Softened Blows
+Beginning at 11th level, even the strongest of blows will not fault your defense. Any critical hit against you becomes a normal hit and you have advantage on any check or saving throw made to avoid being knocked prone.
+
+#### Inspiring Presence
+Starting at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren't incapacitated, you can choose one ally within 60 feet of you that also failed its save against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.
+
+#### Never Surrender
+At 18th level, whenever you start your turn below half of your hit point maximum, you gain 1d10 + your Constitution modifier temporary hit points. You don't gain this benefit if you have 0 hit points.
+
+## Rage Maneuvers
+If a rage maneuver has prerequisites, you must meet them to learn it. You can learn the maneuver at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
+
+#### Berserker Rage
+You can use your action and spend 3 rage points to end one effect that is causing you to be charmed or frightened.
+
+\columnbreak
+
+#### Bloodthirst
+When you hit a creature with a melee weapon attack, you can spend 3 rage points to bolster yourself in the moment. When done, you gain temporary hit points equal to 1d8 + your Warrior level. These hit points lasts  for 1 minute.
+
+#### Cleave
+*Prerequisite: 6th level*
+<div style='margin-top:-6px;'></div>
+
+When you hit a creature with a melee weapon attack, you can spend 4 rage to attempt to cleave another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, roll damage for it as if it was a normal attack. 
+
+#### Deep Wounds
+*Prerequisite: 6th level*
+<div style='margin-top:-6px;'></div>
+
+When you hit a creature with a melee weapon attack, you can spend 2 rage points to attempt a deep wound. The target must succeed on a Constitution saving throw or lose 1d4 hit points due to blood loss. The deep wound lasts for 1 minute.
+
+At the end of its turn, the target loses another 1d4 hit points. It then makes another Constitution saving throw, ending the bleeding on a successful save.
+
+#### Execute
+*Prerequisite: 6th level*
+<div style='margin-top:-6px;'></div>
+
+When you hit a creature with a melee weapon attack, you can spend 6 rage points to make your attack into a critical hit. This has no effect if the attack roll was already critical.
+
+#### Forceful Blow
+When you hit a creature with a melee weapon attack, you can spend 2 rage points to attempt to force a target back. If the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 10 feet away from you.
+
+#### Hamstring
+When you hit a creature with a melee weapon attack, you can spend 2 rage points to attempt to knock the target down. If the target is Large or smaller, it must succeed on a Strength saving throw. On a failed save, you knock the target prone.
+
+#### Ignore Pain
+You can use your reaction and spend 3 rage points when <br> hit by a weapon attack to give yourself resistance towards bludgeoning, piercing, and slashing damage until the start of your next turn.
+
+#### Mortal Strike
+When you hit a creature with a melee weapon attack, you can spend 2 rage points to attempt to deliver a mortal blow. The target must succeed on a Constitution saving throw or be unable to have hit points restored until the start of your next turn.
+
+#### Shield Slam
+When you hit a creature with a melee weapon attack, you can spend 2 rage points and use your bonus action to slam the target with your shield, dealing damage equal to 1d4 + your Strength modifier. 
+
+To do so, you must be wearing a shield.
+
+<div class='footnote'>PART 1 | CLASSES</div>
