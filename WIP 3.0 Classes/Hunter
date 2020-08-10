@@ -1,0 +1,619 @@
+<style>
+/* GLOBAL FORMATTING  */
+
+  /* Resize page to international A4 */
+  .phb {
+    width: 210mm;
+    height: 296.8mm;
+  }
+  .phb:after { content: ""; }
+
+
+/* TABLE OF CONTENTS  */
+
+  /* toc specifically wants black text. This resets the headers*/
+  .toc a {
+    color: inherit !important;
+  }
+  /* Allow dot leaders to fill remaining space but not overlap */
+  .toc li span:nth-child(2) {
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+  }
+  .toc li span:nth-child(2):after {
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    content:
+      " ........................................"
+      "........................................."
+      ".........................................";
+    }
+
+  /* Style TOC page numbers*/
+  .toc li span:first-child {
+    float: right;
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    margin-left: 1px;
+  }
+
+  /* Adjust TOC H3 styles */
+  .toc li h3 span:nth-child(2):after {
+  	content: " ";
+  }
+  .toc li h3 {
+    margin-bottom: 4px !important;
+    margin-top: 10px !important;
+    line-height: initial !important;
+  }
+  .toc li h3 span:first-child {
+  	line-height: 1.8em !important;
+  }
+
+  /* Reduce TOC list indentation*/
+  .toc ul ul {
+  	margin-left: 10px !important;
+  }
+  .toc>ul>li {
+    margin-bottom: initial !important;
+  }
+
+
+/* TABLES AND BLOCKS */
+
+  /* Clear internal padding and add gap above for green note blocks*/
+  .phb blockquote {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .phb blockquote { margin-top: 1em;
+  }
+
+
+/* INK BLOT STYLES */
+
+  /* Root style for inkblots. Use alone, or together with
+  one of the inkb lotstyle classes below. Essentially:
+  <img url='{url}' class='inkblot inkblot-blue' />
+  */
+  .inkblot {
+    position: absolute;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+
+  .inkblot-blue {
+    filter: hue-rotate(190deg) saturate(120%)
+  }
+
+  .inkblot-green {
+    filter: hue-rotate(120deg)
+  }
+
+</style>
+
+<style>
+/* Background */
+  .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
+  .phb{ background-size: cover }
+
+/* Notes */
+  .phb section blockquote {background-color: #f6e5d4}
+  .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
+
+/* Tables */
+  table tr:nth-child(odd) td {background-color: #cccccc}
+
+/* Footer */
+  .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
+  .phb .footnote {color: rgba(0, 0, 0, 0.5)}
+  .phb:nth-child(odd):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : 10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
+    background-size  : cover;
+}
+
+.phb:nth-child(even):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : -10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
+    background-size  : cover;
+}
+
+/* Page Number */
+.phb .pageNumber{
+    position   : absolute;
+    bottom     : 30px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber{
+    right      : 12px;
+}
+
+.phb .pageNumber.auto{
+    position   : absolute;
+    bottom     : 41px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber.auto{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber.auto{
+    right      : 12px;
+}
+
+</style>
+
+<div style='margin-top:320px'></div>
+
+## Hunter
+*The way of the hunter is one of mastery over the beasts of the world, an unparalleled precision in marksmanship, and the knowledge of how to survive in situations where others would perish.*
+
+<div style="text-align:Right"> 
+
+*— Ranger Sallina* &nbsp;</div>
+
+Wild and barbaric looking, a human stalks alone through the shadows of trees, hunting the orcs he knows are planning a raid on a nearby farm. Clutching a spear in his hands, he charges in with intense fury, a large bear running at his side, roaring as he engages, cutting down one enemy after another.
+
+Tumbling away from a cone of freezing air, a night elf finds her feet and draws back her bow to loose an arrow at the blue dragon. Shrugging off the wave of fear that emanates from the dragon like the cold of its breath, she sends one arrow after another to find the gaps between the dragon's thick scales.
+
+Holding his hand high, a blood elf whistles to the hawk that circles high above him, calling the bird back to his side. Whispering instructions in Thalassian, he points to the owlbear he's been tracking and sends the hawk to distract the creature while he readies his bow.
+
+### Inescapable Stalkers
+From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. As masters of their environment, hunters are able to slip like ghosts through the trees and lay traps in the paths of their enemies. These expert marksman drop foes dead in their tracks with flawless shots from a bow, crossbow or rifle. With the ability to wield two weapons simultaneously, hunters can unleash a flurry of blows against anyone unfortunate enough to stumble into close combat with them.
+
+The art of survival is central to the isolated life of a hunter. Hunters track beasts with ease and enhance their own abilities by attuning themselves to the feral aspects of various creatures. Hunters are known for the lifelong bonds they form with animals of the wild, training great hawks, cats, bears, and many other beasts to fight alongside them.
+
+\columnbreak
+
+<div style='margin-top:404px;'></div>
+
+### Proud Rangers
+The hunter is a stalker in the wilds, living on his knowledge of survival and skill with a bow or rifle. He is deeply in tune with nature, and some of its mightiest beasts are his allies. 
+
+Of Azeroth's many creatures, few can resist the hunter's call, and fewer can survive his fury. Hunters are as varied as the world's many climates, but they are universally renowned for their amazing abilities to find their prey and bring it down. Most hunters seek to aid the balance of nature along with their druidic allies. Elven rangers are not alone in their mastery of the wilderness. While an elven ranger prefers the bow, the hunter would rather get up close. A hunter is skilled in stealth, slipping through the woods like a ghost. 
+
+### The Hunter's Choice
+Hunter is the choice of life for those who reject societies that oppress the natural role of prey and predator, and also reject the druidic stance that we should observe rather than actively participants in the "Great Hunt". 
+
+They follow a life of reverence for nature complimenting their tradition and willingness to use man-made tools. We are all tool-using creatures after all, and it is only natural to use that advantage afforded by nature to be better hunters. There are however also those hunters who prefer a more direct approach to tracking and hunting.
+
+### Creating a Hunter
+As you create your hunter character, consider the nature of the training that gave you your particular capabilities. Did you train with a single mentor, wandering the wilds together until you mastered the hunter's ways? Did you leave your apprenticeship. or was your mentor slain, perhaps you learned your skills as part of a band of hunters affiliated with a druidic circle, trained in mystic paths as well as wilderness lore. You might be self-taught, a recluse who learned combat skills, tracking, and even a magical connection to nature through the necessity of surviving in the wilds.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/lz4eVfw.jpg' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/pbSeYXZ.png' style='position:absolute; top:-250px; right:0px; width:1100px' />
+<img src='https://www.gmbinder.com/images/jgUXBQo.png' style='position:absolute; top:50px; right:-75px; width:500px' />
+
+\pagebreakNum
+
+<div class='classTable wide'>
+
+##### The Hunter
+| Level | Proficiency<br>Bonus | Hunter's<br>Mark | Focus<br>Dice | Features |
+|:---:|:--:|:----:|:-:|:-------------------------------------------------------|
+| 1st | +2 |  1d4 | — | Hunter's Mark, Natural Explorer                        |
+| 2nd | +2 |  1d4 | 2 | Fighting Style, Focus, Animal Empathy                  |
+| 3rd | +2 |  1d4 | 3 | Hunter Archetype, Tame Beast                           |
+| 4th | +2 |  1d4 | 3 | Ability Score Improvement                              |
+| 5th | +3 |  1d4 | 4 | Hunter Archetype feature                               |
+| 6th | +3 |  1d6 | 4 | —                                                      |
+| 7th | +3 |  1d6 | 5 | Hunter Archetype feature                               |
+| 8th | +3 |  1d6 | 5 | Ability Score Improvement, Fleet of Foot               |
+| 9th | +4 |  1d6 | 6 | —                                                      |
+| 10th| +4 |  1d6 | 6 | Predator's Knowledge                                   |
+| 11th| +4 |  1d8 | 7 | Hunter Archetype feature                               |
+| 12th| +4 |  1d8 | 7 | Ability Score Improvement                              |
+| 13th| +5 |  1d8 | 8 | —                                                      |
+| 14th| +5 |  1d8 | 8 | Stalker                                                |
+| 15th| +5 |  1d8 | 8 | Hunter Archetype feature                               |
+| 16th| +5 | 1d10 | 9 | Ability Score Improvement                              |
+| 17th| +6 | 1d10 | 9 | —                                                      |
+| 18th| +6 | 1d10 | 9 | Honed Senses                                           |
+| 19th| +6 | 1d10 | 10 | Ability Score Improvement                             |
+| 20th| +6 | 1d10 | 10 | Aspect of the Wild                                    |
+</div>
+
+&nbsp;&nbsp;&nbsp; Is your adventuring career a continuation of your work in protecting the borderlands, or a significant change? What made you join up with a band of adventurers? Do you find it challenging to teach new allies the ways of the wild, or do you welcome the relief from solitude that they offer?
+
+#### Quick Build
+You can make a hunter quickly by following these sugges-tions. First, make Dexterity your highest ability score, followed by Wisdom. (Some hunters who focus on melee fighting make Strength higher than Dexterity.)
+
+#### Optional Rule: Multiclassing
+If your group uses the optional rule on multiclassing in the *Player's Handbook*, here's what you need to know if you choose hunter as one of your classes.
+
+***Ability Score Minimum.*** As a multiclass character, you must have at least a Strength or Dexterity score of 13 to take a level in this class, or to take a level in another class if you are already a hunter.
+
+***Proficiencies Gained.*** If hunter isn't your initial class, here are the proficiencies you gain when you take your first level as a hunter: light armor, medium armor, simple and martial weapons, one skill from the class's skill list.
+
+\columnbreak
+
+## Class Features
+As a hunter, you gain the following class features.
+<div style='margin-top:-2px;'></div>
+
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per hunter level
+- **Hit Points at 1st Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per hunter level after 1st
+<div style='margin-top:-2px;'></div>
+
+#### Proficiencies
+___
+- **Armor:** Light armor, medium armor
+- **Weapons:** Simple weapons, martial weapons, firearms
+- **Tools:** Gunsmith's tools
+___
+- **Saving Throws:** Strength, Dexterity
+- **Skills:** Choose three from Animal Handling, Insight, Investigation, Nature, Perception, Stealth, and Survival
+<div style='margin-top:-2px;'></div>
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+ - *(a)* scale mail or *(b)* leather armor
+ - *(a)* two shortswords or *(b)* one melee martial weapon
+ - *(a)* a dungeoneer's pack or *(b)* an explorer's pack
+ - *(a)* a light crossbow and 20 bolts, *(b)* a longbow and a quiver of 20 arrows, or *(c)* a musket and 20 pieces of ammunition
+ - Gunsmith's tools and a hunting trap
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+### Hunter's Mark
+Beginning at 1st level, you are able to mark a target as your quarry. As a bonus action, choose a creature within 120 feet of you that you can see. The target is marked for 1 hour, until you use this feature again, or until it dies. The mark also ends if you fall unconscious. 
+
+Once per turn, you can deal an extra 1d4 damage to that creature when you hit it with a weapon attack. The amount of extra damage increases as you gain levels in this class, as shown in the Hunter's Mark column of the Hunter table.
+
+In addition, you have advantage on Wisdom (Perception), and Wisdom (Survival) checks you make to find your mark.
+
+### Natural Explorer
+At 1st level, you are adept at navigating the natural world, and react with swift and decisive actions when attacked. You gain the following benefits:
+ - You add your Wisdom modifier to your initiative rolls.
+ - On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.
+
+In addition, you are skilled at traversing the wilderness, and gain the following benefits when you travel for an hour or more.
+ - You have advantage on checks against becoming lost.
+ - You have advantage on any Wisdom (Survival) checks you make to forage food.
+ - Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+ - If you are traveling alone or only with your beast companion, you can move stealthily at a normal pace.
+ - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+
+### Fighting Style
+At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
+
+#### Archery
+You gain a +2 bonus to attack rolls you make with ranged weapons.
+
+#### Close Quarters Shooter 
+When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. Finally, you have a +1 bonus to attack rolls on ranged attacks.
+
+#### Two-Weapon Fighting
+When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+#### Great Weapon Fighting
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to use this benefit.
+
+\columnbreak
+
+### Focus
+Starting at 2nd level, your focus as a hunter sets you apart from simple trackers and scouts, giving you access to a pool of focus dice, which are d8s. Your hunter level deter&shy;mines the number of dice you have, as shown in the Focus Dice column of the Hunter table.
+
+You can use these dice to gain a number of different benefits. You know three such benefits: Call of the Wilds, Precision Attack, and Survival Tactics. A focus die is expended when you use it. You regain all expended focus dice when you finish a short or long rest.
+
+#### Call of the Wilds
+When you make a check that allows you to apply your proficiency in Nature, Perception, or Survival, you can expend one focus die to bolster the check. Add half the number rolled on the focus die (rounded up) to your check. You apply this bonus after making the check, but before learning if it was successful.
+
+#### Precision Attack
+When you make a weapon attack against a creature, you can expend a focus die to add it to the attack roll. You can use this ability before or after making the attack roll, but before any of the effects of the attack are applied.
+
+#### Survival Tactics
+If you are hit by an attack while wearing light or medium armor, you can expend one focus die as a reaction and add the number rolled to your AC. If the attack still hits, you take half damage from it.
+
+### Animal Empathy
+Also at 2nd level, your mastery of hunter lore allows you to establish a powerful link to beasts and the land around you.
+
+You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it not to attack.
+
+You cannot use this ability against a creature that you have attacked within the past 24 hours.
+
+### Hunter Archetype
+At 3rd level, you choose to stake your path by the ideals of a hunter archetype: Beast Master, Marksmanship or Survival, each detailed at the end of the class description. 
+
+Your choice grants you features at 3rd level and again at 5th, 7th, 11th, and 15th level.
+
+### Tame Beast
+Beginning at 3rd level, you show a strengthened connection to the wilds and are able to create a powerful bond with a creature of the natural world.
+
+You may attempt to tame a beast within 60 feet of you that can see and hear you, the beast can be no larger than Medium with a challenge rating of 1/2 or lower. Taming a beast requires the expenditure of 50 gp worth of rare herbs and fine food and is a process that often takes many hours of work, or days (DM's discretion).
+
+Once you tame a beast, it gains all the benefits of your Companion's Bond ability. You can only have one beast tamed at your side at a time.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+#### Companion's Bond
+Your loyal companion gains a variety of benefits.
+
+- The beast loses its Multiattack action, if it has one. 
+- Your companion obeys your commands as best it can. <br> It shares your initiative count, but it takes its turn imme&shy;diately after yours. It can move and use its reaction on its own, but the only action it takes is the Dodge action, unless you use your bonus action to command it to take the Attack, Dash, Disengage, or Help action. If you are incapacitated or absent, your beast acts on its own.
+- Your beast companion has abilities and statistics determined in part by your level. Using your proficiency bonus rather than its own. In addition to the areas where it normally uses its proficiency bonus, your companion also adds its proficiency bonus to its AC and to its damage rolls.
+- Your beast gains proficiency in two skills of your choice. It also becomes proficient in all saving throws.
+- For each character level you gain after 3rd, your beast companion gains an additional hit die and increases its hit points accordingly.
+- Whenever you gain an *Ability Score Improvement* class feature, your companion's abilities also improve. Your companion can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your companion can't increase an ability score above 20 using this feature.
+- Your companions alignment changes to sharing yours.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Fleet of Foot
+Starting at 8th level, you can take the Dash action as a bonus action on your turn.
+
+In addition, you are able to pass through nonmagical plants without being slowed by them or taking damage from them if they have thorns, spines, or similar hazards.
+
+### Predator's Knowledge
+At 10th level, you can glean intimate knowledge about the capabilities of your marked target. You can use your action to learn two of the following characteristics of your choice about the target of your hunter's mark if it's within 120 feet. 
+ - Creature Type
+ - Armor Class
+ - Speed
+ - Damage Vulnerabilities
+ - Damage Resistances
+ - Damage Immunities
+ - Senses
+
+Once you have gleaned the capabilities of a creature, you cannot use Predator’s Knowledge to learn more about the creature, or another creature like it, for the next 24 hours.
+
+### Stalker
+Beginning at 14th level, you can use the Hide action as a bonus action on your turn. In addition, you can't be tracked by nonmagical means, unless you choose to leave a trail.
+
+\columnbreak
+
+### Honed Senses
+Starting at 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. 
+
+You are also aware of the location of any invisible crea&shy;tures within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
+
+### Aspect of the Wild
+At 20th level, you become an unparalleled hunter. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+
+## Hunter Archetypes
+All hunters have certain things in common, such as their love for the wilderness, or their passion for beasts. But some hunters have more than love for beasts, and others a greater love for the wild, hunters fall into three categories: Beast Master, Marksman, and Survival.
+
+### Beast Master
+Among the gifted hunters, there are those who are drawn to the beasts of the wild and seek to bond with such crea&shy;tures. Beastmasters are often drawn towards the primal world, invigorated by its dangerous and untamed nature. The primitive world becomes their home and its ferocious predators becomes kin.
+
+#### Dire Tamer
+Beginning when you choose this archetype at 3rd level, you show a keen mind when dealing with beasts and are able to tame beasts that are Large or smaller with a challenge rating of 1 or lower.
+
+#### Aspect of the Beast
+Also at 3rd level, you gain the ability to cast the *beast sense* spell, but only as a ritual and only on your beast companion.
+
+#### Kill Command
+At 5th level, you and your beast companion form a more potent fighting team. You can use your bonus action and expend a focus die to issue a kill command to your beast companion. The beast takes the Attack action, making all attacks with advantage. You add the focus die to the damage roll of the first attack that hits.
+
+#### Evasive Maneuver
+Beginning at 7th level, when you or your beast <br> companion are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to allow the both of you to avoid the brunt of the effect.
+
+You take no damage if you succeed the saving throw, and only half damage if you fail. Your beast companion must be able to hear you and you must be able to see it in order for it to benefit from your Evasive Maneuver feature.
+
+#### Bestial Wrath
+Starting at 11th level, your companion can attack twice, instead of once -- or use its Multiattack, whenever you use your bonus action to command it to take the Attack action.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+#### Kindred Spirit
+At 15th level, your companion's call can keep you fighting and overcome grievous wounds. When you take damage that reduces you to 0 hit points but not killed outright, your beast companion can use its reaction to call out to you. <br> If you can see or hear its call, you immediately regain hit points equal to your hunter level and remain conscious.
+
+Once you (and your companion) uses this feature, you can't use it again until you finish a long rest.
+
+### Marksmanship
+Marksmanship favor the use of weapons that are at their deadliest at great range. Many marksmanship hunters neglect the company of a beast, instead focusing solely on their own prowess. They shroud themselves from their target and deliver their shots to unaware quarries.
+
+#### Arcane Shot
+Beginning when you choose this archetype at 3rd level, you can evoke arcane energy in your attacks. When you take the Attack action, you may choose to deliver your ranged weapon attacks against your marked creature as Arcane Shots. Until the end of your turn, your ranged attacks against your marked target gains the following benefits:
+
+ - Your attacks ignores half and three-quarters cover.
+ - On each hit, the weapon deals additional force damage to the target equal to 2 + half your hunter level.
+
+You can use this feature a number of times equal to your Wisdom modifier. You regain all spent uses after finishing a short or long rest.
+
+#### Lone Wolf: Aimed Attack
+Also at 3rd level, you can choose to not tame a beast and instead focus on your own prowess. When you do not have the loyalty of a beast companion, you can use your bonus action to give your next weapon attack advantage. 
+
+#### Concussive Shot
+Starting at 5th level, when you hit a target with an attack that would cause it to make a Constitution saving throw to maintain concentration, you can expend a focus die and add it to the  difficulty class. You must do so before the target makes the save.
+
+#### Lone Wolf: Extra Attack
+Also at 5th level, when you do not have the loyalty of a beast companion you gain the Extra Attack feature, and can attack twice, instead of once, whenever you take the attack action on your turn.
+
+#### Aspect of the Eagle
+Beginning at 7th level, you can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you.
+
+In addition, attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+
+#### Multiattack
+Upon reaching 11th level, you gain one of the following features of your choice.
+
+***Chimaera Shot.*** Once on each of your turns, when you make a ranged weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon. If used with your Lone Wolf feature, both attacks have advantage.
+
+\columnbreak
+
+&nbsp;&nbsp;&nbsp; ***Piercing Shot.*** Once on each of your turns, when you make a ranged weapon attack against a creature, you can make the attack pierce through multiple creatures. Make an attack roll with disadvantage against each creature in a line directly behind the original target, until you miss, hit an object, or reach the normal range of your weapon, which&shy;ever comes first.
+
+The piercing attacks do not benefit from effects that give you advantage, or cancel disadvantage. However, if used with your Lone Wolf: Aimed Attack feature, the attacks are no longer made with disadvantage.
+
+#### Marksman's Focus
+At 15th level, when you roll for initiative and have no uses of arcane shot remaining, you regain one use.
+
+### Survival
+For some hunters, the calling of the wilds is all they care about. To live and breathe among its flora and fauna and become a reflection of its harsh environment. These keen hunters favor their wits and knowledge of the land over the raw strength of their companion or their aim at a distance.
+
+#### Adapt Trapper
+Beginning when you choose this archetype at 3rd level, you learn to place and infuse traps with the vigor of nature.
+
+***Traps Known.*** You learn two traps of your choice, which are detailed under "traps".
+
+You learn an additional trap of your choice at 7th, 11th, and 15th level. Each time you learn new traps, you can also replace one trap you know with a different one.
+
+***Placing a Trap.*** You can use your action and expend a use of this feature to place a trap in an empty space within 30 feet of you. A trap lasts for 1 hour, until it is activated, or until you retrieve it.
+
+A creature approaching your trap must succeed on a Wisdom (Perception) or Intelligence (Investigation) check against your trap save DC to notice it. A creature automati&shy;cally succeeds the check if it saw you place the trap.
+
+You can place two traps between rests. You regain all expended trap uses when you finish a short or long rest. <br> At 11th level, you can place thre traps between rests.
+
+***Activating a Trap.*** A trap has a range of 5 feet. When a creature other than you or your beast companion enters the trap's range or starts its turn there, the trap is activated and destroyed.
+
+***Deactivating a Trap.*** You can retrieve a placed trap that has not been activated by using an action while within 5 feet of it, regaining one expended use of this feature.
+
+***Saving Throws.*** Your traps require your target to make a saving throw to resist its effect. The saving throw DC is calculated as follows:
+
+<div style="text-align: Center">
+
+**Trap save DC** = 8 + your proficiency bonus + <br> your Wisdom modifier
+</div>
+
+#### Student of the Wilds
+At 3rd level, you gain proficiency in survival if you don't already have it and your proficiency bonus doubles for any ability check you make with it.
+
+#### Lone Wolf: Born to be Wild
+Also at 3rd level, you can choose to not tame a beast and instead focus on your own prowess. When you do not have the loyalty of a beast companion, your weapon attacks score a critical hit on a roll of 19 or 20. You can also take the Disengage actions as a bonus action.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+#### Wing Clip
+Starting at 5th level, when you hit a target with a weapon attack, you can expend a focus die to attempt to hamper it. The target must succeed on a Strength (Athletics) check (DC equals your Trap save DC + your focus die), or have its speed reduced to 0 until the start of your next turn.
+
+#### Lone Wolf: Extra Attack
+Also at 5th level, when you do not have the loyalty of a beast companion you gain the Extra Attack feature, and can attack twice, instead of once, whenever you take the attack action on your turn.
+
+#### Natural Camouflage
+Beginning at 7th level, you gain the ability to cast the *pass without trace* spell without providing material components, but only as a ritual. You must have access to fresh mud, dirt, plants, soot, or other natural occurring materials for you to be able to do so.
+
+#### Marked Counter
+Upon reaching 11th level, if your marked target forces you to make a saving throw, you can use your reaction to make a weapon attack against the quarry. You make this attack before making the saving throw. If your attack hits, you gain advantage on your saving throw, in addition to the attack's normal effects.
+
+#### Terms of Engagement
+At 15th level, you show unparalleled control over your traps and utilize the openings they create.
+
+You gain the following benefits:
+- You have advantage on weapon attacks against any creature who was hit by one of your traps since the end of your last turn.
+- Your traps no longer activates when a creature moves within range, instead you can choose as a free action to activate a trap, even if there is no creature nearby.
+
+\columnbreak
+
+#### Traps
+The traps are presented in alphabetical order.
+
+***Bear Trap.*** When the trap is activated, each creature within range must succeed on a Dexterity saving throw or be knocked prone in their space. Any creature knocked prone by this trap has their movement speed reduced to 0 until the start of their next turn.
+
+***Blinding Trap.*** When the trap is activated, each creature within range must make a Constitution saving throw. On a failed save, a target is blinded until the start of its next turn.
+
+Any invisible creature who fails this saving throw glitter with dim light, making them visible for the duration.
+
+***Ensnaring Trap.*** When the trap is activated, each creature within range must succeed on a Strength saving throw or be restrained for 1 minute. A creature restrained by this trap can use its action to make a Strength check against your Trap save DC. On a success, it frees itself.
+
+***Explosive Trap.*** When the trap is activated, each creature within range must make a Dexterity saving throw, taking fire damage equal to twice your hunter level on a failed save, or half as much damage on a success.
+
+***Freezing Trap.*** When the trap is activated, the creature who activated it must make a Dexterity saving throw, or be restrained for 1 minute. While a creature restrained by this trap the creature has total cover and can't take any actions other than attempt to break free by making a Strength check against your Trap save DC. On a success, it breaks the ice and frees itself. This trap has no effect on Huge or larger creatures.
+
+The creature is encased in ice, the ice has an AC of 10 and hit points equal to four times your hunter level.
+
+***Ice Trap.*** When the trap is activated, ice expands from the trap in a 20-feet-radius around it and making the area difficult terrain. A creature that starts its turn, or moves across the area for the first time on its turn must make a Dexterity saving throw or fall prone.
+
+***Immolation Trap.*** When the trap is activated, each creature within range must make a Dexterity saving throw, taking fire damage equal to your hunter level on a failed save, or half as much on a successful one. On a failed save, the creature takes damage equal to half your hunter level (rounded up) at the start of each of its turns until the flames are doused as an action.
+
+***Venom Trap.*** When the trap is activated, each creature within range takes 1 piercing damage and must succeed on a Constitution saving throw. On a failed save, a creature is poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns. On a success, the poisoned condition fades.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/zivJGbT.jpg' style='position:absolute; top:700px; right:0px; width:800px;' />
+<img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute; top:-50px; right:0px; width:1000px' />
+
+\pagebreakNum
+
+<div class='classTable wide'>
+
+##### Firearms
+|&nbsp; Name | Cost |&nbsp;| Damage | Weight |&nbsp;| Properties                             |
+|:---------------------------------|------:|-|:--------------|----:|-|:----------------------|
+|&nbsp; *Handguns*                 |        ||               |      ||                       |
+|&nbsp;&nbsp;&nbsp; Dragon         |  50 gp || 1d10 piercing | 2 lb.|| Ammunition (range 20/30 ), scattershot (1d6) |
+|&nbsp;&nbsp;&nbsp; Pepperbox      | 125 gp ||  1d8 piercing | 3 lb.|| Ammunition (range 20/80), light, multi-barrel (3) |
+|&nbsp;&nbsp;&nbsp; Pistol         |  75 gp ||  1d8 piercing | 2 lb.|| Ammunition (range 30/120), light |
+|&nbsp;&nbsp;&nbsp; Pistol, silent |  90 gp ||  1d8 piercing | 2 lb.|| Ammunition (range 20/80), light, suppressor |
+|&nbsp; *Long Guns*                |        ||               |      ||                       |
+|&nbsp;&nbsp;&nbsp; Blunderbuss    |  75 gp ||  3d4 piercing | 5 lb.|| Ammunition (range 30/45), two-handed, scattershot (1d8) |
+|&nbsp;&nbsp;&nbsp; Musket         | 100 gp || 1d12 piercing | 6 lb.|| Ammunition (range 60/240), two-handed |
+|&nbsp;&nbsp;&nbsp; Musket, double | 150 gp || 1d12 piercing | 7 lb.|| Ammunition (range 60/240), two-handed, multi-barrel (2) |
+|&nbsp; *Ammunition*               |        ||               |      ||                       |
+|&nbsp;&nbsp;&nbsp; Bullets (20)   |  2 gp ||              — | 2 lb.|| — |
+|&nbsp;&nbsp;&nbsp; Pellet Shells (10) | 2 gp ||           — | 3 lb.|| — |
+</div>
+
+## Firearms
+For tinkers the invention of the crossbow was not enough. They strived to further improve the ability to shoot from a distance without the aid of magic. With the invention of black powder, the dwarves of Ironforge were quick to act in experimenting with its uses, crafting the first firearms from which the weapon has evolved around.
+
+### Firearm Proficiency
+Your race, class, and feats can grant you proficiency with certain firearms, or firearms as a whole.
+
+Proficiency with a firearm allows you to add your proficiency bonus to the attack roll for any attack you make with them. If you make an attack roll using a firearm with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
+
+A firearm is considered a ranged weapon, and therefore, uses your Dexterity modifier for the attack and damage rolls you make with it.
+
+#### Reloading
+Firearms are muzzle-loaded and each barrel of a firearm can only be fired once per turn, regardless of the number of attacks you can normally make. A firearm can actively be reloaded on your turn by using an action or bonus action.
+
+#### Booming Sound
+Firearms make loud noises, a flash of light and a faint smell of burnt explosives when used. A shot can be heard as far as 200 feet away from the shooter.
+
+\columnbreak
+
+#### Gunsmith's Tools
+A gunsmuth's tools enables a character to craft, modify and maintain firearms, as well as craft ammunition. It weights 10 lb. and costs 50 gp.
+
+***Crafting Firearms.*** If you are proficient with gunsmith's tools, you can create any firearm of your choice over the course of one workweek (5 days of 8 hours of work) spend&shy;ing gold equal to half the firearms cost in resources.
+
+***Crafting Ammunition.*** If you are proficient with gun&shy;smith's tools, as part of a long rest, you can create batches of ammunition of 6 + double your proficiency bonus. Each batch requires 1 gp worth of material cost.
+
+Some weapons are capable of firing *pellet shells*, special ammunition designed to spread into a volley of shots. You can create batches of pellet shells of 3 + your proficiency bonus. Each batch requires 1 gp worth of materials.
+
+#### Firearm Properties
+Firearms have special properties related to their use that are unique to them, as shown in the Weapons table.
+
+***Ammunition.*** Firearms use precisely crafted bullets as ammunition. each time you attack with a firearm, you expend one bullet. There is no means of recovering bullets once they have been fired.
+
+***Multi-barrels.*** You can attack with the weapon multiple times before reloading. The number of barrels the weapon has is indicated in parenthesis.
+
+***Scattershot.*** This weapon can fire special *pellet shells* that spread into a volley of shots rather than a single one, making it easier to hit far away targets with at least one pellet. Targets within the first half of your short range take one extra damage dice and you have advantage on attack rolls made against targets beyond that, up to the weapons long range—which doesn't incur you disadvan&shy;tage. When shooting a scattershot, it deals the damage dice indicated in parenthesis, rather than its normal damage.
+
+***Suppressor.*** The weapon makes no sound and light when used, and thus, ignores the booming sound rules.
+
+<div class='footnote'>PART 1 | NEW EQUIPMENT</div>
