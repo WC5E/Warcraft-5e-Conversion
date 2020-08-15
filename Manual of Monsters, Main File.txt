@@ -5367,7 +5367,7 @@ ___
 >*Medium humanoid (naga), unaligned*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 13 (2d8 + 4)
+> - **Hit Points** 26 (4d8 + 8)
 > - **Speed** 20 ft., swim 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -5388,7 +5388,7 @@ ___
 >
 > ***Trident.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 10 ft. or range 20/60 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 >
-> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and target is grappled (escape DC 12). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.
+> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and target is grappled (escape DC 12). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;26;4;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -5411,7 +5411,7 @@ is Intelligence (spell save DC 12). It can innately cast the
 following spells, requiring no material components:
 >
 > <br> At will: *blade ward, ray of frost*
-> <br> 1/day each:  *armor of agathys, ice knife*
+> <br> 1/day each:  *armor of agathys, ice knife*<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;26;4;12;19;0;6;0;6;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 
 ___
 > ## Naga Myrmidon
@@ -5441,7 +5441,7 @@ ___
 >
 > ***Halberd.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:* 8 (1d10 + 3) slashing damage.
 >
-> ***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 7 (1d8 + 3) bludgeoning damage, and target is grappled (escape DC 13). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.
+> ***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 7 (1d8 + 3) bludgeoning damage, and target is grappled (escape DC 13). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.<!-- https://wc5e-cr-calculator.frogvall.com/?0;15;52;5;12;16;0;0;0;0;0;0;0;0;0;0;0;;;;;3;1;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">N</div>
 <div class='footnote'>NAGA </div>
@@ -5455,7 +5455,7 @@ ___
 >*Medium humanoid (naga), unaligned*
 > ___
 > - **Armor Class** 13 (16 with *mage armor*)
-> - **Hit Points** 65 (10d8 + 20)
+> - **Hit Points** 91 (14d8 + 28)
 > - **Speed** 20 ft., swim 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -5473,10 +5473,10 @@ ___
 >
 > ***Spellcasting.*** The naga is an 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The naga has the following mage and shaman spells prepared:
 >
-> Cantrips (at will) :  *shape water, flurry, lightning blast*
+> Cantrips (at will) :  *shape water, ✦ flurry, ✦ lightning blast*
 > <br> 1st level (4 slots): *cure wounds, ice knife, <br>&nbsp;&nbsp;&nbsp; mage armor, thunderwave*
 > <br> 2nd level (3 slots): *darkness, hold person, <br>&nbsp;&nbsp;&nbsp; warding wind*
-> <br> 3rd level (3 slots): *blizzard, dampen magic, tidal wave*
+> <br> 3rd level (3 slots): *✦ blizzard, protection from energy, tidal wave*
 > <br> 4th level (1 slot):  *control water*
 >
 > ### Actions
@@ -5484,7 +5484,7 @@ ___
 >
 > ***Scimitar.*** *Melee Weapon Attack:* +4 to hit, reach 5ft, one creature. *Hit:* 11 (2d8 + 2)
 >
-> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and target is grappled (escape DC 12). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.
+> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and target is grappled (escape DC 12). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;91;5;13;44;0;36;0;36;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
