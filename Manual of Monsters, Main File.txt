@@ -6645,7 +6645,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The knight makes two greatsword attacks.
 >
-> ***Great.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage.
+> ***Great sword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 >
 > ### Reactions
 > ***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
