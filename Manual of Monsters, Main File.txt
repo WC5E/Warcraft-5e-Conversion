@@ -4909,7 +4909,7 @@ ___
 > ### Actions
 > ***Beak.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
 >
-> ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
+> ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;11;9;3;12;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -4974,7 +4974,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|6 (-2)|10 (+0)|10 (+0)|3 (-4)|11 (+0)|1 (-5)|
+>|8 (-1)|10 (+0)|10 (+0)|3 (-4)|11 (+0)|1 (-5)|
 >___
 > - **Skills** Perception +4
 > - **Damage Resistances** poison
@@ -4988,7 +4988,7 @@ ___
 > ***Immutable Form.*** The alarm-o-bot is immune to any spell or effect that would alter its form.
 >
 > ### Actions
-> ***Fist.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 - 1) bludgeoning damage.
+> ***Fist.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 0 (1d4 - 1) bludgeoning damage.
 
 \columnbreak
 
@@ -4996,7 +4996,7 @@ ___
 A mechanical design adopted by both goblins and gnomes, crowd pummelers take the form of a tall, bipedal construct loaded with weapons. Its name is not coincidental, as it is often used as a cheap throw-away sentry; programmable with a set of laws and regulations, alongside a chief directive to pummel any perpetrators.
 
 ### Mechano-Tank
-The Mechano-tank, or spider tank, is a gnomish construct best known for its armoured chassis and spider-like design. Built for close quarters, the tanks are reinforced to withstand the elements and fined-tuned for maximum destruction. Their legs are able to contract and release, allowing the tank to launch forward into combat.
+The Mechano-tank, or spider tank, is a gnomish construct best known for its armoured chassis and spider-like design. Built for close quarters, the tanks are reinforced to withstand the elements and fined-tuned for maximum destruction. Their legs are able to contract and release, allowing the tank to launch forward into combat.<!-- https://wc5e-cr-calculator.frogvall.com/?0;10;7;1;1;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div style='margin-top:245px;'></div>
 
@@ -5023,7 +5023,7 @@ ___
 > ***Immutable Form.*** The bombling is immune to any spell or effect that would alter its form.
 >
 > ### Actions
-> ***Self-destruct.*** The bombling immediately detonates, killing itself in the process.
+> ***Self-destruct.*** The bombling immediately detonates, killing itself in the process.<!-- https://wc5e-cr-calculator.frogvall.com/?0;10;7;0;10;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MECHANICALS </div>
@@ -5060,9 +5060,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The pummeler makes two claw attacks.
 >
-> ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 >
-> ***Crowd Pummel (Recharge 6).*** The pummeler slams its claws into the ground. Each creature within 5 feet of it must make a DC 12 Dexterity saving throw, taking 9 (2d8) bludgeoning damage on a failed save, or half as much damage on a successful one. On a failed saving throw, the target is knocked prone.
+> ***Crowd Pummel (Recharge 6).*** The pummeler slams its claws into the ground. Each creature within 5 feet of it must make a DC 12 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failed save, or half as much damage on a successful one. On a failed saving throw, the target is knocked prone.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;32;6;12;26;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div style='margin-top:20px;'></div>
 
@@ -5072,7 +5072,7 @@ ___
 >
 > &nbsp;&nbsp;&nbsp; ***Multiattack.*** The nullifier makes two claw attacks.
 >
-> ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 >
 > ***Slow (Recharge 5-6).*** The nullifier targets one creature it can see within 10 feet of it. The creature must make a DC 13 Wisdom saving throw against this magic. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can take either an action or a bonus action on its turn, not both. The effect lasts for 1 minute. The creature can repeat the saving throw at the end of each of its turns.
 >
@@ -5082,7 +5082,7 @@ ___
 > The nullifier also gains the following reaction.
 > <div style='margin-top:5px;'></div>
 >
-> &nbsp;&nbsp;&nbsp; ***Reflection Field.*** When a creature hits the nullifier with a ranged spell attack, the nullifier can reflect the spell onto a target within 15 feet of it.
+> &nbsp;&nbsp;&nbsp; ***Reflection Field.*** When a creature hits the nullifier with a ranged spell attack, the nullifier can reflect the spell onto a target within 15 feet of it.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;32;6;12;26;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;1;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -5149,7 +5149,7 @@ ___
 > |:------------------|:--------------:|-|:----------------------------|
 > |&nbsp; Firewalker  | Fire           || 15 ft. cone (Dex. save)      |
 > |&nbsp; Frostwalker | Cold           || 15 ft. cone (Con. save)      |
-> |&nbsp; Shockwalker | Lightning      || 5 by 30 ft. line (Dex. save) |
+> |&nbsp; Shockwalker | Lightning      || 5 by 30 ft. line (Dex. save) |<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;95;5;14;22;20;36;0;22;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -5221,7 +5221,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
 >
-> ***Spear.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+> ***Spear.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;4;3;12;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MURLOCS </div>
@@ -5261,7 +5261,7 @@ ___
 >
 > ***Spear.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 >
-> ***Net.*** *Ranged Weapon Attack.* +3 to hit, range 5/15 ft., one Large or smaller creature. *Hit:* The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net.
+> ***Net.*** *Ranged Weapon Attack.* +3 to hit, range 5/15 ft., one Large or smaller creature. *Hit:* The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net.<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;11;3;12;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -5290,15 +5290,15 @@ ___
 >
 > ***Slippery.*** The murloc has advantage on ability checks and saving throws made to escape grapple.
 >
-> ***Innate Spellcasting.*** The murloc's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components.
+> ***Innate Spellcasting.*** The murloc's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 >
-> Cantrips (at will): *mending, shape water, toll the dead*
-> <br> 1st-level (3 slots): *fog cloud, sleep, thunderwave*
+> At will: *mending, shape water, toll the dead*
+> <br> 3/day each: *fog cloud, sleep, thunderwave*
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 >
-> ***Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+> ***Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;22;3;12;18;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MURLOCS </div>
@@ -5367,7 +5367,7 @@ ___
 >*Medium humanoid (naga), unaligned*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 13 (2d8 + 4)
+> - **Hit Points** 26 (4d8 + 8)
 > - **Speed** 20 ft., swim 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -5388,7 +5388,7 @@ ___
 >
 > ***Trident.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 10 ft. or range 20/60 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 >
-> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and target is grappled (escape DC 12). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.
+> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and target is grappled (escape DC 12). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;26;4;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -5411,7 +5411,7 @@ is Intelligence (spell save DC 12). It can innately cast the
 following spells, requiring no material components:
 >
 > <br> At will: *blade ward, ray of frost*
-> <br> 1/day each:  *armor of agathys, ice knife*
+> <br> 1/day each:  *armor of agathys, ice knife*<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;26;4;12;19;0;6;0;6;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 
 ___
 > ## Naga Myrmidon
@@ -5441,7 +5441,7 @@ ___
 >
 > ***Halberd.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:* 8 (1d10 + 3) slashing damage.
 >
-> ***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 7 (1d8 + 3) bludgeoning damage, and target is grappled (escape DC 13). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.
+> ***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 7 (1d8 + 3) bludgeoning damage, and target is grappled (escape DC 13). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.<!-- https://wc5e-cr-calculator.frogvall.com/?0;15;52;5;12;16;0;0;0;0;0;0;0;0;0;0;0;;;;;3;1;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">N</div>
 <div class='footnote'>NAGA </div>
@@ -5455,7 +5455,7 @@ ___
 >*Medium humanoid (naga), unaligned*
 > ___
 > - **Armor Class** 13 (16 with *mage armor*)
-> - **Hit Points** 65 (10d8 + 20)
+> - **Hit Points** 91 (14d8 + 28)
 > - **Speed** 20 ft., swim 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -5473,10 +5473,10 @@ ___
 >
 > ***Spellcasting.*** The naga is an 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The naga has the following mage and shaman spells prepared:
 >
-> Cantrips (at will) :  *shape water, flurry, lightning blast*
+> Cantrips (at will) :  *shape water, ✦ flurry, ✦ lightning blast*
 > <br> 1st level (4 slots): *cure wounds, ice knife, <br>&nbsp;&nbsp;&nbsp; mage armor, thunderwave*
 > <br> 2nd level (3 slots): *darkness, hold person, <br>&nbsp;&nbsp;&nbsp; warding wind*
-> <br> 3rd level (3 slots): *blizzard, dampen magic, tidal wave*
+> <br> 3rd level (3 slots): *✦ blizzard, protection from energy, tidal wave*
 > <br> 4th level (1 slot):  *control water*
 >
 > ### Actions
@@ -5484,7 +5484,7 @@ ___
 >
 > ***Scimitar.*** *Melee Weapon Attack:* +4 to hit, reach 5ft, one creature. *Hit:* 11 (2d8 + 2)
 >
-> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and target is grappled (escape DC 12). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.
+> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and target is grappled (escape DC 12). Until the grapple ends, the creature is restrained, and the naga cannot constrict another target.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;91;5;13;44;0;36;0;36;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -6645,7 +6645,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The knight makes two greatsword attacks.
 >
-> ***Great.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage.
+> ***Greatsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 >
 > ### Reactions
 > ***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
