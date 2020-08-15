@@ -5221,7 +5221,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
 >
-> ***Spear.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+> ***Spear.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;4;3;12;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MURLOCS </div>
@@ -5261,7 +5261,7 @@ ___
 >
 > ***Spear.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 >
-> ***Net.*** *Ranged Weapon Attack.* +3 to hit, range 5/15 ft., one Large or smaller creature. *Hit:* The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net.
+> ***Net.*** *Ranged Weapon Attack.* +3 to hit, range 5/15 ft., one Large or smaller creature. *Hit:* The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net.<!-- https://wc5e-cr-calculator.frogvall.com/?0;14;11;3;12;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -5290,15 +5290,15 @@ ___
 >
 > ***Slippery.*** The murloc has advantage on ability checks and saving throws made to escape grapple.
 >
-> ***Innate Spellcasting.*** The murloc's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components.
+> ***Innate Spellcasting.*** The murloc's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 >
-> Cantrips (at will): *mending, shape water, toll the dead*
-> <br> 1st-level (3 slots): *fog cloud, sleep, thunderwave*
+> At will: *mending, shape water, toll the dead*
+> <br> 3/day each: *fog cloud, sleep, thunderwave*
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 >
-> ***Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+> ***Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;22;3;12;18;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 <div class="pageLetter">M</div>
 <div class='footnote'>MURLOCS </div>
@@ -6645,7 +6645,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The knight makes two greatsword attacks.
 >
-> ***Great sword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+> ***Greatsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 >
 > ### Reactions
 > ***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
