@@ -5473,10 +5473,10 @@ ___
 >
 > ***Spellcasting.*** The naga is an 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The naga has the following mage and shaman spells prepared:
 >
-> Cantrips (at will) :  *shape water, ✦ flurry, ✦ lightning blast*
+> Cantrips (at will):  *shape water, ✦ flurry, ✦ lightning <br>&nbsp;&nbsp;&nbsp; blast*
 > <br> 1st level (4 slots): *cure wounds, ice knife, <br>&nbsp;&nbsp;&nbsp; mage armor, thunderwave*
 > <br> 2nd level (3 slots): *darkness, hold person, <br>&nbsp;&nbsp;&nbsp; warding wind*
-> <br> 3rd level (3 slots): *✦ blizzard, protection from energy, tidal wave*
+> <br> 3rd level (3 slots): *✦ blizzard, ✦ amplify or dampen <br>&nbsp;&nbsp;&nbsp; magic, tidal wave*
 > <br> 4th level (1 slot):  *control water*
 >
 > ### Actions
@@ -5493,7 +5493,7 @@ ___
 >*Large humanoid (naga), unaligned*
 > ___
 > - **Armor Class** 16 (natural armor)
-> - **Hit Points** 110 (13d10 + 39)
+> - **Hit Points** 170 (20d10 + 60)
 > - **Speed** 25 ft., swim 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -5521,7 +5521,7 @@ ___
 > ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the naga can utter a special command or warning whenever a non-hostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the naga. A creature can benefit from only one Leadership die at a time. This effect ends if the naga is incapacitated.
 >
 > ### Reactions
-> ***Parry.*** The naga adds 3 to its AC against one melee attack that would hit it. To do so, the naga must see the attacker and be wielding a melee weapon.
+> ***Parry.*** The naga adds 3 to its AC against one melee attack that would hit it. To do so, the naga must see the attacker and be wielding a melee weapon.<!-- https://wc5e-cr-calculator.frogvall.com/?1;16;170;7;13;44;0;40;0;40;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;1;;;;10;;;;;; -->
 
 <div class="pageLetter">N</div>
 <div class='footnote'>NAGA </div>
@@ -5538,7 +5538,7 @@ ___
 >*Huge monstrosity, unaligned*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 147 (14d12 + 56)
+> - **Hit Points** 178 (17d12 + 68)
 > - **Speed** 30 ft., swim 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -5563,7 +5563,7 @@ ___
 >
 > ***Slam.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 27 (4d10 + 5) bludgeoning damage.
 >
-> ***Massive Crash (Recharges 4-6).*** The naga slams the ground creating an earth tremor around it. Each creature other than the naga in a 10-foot radius centered on the naga must make a Dexterity saving throw. On a failed save, a creature takes 31 (7d8) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone.
+> ***Massive Crash (Recharges 4-6).*** The naga slams the ground creating an earth tremor around it. Each creature other than the naga in a 10-foot radius centered on the naga must make a Dexterity saving throw. On a failed save, a creature takes 31 (7d8) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone.<!-- https://wc5e-cr-calculator.frogvall.com/?1;17;178;9;13;62;0;45;0;45;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;; -->
 
 <div class="pageLetter">N</div>
 <div class='footnote'>NAGA </div>
