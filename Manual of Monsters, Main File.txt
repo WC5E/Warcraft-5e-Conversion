@@ -5473,11 +5473,11 @@ ___
 >
 > ***Spellcasting.*** The naga is an 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The naga has the following mage and shaman spells prepared:
 >
-> Cantrips (at will):  *shape water, ✦ flurry, ✦ lightning <br>&nbsp;&nbsp;&nbsp; blast*
+> Cantrips (at will):  *shape water, ✦ flurry, <br>&nbsp;&nbsp;&nbsp;✦ lightning blast*
 > <br> 1st level (4 slots): *cure wounds, ice knife, <br>&nbsp;&nbsp;&nbsp; mage armor, thunderwave*
 > <br> 2nd level (3 slots): *darkness, hold person, <br>&nbsp;&nbsp;&nbsp; warding wind*
-> <br> 3rd level (3 slots): *✦ blizzard, ✦ amplify or dampen <br>&nbsp;&nbsp;&nbsp; magic, tidal wave*
-> <br> 4th level (1 slot):  *control water*
+> <br> 3rd level (3 slots): *✦ blizzard, tidal wave*
+> <br> 4th level (1 slot):  *✦ amplify or dampen magic, <br>&nbsp;&nbsp;&nbsp; control water*
 >
 > ### Actions
 > ***Multiattack.*** The naga makes two scimitar attacks, one of which can be replaced with its constrict attack.
@@ -5612,7 +5612,7 @@ ___
 >*Large giant, chaotic evil*
 > ___
 > - **Armor Class** 11 (hide armor)
-> - **Hit Points**  59 (7d10 + 21)
+> - **Hit Points**  93 (11d10 + 33)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -5628,7 +5628,7 @@ ___
 >
 > ***Greatclub.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
 >
-> ***Rock.*** *Ranged Weapon Attack:* +6 to hit, range 60/180 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage.
+> ***Rock.*** *Ranged Weapon Attack:* +6 to hit, range 60/180 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;11;93;6;12;15;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class='letterheader'></div>
 <div class="mmletter mml-o"></div>
@@ -5660,8 +5660,8 @@ ___
 > ## Ogre Magi
 >*Large giant, chaotic evil*
 > ___
-> - **Armor Class** 11 (13 with *mage armor*)
-> - **Hit Points**  82 (11d10 + 22)
+> - **Armor Class** 9 (12 with *mage armor*)
+> - **Hit Points**  90 (12d10 + 24)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -5673,31 +5673,35 @@ ___
 > - **Languages** Common, Ogre, Low Common
 > - **Challenge** 5 (1800 XP)
 > ___
-> ***Spellcasting.*** The ogre is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +5 to hit with spell attacks). The ogre has the following mage spells prepared:
+> ***Spellcasting.*** The ogre is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The ogre has the following mage spells prepared:
 >
-> Cantrips (at will): *blade ward, create bonfire, fire bolt*
+> Cantrips (at will): *✦ arcane blast, blade ward,<br>&nbsp;&nbsp;&nbsp; create bonfire, fire bolt*
 > <br> 1st level (4 slots): *armor of agathys, mage armor, <br>&nbsp;&nbsp;&nbsp; magic missile*
-> <br> 2nd level (4 slots): *enlarge/reduce, scorching ray, <br>&nbsp;&nbsp;&nbsp; see invisibility*
-> <br> 3rd level (3 slots): *glyph of warding, haste, slow*
-> <br> 4th level (1 slot): *arcane explosion*
+> <br> 2nd level (3 slots): *enlarge/reduce, scorching ray, <br>&nbsp;&nbsp;&nbsp; see invisibility*
+> <br> 3rd level (3 slots): *✦ arcane explosion, glyph of <br>&nbsp;&nbsp;&nbsp; warding, haste, slow*
+> <br> 4th level (1 slot): *✦ arcane barrage*
+>
+> *The ogre casts mage armor on itself before combat.*
 >
 >***Two Heads.*** The ogre has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
 >
 > ### Actions
-> ***Maul:*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
+> ***Maul:*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.<!-- https://wc5e-cr-calculator.frogvall.com/?1;12;90;0;14;62;0;54;0;54;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
 > ##### Variant: Ogre Priest
 > A few ogre magi supplement their dark powers with healing spells to aid their allies. They are regarded as spiritual leaders and record-keepers for their tribe. An ogre priest has Intelligence 11 and Wisdom 14, as well as the following trait:
 >
-> <br> ***Spellcasting.*** The ogre is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +5 to hit with spell attacks). The ogre has the following priest spells prepared:
+> <br> ***Spellcasting.*** The ogre is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The ogre has the following priest spells prepared:
 >
-> <br> Cantrips (at will): *resistance, shadow bolt, virtue*
-> <br> 1st level (4 slots): *dark void, healing word, <br>&nbsp;&nbsp;&nbsp; shield of faith*
-> <br> 2nd level (4 slots): *lesser restoration, mind blast, <br>&nbsp;&nbsp;&nbsp; silence*
-> <br> 3rd level (3 slots): *dispel magic, fear, shadow crash*
-> <br> 4th level (1 slot): *void shift*
+> <br> Cantrips (at will): *✦ mind blast, resistance,<br>&nbsp;&nbsp;&nbsp; ✦ shadow bolt, virtue*
+> <br> 1st level (4 slots): *cause fear, ✦ dark void,<br>&nbsp;&nbsp;&nbsp; healing word, shield of faith*
+> <br> 2nd level (3 slots): *lesser restoration, ✦ mind flay, <br>&nbsp;&nbsp;&nbsp; silence*
+> <br> 3rd level (3 slots): *dispel magic, hunger of hadar,<br>&nbsp;&nbsp;&nbsp; speak with dead*
+> <br> 4th level (3 slots): *death ward, ✦ void shift*
+> <br> 5th level (1 slot): *✦ shadow crash*
+> <br><br> *The ogre casts shield of faith on itself before combat.*<!-- https://wc5e-cr-calculator.frogvall.com/?1;11;90;0;14;0;28;72;28;14;28;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div style='margin-top:-5px;'></div>
 
@@ -5705,8 +5709,8 @@ ___
 > ## Ogre Lord
 >*Huge giant, chaotic evil*
 > ___
-> - **Armor Class** 15 (natural armor, metal plates)
-> - **Hit Points**  115 (11d12+44)
+> - **Armor Class** 17 (natural armor, metal plates)
+> - **Hit Points**  147 (14d12+56)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -5730,7 +5734,7 @@ ___
 >
 > ***Rock.*** *Ranged Weapon Attack:* +8 to hit, range 60/180 ft., one target. Hit: 27 (4d10 + 5) bludgeoning damage.
 >
-> ***Shockwave (Recharge 5-6).***  The ogre hits the ground with its greatclub causing a burst of concussive force. Each creature in a 15-foot cone  originating from the ogre must make a Dexterity saving throw. On a failed save, a creature takes 14 (4d6) bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain.
+> ***Shockwave (Recharge 5-6).***  The ogre hits the ground with its greatclub causing a burst of concussive force. Each creature in a 15-foot cone  originating from the ogre must make a Dexterity saving throw. On a failed save, a creature takes 14 (4d6) bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain.<!-- https://wc5e-cr-calculator.frogvall.com/?1;17;147;8;12;18;28;36;0;36;0;0;0;0;0;0;0;;;;;3;1;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">O</div>
 <div class='footnote'>OGRES </div>
