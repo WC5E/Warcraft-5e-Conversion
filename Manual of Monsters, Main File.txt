@@ -5471,7 +5471,7 @@ ___
 >
 > ***Slippery.*** The naga has advantage on ability checks and saving throws made to escape a grapple.
 >
-> ***Spellcasting.*** The naga is an 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The naga has the following mage and shaman spells prepared:
+> ***Spellcasting.*** The naga is an 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The naga has the following mage and shaman spells prepared:
 >
 > Cantrips (at will):  *shape water, ✦ flurry, <br>&nbsp;&nbsp;&nbsp;✦ lightning blast*
 > <br> 1st level (4 slots): *cure wounds, ice knife, <br>&nbsp;&nbsp;&nbsp; mage armor, thunderwave*
@@ -5640,21 +5640,22 @@ ___
 
 \pagebreakNum
 
-### Ogre Names and Languages
-Historically, ogres have long held their own tongue, though their dispersion across Azeroth have turned many clans to broken forms of Common -- and sometimes Orcish.
+> ##### Variant: Ogre Priest
+> A few ogre magi supplement their dark powers with healing spells to aid their allies. They are regarded as spiritual leaders and record-keepers for their tribe. An ogre priest has Intelligence 11 and Wisdom 14, as well as the following trait:
+> <br>    ***Spellcasting.*** The ogre is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The ogre has the following priest spells prepared:
+> <div style='margin-top:-15px;'></div>
+>
+> <br> Cantrips (at will): *✦ mind blast, resistance,<br>&nbsp;&nbsp;&nbsp; ✦ shadow bolt, virtue*
+> <br> 1st level (4 slots): *cause fear, ✦ dark void,<br>&nbsp;&nbsp;&nbsp; healing word, shield of faith*
+> <br> 2nd level (3 slots): *lesser restoration, ✦ mind flay, <br>&nbsp;&nbsp;&nbsp; silence*
+> <br> 3rd level (3 slots): *dispel magic, hunger of hadar,<br>&nbsp;&nbsp;&nbsp; speak with dead*
+> <br> 4th level (3 slots): *death ward, ✦ void shift*
+> <br> 5th level (1 slot): *✦ shadow crash*
+> <div style='margin-top:-30px;'></div>
+>
+> <br><br> *The ogre casts shield of faith on itself before combat*<!-- https://wc5e-cr-calculator.frogvall.com/?1;11;90;0;14;0;28;72;28;14;28;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
-Ogre is a very coarse language, largely consisting of short, throaty sounds. Its written form has long been kept solely to the upper echelons of ogre society.
-
-For many ogres, the closest remnant of their language is in their names. Some ogres carry simple, descriptive titles for names, though many still use names with clear meaning in their own tongue.
-
-Most prominent are the names of the **ogre magi**. Their two heads have each a mind of their own, and with it their own name. The full name of the magi is a combination of the two: the smartest head first and the other thereafter.
-
-<div style='margin-top:-5px;'></div>
-
-**Male names:** Chokk, Drak, Garg, Hok'kran, Krol, Mug
-<br />**Female names:** Agra, Baki, Brakka, Nakki, Mruka, Ugra'ka
-<br />**Tribe names:** Bloodcrush, Boulderfist, Dustgorge,
-<br />&nbsp;&nbsp;&nbsp; Splinterstone, Stonemaul, Warmaul
+<div style='margin-top:-20px;'></div>
 
 ___
 > ## Ogre Magi
@@ -5690,20 +5691,23 @@ ___
 
 \columnbreak
 
-> ##### Variant: Ogre Priest
-> A few ogre magi supplement their dark powers with healing spells to aid their allies. They are regarded as spiritual leaders and record-keepers for their tribe. An ogre priest has Intelligence 11 and Wisdom 14, as well as the following trait:
->
-> <br> ***Spellcasting.*** The ogre is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The ogre has the following priest spells prepared:
->
-> <br> Cantrips (at will): *✦ mind blast, resistance,<br>&nbsp;&nbsp;&nbsp; ✦ shadow bolt, virtue*
-> <br> 1st level (4 slots): *cause fear, ✦ dark void,<br>&nbsp;&nbsp;&nbsp; healing word, shield of faith*
-> <br> 2nd level (3 slots): *lesser restoration, ✦ mind flay, <br>&nbsp;&nbsp;&nbsp; silence*
-> <br> 3rd level (3 slots): *dispel magic, hunger of hadar,<br>&nbsp;&nbsp;&nbsp; speak with dead*
-> <br> 4th level (3 slots): *death ward, ✦ void shift*
-> <br> 5th level (1 slot): *✦ shadow crash*
-> <br><br> *The ogre casts shield of faith on itself before combat.*<!-- https://wc5e-cr-calculator.frogvall.com/?1;11;90;0;14;0;28;72;28;14;28;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+<div style='margin-top:17px;'></div>
+
+### Ogre Names and Languages
+Historically, ogres have long held their own tongue, though their dispersion across Azeroth have turned many clans to broken forms of Common -- and sometimes Orcish.
+
+Ogre is a very coarse language, largely consisting of short, throaty sounds. Its written form has long been kept solely to the upper echelons of ogre society.
+
+For many ogres, the closest remnant of their language is in their names. Some ogres carry simple, descriptive titles for names, though many still use names with clear meaning in their own tongue.
+
+Most prominent are the names of the **ogre magi**. Their two heads have each a mind of their own, and with it their own name. The full name of the magi is a combination of the two: the smartest head first and the other thereafter.
 
 <div style='margin-top:-5px;'></div>
+
+**Male names:** Chokk, Drak, Garg, Hok'kran, Krol, Mug
+<br />**Female names:** Agra, Baki, Brakka, Nakki, Mruka, Ugra'ka
+<br />**Tribe names:** Bloodcrush, Boulderfist, Dustgorge,
+<br />    Splinterstone, Stonemaul, Warmaul
 
 ___
 > ## Ogre Lord
