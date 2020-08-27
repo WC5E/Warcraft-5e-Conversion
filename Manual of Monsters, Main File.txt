@@ -5753,7 +5753,7 @@ ___
 >*Large monstrosity, neutral good*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 45 (6d10 + 12)
+> - **Hit Points** 90 (12d10 + 24)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -5774,7 +5774,7 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) slashing damage, or 13 (2d6 + 6) slashing damage while enraged.
 >
-> ***Wild Rage (Recharges after a Short or Long Rest).*** <br>For 1 minute the owlbeast enters a rage. While enraged, the owlbeast's attacks deal an additional 3 damage (included in the attacks), and makes Strength checks and Strength saving throws with advantage.
+> ***Wild Rage (Recharges after a Short or Long Rest).*** <br>For 1 minute the owlbeast enters a rage. While enraged, the owlbeast's attacks deal an additional 3 damage (included in the attacks), and makes Strength checks and Strength saving throws with advantage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;90;5;12;17;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -5832,11 +5832,11 @@ ___
 >
 > ***Spellcasting.*** The moonkin is a 9th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The moonkin has the following druid spells prepared:
 >
-> Cantrips (at will) :  *druidcraft, resistance, solar wrath*
-> <br> 1st level (4 slots): *healing word, entangle, faerie fire, <br>&nbsp;&nbsp;&nbsp; starfire*
-> <br> 2nd level (3 slots): *barkskin, cyclone, moonbeam*
-> <br> 3rd level (3 slots): *mass healing word, plant growth, <br>&nbsp;&nbsp;&nbsp; starsurge*
-> <br> 4th level (3 slots): *grasping vines, guardian of nature*,
+> Cantrips (at will) :  *druidcraft, resistance, ✦ solar wrath*
+> <br> 1st level (4 slots): *healing word, entangle, faerie fire, <br>&nbsp;&nbsp;&nbsp; ✦ starfire*
+> <br> 2nd level (3 slots): *barkskin, ✦ cyclone, moonbeam*
+> <br> 3rd level (3 slots): *mass healing word, plant growth, <br>&nbsp;&nbsp;&nbsp; ✦ starsurge*
+> <br> 4th level (3 slots): *grasping vine, guardian of nature*,
 > <br> 5th level (1 slot):  *wrath of nature*
 >
 > ### Actions
@@ -5844,7 +5844,7 @@ ___
 >
 > ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) piercing damage.
 >
-> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8 + 3) slashing damage.
+> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8 + 3) slashing damage<!-- https://wc5e-cr-calculator.frogvall.com/?1;13;85;0;14;70;0;62;0;62;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">O</div>
 <div class='footnote'>OWLBEASTS</div>
