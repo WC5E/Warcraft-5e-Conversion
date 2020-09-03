@@ -265,7 +265,7 @@ ___
 #### Proficiencies
 ___
 - **Armor:** Light armor, medium armor
-- **Weapons:** Simple weapons, martial weapons, firearms
+- **Weapons:** Simple weapons, martial weapons, pistol, rifle
 - **Tools:** Gunsmith's tools
 ___
 - **Saving Throws:** Strength, Dexterity
@@ -556,64 +556,3 @@ The creature is encased in ice, the ice has an AC of 10 and hit points equal to 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/zivJGbT.jpg' style='position:absolute; top:700px; right:0px; width:800px;' />
 <img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute; top:-50px; right:0px; width:1000px' />
-
-\pagebreakNum
-
-<div class='classTable wide'>
-
-##### Firearms
-|&nbsp; Name | Cost |&nbsp;| Damage | Weight |&nbsp;| Properties                             |
-|:---------------------------------|------:|-|:--------------|----:|-|:----------------------|
-|&nbsp; *Handguns*                 |        ||               |      ||                       |
-|&nbsp;&nbsp;&nbsp; Dragon         |  50 gp || 1d10 piercing | 2 lb.|| Ammunition (range 20/30 ), scattershot (1d6) |
-|&nbsp;&nbsp;&nbsp; Pepperbox      | 125 gp ||  1d8 piercing | 3 lb.|| Ammunition (range 20/80), light, multi-barrel (3) |
-|&nbsp;&nbsp;&nbsp; Pistol         |  75 gp ||  1d8 piercing | 2 lb.|| Ammunition (range 30/120), light |
-|&nbsp;&nbsp;&nbsp; Pistol, silent |  90 gp ||  1d8 piercing | 2 lb.|| Ammunition (range 20/80), light, suppressor |
-|&nbsp; *Long Guns*                |        ||               |      ||                       |
-|&nbsp;&nbsp;&nbsp; Blunderbuss    |  75 gp ||  3d4 piercing | 5 lb.|| Ammunition (range 30/45), two-handed, scattershot (1d8) |
-|&nbsp;&nbsp;&nbsp; Musket         | 100 gp || 1d12 piercing | 6 lb.|| Ammunition (range 60/240), two-handed |
-|&nbsp;&nbsp;&nbsp; Musket, double | 150 gp || 1d12 piercing | 7 lb.|| Ammunition (range 60/240), two-handed, multi-barrel (2) |
-|&nbsp; *Ammunition*               |        ||               |      ||                       |
-|&nbsp;&nbsp;&nbsp; Bullets (20)   |  2 gp ||              — | 2 lb.|| — |
-|&nbsp;&nbsp;&nbsp; Pellet Shells (10) | 2 gp ||           — | 3 lb.|| — |
-</div>
-
-## Firearms
-For tinkers the invention of the crossbow was not enough. They strived to further improve the ability to shoot from a distance without the aid of magic. With the invention of black powder, the dwarves of Ironforge were quick to act in experimenting with its uses, crafting the first firearms from which the weapon has evolved around.
-
-### Firearm Proficiency
-Your race, class, and feats can grant you proficiency with certain firearms, or firearms as a whole.
-
-Proficiency with a firearm allows you to add your proficiency bonus to the attack roll for any attack you make with them. If you make an attack roll using a firearm with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
-
-A firearm is considered a ranged weapon, and therefore, uses your Dexterity modifier for the attack and damage rolls you make with it.
-
-#### Reloading
-Firearms are muzzle-loaded and each barrel of a firearm can only be fired once per turn, regardless of the number of attacks you can normally make. A firearm can actively be reloaded on your turn by using an action or bonus action.
-
-#### Booming Sound
-Firearms make loud noises, a flash of light and a faint smell of burnt explosives when used. A shot can be heard as far as 200 feet away from the shooter.
-
-\columnbreak
-
-#### Gunsmith's Tools
-A gunsmuth's tools enables a character to craft, modify and maintain firearms, as well as craft ammunition. It weights 10 lb. and costs 50 gp.
-
-***Crafting Firearms.*** If you are proficient with gunsmith's tools, you can create any firearm of your choice over the course of one workweek (5 days of 8 hours of work) spend&shy;ing gold equal to half the firearms cost in resources.
-
-***Crafting Ammunition.*** If you are proficient with gun&shy;smith's tools, as part of a long rest, you can create batches of ammunition of 6 + double your proficiency bonus. Each batch requires 1 gp worth of material cost.
-
-Some weapons are capable of firing *pellet shells*, special ammunition designed to spread into a volley of shots. You can create batches of pellet shells of 3 + your proficiency bonus. Each batch requires 1 gp worth of materials.
-
-#### Firearm Properties
-Firearms have special properties related to their use that are unique to them, as shown in the Weapons table.
-
-***Ammunition.*** Firearms use precisely crafted bullets as ammunition. each time you attack with a firearm, you expend one bullet. There is no means of recovering bullets once they have been fired.
-
-***Multi-barrels.*** You can attack with the weapon multiple times before reloading. The number of barrels the weapon has is indicated in parenthesis.
-
-***Scattershot.*** This weapon can fire special *pellet shells* that spread into a volley of shots rather than a single one, making it easier to hit far away targets with at least one pellet. Targets within the first half of your short range take one extra damage dice and you have advantage on attack rolls made against targets beyond that, up to the weapons long range—which doesn't incur you disadvan&shy;tage. When shooting a scattershot, it deals the damage dice indicated in parenthesis, rather than its normal damage.
-
-***Suppressor.*** The weapon makes no sound and light when used, and thus, ignores the booming sound rules.
-
-<div class='footnote'>PART 1 | NEW EQUIPMENT</div>
