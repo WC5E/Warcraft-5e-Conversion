@@ -529,14 +529,14 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
  - [<span>93</span><span> Shredder                      </span>](#p93)
  - [<span>94</span><span> Silithids                     </span>](#p94)
  - [<span>98</span><span> Skeletons                     </span>](#p98)
- - [<span>100</span><span> Treant                       </span>](#p100)
- - [<span>101</span><span> Troggs                       </span>](#p101)
- - [<span>104</span><span> Trolls                       </span>](#p104)
- - [<span>108</span><span> Thunder Lizard               </span>](#p108)
+ - [<span>100</span><span> Thunder Lizard               </span>](#p100)
+ - [<span>101</span><span> Treant                       </span>](#p101)
+ - [<span>102</span><span> Troggs                       </span>](#p102)
+ - [<span>105</span><span> Trolls                       </span>](#p105)
  - [<span>109</span><span> Whale Shark                  </span>](#p109)
  - [<span>110</span><span> Wind Serpents                </span>](#p110)
- - [<span>112</span><span> Wretched                     </span>](#p112)
- - [<span>113</span><span> Worgen: Feral                </span>](#p113)
+ - [<span>112</span><span> Worgen: Feral                </span>](#p112)
+ - [<span>113</span><span> Wretched                     </span>](#p113)
  - [<span>114</span><span> Yetis                        </span>](#p114)
 </div>
 
@@ -7361,6 +7361,65 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:160px;'></div>
+
+___
+> ## Thunder Lizard
+>*Huge monstrosity, chaotic neutral*
+> ___
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 138 (12d12 + 60)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|22 (+6)|9 (-1)|21 (+5)|7 (-2)|14 (+2)|6 (-2)|
+>___
+> - **Skills** Perception +5
+> - **Damage Immunities** lightning
+> - **Senses** darkvision 60 ft., passive Perception 15
+> - **Languages** —
+> - **Challenge** 7 (2,900 XP)
+> ___
+> ***Trampling Charge.*** If the lizard moves at least 20 feet straight towards a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the lizard can make one devour attack against it as a bonus action.
+>
+> ### Actions
+> ***Gore.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit* 28 (4d10 + 6) piercing damage.
+>
+> ***Devour.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 6) piercing damage. A Medium or smaller target must succeed on a DC 15 Dexterity saving throw or swallowed by the lizard. The lizard can only have one target swallowed at a time. If a target fails the saving throw while the lizard has a creature swallowed, it is grappled instead.
+> <br>&nbsp;&nbsp;&nbsp; A swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the lizard, and it takes 10 (3d6) acid damage at the start of each of the lizard's turns.
+> <br>&nbsp;&nbsp;&nbsp; If the lizard takes 25 damage or more on a single turn from the swallowed creature, the lizard must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the lizard. If the lizard dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.
+>
+> ***Lightning Breath (Recharge 5-6).*** The lizard exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 15 Dexter&shy;ity saving throw, taking 39 (6d12) lightning damage on a failed save, or half as much damage on a success.
+
+\columnbreak
+
+<div style='margin-top:470px;'></div>
+
+## Thunder Lizard
+Few who scout a thunder lizard approaching dare engage the beast in an open skirmish. The thick-skinned beasts bears a striking resemblance to kodos and many have speculated that the two are related in one way or another.
+
+But that is where the similarities between the creatures end; as the monstrous thunder lizard is easily aggravated, persistent in hunting down whoever would provoke it, and capable of exhaling a breath of lightning.
+
+***Creature of Myth.*** Thunder lizards are considered mystical creatures and a rare sight by many. They are only made rarer by their aggressive nature, as failing to take necessary precautions before attempting to approach a thunder lizard may quickly spell doom.
+
+Among the tauren, legends claim thunder lizards to be formed from ancient kodo spirits; bound to the sky and storm and brought back as thundering monsters.
+
+***Grassland Scavengers.*** The lumbering creatures roam the vast plains of Kalimdor in search of prey. Thunder lizards are carnivorous, and will often eat their prey whole: dissolving both the creature and everything it carried in the process. Thankfully, magical items are usually left behind without being too much worse for wear.
+
+Wary scouts who have witnessed the great thunder lizards and lived, often note that they leave ordinary kodos unharmed -- rather seeking food elsewhere.
+
+***Lone Wanderers.*** Thunder lizards are rarely found in large numbers, preferring to either hunt alone or follow a pack of kodos as some form of guardian. 
+
+They move vast distances in their tireless hunt, and tales have been told of thunder lizards even wandering their way through open settlements. They rarely cause any trouble, however, so long as they are not provoked.
+
+<div class="pageLetter">T</div>
+<div class='footnote'>THUNDER LIZARD </div>
+<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-green' style='top:-300px; right:0px; width:700px; transform:rotate(60deg)'>
+<img src='https://www.gmbinder.com/images/wRMRQeP.png' style='position:absolute; top:-40px; right:-50px; width:1000px;transform:scalex(-1)' />
+
+\pagebreakNum
+
 <div style='margin-top:440px;'></div>
 
 ## Treant
@@ -7855,65 +7914,6 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:160px;'></div>
-
-___
-> ## Thunder Lizard
->*Huge monstrosity, chaotic neutral*
-> ___
-> - **Armor Class** 16 (natural armor)
-> - **Hit Points** 138 (12d12 + 60)
-> - **Speed** 40 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|22 (+6)|9 (-1)|21 (+5)|7 (-2)|14 (+2)|6 (-2)|
->___
-> - **Skills** Perception +5
-> - **Damage Immunities** lightning
-> - **Senses** darkvision 60 ft., passive Perception 15
-> - **Languages** —
-> - **Challenge** 7 (2,900 XP)
-> ___
-> ***Trampling Charge.*** If the lizard moves at least 20 feet straight towards a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the lizard can make one devour attack against it as a bonus action.
->
-> ### Actions
-> ***Gore.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit* 28 (4d10 + 6) piercing damage.
->
-> ***Devour.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 6) piercing damage. A Medium or smaller target must succeed on a DC 15 Dexterity saving throw or swallowed by the lizard. The lizard can only have one target swallowed at a time. If a target fails the saving throw while the lizard has a creature swallowed, it is grappled instead.
-> <br>&nbsp;&nbsp;&nbsp; A swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the lizard, and it takes 10 (3d6) acid damage at the start of each of the lizard's turns.
-> <br>&nbsp;&nbsp;&nbsp; If the lizard takes 25 damage or more on a single turn from the swallowed creature, the lizard must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the lizard. If the lizard dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.
->
-> ***Lightning Breath (Recharge 5-6).*** The lizard exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 15 Dexter&shy;ity saving throw, taking 39 (6d12) lightning damage on a failed save, or half as much damage on a success.
-
-\columnbreak
-
-<div style='margin-top:470px;'></div>
-
-## Thunder Lizard
-Few who scout a thunder lizard approaching dare engage the beast in an open skirmish. The thick-skinned beasts bears a striking resemblance to kodos and many have speculated that the two are related in one way or another.
-
-But that is where the similarities between the creatures end; as the monstrous thunder lizard is easily aggravated, persistent in hunting down whoever would provoke it, and capable of exhaling a breath of lightning.
-
-***Creature of Myth.*** Thunder lizards are considered mystical creatures and a rare sight by many. They are only made rarer by their aggressive nature, as failing to take necessary precautions before attempting to approach a thunder lizard may quickly spell doom.
-
-Among the tauren, legends claim thunder lizards to be formed from ancient kodo spirits; bound to the sky and storm and brought back as thundering monsters.
-
-***Grassland Scavengers.*** The lumbering creatures roam the vast plains of Kalimdor in search of prey. Thunder lizards are carnivorous, and will often eat their prey whole: dissolving both the creature and everything it carried in the process. Thankfully, magical items are usually left behind without being too much worse for wear.
-
-Wary scouts who have witnessed the great thunder lizards and lived, often note that they leave ordinary kodos unharmed -- rather seeking food elsewhere.
-
-***Lone Wanderers.*** Thunder lizards are rarely found in large numbers, preferring to either hunt alone or follow a pack of kodos as some form of guardian. 
-
-They move vast distances in their tireless hunt, and tales have been told of thunder lizards even wandering their way through open settlements. They rarely cause any trouble, however, so long as they are not provoked.
-
-<div class="pageLetter">T</div>
-<div class='footnote'>THUNDER LIZARD </div>
-<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-green' style='top:-300px; right:0px; width:700px; transform:rotate(60deg)'>
-<img src='https://www.gmbinder.com/images/wRMRQeP.png' style='position:absolute; top:-40px; right:-50px; width:1000px;transform:scalex(-1)' />
-
-\pagebreakNum
-
 <div style='margin-top:630px;'></div>
 
 ## Whale Shark
@@ -8111,6 +8111,70 @@ ___
 
 \pagebreakNum
 
+## Worgen: Feral
+The curse of the worgen can transform even the most civilized person into a ravenous, primal beast. Filled with rage, it gradually loses all vestiges of its former life, as it slowly turns into a mindless hunter. These feral beings bear a closer semblence to monstrous wolves than to intelligent humanoids. However, upon a closer inspection, their eyes betray the mind still trapped within.
+
+***Ancient Curse.*** The worgen curse began with a sect of night elves, who tried to tame the powers of the ancient Godrinn. Instead, they were transformed into feral beasts, and subsequently locked away in the Emerald Dream. They were alter brought forth by the Archmage Arugal -- who himself sought a weapon against the Scourge.
+
+Though the worgen were successful in keeping the damned at bay, they did not differ between the living and dead; leaving the curse to quickly seep through Gilneas.
+
+***Pack Animals.*** Feral worgens have but a shred of humanity left, locked away in a beast that cannot be reasoned or communicated with. Like wolves, they keep to forested areas and gather  in large packs, headed by their strongest -- the alpha.
+
+***Humanoid Cubs.*** Worgens do not give birth to lupine humanoids, but rather to a humanoid of their original race. Although the mother might care for its child, this is often not shared by the rest of its pack.
+
+***Resistance to Undeath.*** The curse of the worgen draws its power from the Emerald Dream, and the light of the goddess Elune. For this, raising a worgen into undeath is by far more difficult than it is with most other humanoids.
+
+***Feral Weaknesses.*** As vicious as they are, these feral beasts are hardly intimidated and rarely back down if the pack keeps together. They do, however, have a strong dislike for open fires, and avoid areas lit by open flames whenever possible -- so long as the hunger for flesh does not force them to push through.
+
+They also appear to be very susceptible to the wolfsbane plant; a small, purple flower commonly found across the kingdom of Gilneas. If this seemingly harmless plant comes in contact with a worgen's wounds, it prevents the beast from recuperating.
+
+> ##### Player Characters as Feral Worgens
+> A humanoid bit by a worgen must succeed on a DC 12 Constitution saving throw or be cursed. The curse has no effect on undead beings, such as the forsaken. A character bit begins to show the effects of the curse after 1d4 days, at which point the character is transformed into a feral worgen. It gains a Strength of 15 if their score isn't already higher, and their alignment changes to Chaotic Evil.
+>
+> The cursed character also gains the following indefinite madness, *"I hunger for the taste of blood and will kill anyone to taste it once more."*
+>
+> The character remains a feral worgen until a *greater restoration* spell or more powerful magic rids the character of their indefinite madness, at which point alignment returns to what it was before being bit, and the character gains the *Two Forms* feature and the *Worgen Form Traits* of the Worgen race.
+
+\columnbreak
+
+<div style='margin-top:375px;'></div>
+
+___
+> ## Feral Worgen
+>*Medium humanoid (worgen), chaotic evil*
+> ___
+> - **Armor Class** 12 (natural armor)
+> - **Hit Points** 39 (6d8 + 12)
+> - **Speed** 40 ft., climb 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|13 (+1)|14 (+2)|7 (-2)|11 (+0)|10 (+0)|
+>___
+> - **Skills** Perception +4, Survival +2, Stealth +3
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks and weapons <br>that aren't silvered
+> - **Senses** darkvision 60 ft., passive Perception 14
+> - **Languages** Wolf
+> - **Challenge** 2 (450 XP)
+> ___
+> ***Keen Hearing and Smell.*** The worgen has advantage on Wisdom (Perception) checks that rely on its hearing or smell.
+>
+> ***Pack Tactics.*** The worgen has advantage on an attack roll against a creature if at least one of the worgen's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+> ### Actions
+> ***Multiattack.*** The worgen makes two attacks: one with its bite and one with its claws.
+>
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or gain the worgen curse.
+>
+> ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4 + 2) slashing damage.
+
+<div class="pageLetter">W</div>
+<div class='footnote'>WORGEN: FERAL </div>
+<img src='https://www.gmbinder.com/images/xLmKBtn.jpg' style='position:absolute; top:-100px; right:-65px; width:500px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/qKrtKxo.png' style='position:absolute; top:0px; right:-20px; width:900px' />
+
+\pagebreakNum
+
 <div style='margin-top:470px;'></div>
 
 ___
@@ -8178,70 +8242,6 @@ The wretched use the same naming conventions as high and blood elves, but opt fo
 <img src='https://www.gmbinder.com/images/i7UrPYM.jpg' style='position:absolute; top:0px; right:350px; width:500px' />
 <img src='https://www.gmbinder.com/images/61ldIkX.png' style='position:absolute; top:0px; right:-100px; width:900px; transform:scaley(-1)' />
 <img src="https://www.gmbinder.com/images/m6qCwvJ.png" class="inkblot" style=" top:570px; right:600px; width:400px; transform:rotate(44deg);">
-
-\pagebreakNum
-
-## Worgen: Feral
-The curse of the worgen can transform even the most civilized person into a ravenous, primal beast. Filled with rage, it gradually loses all vestiges of its former life, as it slowly turns into a mindless hunter. These feral beings bear a closer semblence to monstrous wolves than to intelligent humanoids. However, upon a closer inspection, their eyes betray the mind still trapped within.
-
-***Ancient Curse.*** The worgen curse began with a sect of night elves, who tried to tame the powers of the ancient Godrinn. Instead, they were transformed into feral beasts, and subsequently locked away in the Emerald Dream. They were alter brought forth by the Archmage Arugal -- who himself sought a weapon against the Scourge.
-
-Though the worgen were successful in keeping the damned at bay, they did not differ between the living and dead; leaving the curse to quickly seep through Gilneas.
-
-***Pack Animals.*** Feral worgens have but a shred of humanity left, locked away in a beast that cannot be reasoned or communicated with. Like wolves, they keep to forested areas and gather  in large packs, headed by their strongest -- the alpha.
-
-***Humanoid Cubs.*** Worgens do not give birth to lupine humanoids, but rather to a humanoid of their original race. Although the mother might care for its child, this is often not shared by the rest of its pack.
-
-***Resistance to Undeath.*** The curse of the worgen draws its power from the Emerald Dream, and the light of the goddess Elune. For this, raising a worgen into undeath is by far more difficult than it is with most other humanoids.
-
-***Feral Weaknesses.*** As vicious as they are, these feral beasts are hardly intimidated and rarely back down if the pack keeps together. They do, however, have a strong dislike for open fires, and avoid areas lit by open flames whenever possible -- so long as the hunger for flesh does not force them to push through.
-
-They also appear to be very susceptible to the wolfsbane plant; a small, purple flower commonly found across the kingdom of Gilneas. If this seemingly harmless plant comes in contact with a worgen's wounds, it prevents the beast from recuperating.
-
-> ##### Player Characters as Feral Worgens
-> A humanoid bit by a worgen must succeed on a DC 12 Constitution saving throw or be cursed. The curse has no effect on undead beings, such as the forsaken. A character bit begins to show the effects of the curse after 1d4 days, at which point the character is transformed into a feral worgen. It gains a Strength of 15 if their score isn't already higher, and their alignment changes to Chaotic Evil.
->
-> The cursed character also gains the following indefinite madness, *"I hunger for the taste of blood and will kill anyone to taste it once more."*
->
-> The character remains a feral worgen until a *greater restoration* spell or more powerful magic rids the character of their indefinite madness, at which point alignment returns to what it was before being bit, and the character gains the *Two Forms* feature and the *Worgen Form Traits* of the Worgen race.
-
-\columnbreak
-
-<div style='margin-top:375px;'></div>
-
-___
-> ## Feral Worgen
->*Medium humanoid (worgen), chaotic evil*
-> ___
-> - **Armor Class** 12 (natural armor)
-> - **Hit Points** 39 (6d8 + 12)
-> - **Speed** 40 ft., climb 40 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|15 (+2)|13 (+1)|14 (+2)|7 (-2)|11 (+0)|10 (+0)|
->___
-> - **Skills** Perception +4, Survival +2, Stealth +3
-> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks and weapons <br>that aren't silvered
-> - **Senses** darkvision 60 ft., passive Perception 14
-> - **Languages** Wolf
-> - **Challenge** 2 (450 XP)
-> ___
-> ***Keen Hearing and Smell.*** The worgen has advantage on Wisdom (Perception) checks that rely on its hearing or smell.
->
-> ***Pack Tactics.*** The worgen has advantage on an attack roll against a creature if at least one of the worgen's allies is within 5 feet of the creature and the ally isn't incapacitated.
->
-> ### Actions
-> ***Multiattack.*** The worgen makes two attacks: one with its bite and one with its claws.
->
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or gain the worgen curse.
->
-> ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4 + 2) slashing damage.
-
-<div class="pageLetter">W</div>
-<div class='footnote'>WORGEN: FERAL </div>
-<img src='https://www.gmbinder.com/images/xLmKBtn.jpg' style='position:absolute; top:-100px; right:-65px; width:500px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/qKrtKxo.png' style='position:absolute; top:0px; right:-20px; width:900px' />
 
 \pagebreakNum
 
