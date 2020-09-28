@@ -7963,7 +7963,7 @@ ___
 >
 > ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 24 (3d10 + 8) bludgeoning damage. If the target is a creature, it must succeed on a DC 22 Strength saving throw or be pushed 10 feet away from the whale shark and knocked prone.
 >
-> ***Inhale.*** The whale shark inhales water in a 15-foot cube in front of it. Each creature in that cube that is Large or smaller must make a DC 20 Dexterity saving throw or have their movement speed reduced to 0 until the end of the whale shark's next turn.
+> ***Inhale.*** The whale shark inhales water in a 15-foot cube in front of it. Each creature in that cube that is Large or smaller must make a DC 20 Dexterity saving throw or have their movement speed reduced to 0 until the end of the whale shark's next turn. <!-- https://wc5e-cr-calculator.frogvall.com/?3;18;297;14;17;81;0;81;28;81;56;0;0;0;0;0;0;1;;;;3;;;;1;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class='letterheader'></div>
 <div class="mmletter mml-w"></div>
@@ -8028,7 +8028,7 @@ ___
 >
 > ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 9 (2d6 + 2) bludgeoning damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the wind serpent can't constrict another target.
 >
-> ***Lightning Breath (Recharges after a Short or Long Rest).*** The serpent exhales lightning in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 11 (2d10) lightning damage on a failed save, or half as much damage on a successful one.
+> ***Lightning Breath (Recharges after a Short or Long Rest).*** The serpent exhales lightning in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 11 (2d10) lightning damage on a failed save, or half as much damage on a successful one. <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;22;4;12;22;0;9;0;9;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">W</div>
 <div class='footnote'>WIND SERPENTS </div>
@@ -8045,7 +8045,7 @@ ___
 >*Medium beast, neutral*
 > ___
 > - **Armor Class** 15 (natural armor)
-> - **Hit Points** 33 (6d8 + 5)
+> - **Hit Points** 27 (5d8 + 5)
 > - **Speed** 20 ft., fly 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -8069,7 +8069,7 @@ ___
 >
 > ***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the wind serpent can't constrict another target.
 >
-> ***Shocking Spit.*** *Ranged Weapon Attack:* +5 to hit, range 15/30 ft., one creature. *Hit:* The target must make a DC 13 Dexterity saving throw, taking 21 (6d6) lightning damage on a failed save, or half as much damage on a successful one.
+> ***Shocking Spit.*** *Ranged Weapon Attack:* +5 to hit, range 15/30 ft., one creature. *Hit:* The target must make a DC 13 Dexterity saving throw, taking 21 (6d6) lightning damage on a failed save, or half as much damage on a successful one. <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;27;5;12;23;0;23;0;23;0;0;0;0;0;0;0;;;1;;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -8078,7 +8078,7 @@ ___
 >*Large beast, neutral*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 60 (11d8 + 11)
+> - **Hit Points** 65 (10d10 + 10)
 > - **Speed** 30 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -8102,7 +8102,7 @@ ___
 >
 > ***Frightful Screech.*** Each creature within 60 feet of the serpent that can hear it must succeed on a DC 12 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this serpent's Frightful Screech for the next 24 hours.
 >
-> ***Lightning Breath (Recharge 5-6).*** The serpent exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 27 (5d10) lightning damage on a failed save, or half as much damage on a success.
+> ***Lightning Breath (Recharge 5-6).*** The serpent exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 27 (5d10) lightning damage on a failed save, or half as much damage on a success. <!-- https://wc5e-cr-calculator.frogvall.com/?0;17;65;5;12;34;0;32;0;32;0;0;0;0;0;0;0;;;;;3;;;;;1;;1;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">W</div>
 <div class='footnote'>WIND SERPENTS </div>
@@ -8140,7 +8140,7 @@ ___
 > ### Actions
 > ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 >
-> ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+> ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage. <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;18;4;12;9;0;6;0;6;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
 
 \columnbreak
 
