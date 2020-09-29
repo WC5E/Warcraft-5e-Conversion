@@ -8231,12 +8231,14 @@ ___
 >
 > ***Pack Tactics.*** The worgen has advantage on an attack roll against a creature if at least one of the worgen's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
+> ***Standing Leap.*** The worgen's long jump is up to 30 ft. and its high jump is up to 20 ft., with or without a running start.
+>
 > ### Actions
 > ***Multiattack.*** The worgen makes two attacks: one with its bite and one with its claws.
 >
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or gain the worgen curse.
 >
-> ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4 + 2) slashing damage.
+> ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4 + 2) slashing damage. <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;39;4;12;13;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 
 <div class="pageLetter">W</div>
 <div class='footnote'>WORGEN: FERAL </div>
