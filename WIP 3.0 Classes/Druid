@@ -1,0 +1,1196 @@
+<style>
+/* GLOBAL FORMATTING  */
+
+  /* Resize page to international A4 */
+  .phb {
+    width: 210mm;
+    height: 296.8mm;
+  }
+  .phb:after { content: ""; }
+
+
+/* TABLE OF CONTENTS  */
+
+  /* toc specifically wants black text. This resets the headers*/
+  .toc a {
+    color: inherit !important;
+  }
+  /* Allow dot leaders to fill remaining space but not overlap */
+  .toc li span:nth-child(2) {
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+  }
+  .toc li span:nth-child(2):after {
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    content:
+      " ........................................"
+      "........................................."
+      ".........................................";
+    }
+
+  /* Style TOC page numbers*/
+  .toc li span:first-child {
+    float: right;
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    margin-left: 1px;
+  }
+
+  /* Adjust TOC H3 styles */
+  .toc li h3 span:nth-child(2):after {
+  	content: " ";
+  }
+  .toc li h3 {
+    margin-bottom: 4px !important;
+    margin-top: 10px !important;
+    line-height: initial !important;
+  }
+  .toc li h3 span:first-child {
+  	line-height: 1.8em !important;
+  }
+
+  /* Reduce TOC list indentation*/
+  .toc ul ul {
+  	margin-left: 10px !important;
+  }
+  .toc>ul>li {
+    margin-bottom: initial !important;
+  }
+
+
+/* TABLES AND BLOCKS */
+
+  /* Clear internal padding and add gap above for green note blocks*/
+  .phb blockquote {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .phb blockquote { margin-top: 1em;
+  }
+
+
+/* INK BLOT STYLES */
+
+  /* Root style for inkblots. Use alone, or together with
+  one of the inkb lotstyle classes below. Essentially:
+  <img url='{url}' class='inkblot inkblot-blue' />
+  */
+  .inkblot {
+    position: absolute;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+
+  .inkblot-blue {
+    filter: hue-rotate(190deg) saturate(120%)
+  }
+
+  .inkblot-green {
+    filter: hue-rotate(120deg)
+  }
+
+</style>
+
+<style>
+/* Background */
+  .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
+  .phb{ background-size: cover }
+
+/* Notes */
+  .phb section blockquote {background-color: #f6e5d4}
+  .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
+
+/* Tables */
+  table tr:nth-child(odd) td {background-color: #cccccc}
+
+/* Footer */
+  .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
+  .phb .footnote {color: rgba(0, 0, 0, 0.5)}
+  .phb:nth-child(odd):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : 10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
+    background-size  : cover;
+}
+
+.phb:nth-child(even):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : -10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
+    background-size  : cover;
+}
+
+/* Page Number */
+.phb .pageNumber{
+    position   : absolute;
+    bottom     : 30px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber{
+    right      : 12px;
+}
+
+.phb .pageNumber.auto{
+    position   : absolute;
+    bottom     : 41px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber.auto{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber.auto{
+    right      : 12px;
+}
+
+</style>
+
+<div style='margin-top:660px;'></div>
+
+## Druid
+*Standing in the way of nature is heresy. Even when nature's force is a destructive one.*
+<div style="text-align:Right"> 
+
+*— Malfurion Stormrage* &nbsp;</div>
+
+Clutching an engraved staff stitched with leaves, a night elf summons the powers of elune, calling down raw blue energy of the moon upon a terrible foe, smashing upon its body and encasing it whole for a brief moment.
+
+Crouching out of sight on a low hanging tree branch, in the form of a large feral tiger, a worgen scouts out from his hiding spot towards the constructions of Zul'Gurub, watch&shy;ing every move of the jungle trolls patrolling.
+
+Holding near her sickle and staff, a young tauren druid <br> is making beautiful ritual, making tiny seeds sprinkle into <br> a perfect circle of faintly glowing green lights, healing an endured ally to the best of her capabilities.
+
+Rushing forward towards his companion's aid, rumbling the ground as his body transforms into a giant bear crea&shy;ture with tusks, an experienced troll runs to his ally's aid, blocking a fatal blow with its fur.
+
+\columnbreak
+
+<div style='margin-top:210px;'></div>
+
+### Nature's Power
+Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature’s raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones. Druids can also direct this power to heal wounds and restore life to fallen allies. 
+
+They are deeply in tune with the animal spirits of Azeroth. As master shapeshifters, druids can take on the forms of a variety of beasts, morphing into a bear, cat, creatures of water, and creatures of air with ease. This flexibility allows them to fill different roles during their adventures, tearing enemies to shreds one minute and surveying the battlefield from the sky the next. These keepers of the natural order are among the most versatile heroes in Azeroth, and they must be prepared to adjust to new challenges on a moment’s notice.
+
+### Protectors of Balance
+Guardians of nature who seek to preserve balance and protect life, Druids have unmatched versatility on the field of battle. This is in part because druidism is much more than a fighting discipline. It’s a way of life steeped in tradi&shy;tions so ancient that even the origin of their kind is preser&shy;ved largely in mythology passed on through millennia.
+
+Druids harness nature’s raw energy for an incredible breadth of offensive and defensive abilities, as well as to re&shy;store life to the wounded. Through communion with nature and the demigod Cenarius, Lord of the Forest, Druids are supernaturally endowed with the gift of shapeshifting, allowing them to take the form of all manner of nature’s creatures and access powers as distinct as they are diverse.
+
+### Creating a Druid
+As you are creating your druid character, consider the bond you have with the natural world around you. Perhaps you always found comfort in the beasts of the wilds and have spent long in the shape of an animal, imitating nature itself? Perhaps your home was ravaged by raiders and you looked to the forces of nature for aid in rebuilding what was lost, seeking to restore that which has been damaged? or perhaps you have been raised by the faithful of Elune and have embraced the goddess as your own. Maybe your character was born in the depths of the elven forests, which was interpreted as a sign that becoming a druid was part of your character's destiny.
+
+Have you always been an adventurer as part of your druidic calling, or did you first spend time as a caretaker of a sacred grove? Or perhaps you become an adventurer to find your bond to nature elsewhere in the world.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/NYEBlxm.jpg' style='position:absolute; top:0px; right:100px; width:1350px' />
+<img src='https://www.gmbinder.com/images/pbSeYXZ.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/9wnUwNO.png' style='position:absolute; top:0px; right:-50px; width:900px' />
+<img src='https://www.gmbinder.com/images/3EnvB2R.png' style='position:absolute; top:60px; right:390px; width:500px' />
+
+\pagebreakNum
+
+<div class='classTable wide'>
+
+##### The Druid
+| Level | Proficiency<br>Bonus | Features | Cantrips<br>Known |&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th |&nbsp;|6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th|&nbsp;|Affinities <br> Known <div style="position: absolute; top:100px; right:169px; width:200px; height:25px">—Spell Slots per Spell Level—</div>|
+|:---:|:--:|:----------------------------------------------------------|:--:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:---:|
+| 1st | +2 | Druidic, Spellcasting                                     |2||2||—||—||—||—||—||—||—||—||—|
+| 2nd | +2 | Shapeshifting, Druid Path                                 |2||3||—||—||—||—||—||—||—||—||—|
+| 3rd | +2 | Wild Affinities                                           |2||4||2||—||—||—||—||—||—||—||2|
+| 4th | +2 | Ability Score Improvement, <br> Shapeshifting Improvement |3||4||3||—||—||—||—||—||—||—||2|
+| 5th | +3 | —                                                         |3||4||3||2||—||—||—||—||—||—||2|
+| 6th | +3 | Druid Path feature                                        |3||4||3||3||—||—||—||—||—||—||2|
+| 7th | +3 | —                                                         |3||4||3||3||1||—||—||—||—||—||3|
+| 8th | +3 | Ability Score Improvement, <br> Shapeshifting Improvement |3||4||3||3||2||—||—||—||—||—||3|
+| 9th | +4 | —                                                         |3||4||3||3||3||1||—||—||—||—||3|
+| 10th| +4 | Druid Path feature                                        |4||4||3||3||3||2||—||—||—||—||3|
+| 11th| +4 | —                                                         |4||4||3||3||3||2||1||—||—||—||4|
+| 12th| +4 | Ability Score Improvement                                 |4||4||3||3||3||2||1||—||—||—||4|
+| 13th| +5 | —                                                         |4||4||3||3||3||2||1||1||—||—||4|
+| 14th| +5 | Druid Path feature                                        |4||4||3||3||3||2||1||1||—||—||4|
+| 15th| +5 | —                                                         |4||4||3||3||3||2||1||1||1||—||5|
+| 16th| +5 | Ability Score Improvement                                 |4||4||3||3||3||2||1||1||1||—||5|
+| 17th| +6 | —                                                         |4||4||3||3||3||2||1||1||1||1||5|
+| 18th| +6 | Timeless Body, <br> Soul of the Forest                    |4||4||3||3||3||3||1||1||1||1||5|
+| 19th| +6 | Ability Score Improvement                                 |4||4||3||3||3||3||2||1||1||1||6|
+| 20th| +6 | Druid Path feature                                        |4||4||3||3||3||3||2||2||1||1||6|
+</div>
+
+#### Quick Build
+You can make a druid quickly be following these sugges&shy;tions. First, Wisdom should be your highest ability score, followed by Constitution. (Some druids who focus more on their physical strength than mental makes Strength or Dexterity higher than Wisdom). Second, choose the hermit background.
+
+#### Optional Rule: Multiclassing
+If your group uses the optional rule on multiclassing in the *Player's Handbook*, here's what you need to know if you choose druid as one of your classes.
+
+***Ability Score Minimum.*** As a multiclass character, you must have at least a Wisdom score of 13 to take a level in this class, or to take a level in another class if you are already a druid.
+
+***Proficiencies Gained.*** If druid isn't your initial class, here are the proficiencies you gain when you take your first level as a druid: light armor, nature skill.
+
+***Spell Slots.*** Add your levels in the druid class (or half your levels if you choose the Path of Feral subclass) to the appropriate levels from other class to determine your available spell slots.
+
+\columnbreak
+
+## Class Features
+As a druid, you gain the following class features.
+
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per druid level
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor
+- **Weapons:** Simple weapons
+- **Tools:** Herbalism kit
+___
+- **Saving Throws:** Intelligence, Wisdom
+- **Skills:** Choose two from Arcana, Animal Handling. lnsight, Medicine, Nature, Perception, Religion, and Survival
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a quarterstaff or *(b)* any simple weapon
+- *(a)* a dagger or *(b)* any simple weapon
+- Leather armor, explorer's pack, and a druidic focus
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+### Druidic
+You know Druidic, the secret language of druids. You can speak, read and write Druidic, a language sacred to druids that is not taught to outsides without severe consequences for the teacher and teached.
+
+### Spellcasting
+Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See chapter 10 of the *Player's Handbook* for the general rules of spellcasting and chapter 6 of this book for the druid spell list.
+
+#### Cantrips
+At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
+
+#### Preparing and Casting Spells
+The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast a druid spell, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells. 
+
+You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+
+#### Spellcasting Ability
+Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attune-ment to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack with one.
+
+<div style="text-align: Center">
+
+**Spell save DC** = 8 + your proficiency bonus + <br> your Wisdom modifier
+
+**Spell attack modifier** = your proficiency bonus + <br> your Wisdom modifier
+</div>
+
+#### Ritual Casting
+You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+
+#### Spellcasting Focus
+You can use a druidic focus as a spellcasting focus for your druid spells.
+
+### Shapeshifting
+Starting at 2nd level, you can use your action to magically assume a druidic shape. There is no limitation to how often you can shapeshift into a shape that you know.
+
+\columnbreak
+
+&nbsp;&nbsp;&nbsp; Your druid level determines the shapes you can transform into, as shown in the Shapeshifts table. At 2nd level, for example, you can shapeshift into a cat or bear, among other shapeshifts.
+
+##### Shapeshifts
+|&nbsp; Level |&nbsp;&nbsp;| Available Shapeshifts |
+|:-----------:|:-|:--------------------------------|
+|&nbsp; 2nd   || Cat, Bear, Moonkin, Treant        |
+|&nbsp; 4th   || Aquatic, Travel                   |
+|&nbsp; 8th   || Flight                            |
+
+There is no limit to how long you can stay shapeshifted, reverting to your normal form as a bonus action. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
+
+While you are transformed, the following rules apply:
+
+- Your retain your game statistics, alignment, and person-ality. While shapeshifted you are considered unarmored and calculate your Armor Class according to the shape.
+- When you shapeshift your hit points does not change, and any damage taken whilst in a shape carries over to your normal form.
+- You can't cast spells, unless the shape says otherwise, and your ability to speak or take any action that requires hands is limited to the capabil&shy;ities of your shapeshift. However, transforming doesn't break your concentration on a spell you've already cast or prevent you from taking actions that are part of a spell, such as *moonbeam*, that you've already cast.
+- You retain the benefit of any features from your class, race, or other source and can use them if the shapeshift is physically capable of doing so, in addition to gaining those of the shape. However, you can't use any of your special senses, such as darkvision, unless your new shape also has that sense.
+- You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment merged with your form has no effect and cannot be activated until you leave the form, but any passive magical properties will still affect you.
+
+### Druid Paths
+At 2nd level, you choose a druidic path: Balance, Feral, or Restoration, each of which are detailed at the end of the class description. Your choice grants you features at 2nd level and again at 6th, 10th, 14th, and 20th level.
+
+### Wild Affinities
+Having accustomed yourself with the druidic forces, you have learnt how to harness the true potential of its powers and the potential of certain shapes.
+
+At 3rd level, you gain two wild affinities of your choice. Your affinity options are detailed at the end of the class description. When you gain certain druid levels, you gain additional affinities of your choice, as shown in the Affinities Known column of the Druid table.
+
+Additionally, when you gain a level in this class, you can choose one of the affinities you know and replace it with another affinities that you could learn at that level.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+> ##### Druidic Forms
+> Shapeshifts are an extension of the druid. Both as a person but also as a race, a taurens shapeshifts might have horns similar to their own, an orc or troll might grant theirs tusks, a night elf might decorate theirs with signs of Elune, and so on. Similarly their beasts might be different, a night elf might choose a slim panther while a tauren chooses a stout lion.
+>
+> Certain shapes does not have to be grand transfor&shy;mations, a druid who shapeshifts into a moonkin might not become a giant owlbeast but instead take on qualities of Elune, make their eyes flare bright with silver and cover their skin in the dots of a starry night. A druid who takes the shape of a treant might instead take on qualities of the wilds. Turn their skin to bark, their hair to leaves, and so on.
+>
+> The shapeshifts are yours to personalize, although each is tied to certain type of animal or creature, you can modify its appearance to better fit your race, or talk with your DM about making it something completely different.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Timeless Body
+Starting at 18th level, the primal magic that you wield has caused you to age more slowly. For every 10 years that pass, your body ages only 1 year.
+
+### Soul of the Forest
+Beginning at 18th level, your connection with nature grows to new lengths, deepening your bond with nature and enabling you to conjure a gateway into the Emerald Dream.
+
+Spending 10 minutes in an area of unspoiled nature, you can conjure a gateway to the Emerald Dream, the entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when conjuring the gateway can enter into the Emerald Dream for as long as the gate-way remains open. You can open and close the gateway if you are within 30 feet of it. While closed, the gateway on Azeroth crumbles and is effectively invisible. The gateway remains conjured for 24 hours, at which point it crumbles entire and cannot be conjured again for 7 days.
+
+Additionally, beasts and plants of the wilds can sense your connection to nature, giving you advantage on all skill and ability checks made to communicate with them.
+
+## <span style="margin-left:25px"></span> Druid Paths
+<span style="margin-left:25px"></span> Although all druids have a deep love for nature and 
+<span style="margin-left:30px"></span> wilderness, some carry a deep love for the beasts of 
+<span style="margin-left:35px"></span> the world and imitate their shapes. Some have a 
+<span style="margin-left:40px"></span> deep love for the goddess Elune and others wish to 
+<span style="margin-left:45px"></span> preserving life. All druids can be placed into one of 
+<span style="margin-left:50px"></span> following paths: Balance, Feral, or Restoration.
+
+\columnbreak
+
+### Path of Balance
+Druids on the Path of Balance become fierce combatants capable of calling upon the forces of nature and the beloved goddess Elune to guide their hand. Many of these druids have a deep connection with the natural world and work to protect it from the many outside threats.
+
+
+##### Path of Balance Spells
+|&nbsp; Druid Level |&nbsp;&nbsp;| Spells           |
+|:---------:|:-|:-----------------------------------|
+|&nbsp; 3rd || enhance ability, moonbeam            |
+|&nbsp; 5th || daylight, ✦ starsurge                  |
+|&nbsp; 7th || confusion, grasping vine             |
+|&nbsp; 9th || commune with nature, wrath of nature |
+<div style='margin-top:-5px;'></div>
+
+*✦ New spells can be found in chapter 6 later in this book* 
+
+#### Path Spells
+Your mystical connection to Elune infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to path spells.
+
+Once you gain access to a path spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+
+#### Innervate
+Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with the nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
+
+For example, when you are a 4th-level druid, you can re-cover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
+
+#### Force of Nature
+Beginning at 6th level, you can tap into the forces around you and use them to bolster your spellwork.
+
+When you cast a spell that targets only one creature, you can choose to deal extra damage to it equal to your druid level, or restore hit points to it equal to your druid level. You can choose to use this feature before or after an attack roll, but before any effects of the roll are applied.
+
+You can use this feature twice. You regain expended uses when you finish a long rest.
+
+#### Astral Influence,
+Upon reaching 10th level, you find solace and empower&shy;ment in the goddess Elune, you gain the following features.
+
+- You gain resistance to radiant damage.
+- You can choose to deal radiant damage with your Force of Nature feature, rather than the spell's damage type.
+- You have advantage on checks and saving throws to avoid being charmed or frightened by spell effects.
+<div style='margin-top:-4px;'></div>
+
+#### Blessing of the Ancients
+Starting at 14th level, you balance between the two forces of the world. Whenever you finish a short or long rest, you can choose either *an'she* or *elune* and gain the benefits of the chosen balance until you finish your next rest.
+
+***An'she.*** You are always under the effects of a *see invisi&shy;bility* spell. Additionally, you are immune to being blinded and when a melee attack is made against you, you can use your reaction to impose disadvantage on the attack roll.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/QGRe8vc.png' style='position:absolute; top:1050px; right:330px; width:750px;transform:rotate(-105deg)' />
+
+\pagebreakNum
+
+<div style='margin-top:480px;'></div>
+
+<div class='classTable'>
+
+##### Feral Spellcasting
+|Druid <br> Level|Cantrips <br> Known|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;|Affinities <br> Known|
+|:---:|:-:|:--:|-|:--:|-|:--:|-|:--:|-|:--:|-|:--:|
+| 2nd | 2 |3||—||—||—||—||—|
+| 3rd | 2 |3||—||—||—||—||2|
+| 4th | 2 |3||—||—||—||—||2|
+| 5th | 2 |4||2||—||—||—||3|
+| 6th | 2 |4||2||—||—||—||3|
+| 7th | 2 |4||3||—||—||—||4|
+| 8th | 2 |4||3||—||—||—||4|
+| 9th | 2 |4||3||2||—||—||5|
+| 10th| 3 |4||3||2||—||—||5|
+| 11th| 3 |4||3||3||—||—||6|
+| 12th| 3 |4||3||3||—||—||6|
+| 13th| 3 |4||3||3||1||—||7|
+| 14th| 3 |4||3||3||1||—||7|
+| 15th| 3 |4||3||3||2||—||8|
+| 16th| 3 |4||3||3||2||—||8|
+| 17th| 3 |4||3||3||3||1||9|
+| 18th| 3 |4||3||3||3||1||9|
+| 19th| 3 |4||3||3||3||2||10|
+| 20th| 3 |4||3||3||3||2||10|
+</div>
+
+\columnbreak
+
+&nbsp;&nbsp;&nbsp; ***Elune.*** You gain darkvision out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet. Additionally, while you are in dim light or darkness, you can use your reaction to gain advantage on your spell attacks made until the end of your turn.
+
+#### Incarnation: Chosen of Elune
+At 20th level, you have been chosen by Elune and can let her powers flow through you, taking on an appearance as you choose. For examples, the colors and stars of elune might move across your skin, your moonkin shape might shine with a dim blue glow, or you might have a crescent moon floating above your head
+
+You can use your action to assume your moonkin shape and let the powers of the goddess flow through you. For 1 minute, you gain the following benefits.
+
+- You can use a spell slot to cast the *moonbeam* spell, even if you don't have it prepared, and you can move the beam as a bonus action.
+- The range of any druid spell you cast is doubled, and any druid spell with a range of touch has a range of 30 feet.
+- You have advantage on Wisdom saving throws, as do your allies within 30 feet of you.
+
+The incarnation persists beyond the shapeshift, but has no effect outside of your moonkin shape. Once you use this feature, you can't use it again until you finish a long rest.
+
+### Path of Feral
+Druids on the Path of Feral feels a deeper connection the wilderness and its creatures than other druids, preferring the shape of a ferocious animal above their humanoid self. Feral druids excel at melee combat and uses the full capa&shy;bilities of their shapeshifts to attack their enemies head on.
+
+#### Savage Adaptation
+When you choose this path at 2nd level, you become proficient in your choice of Dexterity or Constitution saving throws, in addition to those of the druid class.
+
+Additionally, you refer to the Feral Spellcasting table in the Feral class description to determine your cantrips, spell slots, and known affinities whenever you gain a level in this class. You also count as a *half-caster* for determining available spell slots when multiclassing with other classes.
+
+#### Mark of Ursol
+Starting at 2nd level, you are able to draw from the wisdom of the ancient Ursol to allow you to subtly cast spells, even when shapeshifted.
+
+You can choose to use this feature, allowing you to cast spells while shapeshifted until the end of your turn. While  active, you ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by the spell.
+
+You can use this feature twice. You regain expended uses when you finish a short or long rest.
+
+#### Feral or Guardian Affinity
+Also at 2nd level, you gain one of the following features of your choice, your choice will also determine your 14th level Feral feature.
+
+***Ravage.*** When you hit a creature with a melee attack while shapeshifted, you can expend a spell slot to deal extra weapon damage to the target. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 6d8.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/cTUhYzO.jpg' style='position:absolute; top:0px; right:370px; width:450px' />
+<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:0px; right:-100px; width:900px; transform:scaley(-1)' />
+
+\pagebreakNum
+
+&nbsp;&nbsp;&nbsp; ***Frenzy.*** You can use a bonus action to enter a frenzy while shapeshifted, giving you resistance to bludgeoning, piercing, and slashing damage.
+
+Your frenzy lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end the frenzy on your turn as a bonus action.
+
+You can use this feature twice. Beginning at 7th level, you can use frenzy three times between rests, and at 15th level, you can enter a frenzy four times between rests. When you finish a long rest, you regain all expended uses.
+
+#### Primal Instincts
+Upon reaching 6th level, you act instinctively to danger and add your Wisdom modifier to your initiative rolls.
+
+Your time spent shapeshifted has made you adept at scouring your surroundings. You can't be surprised while you're awake.
+
+#### Extra Attack
+Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn while shapeshifted.
+
+In addition, your shapeshifted weapon attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damages.
+
+#### Feral Tactics
+Also at 6th level, you choose one of the following features. You can use this feature when shapeshifted.
+
+***Pack Defender.*** When a friendly creature you can see within 5 feet of you is being targeted by an attack roll, you can use your reaction to swap places with the creature and have the attack target you instead.
+
+***Pulverizing Mauler.*** When you hit a creature with a weapon attack, the creature must make a Strength saving throw (DC 8 + your Strength or Dexterity modifier + your proficiency bonus). On a failed save, the creature is knocked prone. You can pulverize only once per turn.
+
+#### Brutal Maim
+At 10th level, when you hit a creature with a weapon attack while shapeshifted, the creature hit has disadvantage on the next saving throw it makes against a druid spell you cast before the end of your next turn.
+
+#### Superior Feral or Guardian Affinity
+Beginning at 14th level, you gain one of the following features, depending on your choice at 2nd level.
+
+***Ravage.*** When a hostile creature that you can see within reach is hit by an attack made by another creature, you can use your reaction to make an opportunity attack against that hostile creature.
+
+***Frenzy.*** While you are in a frenzy, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against target other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be frightened.
+
+#### Incarnation: Guardian of the Wilds
+At 20th level, you can assume the form of a guardian of the wilds, bolstering the appearance of your shapeshift and empowering yourself through the forces of nature. Bark manifests as armor around you and your appearance grows feral and terrifying as the wilds grant you its power.
+
+While shapeshifted, you can use your action to incarnate the wilds. For 1 minute, you gain the following benefits.
+
+- When you take the Attack action on your turn, you can make one additional attack as part of that action.
+- All attack rolls have disadvantage against you as armor of bark takes the front of the blows.
+- Your base movement speed increases by 10 feet, and you ignore difficult terrain.
+
+The incarnation persists beyond your shapeshifts, but has no effect outside of them. Once you use this feature, you can't use it again until you finish a long rest.
+
+### Path of Restoration
+Druids on the Path of Restoration seeks to undo the many injuries that are dealt to the world and its people. They are strong hearted and loving individuals, less prone to fits of anger and more willing to seek common ground.
+
+##### Path of Restoration Spells
+|&nbsp; Druid Level |&nbsp;&nbsp;| Spells        |
+|:---------:|:-|:--------------------------------|
+|&nbsp; 3rd || barkskin, lesser restoration      |
+|&nbsp; 5th || mass healing word, revivify       |
+|&nbsp; 7th || aura of life, guardian of nature  |
+|&nbsp; 9th || greater restoration, raise dead   |
+
+#### Path Spells
+Your restorative powers have granted you the ability to cast certain spells to your benefit. At 3rd, 5th, 7th, and 9th level you gain access to path spells.
+
+Once you gain access to a path spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+
+#### Rejuvenation
+When you choose this path at 2nd level, you gain the blessings of Elune, making you a font of energy that offers respite from injuries. You have a pool of energy represented by a number of d6s equal to your druid level.
+
+As a bonus action, you can choose one creature that you can see within 120 feet of you and spend a number of those dice equal to half your druid level or less. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 tempor-ary hit point per die.
+
+You regain all expended dice when you finish a long rest.
+
+#### Ironbark
+Beginning at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.
+
+#### Tranquility
+Starting at 10th level, you are able to draw on the tranquil nature around you to sooth your allies. As an action, you evoke the tranquility and gain a pool of healing energy that can restore hit points equal to five times your druid level.
+
+Maintaining tranquility requires your concentration, lasts up to 1 minute, and while you are concentrating on it your movement speed is halved.
+
+While active, you can use a bonus action to choose <br> any number of creatures within 30 feet of you and divide <br> a number of hit points from your pool among them, to a maximum number of hit points equals your druid level. 
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+#### Cenarion Ward
+When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
+
+The creature is aware of this effect before it makes its attack against you.
+
+#### Incarnation: Tree of Life
+At 20th level, you can draw strength from the world trees of Azeroth, enlarging your treant shape to equal an ancient as you take on the tranquil shape of a tree of life.
+
+You can use your action to assume your treant shape and incarnate to a tree of life. For 1 minute, you gain the following benefits.
+
+- At the start of each of your turns, you gain 10 temporary hit points. When incarnate ends, you lose any remaining temporary hit points.
+- Your size becomes Large, unless you were larger.
+- When you cast a spell that restores hit points to a target, another creature of your choice within 30 feet of it is regains hit points equal to half the amount restored.
+
+The incarnation persists beyond the shapeshift, but has no effect outside of your treant shape. Once you use this feature, you can't use it again until you finish a long rest.
+
+## Wild Affinities
+If a wild affinity has prerequisites, you must meet them to learn it. You can learn the affinity at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
+
+#### Beast Speech
+You can cast *speak with animals* at will, without expending a spell slot.
+
+#### Celestial Alignment
+*Prerequisite: 5th level, Path of Balance*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted as a moonkin, you may use either roll when you reroll a damage die.
+
+#### Combat Shapeshifting
+You are able to shapeshift as a bonus action on your turn.
+
+#### Cultivate
+*Prerequisite: 11th level, Path of Restoration*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted as a treant, whenever you restore hit points to a creature, that creature also gains temporary hit points equal to your Wisdom modifier.
+
+#### Displacer Beast
+You can expend a spell slot of 2nd-level or higher to cast <br> the *misty step* spell. When you do so, you reappear in the unoccupied space as an available shapeshift of your choice.
+
+***Feral.*** You can use this affinity once, without expending a spell slot. You can't do so again until you finish a short rest.
+
+\columnbreak
+
+#### Feline Momentum
+*Prerequisite: 9th level*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted as a cat, you can move along vertical surfaces on your turn without falling during the move. You fall if you end your turn on a vertical surface.
+
+#### Feral Swiftness
+While shapeshifted, you can take the *dash* action as a bonus action. This has no effect in moonkin or treant form.
+<div style='margin-top:-1px;'></div>
+
+#### Flourish
+*Prerequisite: Path of Restoration*
+<div style='margin-top:-6px;'></div>
+
+Once per turn when you roll hit dice for your Rejuvenation feature, you may reroll one of the dice and use either roll.
+<div style='margin-top:-1px;'></div>
+
+#### Germination
+*Prerequisite: 7th level, Path of Restoration*
+<div style='margin-top:-6px;'></div>
+
+Whenever you use Rejuvenation, you can expend a spell slot of 1st-level or higher to choose a second target within range and divide the hit points restored between the targets. This does not change the effect of Rejuvenation.
+
+***At Higher Levels.*** You can choose an additional target for each slot level above 1st.
+<div style='margin-top:-1px;'></div>
+
+#### Growl
+*Prerequisite: Path of Feral*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted, you can expend a spell slot to cast the *compelled duel* spell.
+<div style='margin-top:-1px;'></div>
+
+#### Leader of the Pack
+*Prerequisite: 4th level*
+<div style='margin-top:-6px;'></div>
+
+Any creature within 60 feet of you are also affected by the Travel Pace feature of your shapeshifts as long as you are not incapacitated.
+<div style='margin-top:-1px;'></div>
+
+#### Lunar Downpour
+*Prerequisite: Path of Balance, lunar strike* cantrip 
+<div style='margin-top:-6px;'></div>
+
+When you hit a target with *lunar strike* while shapeshifted as a moonkin, the targets movement speed is reduced by 10 feet until the start of your next turn.
+<div style='margin-top:-1px;'></div>
+
+#### Mark of Ursoc
+*Prerequisite: Path of Feral*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted as a bear, you can expend a spell slot to cast the enlarge effect of the *enlarge/reduce* spell on yourself. You can't do so again until you finish a long rest.
+<div style='margin-top:-1px;'></div>
+
+#### Mighty Bash
+*Prerequisite: Path of Feral, 5th level*
+<div style='margin-top:-6px;'></div>
+
+When you hit another creature with a melee weapon attack while shapeshifted, you can attempt to stun it. The target must succeed on a Constitution saving throw against your druid spell save DC or be stunned until the end of your next turn. You can't do so again until you finish a short rest.
+<div style='margin-top:-1px;'></div>
+
+#### Nine Lives / Flap
+While shapeshifted as cat or moonkin, you can use your reaction to give yourself the benefits of a *feather fall* spell until the end of your turn. You can't do so again until you finish a short rest.
+<div style='margin-top:-1px;'></div>
+
+#### Nature's Focus
+*Prerequisite: 11th level, Path of Balance or Restoration*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted as a moonkin or treant, you add your Wisdom modifier to any Constitution saving throws you make to maintain your concentration.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+#### Primal Fury
+*Prerequisite: 5th level*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted, you have a +1 bonus to your melee weapon attack and damage rolls.
+
+#### Prowl
+*Prerequisite: Path of Feral*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted, you can expend a spell slot to cast the *invisibility* spell on yourself. You can't do so again until you finish a long rest.
+
+***At Higher Levels.*** You can choose an additional creature within 15 feet of you for each slot level above 1st.
+
+#### Renewal
+While shapeshifted, you can expend a spell slot of 1st-level or higher to cast the *cure wounds* spell on yourself.
+
+***At Higher Levels.*** When you use this affinity using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+
+#### Skull Bash
+*Prerequisite: 5th level*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted, you can cast *counterspell* once using a spell slot, but only as a touch spell. You can't do so again until you finish a long rest.
+
+#### Solar Drift
+*Prerequisite: Path of Balance, solar wrath* cantrip 
+<div style='margin-top:-6px;'></div>
+
+When you cast *solar wrath* while shapeshifted as a moonkin, the range of the spell increases to 120 feet.
+
+#### Stampeding Roar
+While shapeshifted, you can expend a spell slot of 1st-level or higher and choose any number of creatures within 60 feet of you, each creature have its base movement speed increased by 10 feet until the end of your next turn.
+
+***At Higher Levels.*** The movement speed increases by 10 feet for each slot level above 2nd.
+
+\columnbreak
+
+#### Sunfire
+*Prerequisite: Path of Balance, solar wrath* cantrip 
+<div style='margin-top:-6px;'></div>
+
+When you hit a target with *solar wrath* while shapeshifted as a moonkin, the target must succeed on a Constitution saving throw against your spell save DC or be blinded until the start of its next turn.
+
+#### Survival Instincts
+*Prerequisite: Path of Feral*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted as a bear, when you are reduced to 0 hit points by an attack or spell but not outright killed, you can drop to 1 hit point instead. You can't do so again until you finish a long rest.
+
+#### Thick Hide
+*Prerequisite: 5th level*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted, you add +1 to your Armor Class.
+
+#### Tranquil Mind
+*Prerequisite: 11th level, Path of Restoration*
+<div style='margin-top:-6px;'></div>
+
+While shapeshifted as a treant, you are no longer slowed down by tranquility and can use your full movement.
+
+#### Twin Moons
+*Prerequisite: 7th level, Path of Balance, lunar strike* cantrip 
+<div style='margin-top:-6px;'></div>
+
+When you cast *lunar strike* while shapeshifted as a moonkin, you can choose two targets even  if they are not within 5 feet of each other. Both targets still needs to be within the spell's range.
+
+#### Ursol's Favor
+*Prerequisite: Path of Feral*
+<div style='margin-top:-6px;'></div>
+
+You can use Mark of Ursol a number of times equal to your Wisdom modifier, instead of twice. You regain all spent uses after finishing a short or long rest.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/958mFBu.jpg' style='position:absolute; top:630px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-350px; right:0px; width:900px' />
+
+\pagebreakNum
+
+<style>.phb hr+section blockquote { background: none; border: none; box-shadow: none; } </style>
+
+# Appendix A: Shapeshifts
+
+___
+> ## Aquatic Form
+>*Medium size*
+> ___
+> - **Armor Class** 12 + Dexterity modifier
+> - **Speed** 0 ft., swim 50 ft.
+>___
+>
+> ***Blindsight.*** You gain blindsight 60 ft.
+>
+> ***Travel Pace.*** When you travel for 1 hour or more, your total travel pace is doubled (see chapter 8 of the *Player's Handbook* for more information about travel pace).
+>
+> ***Water Breathing.*** You can breathe only underwater.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* Reach 5 ft., one target. <br> *Hit:* (1d8 + modifier) piercing damage.
+
+<div style='margin-top:160px;'></div>
+
+> ##### Shapeshifts and Ability Modifiers
+> Your shapeshifts all rely on your capabilities as a druid and draw their strength directly from you, as such your ability scores and modifiers are used when you assume a shape. When you make an attack roll in a shape, you are considered to have proficiency with the attack and use either your Strength or Dexterity for the attack and damage roll, see below.
+>
+> Certain shapeshifts are able to use your choice of either Strength or Dexterity for their attacks, whilst some rely solely on one ability, the available ability scores for each shapeshift are listed below.
+>
+> ***Aquatic.*** To feed in the water aquatic creatures must be strong, and as such you use your Strength for attack and damage rolls.
+>
+> ***Bear.*** The roaring bears rely on their strength in combat, and as such you use your Strength for attack and damage rolls.
+>
+> ***Cat.*** Cats can rely both on raw strength and agility. You can use your choice of Strength or Dexterity for attack and damage rolls.
+>
+> ***Flight.*** Birds of prey take many forms and shapes. You can use your choice of Strength or Dexterity for attack and damage rolls.
+>
+> ***Moonkin.*** Although moonkins rarely show it, they are powerful creatures, and as such you use your Strength for attack and damage rolls.
+>
+> ***Travel.*** Travel are creatures both swift and strong, and as such you can use your choice of Strength or Dexterity for attack and damage rolls.
+>
+> ***Treant.*** The wandering treants are slow but heavy hitters, and as such you use your Strength for attack and damage rolls.
+
+\columnbreak
+
+___
+> ## Bear Form
+>*Large size*
+> ___
+> - **Armor Class** 12 + Dexterity and Constitution modifier
+> - **Speed** 40 ft., climb 30 ft.
+> ___
+>
+> ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ***Charge.*** If you move at least 20 feet straight toward a target and then hits with a weapon attack on the same turn, the creature takes an extra 1d8 damage. If the target is a creature, it must succeed on a Strength saving throw (DC 8 + Str modifier + proficiency). On a failed save, the creature is knocked prone.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* Reach 5 ft., one target. <br> *Hit:* (1d8 + modifier) piercing damage.
+>
+> ***Claw.*** *Melee Weapon Attack:* Reach 5 ft., one target. <br> *Hit:* (1d12 + modifier) slashing damage.
+
+___
+> ## Cat Form
+>*Medium size*
+> ___
+> - **Armor Class** 12 + Dexterity modifier
+> - **Speed** 40 ft., climb 40 ft.
+>___
+>
+> ***Darkvision.*** You gain darkvision 60 ft.
+>
+> ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ***Pounce.*** If you move at least 20 feet straight toward a creature right before hitting it with a weapon attack, the creature must succeed on a Strength saving throw (DC 8 + Dex modifier + proficiency). On a failed save, the creature is knocked prone and the next attack you make before the end of your turn deals an extra 2d6 damage.
+>
+> ***Multiattack.*** When you take the Attack action to make a weapon attack, you can use a bonus action to attack with a different weapon.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* Reach 5 ft., one target. <br> *Hit:* (1d6 + modifier) piercing damage.
+>
+> ***Claw.*** *Melee Weapon Attack:* Reach 5 ft., one target. <br> *Hit:* (1d8 + modifier) slashing damage.
+
+<div class='footnote'>APPENDIX A | SHAPESHIFTS</div>
+<img src='https://www.gmbinder.com/images/xAAg1PL.png' style='position:absolute; top:375px; right:397px; width:350px' />
+
+\pagebreakNum
+
+___
+> ## Flight Form
+>*Large size*
+> ___
+> - **Armor Class** 12 + Dexterity modifier
+> - **Speed** 10 ft., 70 ft.
+> ___
+>
+> ***Flyby.*** You don't provoke opportunity attacks when you fly out of an enemy's reach.
+>
+> ***Keen Sight.*** You have advantage on Wisdom (Perception) checks that rely on sight.
+>
+> ***Travel Pace.*** When you travel for 1 hour or more, your total travel pace is doubled (see chapter 8 of the *Player's Handbook* for more information about travel pace).
+>
+> ### Actions
+> ***Beak.*** *Melee Weapon Attack:* Reach 5 ft., one target. <br> *Hit:* (1d10 + modifier) piercing damage.
+>
+> ***Talon.*** *Melee Weapon Attack:* Reach 5 ft., one target. <br> *Hit:* (1d4 + modifier) slashing damage.
+
+___
+> ## Moonkin Form
+>*Medium size*
+> ___
+> - **Armor Class** 12 + Dexterity modifier
+> - **Speed** 30 ft.
+> ___
+>
+> ***Darkvision.*** You gain darkvision 60 ft.
+>
+> ***Keen Sight.*** You have advantage on Wisdom (Perception) checks that rely on sight.
+>
+> ***Spellcasting.*** You can cast druid spells and perform their spell components while in this shape. Whenever you cast a druid spell that deals damage, you may reroll one die. You must use the new roll.
+>
+> ### Actions
+> ***Beak.*** *Melee Weapon Attack:* Reach 5 ft., one target. <br> *Hit:* (1d6 + modifier) piercing damage.
+>
+> ***Talon.*** *Melee Weapon Attack:* Reach 5 ft., one target. <br> *Hit:* (1d4 + modifier) slashing damage.
+
+\columnbreak
+
+___
+> ## Travel Form
+>*Large size*
+> ___
+> - **Armor Class** 12 + Dexterity modifier
+> - **Speed** 50 ft.
+> ___
+>
+> ***Steady Mount.*** Any creature mounted on your back have advantage on Dexterity saving throws to remain seated.
+>
+> ***Travel Pace.*** When you travel for 1 hour or more, your total travel pace is doubled (see chapter 8 of the *Player's Handbook* for more information about travel pace).
+>
+> ### Actions
+> ***Gore.*** *Melee Weapon Attack:* Reach 5 ft., one target. <br> *Hit:* (1d6 + modifier) slashing damage.
+
+___
+> ## Treant Form
+>*Medium size*
+> ___
+> - **Armor Class** 12 + Dxterity modifier
+> - **Speed** 30 ft.
+> ___
+>
+> ***False Appearance.*** While you remains motionless, you have advantage on Dexterity (Stealth) checks.
+>
+> ***Plant Whisper.*** You can question plants about events within the past day, gaining information about creatures that have passed, weather, and other circumstances.
+>
+> ***Spellcasting.*** You can cast druid spells and perform their spell components while in this shape. When you restore hit points to a creature through a druid spell and roll a natural 1 on a die, you may change its result to a 2.
+>
+> ### Actions
+> ***Claw.*** *Melee Weapon Attack:* Reach 5 ft., one target. <br> *Hit:* (1d6 + modifier) slashing damage.
+
+<div class='footnote'>APPENDIX A | SHAPESHIFTS</div>
+<img src='https://www.gmbinder.com/images/NYEBlxm.jpg' style='position:absolute; top:750px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-220px; right:0px; width:900px' />
+
+\pagebreakNum
+
+<div style='column-count:2'>
+
+### Druid Spells
+##### Cantrips (0 Level)
+Dancing Lights
+<br> Druidcraft
+<br> Guidance
+<br> ✦ Lunar Strike
+<br> Primal Savagery ^XGE^
+<br> Resistance
+<br> Shape Water ^XGE^
+<br> Shillelagh
+<br> ✦ Solar Wrath
+<br> Thorn Whip
+
+##### 1st Level
+Animal Friendship
+<br> Beast Bond ^XGE^
+<br> Cure Wounds
+<br> Detect Magic
+<br> Detect Poison and Disease
+<br> Earth Tremor ^XGE^
+<br> Entangle
+<br> Expeditious Retreat
+<br> Faerie Fire
+<br> Fog Cloud
+<br> Goodberry
+<br> Healing Word
+<br> Jump
+<br> Longstrider
+<br> Purify Food and Drink
+<br> Sleep
+<br> Snare ^XGE^
+<br> Speak with Animals
+<br> ✦ Starfire
+
+##### 2nd Level
+Animal Messenger
+<br> Barkskin
+<br> Beast Sense
+<br> ✦ Cyclone
+<br> Darkvision
+<br> Dust Devil ^XGE^
+<br> Enhance Ability
+<br> Gust of Wind
+<br> Hold Person
+<br> Lesser Restoration
+<br> Locate Animals or Plants
+<br> Moonbeam
+<br> Pass without Trace
+<br> Protection from Poison
+<br> Skywrite ^XGE^
+<br> Spike Growth
+<br> Warding Wind ^XGE^
+
+##### 3rd Level
+Catnap ^XGE^
+<br> Conjure Animals
+<br> Daylight
+<br> Dispel Magic
+<br> Feign Death
+<br> Magic Circle
+<br> Mass Healing Word
+<br> Plant Growth
+<br> Protection from Energy
+<br> Revivify
+
+\columnbreak
+
+<div style='margin-top:27px;'></div>
+
+<br> Speak with Plants
+<br> ✦ Starsurge
+<br> Water Breathing
+<br> Wind Wall
+
+##### 4th Level
+Blight
+<br> Charm Monster ^XGE^
+<br> Confusion
+<br> Conjure Woodland Beings
+<br> Dominate Beast
+<br> Freedom of Movement
+<br> Grasping Vine
+<br> Guardian of Nature
+<br> Hallucinatory Terrain
+<br> Locate Creature
+<br> ✦ Ursol's Vortex
+<br> Watery Sphere ^XGE^
+
+##### 5th Level
+Awaken
+<br> Commune with Nature
+<br> Control Winds ^XGE^
+<br> Dawn ^XGE^
+<br> Dream 
+<br> Geas
+<br> Greater Restoration
+<br> Mass Cure Wounds
+<br> Scrying
+<br> Tree Stride
+<br> Wrath of Nature ^XGE^
+
+##### 6th Level
+Conjure Fey
+<br> Druid Grove ^XGE^
+<br> ✦ Eclipse
+<br> Find the Path
+<br> Heal
+<br> Investiture of Wind ^XGE^
+<br> ✦ Starfall
+<br> Sunbeam
+<br> Transport via Plants
+<br> Wall of Thorns
+<br> Wind walk
+
+##### 7th Level
+Crown of Stars ^XGE^
+<br> Mirage Arcane
+<br> Regenerate
+<br> Reverse Gravity
+<br> Whirlwind ^XGE^
+
+##### 8th Level
+Animal Shapes
+<br> Control Weather
+<br> Feeblemind
+<br> Sunburst
+
+##### 9th Level
+Foresight
+<br> Mass Heal
+<br> Shapechange
+<br> Storm of Vengeance
+<br> True Resurrection
+</div>
+
+\columnbreak
+
+#### Cyclone
+*2nd-level conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
+A whirl of wind forms around a Large or smaller creature that you can see within range. The target must make a Strength saving throw. On a failed save, the target is lifted off the ground and is restrained for the spell's duration.
+
+As an action, you can cause the cyclone to move up to 20 feet in a direction of your choice. A creature restrained by the cyclone moves with it. If the cyclone moves through a space too narrow for its restrained creature, the creature breaks out and the spell ends.
+
+To break out, the restrained target can use its action to make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand. The cyclone then vanishes.
+
+#### Eclipse
+*6th-level transmutation*
+___
+- **Casting Time:** 1 minute
+- **Range:** Self (5-mile radius)
+- **Components:** V, S, M (a vail of water from a moonwell)
+- **Duration:** Up to 1 hour
+___
+You evoke the goddess Elune to block out the rays of An'she within 5 miles of you for the duration. You must be in an outdoor area to cast this spell.
+
+When you cast this spell, an eclipse gradually blocks out any natural light over 1 minute, bathing any outdoor area in complete darkness. The eclipse also affects any light source with a clear path to the sky, changing bright light to dim light and dim light to darkness. When the spell ends, the eclipse gradually vanishes over the cause of 1 minute as natural light returns.
+
+#### Lunar Strike
+*Evocation cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+A streak of lunar energy flares through the air. Choose <br> one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity save or take 1d4 force damage.
+
+***At Higher Levels.*** This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+#### Solar Wrath
+*Evocation cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+You release a blast of the sun's wrath against a creature within range. Make a ranged spell attack against the creature. On a hit, the target takes 1d8 radiant damage.
+
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
+#### Starfall
+*6th-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 300 feet
+- **Components:** V, S, M (a pinch of powdered glass)
+- **Duration:** 1 round
+___
+Countless flashes of pure moonlight fall to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw. A creature takes 10d6 radiant damage on a failed save, or half as much damage on a successful one. A creature who failed the saving throw is also blinded until the end of your next turn.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
+
+#### Starfire
+*1st-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+A flash of light streaks down upon a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 2d12 radiant damage, and is blinded until the end of your next turn. The blindness ends early if the target takes damage from a weapon attack or spell, as the stardust blocking its eyes are swept away.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d12 for every two slot levels above 1st.
+
+#### Starsurge
+*3rd-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** Self (100-foot line)
+- **Components:** V, S, M (a rod of glass and a vial of water from a moonwell)
+- **Duration:** Instantaneous
+___
+A blast of moonlight bursts forward in a line 100 feet long and 5 feet wide out from you in a direction you choose. Each creature in the burst's path must make a Dexterity saving throw. A creature takes 8d6 radiant damage on a failed save, or half as much damage on a successful one.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+\columnbreak
+
+#### Ursol's Vortex
+*4th-level conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
+Choose a point that you can see within range. An elemental force that resembles a swirling vortex extends in a 10-foot radius from the point and lasts for the spell's duration.
+
+The area is considered to be difficult terrain and any creature who enters or starts their turn in the vortex must make a Strength saving throw. On failed save, the creature takes 2d6 bludgeoning damage and is pulled to an empty space nearest the vortex's center. On a successful save, the creature takes half as much damage and isn't pulled towards the center of the vortex.
+
+As a bonus action, you can move the vortex up to 30 feet in any direction.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 for each slot level above 4th.
+
+<div class='footnote'>PART 2 | SPELLS </div>

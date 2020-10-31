@@ -1,0 +1,553 @@
+<style>
+/* GLOBAL FORMATTING  */
+
+  /* Resize page to international A4 */
+  .phb {
+    width: 210mm;
+    height: 296.8mm;
+  }
+  .phb:after { content: ""; }
+
+
+/* TABLE OF CONTENTS  */
+
+  /* toc specifically wants black text. This resets the headers*/
+  .toc a {
+    color: inherit !important;
+  }
+  /* Allow dot leaders to fill remaining space but not overlap */
+  .toc li span:nth-child(2) {
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+  }
+  .toc li span:nth-child(2):after {
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    content:
+      " ........................................"
+      "........................................."
+      ".........................................";
+    }
+
+  /* Style TOC page numbers*/
+  .toc li span:first-child {
+    float: right;
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    margin-left: 1px;
+  }
+
+  /* Adjust TOC H3 styles */
+  .toc li h3 span:nth-child(2):after {
+  	content: " ";
+  }
+  .toc li h3 {
+    margin-bottom: 4px !important;
+    margin-top: 10px !important;
+    line-height: initial !important;
+  }
+  .toc li h3 span:first-child {
+  	line-height: 1.8em !important;
+  }
+
+  /* Reduce TOC list indentation*/
+  .toc ul ul {
+  	margin-left: 10px !important;
+  }
+  .toc>ul>li {
+    margin-bottom: initial !important;
+  }
+
+
+/* TABLES AND BLOCKS */
+
+  /* Clear internal padding and add gap above for green note blocks*/
+  .phb blockquote {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .phb blockquote { margin-top: 1em;
+  }
+
+
+/* INK BLOT STYLES */
+
+  /* Root style for inkblots. Use alone, or together with
+  one of the inkb lotstyle classes below. Essentially:
+  <img url='{url}' class='inkblot inkblot-blue' />
+  */
+  .inkblot {
+    position: absolute;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+
+  .inkblot-blue {
+    filter: hue-rotate(190deg) saturate(120%)
+  }
+
+  .inkblot-green {
+    filter: hue-rotate(120deg)
+  }
+
+/* PAGE STYLE */
+
+   /* Background */
+     .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
+     .phb{ background-size: cover }
+
+   /* Notes */
+     .phb section blockquote {background-color: #f6e5d4}
+     .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
+
+   /* Tables */
+     table tr:nth-child(odd) td {background-color: #cccccc}
+
+   /* Footer */
+     .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
+     .phb .footnote {color: rgba(0, 0, 0, 0.5)}
+     .phb:nth-child(odd):after{ 
+       content          : '';
+       position         : absolute;
+       bottom           : -7px;
+       left             : 10px;
+       z-index          : -1;
+       height           : 336px;
+       width            : 100%;
+       background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
+       background-size  : cover;
+   }
+
+   .phb:nth-child(even):after{ 
+       content          : '';
+       position         : absolute;
+       bottom           : -7px;
+       left             : -10px;
+     z-index          : -1;
+       height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
+    background-size  : cover;
+}
+
+/* Page Number */
+.phb .pageNumber{
+    position   : absolute;
+    bottom     : 30px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber{
+    right      : 12px;
+}
+
+.phb .pageNumber.auto{
+    position   : absolute;
+    bottom     : 41px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber.auto{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber.auto{
+    right      : 12px;
+}
+
+</style>
+
+<div style='margin-top:540px'></div>
+
+## Rogue
+*You're gonna find a number of outfits that covet our skills. Adventurers, SI:7... heck, even the disorganized rabble wouldn't mind a spy or two inside Stormwind. But you remember this: You're your own man. Don't let nobody bully you into doing something you don't wanna do! Besides, we hold all the cards... at least, we do before the game's done.*
+<div style="text-align:Right"> 
+
+*— Jorik Kerridan* &nbsp;</div>
+
+Signaling for her companions to wait, a female orc creeps forward through the dungeon hall. She presses an ear to the door, then pulls out a set of tools to pick it in the blink of an eye. Before disappearing into the shadows as her warrior friend moves forward to kick the door open.
+
+A human lurks in the shadows of an alley while his accomplice prepares for her part in the ambush. When their target passes the alleyway, the accomplice cries out, the slaver comes to investigate, and the assassin's blade cuts his throat before he can make a sound.
+
+Suppressing a giggle, a gnome silently sneaks up behind a guard, lifting the key ring from the his belt. In a moment, the keys are in her hand, the cell door is open, and she and her companions are free to make their escape.
+
+Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party.
+
+\columnbreak
+
+<div style='margin-top:241px'></div>
+
+### A Simple Code
+For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground. Rogues can dip their weapons in paralyzing toxins that render foes unable to defend themselves. These silent stalkers wear leather armor so they can move unencumbered, ensuring that they land the first strike.
+
+With the rogue’s poisons and speed, the first strike is often the last step before the killing blow.
+
+Rogues fend for themselves, looking for fights in which they dictate the terms. They’re the shadows in the night that remain unseen until the right moment comes to strike, then they dispatch an opponent with quick blade work or a deadly toxin snuck acutely into the bloodstream. Rogues are opportunistic thieves, bandits, and assassins, but there’s an unparalleled art to what they do.
+
+### Skill and Precision
+Rogues devote as much effort to mastering the use of a variety of skills as they do to perfecting their combat abilities, giving them a broad expertise that few other characters can match. Many rogues focus on stealth and deception, while others refine the skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.
+
+When it comes to combat, rogues prioritize cunning over brute strength. A rogue would rather make one precise strike, placing it exactly where the attack will hurt the target most, than wear an opponent down with a barrage of attacks. Rogues have an almost supernatural knack for avoiding danger, and a few learn magical tricks to supplement their other abilities.
+
+### Creating a Rogue
+As you create your rogue character, consider the charac-ter's relationship to the law. Do you have a criminal past, or present? Are you on the run from the law or from an angry thieves' guild master? or did you leave your guild in search of bigger risks and bigger rewards? Is it greed that drives you in your adventurers, or some other desire or ideal?
+
+What was the trigger that led you away from your previous life? Did a great con or heist gone terribly wrong cause you to reevaluate your career? Maybe you were lucky and successful robbery gave you the coin you needed to escape the squalor of your life. 
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/XHxM0Dm.jpg' style='position:absolute; top:0px; right:0px; width:800px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:100px; right:0px; width:800px; transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/so5kn8u.png' style='position:absolute; top:40px; right:250px; width:600px; transform:scalex(-1)' />
+
+\pagebreakNum
+
+<div class='classTable wide'>
+
+##### The Rogue
+|Level|&nbsp;|Proficiency<br>Bonus||Energy<br>Points||Sneak<br>Attack|Features|
+|:---:|-|:-:|-|:-:|-|:-:|:---------------------------------------|
+| 1st || +2 || —|| 1d6| Expertise, Sneak Attack, Secret Missives |
+| 2nd || +2 || 1|| 1d6| Energy, Cunning Action                   |
+| 3rd || +2 || 2|| 2d6| Roguish Archetype                        |
+| 4th || +2 || 2|| 2d6| Ability Score Improvement                |
+| 5th || +3 || 3|| 3d6| Uncanny Dodge                            |
+| 6th || +3 || 3|| 3d6| Expertise                                |
+| 7th || +3 || 4|| 4d6| Evasion                                  |
+| 8th || +3 || 4|| 4d6| Ability Score Improvement                |
+| 9th || +4 || 5|| 5d6| Roguish Archetype feature                |
+| 10th|| +4 || 5|| 5d6| Fleet Footed                             |
+| 11th|| +4 || 6|| 6d6| Reliable Talent                          |
+| 12th|| +4 || 6|| 6d6| Ability Score Improvement                |
+| 13th|| +5 || 7|| 7d6| Roguish Archetype feature                |
+| 14th|| +5 || 7|| 7d6| Blindsense                               |
+| 15th|| +5 || 8|| 8d6| Anticipation                             |
+| 16th|| +5 || 8|| 8d6| Ability Score Improvement                |
+| 17th|| +6 || 9|| 9d6| Roguish Archetype feature                |
+| 18th|| +6 || 9|| 9d6| Elusive                                  |
+| 19th|| +6 ||10||10d6| Ability Score Improvement                |
+| 20th|| +6 ||10||10d6| Stroke of Luck                           |
+</div>
+
+&nbsp;&nbsp;&nbsp; Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself cut off from your family or your mentor, and you had to find a new means of support. Or maybe you made a new friend, who showed you new possibilities for earning a living and employing your particular talents.
+
+#### Quick Build
+You can make a rogue quickly by following these sugges&shy;tions. First, Dexterity should be your highest ability score. Make intelligence your next highest if you want to excel at Investigation. Choose Charisma instead if you plan to emphasize deception and social interaction.
+
+#### Optional Rule: Multiclassing
+If your group uses the optional rule on multiclassing in the *Player's Handbook*, here's what you need to know if you choose rogue as one of your classes.
+
+***Ability Score Minimum.*** As a multiclass character, you must have at least a Dexterity score of 13 to take a level in this class, or to take a level in another class if you are already a rogue.
+
+***Proficiencies Gained.*** If rogue isn't your initial class, here are the proficiencies you gain when you take your first level as a rogue: light armor, one skill from the class's skill list, thieves' tools.
+
+\columnbreak
+
+## Class Features
+As a rogue, you gain the following class features.
+
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per rogue level
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor
+- **Weapons:** Simple weapons, hand crossbows, <br> longswords, rapiers, shortswords
+- **Tools:** Thieves' tools
+___
+- **Saving Throws:** Dexterity, Intelligence
+- **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Perfor&shy;mance, Persuasion, Sleight of Hand, and Stealth
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+ - *(a)* a rapier or *(b)* a shortsword
+ - *(a)* a shortbow and quiver of 20 arrows or *(b)* a shortsword
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+ - *(a)* a burglar's pack or *(b)* a dungeoneer's pack, or *(c)* an explorer's pack
+ - Leather armor, two daggers, and thieves' tools
+<div style='margin-top:-2px;'></div>
+
+### Expertise
+At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for ability checks you make that uses either of the chosen proficiencies.
+
+At 6th level, you can choose two more of your proficien&shy;cies (in skills or with thieves' tools) to gain this benefit.
+<div style='margin-top:-2px;'></div>
+
+### Sneak Attack
+Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a light, finesse, or ranged weapon.
+
+You don't need advantage on the attack if another enemy of the target is within 5 feet of it, that enemy isn't incapa&shy;citated, and you don't have disadvantage on the attack roll.
+
+The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+<div style='margin-top:-2px;'></div>
+
+### Secret Missives
+During your rogue training you learned how to conceal messages, instructions, and simple ideas in plain sight. You do so by weaving subtle jargon and motions in seemingly normal dialogue, sharing statements with hidden meanings or even by writing cryptic code.
+
+You can use 4 hours to share a set of such rules with another creature, allowing you to weave secret messages and commands in your conversations and letters. More elaborate rules may require an Intelligence check at your DM's discretion.
+<div style='margin-top:-2px;'></div>
+
+### Energy
+At 2nd level, you learn how to weaken a creature further through the use of energy. Your rogue level determines the number of energy points you have, as shown in the Energy Points column of the Rogue table.
+
+You can spend these points to fuel various energy moves. You start by knowing three such moves: Cripple, Expose Armor, and Garrote. You learn more energy moves as you gain levels in this class.
+
+When you spend an energy point, it is unavailable until you finish a short or long rest, at the end of which you replenish all of your expended energy.
+
+Your energy features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
+
+<div style="text-align: Center">
+
+**Energy save DC** = 8 + your proficiency bonus + <br> your Dexterity modifier
+</div>
+<div style='margin-top:-5px;'></div>
+
+#### Cripple
+Immediately after you hit a creature with the Attack action, you can spend 1 energy point to cripple it. The target must succeed on a Strength saving throw or be knocked prone.
+
+#### Expose Armor
+You can use your action and spend 1 energy point to make a special weapon attack. If you hit, you deal normal weapon damage and expose flaws in its defenses. Each other creature has advantage on the first weapon attack roll they make against the target before the end of your next turn.
+
+\columnbreak
+
+#### Garrote
+When you hit a creature with a melee weapon attack, you can spend 1 energy point to garrote it. The target must succeed on a Constitution saving throw or be unable to speak until the end of your next turn.
+
+### Cunning Action
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
+
+### Roguish Archetype
+At 3rd level, you choose an area to specialize yourself within, that shapes your rogue abilities: Assassin, Outlaw, or Subtlety, all detailed at the end of the class description. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Uncanny Dodge
+Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+
+### Evasion
+At 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+### Fleet Footed
+Starting at 10th level, your speed increases by 10 feet while you aren't wearing medium or heavy armor.
+
+### Reliable Talent
+By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+
+### Blindsense
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creatures within 10 feet of you.
+
+### Anticipation
+At 15th level, you are always surveying your enemies and looking for openings. In combat, you get a second reaction that you can take once per turn. You can use this second reaction only to make an opportunity attack, and you can't use it on the same turn that you take your normal reaction.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+### Elusive
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
+
+
+### Stroke of Luck
+At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively. if you fail an ability check, you can treat the d20 roll as a 20.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+## Roguish Archetypes
+Rogues have many features in common, including <br> their emphasis on perfecting their skills, their precise <br> and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes.
+
+### Assassin
+You focus your training on the grim art of death. Favoring stealth and vicious poisons over direct approaches. Those who adhere to this specialization are diverse: hired killers, spies, and bounty hunters. Stealth, and poison help you eliminate your foes with deadly efficiency.
+
+#### Bonus Proficiency
+When you choose this archetype at 3rd level, you gain proficiency with the poisoner's kit.
+
+#### Assassin's Intuition
+Starting at 3rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first round of each combat deals additional weapon damage equal to your Rogue level.
+
+#### Poisoned Knife
+Upon reaching 9th level, when you hit a creature with a weapon attack, you can spend 1 energy point as part of the attack to poison the creature. The target must succeed on a Constitution saving throw or be poisoned until the end of your next turn.
+
+#### Vendetta
+Beginning at 13th level, you are able to make the most of an opportune moment. When you take the Attack action on your turn and score a critical hit with a weapon attack, you may make another weapon attack as part of the same Attack action.
+
+In addition, whenever a creature within 5 feet of you is hit by a critical attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
+
+#### Seal Fate
+At 17th level, you have become a master of instant death. When you hit a creature with a weapon attack, you can force it to make a Constitution saving throw against a DC of 8 + your Dexterity modifier + your proficiency bonus. On a failed save, the damage of your attack is doubled.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+\columnbreak
+
+### Outlaw
+Outlaw rogues are the unscrupulous scoundrels of Azeroth. They bend the rules and distort the truth to get what they need. These outlaws have little use for tact or discretion, happy to engage in a tavern brawl or spontaneous duel, rarely patient enough to wait in stealth for the opportune time to engage. To survive in such a world, outlaws must become master swordsmen in toe-to-toe combat — and they can’t shy away from fighting dirty.
+
+#### Bonus Proficiency
+When you choose this archetype at 3rd level, you gain proficiency with pistols and rifles.
+
+#### Alacrity
+When you choose this archetype at 3rd level, your confi&shy;dence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your Charisma modifier.
+
+In addition, you learn how to land a strike and slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make oppor&shy;tunity attacks against you for the rest of your turn.
+
+#### Point Blank
+At 9th level, immediately after you take the Attack action on your turn, you can spend 1 energy point to make a ranged attack roll with a loaded pistol as a bonus action, dealing normal weapon damage on a hit. If you hit a target within 5 feet of you, it is also stunned until the end of your next turn.
+
+You must be wielding a pistol or have an empty hand that can draw one (no action required) to use this energy move.
+
+#### Tricks of the Trade
+Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while within 5 feet of a creature, you can use your reaction to have the attack target that creature instead of you.
+
+You can use this feature twice. You regain all spent uses when you finish a short or long rest.
+
+#### Adrenaline Rush
+At 17th level, the thrill of battle invigorates you. When you roll for initiative and have no energy points remaining, you regain 2 energy points.
+
+### Subtlety
+Subtlety rogues are the masters of the shadows, and they strike unseen. Some claim the art of subtlety looks like malevolent shadow magic — these rogues are capable of performing devastating assaults on their enemies, slipping away unharmed to strike again without detection. Most rogues train their entire lives to learn how to walk in the shadows — subtlety rogues were born there.
+
+#### Spellcasting
+When you choose this archetype at 3rd level, you learn to harness magic from the shadows. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the subtlety spell list.
+
+***Cantrips.*** You learn two cantrips of your choice from the subtlety spell list. You learn another subtlety cantrip of your choice at 10th level.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+&nbsp;&nbsp;&nbsp; ***Spell Slots.*** The Subtlety Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell *command* and have a 1st-level and a 2nd-level spell slot available, you can cast *command* using either slot.
+
+***Spells Known of 1st-Level and Higher.*** You know <br> three 1st-level subtlety spells of your choice.
+
+The Spells Known column of the Subtlety Spellcasting table shows when you learn more subtlety spells of 1st level or higher. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st <br> or 2nd level.
+
+Whenever you gain a level in this class, you can replace one of the subtlety spells you know with another spell of your choice from the subtlety spell list. The new spell must be of a level for which you have spell slots.
+
+***Spellcasting Ability.*** Intelligence is your spellcasting ability for your subtlety spells. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a subtlety spell you cast and when making an attack roll with one.
+
+<div style="text-align: Center">
+
+**Spell save DC** = 8 + your proficiency bonus + <br> your Intelligence modifier
+
+**Spell attack modifier** = your proficiency bonus + <br> your Intelligence modifier
+</div>
+
+#### Gloom Sight
+Also at 3rd level, you gain darkvision out to a range of <br> 60 feet. If you already have darkvision from your race, its range increases by 30 feet.
+
+#### Shadowstep
+At 9th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an empty space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of your turn.
+
+#### Cloak of Shadows
+Beginning at 13th level, you can use your reaction when you take damage from an attack or spell to step into the shadows, giving you immunity to all damage until the end of the next turn, including the triggering attack.
+
+You can use this feature twice. You regain expended uses when you finish a short or long rest.
+
+#### Shadowy Duel
+At 17th level, you can use your action and spend 2 energy points to shroud the vision of a creature within 30 feet of you. The creature must succeed on a Wisdom saving throw or have everything, except you, become heavily obscured for 1 minute.
+
+At the end of each of its turns, the target can make another Wisdom saving throw, ending the shadowy duel on a successful saving throw.
+
+\columnbreak
+
+<div class='classTable'>
+
+##### Subtlety Spellcasting
+|Rogue<br>Level|Cantrips<br>Known|Spells<br>Known|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|
+|:---:|:-:|:--:|:--:|-|:--:|-|:--:|-|:--:|
+| 3rd | 3 |  3 |2||—||—||—|
+| 4th | 3 |  4 |3||—||—||—|
+| 5th | 3 |  4 |3||—||—||—|
+| 6th | 3 |  4 |3||—||—||—|
+| 7th | 3 |  5 |4||2||—||—|
+| 8th | 3 |  6 |4||2||—||—|
+| 9th | 3 |  6 |4||2||—||—|
+| 10th| 4 |  7 |4||3||—||—|
+| 11th| 4 |  8 |4||3||—||—|
+| 12th| 4 |  8 |4||3||—||—|
+| 13th| 4 |  9 |4||3||2||—|
+| 14th| 4 | 10 |4||3||2||—|
+| 15th| 4 | 10 |4||3||2||—|
+| 16th| 4 | 11 |4||3||3||—|
+| 17th| 4 | 11 |4||3||3||—|
+| 18th| 4 | 11 |4||3||3||—|
+| 19th| 4 | 12 |4||3||3||1|
+| 20th| 4 | 13 |4||3||3||1|
+</div>
+
+<div style='column-count:2'>
+
+### Subtlety Spells
+##### Cantrips (0 Level)
+Blade Ward
+<br> Booming Blade ^SCAG^
+<br> Friends
+<br> Gust ^EE^
+<br> Mage Hand
+<br> Message
+<br> Minor Illusion
+<br> Prestidigitation
+<br> Sword Burst ^SCAG^
+<br> True Strike
+
+##### 1st Level
+Bane
+<br> Command
+<br> Compelled Duel
+<br> Disguise Self
+<br> Dissonant Whispers
+<br> Expeditious Retreat
+<br> Fog cloud
+<br> Jump
+<br> Longstrider
+<br> Silent Image
+
+\columnbreak
+
+##### 2nd Level
+Alter Self
+<br> Blindness/Deafness
+<br> Blur
+<br> Darkness
+<br> Darkvision
+<br> Invisibility
+<br> Magic Weapon
+<br> Mirror Image
+<br> Pass Without Trace
+<br> Suggestion
+
+##### 3rd Level
+Enemies Abound ^XGE^
+<br> Haste
+<br> Hypnotic Pattern
+<br> Major Image
+<br> Nondetection
+<br> Sending
+<br> Slow
+
+##### 4th Level
+Compulsion
+<br> Confusion
+<br> Freedom of Movement
+<br> Greater Invisibility
+<br> Hallucinatory Terrain
+</div>
+
+<div class='footnote'>PART 1 | CLASSES</div>
