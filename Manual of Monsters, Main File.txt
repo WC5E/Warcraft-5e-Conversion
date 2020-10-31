@@ -7794,16 +7794,16 @@ This can, however, mean untold riches for strong-hearted adventurers. If anythin
 
 ___
 ___
-> ## Yeti
+> ## Yeti 
 >*Large monstrosity, neutral evil*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 60 (7d10 + 18)
+> - **Hit Points** 59 (7d10 + 21)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|11 (+0)|16 (+3)|9 (-1)|10 (+0)|7 (-2)|
+>|18 (+4)|11 (+0)|16 (+3)|6 (-2)|10 (+0)|7 (-2)|
 >___
 > - **Skills** Perception +2
 > - **Damage Immunities** cold
@@ -7816,16 +7816,16 @@ ___
 >
 >***Snow Camouflage.*** The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 >
->***Charge.*** If the yeti moves at least 30 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 12 (2d10) piercing damage.
+>***Charge.*** If the yeti moves at least 30 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 11 (2d10) piercing damage.
 >
 > ### Actions
 >***Multiattack.*** The yeti makes two claw attacks.
 >
->***Claw.*** *Melee Weapon Attack*: +6 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 4) slashing damage plus 2 (1d4) cold damage.
+>***Claw.*** *Melee Weapon Attack*: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage plus 2 (1d4) cold damage.
 >
->***Horn.*** *Melee Weapon Attack*: +6 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 4) piercing.
+>***Horn.*** *Melee Weapon Attack*: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
 >
->***Roar.*** The yeti emits a roar. Each creature within 30 feet of the yeti and able to hear the roar must make a DC10 Wisdom saving throw, being Frightened for 1 minute on a fail. A Frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful saving throw, the creature is immune to the roar of all yetis for 1 day.
+>***Roar.*** Each creature within 30 feet able to hear the yeti must make a DC 13 Wisdom saving throw or become frightened for 1 minute. The creature can repeat the saving throw at the end of each of its turn, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the roar of all yetis for the next 24 hours. <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;59;6;10;20;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -7853,12 +7853,12 @@ ___
 >*Huge monstrosity, neutral evil*
 > ___
 > - **Armor Class** 15 (natural armor)
-> - **Hit Points** 171 (13d12 + 80)
+> - **Hit Points** 149 (13d12 + 65)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|22 (+6)|16 (+3)|20 (+5)|6 (-2)|12 (+1)|9 (-1)|
+>|20 (+5)|16 (+3)|20 (+5)|6 (-2)|12 (+1)|9 (-1)|
 >___
 > - **Skills** Perception +6
 > - **Damage Immunities** cold
@@ -7878,16 +7878,16 @@ ___
 > ### Actions
 >***Multiattack.*** The yeti makes two claw attacks.
 >
->***Claw.*** *Melee Weapon Attack*: +10 to hit, reach 5 ft., one target. Hit:  12 (2d6 + 6) slashing damage plus 5 (1d8) cold damage.
+>***Claw.*** *Melee Weapon Attack*: +9 to hit, reach 5 ft., one target. Hit:  11 (2d6 + 5) slashing damage plus 5 (1d8) cold damage.
 >
->***Horn.*** *Melee Weapon Attack*: +10 to hit, reach 5 ft., one target. Hit: 24 (3d10 + 6) piercing damage.
+>***Horn.*** *Melee Weapon Attack*: +9 to hit, reach 5 ft., one target. Hit: 23 (3d10 + 5) piercing damage.
 >
->***Roar.*** The yeti emits a roar. Each creature within 30 feet of the yeti and able to hear the roar must make a DC15 Wisdom saving throw, being Frightened for 1 minute on a fail. A Frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful saving throw, the creature is immune to the roar of all yetis for 1 day.
+>***Roar.*** Each creature within 30 feet able to hear the yeti must make a DC 17 Wisdom saving throw or become frightened for 1 minute. The creature can repeat the saving throw at the end of each of its turn, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the roar of all yetis for the next 24 hours.
 >
->***Deadly Leap.*** If the yeti jumps at least 20 ft. as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 18 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 30 (4d10 + 6) bludgeoning damage.
-<br>&nbsp;&nbsp;&nbsp; On a successful save, the creature takes only half of the damage, isn't knocked prone and is pushed 5 ft. out of the yeti space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the yeti space.
+>***Deadly Leap.*** If the yeti jumps at least 20 ft. as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 17 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 21 (3d10 + 5) bludgeoning damage.
+<br>&nbsp;&nbsp;&nbsp; On a successful save, the creature takes only half of the damage, isn't knocked prone and is pushed 5 ft. out of the yeti's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the yeti's space.
 >
->***Cold Breath (Recharge 5-6).*** The yeti exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 36 (6d10) cold damage on a failed save, or half as much damage on a successful one.
+>***Cold Breath (Recharge 5-6).*** The yeti exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 33 (5d10) cold damage on a failed save, or half as much damage on a successful one.
 >
 > ### Legendary Actions
 >
@@ -7895,7 +7895,9 @@ ___
 >
 >***Claw Attack.*** The yeti makes one claw attack.
 >
->***Leap Attack (Cost 2 actions).*** The yeti makes a deadly leap attack.
+>***Smash Attack (Costs 2 actions).*** The yeti slams its fists on the ground, causing it to shake. Treat this as the *earth tremor* spell, as if cast as 4th level spell (DC 17). <!-- This can be cut for formatting reasons. -->
+>
+>***Leap Attack (Cost 3 actions).*** The yeti jumps up to 40 feet and can make a deadly leap attack.  <!-- https://wc5e-cr-calculator.frogvall.com/?2;15;149;9;17;66;48;42;48;42;48;0;0;0;0;0;0;;;;;3;;;;;;;1;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
