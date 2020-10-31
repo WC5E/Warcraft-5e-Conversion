@@ -573,12 +573,12 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 ##### Size Categories
 |&nbsp; Size       | Space | Examples |
 |:-----------------|:-----------|:-:|
-|&nbsp; Tiny       | 2½ by 2½ ft. |Bat, spider
-|&nbsp; Small      | 5 by 5 ft. |Kobold, murloc
-|&nbsp; Medium     | 5 by 5 ft. |Gnoll, human
-|&nbsp; Large      | 10 by 10 ft. |Kodo, ogre
-|&nbsp; Huge       | 15 by 15 ft. |Ancient protector, devilsaur
-|&nbsp; Gargantuan | 20 by 20 ft. or larger |Brutosaur, whale shark
+|&nbsp; Tiny       | 2½ by 2½ ft. | Bat, spider
+|&nbsp; Small      | 5 by 5 ft. | Kobold, murloc
+|&nbsp; Medium     | 5 by 5 ft. | Gnoll, human
+|&nbsp; Large      | 10 by 10 ft. | Kodo, ogre
+|&nbsp; Huge       | 15 by 15 ft. | Ancient protector, devilsaur
+|&nbsp; Gargantuan | 20 by 20 ft. or larger | Brutosaur, whale shark
 
 > ##### Modifying Creatures
 > Despite the versatile collection of monsters in this block, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak a creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
