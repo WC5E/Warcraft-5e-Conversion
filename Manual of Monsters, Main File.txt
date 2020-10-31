@@ -6071,7 +6071,7 @@ ___
 <div style='margin-top:470px;'></div>
 
 ___
-> ## Ravager
+> ## Ravager <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;44;5;12;9;0;9;0;9;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium beast, unaligned*
 > ___
 > - **Armor Class** 14 (natural armor)
@@ -6132,7 +6132,7 @@ Following the birth of a ravager larva, the creature quickly cocoons itself in o
 \pagebreakNum
 
 ___
-> ## Ravager Brood Mother
+> ## Ravager Brood Mother <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;105;6;12;22;0;22;0;22;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 16 (natural armor)
@@ -6168,7 +6168,7 @@ ___
 \columnbreak
 
 ___
-> ## Ravager Wasp
+> ## Ravager Wasp <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;21;3;12;5;0;5;0;5;0;0;0;0;0;0;0;;;1;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Small beast, unaligned*
 > ___
 > - **Armor Class** 12 (natural armor)
@@ -6244,7 +6244,7 @@ Most manasabers are domesticated animals, having lived in such close proximity t
 <div style='margin-top:470px;'></div>
 
 ___
-> ## Young Sabercat
+> ## Young Sabercat <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;12;0;7;0;7;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium beast, unaligned*
 > ___
 > - **Armor Class** 12
@@ -6282,7 +6282,7 @@ ___
 <div style='margin-top:470px;'></div>
 
 ___
-> ## Sabercat
+> ## Sabercat <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;37;5;12;18;0;10;0;10;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 12
@@ -6312,7 +6312,7 @@ ___
 <div style='margin-top:280px;'></div>
 
 ___
-> ## Manasaber
+> ## Manasaber <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;90;5;11;26;0;18;0;18;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 13
@@ -6390,7 +6390,7 @@ Satyrs who revel in the arts of fel and shadow magic alike, are known as hellcal
 <div style='margin-top:450px;'></div>
 
 ___
-> ## Satyr
+> ## Satyr <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;27;4;11;9;0;9;0;9;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium monstrosity, chaotic evil*
 > ___
 > - **Armor Class** 13 (natural armor)
@@ -6428,7 +6428,7 @@ ___
 <div style='margin-top:230px;'></div>
 
 ___
-> ## Satyr Trickster
+> ## Satyr Trickster <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;40;5;12;18;0;11;0;11;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium monstrosity, chaotic evil*
 > ___
 > - **Armor Class** 14 (natural armor)
@@ -6469,7 +6469,7 @@ ___
 <div style='margin-top:314px;'></div>
 
 ___
-> ## Satyr Hellcaller
+> ## Satyr Hellcaller <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;93;5;13;21;0;21;0;21;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium monstrosity, chaotic evil*
 > ___
 > - **Armor Class** 16 (natural armor)
@@ -6589,7 +6589,7 @@ Ravenous cannibals that leave only havoc and devoured corpses behind them. Ghoul
 
 They are the Scourge's prime tool for spreading panic; a mindless vanguard to swarm through settlements, breaking chaos before the rest of the Scourge arrive. Feasting on the living and dead alike as they do.
 
-> ##### Variant: Greater Abomination
+> ##### Variant: Greater Abomination <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;161;8;13;33;0;33;0;33;0;0;0;0;0;0;0;1;;;;4;;;;;;;;;;1;;;;;;;;10;;;1;;; -->
 > A greater abomination has a challenge rating of 9 (5,000 XP). It has the statistics of an abomination except that it has 161 (17d10 + 68) hit points, Armor Class (AC 17), +8 to hit with its weapon attacks, and gains the following action options.
 >
 >***Engorge.*** The abomination makes one cleaver attack and places a grappled target in its ribcage. The target becomes restrained, and can use its action to break free by succeeding on a DC 17 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 14 (4d6) bludgeoning damage at the start of each of the abominations turns. An abomination can have only one creature restrained within its ribcage.
@@ -6624,7 +6624,7 @@ A creature risen by the scourge is any Huge or smaller creature brought back to 
 <div style='margin-top:-10px;'></div>
 
 ___
-> ## Scourge Risen Knight
+> ## Scourge Risen Knight <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;93;5;13;21;0;21;0;21;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium undead, neutral evil*
 > ___
 > - **Armor Class** 18 (plate)
@@ -6660,7 +6660,7 @@ ___
 
 ___
 ___
-> ## Abomination
+> ## Abomination <!-- https://wc5e-cr-calculator.frogvall.com/?1;14;142;7;13;33;0;33;0;33;0;0;0;0;0;0;0;1;;;;4;;;;;;;;;;1;;;;;;;;10;;;1;;; -->
 >*Large construct (undead), neutral evil*
 > ___
 > - **Armor Class** 14 (natural armor)
@@ -6702,7 +6702,7 @@ ___
 <div style='margin-top:418px;'></div>
 
 ___
-> ## Gargoyle
+> ## Gargoyle <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;37;4;13;14;0;14;0;14;0;0;0;0;0;0;0;1;;1;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium monstrosity, chaotic evil*
 > ___
 > - **Armor Class** 15 (natural armor)
@@ -6735,11 +6735,11 @@ ___
 <div style='margin-top:390px;'></div>
 
 ___
-> ## Ghoul
+> ## Ghoul <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;54;4;13;12;0;12;0;12;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium undead, chaotic evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 49 (11d8)
+> - **Hit Points** 54 (12d8)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6774,7 +6774,7 @@ ___
 <div style='margin-top:525px;'></div>
 
 ___
-> ## Zombie
+> ## Zombie <!-- https://wc5e-cr-calculator.frogvall.com/?0;8;30;3;13;4;0;4;0;4;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;1; -->
 >*Medium undead, neutral evil*
 > ___
 > - **Armor Class** 8
@@ -6885,7 +6885,7 @@ Shredders are core to numerous goblin enterprises, across Azeroth. They are manu
 ***War Constructs.*** Shredders have on occasion become frontline fighters in times of war. If a goblin on its lonesome won't pose much of a threat, a ruthless goblin operating a spinning buzzer-blade certainly will.
 
 ___
-> ## Shredder
+> ## Shredder <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;52;5;13;20;0;20;0;20;0;0;0;0;0;0;0;1;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large construct, unaligned*
 > ___
 > - **Armor Class** 13 (natural armor)
@@ -6978,7 +6978,7 @@ Adventurers daring enough to delve into the heart of a silithid hive, hoping to 
 <div style='margin-top:460px;'></div>
 
 ___
-> ## Silithid Larva
+> ## Silithid Larva <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;2;2;13;1;0;1;0;1;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Tiny beast, unaligned*
 > ___
 > - **Armor Class** 12 (natural armor)
@@ -7006,7 +7006,7 @@ ___
 <div style='margin-top:372px;'></div>
 
 ___
-> ## Silithid Worker
+> ## Silithid Worker <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;65;4;13;12;0;12;0;12;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium beast, unaligned*
 > ___
 > - **Armor Class** 14 (natural armor)
@@ -7047,7 +7047,7 @@ ___
 <div style='margin-top:247px;'></div>
 
 ___
-> ## Silithid Wasp
+> ## Silithid Wasp <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;93;5;13;18;0;18;0;18;0;0;0;0;0;0;0;;;1;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 14 (natural armor)
@@ -7085,7 +7085,7 @@ ___
 <div style='margin-top:170px;'></div>
 
 ___
-> ## Silithid Reaver
+> ## Silithid Reaver <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;142;6;13;68;0;20;0;20;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 16 (natural armor)
@@ -7114,7 +7114,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The silithid makes two bite attacks.
 >
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 16 (3d8 + 3) piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) piercing damage.
 >
 > ***Deadly Leap.*** If the silithid jumps at least 15 ft. as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 14 Strength or Dexterity saving throw (target’s choice) or be knocked prone and take 17 (4d6 + 3) bludgeoning damage plus 17 (4d6 + 3) slashing damage.
 > <br>&nbsp;&nbsp;&nbsp; On a successful save, the creature takes only half the damage, isn’t knocked prone, and is pushed 5 ft. out of the silithid's space into an unoccupied space of the creature’s choice. If no unoccupied space is within range, the creature instead falls prone in the silithid's space.
@@ -7141,7 +7141,7 @@ ___
 
 ___
 ___
-> ## Silithid Colossus
+> ## Silithid Colossus <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;199;8;13;53;0;37;0;58;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;1;;;;; -->
 >*Huge beast, unaligned*
 > ___
 > - **Armor Class** 17 (natural armor)
@@ -7206,7 +7206,7 @@ Most of them do lack the intelligence they possessed in life, though they are no
 <div style='margin-top:-1px;'></div>
 
 ___
-> ## Giant Skeleton
+> ## Giant Skeleton <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;75;6;14;17;0;17;0;17;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large undead, lawful evil*
 > ___
 > - **Armor Class** 12 (natural armor)
@@ -7235,7 +7235,7 @@ ___
 <div style='margin-top:542px;'></div>
 
 ___
-> ## Skeleton
+> ## Skeleton <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;19;4;13;5;0;5;0;5;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium undead, lawful evil*
 > ___
 > - **Armor Class** 13 (armor scraps)
@@ -7270,7 +7270,7 @@ ___
 <div style='margin-top:470px;'></div>
 
 ___
-> ## Skeleton Mage
+> ## Skeleton Mage <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;91;4;12;12;0;12;0;12;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium undead, lawful evil*
 > ___
 > - **Armor Class** 12 (15 with *mage armor*)
@@ -7306,7 +7306,7 @@ ___
 <div style='margin-top:120px;'></div>
 
 ___
-> ## Skeleton Warrior
+> ## Skeleton Warrior <!-- https://wc5e-cr-calculator.frogvall.com/?0;17;19;3;12;13;0;13;0;13;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium undead, lawful evil*
 > ___
 > - **Armor Class** 17 (plate scraps, shield)
@@ -7331,7 +7331,7 @@ ___
 > ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 
 ___
-> ## Warhorse Skeleton
+> ## Warhorse Skeleton <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;22;6;12;7;0;7;0;7;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large undead, lawful evil*
 > ___
 > - **Armor Class** 13 (barding scraps)
@@ -7363,7 +7363,7 @@ ___
 
 <div style='margin-top:440px;'></div>
 
-## Treant
+## Treant 
 Few would gaze upon the stout treants and assume them to be wise or strong, but these awakened trees have been imbued by the spirits of the forests in which they dwell. In times of peace, they act as keepers and tenders. In times of war, they rise to defend their groves with fervor.
 
 ***Saplings of Ancients.*** The treants begin their lives as sapling sprouds of the ancients, carrying many of the same qualities as the tree from which they came -- be it be it boldness, tenderness, or a great force of will. Like the forest around them, treants never cease to grow. Instead, they rise taller and taller, century by century passing by, until the time is right for one to rise into the annals as an ancient protector.
@@ -7383,7 +7383,7 @@ Though the invasion was since quelled, many groves are still saturated with demo
 <div style='margin-top:230px;'></div>
 
 ___
-> ## Treant
+> ## Treant <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;39;4;12;22;0;22;0;22;0;0;0;0;0;0;0;1;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium plant, chaotic neutral*
 > ___
 > - **Armor Class** 13 (natural armor)
@@ -7412,7 +7412,7 @@ ___
 
 <div style='margin-top:35px;'></div>
 
-> ##### Variant: Treant Wildcaller
+> ##### Variant: Treant Wildcaller <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;45;4;11;37;0;22;0;22;0;0;0;0;0;0;0;1;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 > Although all treants can manipulate the forest to some degree, wildcallers can harness the full might of the wilderness. A treant wildcaller has a challenge rating of 3 (700 XP). It has 45 (7d8 + 14) hit points and the following trait.
 >
 > ***Spellcasting.*** The treant is a 4th-level spellcaster. its spellcasting ability is Wisdom (save DC 11, +3 to hit with spell attacks). The treant has the following druid spells prepared:
@@ -7456,7 +7456,7 @@ Theories have also been floated, mainly by the prominent dwarven explorer Brann 
 <div style='margin-top:398px;'></div>
 
 ___
-> ## Trogg
+> ## Trogg <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;39;4;12;14;0;14;0;14;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;1;;;;;10;;;1;;; -->
 >*Medium humanoid (trogg), chaotic evil*
 > ___
 > - **Armor Class** 13 (natural armor)
@@ -7508,7 +7508,7 @@ Trogg tribes are usually in Common, and often draw from their way of being or di
 <div style='margin-top:-15px;'></div>
 
 ___
-> ## Trogg Ambusher
+> ## Trogg Ambusher <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;45;5;12;19;0;19;0;19;0;0;0;0;0;0;0;;;;;4;;1;;;;;;;;1;;;1;;;;;10;;;1;;; -->
 >*Medium humanoid (trogg), chaotic evil*
 > ___
 > - **Armor Class** 13 (natural armor)
@@ -7547,7 +7547,7 @@ ___
 \pagebreakNum
 
 ___
-> ## Trogg Shaman
+> ## Trogg Shaman <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;78;4;12;54;0;54;0;21;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;1;;; -->
 >*Medium humanoid (trogg), chaotic evil*
 > ___
 > - **Armor Class** 13 (natural armor)
@@ -7578,7 +7578,7 @@ ___
 \columnbreak
 
 ___
-> ## Trogg Chieftain
+> ## Trogg Chieftain <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;136;7;12;31;0;31;0;31;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;1;;; -->
 >*Large humanoid (trogg), chaotic evil*
 > ___
 > - **Armor Class** 15 (natural armor)
@@ -7687,7 +7687,7 @@ There is no definitive way to say what stands behind a dire troll's immense stat
 <div style='margin-top:370px;'></div>
 
 ___
-> ## Troll Berserker
+> ## Troll Berserker <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;90;5;12;20;0;20;0;20;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;1;5;;;;;; -->
 >*Medium humanoid (any troll), chaotic evil*
 > ___
 > - **Armor Class** 15 (natural armor)
@@ -7730,7 +7730,7 @@ ___
 <div style='margin-top:370px;'></div>
 
 ___
-> ## Troll Headhunter
+> ## Troll Headhunter <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;52;4;12;18;0;12;0;12;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;1;3;;;;;; -->
 >*Medium humanoid (any troll), chaotic evil*
 > ___
 > - **Armor Class** 14 (leather armor)
@@ -7762,7 +7762,7 @@ ___
 <div style='margin-top:293px;'></div>
 
 ___
-> ## Troll Witch Doctor
+> ## Troll Witch Doctor <!-- https://wc5e-cr-calculator.frogvall.com/?1;12;91;6;14;56;0;56;0;56;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;1;5;;;;;; -->
 >*Medium humanoid (any troll), chaotic evil*
 > ___
 > - **Armor Class** 12
@@ -7809,7 +7809,7 @@ ___
 
 ___
 ___
-> ## Dire Troll
+> ## Dire Troll <!-- https://wc5e-cr-calculator.frogvall.com/?1;12;157;9;16;51;0;61;0;51;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;1;15;;;;;; -->
 >*Huge humanoid (any troll), chaotic evil*
 > ___
 > - **Armor Class** 12
