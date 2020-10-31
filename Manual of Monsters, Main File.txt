@@ -5859,7 +5859,7 @@ ___
 > ## Quilboar
 >*Medium humanoid (quilboar), neutral evil*
 > ___
-> - **Armor Class** 11
+> - **Armor Class** 10
 > - **Hit Points** 7 (1d8 + 2)
 > - **Speed** 30 ft.
 >___
@@ -5882,6 +5882,7 @@ ___
 >
 > ### Reactions
 > ***Quills.*** In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+<!-- https://wc5e-cr-calculator.frogvall.com/?0;10;7;3;12;4;4;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -5971,7 +5972,7 @@ ___
 > ***Master's Command.*** The quilboar commands a tamed beast within 30 feet of it to attack a target, giving the beast advantage on the next attack it makes against it.
 >
 > ### Reactions
-> ***Quills.*** In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+> ***Quills.*** In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;13;4;12;5;4;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -6003,13 +6004,15 @@ ___
 > <br> 1st level (4 slots): *cure wounds, faerie fire, sleep*
 > <br> 2nd level (2 slots): *barkskin, spike growth*
 >
+> **The quilboar casts barkskin on itself before combat.*
+>
 > ### Actions
 > ***Tusk.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) slashing damage.
 >
 > ***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (1d8) bludgeoning damage.
 >
 > ### Reactions
-> ***Quills.*** In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+> ***Quills.*** In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;16;22;4;12;6;4;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 <div class="pageLetter">Q</div>
 <div class='footnote'>QUILBOARS </div>
@@ -6063,7 +6066,7 @@ ___
 > ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the quilboar can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its rolls provided it can hear and understand the quilboar. A creature can benefit from only one Leadership die at a time. This effect ends if the quilboar is incapacitated.
 >
 > ### Reactions
-> ***Quills.*** In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+> ***Quills.*** In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* +4 to hit, range 10 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;15;52;5;12;22;4;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
