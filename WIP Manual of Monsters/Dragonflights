@@ -1,3 +1,121 @@
+<style>.phb{width : 210mm;height : 296.8mm;} .phb:after {content: "";} </style>
+<style>.phb hr+section blockquote { padding-left: 0px; padding-right: 0px; }</style>
+<style>.phb blockquote { padding-left: 0px; padding-right: 0px; }</style>
+<style> .phb blockquote { margin-top: 1em; } </style>
+
+
+<style>
+
+/* Footer */
+  .phb .pageNumber { color: #7e735c; z-index:1000; }
+  .phb .footnote { color: #7e735c; }
+  
+  .phb:nth-child(odd):after{
+    content: '';
+    height:125px;
+    background-image:url('https://gmbinder.com/images/YWardeu.png'), url(https://gmbinder.com/images/lLWeevR.png);
+    background-size:816px 55px, 120px 120px;
+    background-repeat:no-repeat, no-repeat;
+    background-position:bottom, bottom right;
+}
+
+.phb:nth-child(even):after{ 
+    content: '';
+    height:125px;
+    background-image:url('https://gmbinder.com/images/YWardeu.png'), url(https://gmbinder.com/images/lLWeevR.png);
+    background-size:816px 55px, 120px 120px;
+    background-repeat:no-repeat, no-repeat;
+    background-position:bottom, bottom right;
+    -webkit-transform: scaleX(-1); transform: scaleX(-1);
+}    
+
+/*SNIPPET END, REST CUSTOM CLASSES BEST IMPLEMENTED IN STYLESHEET*/
+
+/* letterheader */
+.letterheader {
+    position: absolute;
+    top: 30px;
+    left: 0;
+    right: 0;
+    margin-left:auto;
+    margin-right:auto;
+    background-image: url(https://gmbinder.com/images/YH3aESG.png);
+    background-size: cover;
+    width: 775px;
+    height: 133px;
+
+/* big letter */
+}
+.mmletter {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    margin-left:auto;
+    margin-right:auto;
+    background-size: cover;
+    width: 163.2px;
+    height: 163.2px;
+}
+
+.mml-a {background-image: url(https://gmbinder.com/images/fVVv93s.png);}
+.mml-b {background-image: url(https://gmbinder.com/images/21X6N0B.png);}
+.mml-c {background-image: url(https://gmbinder.com/images/MvnpOWF.png);}
+.mml-d {background-image: url(https://gmbinder.com/images/AFbLU4P.png);}
+.mml-e {background-image: url(https://gmbinder.com/images/28NVNf9.png);}
+.mml-f {background-image: url(https://gmbinder.com/images/Oyrhmqy.png);}
+.mml-g {background-image: url(https://gmbinder.com/images/fRyiQn4.png);}
+.mml-h {background-image: url(https://gmbinder.com/images/N8NamlT.png);}
+.mml-i {background-image: url(https://gmbinder.com/images/xWI93aa.png);}
+.mml-j {background-image: url(https://gmbinder.com/images/GgIzsun.png);}
+.mml-k {background-image: url(https://gmbinder.com/images/OcObsWl.png);}
+.mml-l {background-image: url(https://gmbinder.com/images/B7AUyR6.png);}
+.mml-m {background-image: url(https://gmbinder.com/images/q4wXoxt.png);}
+.mml-n {background-image: url(https://gmbinder.com/images/OJtC4w9.png);}
+.mml-o {background-image: url(https://gmbinder.com/images/adeRr5d.png);}
+.mml-p {background-image: url(https://gmbinder.com/images/EEhcrSR.png);}
+.mml-q {background-image: url(https://gmbinder.com/images/O1AhfzL.png);}
+.mml-r {background-image: url(https://gmbinder.com/images/w66eIuZ.png);}
+.mml-s {background-image: url(https://gmbinder.com/images/YEoe0PP.png);}
+.mml-t {background-image: url(https://gmbinder.com/images/7Bk9D35.png);}
+.mml-u {background-image: url(https://gmbinder.com/images/uVJZYUg.png);}
+.mml-v {background-image: url(https://gmbinder.com/images/gKjngey.png);}
+.mml-w {background-image: url(https://gmbinder.com/images/14WWpsC.png);}
+.mml-x {background-image: url(https://gmbinder.com/images/ojIYjh0.png);}
+.mml-y {background-image: url(https://gmbinder.com/images/Gi1ePwY.png);}
+.mml-z {background-image: url(https://gmbinder.com/images/0ZTFNVs.png);}
+
+/* letter at bottom of page */
+
+.pageLetter {
+    font-family:;
+    position:absolute;
+    right:25px;
+    bottom:87.5px;
+    color:#673e1c;
+    z-index:1000;
+    font-size:135%;
+}
+
+.phb:nth-child(even) .pageLetter {
+    left:25px;
+}
+
+</style>
+
+
+<div class="pageLetter">D</div>
+<div class='footnote'>Dragons </div>
+
+<img src='https://gamepedia.cursecdn.com/wowpedia/thumb/f/f8/Battle_of_the_Aspects.jpg/1200px-Battle_of_the_Aspects.jpg' style='position:absolute; top:0px; right:-50px; width:1450px' />
+<img src='https://www.gmbinder.com/images/NAwDGQF.png' style='position:absolute; top:-300px; right:-200px; width:1200px' />
+
+
+
+
+
+
+
 ## Dragon
 
 Dragons are immense, powerful, winged reptilian creatures, created from proto-dragons by the titans and the Keepers to safeguard the world of Azeroth millennia ago. They are divided into several types called dragonflights.
@@ -44,7 +162,7 @@ The black dragonflight are dragons with black scales who can breath magma. Power
 
 Led by the Dragon Aspect Neltharion, later known as Deathwing, the black dragonflight was charged by the titans with protecting the earth.
 ___
-> ## Black Dragonwhelp
+> ## Black Dragonwhelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;55;4;13;28;0;15;0;15;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;1;;;;;;;;15;;;;;; -->
 >*Small dragon, chaotic evil*
 > ___
 > - **Armor Class** 15 (natural armor)
@@ -69,18 +187,18 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 10 (2d6 + 3) piercing damage plus 5 (2d4) fire damage.
 >
-> ***Lava Breath (Recharge 5-6).*** The dragonwhelp exhales a jet of lava in a 15-foot cone. Each creature in that area must make a DC l3 Dexterity saving throw, taking 18 (4d8) fire damage on a failed save, or half as much damage on a successful one.
+> ***Lava Breath (Recharge 5-6).*** The dragonwhelp exhales a jet of lava in a 15-foot cone. Each creature in that area must make a DC l3 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
 >
 > ***Change Shape.*** The drakgonwhelp can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the dragonwhelp retains its alignment, hit points, ability to speak, proficiencies and Intelligence, Wisdom, and Charisma scores, as well as this action.
 
 \columnbreak 
 ___
-> ## Black Dragonspawn
+> ## Black Dragonspawn <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;135;6;13;36;0;36;0;36;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;15;;;;;; -->
 >*Medium monstrosity, chaotic evil*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 75 (10d8 + 30)
+> - **Hit Points** 135 (18d8 + 54)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -96,12 +214,12 @@ ___
 >
 >
 > ### Actions
-> ***Multiattack.*** The dragonspawn makes two greatsword attacks.
+> ***Multiattack.*** The dragonspawn makes three greatsword attacks.
 >
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
-*Hit:* 7 (1d8 + 3) piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
+*Hit:* 10 (2d6 + 3) piercing damage.
 >
-> ***Greatsword.*** *Melee Weapon Attack:* +5 to hit, reach 10ft., one target. Hit: 12 (2d8 + 3) slashing damage.
+> ***Greatsword.*** *Melee Weapon Attack:* +6 to hit, reach 10ft., one target. Hit: 12 (2d8 + 3) slashing damage.
 >
 > ***Rallying Shout (Recharges after a Short or Long Rest).*** Each creature of the dragonspawn's choice that
 is within 30 feet of it, can hear it, and not already affected by Rallying Shout gain advantage on attack rolls until the start of the dragonspawn's next turn. The dragonspawn can then make one attack as a bonus action.
@@ -124,11 +242,11 @@ is Charisma (spell save DC 13). It can innately cast the following spells, requi
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Black Drakonid
+> ## Black Drakonid <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;170;6;14;42;0;42;0;42;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;15;;;;;; -->
 >*Large humanoid (drakonid), chaotic evil*
 > ___
 > - **Armor Class** 17 (scale mail)
-> - **Hit Points** 110 (13d10 + 39)
+> - **Hit Points** 170 (20d10 + 60)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -152,16 +270,16 @@ ___
 >
 > ***Glaive.*** *Melee Weapon Attack:* +6 to hit, reach 10ft., one target. Hit: 14 (2d10 + 3) slashing damage plus 7 (2d6) fire damage.
 >
-> ***Repelling Wave (Recharge 5-6).*** The drakonid releases repulsion energy from the earth around it. Each creature in that area within 10 feet the drakonid must succeed on a DC 16 Strength saving throw. On a failed save, the creature is pushed 15 feet away from the drakonid.
+> ***Repelling Wave (Recharge 5-6).*** The drakonid releases repulsion energy from the earth around it. Each creature in that area within 10 feet the drakonid must succeed on a DC 14 Strength saving throw. On a failed save, the creature is pushed 15 feet away from the drakonid.
 >
 
 \columnbreak
 ___
-> ## Black Drake
+> ## Black Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;142;7;16;90;0;38;0;38;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large dragon, chaotic evil*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 123 (13d10 + 52)
+> - **Hit Points** 142 (15d10 + 60)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -192,9 +310,9 @@ ___
 >
 > ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 >
-> ***Lava Breath.*** The dragon exhales a massive jet of lava in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 54 (12d8) fire damage on a failed save, or half as much damage on a successful one.
+> ***Lava Breath.*** The dragon exhales a massive jet of lava in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 45 (10d8) fire damage on a failed save, or half as much damage on a successful one.
 >
-> ***Shadow Breath.*** The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must succeed a DC 16 Strength saving throw or take 3 (1d6) necrotic damage at the start of each of its turns and have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effects on itself on a success.
+> ***Shadow Breath.*** The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must succeed a DC 16 Strength saving throw or take 21 (6d6) necrotic damage at the start of each of its turns and have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effects on itself on a success.
 >
 > ***Change Shape.*** The drake can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the drake retains its alignment, hit points, ability to speak, proficiencies, Innate Spellcasting and Intelligence, Wisdom, and Charisma scores, as well as this action.
@@ -204,11 +322,11 @@ ___
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Black Proto-Dragon
+> ## Black Proto-Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;231;9;17;90;0;66;0;90;0;0;0;0;0;0;0;;;1;1;2;;;;;;;;;;1;;;;;;;;15;;;;;; -->
 >*Huge dragon, chaotic evil*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 189 (18d12 + 72)
+> - **Hit Points** 231 (22d12 + 88)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -231,12 +349,12 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 19 (3d8 + 5) slashing damage.
 >
-> ***Lava Breath (Recharge 5-6).*** The proto-dragon exhales a massive jet of lava in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 49 (11d8) fire damage on a failed save, or half as much damage on a successful one.
+> ***Lava Breath (Recharge 5-6).*** The proto-dragon exhales a massive jet of lava in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 45 (10d8) fire damage on a failed save, or half as much damage on a successful one.
 >
 > ***Wing Buffet (Recharge 5-6).*** The proto-dragon beats its wings with fury. Each creature within 10 feet of it must succeed on a DC 18 Dexterity saving throw or take 11 (2d10) bludgeoning damage and be knocked prone.
 >
 > ### Reactions
-> ***Burning Rage.*** If an attack reduces the proto-dragon's hit points to 85 or fewer, it can start raging, recharging its Fire Breath. While in rage, the proto-dragon deals extra 7 (2d6) fire damage with every attack and any attack against it has advantage. The rage lasts 1 minute.
+> ***Burning Rage.*** If an attack reduces the proto-dragon's hit points to 165 or fewer, it can start raging, recharging its Lava Breath. While in rage, the proto-dragon deals extra 7 (2d6) fire damage with every attack and any attack against it has advantage. The rage lasts 1 minute.
 
 \pagebreakNum
 <div class="pageLetter">D</div>
@@ -244,11 +362,11 @@ ___
 
 ___
 ___
-> ## Black Dragon
+> ## Black Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;18;225;12;20;148;0;51;0;51;0;0;0;0;0;0;0;;;1;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, neutral evil*
 > ___
-> - **Armor Class** 19 (natural armor)
-> - **Hit Points** 250 (20d12 + 120)
+> - **Armor Class** 18 (natural armor)
+> - **Hit Points** 225 (18d12 + 108)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -273,24 +391,27 @@ ___
 > 
 >
 > ### Actions
-> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10ft., one target. *Hit:* 23 (3d10 + 7) piercing damage plus 7 (2d6) fire damage.
+> ***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10ft., one target. *Hit:* 12 (1d10 + 7) piercing damage plus 7 (2d6) fire damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 16 (2d8 + 7) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 11 (1d8 + 7) slashing damage.
 >
-> ***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15ft., one target. *Hit:* 16 (2d8 + 7) bludgeoning damage.
+> ***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15ft., one target. *Hit:* 11 (1d8 + 7) bludgeoning damage.
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
 > ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 >
-> ***Lava Breath.*** The dragon exhales a massive jet of lava in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+> ***Lava Breath.*** The dragon exhales a massive jet of lava in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 60 (11d10) fire damage on a failed save, or half as much damage on a successful one.
 >
 > ***Shadow Breath.*** The dragon exhales shadowy fire in a 60 -foot cone. Each creature in that area must succeed a DC 21 Strength saving throw or take 7 (2d6) necrotic damage at the start of each of its turns and have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effects on itself on a success.
 >
 > ***Change Shape.*** The dragon can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the dragon retains its alignment, hit points, ability to speak, proficiencies, Legendary Resistance, Innate Spellcasting and Intelligence, Wisdom, and Charisma scores, as well as this action.
+>
+> ### Reactions
+> ***Lava Spout.*** Whenever the dragon is hit by a creature within 30 feet of it, it can cause a vent of flame to erupt, spouting a pool of lava to the attacker. The creature must make a DC 21 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
 >
 > ### Legendary Actions
 > The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
@@ -300,9 +421,7 @@ ___
 > ***Tail Attack.*** The dragon makes a tail attack .
 >
 > ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-> 
-> ### Reactions
-> ***Lava Spout.*** Whenever the dragon is hit by a creature within 30 feet of it, it can cause a vent of flame to erupt, spouting a pool of lava to the attacker. The creature must make a DC 21 Dexterity saving throw, taking 18 (6d6) fire damage on a failed save, or half as much damage on a successful one.
+
 
 \pagebreakNum
 <div class="pageLetter">D</div>
@@ -311,7 +430,7 @@ ___
 ## Blue Dragonflight
 The blue dragonflight are dragonkin that have blue-white scales and can breath frost or arcane magic. During the ordering of Azeroth, the titan Norgannon blessed Malygos and his flight with power over the arcane and the duty of ensuring it would never be abused. 
 ___
-> ## Blue Dragonwhelp
+> ## Blue Dragonwhelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;31;4;13;20;0;10;0;10;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Small dragon, lawful neutral*
 > ___
 > - **Armor Class** 15 (natural armor)
@@ -344,11 +463,11 @@ ___
 
 \columnbreak 
 ___
-> ## Blue Dragonspawn
+> ## Blue Dragonspawn <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;120;5;13;20;0;20;0;20;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Medium monstrosity, lawful neutral*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 67 (9d8 + 27)
+> - **Hit Points** 120 (16d8 + 48)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -389,11 +508,11 @@ is Intelligence (spell save DC 12). It can innately cast the following spells, r
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Blue Drakonid
+> ## Blue Drakonid <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;135;5;13;25;0;30;0;30;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large humanoid (drakonid), lawful neutral*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 75 (10d10 + 20)
+> - **Hit Points** 135 (18d10 + 36)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -416,7 +535,7 @@ ___
 >
 > ### Actions
 >
-> ***Glaive.*** *Melee Weapon Attack:* +5 to hit, reach 10ft., one target. Hit: 14 (2d10 + 3) slashing damage plus 9 (2d8) cold damage.
+> ***Glaive.*** *Melee Weapon Attack:* +5 to hit, reach 10ft., one target. Hit: 14 (2d10 + 3) slashing damage plus 11 (2d10) cold damage.
 >
 > ### Reactions
 > ***Power Sap (Recharge 5-6).*** When the drakonid is hit by an attack, it can magically absorb up to 5 (1d10) damage dealt by this attack. The drakonid can add the absorbed damage to its next attack.
@@ -427,11 +546,11 @@ ___
 
 ___
 ___
-> ## Blue Drake
+> ## Blue Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;153;6;16;70;0;31;0;31;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large dragon, lawful neutral*
 > ___
-> - **Armor Class** 17 (natural armor)
-> - **Hit Points** 110 (13d10 + 39)
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 153 (18d10 + 54)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -463,8 +582,8 @@ ___
 >
 > ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 >
-> ***Cold Breath.*** The drake exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one. 
-><br>   In addition, any creature damaged by the cold breath must succeed a DC 17 Wisdom saving throw or lose spell slots of combined level 1d4-1, starting with the highest available level. The target regains any spell slots lost in this way when they finish a short rest.
+> ***Cold Breath.*** The drake exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one. 
+><br>   In addition, any creature damaged by the cold breath must succeed a DC 16 Wisdom saving throw or lose spell slots of combined level 1d4-1, starting with the highest available level. The target regains any spell slots lost in this way when they finish a short rest.
 >
 > ***Repulsion Breath.*** The drake exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a
 DC 17 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
@@ -477,11 +596,11 @@ DC 17 Strength saving throw. On a failed save, the creature is pushed 60 feet aw
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Blue Proto-Dragon
+> ## Blue Proto-Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;231;9;17;90;7;51;7;51;7;0;0;0;0;0;0;;;1;1;2;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, lawful neutral*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 178 (17d12 + 68)
+> - **Hit Points** 231 (22d12 + 88)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -519,11 +638,11 @@ ___
 
 ___
 ___
-> ## Blue Dragon
+> ## Blue Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;19;218;10;18;98;28;35;14;35;14;0;0;0;0;0;0;;;1;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, lawful neutral*
 > ___
 > - **Armor Class** 19 (natural armor)
-> - **Hit Points** 207 (18d12 + 90)
+> - **Hit Points** 218 (19d12 + 95)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -541,7 +660,7 @@ ___
 >
 > ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 >
-> ***Magic Destruction.*** Whenever an enemy creature within 30 feet of the dragon casts a spell, it must make a DC 19 Wisdom saving throw, taking (6d6) psychic damage on a failed save, or half as much damage on a successful one.
+> ***Magic Destruction.*** Whenever an enemy creature within 30 feet of the dragon casts a spell, it must make a DC 18 Wisdom saving throw, taking 7 (2d6) psychic damage on a failed save, or half as much damage on a successful one.
 >
 > ***Innate Spellcasting.*** The dragon's innate spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 > 
@@ -551,7 +670,7 @@ ___
 > 
 >
 > ### Actions
-> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
 >
 > ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 16 (2d10 + 5) piercing damage plus 7 (2d6) cold damage.
 >
@@ -559,15 +678,15 @@ ___
 >
 > ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 15ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 >
-> ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+> ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
 > ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 >
-> ***Cold Breath.*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 49 (14d6) cold damage on a failed save, or half as much damage on a successful one. 
+> ***Cold Breath.*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 49 (14d6) cold damage on a failed save, or half as much damage on a successful one. 
 ><br>   In addition, any creature damaged by the cold breath must succeed a DC 19 Wisdom saving throw or lose spell slots of combined level 2d4+1, starting with the highest available level. The target regains any spell slots lost in this way when they finish a short rest.
 >
 > ***Repulsion Breath.*** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a
-DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+DC 18 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
 >
 > ***Change Shape.*** The dragon can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the dragon retains its alignment, hit points, ability to speak, proficiencies, Legendary Resistance, Innate Spellcasting and Intelligence, Wisdom, and Charisma scores, as well as this action.
@@ -593,7 +712,7 @@ DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet aw
 The bronze dragonflight are dragons with yellow-bronze scales and can breath superheated sand. During the Ordering of Azeroth, the titan Aman'Thul blessed the wise Nozdormu and his brood with the ability to time travel and mastery of temporal magic. 
 
 ___
-> ## Bronze Dragonwhelp
+> ## Bronze Dragonwhelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;65;4;13;48;0;18;0;18;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Small dragon, lawful neutral*
 > ___
 > - **Armor Class** 15 (natural armor)
@@ -627,11 +746,11 @@ ___
 \columnbreak
 
 ___
-> ## Bronze Dragonspawn
+> ## Bronze Dragonspawn <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;150;5;13;30;0;30;0;30;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Medium monstrosity, lawful neutral*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 97 (13d8 + 39)
+> - **Hit Points** 150 (20d8 + 60)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -648,7 +767,7 @@ ___
 > ***Cleave.*** Once on the dragonspawn's turn, when it reduces a creature to 0 hit points with a melee weapon, it  may immediately make an attack roll against another creature within reach using the same weapon.
 >
 > ### Actions
-> ***Multiattack.*** The dragonspawn makes two greatsword attacks.
+> ***Multiattack.*** The dragonspawn makes three greatsword attacks.
 >
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 10 (2d6 + 3) piercing damage.
@@ -661,7 +780,7 @@ ___
 > Among the bronze dragonspawns, the bronze wyrmkins are those who have exceptional magic abilities. A wyrmkin has the same statistics as a bronze dragonspawn, except it has Charisma 14 and instead of Cleave, it has the following trait:
 >
 > <br> ***Innate Spellcasting.*** The wyrmkin's innate spellcasting ability
-is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components: 
+is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components: 
 >
 > <br>At will:  *dancing lights*, *message*, *shocking grasp*
 > <br> 1/day each: *hold person*, *misty step*
@@ -673,11 +792,11 @@ is Charisma (spell save DC 12). It can innately cast the following spells, requi
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Bronze Drakonid
+> ## Bronze Drakonid <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;178;5;13;62;0;62;0;62;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large humanoid (drakonid), lawful neutral*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 127 (15d10 + 45)
+> - **Hit Points** 178 (21d10 + 63)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -699,18 +818,18 @@ ___
 > ### Actions
 > ***Multiattack.*** The drakonid makes two glaive attacks.
 >
-> ***Glaive.*** *Melee Weapon Attack:* +5 to hit, reach 10ft., one target. Hit: 14 (2d10 + 3) slashing damage plus 8 (1d12 +2) lighting damage.
+> ***Glaive.*** *Melee Weapon Attack:* +5 to hit, reach 10ft., one target. Hit: 25 (4d10 + 3) slashing damage plus 6 (1d12) lighting damage.
 >
-> ***Time Warp (Recharges after a Short or Long Rest).*** The drakonid chooses up to two creatures within 30 feet of it. These creatures must succeed on a DC 15 Wisdom saving throw or until the end of their next turn their speed is halved and the next attack against them has advantage. 
+> ***Time Warp (Recharges after a Short or Long Rest).*** The drakonid chooses up to two creatures within 30 feet of it. These creatures must succeed on a DC 13 Wisdom saving throw or until the end of their next turn their speed is halved and the next attack against them has advantage. 
 
 \columnbreak
 
 ___
-> ## Bronze Drake
+> ## Bronze Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;190;8;17;98;0;50;0;50;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large dragon, lawful neutral*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 152 (16d10 + 64)
+> - **Hit Points** 190 (20d10 + 80)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -753,12 +872,12 @@ ___
 <div class="pageLetter">D</div>
 <div class='footnote'>Dragons </div>
 
-___
-> ## Bronze Proto-Dragon
+___ 
+> ## Bronze Proto-Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;241;9;17;126;0;69;0;69;0;0;0;0;0;0;0;;;1;1;2;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, lawful neutral*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 199 (19d12 + 76)
+> - **Hit Points** 241 (23d12 + 92)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -795,7 +914,7 @@ ___
 
 ___
 ___
-> ## Bronze Dragon
+> ## Bronze Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?3;19;262;10;17;90;28;49;16;49;16;0;0;0;0;0;0;;;1;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, lawful neutral*
 > ___
 > - **Armor Class** 19 (natural armor)
@@ -804,7 +923,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|25 (+7)|10 (+0)|23 (+6)|16 (+3)|19 (+4)|19 (+4)|
+>|21 (+5)|10 (+0)|23 (+6)|16 (+3)|19 (+4)|19 (+4)|
 >___
 > - **Saving Throws** Dex +6, Con +12, Wis +10, Cha +10
 > - **Skills** History +9, Perception +10
@@ -826,19 +945,19 @@ ___
 > 
 >
 > ### Actions
-> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10ft., one target. *Hit:* 23 (3d10 + 7) piercing damage plus 10 (3d6) fire damage.
+> ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 21 (3d10 + 5) piercing damage plus 10 (3d6) fire damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 20 (3d8 + 7) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 18 (3d8 + 5) slashing damage.
 >
-> ***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15ft., one target. *Hit:* 18 (2d10 + 7) bludgeoning damage.
+> ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 15ft., one target. *Hit:* 16 (2d10 + 5) bludgeoning damage.
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
 > ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 >
-> ***Searing Sand Breath.*** The dragon exhales superheated sand in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 72 (16d8) fire damage on a failed save, or half as much damage on a successful one. 
+> ***Searing Sand Breath.*** The dragon exhales superheated sand in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 45 (10d8) fire damage on a failed save, or half as much damage on a successful one. 
 <br>    In addition, any creature damaged by the searing sand breath must succeed a DC 19 Wisdom saving throw or age 10% of its natural lifespan.
 >
 > ***Slowing Breath.*** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
@@ -867,11 +986,11 @@ The green dragonflight (or the Emerald Dragonflight) consists of dragons with gr
 ***Protectors of Nature.*** Like the red dragonflight, green dragons are generally more approachable than those of other flights, primarily coming into conflict only with those who attempt to corrupt or destroy nature. They occasionally sought the help of druids to aid in this task.
 
 ___
-> ## Green Dragonwhelp
+> ## Green Dragonwhelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;81;4;13;18;0;10;0;10;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Small dragon, neutral good*
 > ___
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 31 (7d6 + 7)
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 81 (18d6 + 18)
 > - **Speed** 30 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -898,11 +1017,11 @@ ___
 > <br>    In a new form, the dragonwhelp retains its alignment, hit points, ability to speak, proficiencies and Intelligence, Wisdom, and Charisma scores, as well as this action.
 
 ___
-> ## Green Dragonspawn
+> ## Green Dragonspawn <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;97;5;13;20;4;20;4;20;4;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Medium monstrosity, neutral good*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 52 (7d8 + 21)
+> - **Hit Points** 97 (13d8 + 39)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -944,11 +1063,11 @@ is Charisma (spell save DC 12). It can innately cast the following spells, requi
 
 
 ___
-> ## Green Drakonid
+> ## Green Drakonid <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;119;5;13;23;0;23;0;23;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large humanoid (drakonid), neutral good*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 68 (8d10 + 24)
+> - **Hit Points** 119 (14d10 + 42)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -977,11 +1096,11 @@ ___
 \columnbreak
 
 ___
-> ## Green Drake
+> ## Green Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;127;6;16;62;0;25;0;25;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large dragon, neutral good*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 93 (11d10 + 33)
+> - **Hit Points** 127 (15d10 + 45)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1006,14 +1125,14 @@ ___
 > ### Actions
 > ***Multiattack.*** The drake makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 10ft., one target. *Hit:* 14 (2d10 + 3) piercing damage plus 7 (2d6)
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 10ft., one target. *Hit:* 8 (1d10 + 3) piercing damage plus 7 (2d6)
 acid damage.
 >
 > ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 >
 > ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 >
-> ***Acid Breath.*** The drake exhales acid in a 40-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 42 (12d6) acid damage on a failed save, or half as much damage on a successful one.
+> ***Acid Breath.*** The drake exhales acid in a 40-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 31 (9d6) acid damage on a failed save, or half as much damage on a successful one.
 >
 > ***Sleep Breath.*** The drake exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 >
@@ -1027,11 +1146,11 @@ acid damage.
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Green Proto-Dragon
+> ## Green Proto-Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;157;9;17;80;0;37;0;37;27;0;0;0;0;0;0;;;1;1;2;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, neutral good*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 147 (14d12 + 56)
+> - **Hit Points** 157 (15d12 + 60)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1046,16 +1165,16 @@ ___
 > - **Challenge** 9 (5,000 XP)
 > ___
 >
-> ***Death Burst.*** When the proto-dragon dies, it explodes in a burst of acid. Each creature within 5 feet of it must make a DC 17 Dexterity saving throw, taking 36 (8d8) acid damage on a failed save, or half as much damage on a successful one.
+> ***Death Burst.*** When the proto-dragon dies, it explodes in a burst of acid. Each creature within 5 feet of it must make a DC 17 Dexterity saving throw, taking 27 (6d8) acid damage on a failed save, or half as much damage on a successful one.
 >
 > ### Actions
-> ***Multiattack.*** The proto-dragon makes three attacks: one with its bite and two with its claws.
+> ***Multiattack.*** The proto-dragon makes two attacks: one with its bite and one with its claws.
 >
 > ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10ft., one target. *Hit:* 16 (2d10 + 5) piercing damage plus 7 (2d6) acid damage.
 >
 > ***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage.
 >
-> ***Acid Breath (Recharge 5-6).*** The proto-dragon exhales acid in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
+> ***Acid Breath (Recharge 5-6).*** The proto-dragon exhales acid in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
 >
 > ***Wing Buffet (Recharge 5-6).*** The proto-dragon beats its wings with fury. Each creature within 10 feet of it must succeed on a DC 18 Dexterity saving throw or take 11 (2d10) bludgeoning damage and be knocked prone.
 
@@ -1066,7 +1185,7 @@ ___
 
 ___
 ___
-> ## Green Dragon
+> ## Green Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;19;195;10;17;90;24;25;9;25;9;0;0;0;0;0;0;;;1;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, neutral good*
 > ___
 > - **Armor Class** 19 (natural armor)
@@ -1097,13 +1216,13 @@ ___
 > 
 >
 > ### Actions
-> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 16 (2d10 + 5) piercing damage plus 7 (2d6) acid damage.
+> ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 10 (1d10 + 5) piercing damage plus 7 (2d6) acid damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 8 (1d6 + 5) slashing damage.
 >
-> ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 15ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
+> ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 15ft., one target. *Hit:* 9 (1d8 + 5) bludgeoning damage.
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
@@ -1143,11 +1262,11 @@ The red dragonflight are dragons that have red scales and breath fire. Their fir
 
 ***Protectors of Life.*** The red dragons generally wish to protect all life on Azeroth as their queen does, while battling those who wish to do the world harm. In particular, the Black dragonflight and their Twilight aberrations served as the red dragon's foremost enemies. Despite their mission, some red dragons hold a mistrust, even animosity, towards mortals because of the events of the Second War.
 ___
-> ## Red Dragonwhelp
+> ## Red Dragonwhelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;81;4;13;20;0;11;0;11;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Small dragon, chaotic good*
 > ___
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 31 (7d6 + 7)
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 81 (18d6 + 18)
 > - **Speed** 30 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1179,11 +1298,11 @@ ___
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Red Dragonspawn
+> ## Red Dragonspawn <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;120;5;13;20;0;20;0;20;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Medium monstrosity, chaotic good*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 67 (9d8 + 27)
+> - **Hit Points** 120 (16d8 + 48)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1227,11 +1346,11 @@ is Charisma (spell save DC 12). It can innately cast the following spells, requi
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Red Drakonid
+> ## Red Drakonid <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;144;5;13;44;0;24;0;24;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large humanoid (drakonid), chaotic good*
 > ___
-> - **Armor Class** 16 (scale mail)
-> - **Hit Points** 85 (10d10 + 30)
+> - **Armor Class** 17 (scale mail)
+> - **Hit Points** 144 (17d10 + 51)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1255,16 +1374,16 @@ ___
 >
 > ***Glaive.*** *Melee Weapon Attack:* +5 to hit, reach 10ft., one target. Hit: 14 (2d10 + 3) slashing damage plus 10 (3d6) fire damage.
 >
-> ***Fireburst (Recharge 5-6).*** The drakonid causes a powerful explosion of flame to burst from it, damaging anyone around it. Each creature within 10 feet of it must make a DC 13 Dexterity saving throw, taking 16 (3d10) fire damage on a failed save, or half as much damage on a successful one. 
+> ***Fireburst (Recharge 5-6).*** The drakonid causes a powerful explosion of flame to burst from it, damaging anyone around it. Each creature within 10 feet of it must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one. 
 
 \columnbreak
 
 ___
-> ## Red Drake
+> ## Red Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;152;7;13;76;0;44;0;44;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large dragon, chaotic good*
 > ___
-> - **Armor Class** 17 (natural armor)
-> - **Hit Points** 123 (13d10 + 52)
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 152 (16d10 + 64)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1308,11 +1427,11 @@ ___
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Red Proto-Dragon
+> ## Red Proto-Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;220;9;14;108;7;51;7;51;7;0;0;0;0;0;0;;;1;1;2;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, chaotic good*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 178 (17d12 + 68)
+> - **Hit Points** 220 (21d12 + 84)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1346,16 +1465,16 @@ ___
 
 ___
 ___
-> ## Red Dragon
+> ## Red Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;18;225;10;21;98;24;35;14;35;14;0;0;0;0;0;0;;;1;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, chaotic good*
 > ___
-> - **Armor Class** 19 (natural armor)
-> - **Hit Points** 237 (19d12 + 114)
+> - **Armor Class** 18 (natural armor)
+> - **Hit Points** 225 (18d12 + 108)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|24 (+7)|10 (+0)|22 (+6)|16 (+3)|12 (+1)|19 (+4)|
+>|21 (+5)|10 (+0)|22 (+6)|16 (+3)|12 (+1)|19 (+4)|
 >___
 > - **Saving Throws** Str +12, Dex +5, Con +11, Cha +9
 > - **Skills** Medicine +6, Perception +6
@@ -1377,19 +1496,19 @@ ___
 > 
 >
 > ### Actions
-> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10ft., one target. *Hit:* 18 (2d10 + 7) piercing damage plus 7 (2d6) fire damage.
+> ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 16 (2d10 + 5) piercing damage plus 7 (2d6) fire damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6 + 7) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 >
-> ***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15ft., one target. *Hit:* 16 (2d8 + 7) bludgeoning damage.
+> ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 15ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
 > ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 >
-> ***Fire Breath.*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (14d8) fire damage on a failed save, or half as much damage on a successful one. 
+> ***Fire Breath.*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 49 (11d8) fire damage on a failed save, or half as much damage on a successful one. 
 >
 > ***Restorative Breath.*** The dragon exhales radiant fire in a 60-foot cone. Each friendly creature in that area regains 40 (10d8) hit points. 
 > <br>   This fire sears any ground that it strikes: it burns away all soil and vegetation, which starts to grow back within 1d4 days, but three times as bountiful as before.
@@ -1419,10 +1538,10 @@ The infinite dragonflight (or simply the Infinites) is a dragonflight formed fro
 Their only goal is seemingly to destroy the one true timeway and to help the Old Gods bring about the Hour of Twilight. Their reasons for doing so are not entirely clear, but it is hinted at that it is to stop an even worse fate. The infinites are led by Murozond, the future corrupted version of the bronze Aspect Nozdormu.
 
 ___
-> ## Infinite Dragonwhelp
+> ## Infinite Dragonwhelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;66;5;14;34;0;19;0;19;0;0;0;0;0;0;0;1;;1;1;2;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Small dragon, chaotic evil*
 > ___
-> - **Armor Class** 15 (natural armor)
+> - **Armor Class** 14 (natural armor)
 > - **Hit Points** 66 (12d6 + 24)
 > - **Speed** 30 ft., fly 60 ft.
 >___
@@ -1444,18 +1563,18 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) slashing damage plus 7 (2d6) force damage.
 >
-> ***Dragon Breath (Recharge 5-6).*** The dragonwhelp chooses one of the following damage types: acid, cold or fire and it breaths in a 15-foot cone. Each creature in that area must make a DC l4 Dexterity saving throw, taking 21 (6d6) damage of the chosen type on a failed save, or half as much damage on a successful one.
+> ***Dragon Breath (Recharge 5-6).*** The dragonwhelp chooses one of the following damage types: acid, cold or fire and it breaths in a 15-foot cone. Each creature in that area must make a DC l4 Dexterity saving throw, taking 17 (5d6) damage of the chosen type on a failed save, or half as much damage on a successful one.
 >
 > ***Change Shape.*** The drakgonwhelp can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the dragonwhelp retains its alignment, hit points, ability to speak, proficiencies and Intelligence, Wisdom, and Charisma scores, as well as this action.
 
 \columnbreak 
 ___
-> ## Infinite Dragonspawn
+> ## Infinite Dragonspawn <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;150;5;14;42;0;42;0;42;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Medium monstrosity, lawful neutral*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 97 (13d8 + 39)
+> - **Hit Points** 150 (20d8 + 60)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1471,7 +1590,7 @@ ___
 > ***Magically Aged.*** The dragonwhelp has disadvantage to all Intelligence and Wisdom checks. 
 >
 > ### Actions
-> ***Multiattack.*** The dragonspawn makes two greatsword attacks.
+> ***Multiattack.*** The dragonspawn makes three greatsword attacks.
 >
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 10 (2d6 + 3) piercing damage.
@@ -1487,11 +1606,11 @@ ___
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Infinite Drakonid
+> ## Infinite Drakonid <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;204;5;16;58;0;58;0;58;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large humanoid (drakonid), lawful neutral*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 144 (17d10 + 51)
+> - **Hit Points** 204 (24d10 + 72)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1514,7 +1633,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The drakonid makes two glaive attacks.
 >
-> ***Glaive.*** *Melee Weapon Attack:* +6 to hit, reach 10ft., one target. Hit: 15 (2d10 + 4) slashing damage plus 7 (2d6) fire damage.
+> ***Glaive.*** *Melee Weapon Attack:* +6 to hit, reach 10ft., one target. Hit: 15 (2d10 + 4) slashing damage plus 14 (4d6) fire damage.
 >
 > ***Repelling Wave (Recharge 5-6).*** The drakonid releases repulsion energy from the earth around it. Each creature in that area within 10 feet the drakonid must succeed on a DC 16 Strength saving throw. On a failed save, the creature is pushed 15 feet away from the drakonid.
 
@@ -1523,11 +1642,11 @@ ___
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Infinite Drake
+> ## Infinite Drake <!-- https://wc5e-cr-calculator.frogvall.com/?2;16;228;9;16;90;0;52;0;52;0;0;0;0;0;0;0;;;1;1;2;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large dragon, chaotic evil*
 > ___
-> - **Armor Class** 17 (natural armor)
-> - **Hit Points** 180 (19d10 + 76)
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 228 (24d10 + 96)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1551,7 +1670,7 @@ ___
 >
 >
 > ### Actions
-> ***Multiattack.*** The drake makes two attacks: one with its bite and one with its claws.
+> ***Multiattack.*** The drake makes three attacks: one with its bite and two with its claws.
 >
 > ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10ft., one target. *Hit:* 21 (3d10 + 5) piercing damage plus 7 (2d6) force damage.
 >
@@ -1568,16 +1687,16 @@ ___
 
 ___
 ___
-> ## Infinite Dragon
+> ## Infinite Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?3;19;243;13;19;126;28;51;12;51;12;0;0;0;0;0;0;;;1;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, lawful neutral*
 > ___
 > - **Armor Class** 19 (natural armor)
-> - **Hit Points** 262 (21d12 + 126)
+> - **Hit Points** 243 (18d12 + 126)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|26 (+8)|10 (+0)|24 (+7)|16 (+3)|19 (+4)|20 (+5)|
+>|25 (+7)|10 (+0)|24 (+7)|16 (+3)|19 (+4)|20 (+5)|
 >___
 > - **Saving Throws** Dex +6, Con +13, Wis +10, Cha +11
 > - **Skills**  Perception +10, Survival +10
@@ -1602,17 +1721,17 @@ ___
 > ### Actions
 > ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10ft., one target. *Hit:* 24 (3d10 + 8) piercing damage plus 10 (3d6) force damage.
+> ***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10ft., one target. *Hit:* 12 (1d10 + 7) piercing damage plus 7 (2d6) force damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 21 (3d8 + 8) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 16 (2d8 + 7) slashing damage.
 >
-> ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15ft., one target. *Hit:* 19 (2d10 + 8) bludgeoning damage.
+> ***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15ft., one target. *Hit:* 12 (1d10 + 7) bludgeoning damage.
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
 > ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 >
-> ***Dragon Breath.*** The dragon chooses one of the following damage types: acid, cold or fire and it breaths in a 15-foot cone. Each creature in that area must make a DC 22 Dexterity saving throw, taking 72 (16d8) damage of the chosen type on a failed save, or half as much damage on a successful one.
+> ***Dragon Breath.*** The dragon chooses one of the following damage types: acid, cold or fire and it breaths in a 15-foot cone. Each creature in that area must make a DC 22 Dexterity saving throw, taking 63 (14d8) damage of the chosen type on a failed save, or half as much damage on a successful one.
 >
 > ***Sand Breath.*** The dragon exhales sand in a 60-foot cone. Each creature in that area must make a DC 22 Dexterity saving throw, taking 36 (8d8) bludgeoning damage on a failed save and becoming blinded until the end of the dragons's next turn. On a success, a creature take  half as much damage to no other ill effect.
 >
@@ -1639,11 +1758,11 @@ The Netherwing Dragonflight is an unorthodox brood of ethereal dragons whose bod
 The Netherwing dragonflight can trace its origins back to eggs of the black dragonflight taken through the Dark Portal by Deathwing, which were accidentally exposed to a great deal of nether energies when Draenor was torn apart. Free of any bonds to their parent dragonflight, the netherwings now seek a new life in the turbulent, and often hostile, the world of Outland.
 
 ___
-> ## Netherwing Dragonwhelp
+> ## Netherwing Dragonwhelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;49;4;13;20;0;10;0;10;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Small dragon, unaligned*
 > ___
 > - **Armor Class** 15 (natural armor)
-> - **Hit Points** 38 (7d6 + 14)
+> - **Hit Points** 49 (9d6 + 18)
 > - **Speed** 30 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1672,11 +1791,11 @@ ___
 
 \columnbreak 
 ___
-> ## Netherwing Dragonspawn
+> ## Netherwing Dragonspawn <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;112;5;13;36;0;24;0;24;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Medium monstrosity, chaotic good*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 67 (9d8 + 27)
+> - **Hit Points** 112 (15d8 + 45)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1703,11 +1822,11 @@ ___
 \pagebreakNum
 
 ___
-> ## Netherwing Drakonid
+> ## Netherwing Drakonid <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;144;6;13;24;0;24;0;24;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large humanoid (drakonid), unaligned*
 > ___
 > - **Armor Class** 17 (scale mail)
-> - **Hit Points** 85 (10d10 + 30)
+> - **Hit Points** 144 (17d10 + 51)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1738,11 +1857,11 @@ ___
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Netherwing Drake
+> ## Netherwing Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;157;7;14;62;0;35;0;35;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large dragon, unaligned*
 > ___
-> - **Armor Class** 17 (natural armor)
-> - **Hit Points** 114 (12d10 + 48)
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 152 (16d10 + 64)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1770,7 +1889,7 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 >
-> ***Nether Breath (Recharge 5-6).*** The drake exhales violent nether energy in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 35 (10d6) force damage on a failed save, or half as much damage on a successful one.
+> ***Nether Breath (Recharge 5-6).*** The drake exhales violent nether energy in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 31 (9d6) force damage on a failed save, or half as much damage on a successful one.
 >
 > ***Change Shape.*** The drake can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the drake retains its alignment, hit points, ability to speak, proficiencies, Innate Spellcasting and Intelligence, Wisdom, and Charisma scores, as well as this action.
@@ -1784,11 +1903,11 @@ ___
 
 ___
 ___
-> ## Netherwing Dragon
+> ## Netherwing Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;205;11;19;84;33;41;20;41;20;0;0;0;0;0;0;;;1;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, unaligned*
 > ___
-> - **Armor Class** 18 (natural armor)
-> - **Hit Points** 212 (17d12 + 102)
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 200 (16d12 + 96)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1804,7 +1923,7 @@ ___
 >
 > ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 >
-> ***Nether Burn Aura.***  Every wounded enemy creature within 30 feet of the dragon must make a DC 18 Constitution saving throw at the start of their turn, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one.
+> ***Nether Burn Aura.***  Every wounded enemy creature within 30 feet of the dragon must make a DC 18 Constitution saving throw at the start of their turn, taking 7 (2d6) necrotic damage on a failed save, or half as much damage on a successful one.
 >
 > ***Innate Spellcasting.*** The dragon's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 > 
@@ -1814,9 +1933,9 @@ ___
 > 
 >
 > ### Actions
-> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10ft., one target. *Hit:* 17 (2d10 + 6) piercing damage plus 7 (2d6) force damage.
+> ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10ft., one target. *Hit:* 11 (1d10 + 6) piercing damage plus 7 (2d6) force damage.
 >
 > ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
 >
@@ -1824,7 +1943,7 @@ ___
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
-> ***Nether Breath (Recharge 5-6).*** The dragon exhales violent nether energy in a 60-foot cone. Each creature in that area must make a DC 20 Dexterity saving throw, taking 49 (14d6) force damage on a failed save, or half as much damage on a successful one.
+> ***Nether Breath (Recharge 5-6).*** The dragon exhales violent nether energy in a 60-foot cone. Each creature in that area must make a DC 20 Dexterity saving throw, taking 42 (12d6) force damage on a failed save, or half as much damage on a successful one.
 >
 > ***Change Shape.*** The dragon can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the dragon retains its alignment, hit points, ability to speak, proficiencies, Legendary Resistance, Innate Spellcasting and Intelligence, Wisdom, and Charisma scores, as well as this action.
@@ -1851,11 +1970,11 @@ The Cult of the Damned began breeding a plagued dragonflight within Scholomance 
 The necromancers of Scholomance, working under Vectus, used black dragon eggs from the Burning Steppes as the basis for their experiments, and hopes to unleash the plagued dragons on the world. However, the Argent Dawn has caught wind of their activities and plans, and is working to destroy the abominable plagued dragons before they can be deployed.
 
 ___
-> ## Plagued Dragonwhelp
+> ## Plagued Dragonwhelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;82;4;14;20;0;10;0;10;0;0;0;0;0;0;0;;;1;1;2;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Small undead (dragon), lawful evil*
 > ___
 > - **Armor Class** 15 (natural armor)
-> - **Hit Points** 38 (7d6 + 14)
+> - **Hit Points** 82 (15d6 + 30)
 > - **Speed** 30 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1886,11 +2005,11 @@ ___
 \columnbreak 
 
 ___
-> ## Plagued Drake
+> ## Plagued Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;190;7;17;76;0;50;0;50;0;0;0;0;0;0;0;;;1;1;2;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large undead (dragon), lawful evil*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 123 (13d10 + 52)
+> - **Hit Points** 190 (20d10 + 80)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1914,7 +2033,7 @@ ___
 >
 >
 > ### Actions
-> ***Multiattack.*** The drake makes two attacks: one with its bite and one with its claws.
+> ***Multiattack.*** The drake makes three attacks: one with its bite and two with its claws.
 >
 > ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10ft., one target. *Hit:* 15 (2d10 + 4) piercing damage plus 9 (2d8) necrotic damage.
 >
@@ -1930,11 +2049,11 @@ ___
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Plagued Proto-Dragon
+> ## Plagued Proto-Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;231;9;17;80;0;51;0;51;0;0;0;0;0;0;0;;;1;1;2;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Huge undead (dragon), lawful evil*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 178 (17d12 + 68)
+> - **Hit Points** 231 (22d12 + 88)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1958,7 +2077,7 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage.
 >
-> ***Dreadful Breath (Recharge 5-6).*** The proto-dragon exhales sludge in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 45 (10d8) necrotic damage on a failed save, or half as much damage on a successful one.
+> ***Dreadful Breath (Recharge 5-6).*** The proto-dragon exhales sludge in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 40 (9d8) necrotic damage on a failed save, or half as much damage on a successful one.
 >
 > ***Wing Buffet (Recharge 5-6).*** The proto-dragon beats its wings with fury. Each creature within 10 feet of it must succeed on a DC 18 Dexterity saving throw or take 11 (2d10) bludgeoning damage and be knocked prone.
 >
@@ -1970,11 +2089,11 @@ ___
 
 ___
 ___
-> ## Plagued Dragon
+> ## Plagued Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;250;11;19;82;35;37;21;37;21;0;0;0;0;0;0;;;1;1;2;;;;;;;1;;1;3;;;;;;;;15;;;;;; -->
 >*Huge undead (dragon), lawful evil*
 > ___
-> - **Armor Class** 18 (natural armor)
-> - **Hit Points** 131 (19d12 + 114)
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 250 (20d12 + 120)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2002,7 +2121,7 @@ Constitution saving throw or take 9 (2d8) poison damage and be poisoned until th
 > 
 >
 > ### Actions
-> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
 >
 > ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10ft., one target. *Hit:* 17 (2d10 + 6) piercing damage plus 7 (2d6) lighting damage.
 >
@@ -2012,7 +2131,7 @@ Constitution saving throw or take 9 (2d8) poison damage and be poisoned until th
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
-> ***Dreadful Breath (Recharge 5-6).*** The dragon exhales sludge in a 60-foot cone. Each creature in that area must make a DC 20 Dexterity saving throw, taking 52 (15d6) necrotic damage on a failed save, or half as much damage on a successful one. 
+> ***Dreadful Breath (Recharge 5-6).*** The dragon exhales sludge in a 60-foot cone. Each creature in that area must make a DC 19 Dexterity saving throw, taking 42 (12d6) necrotic damage on a failed save, or half as much damage on a successful one. 
 <br>    In addition, any humanoid killed by the dreadful breath rises at the start of the dragon's turn as a zombie that is permanently under its command, following its verbal orders to the best of its ability.
 >
 > ***Change Shape.*** The dragon can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
@@ -2040,11 +2159,11 @@ The mighty stone dragons are mysterious creatures that inhabit Deepholm, the ele
 Their draconic appearance, however, may not indicate their true nature. It appears they are quite tightly connected to the element of earth, although they are not aligned with Therazane. As stated by the Kor the Immovable, the stone dragons are fickle, and bend only to strength and the strongest of them is Aeosera, their broodmother.
 
 ___
-> ## Stone Dragonwhelp
+> ## Stone Dragonwhelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;49;4;13;28;0;7;0;7;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Small dragon, unaligned*
 > ___
 > - **Armor Class** 15 (natural armor)
-> - **Hit Points** 38 (7d6 + 14)
+> - **Hit Points** 49 (9d6 + 18)
 > - **Speed** 30 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2063,7 +2182,7 @@ ___
 >
 >
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
-*Hit:* 12 (2d8 + 3) piercing damage.
+*Hit:* 7 (1d8 + 3) piercing damage.
 >
 > ***Stone Breath (Recharge 5-6).*** The dragonwhelp exhales stones in a 15-foot cone. Each creature in that area must make a DC l3 Dexterity saving throw, taking 14 (4d6) bludgeoning damage on a failed save, or half as much damage on a successful one.
 >
@@ -2074,11 +2193,11 @@ ___
 \columnbreak 
 
 ___
-> ## Stone Drake
+> ## Stone Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;123;6;17;70;0;31;0;31;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large dragon, unaligned*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 114 (12d10 + 48)
+> - **Hit Points** 123 (13d10 + 52)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2118,10 +2237,10 @@ ___
 
 ___
 ___
-> ## Stone Dragon
+> ## Stone Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;212;10;19;90;40;30;13;30;13;0;0;0;0;0;0;;;1;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, unaligned*
 > ___
-> - **Armor Class** 18 (natural armor)
+> - **Armor Class** 17 (natural armor)
 > - **Hit Points** 212 (17d12 + 102)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
@@ -2138,7 +2257,7 @@ ___
 >
 > ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 >
-> ***Stone Storm.***  Whenever the dragon uses its wing attack, as a bonus action it can create a small storm of stones around it. Any creature within 20 feet from the dragon must make a DC 20 Dexterity saving throw, taking 14 (4d6) bludgeoning damage on a failed save, or half as much damage on a successful one. If any of these creatures is prone, then it automatically fails the save and takes 28 (8d6) bludgeoning damage instead.
+> ***Stone Storm.***  Whenever the dragon uses its wing attack, as a bonus action it can create a small storm of stones around it. Any creature within 20 feet from the dragon must make a DC 19 Dexterity saving throw, taking 7 (2d6) bludgeoning damage on a failed save, or half as much damage on a successful one. If any of these creatures is prone, then it automatically fails the save and takes 14 (4d6) bludgeoning damage instead.
 >
 > ***Innate Spellcasting.*** The dragon's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 > 
@@ -2148,18 +2267,18 @@ ___
 > 
 >
 > ### Actions
-> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10ft., one target. *Hit:* 28 (4d10 + 6) piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 17 (2d10 + 6) piercing damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
 >
-> ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15ft., one target. *Hit:* 13 (2d6 + 6) bludgeoning damage.
+> ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 15ft., one target. *Hit:* 13 (2d6 + 6) bludgeoning damage.
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
-> ***Stone Breath (Recharge 5-6).*** The dragon exhales stones in a 60-foot cone. Each creature in that area must make a DC 20 Dexterity saving throw, taking 45 (15d6) bludgeoning damage on a failed save, or half as much damage on a successful one. 
-<br>    In addition, any creature damaged by the stone breath must succeed a DC 23 Strength saving throw or fall prone.
+> ***Stone Breath (Recharge 5-6).*** The dragon exhales stones in a 60-foot cone. Each creature in that area must make a DC 19 Dexterity saving throw, taking 45 (15d6) bludgeoning damage on a failed save, or half as much damage on a successful one. 
+<br>    In addition, any creature damaged by the stone breath must succeed a DC 21 Strength saving throw or fall prone.
 >
 > ***Change Shape.*** The dragon can magically polymorph into a humanoid or beast that has a challenge rating no higher than its own, or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
@@ -2187,11 +2306,11 @@ The Storm Dragonflight are dragons possessing the power of the storms and who ma
 ***Mysterious Ancestry.*** Their origins are unknown; if they were once proto-drakes native to Azeroth they may have been altered by the titans, as the Dragon Aspects were at one point. It is also entirely likely that they are pure elemental beings and not flesh and blood dragons at all.
 
 ___
-> ## Storm Dragonwhelp
+> ## Storm Dragonwhelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;82;4;13;28;0;14;0;14;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Small dragon, unaligned*
 > ___
 > - **Armor Class** 15 (natural armor)
-> - **Hit Points** 49 (9d6 + 18)
+> - **Hit Points** 82 (15d6 + 30)
 > - **Speed** 30 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2221,11 +2340,11 @@ ___
 \columnbreak 
 
 ___
-> ## Storm Drake
+> ## Storm Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;142;7;16;70;0;35;0;35;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large dragon, unaligned*
 > ___
-> - **Armor Class** 17 (natural armor)
-> - **Hit Points** 114 (12d10 + 48)
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 142 (15d10 + 60)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2254,7 +2373,7 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 >
-> ***Lighting Breath (Recharge 5-6).*** The drake exhales lighting in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 35 (10d6) lighting damage on a failed save, or half as much damage on a successful one.
+> ***Lighting Breath (Recharge 5-6).*** The drake exhales lighting in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 35 (10d6) lighting damage on a failed save, or half as much damage on a successful one.
 >
 > ***Change Shape.*** The drake can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the drake retains its alignment, hit points, ability to speak, proficiencies, Innate Spellcasting and Intelligence, Wisdom, and Charisma scores, as well as this action.
@@ -2265,16 +2384,16 @@ ___
 
 ___
 ___
-> ## Storm Dragon
+> ## Storm Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;200;10;19;76;26;35;12;35;12;0;0;0;0;0;0;;;1;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, unaligned*
 > ___
-> - **Armor Class** 18 (natural armor)
+> - **Armor Class** 17 (natural armor)
 > - **Hit Points** 200 (16d12 + 96)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|22 (+6)|10 (+0)|22 (+6)|16 (+3)|12 (+1)|19 (+4)|
+>|21 (+5)|10 (+0)|22 (+6)|16 (+3)|12 (+1)|19 (+4)|
 >___
 > - **Saving Throws** Dex +5, Con +11, Wis +6, Cha +9
 > - **Skills**  Perception +6, Survival +6
@@ -2296,17 +2415,17 @@ ___
 > 
 >
 > ### Actions
-> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10ft., one target. *Hit:* 17 (2d10 + 6) piercing damage plus 7 (2d6) lighting damage.
+> ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 16 (2d10 + 5) piercing damage plus 7 (2d6) lighting damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 >
-> ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15ft., one target. *Hit:* 13 (2d6 + 6) bludgeoning damage.
+> ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 15ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage.
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
-> ***Lighting Breath (Recharge 5-6).*** The dragon exhales lighthing in a 60-foot cone. Each creature in that area must make a DC 20 Dexterity saving throw, taking 45 (15d6) lighting damage on a failed save, or half as much damage on a successful one. 
+> ***Lighting Breath (Recharge 5-6).*** The dragon exhales lighthing in a 60-foot cone. Each creature in that area must make a DC 19 Dexterity saving throw, taking 38 (11d6) lighting damage on a failed save, or half as much damage on a successful one. 
 <br>    In addition, any creature damaged by the lighting breath must succeed a DC 19 Constitution saving throw or be paralyzed until the end of the dragon's next turn.
 >
 > ***Change Shape.*** The dragon can magically polymorph into a humanoid or beast that has a challenge rating no higher than its own, or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
@@ -2332,11 +2451,11 @@ The twilight dragonflight is a dragonflight created by the results of magical ex
 Using ancient dragon artifacts and the powers of the nether dragons, Sintharia created a new breed of dragons that feed vampirically on all forms of mystical energy. 
 
 ___
-> ## Twilight Dragonwhelp
+> ## Twilight Dragonwhelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;99;4;13;28;0;14;0;14;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Small dragon, chaotic evil*
 > ___
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 55 (10d6 + 20)
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 99 (18d6 + 36)
 > - **Speed** 30 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2355,7 +2474,7 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 9 (2d6 + 2) piercing damage plus 5 (2d4) necrotic damage.
 >
-> ***Twilight Breath (Recharge 5-6).*** The dragonwhelp exhales shadowy fire in a 15-foot cone. Each creature in that area must make a DC l3 Dexterity saving throw, taking 17 (5d6) necrotic damage on a failed save, or half as much damage on a successful one.
+> ***Twilight Breath (Recharge 5-6).*** The dragonwhelp exhales shadowy fire in a 15-foot cone. Each creature in that area must make a DC l3 Dexterity saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one.
 >
 > ***Change Shape.*** The drakgonwhelp can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the dragonwhelp retains its alignment, hit points, ability to speak, proficiencies and Intelligence, Wisdom, and Charisma scores, as well as this action.
@@ -2364,11 +2483,11 @@ ___
 
 \columnbreak 
 ___
-> ## Twilight Dragonspawn
+> ## Twilight Dragonspawn <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;142;5;13;36;0;36;0;36;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Medium monstrosity, chaotic evil*
 > ___
 > - **Armor Class** 16 (scale mail)
-> - **Hit Points** 75 (10d8 + 30)
+> - **Hit Points** 142 (19d8 + 57)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2383,7 +2502,7 @@ ___
 >
 >
 > ### Actions
-> ***Multiattack.*** The dragonspawn makes two greatsword attacks.
+> ***Multiattack.*** The dragonspawn makes three greatsword attacks.
 >
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 7 (1d8 + 3) piercing damage.
@@ -2410,11 +2529,11 @@ is Charisma (spell save DC 13). It can innately cast the following spells, requi
 <div class='footnote'>Dragons </div>
 
 ___
-> ## Twilight Drakonid
+> ## Twilight Drakonid <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;153;6;14;42;0;42;25;42;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large humanoid (drakonid), chaotic evil*
 > ___
 > - **Armor Class** 17 (scale mail)
-> - **Hit Points** 110 (13d10 + 39)
+> - **Hit Points** 153 (18d10 + 54)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2437,17 +2556,17 @@ ___
 > ***Glaive.*** *Melee Weapon Attack:* +6 to hit, reach 10ft., one target. Hit: 14 (2d10 + 3) slashing damage plus 7 (2d6) necrotic damage.
 >
 > ### Reactions
-> ***Shadow Strike (Recharge 5-6).*** When the drakonid is attacked by a creature and the creature misses, the drakonid can step into the shadows and appear behind that creature and make an glaive attack. If it hits, then the attack deals an extra 7 (2d6) necrotic damage to the target.
+> ***Shadow Strike (Recharge 5-6).*** When the drakonid is attacked by a creature and the creature misses, the drakonid can step into the shadows and appear behind that creature and make an glaive attack. If it hits, then the attack deals an extra 4 (1d8) necrotic damage to the target.
 >
 
 \columnbreak
 
 ___
-> ## Twilight Drake
+> ## Twilight Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;180;7;14;56;0;35;0;35;0;0;0;0;0;0;0;;;1;1;4;;;;;;;;;;3;;;;;;;;15;;;;;; -->
 >*Large dragon, chaotic evil*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 123 (13d10 + 52)
+> - **Hit Points** 180 (19d10 + 76)
 > - **Speed** 40 ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2475,7 +2594,7 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 >
-> ***Twilight Breath.*** The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC l7 Dexterity saving throw, taking 17 (5d6) necrotic damage on a failed save, or half as much damage on a successful one. In addition, they can’t regain hit points until the start of their next turn. 
+> ***Twilight Breath.*** The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC l7 Dexterity saving throw, taking 28 (8d6) necrotic damage on a failed save, or half as much damage on a successful one. In addition, they can’t regain hit points until the start of their next turn. 
 >
 > ***Change Shape.*** The drake can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the drake retains its alignment, hit points, ability to speak, proficiencies, Innate Spellcasting and Intelligence, Wisdom, and Charisma scores, as well as this action.
@@ -2490,11 +2609,11 @@ ___
 
 ___
 ___
-> ## Twilight Dragon
+> ## Twilight Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?2;18;225;11;19;90;28;59;15;59;15;0;0;0;0;0;0;;;1;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;; -->
 >*Huge dragon, neutral evil*
 > ___
-> - **Armor Class** 19 (natural armor)
-> - **Hit Points** 250 (20d12 + 120)
+> - **Armor Class** 18 (natural armor)
+> - **Hit Points** 225 (18d12 + 108)
 > - **Speed** 40 ft., climb 40ft., fly 80 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -2530,7 +2649,7 @@ ___
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
-> ***Twilight Breath.*** The dragon exhales shadowy fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 54 (12d8) necrotic damage on a failed save, or half as much damage on a successful one. In addition, they can’t regain hit points until the start of their next turn. 
+> ***Twilight Breath.*** The dragon exhales shadowy fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 45 (10d8) necrotic damage on a failed save, or half as much damage on a successful one. In addition, they can’t regain hit points until the start of their next turn. 
 >
 > ***Change Shape.*** The dragon can magically polymorph into a humanoid or back into her true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (its choice). 
 > <br>    In a new form, the dragon retains its alignment, hit points, ability to speak, proficiencies, Legendary Resistance, Innate Spellcasting and Intelligence, Wisdom, and Charisma scores, as well as this action.
