@@ -6489,7 +6489,7 @@ ___
 >
 > ***Spellcasting.*** The satyr is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 >
-> Cantrips (at will): *fel flame***, green-flame blade, mage <br>&nbsp;&nbsp;&nbsp; hand, shadow bolt*
+> Cantrips (at will): *fel flame** *, green-flame blade, mage <br>&nbsp;&nbsp;&nbsp; hand, shadow bolt*
 > <br> 1st-5th level (2 3rd-level slots): *arms of hadar, <br>&nbsp;&nbsp;&nbsp; bestow curse, hypnotic pattern, scorching ray, <br>&nbsp;&nbsp;&nbsp; ray of enfeeblement*
 >
 > ***Shadowmeld.*** The satyr can attempt to hide even when it is only lightly obscured by foliage, heavy rain, falling snow, mist, or other natural phenomena.
