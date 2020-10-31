@@ -6624,7 +6624,7 @@ A creature risen by the scourge is any Huge or smaller creature brought back to 
 <div style='margin-top:-10px;'></div>
 
 ___
-> ## Scourge Risen Knight <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;93;5;13;21;0;21;0;21;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> ## Scourge Risen Knight
 >*Medium undead, neutral evil*
 > ___
 > - **Armor Class** 18 (plate)
