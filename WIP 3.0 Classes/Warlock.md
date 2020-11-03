@@ -194,7 +194,7 @@
 *Imagine what you could do if you led a group of shaman who controlled the source of their powers, instead of begging and scraping for it. Imagine if these shaman had servants who could also fight on your side. Servants who could send your enemies fleeing helplessly in terror. Suck their magic dry as the insects in the summer suck blood.*
 <div style="text-align:Right"> 
 
-*— Gul'dan*  </div>
+*— Gul'dan*  </div>
 
 An imp skitters behind her as a young human clad in robes smiles warmly, weaving magical charms into her honeyed words, bending the palace sentinels to her will.
 
@@ -202,13 +202,13 @@ A brutish orc waves his hand in the air, sparking flames of green and red, with 
 
 Shifting his gaze between a battered tome and the rough drawn glyphs made in the dirt. A wild eyed forsaken begins a slow chant, as a demonic gate erupts from the ground.
 
-Warlocks and seekers of the knowledge that lies hidden in the fabric of the multiverse. Through their powerful fel magic and secret grimoire, warlocks unlock magical effects both subtle and spectacular. They draw on powers often forbidden throughout Azeroth to bolster their own power.
+Warlocks and seekers of the knowledge that lies hidden in the fabric of the multiverse. Through their powerful fel magic and secret grimoires, warlocks unlock magical effects both subtle and spectacular. They draw on powers often forbidden throughout Azeroth to bolster their own power.
 
 ### Dark Arts, Dominance
 In the face of demonic powers, most adventurers see death and destruction. Warlocks see only opportunity, dominance is their aim, and have found a path to it in their fel sorcery. These voracious spellcasters enslave demon as their minions to fight and protect besides them. The power of their enslaved demons strengthens as the warlock does, making them able to summon deadly demons to their aid.
 
 <br>
-<div style='margin-top:484px'></div>
+<div style='margin-top:359px'></div>
 
 ### Wielders of Fel
 Warlocks are the wielders of the destructive fel magic, a form of magic often used by demons and members of the Burning Legion. It is a form of magic that is demonic, entropic, and extremely chaotic. Its practice has been banned throughout most regions of Azeroth, and is not something even warlocks dare practice openly, yet it is still practiced by most warlocks in secrecy.
@@ -220,10 +220,14 @@ Warlocks are the most volatile and insatiable of spell-casters. Though they ofte
 
 They exploit powerful shadow and fel magic to manipu-late and degrade the minds and bodies of their enemies. They employ hellish fires to rain from the skies, immolating their opponents, summoning and commanding indomitable demons from the Twisting Nether to do their bidding, or even to be sacrificed as the Warlock sees fit, empowering and protecting the dark caster from harm.
 
+### Sworn and Beholden
+Warlocks are defined by the powers they wield, the power-ful fel that the have studied, granting them knowledge of powers hidden to mages and arcanists. A warlock might be a new found member of one of Azeroth's many cults hidden in ruins no longer used, studying fel in secrecy, attempting to unlock devastating powers.
+
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/4LCuUb6.jpg' style='position:absolute; top:0px; right:-100px; width:900px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/76ytPWI.png' style='position:absolute; top:-470px; right:-200px; width:1500px;transform:rotate(-2deg)' />
+<img src='https://www.mobygames.com/images/promo/original/1467345014-544706861.jpg' style='position:absolute; top:-0px; right:-100px; width:1100px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/76ytPWI.png' style='position:absolute; top:-520px; right:-200px; width:1500px;transform:rotate(-12deg)' />
 <img src='https://www.gmbinder.com/images/kWRapfL.png' style='position:absolute; top:30px; right:260px; width:550px;transform:scalex(-1)' />
+
 
 \pagebreakNum
 
@@ -231,50 +235,55 @@ They exploit powerful shadow and fel magic to manipu-late and degrade the minds 
 
 ##### Warlock
 
-Level   |Proficiency<br>Bonus|Features          |Cantrips<br>Known|Spells<br>Known|Spell<br>Slots|Slot<br>Level
---------|:-:|---------------------------------------------------|:-:|:-----:|:-:|:-----:|:--:
+Level   |Proficiency<br>Bonus|Features          |Cantrips<br>Known|Spells<br>Known|Spell<br>Slots|Slot<br>Level|Demons<br>Known|
+--------|:-:|---------------------------------------------------|:-:|:-----:|:-:|:-----:|:--:|:--:|
 1st     |+2 |Profane Knowledge, Fel Sorcery, Life Tap (1/day)   |2  |2      |1  |1st    |-
-2nd     |+2 |Fel Study, Dark Knowledge                          |2  |3      |2  |1st    |-
-3rd     |+2 |Soul Shards                                        |2  |4      |2  |2nd    |2
-4th     |+2 |Ability Score Improvement                          |3  |5      |2  |2nd    |2
-5th     |+3 |Soulforging, Additional Demon                      |3  |6      |2  |3rd    |3
-6th     |+3 |Fel Study Feature                                  |3  |7      |2  |3rd    |3
-7th     |+3 |Life Tap (2/day), Additional Demon                 |3  |8      |3  |4th    |4
-8th     |+3 |Ability Score Improvement                          |3  |9      |3  |4th    |4
-9th     |+4 |Soul Shards Improvement, Additional Demon          |3  |10     |3  |5th    |5
-10th    |+4 |Fel Study Feature                                  |4  |10     |3  |5th    |5
-11th    |+4 |Nethermancy (6th Level)                            |4  |11+1   |3  |5th    |5
-12th    |+4 |Ability Score Improvement                          |4  |11+1   |4  |5th    |6
-13th    |+5 |Nethermancy (7th Level)                            |4  |12+2   |4  |5th    |6
-14th    |+5 |Fel Study Feature, Life Tap (3/day)                |4  |12+2   |4  |5th    |6
-15th    |+5 |Nethermancy (8th Level)                            |4  |13+3   |4  |5th    |7
-16th    |+5 |Ability Score Improvement                          |4  |13+3   |4  |5th    |7
-17th    |+6 |Nethermancy (9th Level)                            |4  |14+4   |5  |5th    |7
-18th    |+6 |Fel Study Feature                                  |4  |14+4   |5  |5th    |8
-19th    |+6 |Ability Score Improvement                          |4  |15+4   |5  |5th    |8
-20th    |+6 |Life Tap (at will)                                 |4  |15+4   |5  |5th    |8
+2nd     |+2 |Fel Study, Dark Knowledge                          |2  |3      |2  |1st    |1
+3rd     |+2 |Soul Shards                                        |2  |4      |2  |2nd    |1
+4th     |+2 |Ability Score Improvement                          |3  |5      |2  |2nd    |1
+5th     |+3 |Soulforging                                        |3  |6      |2  |3rd    |2
+6th     |+3 |Fel Study Feature                                  |3  |7      |2  |3rd    |2
+7th     |+3 |Life Tap (2/day)                                   |3  |8      |2  |4th    |3
+8th     |+3 |Ability Score Improvement                          |3  |9      |2  |4th    |3
+9th     |+4 |Soul Shards Improvement                            |3  |10     |2  |5th    |4
+10th    |+4 |Fel Study Feature                                  |4  |10     |2  |5th    |4
+11th    |+4 |Nethermancy (6th Level)                            |4  |11+1   |3  |5th    |4
+12th    |+4 |Ability Score Improvement                          |4  |11+1   |3  |5th    |4
+13th    |+5 |Nethermancy (7th Level)                            |4  |12+2   |3  |5th    |4
+14th    |+5 |Fel Study Feature, Life Tap (3/day)                |4  |12+2   |3  |5th    |4
+15th    |+5 |Nethermancy (8th Level)                            |4  |13+3   |3  |5th    |4
+16th    |+5 |Ability Score Improvement                          |4  |13+3   |3  |5th    |4
+17th    |+6 |Nethermancy (9th Level)                            |4  |14+4   |4  |5th    |4
+18th    |+6 |Fel Study Feature                                  |4  |14+4   |4  |5th    |4
+19th    |+6 |Ability Score Improvement                          |4  |15+4   |4  |5th    |4
+20th    |+6 |Life Tap (at will)                                 |4  |15+4   |4  |5th    |4
 
 **Note:** The "+X" represents Nethermancy spells.
 </div>
 
-<div style='margin-top:-5px'></div>
 
-### Sworn and Beholden
-Warlocks are defined by the powers they wield, the power-ful fel that the have studied, granting them knowledge of powers hidden to mages and arcanists. A warlock might be a new found member of one of Azeroth's many cults hidden in ruins no longer used, studying fel in secrecy, attempting to unlock devastating powers.
-
-The boons bestowed upon a warlock through their studies ranges from minor but lasting alterations to the warlock's being, to access of powerful spells. Unlike bookish wizards, warlocks supplement their magic with some faciliy at hand-to-hand combat.
-
-<div style='margin-top:-5px'></div>
+<div style='margin-top:-8px'></div>
 
 ### Creating a Warlock
-As you make your warlock character, spend some time thinking about why you decided to delve into the secrets of fel, its impressive and destructive nature. Were you seduced by the powers it had? What the fel promised for you? Did you seek out a warlock yourself? or perhaps you became addicted to its powers. How your studies came to be is for you to decide.
+As you make your warlock character, think about why you decided to delve into the secrets of fel sorcery. Were you seduced by the powers it had?  Did you seek out a warlock yourself? Or perhaps you became addicted to its powers. How your studies came to be is for you to decide.
 
-<div style='margin-top:-3px'></div>
+<div style='margin-top:-8px'></div>
+
+#### Optional Rule: Multiclassing
+If your group uses the optional rule on multiclassing in the *Player's Handbook*, here's what you need to know if you choose warlock as one of your classes.
+
+***Ability Score Minimum.*** As a multiclass character, you must have at least an Intelligence score of 13 to take a level in this class, or to take a level in another class if you are already a warlock.
+
+***Proficiencies Gained.*** If warlock isn't your initial class, you gain skill of your choice from the warlock skill proficiencies when you take your first level of warlock.
+
+***Fel Sorcery.*** You can cast spells known or prepared from the Spellcasting class feature using Fel Sorcery spell slots, and vice versa.
+
+<div style='margin-top:-8px'></div>
 
 #### Quick Build
 You can make a warlock quickly by following these sug-gestions. First, Intelligence should be your highest ability score, followed by Constitution.
 
-\columnbreak
+<div style='margin-top:-8px'></div>
 
 ## Class Features
 As a warlock, you have the following class features.
@@ -291,7 +300,7 @@ ___
 - **Weapons:** Simple weapons
 - **Tools:** None
 ___
-- **Saving Throws:** Intelligence, Charisma 
+- **Saving Throws:** Constitution, Intelligence
 - **Skills:** Choose two skills from Arcana, Deception, History, Insight, Intimidation, Perception, or Religion
 
 #### Equipment
@@ -310,18 +319,26 @@ You start with the following equipment, in addition to the equipment granted by 
 You have spent long hours researching and practicing forbidden knowledge. As a result, at 1st level you gain the following benefits:
 - You can speak, read, and write Eredun.
 - You have advantage on Intelligence checks made to recall information about aberrations, fiends, and undead.
-- When you make a Charisma check while interacting with fiends, your proficiency bonus is doubled.
+- You apply your proficiency bonus when you make a Charisma check while interacting with fiends, or twice your proficiency bonus if you are proficient in the skill.
+
+<div style='margin-top:-2px'></div>
 
 ### Fel Sorcery
-Your research into forbidden knowledge has given you facility with spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 for the warlock spell list.
+Your research into forbidden knowledge has given you facility with dark magic. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 for the warlock spell list.
+
+<div style='margin-top:-2px'></div>
 
 #### Cantrips
 You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+
+<div style='margin-top:-2px'></div>
 
 #### Spell Slots
 The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended Fel Sorcery spell slots when you finish a short or long rest.
 
 For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell *Witch Bolt*, you must spend one of those slots, and you cast it as a 3rd-level spell.
+
+<div style='margin-top:-2px'></div>
 
 #### Spells Known of 1st Level and Higher
 At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
@@ -329,6 +346,8 @@ At 1st level, you know two 1st-level spells of your choice from the warlock spel
 The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level or higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
 
 Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+
+<div style='margin-top:-2px'></div>
 
 #### Spellcasting Ability
 Intelligence is your spellcasting ability for your warlock spells, so you use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
@@ -340,6 +359,8 @@ Intelligence is your spellcasting ability for your warlock spells, so you use yo
 **Spell attack modifier** = your proficiency bonus + <br> your Intelligence modifier
 </div>
 
+<div style='margin-top:-2px'></div>
+
 #### Ritual Casting
 You can cast a warlock spell as a ritual if that spell has the ritual tag and you know the spell.
 
@@ -347,45 +368,59 @@ You can cast a warlock spell as a ritual if that spell has the ritual tag and yo
 #### Spellcasting Focus
 You can use an arcane focus as a spellcasting focus for your warlock spells.
 
+<div style='margin-top:-5px'></div>
+
 ### Life Tap
-When you take your 1st level in this class, you learn to draw on your own life force to fuel your immense power. 
+When you take your 1st level in this class, you learn to draw on your own life force to fuel your spells. 
 
 When you do not have any Fel Sorcery spell slots remaining, you can still cast a spell as though you do. As part of the action to cast the spell, you lose hit points equal to your level plus your Fel Sorcery slot level. For example, a 7th level warlock with 4th level spell slots would spend 11 hit points to cast a 4th level spell.
 
 This damage cannot be resisted, and you cannot use this feature if doing so would reduce you to 0 hit points. You can use this ability once at 1st level, twice at 7th level, three times at 14th level, and any number of times at 20th level. You regain all expended uses when you finish a long rest.
 
+<div style='margin-top:-5px'></div>
+
 ### Fel Study
 When you reach 2nd level, you select a subclass. Three of these are the Study of Affliction, Study of Demonology, and Study of Destruction.
 
+<div style='margin-top:-5px'></div>
+
 ### Demonic Knowledge
-At at 2nd level, your studies into grimoires of dark knowledge have given you the power to summon demons. You can call upon the principles of the Grimoire of Service to bind them as your **demonic minion** or you can follow the teachings of the Grimoire of Sacrifice to rip out their **demonic core**, which you can draw upon to power your own abilities.
+At at 2nd level, your studies into grimoires of dark knowledge have given you the power to summon demons. You can call upon the principles of the **Grimoire of Servitude** to bind them as your demonic minion or the **Grimoire of Sacrifice** to rip out their demonic core.
 
 Summoning a demon, either to bind it as your minion or to obtain its demonic core, can be done at the end of a long rest. You can only have one demonic minion or core at a time. 
 
+<div style='margin-top:-5px'></div>
+
 #### Demons Known
-You start by knowing how to summon one particular type of demon of your choice. You learn an additional demon type at levels 5, 7, 9, and 13. Whenever you gain a level in this class, you can choose to replace one demon you know. Demons and their cores are described in Appendix C. 
+You start by knowing how to summon one particular type of demon of your choice. The Demons Known column of the Warlock table shows when you learn additional demon types. Whenever you gain a level in this class, you can choose to replace one demon you know. 
+
+Demons and their cores are described in Part I of Appendix C. 
+
+<div style='margin-top:-5px'></div>
 
 #### Grimoire of Sacrifice
 Using the Grimoire of Sacrifice, you can destroy a demon when you summon it to obtain its demonic core, the source of its power. A demonic core differs from demon to demon. It could be something like a bit of horn, a still-beating heart, or a glowing green stone orb.
 
 At 2nd level while carrying the core you have advantage on two skill checks. While holding the core, you gain an additional spell or cantrip known. You are able to cast this spell at will. 
 
-As you increase in level, you are able to draw deeper upon the core to cast more powerful spells. At 5th and 9th levels you gain an additional spell known while holding the core. You can cast these spells once each without expending a spell slot and regain the ability to do so when you finish a long rest.
+As you increase in level, you are able to draw deeper upon the core to cast more powerful spells. At 5th and <br> 9th levels you gain an additional spell known while <br> holding the core. You can cast these spells once each without expending a spell slot and regain the ability to <br> do so when you finish a long rest.
 
-At level 13 you can consume the orb as an action to recharge your own powers, regaining all expended soul shards.
+At level 13 you can consume the core as an action to recharge your own powers, regaining all expended soul shards.
+
+Which skills are affected and spells provided varies based on the demon the core came from. See the Demonic Core section of each demon in Part I of Appendix C for more details.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
 \pagebreakNum
 
-#### Grimoire of Service
-Using the Grimoire of Service, you can bind a demon into becoming your minion. Your minion acts independently of you, but it always obeys your commands. They have abilities and game statistics determined in part by your level. The demon uses your proficiency bonus rather than its own, and gains more abilities as you gain warlock levels. 
+#### Grimoire of Servitude
+Using the Grimoire of Servitude, you can bind a demon into becoming your minion. Your minion acts indepen-dently of you, but it always obeys your commands. See <br> Part I of Appendix C for the demon's game statistics.
 
 Once summoned, a demonic minion remains until it is slain or dismissed. You can temporarily dismiss your minion as an action. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you.
 
-When the minion drops to 0 hit points, it disappears, leaving behind no physical form. If the demon has died within the last hour, you can expend a soul shard as an action to revive it, provided you are within 5 feet of it. The demon returns to life after 1 minute with all its hit points restored. Otherwise, you can summon a new minion when you perform the ritual again.
+When the minion drops to 0 hit points, it disappears, leaving behind no physical form. If the demon has died within the last hour, you can expend a soul shard as an action to revive it, provided you are within 5 feet of it. The demon returns to life after 1 minute with all its hit points restored. 
 
-In combat, it shares your initiative and takes its turn immediately after yours. A minion can't attack, but it can take other actions as normal. It can move and use its reaction on it's own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take the action in its stat block or the Dash, Disengage, Help, Hide or Search action.
+In combat, it shares your initiative and takes its turn immediately after yours. It can move and use its reaction on it's own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take the action in its stat block or the Dash, Disengage, Help, Hide or Search action.
 
 ### Soul Shards
 Starting at 3rd level, you gain the ability to create soul shards: small crystals formed from fragments of souls and spirits. You can expend a soul shard to empower your warlock spells and abilities. You start knowing the abilities listed below and learn more as you gain more levels in the warlock class. 
@@ -440,7 +475,7 @@ At 5th level, you learn to forge powerful, magical stones from your soul shards.
 
 ***Soulstone.*** You can expend this stone to cast the *revivify* spell without expending a spell slot or providing material components. If you are reduced to 0 hit points and are carrying a soulstone, it is automatically expended and you are reduced to 1 hit point instead.
 
-***Spellstone.*** You can expend this stone when casting a warlock spell, causing creatures to have disadvantage on saves versus that spell.
+***Spellstone.*** You can expend this stone when casting a warlock spell, causing one creature to have disadvantage on its first saving throw made against that spell.
 
 ### Nethermancy
 At 11th level, you gain the ability to push yourself to cast more powerful spells a certain number of times per day. You gain a single spell slot of 6th level. This spell slot can be expended to cast any warlock spell you know. You regain any expended Nethermancy spell slots when you finish a long rest.
@@ -508,13 +543,11 @@ When you reach 18th level, you learn a powerful curse. Choose one of the followi
 
 After the target takes damage from this curse six times, or when the creature dies, the curse ends and a doomguard appears within 5 feet of the cursed target, or the nearest available space. 
 
-The doomguard acts on the turn immediately after yours and obeys your commands (no action required) for 1 minute or until killed or dismissed as a bonus action, after which it disappears. 
+The doomguard acts on the turn immediately after yours and obeys your commands (no action required) for 1 minute or until killed or dismissed as a bonus action, after which it disappears. Doomguards are described in Part II of Appendix C.
 
 ***Seed of Corruption.*** You learn how to place a fragment of shadow energy inside a creature, that grows until detonated. As a bonus action, you can place the curse on a creature that you can see within 60 feet. 
 
 The creature takes 1d6 points of psychic damage at the beginning of its turn. This damage increases by 1d6 each turn after the first. The creature can attempt a Wisdom save at the end of its turn, ending the effect when it makes two successful saves. 
-
-<div style='margin-top:-5px'></div>
 
 When the curse is ended, either by the creature dying or making its save, a number of creatures of your choice within 60 feet up to the number of dice of psychic damage last rolled for this curse must must make a Wisdom saving throw against your warlock spell save DC or gain one curse of your choice from the spell *bestow curse*. If the cursed target dies as a result of this ability's damage, the creatures have disadvantage on their saving throws.
 
@@ -590,9 +623,7 @@ Spell<br>Level|Spells
 5th|*infernal calling ^XGE^*, *planar binding*
 
 #### Soul Conduit
-Your studies into demonology at 2nd level allow you to form a stronger bond between you and your demonic minions. You can communicate telepathically with your minion as long as you are on the same plane of existence. 
-
-If your minion has died in the last hour, you can expend a soul shard as an action to call it back to life provided that you are within 5 feet of the spot where it died. It returns to your side after 1 minute has passed.
+Your studies into demonology at 2nd level allow you to form a stronger bond between you and your demonic minions. You can communicate telepathically with your minion as long as you are on the same plane of existence.
 
 Additionally, as an action, you can see through its eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the demon has. During this time, you are deaf and blind with regard to your own senses.
 
@@ -605,18 +636,19 @@ Also at 2nd level, you gain the ability to occasionally sense the presence of de
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
+\columnbreak
 #### Soul Link
 At 6th level, while the demon is within 60 feet of you, half<br> of any damage you take (rounded up) is transferred to the demonic companion.
 
 Additionally, your demon companion can use its reaction in place of yours to generate a soul shard.
 
 #### Demonic Fury
-Beginning at 10th level, you gain a pool of energy equal <br> to 1 + your Intelligence bonus you can use to empower your demon. You can use a single point of this energy to gain one of the following effects, and you regain any expended points when you finish a long rest:
+Beginning at 10th level, you gain a pool of energy you can use to empower your demon. You have six points that you can use to gain one of the following effects, and you regain any expended points when you finish a long rest:
 - When you command your demon to take the Attack action, you can spend a point to give them advantage on the attack roll.
 - When your demon is forced to make a saving throw, you can spend a point as a reaction to give them advantage on the roll.
 
 #### Grimoire of Supremacy
-At 14th level, you can call upon the knowledge of the Grimoire of Supremacy to permanently evolve your demonic minion into a more powerful form. It gains a number of benefits as mentioned in its entry in Appendix C. 
+At 14th level, you can call upon the knowledge of the Grimoire of Supremacy to permanently evolve your demonic minion into a more powerful form. It gains a number of benefits as mentioned in its entry in Part I of Appendix C. 
 
 #### We Are Legion
 When you reach 18th level, you have managed to apply the teachings of the Grimoire of Supremacy to yourself, permanently transforming you into a demon. You can gain two or more quirks from the Metamorphosis Quirks table (or come up with similar quirks) and the following abilities: 
@@ -657,11 +689,6 @@ Spell<br>Level|Spells
 4th|*fire shield*, *wall of fire*
 5th|*destructive wave*, *flame strike*
 
-
-<!-- <img src='https://www.gmbinder.com/images/PaN737V.jpg' style='position:absolute; right:-90px; top:-60px; width:570px; transform:rotate(10deg)' />
-<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; left:-100px; top:-170px; width:900px; transform:scaleY(-1) scaleX(-1);' />
-<img src='https://www.gmbinder.com/images/vn90cy3.png' style='position:absolute; bottom:-30px; left:0px; width:1000px' /> -->
-
 #### Pyrophile
 When you choose this study at 2nd level, you learn the *produce flame* cantrip, which you treat as a warlock cantrip and does not count against your cantrips known. 
 
@@ -673,7 +700,7 @@ Also at 2nd level, you can channel the double-edged power of hellfire into your 
 When you deal damage with a warlock spell of 1st level or higher, you can choose to take an amount of fire damage up to your warlock level. One target takes twice as much fire damage as you took. 
 
 #### Havoc
-Starting at 6th level, you can duplicate certain spell effects. When you cast a warlock spell with a Fel Sorcery spell slot that targets only one creature and doesn't have a range of self, you may expend a soul shard to cast the spell a second time without expending a spell slot, targeting a second creature in range of the spell.
+Starting at 6th level, you can duplicate certain spell effects. When you cast a warlock spell using a Fel Sorcery spell slot that targets only one creature and doesn't have a range of self, you can expend a soul shard to target a second creature in range with the same spell.
 
 #### Unending Resolve
 At 10th level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Intelligence modifier + your warlock level (minimum of 1).
@@ -687,7 +714,7 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
 #### Inferno
 When you reach 18th level, you gain the ability to conjure a meteor from the Twisting Nether. As an action, you can cause a meteor alight with green flame to appear in the air and crash down to a point you designate within 60 feet. 
 
-Creatures in a 30 feet radius of that point take 2d8 points of bludgeoning damage and 2d6 points of fire damage and the ground becomes difficult terrain. You can then choose to either detonate the stone, dealing 13d10 fire damage to all creatures within 30 feet of the point (Dexterity save for half damage), or you can animate it as an infernal. 
+Creatures in a 30 feet radius of that point take 2d8 points of bludgeoning damage and 2d6 points of fire damage and the ground becomes difficult terrain. You can then choose to either detonate the stone, dealing 13d10 fire damage to all creatures within 30 feet of the point (Dexterity save for half damage), or you can animate it as an infernal. Infernals are described in Part II of Appendix C.
 
 The infernal rises from the crater at the end of your turn, following your commands (no action). It remains animated for 1 minute, or until killed or dismissed as a bonus action. When you dismiss the infernal, you can choose whether to merely dismiss it or force it to use its Death Burst ability. 
 
@@ -697,8 +724,6 @@ Once you have used this ability, you cannot do so again until you finish a long 
 <img src='https://www.gmbinder.com/images/Zvvr01c.jpg' style='position:absolute; bottom:0px; right:-90px; width:550px '/>
 <img src='https://www.gmbinder.com/images/i9dzMuI.png' style='position:absolute; bottom:-140px; right:-50px; width:900px;' />
 <img src='https://www.gmbinder.com/images/i9dzMuI.png' style='position:absolute; top:0px; right:-50px; width:900px;' />
-<!-- <img src='https://www.gmbinder.com/images/Zvvr01c.jpg' style='position:absolute; top:0px; right:180px; width:820px' />
-<img src='https://www.gmbinder.com/images/Npi5n8k.png' style='position:absolute; top:0px; right:-20px; width:900px' /> -->
 
 \pagebreakNum
 # Chapter 6: Spells
@@ -817,7 +842,7 @@ Bestow Curse
 <br> Remove Curse
 <br> Sending
 <br> Speak With Dead
-<br> Summon Lesser <br>  Demons ^XGE^
+<br> Summon Lesser <br>  Demons ^XGE^
 <br> Tiny Servant ^XGE^
 <br> Tongues
 <br> Vampiric Touch
@@ -843,7 +868,7 @@ Arcane Eye
 <br> Phantasmal Killer
 <br> Shadow of Moil ^XGE^
 <br> Sickening Radiance ^XGE^
-<br> Summon Greater <br>  Demon ^XGE^
+<br> Summon Greater <br>  Demon ^XGE^
 <br> Vitriolic Sphere ^XGE^
 
 \columnbreak
@@ -874,7 +899,7 @@ Arcane Gate
 <br> Contingency
 <br> Create Undead
 <br> Disintegrate
-<br> Drawmij's Instant   Summons
+<br> Drawmij's Instant   Summons
 <br> Eyebite
 <br> Globe of Invulnerability
 <br> Harm
@@ -908,7 +933,7 @@ Delayed Blast Fireball
 <div style='column-count:2'>
 
 ##### 8th Level
-Abi-Dalzim's Horrid <br>  Wilting ^XGE^
+Abi-Dalzim's Horrid <br>  Wilting ^XGE^
 <br> Antimagic Field
 <br> ✦ Cataclysm
 <br> Clone
@@ -934,8 +959,7 @@ Blade of Disaster ^IDRotF^
 ## Spell Descriptions
 
 #### Cataclysm
-**[Unchanged from the WHH version.]**
-<br> *8th-level conjuration*
+*8th-level conjuration*
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet
@@ -949,7 +973,6 @@ While you are concentrating on the spell, you can use your action to rip open th
 You can use a bonus action on your turn to end the spell, making the spells area natural difficult terrain.
 
 #### Dark Void
-**[Unchanged from the Priest version.]** <br>
 *1st-level evocation*
 ___
 - **Casting Time:** 1 action
@@ -975,8 +998,7 @@ Your skin becomes covered in a layer of fel energy, infusing you with fiendish v
 ***At Higher Levels:*** When you cast this spell using a spell slot of 2nd level or higher, your minimum Armor Class and your current and maximum hit point totals increase by 1 for each slot level above 1st. 
 
 #### Demonfire
-**[Unchanged from the WHH version.]**
-<br> *4th-level evocation*
+*4th-level evocation*
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet
@@ -1024,8 +1046,7 @@ The spell ends if you use your action to do anything else. The spell also ends i
 ***At Higher Levels:*** When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d8 for each slot level above 1st.
 
 #### Fel Flame
-**[Unchanged from the WHH version.]**
-<br> *Evocation cantrip*
+*Evocation cantrip*
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
@@ -1037,7 +1058,6 @@ A green flame skitters across the ground towards a creature within range. Make a
 This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). 
 
 #### Mind Flay
-**[Unchanged from the Priest version.]** <br>
 *2nd-level enchantment*
 ___
 - **Casting Time:** 1 action
@@ -1067,8 +1087,7 @@ As a bonus action you can move the cloud up to 15 feet to a point you can see. U
 ***At Higher Levels:*** When you cast this spell using a spell slot of 6th level or higher, it deals an additional 1d12 points of fire damage for each spell level above 5th.
 
 #### Ritual of Summoning
-**[Unchanged from the WHH version.]**
-<br> *5th-level conjuration (ritual)*
+*5th-level conjuration (ritual)*
 ___
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet
@@ -1084,8 +1103,7 @@ A creature can choose to ignore the mirror, in which case it vanishes after 1 mi
 The ritual of summoning is only able to call creatures to it, a creature can't use the summoning stone to traverse back to their previous location.
 
 #### Shadow Bolt
-**[Range increased from the WHH version.]**
-<br> *Necromancy cantrip*
+*Necromancy cantrip*
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet
@@ -1100,15 +1118,14 @@ This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 
 \pagebreakNum
 #### Shadowfury
-**[Unchanged from the WHH version.]**
-<br> *6th-level enchantment*
+*6th-level enchantment*
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 ___
-You extend your arm and draw crush energy down upon creatures within a 10-foot radius of a point within range. Each creature must succeed on a Wisdom saving throw, or be stunned for the duration of the spell. 
+You extend your arm and draw shadow energy down upon creatures within a 10-foot radius of a point within range. Each creature must succeed on a Wisdom saving throw, or be stunned for the duration of the spell. 
 
 A stunned creature must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
 
@@ -1116,8 +1133,8 @@ A stunned creature must make a Constitution saving throw at the end of each of i
 
 \pagebreakNum
 
-# Appendix C: Demonic minions
-
+# Appendix C: Demonic Companions
+## Part I: Minions
 ___
 ___
 > ## Felguard Minion
@@ -1135,7 +1152,7 @@ ___
 > - **Skills** Athletics +5, Intimidation +3, Perception + 3
 > - **Damage Resistance** bludgeoning, piercing, and slashing damage from nonmagical weapons  
 > - **Senses** darkvision 60 feet, passive Perception 11
-> - **Languages** Eredun, Common 
+> - **Languages** Eredun, understands the languages of its summoner
 > ___
 >
 > ***Might of the Master.*** The following numbers increase by 1 when your proficiency bonus increases by 1: AC, the skill bonuses, and the bonus to its attack and damage rolls.
@@ -1163,11 +1180,15 @@ ___
 > #### Supremacy Evolution
 > A felguard in service to a demonologist evolves into a fel lord at 14th level. Its skin turns gray and it increases in size, wielding a massively oversized axe. It gains the following benefits:
 > - Its size increases to Large, causing its Legion Axe attack to deal an extra die of damage and have a range of 10 feet.
-> - As an action it can slam its weapon into the ground, causing it to buckle. Treat this as though the felguard cast *earth tremor* as a 2nd level spell using your warlock spell save DC.
-> - As an action, the felguard can make a single attack roll targeting any number of creatures within 10 feet. Roll damage for each creature that the attack roll would hit.
+> - As an action it can slam its weapon into the ground, causing it to buckle. Treat this as though it cast *earth tremor* as a 2nd level spell using your warlock spell save DC.
+> - As an action, it can make a single attack roll targeting any number of creatures within 10 feet. Roll damage for a Legion Axe attack for each creature that the attack roll would hit.
 
 <img src='https://www.gmbinder.com/images/DCctq70.jpg' style='position:absolute; bottom:-200px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-220px; right:0px; width:900px' />
+
+
+sksksksks
+- **sks:** skkkkkkks fjafjaf fjfjfj fjfjfjf fjfjfjf fjfjfjf fjjfjf fj
 
 <div class='footnote'>APPENDIX C | DEMON COMPANIONS</div>
 
@@ -1188,7 +1209,7 @@ ___
 > - **Saving Throws** Dex +3 , Con +4 
 > - **Skills** Perception +3, Stealth +3, Survival +3
 > - **Senses** blindsight 60 feet, passive Perception 13
-> - **Languages** understand Eredun and the languages you know, but cannot speak 
+> - **Languages** understand Eredun and the languages of its summoner, but cannot speak
 > ___
 >
 > ***Might of the Master.*** The following numbers increase by 1 when your proficiency bonus increases by 1: AC, the skill bonuses, and the bonus to its attack and damage rolls.
@@ -1244,7 +1265,7 @@ ___
 > - **Saving Throws** Dex +5, Wis +1
 > - **Skills** Deception +4, Sleight of Hand +5, Stealth +5
 > - **Senses** darkvision 60 feet, passive Perception 11
-> - **Languages** Eredun, Common 
+> - **Languages** Eredun, understands the languages of its summoner 
 > ___
 >
 > ***Might of the Master.*** The following numbers increase by 1 when your proficiency bonus increases by 1: AC, the skill bonuses, and the bonus to its attack and damage rolls.
@@ -1254,8 +1275,9 @@ ___
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1d4 + 3 slashing damage.
 >
 > ***Fire Bolt.*** *Ranged Spell Attack:* +4 to hit, range 60 ft., one target. *Hit:* 1d8 + 3 fire damage
->
-> ***Etherealness.*** The imp magically enters the Ethereal Plane from The Material Plane, or vice versa. The imp can also bring you with it to the Ethereal Plane, but must be within 5 feet of you to do so. 
+> 
+> ### Reactions
+> ***Phase Shift.*** When the imp is subjected to an effect that allows it to make a saving throw to take half damage, it can use its reaction to shift out of phase with the world and automatically succeed. 
 >
 > \columnbreak
 >
@@ -1268,7 +1290,7 @@ ___
 >
 > **9th Level:** While holding the core, the warlock knows the *rain of fire* spell and can cast it without expending a warlock spell slot once per long rest.
 >
-> #### Demonic Empowerment
+> #### Supremacy Evolution
 > An imp in service to a demonologist evolves into a fel imp at 14th level. The imp increases in size, gaining massive horns and a pair of wings. It gains the following benefits:
 > - It has a fly speed of 25 feet.
 > - When it makes a Fire Bolt attack, it attacks three times.
@@ -1296,7 +1318,7 @@ ___
 > - **Saving Throws** Cha + 5, Wis + 3 
 > - **Skills** Deception +5, Persuasion +5, Stealth +5
 > - **Senses** darkvision 60 feet, passive Perception 11
-> - **Languages** Eredun, Common, Orcish telepathy 60 feet 
+> - **Languages** Eredun, Common, understands the languages of its summoner
 > ___
 >
 > ***Might of the Master.*** The following numbers increase by 1 when your proficiency bonus increases by 1: AC, the skill bonuses, and the bonus to its attack and damage rolls.
@@ -1322,7 +1344,7 @@ ___
 >
 > **9th Level:** While holding the core, the warlock knows the *dominate person* spell and can cast it without expending a warlock spell slot once per long rest.
 >
-> #### Demonic Empowerment
+> #### Supremacy Evolution
 > A succubus in service to a demonologist evolves into a fel succubus at 14th level. The succubus's skin turns red, its horns become more pronounced, and its eyes take on a green glow. It gains the following benefits:
 > - When it makes a Lash of Pain attack, it can hit up to two targets.
 > - The range on its Lash of Pain increases to 20 feet.
@@ -1353,7 +1375,7 @@ ___
 > - **Damage Resistances** bludgeoning, piercing, and slashing damage from nonmagical weapons 
 > - **Condition Immunity** exhausted, grappled
 > - **Senses** darkvision 60 feet, passive Perception 14
-> - **Languages** understands Eredun, Common and Orcish but can't speak, telepathy 60 feet. 
+> - **Languages** Eredun, understands the languages of its summoner
 > ___
 >
 > ***Might of the Master.*** The following numbers increase by 1 when your proficiency bonus increases by 1: AC, skill bonuses, and the bonus to its attack and damage rolls.
@@ -1379,7 +1401,7 @@ ___
 >
 > **9th Level:** While holding the core, the warlock knows the *enervation* spell and can cast it without expending a warlock spell slot once per long rest.
 >
-> #### Demonic Empowerment
+> #### Supremacy Evolution
 > A voidwalker in service to a demonologist evolves into a voidlord at 14th level. The voidwalker's body becomes darker and takes on a blue sheen and it sprouts black armor plating. It gains the following benefits:
 > - It gains a +1 bonus to armor class.
 > - Creatures that hit the voidwalker with a melee attack take 5 (1d10) necrotic damage.
@@ -1393,7 +1415,7 @@ ___
 
 \pagebreakNum
 
-# Appendix F: Summoned Creatures
+## Part II: Summons
 ___
 > ## Doomguard <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;85;6;17;42;0;0;0;0;0;0;0;0;0;0;0;1;;1;;3;;;;;;;1;;;1;;;;;;;;10;;;;;; --> 
 > *Large fiend (demon), chaotic evil*
@@ -1415,7 +1437,7 @@ ___
 > - **Challenge** 7 (2,900 XP)
 > ___
 > ***Pain Master.*** When the doomguard hits a creature with its whip attack for the first time in a round, the creature must make a DC 14 Constitution saving throw or be struck with crippling pain until the beginning of its next turn. 
-<br>    Its speed is reduced to 10 feet and it has disadvantage on attack rolls. If it attempts to cast a spell, it must make a DC 14 Constitution saving throw or the casting fails and the spell is wasted.
+<br>    Its speed is reduced to 10 feet and it has disadvantage on attack rolls. If it attempts to cast a spell, it must make a DC 14 Constitution saving throw or the casting fails and the spell is wasted.
 >
 > ### Actions
 > ***Multiattack.*** The doomguard uses Frightful Presence. It then makes two attacks, either with its whip or its doom bolt.
@@ -1427,6 +1449,11 @@ ___
 > ***Frightful Presence.*** Each creature of the doomguard's choice that is within 120 feet of the demon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the doomguard's Frightful Presence for the next 24 hours.
 
 \columnbreak
+
+<br>
+
+<div style='margin-top:21px;'></div>
+
 ___
 > ## Infernal <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;73;7;15;34;11;34;11;34;21;0;0;0;0;0;0;1;1;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 > *Large construct, chaotic evil*
@@ -1461,7 +1488,7 @@ ___
 > 
 > ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage plus 3 (1d6) fire. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
 
-<div class='footnote'>APPENDIX F | SUMMONED CREATURES</div>
+<div class='footnote'>APPENDIX C | DEMON COMPANIONS</div>
 
 \pagebreakNum
 ## Changelog
@@ -1593,7 +1620,7 @@ ___
 - Life Tap now starts at 1st level. It no longer reduces maximum hit points, but instead deals unresisted damage with a limited number of uses.
 - Fel Study choice delayed to 2nd level.
 - Shadow Embrace has been removed, and split into Demonic Knowledge and Soul Shards. 
-- Demonic Knowledge allows you to build a growing number of known demon types. It is split into two parts; Grimoire of Service and Grimoire of Sacrifice, the former for summoning demons and the latter for draining their powers instead. 
+- Demonic Knowledge allows you to build a growing number of known demon types. It is split into two parts; Grimoire of Servitude and Grimoire of Sacrifice, the former for summoning demons and the latter for draining their powers instead. 
 - Soul Shards function similar, but the number of ways they can be used has been increased.
 - New feature Soulforging at 5th level, adding more ways to use soul shards. 
 - Fel Arcanum has been renamed to Nethermancy. Instead of adding a 1/LR spell of 6th - 9th level, the warlock gains one spell known from each level and one LR spell slot of each level. These spell slots can be used to cast any spell the warlock knows.
