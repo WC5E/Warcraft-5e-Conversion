@@ -3122,7 +3122,7 @@ Furbolgs have their own language, Furbolg, whose sayings are usually intended li
 
 ___
 > ## Furbolg
->*Medium monstrosity, neutral*
+>*Medium humanoid (furbolg), neutral*
 > ___
 > - **Armor Class** 13 (natural armor)
 > - **Hit Points** 90 (12d8 + 36)
@@ -5197,7 +5197,7 @@ Their names, just like their language, are wet and soft-sounding. They don't kee
 
 ___
 > ## Murloc
->*Small monstrosity, neutral evil*
+>*Small humanoid (murloc), neutral evil*
 > ___
 > - **Armor Class** 12 (natural armor)
 > - **Hit Points** 4 (1d6 + 1)
@@ -5235,7 +5235,7 @@ ___
 
 ___
 > ## Murloc Tidehunter
->*Medium monstrosity, neutral evil*
+>*Medium humanoid (murloc), neutral evil*
 > ___
 > - **Armor Class** 14 (natural armor, shield)
 > - **Hit Points** 11 (2d8 + 2)
@@ -5269,7 +5269,7 @@ ___
 
 ___
 > ## Murloc Oracle
->*Medium monstrosity, neutral evil*
+>*Medium humanoid (murloc), neutral evil*
 > ___
 > - **Armor Class** 13 (natural armor)
 > - **Hit Points** 22 (4d8 + 4)
@@ -6402,7 +6402,7 @@ Satyrs who revel in the arts of fel and shadow magic alike, are known as hellcal
 
 ___
 > ## Satyr
->*Medium monstrosity, chaotic evil*
+>*Medium fiend (demon), chaotic evil*
 > ___
 > - **Armor Class** 13 (natural armor)
 > - **Hit Points** 13 (3d8)
@@ -6440,7 +6440,7 @@ ___
 
 ___
 > ## Satyr Trickster
->*Medium monstrosity, chaotic evil*
+>*Medium fiend (demon), chaotic evil*
 > ___
 > - **Armor Class** 14 (natural armor)
 > - **Hit Points** 27 (6d8)
@@ -6481,7 +6481,7 @@ ___
 
 ___
 > ## Satyr Hellcaller
->*Medium monstrosity, chaotic evil*
+>*Medium fiend (demon), chaotic evil*
 > ___
 > - **Armor Class** 16 (natural armor)
 > - **Hit Points** 44 (8d8 + 8)
