@@ -517,7 +517,7 @@ DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eber
  - [<span>62</span><span> Mana Wyrms                    </span>](#p62)
  - [<span>63</span><span> Mechanicals                   </span>](#p63)
  - [<span>67</span><span> Murlocs                       </span>](#p67)
- - [<span>69</span><span> Nagas                         </span>](#p69)
+ - [<span>69</span><span> Naga                          </span>](#p69)
  - [<span>73</span><span> Ogres                         </span>](#p73)
  - [<span>75</span><span> Owlbeasts                     </span>](#p75)
  - [<span>77</span><span> Quilboars                     </span>](#p77)
@@ -581,7 +581,7 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 |&nbsp; Gargantuan | 20 by 20 ft. or larger | Brutosaur, whale shark
 
 > ##### Modifying Creatures
-> Despite the versatile collection of monsters in this block, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak a creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
+> Despite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak a creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
 
 ### Type
 A monster's type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an *arrow of dragon slaying* deals extra damage not only to dragons but also other creatures of the dragon type, such as drakonids and drakeadons.
@@ -987,7 +987,7 @@ ___
 >
 > ***Rock*** *Ranged Weapon Attack:* +8 to hit, range 60/180 ft., one target. *Hit:* 27 (5d8 + 5) bludgeoning damage.
 >
-> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.<!-- https://wc5e-cr-calculator.frogvall.com/?1;15;105;8;16;30;0;30;0;30;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> ***Take Root.*** The ancient buries its roots in the ground. While rooted, the ancient's speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved. The ancient can end this effect by repeating this action to uproot itself. <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;105;8;16;30;0;30;0;30;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 \columnbreak
 
@@ -1050,7 +1050,7 @@ ___
 > - **Skills** History +5, Nature +8
 > - **Damage Vulnerabilities** fire
 > - **Damage Resistances** bludgeoning, piercing
-> - **Senses** darkvision 120 ft., passive Perception ##
+> - **Senses** darkvision 120 ft., passive Perception 15
 > - **Languages** Darnassian, Druidic
 > - **Challenge** 8 (3,900 XP)
 > ___
@@ -1077,7 +1077,7 @@ ___
 >
 > ***Rock*** *Ranged Weapon Attack:* +6 to hit, range 60/180 ft., one target. *Hit:* 25 (5d8 + 3) bludgeoning damage.
 >
-> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.<!-- https://wc5e-cr-calculator.frogvall.com/?1;14;94;0;16;84;0;70;0;70;0;0;0;0;0;0;0;1;;;1;1;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> ***Take Root.*** The ancient buries its roots in the ground. While rooted, the ancient's speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved. The ancient can end this effect by repeating this action to uproot itself.<!-- https://wc5e-cr-calculator.frogvall.com/?1;14;94;0;16;84;0;70;0;70;0;0;0;0;0;0;0;1;;;1;1;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
 </div>
 
@@ -1152,7 +1152,7 @@ ___
 >
 > ***Rock.*** *Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:* 42 (8d8 + 6) bludgeoning.
 >
-> ***Take Root.*** The ancient buries its roots in the ground or uproots them. While rooted, the ancients speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved.
+> ***Take Root.*** The ancient buries its roots in the ground. While rooted, the ancient's speed becomes 0, it gains advantage on its attack rolls, and is immune to any effect that would force the ancient to move or be moved. The ancient can end this effect by repeating this action to uproot itself.
 >
 > ***Animate Trees (1/Day).*** The ancient magically animates five or fewer trees that it can see within 60 feet of it. The trees have the statistics of a treant, except they have Intelligence and Charisma scores of 1 and they only have the Claw action. An animated tree acts as an ally of the ancient. The tree remains animated for 1 day, until it dies, or until the ancient takes a bonus action to turn it back into an inanimate tree. If the tree doesn't die and is made inanimate, it takes root again if it can.<!-- https://wc5e-cr-calculator.frogvall.com/?1;16;138;10;12;46;0;46;0;46;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
@@ -1481,7 +1481,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The centaur makes two attacks: one with its hooves and one with another melee weapon, or two with its longbow.
 >
-> ***Greataxe.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (1d12 + 4) bludgeoning damage.
+> ***Greataxe.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (1d12 + 4) slashing damage.
 >
 > ***Pike.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 9 (1d10 + 4) piercing damage.
 >
@@ -1568,7 +1568,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The centaur makes three attacks: two with its greataxe and one with its hooves.
 >
-> ***Greataxe.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 18 (2d12 + 5) bludgeoning damage.
+> ***Greataxe.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 18 (2d12 + 5) slashing damage.
 >
 > ***Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15 (3d6 + 5) bludgeoning damage.
 >
@@ -2528,7 +2528,7 @@ ___
 > ***Sunlight Sensitivity.*** While in sunlight, the dwarf has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 > ### Actions
-> ***Warhammer.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+> ***Warhammer.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) bludgeoning damage, or 7 (1d10 + 2) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 >
 > ***Summon Darkhound (1/Day).*** The dwarf magically summons a pair of darkhounds. The darkhounds appears in unoccupied spaces within 60 feet of the summoner, and acts as an ally of its summoner. They remain for 10 minutes, until they die, or until the summoner dismisses them as an action.<!-- https://wc5e-cr-calculator.frogvall.com/?1;12;52;0;13;44;22;44;44;36;38;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
@@ -2599,7 +2599,7 @@ ___
 > - **Saving Throws** Str +6, Con +8, Int +8
 > - **Skills** History +8, Insight +5, Intimidation +5
 > - **Damage Resistances** fire
-> - **Senses** darkvision 120 ft., passive Perception 10
+> - **Senses** darkvision 120 ft., passive Perception 11
 > - **Languages** Common, Dwarven
 > - **Challenge** 10 (5,900 XP)
 > ___
@@ -2628,7 +2628,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The dwarf makes two warhammer attacks.
 >
-> ***Warhammer.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack, plus 10 (3d6) fire damage.
+> ***Warhammer.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) bludgeoning damage, or 7 (1d10 + 2) bludgeoning damage if used with two hands to make a melee attack, plus 10 (3d6) fire damage.
 >
 > ***Conjure Fire Elemental (1/Day).*** The dwarf magically conjures a fire elemental. The fire elemental appears in an unoccupied space within 60 feet of its conjurer, and acts as an ally of its conjurer. It remains for 10 minutes, or until it dies.<!-- https://wc5e-cr-calculator.frogvall.com/?2;18;110;0;15;62;36;54;36;54;36;0;0;0;0;0;0;;;;1;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
@@ -3914,7 +3914,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 > 18 (+4)|14 (+2)|16 (+3)|9 (-1)|14 (+2)|13 (+1)|
 > ___
-> - **Skills** Athletics +7, Survival +5, Intimidation +7
+> - **Skills** Athletics +7, Intimidation +7, Survival +5
 > - **Senses** darkvision 60 ft. passive Perception 12
 > - **Languages** Low Common, Gnoll
 > - **Challenge** 5 (1800 XP)
@@ -3972,7 +3972,7 @@ ___
 >___
 > - **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Condition Immunities** charmed, exhaustion, frightened paralyzed, petrified, poisoned
-> - **Senses** darkvision 120 ft., passive Perception ##
+> - **Senses** darkvision 120 ft., passive Perception 10
 > - **Languages** understands the languages of its creator but can't speak
 > - **Challenge** 8 (3,900 XP)
 > ___
@@ -4299,7 +4299,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 > 12 (+1)|14 (+2)|8 (-1)|7 (-2)|7 (-2)|8 (-1)|
 > ___  
-> - **Skills** Perception +2
+> - **Skills** Perception +0
 > - **Senses** passive Perception 10
 > - **Languages** Low Common, Common  
 > - **Challenge** 1/8 (25 XP)  
@@ -4384,7 +4384,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 > 14 (+2)|14 (+2)|12 (+1)|12 (+1)|9 (-1)|11 (+0)|
 > ___  
-> - **Skills** Perception +2
+> - **Skills** Perception +1
 > - **Senses** passive Perception 11
 > - **Languages** Low Common, Common  
 > - **Challenge** 1 (200 XP)  
@@ -4720,7 +4720,7 @@ A makrura is a large aquatic creature found living in small colonies along Azero
 
 ***Wrecked Colonies.*** With their homes often situated in turbulent waters or along contested shorelines, it is not uncommon for a colony to seek seclusion by taking shelter inside wrecked ships or underwater caverns.
 
-***Savory Prey.*** Makrura meat is a delicacy, tried and tested, for many races both above and beneath the ocean. Some towns and villages may try to turn a nearby colony into a hunting opportunity, though the most prominent enemy of the makrura are murlocs and nagas.
+***Savory Prey.*** Makrura meat is a delicacy, tried and tested, for many races both above and beneath the ocean. Some towns and villages may try to turn a nearby colony into a hunting opportunity, though the most prominent enemy of the makrura are murlocs and naga.
 
 ### Makrura Tidecaller
 Some Makrura have an innate affinity for water magic, able to summon its powers at will. These notorious mystics are known as tidecallers; often wise sages in their colonies, they bring forth the tides both to heal and to harm.
@@ -4926,6 +4926,8 @@ As they are wholly driven by the logic of their instructions, mechanical constru
 
 The two races lead a contested field of engineering, and have overseen countless mechanical wonders and mishaps across the years -- including cities, transportation systems, explosive automatons, and giant death rays.
 
+***Constructed Nature.*** A mechanical creature doesn't require air, food, drink, or sleep.
+
 ### Mechanical Animal Template
 A mechanical animal is any Huge or smaller construct created by a skilled engineer to mimic a beast of the same size. The following characteristics change or are added to a creature when a mechanical version is created.
 
@@ -4944,6 +4946,8 @@ A mechanical animal is any Huge or smaller construct created by a skilled engine
 ***Condition Immunities.*** The mechanical animal can't be charmed, frightened, paralyzed, petrified, poisoned, or gain exhaustion levels.
 
 ***Languages.*** The mechanical animal loses all languages it might've known, and understand the languages of its creator, but can't speak.
+
+***Immutable Form.*** The mechanical animal is immune to any spell or effect that would alter its form.
 
 #### Sample Mechanical Animal
 As an example, the Mechanostrider shown here uses the base statistics of a tallstrider.
@@ -5014,7 +5018,7 @@ ___
 >___
 > - **Damage Resistances** poison
 > - **Condition Immunities** charmed, exhaustion, frightened paralyzed, petrified, poisoned
-> - **Senses** darkvision 60 ft., passive Perception 14
+> - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** —
 > - **Challenge** 1/8 (25 XP)
 > ___
@@ -5169,7 +5173,7 @@ They build their chaotic villages out of mud-and-twig huts, resembling structure
 
 ***Questionable Intelligence.*** Most would argue that murlocs are not very intelligent, considering their simple lives and near-indecipherable language.
 
-Still, they are ferocious hunters and zealous in their faith. There does not appear to be any singular belief to which the murlocs keep. Instead, they follow the whim of what signs they read from the elements, and occasionally the will of other aquatic entities -- including nagas.
+Still, they are ferocious hunters and zealous in their faith. There does not appear to be any singular belief to which the murlocs keep. Instead, they follow the whim of what signs they read from the elements, and occasionally the will of other aquatic entities -- including naga.
 
 ***Pack Hunters.*** Though murlocs are not particularly brave, they will attempt to hunt foes that they can outnumber. In doing so, they lead just a few murlocs ahead to trick their quarry into giving chase, often into murky waters if they can. There, the brunt of the tribe's hunters lay in wait, leaping into the fray like a swarm of hungry fish.
 
@@ -5310,7 +5314,7 @@ ___
 
 <div style='margin-top:120px;'></div>
 
-## Nagas
+## Naga
 The naga are former Highborne night elves, transformed into a race of horrifying sea serpents.
 
 During the Great Sundering, when the Kaldorei city of Zin-Azshari was destroyed, the Kaldorei Queen Azshara and many of her Highborne followers fell into the depths of the Great Sea. Unwilling to face death, Azshara forged a pact with an Old God, N'Zoth, which saw her and her followers twisted into serpentine aberrations.
@@ -5364,7 +5368,7 @@ Since the time of the Great Sundering, the language has grown to a distinctly sh
 
 ___
 > ## Naga
->*Medium humanoid (naga), unaligned*
+>*Medium humanoid (naga), neutral evil*
 > ___
 > - **Armor Class** 13 (natural armor)
 > - **Hit Points** 26 (4d8 + 8)
@@ -5415,7 +5419,7 @@ following spells, requiring no material components:
 
 ___
 > ## Naga Myrmidon
->*Medium humanoid (naga), unaligned*
+>*Medium humanoid (naga), neutral evil*
 > ___
 > - **Armor Class** 15 (natural armor)
 > - **Hit Points** 52 (7d8 + 21)
@@ -5452,7 +5456,7 @@ ___
 
 ___
 > ## Naga Sea Witch
->*Medium humanoid (naga), unaligned*
+>*Medium humanoid (naga), neutral evil*
 > ___
 > - **Armor Class** 13 (16 with *mage armor*)
 > - **Hit Points** 91 (14d8 + 28)
@@ -5490,7 +5494,7 @@ ___
 
 ___
 > ## Naga War Lord
->*Large humanoid (naga), unaligned*
+>*Large humanoid (naga), neutral evil*
 > ___
 > - **Armor Class** 16 (natural armor)
 > - **Hit Points** 170 (20d10 + 60)
@@ -5535,7 +5539,7 @@ ___
 ___
 ___
 > ## Naga Brute
->*Huge monstrosity, unaligned*
+>*Huge monstrosity, neutral evil*
 > ___
 > - **Armor Class** 17 (natural armor)
 > - **Hit Points** 178 (17d12 + 68)
@@ -5760,7 +5764,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|15 (+2)|6 (-2)|12 (+1)|8 (-1)|
 >___
-> - **Skills** Perception +4
+> - **Skills** Perception +3
 > - **Senses** darkvision 60 ft., passive Perception 13
 > - **Languages** understands Darnassian but can't speak
 > - **Challenge** 3 (700 XP)
@@ -5990,7 +5994,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|13 (+1)|9 (-1)|15 (+2)|9 (-1)|
 >___
-> - **Senses** darkvision 60 ft., passive Perception 11
+> - **Senses** darkvision 60 ft., passive Perception 12
 > - **Languages** Common, Quilboar
 > - **Challenge** 1 (200 XP)
 > ___
@@ -6095,7 +6099,7 @@ ___
 >___
 > - **Skills** Stealth +5
 > - **Damage Resistances** bludgeoning
-> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Senses** darkvision 60 ft., passive Perception 9
 > - **Languages** —
 > - **Challenge** 1 (200 XP)
 > ___
@@ -6156,7 +6160,7 @@ ___
 >___
 > - **Skills** Stealth +5
 > - **Damage Resistances** bludgeoning
-> - **Senses** darkvision 60 ft., passive Perception
+> - **Senses** darkvision 60 ft., passive Perception 11
 > - **Languages** —
 > - **Challenge** 4 (1,100 XP)
 > ___
@@ -6190,7 +6194,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|13 (+1)|10 (+0)|2 (-4)|7 (-2)|3 (-4)|
 >___
-> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Senses** darkvision 60 ft., passive Perception 8
 > - **Languages** —
 > - **Challenge** 1/4 (50 XP)
 > ___
@@ -6335,7 +6339,7 @@ ___
 >|14 (+2)|17 (+3)|15 (+2)|4 (-3)|12 (+1)|10 (+0)|
 >___
 > - **Skills** Perception +3, Stealth +6
-> - **Senses** darkvision 60 ft., passive Perception
+> - **Senses** darkvision 60 ft., passive Perception 13
 > - **Languages** —
 > - **Challenge** 3 (700 XP)
 > ___
@@ -6909,7 +6913,7 @@ ___
 >___
 > - **Damage Resistances** poison; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Condition Immunities** charmed, exhaustion, frightened paralyzed, petrified, poisoned
-> - **Senses** darkvision 60 ft., passive Perception 9
+> - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** Common, Goblin
 > - **Challenge** 3 (700 XP)
 > ___
@@ -7786,7 +7790,7 @@ ___
 >___
 > - **Saving Throws** Con +4, Wis +5
 > - **Skills** Arcana +3, Insight +6, Medicine +6, Nature +6
-> - **Senses** darkvision 60 ft., passive Perception
+> - **Senses** darkvision 60 ft., passive Perception 13
 > - **Languages** Zandali
 > - **Challenge** 5 (1,800 XP)
 > ___
@@ -7833,7 +7837,7 @@ ___
 >___
 > - **Skills** Athletics +9, Perception +4
 > - **Condition Immunities** Frightened, Stunned
-> - **Senses** darkvision 60 ft., passive Perception 15
+> - **Senses** darkvision 60 ft., passive Perception 14
 > - **Languages** Zandali
 > - **Challenge** 8 (3,900 XP)
 > ___
@@ -8193,9 +8197,9 @@ The curse of the worgen can transform even the most civilized person into a rave
 
 Though the worgen were successful in keeping the damned at bay, they did not differ between the living and dead; leaving the curse to quickly seep through Gilneas.
 
-***Pack Animals.*** Feral worgens have but a shred of humanity left, locked away in a beast that cannot be reasoned or communicated with. Like wolves, they keep to forested areas and gather  in large packs, headed by their strongest -- the alpha.
+***Pack Animals.*** Feral worgen have but a shred of humanity left, locked away in a beast that cannot be reasoned or communicated with. Like wolves, they keep to forested areas and gather  in large packs, headed by their strongest -- the alpha.
 
-***Humanoid Cubs.*** Worgens do not give birth to lupine humanoids, but rather to a humanoid of their original race. Although the mother might care for its child, this is often not shared by the rest of its pack.
+***Humanoid Cubs.*** Worgen do not give birth to lupine humanoids, but rather to a humanoid of their original race. Although the mother might care for its child, this is often not shared by the rest of its pack.
 
 ***Resistance to Undeath.*** The curse of the worgen draws its power from the Emerald Dream, and the light of the goddess Elune. For this, raising a worgen into undeath is by far more difficult than it is with most other humanoids.
 
@@ -8203,7 +8207,7 @@ Though the worgen were successful in keeping the damned at bay, they did not dif
 
 They also appear to be very susceptible to the wolfsbane plant; a small, purple flower commonly found across the kingdom of Gilneas. If this seemingly harmless plant comes in contact with a worgen's wounds, it prevents the beast from recuperating.
 
-> ##### Player Characters as Feral Worgens
+> ##### Player Characters as Feral Worgen
 > A humanoid bit by a worgen must succeed on a DC 12 Constitution saving throw or be cursed. The curse has no effect on undead beings, such as the forsaken. A character bit begins to show the effects of the curse after 1d4 days, at which point the character is transformed into a feral worgen. It gains a Strength of 15 if their score isn't already higher, and their alignment changes to Chaotic Evil.
 >
 > The cursed character also gains the following indefinite madness, *"I hunger for the taste of blood and will kill anyone to taste it once more."*
@@ -8339,7 +8343,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|16 (+3)|20 (+5)|6 (-2)|12 (+1)|9 (-1)|
 >___
-> - **Skills** Perception +6
+> - **Skills** Perception +5
 > - **Damage Immunities** cold
 > - **Senses** darkvision 60 ft., passive Perception 15
 > - **Languages** —
@@ -8530,7 +8534,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|13 (+1)|2 (-4)|14 (+2)|4 (-3)|
 >___
-> - **Skills** perception +4
+> - **Skills** Perception +4
 > - **Senses** passive Perception 14
 > - **Languages** —
 > - **Challenge** 1/4 (50 XP)
@@ -8790,7 +8794,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|16 (+3)|9 (-1)|1 (-5)|7 (-2)|2 (-4)|
 >___
-> - **Senses** darkvision 60 ft.
+> - **Senses** darkvision 60 ft., passive Perception 8
 > - **Languages** —
 > - **Challenge** 0 (0 or 10 XP)
 > ___
@@ -9250,7 +9254,7 @@ ___
 >|17 (+3)|15 (+2)|14 (+2)|3 (-4)|13 (+1)|10 (+0)|
 >___
 > - **Skills** Perception +3, Stealth +6
-> - **Senses** passive Perception 10
+> - **Senses** passive Perception 13
 > - **Languages** —
 > - **Challenge** 3 (700 XP)
 > ___
@@ -9289,7 +9293,7 @@ ___
 >|14 (+2)|15 (+2)|12 (+1)|3 (-4)|12 (+1)|7 (-2)|
 >___
 > - **Skills** Perception +3, Stealth +4
-> - **Senses** passive Perception 10
+> - **Senses** passive Perception 13
 > - **Languages** —
 > - **Challenge** 1/2 (100 XP)
 > ___
@@ -9450,7 +9454,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|12 (+1)|10 (+0)|3 (-4)|11 (+0)|4 (-3)|
 >___
-> - **Senses** blindsight 30 ft., passive Perception
+> - **Senses** blindsight 30 ft., passive Perception 10
 > - **Languages** —
 > - **Challenge** 1/8 (25 XP)
 > ___
@@ -9617,7 +9621,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|16 (+3)|4 (-3)|11 (+0)|6 (-2)|
 >___
-> - **Senses** darkvision 60 ft
+> - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** —
 > - **Challenge** 1/2 (100 XP)
 > ___
