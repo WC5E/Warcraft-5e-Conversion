@@ -6082,11 +6082,11 @@ ___
 <div style='margin-top:470px;'></div>
 
 ___
-> ## Ravager
+> ## Ravager <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;44;5;12;9;0;9;0;9;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium beast, unaligned*
 > ___
 > - **Armor Class** 14 (natural armor)
-> - **Hit Points** 22 (4d8 + 4)
+> - **Hit Points** 44 (8d8 + 8)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6143,11 +6143,11 @@ Following the birth of a ravager larva, the creature quickly cocoons itself in o
 \pagebreakNum
 
 ___
-> ## Ravager Brood Mother
+> ## Ravager Brood Mother <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;105;6;12;22;0;22;0;22;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 16 (natural armor)
-> - **Hit Points** 84 (11d10 + 24)
+> - **Hit Points** 105 (14d10 + 28)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6179,11 +6179,11 @@ ___
 \columnbreak
 
 ___
-> ## Ravager Wasp
+> ## Ravager Wasp <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;21;3;12;5;0;5;0;5;0;0;0;0;0;0;0;;;1;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Small beast, unaligned*
 > ___
 > - **Armor Class** 12 (natural armor)
-> - **Hit Points** 7 (2d6)
+> - **Hit Points** 21 (6d6)
 > - **Speed** 10 ft., fly 25 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6255,11 +6255,11 @@ Most manasabers are domesticated animals, having lived in such close proximity t
 <div style='margin-top:470px;'></div>
 
 ___
-> ## Young Sabercat
+> ## Young Sabercat <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;12;0;7;0;7;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium beast, unaligned*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 13 (3d6 + 3)
+> - **Hit Points** 22 (5d6 + 5)
 > - **Speed** 30 ft., climb 20 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6293,11 +6293,11 @@ ___
 <div style='margin-top:470px;'></div>
 
 ___
-> ## Sabercat
+> ## Sabercat <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;37;5;12;18;0;10;0;10;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 30 (4d10 + 8)
+> - **Hit Points** 37 (5d10 + 10)
 > - **Speed** 40 ft., climb 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6323,11 +6323,11 @@ ___
 <div style='margin-top:280px;'></div>
 
 ___
-> ## Manasaber
+> ## Manasaber <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;90;5;11;26;0;18;0;18;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 13
-> - **Hit Points** 52 (7d10 + 14)
+> - **Hit Points** 90 (12d10 + 24)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6401,11 +6401,11 @@ Satyrs who revel in the arts of fel and shadow magic alike, are known as hellcal
 <div style='margin-top:450px;'></div>
 
 ___
-> ## Satyr
+> ## Satyr <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;27;4;11;9;0;9;0;9;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium fiend (demon), chaotic evil*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 13 (3d8)
+> - **Hit Points** 27 (6d8)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6439,11 +6439,11 @@ ___
 <div style='margin-top:230px;'></div>
 
 ___
-> ## Satyr Trickster
+> ## Satyr Trickster <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;40;5;12;18;0;11;0;11;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium fiend (demon), chaotic evil*
 > ___
 > - **Armor Class** 14 (natural armor)
-> - **Hit Points** 27 (6d8)
+> - **Hit Points** 40 (9d8)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6480,11 +6480,11 @@ ___
 <div style='margin-top:314px;'></div>
 
 ___
-> ## Satyr Hellcaller
+> ## Satyr Hellcaller <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;93;5;13;21;0;21;0;21;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium fiend (demon), chaotic evil*
 > ___
 > - **Armor Class** 16 (natural armor)
-> - **Hit Points** 44 (8d8 + 8)
+> - **Hit Points** 93 (17d8 + 17)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6500,7 +6500,7 @@ ___
 >
 > ***Spellcasting.*** The satyr is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 >
-> Cantrips (at will): *fel flame, green-flame blade, mage <br>&nbsp;&nbsp;&nbsp; hand, shadow bolt*
+> Cantrips (at will): *fel flame** *, green-flame blade, mage <br>&nbsp;&nbsp;&nbsp; hand, shadow bolt*
 > <br> 1st-5th level (2 3rd-level slots): *arms of hadar, <br>&nbsp;&nbsp;&nbsp; bestow curse, hypnotic pattern, scorching ray, <br>&nbsp;&nbsp;&nbsp; ray of enfeeblement*
 >
 > ***Shadowmeld.*** The satyr can attempt to hide even when it is only lightly obscured by foliage, heavy rain, falling snow, mist, or other natural phenomena.
@@ -6600,8 +6600,8 @@ Ravenous cannibals that leave only havoc and devoured corpses behind them. Ghoul
 
 They are the Scourge's prime tool for spreading panic; a mindless vanguard to swarm through settlements, breaking chaos before the rest of the Scourge arrive. Feasting on the living and dead alike as they do.
 
-> ##### Variant: Greater Abomination
-> A greater abomination has a challenge rating of 9 (5,000 XP). It has the statistics of an abomination except that it has 152 (16d10 + 62) hit points, Armor Class (AC 17), +10 to hit with its weapon attacks, and gains the following action options.
+> ##### Variant: Greater Abomination <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;161;8;13;33;0;33;0;33;0;0;0;0;0;0;0;1;;;;4;;;;;;;;;;1;;;;;;;;10;;;1;;; -->
+> A greater abomination has a challenge rating of 9 (5,000 XP). It has the statistics of an abomination except that it has 161 (17d10 + 68) hit points, Armor Class (AC 17), +8 to hit with its weapon attacks, and gains the following action options.
 >
 >***Engorge.*** The abomination makes one cleaver attack and places a grappled target in its ribcage. The target becomes restrained, and can use its action to break free by succeeding on a DC 17 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 14 (4d6) bludgeoning damage at the start of each of the abominations turns. An abomination can have only one creature restrained within its ribcage.
 >
@@ -6656,7 +6656,7 @@ ___
 > ### Actions
 > ***Multiattack.*** The knight makes two greatsword attacks.
 >
-> ***Greatsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+> ***Greatsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 >
 > ### Reactions
 > ***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
@@ -6671,16 +6671,16 @@ ___
 
 ___
 ___
-> ## Abomination
+> ## Abomination <!-- https://wc5e-cr-calculator.frogvall.com/?1;14;142;7;13;33;0;33;0;33;0;0;0;0;0;0;0;1;;;;4;;;;;;;;;;1;;;;;;;;10;;;1;;; -->
 >*Large construct (undead), neutral evil*
 > ___
 > - **Armor Class** 14 (natural armor)
-> - **Hit Points** 114 (12d10 + 48)
+> - **Hit Points** 142 (15d10 + 60)
 > - **Speed** 20 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|20 (+5)|9 (-1)|18 (+4)|3 (-4)|8 (-1)|4 (-3)|
+>|19 (+4)|9 (-1)|18 (+4)|3 (-4)|8 (-1)|4 (-3)|
 >___
 > - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** poison
@@ -6696,9 +6696,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The abomination makes two attacks: one with its cleaver and one with its horrific hook.
 >
-> ***Cleaver.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 5) slashing damage plus 5 (1d10) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned for 1 minute. It can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+> ***Cleaver.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15 (2d10 + 4) slashing damage plus 5 (1d10) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned for 1 minute. It can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 >
-> ***Horrific Hook.*** *Melee or Ranged Weapon Attack:* +9 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 14 (2d8 + 5) piercing damage, and if the target is a creature it must succeed on a DC 16 Strength saving throw or be grappled and pulled to an empty space next to the abomination.
+> ***Horrific Hook.*** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage, and if the target is a creature it must succeed on a DC 16 Strength saving throw or be grappled and pulled to an empty space next to the abomination.
 
 </div>
 
@@ -6713,11 +6713,11 @@ ___
 <div style='margin-top:418px;'></div>
 
 ___
-> ## Gargoyle
+> ## Gargoyle <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;37;4;13;14;0;14;0;14;0;0;0;0;0;0;0;1;;1;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium monstrosity, chaotic evil*
 > ___
 > - **Armor Class** 15 (natural armor)
-> - **Hit Points** 45 (6d8 + 18)
+> - **Hit Points** 37 (5d8 + 15)
 > - **Speed** 30 ft., fly 50 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6746,11 +6746,11 @@ ___
 <div style='margin-top:390px;'></div>
 
 ___
-> ## Ghoul
+> ## Ghoul <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;54;4;13;12;0;12;0;12;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium undead, chaotic evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 22 (5d8)
+> - **Hit Points** 54 (12d8)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -6785,16 +6785,16 @@ ___
 <div style='margin-top:525px;'></div>
 
 ___
-> ## Zombie
+> ## Zombie <!-- https://wc5e-cr-calculator.frogvall.com/?0;8;30;3;13;4;0;4;0;4;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;1; -->
 >*Medium undead, neutral evil*
 > ___
 > - **Armor Class** 8
-> - **Hit Points** 16 (2d8 + 6)
+> - **Hit Points** 30 (4d8 + 12)
 > - **Speed** 20 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|13 (+1)|6 (-2)|14 (+2)|3 (-4)|6 (-2)|5 (-3)|
+>|13 (+1)|6 (-2)|16 (+3)|3 (-4)|6 (-2)|5 (-3)|
 >___
 > - **Saving Throws** Wis +0
 > - **Damage Immunities** poison
@@ -6896,7 +6896,7 @@ Shredders are core to numerous goblin enterprises, across Azeroth. They are manu
 ***War Constructs.*** Shredders have on occasion become frontline fighters in times of war. If a goblin on its lonesome won't pose much of a threat, a ruthless goblin operating a spinning buzzer-blade certainly will.
 
 ___
-> ## Shredder
+> ## Shredder <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;52;5;13;20;0;20;0;20;0;0;0;0;0;0;0;1;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large construct, unaligned*
 > ___
 > - **Armor Class** 13 (natural armor)
@@ -6989,7 +6989,7 @@ Adventurers daring enough to delve into the heart of a silithid hive, hoping to 
 <div style='margin-top:460px;'></div>
 
 ___
-> ## Silithid Larva
+> ## Silithid Larva <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;2;2;13;1;0;1;0;1;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Tiny beast, unaligned*
 > ___
 > - **Armor Class** 12 (natural armor)
@@ -6998,7 +6998,7 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|10 (+0)|8 (-1)|11 (+0)|1 (-5)|8 (-1)|4 (-3)|
+>|9 (-1)|8 (-1)|11 (+0)|1 (-5)|8 (-1)|4 (-3)|
 >___
 > - **Damage Resistances** poison
 > - **Condition Immunities** blinded, poisoned
@@ -7009,7 +7009,7 @@ ___
 > ***Hive Mind.*** The silithid can transmit simple messages and emotions to any silithid within 240 feet of it that is part of the same hive.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) piercing damage, and the larva attaches to the target. While attached, the larva doesn't attack. Instead, at the start of each of the larva's turns, the target loses 2 (1d4) hit points due to blood loss.
+> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 1 (1d4 - 1) piercing damage, and the larva attaches to the target. While attached, the larva doesn't attack. Instead, at the start of each of the larva's turns, the target loses 1 (1d4 - 1) hit points due to blood loss.
 > <br>&nbsp;&nbsp;&nbsp; The larva can detach itself by spending 5 feet of movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the larva.
 
 \columnbreak
@@ -7017,11 +7017,11 @@ ___
 <div style='margin-top:372px;'></div>
 
 ___
-> ## Silithid Worker
+> ## Silithid Worker <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;65;4;13;12;0;12;0;12;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium beast, unaligned*
 > ___
 > - **Armor Class** 14 (natural armor)
-> - **Hit Points** 26 (4d8 + 8)
+> - **Hit Points** 65 (10d8 + 20)
 > - **Speed** 30 ft., burrow 20 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7044,7 +7044,7 @@ ___
 >
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage.
 >
-> ***Adhesive Acid (recharge 5-6).*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/60 ft., one creature. *Hit:* 4 (1d8) acid damage, and the target must succeed on a DC 12 Strength saving throw or have its speed reduced to 0 until the end of the silithid's next turn.
+> ***Adhesive Acid (recharge 5-6).*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/60 ft., one creature. *Hit:* 7 (2d6) acid damage, and the target must succeed on a DC 12 Strength saving throw or have its speed reduced to 0 until the end of the silithid's next turn.
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SILITHIDS </div>
@@ -7058,11 +7058,11 @@ ___
 <div style='margin-top:247px;'></div>
 
 ___
-> ## Silithid Wasp
+> ## Silithid Wasp <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;93;5;13;18;0;18;0;18;0;0;0;0;0;0;0;;;1;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 14 (natural armor)
-> - **Hit Points** 52 (8d8 + 8)
+> - **Hit Points** 93 (17d8 + 17)
 > - **Speed** 10 ft., fly 60 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7096,11 +7096,11 @@ ___
 <div style='margin-top:170px;'></div>
 
 ___
-> ## Silithid Reaver
+> ## Silithid Reaver <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;142;6;13;68;0;20;0;20;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 16 (natural armor)
-> - **Hit Points** 90 (12d10 + 24)
+> - **Hit Points** 142 (19d10 + 38)
 > - **Speed** 40 ft., burrow 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7152,11 +7152,11 @@ ___
 
 ___
 ___
-> ## Silithid Colossus
+> ## Silithid Colossus <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;199;8;13;53;0;37;0;58;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;1;;;;; -->
 >*Huge beast, unaligned*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 136 (13d12 + 52)
+> - **Hit Points** 199 (19d12 + 76)
 > - **Speed** 40 ft., burrow 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7180,9 +7180,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The silithid makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 16 (2d10 + 5) piercing damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the silithid can't bite another target.
+> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 16 (2d10 + 5) piercing damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the silithid can't bite another target.
 >
-> ***Claw.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) slashing damage.
+> ***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) slashing damage.
 >
 > ***Swallow.*** The silithid makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the silithid, and it takes 21 (6d6) acid damage at the start of each of the silithid's turns.
 > <br>&nbsp;&nbsp;&nbsp; If the silithid takes 30 damage or more on a single turn from a creature inside it, the silithid must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the silithid. If the silithid dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
@@ -7217,11 +7217,11 @@ Most of them do lack the intelligence they possessed in life, though they are no
 <div style='margin-top:-1px;'></div>
 
 ___
-> ## Giant Skeleton
+> ## Giant Skeleton <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;75;6;14;17;0;17;0;17;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large undead, lawful evil*
 > ___
 > - **Armor Class** 12 (natural armor)
-> - **Hit Points** 67 (9d10 + 18)
+> - **Hit Points** 75 (10d10 + 20)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7246,11 +7246,11 @@ ___
 <div style='margin-top:542px;'></div>
 
 ___
-> ## Skeleton
+> ## Skeleton <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;19;4;13;5;0;5;0;5;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium undead, lawful evil*
 > ___
 > - **Armor Class** 13 (armor scraps)
-> - **Hit Points** 13 (2d8 + 4)
+> - **Hit Points** 19 (3d8 + 6)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7281,11 +7281,11 @@ ___
 <div style='margin-top:470px;'></div>
 
 ___
-> ## Skeleton Mage
+> ## Skeleton Mage <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;91;4;12;12;0;12;0;12;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium undead, lawful evil*
 > ___
 > - **Armor Class** 12 (15 with *mage armor*)
-> - **Hit Points** 19 (3d8 + 6)
+> - **Hit Points** 91 (14d8 + 28)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7317,11 +7317,11 @@ ___
 <div style='margin-top:120px;'></div>
 
 ___
-> ## Skeleton Warrior
+> ## Skeleton Warrior <!-- https://wc5e-cr-calculator.frogvall.com/?0;17;19;3;12;13;0;13;0;13;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium undead, lawful evil*
 > ___
 > - **Armor Class** 17 (plate scraps, shield)
-> - **Hit Points** 13 (2d8 + 4)
+> - **Hit Points** 19 (3d8 + 6)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7342,7 +7342,7 @@ ___
 > ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 
 ___
-> ## Warhorse Skeleton
+> ## Warhorse Skeleton <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;22;6;12;7;0;7;0;7;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Large undead, lawful evil*
 > ___
 > - **Armor Class** 13 (barding scraps)
@@ -7362,7 +7362,7 @@ ___
 > ___
 >
 > ### Actions
-> ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage
+> ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) bludgeoning damage
 
 <div class="pageLetter">S</div>
 <div class='footnote'>SKELETONS </div>
@@ -7374,7 +7374,7 @@ ___
 
 <div style='margin-top:440px;'></div>
 
-## Treant
+## Treant 
 Few would gaze upon the stout treants and assume them to be wise or strong, but these awakened trees have been imbued by the spirits of the forests in which they dwell. In times of peace, they act as keepers and tenders. In times of war, they rise to defend their groves with fervor.
 
 ***Saplings of Ancients.*** The treants begin their lives as sapling sprouds of the ancients, carrying many of the same qualities as the tree from which they came -- be it be it boldness, tenderness, or a great force of will. Like the forest around them, treants never cease to grow. Instead, they rise taller and taller, century by century passing by, until the time is right for one to rise into the annals as an ancient protector.
@@ -7394,11 +7394,11 @@ Though the invasion was since quelled, many groves are still saturated with demo
 <div style='margin-top:230px;'></div>
 
 ___
-> ## Treant
+> ## Treant <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;39;4;12;22;0;22;0;22;0;0;0;0;0;0;0;1;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium plant, chaotic neutral*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 38 (6d8 + 12)
+> - **Hit Points** 39 (6d8 + 12)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7417,14 +7417,14 @@ ___
 > ### Actions
 > ***Multiattack.*** The treant makes two claw attacks.
 >
-> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 2) slashing damage.
 >
 > ***Entangle (Recharges after a Short or Long Rest).*** <br> A creature within 60 feet must succeed on a DC 12 Strength saving throw or be restrained for 1 minute. The creature can use its action to make a DC 12 Strength check, freeing itself on a success.
 
 <div style='margin-top:35px;'></div>
 
-> ##### Variant: Treant Wildcaller
-> Although all treants can manipulate the forest to some degree, wildcallers can harness the full might of the wilderness. A treant wildcaller has a challenge rating of 3 (700 XP) and the following trait.
+> ##### Variant: Treant Wildcaller <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;45;4;11;37;0;22;0;22;0;0;0;0;0;0;0;1;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> Although all treants can manipulate the forest to some degree, wildcallers can harness the full might of the wilderness. A treant wildcaller has a challenge rating of 3 (700 XP). It has 45 (7d8 + 14) hit points and the following trait.
 >
 > ***Spellcasting.*** The treant is a 4th-level spellcaster. its spellcasting ability is Wisdom (save DC 11, +3 to hit with spell attacks). The treant has the following druid spells prepared:
 >
@@ -7467,11 +7467,11 @@ Theories have also been floated, mainly by the prominent dwarven explorer Brann 
 <div style='margin-top:398px;'></div>
 
 ___
-> ## Trogg
+> ## Trogg <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;39;4;12;14;0;14;0;14;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;1;;;;;10;;;1;;; -->
 >*Medium humanoid (trogg), chaotic evil*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 26 (5d8 + 6)
+> - **Hit Points** 39 (6d8 + 12)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7519,11 +7519,11 @@ Trogg tribes are usually in Common, and often draw from their way of being or di
 <div style='margin-top:-15px;'></div>
 
 ___
-> ## Trogg Ambusher
+> ## Trogg Ambusher <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;45;5;12;19;0;19;0;19;0;0;0;0;0;0;0;;;;;4;;1;;;;;;;;1;;;1;;;;;10;;;1;;; -->
 >*Medium humanoid (trogg), chaotic evil*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 40 (7d8 + 12)
+> - **Hit Points** 45 (7d8 + 14)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7548,9 +7548,6 @@ ___
 > ***Axe.*** *Melee Weapon Attack*: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage.
 >
 > ***Claw.*** *Melee Weapon Attack*: +5 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 3) slashing damage.
->
-> ### Reactions
-> ***Parry.*** The trogg adds 2 to its AC against one melee attack that would hit it, parrying it by using its rocky forearm. To do so, the trogg must see the attacker.
 
 <div class="pageLetter">T</div>
 <div class='footnote'>TROGGS </div>
@@ -7561,11 +7558,11 @@ ___
 \pagebreakNum
 
 ___
-> ## Trogg Shaman
+> ## Trogg Shaman <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;78;4;12;54;0;54;0;21;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;1;;; -->
 >*Medium humanoid (trogg), chaotic evil*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 40 (7d8 + 12)
+> - **Hit Points** 78 (12d8 + 24)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7576,16 +7573,13 @@ ___
 > - **Languages** Low Common
 > - **Challenge** 3 (700 XP)
 > ___
-> ***Innate Spellcasting.*** The trogg's innate spellcasting ability is Wisdom (spell save DC 12). It can innately cast the following spell, requiring no components:
->
-> 1/day: *stinking cloud*
 >
 > ***Spellcasting.*** The trogg is a 5th level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The trogg has the following shaman spells prepared:
 >
 > Cantrips (at will): *mold earth, shocking grasp, <br>&nbsp;&nbsp;&nbsp;  produce flame*
-> <br>1st level (4 slots): *earth tremor, elemental shock, <br>&nbsp;&nbsp;&nbsp; chromatic orb, absorb elements*
-> <br>2nd level (3 slots): *lava burst, maximilian's <br>&nbsp;&nbsp;&nbsp; earthen grasp*
-> <br>3rd level (2 slot): *earthen spike, erupting earth*
+> <br>1st level (4 slots): *earth tremor, elemental shock** *, <br>&nbsp;&nbsp;&nbsp; chromatic orb, absorb elements*
+> <br>2nd level (3 slots): *lava burst** *, maximilian's <br>&nbsp;&nbsp;&nbsp; earthen grasp**
+> <br>3rd level (2 slot): *earthen spike, stinking cloud*
 >
 > ***Stench.*** Any creature other than a trogg that starts its turn within 5 feet of the trogg must succeed on a DC 12 Constitution save or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troggs for 1 hour.
 >
@@ -7595,11 +7589,11 @@ ___
 \columnbreak
 
 ___
-> ## Trogg Chieftain
+> ## Trogg Chieftain <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;136;7;12;31;0;31;0;31;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;1;;; -->
 >*Large humanoid (trogg), chaotic evil*
 > ___
 > - **Armor Class** 15 (natural armor)
-> - **Hit Points** 80 (15d8 + 20)
+> - **Hit Points** 136 (16d8 + 64)
 > - **Speed** 40 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7619,7 +7613,7 @@ ___
 >
 > ***Greatclub.*** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. Hit: 22 (4d8 + 4) bludgeoning damage.
 >
-> ***Kick.*** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. Hit: 7 (2 + 4) slashing damage.
+> ***Kick.*** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
 >
 > ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the trogg can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the trogg. A creature can benefit from only one Leadership die at a time. This effect ends if the trogg is incapacitated.
 
@@ -7704,11 +7698,11 @@ There is no definitive way to say what stands behind a dire troll's immense stat
 <div style='margin-top:370px;'></div>
 
 ___
-> ## Troll Berserker
+> ## Troll Berserker <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;90;5;12;20;0;20;0;20;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;1;5;;;;;; -->
 >*Medium humanoid (any troll), chaotic evil*
 > ___
 > - **Armor Class** 15 (natural armor)
-> - **Hit Points** 45 (6d8 + 18)
+> - **Hit Points** 90 (12d8 + 36)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7747,16 +7741,16 @@ ___
 <div style='margin-top:370px;'></div>
 
 ___
-> ## Troll Headhunter
+> ## Troll Headhunter <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;52;4;12;18;0;12;0;12;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;1;3;;;;;; -->
 >*Medium humanoid (any troll), chaotic evil*
 > ___
 > - **Armor Class** 14 (leather armor)
-> - **Hit Points** 19 (3d8 + 6)
+> - **Hit Points** 52 (8d8 + 16)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|12 (+1)|16 (+3)|14 (+2)|12 (+1)|15 (+2)|9 (-1)|
+>|12 (+1)|15 (+2)|14 (+2)|12 (+1)|15 (+2)|9 (-1)|
 >___
 > - **Skills** Stealth +5, Survival +4
 > - **Senses** darkvision 60 ft., passive Perception 12
@@ -7770,20 +7764,20 @@ ___
 > ### Actions
 > ***Multiattack.*** The troll makes two attacks: two with its spear, or one with its spear and one with its bolas.
 >
-> ***Spear.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. and  range 20/60 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.
+> ***Spear.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. and  range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 >
-> ***Bolas.*** *Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage. If the target is a Large or smaller creature with legs, it must succeed on a DC 13 Dexterity saving throw or be grappled and knocked prone. A target can use its action to remove the bolas, ending the grapple.
+> ***Bolas.*** *Ranged Weapon Attack:* +4 to hit, range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) bludgeoning damage. If the target is a Large or smaller creature with legs, it must succeed on a DC 13 Dexterity saving throw or be grappled and knocked prone. A target can use its action to remove the bolas, ending the grapple.
 
 \columnbreak
 
 <div style='margin-top:293px;'></div>
 
 ___
-> ## Troll Witch Doctor
+> ## Troll Witch Doctor <!-- https://wc5e-cr-calculator.frogvall.com/?1;12;91;6;14;56;0;56;0;56;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;1;5;;;;;; -->
 >*Medium humanoid (any troll), chaotic evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 71 (11d8 + 22)
+> - **Hit Points** 91 (14d8 + 28)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -7826,7 +7820,7 @@ ___
 
 ___
 ___
-> ## Dire Troll
+> ## Dire Troll <!-- https://wc5e-cr-calculator.frogvall.com/?1;12;157;9;16;51;0;61;0;51;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;1;15;;;;;; -->
 >*Huge humanoid (any troll), chaotic evil*
 > ___
 > - **Armor Class** 12
@@ -7848,11 +7842,11 @@ ___
 > ***Regeneration.*** The troll regains 15 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 >
 > ### Actions
-> ***Multiattack.*** The troll makes two fist attacks. It then uses its toss if able.
+> ***Multiattack.*** The troll makes three fist attacks. It then uses its toss if able.
 >
 > ***Fist.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained.
 >
-> ***Toss.*** *Ranged Weapon Attack:* +9 to hit, range 60/120 ft., one target. *Hit:* 11 (1d8 + 6) bludgeoning damage. The troll can't use this attack if it doesn't have a target grappled. Both the target thrown and hit takes damage from the attack.
+> ***Toss.*** *Ranged Weapon Attack:* +9 to hit, range 60/120 ft., one target. *Hit:* 10 (1d8 + 6) bludgeoning damage. The troll can't use this attack if it doesn't have a target grappled. Both the target thrown and hit takes damage from the attack.
 >
 > ***Rock*** *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (7d6 + 6) bludgeoning damage.
 

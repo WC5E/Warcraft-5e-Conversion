@@ -34,13 +34,13 @@ ___
 \columnbreak
 
 > ##### Chimaera Breath Weapon
-> <br>    ***Poison Spit (Recharge 6).*** *Ranged Weapon Attack:* +7 to hit, reach 30/45 ft., one creature. Hit: 22 (5d8) poison damage. Hit or miss, the poison then splashes around. The target and each creature within 5 feet of it must succeed on a DC 15 Dexterity saving throw or take 18 (4d8) poison damage.
-> <br>    In addition, each creature hit by the poison must succeed on a DC 15 Constitution saving throw, or be poisoned until the end of the chimera's next turn.
+> <br>    ***Poison Spit (Recharge 6).*** *Ranged Weapon Attack:* +7 to hit, reach 30/45 ft., one creature. Hit: 22 (5d8) poison damage. Hit or miss, the poison then splashes around. The target and each creature within 5 feet of it must succeed on a DC 15 Dexterity saving throw or take 18 (4d8) poison damage.
+> <br>    In addition, each creature hit by the poison must succeed on a DC 15 Constitution saving throw, or be poisoned until the end of the chimera's next turn.
 >
 > ***Lightning Breath (Recharge 6).*** The chimaera exhales a bolt of lighting at a creature within 30 feet of it. That creature must make a DC 15 Dexterity saving throw, taking 22 (5d8) lightning damage on a failed save, or half as much damage on a success. Afterwards, the bolt jumps to a second creature within 30 feet of the first target and then to a third creature within 30 feet of the second one. 
 >
 > ***Acid Breath (Recharge 6).*** The chimaera ejects acid in a 20-foot cone. Each creature in that area must make a DC l5 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
-> <br>    Further more, any nonmagical armor made of metal that is hit by the acid corrodes. After receiving damage, the armor takes a permanent and cumulative -1 penalty to armor class. If its penalty drops to -5, the armor is destroyed.
+> <br>    Further more, any nonmagical armor made of metal that is hit by the acid corrodes. After receiving damage, the armor takes a permanent and cumulative -1 penalty to armor class. If its penalty drops to -5, the armor is destroyed.
 >
 > ***Ice Jet (Recharge 6).*** The chimaera exhales a frigid beam of blue-white light forming a line 80 feet long and 5 feet wide in any direction it wants.  Each creature in the line must make a DC 15 Dexterity saving throw. A creature takes 13 (3d8) cold damage on a failed save, or half as much damage on a successful one and it becomes incapacitated until the start of the chimaera's next turn.
 >
@@ -124,7 +124,7 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 16 (3d8 + 3) piercing damage.
 >
 > ***Mana Flare (1/day).*** The faerie dragon channels magical energies that damage foes when they cast spells near it. Until the end of it's next turn, whenever an enemy within 30 ft from the faerie dragon casts a spell, that creature needs to succeed a DC 15 Wisdom saving throw or take 3 (1d6) points of damage per level of the spell it cast.
-> <br>    In addition, if the dragon succeeds on a saving throw against an enemies spell, mana flare automatically recharges.
+> <br>    In addition, if the dragon succeeds on a saving throw against an enemies spell, mana flare automatically recharges.
 >
 > ### Reactions
 > 
@@ -236,10 +236,10 @@ ___
 > ***Spellcasting.*** The keeper of the grove is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It has the following druid spells prepared:
 >
 > Cantrips (at will): *druidcraft, resistance, solar wrath*
-> <br> 1st level (4 slots): *beast bond, detect poison and <br>    disease, entangle, cure wounds*
-> <br> 2nd level (3 slots): *beast sense, locate animals and <br>    plants, spike growth*
-> <br> 3rd level (3 slots): *mass healing word, revivify, plant <br>    growth*
-> <br> 4th level (3 slots): *conjure woodland beings, grasping <br>    vine, guardian of nature*
+> <br> 1st level (4 slots): *beast bond, detect poison and <br>    disease, entangle, cure wounds*
+> <br> 2nd level (3 slots): *beast sense, locate animals and <br>    plants, spike growth*
+> <br> 3rd level (3 slots): *mass healing word, revivify, plant <br>    growth*
+> <br> 4th level (3 slots): *conjure woodland beings, grasping <br>    vine, guardian of nature*
 > <br> 5th level (2 slots): *tree stride, wrath of nature*
 > <br> 6th level (1 slot): *wall of thorns*
 >
@@ -341,9 +341,9 @@ ___
 \columnbreak
 
 > ##### Hydra Breath Weapon
-> <br>     ***Rolling Bile (Recharge 5-6).*** The hydra spews a ball of putrid bile at a point within 20 feet from it. Each creature in a 10-foot-radius sphere centered on that point must make a DC 14 Dexterity saving throw taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
-> <br>    ***Crackling Thunder (Recharge 5-6).*** The hydra spews bolts of lighting in a 15-foot cone. Every creature must succeed against a DC 14 Dexterity saving throw or take 18 (4d8) lightning damage and it cannot use its reactions until the start of hydra's next turn.
-> <br>    ***Ball of Fire (Recharge 5-6).*** The hydra spews a large ball of fire at a point within 15 feet from it. Each creature in a 10-foot-radius sphere centered on that point must make a DC 14 Dexterity saving throw taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It lasts for 10 minute. When a creature enters the burning area for the first time on a turn or starts its turn there, takes 3 (1d6) fire damage.
+> <br>     ***Rolling Bile (Recharge 5-6).*** The hydra spews a ball of putrid bile at a point within 20 feet from it. Each creature in a 10-foot-radius sphere centered on that point must make a DC 14 Dexterity saving throw taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+> <br>    ***Crackling Thunder (Recharge 5-6).*** The hydra spews bolts of lighting in a 15-foot cone. Every creature must succeed against a DC 14 Dexterity saving throw or take 18 (4d8) lightning damage and it cannot use its reactions until the start of hydra's next turn.
+> <br>    ***Ball of Fire (Recharge 5-6).*** The hydra spews a large ball of fire at a point within 15 feet from it. Each creature in a 10-foot-radius sphere centered on that point must make a DC 14 Dexterity saving throw taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It lasts for 10 minute. When a creature enters the burning area for the first time on a turn or starts its turn there, takes 3 (1d6) fire damage.
 
 \pagebreakNum
 
