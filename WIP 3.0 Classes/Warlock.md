@@ -194,7 +194,7 @@
 *Imagine what you could do if you led a group of shaman who controlled the source of their powers, instead of begging and scraping for it. Imagine if these shaman had servants who could also fight on your side. Servants who could send your enemies fleeing helplessly in terror. Suck their magic dry as the insects in the summer suck blood.*
 <div style="text-align:Right"> 
 
-*— Gul'dan*  </div>
+*— Gul'dan*  </div>
 
 An imp skitters behind her as a young human clad in robes smiles warmly, weaving magical charms into her honeyed words, bending the palace sentinels to her will.
 
@@ -224,10 +224,9 @@ They exploit powerful shadow and fel magic to manipu-late and degrade the minds 
 Warlocks are defined by the powers they wield, the power-ful fel that the have studied, granting them knowledge of powers hidden to mages and arcanists. A warlock might be a new found member of one of Azeroth's many cults hidden in ruins no longer used, studying fel in secrecy, attempting to unlock devastating powers.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.mobygames.com/images/promo/original/1467345014-544706861.jpg' style='position:absolute; top:-0px; right:-100px; width:1100px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/dvMcsXD.jpg' style='position:absolute; top:-0px; right:-100px; width:1100px;transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/76ytPWI.png' style='position:absolute; top:-520px; right:-200px; width:1500px;transform:rotate(-12deg)' />
 <img src='https://www.gmbinder.com/images/kWRapfL.png' style='position:absolute; top:30px; right:260px; width:550px;transform:scalex(-1)' />
-
 
 \pagebreakNum
 
@@ -237,8 +236,8 @@ Warlocks are defined by the powers they wield, the power-ful fel that the have s
 
 Level   |Proficiency<br>Bonus|Features          |Cantrips<br>Known|Spells<br>Known|Spell<br>Slots|Slot<br>Level|Demons<br>Known|
 --------|:-:|---------------------------------------------------|:-:|:-----:|:-:|:-----:|:--:|:--:|
-1st     |+2 |Profane Knowledge, Fel Sorcery, Life Tap (1/day)   |2  |2      |1  |1st    |-
-2nd     |+2 |Fel Study, Dark Knowledge                          |2  |3      |2  |1st    |1
+1st     |+2 |Profane Secrets, Fel Sorcery, Life Tap (1/day)     |2  |2      |1  |1st    |-
+2nd     |+2 |Fel Study, Demonic Knowledge                       |2  |3      |2  |1st    |1
 3rd     |+2 |Soul Shards                                        |2  |4      |2  |2nd    |1
 4th     |+2 |Ability Score Improvement                          |3  |5      |2  |2nd    |1
 5th     |+3 |Soulforging                                        |3  |6      |2  |3rd    |2
@@ -315,7 +314,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 \pagebreakNum
 
-### Profane Knowledge
+### Profane Secrets
 You have spent long hours researching and practicing forbidden knowledge. As a result, at 1st level you gain the following benefits:
 - You can speak, read, and write Eredun.
 - You have advantage on Intelligence checks made to recall information about aberrations, fiends, and undead.
@@ -459,8 +458,8 @@ You can expend a soul shard within 5 feet of you to create one of the following 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 <img src='https://www.gmbinder.com/images/8GHYm5P.jpg' style='position:absolute; top:770px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-80px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/pZ94Ass.png' style='position:absolute; top:730px; right:400px; width:350px' />
+<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-110px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/pZ94Ass.png' style='position:absolute; top:670px; right:400px; width:350px' />
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
@@ -733,8 +732,6 @@ Symbol|Spell Location
 ------|--------------------------
 ✦ |In this chapter, under Spell Descriptions
 ^EGW^ | Explorer's Guide to Wildemount
-^IDRotF^ | Icewind Dale: Rime of the Frostmaiden
-^SCAG^ |Sword Coast Adventurer's Guide
 ^TCE^ | Tasha's Cauldron of Everything
 ^XGE^ |Xanathar's Guide to Everything
 
@@ -749,9 +746,10 @@ Acid Splash
 <br> Blade Ward
 <br> Chill Touch
 <br> Create Bonfire ^XGE^
+<br> ✦ Diabolism
 <br> ✦ Fel Flame
 <br> Fire Bolt
-<br> Green-Flame Blade ^SCAG^
+<br> Green-Flame Blade ^TCE^
 <br> Mage Hand
 <br> Produce Flame
 <br> Sapping Sting ^EGW^
@@ -777,9 +775,10 @@ Alarm
 <br> Illusory Script
 <br> Jump
 <br> Ray of Sickness
-
 <br> Shield
 <br> Sleep
+
+<br> Tasha's Caustic Brew ^TCE^
 <br> Tasha's Hideous Laughter
 <br> Unseen Servant
 <br> Witch Bolt
@@ -811,11 +810,6 @@ Aganazzar's Scorcher ^XGE^
 <br> Ray of Enfeeblement
 <br> Scorching Ray
 <br> Shadow Blade ^XGE^
-
-\columnbreak 
-
-<div style='margin-top:17px;'></div>
-
 <br> Spider Climb
 <br> Suggestion
 <br> Tasha's Mind Whip ^TCE^
@@ -842,7 +836,9 @@ Bestow Curse
 <br> Remove Curse
 <br> Sending
 <br> Speak With Dead
-<br> Summon Lesser <br>  Demons ^XGE^
+<br> Summon Lesser <br>&nbsp;&nbsp;Demons ^XGE^
+<br> Summon Shadow-<br>&nbsp;&nbsp;spawn ^TCE^
+<br> Summon Undead ^TCE^
 <br> Tiny Servant ^XGE^
 <br> Tongues
 <br> Vampiric Touch
@@ -856,22 +852,26 @@ Arcane Eye
 <br> Charm Monster ^XGE^
 <br> Compulsion
 <br> Death Ward
-<br> ✦ Demonfire
 <br> Evard's Black Tentacles
 <br> † Find Greater Steed ^XGE^
+<br> ✦ Fire and Brimstone
 <br> Greater Invisibility
 <br> Hallucinatory Terrain
 <br> Leomund's Secret Chest
 <br> Locate Creature
-<br> Mordenkainen's Faithful Hound
+<br> Mordenkainen's Faithful <br>&nbsp;&nbsp; Hound
 <br> Otiluke's Resilient Sphere
 <br> Phantasmal Killer
 <br> Shadow of Moil ^XGE^
 <br> Sickening Radiance ^XGE^
-<br> Summon Greater <br>  Demon ^XGE^
+<br> Summon Aberration ^TCE^
+<br> Summon Greater <br>&nbsp;&nbsp;Demon ^XGE^
 <br> Vitriolic Sphere ^XGE^
 
-\columnbreak
+\columnbreak 
+
+<div style='margin-top:-10px;'></div>
+
 ##### 5th Level
 Antilife Shell
 <br> Danse Macabre ^XGE^
@@ -899,7 +899,7 @@ Arcane Gate
 <br> Contingency
 <br> Create Undead
 <br> Disintegrate
-<br> Drawmij's Instant   Summons
+<br> Drawmij's Instant &nbsp;&nbsp;Summons
 <br> Eyebite
 <br> Globe of Invulnerability
 <br> Harm
@@ -912,6 +912,7 @@ Arcane Gate
 <br> Scatter ^XGE^
 <br> ✦ Shadowfury
 <br> Soul Cage ^XGE^
+<br> Summon Fiend ^TCE^
 <br> True Seeing
 <br> Word of Recall
 
@@ -932,8 +933,10 @@ Delayed Blast Fireball
 \pagebreakNum
 <div style='column-count:2'>
 
+<div style='margin-top:-10px;'></div>
+
 ##### 8th Level
-Abi-Dalzim's Horrid <br>  Wilting ^XGE^
+Abi-Dalzim's Horrid <br>&nbsp;&nbsp;Wilting ^XGE^
 <br> Antimagic Field
 <br> ✦ Cataclysm
 <br> Clone
@@ -946,7 +949,7 @@ Abi-Dalzim's Horrid <br>  Wilting ^XGE^
 <br> Telepathy
 
 ##### 9th Level
-Blade of Disaster ^IDRotF^
+Blade of Disaster ^TCE^
 <br> Gate
 <br> Imprisonment
 <br> Meteor Swarm
@@ -964,13 +967,13 @@ ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet
 - **Components:** V, S, M (a piece of charcoal)
-- **Duration:** Concentration, up to 10 minutes
+- **Duration:** Instantaneous
 ___
-The ground cracks as small fissures reveal molten magma beneath its surface in a 20-foot radius centered on a point within range. The fissures are harmless and too small to deal damage to any creature that moves over them.
+You cause the ground to crack and split, with molten magma and fire spitting up out in a 60-foot radius centered on a point within range. Each creature in the area must make a Dexterity saving throw or take 10d6 fire damage, taking half damage on a success.
 
-While you are concentrating on the spell, you can use your action to rip open the fissured earth, bursting a torrent of flame 10-feet tall through the fissures. Once done, you can do so again and the spell lasts for its duration. When you rip open the ground, each creature in the area must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there.
+A creature who takes fire damage from this spell is set aflame, taking an additional 2d6 fire damage at the beginning of each of their turns. They or another adjacent creature can use their action to put out the flames, taking 1d4 fire damage in the process.
 
-You can use a bonus action on your turn to end the spell, making the spells area natural difficult terrain.
+The ground in the area of this spell remains damaged, turning into difficult terrain. It remains hot for 1 minute, and any creature who enters the area for the first time on their turn or starts their turn there takes 1d4 fire damage.
 
 #### Dark Void
 *1st-level evocation*
@@ -997,18 +1000,6 @@ Your skin becomes covered in a layer of fel energy, infusing you with fiendish v
 
 ***At Higher Levels:*** When you cast this spell using a spell slot of 2nd level or higher, your minimum Armor Class and your current and maximum hit point totals increase by 1 for each slot level above 1st. 
 
-#### Demonfire
-*4th-level evocation*
-___
-- **Casting Time:** 1 action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
-___
-You manifest five bolts of fel above your head, and direct to towards a creature you can see within range. The creature must make a Dexterity saving throw. On a failed save, the target takes 3d6 fire damage, or half as much on a success-ful one. The bolts all strike simultaneously, and you can direct them to hit one creature or several. A creature makes only one saving throw for all bolts striking it.
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the spell creates one more bolt for each spell level above 4th.
-
 #### Diabolism
 *Necromancy cantrip*
 ___
@@ -1026,9 +1017,6 @@ This spell channels a small amount of dark energy. You create one of the followi
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-<div class='footnote'>PART 2 | MAGIC</div>
-
-\pagebreakNum
 #### Drain Life
 *1st-level necromancy*
 ___
@@ -1041,6 +1029,10 @@ You cause a green stream of energy to trail from the target creature's eyes and 
 
 Make a ranged spell attack against that creature. On a hit, the target takes 1d8 necrotic damage, and on each of your turns for the duration, you can use your action to deal 1d8 necrotic damage to the target automatically. Each time the target takes damage from this spell, you gain a number of hit points equal to half the damage dealt and their maximum hit point total is reduced by the same amount. This reduction lasts until they finish a long rest.
 
+<div class='footnote'>PART 2 | MAGIC</div>
+
+\pagebreakNum
+
 The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell’s range or if it has total cover from you. This spell has no effect on the creature if they are a construct or undead.
 
 ***At Higher Levels:*** When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d8 for each slot level above 1st.
@@ -1052,10 +1044,24 @@ ___
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
-- ___
+___
 A green flame skitters across the ground towards a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 fire damage. Fel flame ignores fire resistance, and creatures immune to fire damage are considered to be resistant.
 
 This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). 
+
+#### Fire and Brimstone
+*4th-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (A cat's cradle of thread or string coated in phosphorus)
+- **Duration:** Instantaneous
+___
+Streaks of fire rapidly snake along the ground toward up to five enemies you can see within range, leaping towards their target and exploding into a column of flame upon reaching them. Each target must make a Dexterity saving throw, taking 7d6 fire damage on a failed save, or half as much damage on a successful one.
+
+The fire can travel over obstacles up to 5 feet high, and ignites flammable objects along its path that aren't being worn or carried.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the spell creates one more streak for each spell level above 4th.
 
 #### Mind Flay
 *2nd-level enchantment*
@@ -1080,8 +1086,8 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 ___
-You summon a cloud at a point within range, causing flaming raindrops to blanket a 15-foot radius area around it. Each creature entering the area for the first time on their turn, or who starts their turn there, takes 3d12 points of fire damage or half on a successful Dexterity save. 
- 
+You summon a cloud at a point within range, causing flaming raindrops to blanket a 15-foot radius area around it. Each creature entering the area for the first time on their turn, or who starts their turn there, must make a Dexterity saving throw, taking 3d12 fire damage on a failed save, or half as much on a success.
+
 As a bonus action you can move the cloud up to 15 feet to a point you can see. Unattended flammable objects in the area are ignited. 
 
 ***At Higher Levels:*** When you cast this spell using a spell slot of 6th level or higher, it deals an additional 1d12 points of fire damage for each spell level above 5th.
@@ -1110,9 +1116,11 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-A blast of necrotic energy at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 necrotic damage.
+You fire a blast of necrotic energy at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 necrotic damage. 
 
-This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+When the spell hits, you can choose to take 1 point of psychic damage to increase the damage dealt to 1d12 necrotic damage.
+
+The spell’s damage dealt increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12). The optional damage taken increases by 2 when you reach 5th level (3), 11th level (5), and 17th level (7).
 
 <div class='footnote'>PART 2 | MAGIC</div>
 
@@ -1125,7 +1133,7 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 ___
-You extend your arm and draw shadow energy down upon creatures within a 10-foot radius of a point within range. Each creature must succeed on a Wisdom saving throw, or be stunned for the duration of the spell. 
+You extend your arm and draw shadow energy down upon creatures within a 10-foot radius of a point within range. Each creature takes 5d8 psychic damage and must succeed on a Wisdom saving throw or be stunned for the duration of the spell. 
 
 A stunned creature must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
 
@@ -1185,10 +1193,6 @@ ___
 
 <img src='https://www.gmbinder.com/images/DCctq70.jpg' style='position:absolute; bottom:-200px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-220px; right:0px; width:900px' />
-
-
-sksksksks
-- **sks:** skkkkkkks fjafjaf fjfjfj fjfjfjf fjfjfjf fjfjfjf fjjfjf fj
 
 <div class='footnote'>APPENDIX C | DEMON COMPANIONS</div>
 
@@ -1410,7 +1414,6 @@ ___
 <img src='https://www.gmbinder.com/images/dPcFWbx.jpg' style='position:absolute; bottom:-150px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:-0px; left:0px; width:800px' />
 
-
 <div class='footnote'>APPENDIX C | DEMON COMPANIONS</div>
 
 \pagebreakNum
@@ -1437,7 +1440,7 @@ ___
 > - **Challenge** 7 (2,900 XP)
 > ___
 > ***Pain Master.*** When the doomguard hits a creature with its whip attack for the first time in a round, the creature must make a DC 14 Constitution saving throw or be struck with crippling pain until the beginning of its next turn. 
-<br>    Its speed is reduced to 10 feet and it has disadvantage on attack rolls. If it attempts to cast a spell, it must make a DC 14 Constitution saving throw or the casting fails and the spell is wasted.
+<br>&nbsp;&nbsp;&nbsp; Its speed is reduced to 10 feet and it has disadvantage on attack rolls. If it attempts to cast a spell, it must make a DC 14 Constitution saving throw or the casting fails and the spell is wasted.
 >
 > ### Actions
 > ***Multiattack.*** The doomguard uses Frightful Presence. It then makes two attacks, either with its whip or its doom bolt.
@@ -1656,31 +1659,34 @@ ___
 
 ### New and Changed Spells
 - Demon Skin has been reworked and is now a 1st level spell to fill the class' Mage Armor niche.
-- Shadow Bolt now has a longer range.
+- Demonfire has been redone as Fire and Brimstone.
 - Diabolism added to the list, credited from [DDB.](https://www.dndbeyond.com/spells/141243-diabolism)
 - Drain Life is now a spell. 
 - Rain of Fire is now a spell.
+- Shadow Bolt now has a longer range. It also has a lower initial damage (d8 down from d10) but can be boosted to deal even more damage (d12).
+- Shadowfury now deals unavoidable damage in addition to its stun effect.
 
 ### Removed Spells
 - Eldritch Blast (Shadow Bolt takes its place)
-- Puppet (UA spell)
 - Power Word Pain
 - Power Word Kill
+- Puppet (UA spell)
 - Soulwell
 
 ### Added Spells 
 - Cantrips: Acid Splash, Produce Flame, Sapping Sting
-- 1st Level: Alarm, Bane, Chromatic Orb, Detect Magic, Dissonant Whispers, Find Familiar, Identify, Jump, Shield, Sleep
+- 1st Level: Alarm, Bane, Chromatic Orb, Detect Magic, Dissonant Whispers, Find Familiar, Identify, Jump, Shield, Sleep, Tasha's Caustic Brew
 - 2nd Level: Aganazzar's Scorcher, Alter Self, Arcane Lock, Continual Flame, Darkvision, Dragon's Breath, Flame Blade, Flaming Sphere, Heat Metal, Knock, Levitate, Locate Object, Melf's Acid Arrow, Pyrotechnics, Spider Climb, Suggestion, Tasha's Mind Whip, Web
-- 3rd Level: Animate Dead, Elemental Weapon, Gaseous Form, Haste, Life Transference, Protection From Energy, Sending, Speak With Dead, Stinking Cloud, Water Walk
-- 4th Level: Blight, Compulsion, Confusion, Death Ward, Dimension Door, Dominate Beast, Fire Shield, Greater Invisibility, Leomund's Secret Chest, Locate Creature, Mordenkainen's Faithful Hound, Otiluke's Resilient Sphere, Phantasmal Killer, Vitriolic Sphere, Wall of Fire
+- 3rd Level: Animate Dead, Elemental Weapon, Gaseous Form, Haste, Life Transference, Protection From Energy, Sending, Speak With Dead, Stinking Cloud, Summon Shadowspawn, Summon Undead, Water Walk
+- 4th Level: Blight, Compulsion, Confusion, Death Ward, Dimension Door, Dominate Beast, Fire Shield, Greater Invisibility, Leomund's Secret Chest, Locate Creature, Mordenkainen's Faithful Hound, Otiluke's Resilient Sphere, Phantasmal Killer, Summon Aberration, Vitriolic Sphere, Wall of Fire
 - 5th Level: Antilife Shell, Contagion, Dispel Evil and Good, Geas, Insect Plague, Modify Memory, Rary's Telepathic Bond, Teleportation Circle, Wall of Force
-- 6th Level: Disintigrate, Globe of Invulnerability, Harm, Investiture of Flame, Magic Jar, Mass Suggestion, Planar Ally, Word of Recall
+- 6th Level: Disintigrate, Globe of Invulnerability, Harm, Investiture of Flame, Magic Jar, Mass Suggestion, Planar Ally, Summon Fiend, Word of Recall
 - 7th Level: Forcecage, Mordenkainen's Sword, Teleport
 - 8th Level: Antimagic Field, Clone, Reality Break, Telepathy
 - 9th Level: Blade of Disaster, Ravenous Void
 
 \pagebreakNum
+
 ### Appendix: Demon Companions
 - Demon companions / minions have been rewritten, and now follow the same Might of the Master structure as companions in other classes do. 
 - Many features have been changed. 
