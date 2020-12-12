@@ -794,7 +794,7 @@ Aganazzar's Scorcher ^XGE^
 <br> Darkvision
 <br> Dragon's Breath
 <br> Enthrall
-<br> † Find Steed
+<br> Find Steed
 <br> Flame Blade
 <br> Heat Metal
 <br> Hold Person
@@ -853,7 +853,7 @@ Arcane Eye
 <br> Compulsion
 <br> Death Ward
 <br> Evard's Black Tentacles
-<br> † Find Greater Steed ^XGE^
+<br> Find Greater Steed ^XGE^
 <br> ✦ Fire and Brimstone
 <br> Greater Invisibility
 <br> Hallucinatory Terrain
