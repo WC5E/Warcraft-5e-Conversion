@@ -1054,14 +1054,12 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
-- **Components:** V, S, M (A cat's cradle of thread or string coated in phosphorus)
+- **Components:** V, S
 - **Duration:** Instantaneous
 ___
-Streaks of fire rapidly snake along the ground toward up to five enemies you can see within range, leaping towards their target and exploding into a column of flame upon reaching them. Each target must make a Dexterity saving throw, taking 7d6 fire damage on a failed save, or half as much damage on a successful one.
+You form six orbs of fire above your head, which you launch at targets within 20 feet of a point you choose within range. You can direct the orbs to hit one target or several. A target takes 1d10 fire damage for each orb that strikes it, and can attempt a Dexterity saving throw to take half as much damage. Each target only makes one saving throw, regardless of how many orbs it is struck by.
 
-The fire can travel over obstacles up to 5 feet high, and ignites flammable objects along its path that aren't being worn or carried.
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the spell creates one more streak for each spell level above 4th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the spell creates one more orb for each spell level above 4th.
 
 #### Mind Flay
 *2nd-level enchantment*
