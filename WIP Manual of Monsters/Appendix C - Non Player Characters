@@ -1,9 +1,9 @@
 ___
-> ## Acolyte
+> ## Acolyte <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;4;12;4;0;4;0;4;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
-> - **Armor Class** 10
-> - **Hit Points** 9 (2d8)
+> - **Armor Class** 11
+> - **Hit Points** 27 (6d8)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -39,11 +39,11 @@ ___
 
 \columnbreak
 ___
-> ## Arcanist
+> ## Arcanist <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;54;4;12;9;0;9;0;9;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 11 (14 with *mage armor*)
-> - **Hit Points** 18 (4d8)
+> - **Hit Points** 54 (12d8)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -56,13 +56,13 @@ ___
 > - **Challenge** 1 (200 XP)
 > ___
 >
-> ***Arcane Brilliance (2/Day).*** Whenever the arcanist uses a cantrip spell to make a ranged spell attack, it can add its Intelligence modifier to the damage roll.
+> ***Arcane Master (2/Day).*** Whenever the arcanist uses a cantrip spell to make a ranged spell attack, it can add its Intelligence modifier to the damage roll.
 >
 > ***Spellcasting.*** The arcanist is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The arcanist has following mage spells prepared:
 >
-> Cantrips (at will): *blade ward*, *dancing lights*, *fire bolt*, *mage hand*
+> Cantrips (at will): *arcane blast**, *dancing lights*, *fire bolt*, *mage hand*
 > <br> 1st level (4 slots): *detect magic*, *feather fall*, *mage armor*, *magic missile*
-> <br> 2nd level (3 slots): *magic mouth*, *misty step*, *scorching ray*
+> <br> 2nd level (3 slots): *hold person*, *magic mouth*, *misty step*
 >
 > ### Actions
 >
@@ -71,11 +71,11 @@ wielded with two hands.
 
 \pagebreakNum
 ___
-> ## Archmage
+> ## Archmage <!-- https://wc5e-cr-calculator.frogvall.com/?2;15;181;9;17;108;0;72;0;72;0;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 12 (15 with *mage armor*)
-> - **Hit Points** 110 (20d8 + 20)
+> - **Hit Points** 181 (33d8 + 33)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -97,17 +97,17 @@ ___
 > ***Spellcasting.*** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following mage spells prepared:
 >
 > Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *ray of frost*
-> <br> 1st level (4 slots): *detect magic*, *frostfire bolt*, *mage armor**, *magic missile*
+> <br> 1st level (4 slots): *detect magic*, *frostfire bolt*, *mage armor*, *magic missile*
 > <br> 2nd level (3 slots): *detect thoughts*, *mirror image*, *misty step*
-> <br> 3rd level (3 slots): *blizzard*, *counterspell*, *slow*
-> <br> 4th level (3 slots): *arcane barrage*, *banishment*, *ice block*
+> <br> 3rd level (3 slots): *blizzard**, *counterspell*, *slow*
+> <br> 4th level (3 slots): *arcane barrage**, *banishment*, *ice block*
 > <br> 5th level (3 slots): *cone of cold*, *teleportation circle*, *wall of force*
 > <br> 6th level (1 slot): *globe of invulnerability*
 > <br> 7th level (1 slot): *teleport*
-> <br> 8th level (1 slot): *mind blank**
+> <br> 8th level (1 slot): *blast wave**
 > <br> 9th level (1 slot): *time stop*
 >
-> *The archmage casts these spells on itself before combat.
+> The archmage cast *mage armor* on itself before combat.
 >
 > ### Actions
 >
@@ -121,16 +121,16 @@ ___
 
 ___
 ___
-> ## Archdruid
+> ## Archdruid <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;231;9;17;70;18;70;18;56;18;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 14 (or 16 with *barkskin*) in humanoid form, 13 in bear form or 15 in cat form
-> - **Hit Points** 132 (24d8 + 24)
+> - **Hit Points** 231 (42d8 + 42)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|10 (+0)|14 (+2)|12 (+1)|12 (+1)|20 (+5)|11 (+3)|
+>|10 (+0)|14 (+2)|12 (+1)|12 (+1)|20 (+5)|11 (+0)|
 >___
 > - **Saving Throws** Int +5, Wis +9
 > - **Skills** Medicine +9, Nature +5, Perception +9
@@ -193,11 +193,11 @@ make a DC 17 Strength saving throw. On a failed save, the attacker is pushed in 
 \pagebreakNum
 
 ___
-> ## Assassin
+> ## Assassin <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;156;6;15;82;0;60;0;74;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any non-good alignment*
 > ___
 > - **Armor Class** 15 (studded leather)
-> - **Hit Points** 104 (16d8 + 32)
+> - **Hit Points** 156 (24d8 + 48)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -233,7 +233,7 @@ ___
 \columnbreak
 
 ___
-> ## Bandit
+> ## Bandit <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;5;3;13;4;0;4;0;4;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any non-lawful alignment*
 > ___
 > - **Armor Class** 12 (leather armor)
@@ -244,7 +244,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
 >___
-> - **Skills** Sleigh of Hand +3, Stealth +3
+> - **Skills** Sleight of Hand +3, Stealth +3
 > - **Senses** passive Perception 10
 > - **Languages** any one language (usually Common)
 > - **Challenge** 1/8 (25 XP)
@@ -260,19 +260,19 @@ ___
 
 \pagebreakNum
 ___
-> ## Bandit Captain
+> ## Bandit Captain <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;45;5;13;17;0;17;0;17;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;1;;;;10;;;;;; -->
 >*Medium humanoid (naga), unaligned*
 > ___
 > - **Armor Class** 15 (studded leather)
-> - **Hit Points** 39 (6d8 + 12)
+> - **Hit Points** 45 (7d8 + 14)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
 >___
-> - **Saving Throws** Str +4, Dex +5, Wis +2
-> - **Skills** Athletics +4, Deception +4, Sleigh of Hand +5, Stealth +5
+> - **Saving Throws** Dex +5, Wis +2
+> - **Skills** Athletics +4, Deception +4, Sleight of Hand +5, Stealth +5
 > - **Senses** passive Perception 10
 > - **Languages** any two languages
 > - **Challenge** 2 (450 XP)
@@ -293,11 +293,11 @@ can use its action to make a DC 10 Strength check to free itself or another crea
 
 \columnbreak
 ___
-> ## Berserker
+> ## Berserker <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;67;5;13;18;0;18;0;18;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any chaotic alignment*
 > ___
 > - **Armor Class** 13 (hide armor)
-> - **Hit Points** 45 (6d8 + 18)
+> - **Hit Points** 67 (9d8 + 27)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -312,18 +312,20 @@ ___
 >
 > ***Reckless.*** At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 >
-> ***Charge (Recharges after a Short or Long Rest).*** The berserker can take the Dash action, if it moves at least 20 feet straight towards a target it can make one weapon attack against it with advantage.
+> ***Charge (Recharges after a Short or Long Rest).*** The berserker can take the Dash action. If it moves at least 20 feet straight towards a target it can make one weapon attack against it with advantage.
 > 
 > ### Actions
+>
+> ***Multiattack.*** The berserker makes two greataxe attacks.
 >
 > ***Greataxe.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft. , one target. *Hit:* 9 (1d12 + 3) slashing damage.
 >
 > ### Reactions
 >
-> ***Ignore Pain (Recharges after a Short or Long Rest).*** When the berserker is hit by a weapon attack, it can give itself resistance towards bludgeoning, piercing, and slashing damage from nonmagical attacks until the start of your next turn.
+> ***Ignore Pain (Recharges after a Short or Long Rest).*** When the berserker is hit by a weapon attack, it can give itself resistance towards bludgeoning, piercing, and slashing damage from nonmagical attacks until the start of its next turn.
 
 ___
-> ## Commoner
+> ## Commoner <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;4;2;11;2;0;2;0;2;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 10
@@ -345,11 +347,11 @@ ___
 
 \pagebreakNum
 ___
-> ## Crusader
+> ## Crusader <!-- https://wc5e-cr-calculator.frogvall.com/?0;18;78;5;11;14;13;14;13;14;9;0;0;0;0;0;0;;;;1;3;;;;;;;;;;1;;;;1;;;;10;;;;;; -->
 >*Medium humanoid (any race), any lawful alignment*
 > ___
 > - **Armor Class** 18 (chain mail, shield)
-> - **Hit Points** 52 (8d8 + 16)
+> - **Hit Points** 78 (12d8 + 24)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -358,7 +360,7 @@ ___
 >___
 > - **Saving Throws** Str +5, Con +4, Cha +5
 > - **Skills** Athletics +5, Insight +2, Religion +4
-> - **Senses** passive Perception 12
+> - **Senses** passive Perception 10
 > - **Languages** any one language (usually Common)
 > - **Challenge** 4 (1,100 XP)
 > ___
@@ -389,18 +391,18 @@ ___
 
 \columnbreak
 ___
-> ## Cult Fanatic
+> ## Cult Fanatic <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;99;4;11;16;0;16;0;16;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any non-good alignment*
 > ___
 > - **Armor Class** 13 (leather armor)
-> - **Hit Points** 33 (6d8 + 6)
+> - **Hit Points** 99 (18d8 + 18)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
 >___
-> - **Skills** Deception +4, Persuas ion +4, Religion +2
+> - **Skills** Deception +4, Persuasion +4, Religion +2
 > - **Senses** passive Perception 11
 > - **Languages** any one language (usually Common)
 > - **Challenge** 2 (450 XP)
@@ -422,7 +424,7 @@ ___
 
 \pagebreakNum
 ___
-> ## Cultist
+> ## Cultist <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;4;3;11;5;0;4;0;4;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any non-good alignment*
 > ___
 > - **Armor Class** 12 (leather armor)
@@ -434,7 +436,7 @@ ___
 >|11 (+0)|12 (+1)|10 (+0)|10 (+0)|12 (+1)|10 (+0)|
 >___
 > - **Skills** Deception +2, Religion +2
-> - **Senses** passive Perception 10
+> - **Senses** passive Perception 11
 > - **Languages** any one language (usually Common)
 > - **Challenge** 1/8 (25 XP)
 > ___
@@ -445,7 +447,7 @@ ___
 following spells, requiring no material components:
 > 
 > At will: *resistance*, *spare the dying*
-> <br> 1/day each:  *cause fear*, *dark void*
+> <br> 1/day each:  *cause fear*, *dark void**
 >
 > ### Actions
 >
@@ -454,7 +456,7 @@ following spells, requiring no material components:
 \pagebreakNum
 ___
 ___
-> ## Demon Hunter
+> ## Demon Hunter <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;112;7;11;108;0;45;0;45;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (elf), any alignment*
 > ___
 > - **Armor Class** 16
@@ -498,11 +500,11 @@ ___
 
 \pagebreakNum
 ___
-> ## Druid
+> ## Druid <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;60;4;12;22;0;13;0;13;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 11 (16 with *barkskin*)
-> - **Hit Points** 33 (6d8 + 6)
+> - **Hit Points** 60 (11d8 + 11)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -519,24 +521,23 @@ ___
 >
 > ***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 >
-> Cantrips (at will): *druidcraft*, *solar wrath*, *shillelagh*
-> <br> 1st level (4 slots): *cure wounds*, *entangle*, *feather fall*, *starfire*
-> <br> 2nd level (3 slots): *barkskin*, *cyclone*
+> Cantrips (at will): *druidcraft*, *solar wrath**, *shillelagh*
+> <br> 1st level (4 slots): *cure wounds*, *entangle*, *feather fall*, *starfire**
+> <br> 2nd level (3 slots): *barkskin*, *moonbeam*
 >
 >
 > ### Actions
 >
-> ***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 5 ft ., one target. *Hit:* 3 (1d6) bludgeoning
-damage, or 6 (1d8 + 2) bludgeoning damage with *shillelagh* or 4 (1d8) bludgeoning damage if wielded with two hands.
+> ***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 5 ft ., one target. *Hit:* 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with *shillelagh*.
 
 
 \columnbreak
 ___
-> ## Gladiator
+> ## Gladiator <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;112;7;15;33;0;33;0;33;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;;1;;;;1;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 16 (studded leather, shield)
-> - **Hit Points** 90 (12d8 + 36)
+> - **Hit Points** 112 (15d8 + 45)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -568,7 +569,7 @@ ___
 
 \pagebreakNum
 ___
-> ## Guard
+> ## Guard <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;5;3;11;4;0;4;0;4;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 16 (chain shirt, shield)
@@ -589,16 +590,16 @@ ___
 >
 > ***Spear.*** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 >
-> ***Shortsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+> ***Shortsword.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
 
 \columnbreak 
 
 ___
-> ## Infiltrator
+> ## Infiltrator <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;88;5;13;35;0;28;0;35;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 15 (studded leather)
-> - **Hit Points** 66 (12d8 + 12)
+> - **Hit Points** 88 (16d8 + 16)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -628,7 +629,7 @@ another creature that it can see. If the infiltrator hits the targeted creature 
 
 \pagebreakNum
 ___
-> ## Knight
+> ## Knight <!-- https://wc5e-cr-calculator.frogvall.com/?0;18;52;5;13;20;0;20;0;20;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;1;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 18 (plate)
@@ -663,11 +664,11 @@ ___
 
 \columnbreak
 ___
-> ## Mage
+> ## Mage <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;126;6;14;56;0;56;0;56;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 > *Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 12 (15 with *mage armor*)
-> - **Hit Points** 81 (18d8)
+> - **Hit Points** 126 (28d8)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -686,11 +687,13 @@ ___
 > ***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has following mage spells prepared:
 >
 > Cantrips (at will): *dancing lights*, *fire bolt*, *mage hand*, *prestidigitation*
-> <br> 1st level (4 slots): *detect magic*, *frostfire bolt*, *mage armor*, *magic missile*
+> <br> 1st level (4 slots): *detect magic*, *frostfire bolt**, *mage armor*, *magic missile*
 > <br> 2nd level (3 slots): *magic mouth*, *misty step*, *scorching ray*
-> <br> 3rd level (3 slots): *blizzard*, *counterspell*, *slow*
-> <br> 4th level (3 slots): *arcane barrage*, *dimension door*, *greater invisibility*
+> <br> 3rd level (3 slots): *blizzard**, *counterspell*, *slow*
+> <br> 4th level (3 slots): *arcane barrage**, *dimension door*, *greater invisibility*
 > <br> 5th level (1 slot): *scrying*
+>
+> The mage cast *mage armor* on itself before combat.
 >
 > ### Actions
 >
@@ -698,11 +701,11 @@ ___
 
 \pagebreakNum
 ___
-> ## Necromancer
+> ## Necromancer <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;88;5;15;44;0;26;0;26;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 > *Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 49 (9d8 + 9)
+> - **Hit Points** 88 (16d8 + 16)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -723,9 +726,9 @@ ___
 > ***Spellcasting.*** The necromancer is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +5 to hit with spell attacks). The mage has following warlock and priest spells prepared:
 >
 > Cantrips (at will): *blade ward*, *chill touch*, *shadow bolt*
-> <br> 1st level (4 slots): *cause fear*, *dark void*, *false life*, *ray of sickness*
-> <br> 2nd level (3 slots): *darkness*, *ray of enfeeblement*, *void strike*
-> <br> 3rd level (3 slots): *animate dead*, *bestow curse*, *life transference*
+> <br> 1st level (4 slots): *cause fear*, *dark void**, *false life*, *ray of sickness*
+> <br> 2nd level (3 slots): *darkness*, *ray of enfeeblement*, *shatter*
+> <br> 3rd level (3 slots): *animate dead*, *bestow curse*, *vampiric touch*
 > <br> 4th level (1 slot): *sickening radiance*
 >
 > ### Actions
@@ -735,7 +738,7 @@ ___
 \columnbreak
 
 ___
-> ## Noble
+> ## Noble <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;4;3;12;5;0;5;0;5;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;1;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 15 (breastplate)
@@ -761,11 +764,11 @@ ___
 > ***Parry.*** The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 
 ___
-> ## Priest
+> ## Priest <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;60;5;13;14;0;14;0;14;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 13 (chain shirt)
-> - **Hit Points** 33 (6d8 + 6)
+> - **Hit Points** 60 (11d8 + 11)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -795,11 +798,11 @@ ___
 \pagebreakNum
 
 ___
-> ## Ranger
+> ## Ranger <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;75;6;13;21;0;21;0;21;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 16 (studded leather)
-> - **Hit Points** 52 (7d8 + 21)
+> - **Hit Points** 75 (10d8 + 30)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -824,7 +827,7 @@ ___
 
 \columnbreak 
 ___
-> ## Scout
+> ## Scout <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;16;4;13;12;0;12;0;12;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 13 (leather)
@@ -852,8 +855,8 @@ ___
 > ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range l50/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
 
-___
-> ## Soldier
+___ 
+> ## Soldier <!-- https://wc5e-cr-calculator.frogvall.com/?0;17;11;3;13;6;0;6;0;6;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 17 (breastplate, shield)
@@ -881,11 +884,11 @@ and be wielding a shield.
 
 \pagebreakNum
 ___
-> ## Spy
+> ## Spy <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;54;4;13;15;0;10;0;15;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 27 (6d8)
+> - **Hit Points** 54 (12d8)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -900,7 +903,7 @@ ___
 >
 > ***Cunning Action.*** On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action. 
 >
-> ***Sneak Attack (1/Turn).*** The spy deals an extra 7 (2d6) damage when it hit s a target with a weapon attack and has advantage on the attack roll , or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
+> ***Sneak Attack (1/Turn).*** The spy deals an extra 5 (2d4) damage when it hit s a target with a weapon attack and has advantage on the attack roll , or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
 >
 > ### Actions
 >
@@ -913,7 +916,7 @@ ___
 \columnbreak
 
 ___
-> ## Thug
+> ## Thug <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;13;4;12;8;0;8;0;8;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any non-good alignment*
 > ___
 > - **Armor Class** 11 (leather armor)
@@ -938,15 +941,15 @@ ___
 >
 > ***Multiattack.*** The thug makes two melee attacks.
 >
-> ***Scimitar.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft, one creature. *Hit:* 5 (1d6 + 2) slashing damage.
+> ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft, one creature. *Hit:* 4 (1d4 + 2) slashing damage.
 
 
-___
-> ## Tribal Warrior
+___ 
+> ## Tribal Warrior <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;10;4;12;5;0;5;0;5;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 14 (hide armor, shield)
-> - **Hit Points** 5 (1d8 + 1)
+> - **Hit Points** 10 (2d8 + 1)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -955,12 +958,12 @@ ___
 >___
 > - **Senses** passive Perception 10
 > - **Languages** any one language
-> - **Challenge** 1/8 (25 XP)
+> - **Challenge** 1/4 (50 XP)
 > ___
 >
 > ***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
-> ***Charge (Recharges after a Short or Long Rest).*** THe warrior takes the Dash action, if it moves at least 20 feet straight towards a target it can make one weapon attack against it with advantage.
+> ***Charge (Recharges after a Short or Long Rest).*** The warrior takes the Dash action. If it moves at least 20 feet straight towards a target it can make one weapon attack against it with advantage.
 >
 > ### Actions
 >
@@ -972,11 +975,11 @@ ___
 
 
 ___
-> ## Veteran
+> ## Veteran <!-- https://wc5e-cr-calculator.frogvall.com/?0;17;78;5;12;16;0;20;0;20;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 17 (splint)
-> - **Hit Points** 58 (9d8 + 18)
+> - **Hit Points** 78 (12d8 + 24)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1001,11 +1004,11 @@ ___
 
 \columnbreak
 ___
-> ## Warlock
+> ## Warlock <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;209;7;15;52;0;52;0;52;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 > *Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 12 (15 with *demon skin*)
-> - **Hit Points** 49 (9d8 + 9)
+> - **Hit Points** 209 (38d8 + 38)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1025,9 +1028,9 @@ ___
 > ***Spellcasting.*** The warlock is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The warlock has following warlock spells prepared:
 >
 > Cantrips (at will): *blade ward*, *chill touch*, *fel flame*, *mage hand*, *shadow bolt*
-> <br> 1st - 5th level (4 5th level slots): *arms of Hadar*, *bestow curse*, *demonfire*, *demon skin**, *far step*, *hold monster*, *immolation*, *negative energy flood*, *ray of sickness*, *sickening radiance*, *soulwell*
+> <br> 1st - 5th level (4 5th level slots): *arms of Hadar*, *bestow curse*, *demonfire**, *demon skin**, *far step*, *fear*, *immolation*, *negative energy flood*, *ray of sickness*, *sickening radiance*
 >
-> *The warlock cast this spell on itself before combat.
+> The warlock cast *demonfire* on itself before combat.
 > ### Actions
 >
 > ***Dagger.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20ft./60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
@@ -1044,11 +1047,11 @@ ___
 
 ___
 ___
-> ## War Mage
+> ## War Mage <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;198;9;17;77;0;70;0;72;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 12 (15 with *mage armor*)
-> - **Hit Points** 110 (20d8 + 20)
+> - **Hit Points** 198 (36d8 + 36)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -1083,7 +1086,7 @@ ___
 > <br> 8th level (1 slot): *ice nova*
 > <br> 9th level (1 slot): *imprisonment*
 >
-> *The archmage casts this spell on itself before combat.
+> The archmage casts *mage armor* on itself before combat.
 >
 > ### Actions
 >
@@ -1094,3 +1097,7 @@ ___
 > ### Reactions
 >
 > ***Arcane Deflection.*** When the mage is attacked by a spell, it can use its reaction to gain +2 AC against that spell. 
+
+
+
+

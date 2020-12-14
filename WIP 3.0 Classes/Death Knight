@@ -1,0 +1,1072 @@
+<style>
+/* GLOBAL FORMATTING  */
+
+  /* Resize page to international A4 */
+  .phb {
+    width: 210mm;
+    height: 296.8mm;
+  }
+  .phb:after { content: ""; }
+
+
+/* TABLE OF CONTENTS  */
+
+  /* toc specifically wants black text. This resets the headers*/
+  .toc a {
+    color: inherit !important;
+  }
+  /* Allow dot leaders to fill remaining space but not overlap */
+  .toc li span:nth-child(2) {
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+  }
+  .toc li span:nth-child(2):after {
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    content:
+      " ........................................"
+      "........................................."
+      ".........................................";
+    }
+
+  /* Style TOC page numbers*/
+  .toc li span:first-child {
+    float: right;
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    margin-left: 1px;
+  }
+
+  /* Adjust TOC H3 styles */
+  .toc li h3 span:nth-child(2):after {
+  	content: " ";
+  }
+  .toc li h3 {
+    margin-bottom: 4px !important;
+    margin-top: 10px !important;
+    line-height: initial !important;
+  }
+  .toc li h3 span:first-child {
+  	line-height: 1.8em !important;
+  }
+
+  /* Reduce TOC list indentation*/
+  .toc ul ul {
+  	margin-left: 10px !important;
+  }
+  .toc>ul>li {
+    margin-bottom: initial !important;
+  }
+
+
+/* TABLES AND BLOCKS */
+
+  /* Clear internal padding and add gap above for green note blocks*/
+  .phb blockquote {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .phb blockquote { margin-top: 1em;
+  }
+
+
+/* INK BLOT STYLES */
+
+  /* Root style for inkblots. Use alone, or together with
+  one of the inkb lotstyle classes below. Essentially:
+  <img url='{url}' class='inkblot inkblot-blue' />
+  */
+  .inkblot {
+    position: absolute;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+
+  .inkblot-blue {
+    filter: hue-rotate(190deg) saturate(120%)
+  }
+
+  .inkblot-green {
+    filter: hue-rotate(120deg)
+  }
+
+</style>
+
+<style>
+/* Background */
+  .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
+  .phb{ background-size: cover }
+
+/* Notes */
+  .phb section blockquote {background-color: #f6e5d4}
+  .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
+
+/* Tables */
+  table tr:nth-child(odd) td {background-color: #cccccc}
+
+/* Footer */
+  .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
+  .phb .footnote {color: rgba(0, 0, 0, 0.5)}
+  .phb:nth-child(odd):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : 10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
+    background-size  : cover;
+}
+
+.phb:nth-child(even):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : -10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
+    background-size  : cover;
+}
+
+/* Page Number */
+.phb .pageNumber{
+    position   : absolute;
+    bottom     : 30px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber{
+    right      : 12px;
+}
+
+.phb .pageNumber.auto{
+    position   : absolute;
+    bottom     : 41px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber.auto{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber.auto{
+    right      : 12px;
+}
+
+/* INK BLOT STYLES */
+
+  /* Root style for inkblots. Use alone, or together with
+  one of the inkb lotstyle classes below. Essentially:
+  <img url='{url}' class='inkblot inkblot-blue' />
+  */
+  .inkblot {
+    position: absolute;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+
+  .inkblot-blue {
+    filter: hue-rotate(190deg) saturate(120%)
+  }
+
+  .inkblot-green {
+    filter: hue-rotate(120deg)
+  }
+
+</style>
+
+<div style='margin-top:50px;'></div>
+
+## Death Knight
+*A hero... that's what you once were. You stood against the shadow, and purchased another dawn for this world at the cost of your life. But the evil you fought is not so easily banished, the victory you claimed not so easily held. The specter of death looms over this world again, it has found new champions to bring about its final reign. Knights of darkness, this is the hour of your dark rebirth . . .*
+
+<div style="text-align:Right"> 
+
+*— A knight of the Ebon Blade* &nbsp;</div>
+
+A human clad in heavy armor, wielding a greatsword with both hands, as he clutches it close, runes flash along its edge, leaving a stream of black smoke behind his swings.
+
+An orc surrounded by kobolds, forces his axe into the ground as the earth around him withers and dies, fright&shy;ening the kobolds as they run for their life.
+
+Biting cold rushes through the battle, as a lone blood elf walks forward, her armor clad in a layer of frost, she walks with firm steps, freezing the earth beneath her feet.
+
+No matter their past calling, death knights serve the powers of death, wielding weapons infused with runes of power. They are ruthless and practical warriors resurrected by the powerful val'kyrs and granted the powers of the revered death knights of the Ebon Hold. Although these warriors seem dead at a glance, they are very much alive.
+
+### Outcast for Life
+Although these death knights are not undead as the genera-tions before them, they carry much of the essence of the knights that came before them, and from a distance have the look of a dead person, their blank white stares peering at the world around them. Even though they are alive and not emotionless, it means little to most they meet who shun them because of what they have become. Death knights are bringers of death and destroy, a fact not easily forgotten.
+
+This has lead most death knights down a solitary path, many keep to the outskirts of towns and cities, or hide their appearance well before entering.
+
+### Grim Revival
+Being resurrected as a death knight is not a simple task, only complicated further by the scar it leaves on the newly resurrected, gaining the powers of the death knights weak-ens the soul for a tremendous time, a price that has to be paid. But not only does it drain the death knight, some scars are visible for all to see, their resurrection has
+<br> filled their body with necrotic energy that will 
+<br> forever linger within them, a trait always shown 
+<br> through their eyes, which will forever sit as two 
+<br> white lights in their sockets.
+
+### Steadfast Warriors
+Death knights are exceptional warriors, and in many ways similar to paladins, being keen with various weapons and able to fight in any armor, aiding their combat with the use of magic. They wield their empowered runic weapons and shadow magic which enables them to overpower most foes that would dare to stand against them, making them fearful fighters able to stand in any situation.
+
+\columnbreak
+
+<div style='margin-top:670px;'></div>
+
+### Creating a Death Knight
+As you make your death knight character, spend some time thinking about how this path was granted to you. The vast majority of death knights were raised under the control of the Lich King and later broke their bonds of enslavement. Consider how this change has affected your character and their view of the world, do they show distance or interest in what happens around them? Think about what relations your character may have to their family, do they still exist? would they accept them as they are now, or would they shun and banish them for what they have become? Perhaps you were once a figure of importance, a leader to others or a soldier in an army. 
+
+> ##### Variant Rule: On a Pale Horse
+> Dungeon Masters might consider making the creatures summoned by a death knight with *find steed* and *find greater steed* undead, rather than one of the creature types listed in those spells.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/V3AJiIc.jpg' style='position:absolute; top:0px; right:-600px; width:1300px' />
+<img src='https://www.gmbinder.com/images/Npi5n8k.png' style='position:absolute; top:0px; right:-50px; width:870px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/4RyvlFl.png' style='position:absolute; top:0px; right:-170px; width:650px' />
+
+\pagebreakNum
+
+<div class='classTable wide'>
+
+##### The Death Knight
+|Level|Proficiency<br>Bonus|Features|Spells<br>Known|&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th <div style="position: absolute; top:100px; right:62px; width:200px; height:25px">—Spell Slots per Spell Level—</div>|
+|:---:|:--:|:-------------------------|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|
+| 1st | +2 | Dark Rebirth, Rune Weapons, Runic Power    |—||—||—||—||—||—|
+| 2nd | +2 | Fighting Style, Spellcasting              |2||2||—||—||—||—|
+| 3rd | +2 | Undead Constitution, Malignant Presence   |3||3||—||—||—||—|
+| 4th | +2 | Ability Score Improvement                 |3||3||—||—||—||—|
+| 5th | +3 | Extra Attack                              |4||4||2||—||—||—|
+| 6th | +3 | Runeforging                               |4||4||2||—||—||—|
+| 7th | +3 | Presence feature                          |5||4||3||—||—||—|
+| 8th | +3 | Ability Score Improvement                 |5||4||3||—||—||—|
+| 9th | +4 | —                                         |6||4||3||2||—||—|
+| 10th| +4 | Will of the Grave                         |6||4||3||2||—||—|
+| 11th| +4 | Presence feature                          |7||4||3||3||—||—|
+| 12th| +4 | Ability Score Improvement                 |7||4||3||3||—||—|
+| 13th| +5 | —                                         |8||4||3||3||1||—|
+| 14th| +5 | Deathless                                 |8||4||3||3||1||—|
+| 15th| +5 | Presence feature                          |9||4||3||3||2||—|
+| 16th| +5 | Ability Score Improvement                 |9||4||3||3||2||—|
+| 17th| +6 | —                                         |10||4||3||3||3||1|
+| 18th| +6 | Greater Runeforging                       |10||4||3||3||3||1|
+| 19th| +6 | Ability Score Improvement                 |11||4||3||3||3||2|
+| 20th| +6 | Presence feature                         |11||4||3||3||3||2|
+</div>
+
+&nbsp;&nbsp;&nbsp; Think about how this destiny came to be, how you died and what stories it may tell. Think about the effects having been raised into undeath may have done to you, what trans&shy;formation in personality might've occurred. What interests may have been lost from your previous life. Becoming a death knight is a reincarnation, one where you are trapped in your own body, with a new view of the world around you.
+
+#### Quick Build
+You can make a death knight quickly by following these suggestions. First, make Strength your highest ability score, followed by Charisma.
+
+#### Optional Rule: Multiclassing
+If your group uses the optional rule on multiclassing in the *Player's Handbook*, here's what you need to know if you choose death knight as one of your classes.
+
+***Ability Score Minimum.*** As a multiclass character, you must have at least a Strength and Charisma score of 13 to take a level in this class, or to take a level in another class if you are already a death knight.
+
+***Proficiencies Gained.*** If death knight isn't your initial class, here are the proficiencies you gain when you take your first level as a death knight: light armor, medium armor, simple weapons, martial weapons.
+
+***Spell Slots.*** Add half your levels (rounded up) in the death knight class to the appropriate levels from other class to determine your available spell slots.
+
+\columnbreak
+
+## Class Features
+As a death knight, you gain the following class features.
+
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per death knight level
+- **Hit Points at 1st Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per death knight level
+
+#### Proficiencies
+___
+- **Armor:** All armors
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** None
+___
+- **Saving Throws:** Constitution, Charisma
+- **Skills:** Choose two from Athletics, Deception, Intimidation, Investigation, Perception, and Stealth
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a martial weapon or *(b)* two shortswords
+- *(a)* five javelins or *(b)* any simple weapon
+- *(a)* scale mail or *(b)* chain mail
+- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
+- A trinket from your past life
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+### Dark Rebirth
+As a death knight, you straddle the line between the living and the dead, existing in both worlds and neither. You gain the following traits:
+
+ - You are considered both a humanoid and undead. You can be affected by anything that would affect either of those creature types. For example, because you are an undead, you will register on a paladin's Divine Sense, but because you are also a humanoid, you can be healed by that paladin's Lay on Hands.
+ - You don't need to sleep, instead you enter a semi- conscious state where you feed your eternal hunger by reminiscing on the agony you have caused. After doing so for 4 hours, you gain the same benefits that a human does from 8 hours of sleep.
+ - You have advantage on saves versus any effect that turns or exclusively affects undead, such as a priest's *shackle undead* spell.
+
+### Rune Weapons
+You know how to inscribe runes onto weapons, empower&shy;ing them and binding them to you. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapons must be within your reach throughout the ritual. You can only have a single two-handed weapon bound to you, or two one-handed weapons. Bonding new weapons immediately breaks the bond with any previous rune weapons.
+
+You can't be disarmed of your rune weapons unless you are incapacitated. If they are on the same plane of existence as you, you can summon your rune weapons as a bonus action on your turn, causing them to teleport instantly to your hands. If you have two one-handed rune weapons, when a death knight feature refers to your rune weapon, you may choose which one to use (but not both).
+
+### Runic Power
+Necrotic energies rush through your body. This energy <br> is represented by a pool of d6s that replenishes when you finish a long rest. The number of dice in this pool equals 1 + your death knight level. You can never spend more runic dice than your Charisma modifier (minimum of 1).
+
+#### Death Coil
+You can spend Runic Power dice as an action and choose one creature that you can see within 120 feet of you. If the creature is undead, it regains hit points equal to the result rolled. Otherwise, you make a ranged spell attack using your Charisma modifier. On a hit, you deal necrotic damage equal to twice the result rolled from the spent dice.
+
+#### Rune Strike
+When you hit a creature with a melee weapon attack, you can spend dice from your Runic Power pool to deal extra necrotic damage to the target equal to the result rolled from the spent dice, in addition to the weapon's damage.
+
+### Fighting Style
+At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
+
+#### Defense
+While you are wearing armor, you gain a +1 bonus to AC.
+
+\columnbreak
+
+> ##### Forsaken Death Knights
+> The death knight’s dark blessings manifest differently for the already-undead Forsaken. Forsaken death knights do not need to sleep at all, and may spend their rests engaging in light activity. In addition, they are immune to any effect that turns or exclusively affects undead, such as a priest’s *shackle undead* spell.
+
+#### Dueling
+When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
+#### Great Weapon Fighting
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+
+#### Profane Warrior
+You learn two cantrips of your choice from the warlock spell list. They count as death knight spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the warlock spell list.
+
+#### Two-Weapon Fighting
+When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+### Spellcasting
+Also at 2nd level, the dark power bestowed upon you by <br> the forces of death have given you facility with spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the death knight spell list.
+
+#### Spell Slots
+The death knight table shows how many spell slots you have to cast your death knight spells of 1st through 5th level. 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. Many death knights manifest their spell slots visibly as runes of power on their rune weapons.
+
+For example, if you know the 1st-level spell *ice knife* and have a 1st-level and a 2nd-level spell slot available, you can cast *ice knife* using either slot.
+
+#### Spells Known of 1st Level and Higher
+You know two 1st-level spells of your choice from the death knight spell list.
+
+The Spells Known column of the death knight table shows when you learn more death knight spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the death knight spells you know and replace it with another spell from the death knight spell list, which also must be of a level for which you have spell slots.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+#### Spellcasting Ability
+Charisma is your spellcasting ability for your death knight spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a death knight spell you cast and when making an attack roll with one.
+
+<div style="text-align: Center">
+
+**Spell save DC** = 8 + your proficiency bonus + <br> your Charisma modifier
+
+**Spell attack modifier** = your proficiency bonus + <br> your Charisma modifier
+</div>
+
+#### Spellcasting Focus
+You can use a rune weapon as a spellcasting focus for your death knight spells.
+<div style='margin-top:-3px;'></div>
+
+### Undead Constitution
+By 3rd level, your undead nature makes you immune to disease and the poisoned condition, and resistant to poison damage.
+<div style='margin-top:-3px;'></div>
+
+### Malignant Presence
+When you reach 3rd level, you commit yourself fully to one aspect of death: Blood, Frost, or Unholy. Your choice grants you features at 3rd level and again at 7th, 11th, 15th, and 20th level.
+<div style='margin-top:-3px;'></div>
+
+#### Presence Spells
+Each presence has a list of associated spells. You learn these spells at the levels specified in the presence descrip&shy;tion. Presence spells don't count against the number of death knight spells you may know.
+
+If you gain a presence spell that doesn't appear on the death knight spell list, the spell is nonetheless a death knight spell for you.
+<div style='margin-top:-5px;'></div>
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+<div style='margin-top:-3px;'></div>
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+<div style='margin-top:-3px;'></div>
+
+### Runeforging
+At 6th level, you learn to inscribe enchantments onto your rune weapons. Whenever you finish a long rest, you may inscribe one of the following runes onto your weapons. <br> You gain the benefits of the rune while wielding the rune weapons. You can only have one rune active at a time.
+<div style='margin-top:-3px;'></div>
+
+#### Rune of Cinderglacier
+Whenever you hit a creature with a weapon attack, the creature has disadvantage on any saving throws it makes against your death knight features and spells until the end of your next turn.
+<div style='margin-top:-5px;'></div>
+
+#### Rune of the Fallen Crusader
+Whenever you score a critical hit or reduce a creature to 0 hit points with a weapon attack, you may immediately heal yourself with death coil as part of the same action and regain hit points equal to twice the result rolled on the spent runic power dice.
+
+\columnbreak
+
+#### Rune of the Lichsworn
+You gain a +2 bonus to your spell attack modifier.
+
+#### Rune of Spellbreaking
+You gain resistance to damage dealt by spells.
+
+#### Rune of Swordbreaking
+You gain a +2 bonus to your Armor Class.
+
+#### Rune of Wraithwalk
+Your movement speed increases by 10 feet, and you gain a bonus to your initiative equal to your Charisma modifier (minimum of +1).
+
+### Will of the Grave
+Starting at 10th level, you can't be charmed or frightened while you are conscious.
+
+### Deathless
+Beginning at 14th level, you don't need to eat, drink, or breathe. In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.
+
+### Greater Runeforging
+Upon reaching 18th level, you may inscribe two different runes onto your rune weapons at once (as described in your Runeforging feature), both of which may be changed when you complete a long rest.
+
+## Malignant Presence
+Death knights are the warriors of the damned, created to desecrate the land they walk upon. The paths walked by death knights can be broadly placed into three presences. Choose one of these for your death knight.
+
+### Blood Presence
+In undeath, some death knights find a special affinity for the blood and bone of the living. They carve into their enemies, sustaining themselves with deadly sanguine strikes, while using the bloody, shattered remains of the dead to fortify their own defenses. These crimson-soaked knights bend the very rules of mortality to control the frontlines of the battlefield.
+
+#### Presence Spells
+You gain presence spells at the death knight levels listed.
+
+##### Blood Presence Spells
+| Dth Kn. Level| Spells                    |
+|:----:|:----------------------------------|
+| 3rd  | *command, ✦ death grip*           |
+| 5th  | *✦ blood boil, hold person*       |
+| 9th  | *✦ asphyxiate, life transference* |
+| 13th | *locate creature, ✦ void shift*   |
+| 17th | *antilife shell, ✦ death chain*   |
+<div style='margin-top:-5px;'></div>
+
+*✦ New spells can be found in chapter 6 later in this book* 
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreak
+
+#### Dark Command
+When you choose this presence at 3rd level, you gain the ability to influence other creatures. When you damage a creature through your Runic Power feature, that creature has disadvantage on attack rolls against targets other than you until the end of your next turn.
+
+#### Blood Shield
+Starting at 3rd level, you learn to weave your vile magic into a protective barrier. When you cast a death knight spell of 1st level or higher, you can simultaneously use the spell's dark essence to create a blood shield on yourself that lasts until you finish a long rest. The shield has hit points equal to twice your death knight level + your Charisma modifier. Whenever you take damage, the shield takes the damage instead. If this damage reduces the shield to 0 hit points, you take any remaining damage.
+
+While the blood shield has 0 hit points, it can't absorb damage, but its magic remains. Whenever you cast a death knight spell of 1st level or higher, the shield regains a number of hit points equal to twice the level of the spell.
+
+Once you create a blood shield, you can't create it again until you finish a long rest.
+
+#### Bone Storm
+Beginning at 7th level, you can use your action to summon a whirlwind of jagged bones around you. The storm has a 20-foot radius and is centered on you. It moves with you, and lasts for 1 minute or until you are incapacitated or die. When a creature enters the area for the first time on a turn or starts its turn there, it must make a Dexterity saving throw. On a failed save, the creature takes magical piercing damage equal to 1d6 + your death knight level, and is knocked prone. On a successful save, the creature takes half as much damage and suffers no other effects.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Heart Strike
+At 11th level, your dark power bolsters your attacks. When&shy;ever you hit a creature with a melee weapon attack, the creature takes an extra 1d8 weapon damage. In addition, damage dealt by your rune weapons ignore resistances.
+
+#### Purgatory
+Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead and have your blood shield's hit points reple&shy;nished to twice your death knight level.
+
+Once you use this ability, you can't use it again until you finish a long rest.
+
+#### Dancing Rune Weapon
+At 20th level, are able to summon a spectral copy of your rune weapon, which dances menacingly in your space. The dancing rune weapon lasts for 1 minute, and is identical to your rune weapon. Once you use this feature, you can't use it again until you finish a long rest.
+
+At the beginning of each of your turns, you can command your dancing rune weapon to act in one of the following ways until the start of your next turn (no action required).
+
+***Defensively.*** You gain the benefits of the Dodge action. In addition, you get a special reaction that you can take once on every creature's turn, except your turn. You can use this special reaction when a creature you can see makes an attack against a target other than you that is within 10 feet of you, imposing disadvantage on the attack roll.
+
+\columnbreak
+
+&nbsp;&nbsp;&nbsp; ***Offensively.*** When you take the Attack action on your turn, you may make one additional attack with the dancing rune weapon as part of the same action. In addition, you get a special reaction that you can take once on every creature's turn, except your turn. You can use this special reaction only to make an opportunity attack with your dancing rune weapon, and you can't use it on the same <br> turn that you take your normal reaction.
+
+### Frost Presence
+Combining martial prowess with supernatural cold, these damned warriors leave their enemies chilled to the bone. Unlike mages who learn to harness frost magic to great effect, these death knights are born of it, rime gripping their decaying hearts. These frozen undead warriors wield dual blades to strike with ferocity and inflict deathly cold upon anyone who would stand against them.
+
+#### Presence Spells
+You gain presence spells at the death knight levels listed.
+
+##### Frost Presence Spells
+| Dth Kn. Level| Spells                                 |
+|:----:|:-----------------------------------------------|
+| 3rd  | *armor of agathys, ✦ icy touch*                |
+| 5th  | *✦ howling blast, warding wind*                |
+| 9th  | *sleet storm, water walk*                      |
+| 13th | *fire shield (chill shield), ✦ freezing touch* |
+| 17th | *cone of cold, ✦ deathwyrm's fury*             |
+<div style='margin-top:-5px;'></div>
+
+*✦ New spells can be found in chapter 6 later in this book* 
+
+#### Frost Strike
+When you choose this presence at 3rd level, you learn to empower your weapon strikes with wintry fury. When you spend Runic Power dice on rune strike, the dice become d8s, and rune strike deals cold damage instead of necrotic.
+
+#### Killing Machine
+Also at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20. In addition, you can use two-weapon fighting even when the melee weapons you are wielding aren't light, as long as they do not have the heavy or two-handed properties.
+
+#### Remorseless Winter
+Beginning at 7th level, you can use your action to summon a storm of biting wind and sleet around you. The storm has a 20-foot radius and is centered on you. It moves with you, and lasts for 1 minute or until you are incapacitated or die. When a creature enters the area for the first time on a turn or starts its turn there, it must make a Constitution saving throw, taking cold damage equal to 1d6 + your death knight level on a failed save, or half as much on a successful one. On a failed save, a creatures speed is halved until the start of its next turn.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Frozen Heart
+At 11th level, your weapon strikes carries the frost of Northrend with them. Whenever you hit a creature with a melee weapon attack, the creature takes an extra 1d8 cold damage. In addition, your death knight features and spells ignores resistance to cold, and treats immunity to cold damage as resistance instead.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+#### Icy Talons
+Starting at 15th level, once on each of your turns when you spend two or more runic dice at once on rune strike, you may make an additional melee weapon attack as part of the same Attack action.
+
+#### Pillar of Frost
+At 20th level, you are able to channel the icy might of the Frozen Throne itself. As an action, you can magically become an avatar of all-consuming winter, gaining the following benefits for 1 minute:
+
+- You have resistance to bludgeoning, piercing, and slash&shy;ing damage, and immunity to cold damage.
+- You add your Charisma modifier to the damage of your melee weapon attacks (minimum of 1).
+- When you would normally roll one or more dice to deal cold damage with a death knight spell, you instead use the highest number possible for each die. For example, instead of dealing 2d8 cold damage to a creature, you deal 16.
+<div style='margin-top:-5px;'></div>
+
+&nbsp;&nbsp;&nbsp; Once you use this feature, you can't use it again until you finish a long rest.
+
+### Unholy Presence
+Some death knights still embody the corrupting nature of the Scourge plague. No matter their allegiance or cause, they remain defilers of life; and nowhere is their callous&shy;ness more on display than when threatened. Inflictors of the most aggressive of diseases, these unholy death knights are vicious melee combatants, capable of striking with the force of an undead legion and unleashing pestilence that would bring their foes to ruin.
+
+#### Presence Spells
+You gain Presence spells at the death knight levels listed.
+
+##### Unholy Presence Spells
+| Dth Kn. Level| Spells                                         |
+|:----:|:-------------------------------------------------------|
+| 3rd  | *✦ corpse explosion, ray of sickness*                  |
+| 5th  | *✦ anti-magic shell, ray of enfeeblement*              |
+| 9th  | *✦ mantle of the fallen crusader, <br>speak with dead* |
+| 13th | *blight, ✦ summon undead*                              |
+| 17th | *✦ army of the dead, contagion*                        |
+<div style='margin-top:-5px;'></div>
+
+*✦ New spells can be found in chapter 6 later in this book* 
+
+> ##### Unholy Diseases
+> &nbsp;&nbsp;&nbsp; **Blood Plague.** The diseased creature can’t regain hit points. Whenever it is damaged by a melee attack, the attacker gains temporary hit points equal to your Charisma modifier plus half your death knight level. Blood Plague is resisted by Constitution.
+>
+> **Crypt Blight.** The diseased creature can use either an action or a bonus action on its turn, not both. Regardless of the creature’s abilities or magic items, it can’t make more than one melee or ranged attack during its turn. Crypt Blight is resisted by Wisdom.
+>
+> **Frost Fever.** The diseased creature’s speed is halved, and it can’t take reactions. Frost Fever is resisted by Dexterity.
+
+#### Plaguebringer
+When you choose this presence at 3rd level, you learn to spread plague and pestilence across the land with your own dark magic, or through an undead minion. Choose <br> one of the following features.
+
+***Outbreak.*** When you deal damage with a Runic <br> Power ability, you can afflict the creature with a terrible plague. You choose which of the diseases detailed in the "Unholy Diseases" sidebar to inflict on your target, which takes effect immediately. At the end of each of the crea&shy;ture’s turns, it can make the saving throw specified in the disease’s description. On a failure, the creature takes 1d6 necrotic damage per Runic Power dice originally spent and continues to suffer the effects of the disease. On a success, the creature takes no damage and suffers none of the disease’s effects until the end of its next turn. The disease ends after 1 minute or when the creature has made three successful saving throws against the disease.
+
+If a target is inflicted with a new unholy disease while already suffering from an unholy disease, the original one ends and the new one takes effect.
+
+***Raise Dead.*** You learn to raise a dead humanoid as an undead minion. You can use your action and spend a spell slot of 1st level or higher to animate the corpse of a human&shy;oid creature within 30 feet of you. See the creature's game statistics in the undead minion stat block. When you raise an undead minion, choose which disease its Putrid Claw attack carries with it from the "Unholy Diseases" sidebar. You can only have one undead minion and raising a new corpse destroys the magic that binds your previous undead minion, reducing it to a rotting corpse.
+
+The undead minion obeys your commands as best it can. In combat, it shares your initiative count, but takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action to command it to take one of the actions in its stat block or the Dash, Disengage, or Help action. If you are incapacitated or absent, the minion acts on its own.
+
+When you expend Hit Dice to regain hit points, your minion regains a number of hit points equal to the result; it cannot spend its own Hit Dice. If it drops to 0 hit points, it immediately dies, though its remains may be raised again.
+
+#### Unholy Blight
+Beginning at 7th level, you can use your action to manifest a vile swarm of insects, which bite at your enemies and weaken their resolve. The aura has a 20-foot radius and is centered on you. It moves with you, and lasts for 1 minute or until you are incapacitated or die. When a creature other than your undead minion enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes necrotic damage equal to 1d6 + your death knight level and has disadvantage on saving throws against poison and disease until the start of its next turn. On a successful save, the creature takes half damage, but suffers no other effects.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/0Juz7SO.png' style='position:absolute; top:870px; right:45px; width:350px; z-index:1' />
+
+\pagebreakNum
+
+#### Dreadblade
+At 11th level, the taint of necrotic energies are suffused in your weapon attacks. Whenever you hit a creature with a melee weapon attack, the creature takes an extra 1d8 necrotic damage. In addition, your death knight features and spells, as well as your undead minion ignore resistance to necrotic damage, and treat immunity to necrotic damage as resistance instead.
+
+#### Plaguelord
+Upon reaching 15th level, you have achieved mastery over your powers of pestilence and plague. You gain one of the following features, depending on your choice at 3rd level.
+
+***Outbreak.*** When a creature afflicted with one of your unholy diseases dies, you can spread the disease to a different creature you can see within 30 feet of the dead creature, provided you aren’t incapacitated. This counts as a new instance of the disease for the sake of its duration and the number of saving throws needed to end it prematurely.
+
+***Raise Dead.*** When you spend Runic Power dice, you also add the same number of dice to the damage of your undead minion’s Putrid Claw attack until the end of its next turn. If you use multiple Runic Power abilities before your minion attacks, only the highest bonus is used.
+
+#### Unholy Frenzy
+At 20th level, you learn to incite an undead creature into a killing frenzy. Most death knights use this ability on themselves or their undead minion, but you can target any undead creature you can see within 60 feet. For 1 minute, the frenzied creature gains the following benefits.
+
+- It has advantage on saving throws.
+- Its movement speed is doubled.
+- When it takes the Attack action on its turn, it can make one additional attack as part of that action.
+<div style='margin-top:-5px;'></div>
+
+&nbsp;&nbsp;&nbsp; Once you use this feature, you can’t use it again until you finish a long rest.
+
+\columnbreak
+
+___
+> ## Undead Minion
+>*Medium undead, neutral evil*
+> ___
+> - **Armor Class** 12 (natural armor)
+> - **Hit Points** equal the undead minion's Constitution modifier + your Charisma modifier + five times your level in this class
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|11 (+0)|14 (+2)|6 (-2)|8 (-1)|5 (-3)|
+>___
+> - **Saving Throws** Str +5, Con +4, Wis +1
+> - **Damage Immunities** poison
+> - **Condition Immunities** charmed, exhaustion, frightened, poisoned
+> - **Senses** darkvision 60 ft., passive Perception 9
+> - **Languages** understands the languages it knew in life but can't speak
+> ___
+>
+> ***Bound to Serve.*** The following numbers increases by 1 when your proficiency bonus increases by 1: The undead minion's saving throw bonuses, and the bonuses to hit and damage of its putrid claw attack. <br>&nbsp;&nbsp;&nbsp; In addition, when your undead minion makes an attack roll, you may use your spell attack modifier for the attack roll, instead of the undead minions. The damage of its putrid claw remains unchanged.
+>
+> ***Undead Fortitude.*** If damage reduces the minion to 0 hit points, it must succeed on a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the minion drops to 1 hit point instead.
+>
+> ***Shambling Rush (1/short or long rest).*** At the beginning of its turn, the minion may double its speed until the end of its turn. If it hits a Large or smaller creature on the same turn, the creature must succeed on a Strength saving throw against your spell save DC or be knocked prone.
+>
+> #### Actions (Requires your Bonus Action) <div style='margin-top:-5px;'></div>
+> ###
+>
+> ***Putrid Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target you can see. *Hit:* 5 (1d6 + 2) necrotic damage. If the target is a creature other than an undead, it must succeed on a saving throw against your spell save DC or suffer the effects of the unholy disease it carries. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful one.
+
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/Ygr4Wc3.jpg' style='position:absolute; top:600px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute; top:0px; right:0px; width:840px' />
+
+\pagebreakNum
+
+<div style='column-count:2'>
+
+### Death Kt. Spells
+##### 1st Level
+Absorb Elements ^XGE^
+<br> Bane
+<br> Cause Fear ^XGE^
+<br> ✦ Chains of Ice
+<br> Command
+<br> Compelled Duel
+<br> ✦ Corpse Explosion
+<br> ✦ Death Grip
+<br> Detect Evil and Good
+<br> Detect Magic
+<br> Detect Poison and Disease
+<br> ✦ Dread Favor
+<br> Fog Cloud
+<br> Heroism
+<br> Ice Knife ^XGE^
+<br> ✦ Icy Touch
+<br> Prot. from Evil and Good
+<br> Ray of Sickness
+<br> Thunderous Smite
+<br> Wrathful Smite
+
+##### 2nd Level
+✦ Anti-Magic Shell
+<br> Augury
+<br> Blindness/Deafness
+<br> ✦ Blood Boil
+<br> Calm Emotions
+<br> Crown of Madness
+<br> Darkvision
+<br> Find Steed
+<br> Gentle Repose
+<br> Hold Person
+<br> ✦ Howling Blast
+<br> ✦ Icebound Fortitude
+<br> Ray of Enfeeblement
+<br> Silence
+<br> Snilloc's Snowball <br>&nbsp;&nbsp;&nbsp; Swarm ^XGE^
+<br> Zone of Truth
+
+##### 3rd Level
+Animate Dead
+<br> ✦ Asphyxiate
+<br> Bestow Curse
+<br> Clairvoyance
+<br> Dispel Magic
+<br> Enemies Abound ^XGE^
+<br> Fear
+<br> Feign Death
+<br> Gaseous Form
+<br> Life Transference ^XGE^
+<br> ✦ Mantle of the <br>&nbsp;&nbsp;&nbsp; Fallen Crusader
+<br> Phantom Steed
+<br> Sleet Storm
+<br> Speak with Dead
+<br> Vampiric Touch
+<br> Water Walk
+
+\columnbreak
+
+<div style='margin-top:37px;'></div>
+
+##### 4th Level
+Arcane Eye
+<br> Banishment
+<br> Blight
+<br> ✦ Death and Decay
+<br> Death Ward
+<br> Divination
+<br> ✦ Dominate Undead
+<br> Find Greater Steed ^XGE^
+<br> Ice Storm
+<br> Phantasmal Killer
+<br> Sickening Radiance ^XGE^
+<br> Staggering Smite
+<br> Stoneskin
+<br> ✦ Summon Undead
+<br> Vitriolic Sphere ^XGE^
+
+##### 5th Level
+Antilife Shell
+<br> ✦ Army of the Dead
+<br> Banishing Smite
+<br> Circle of Power
+<br> Danse Macabre ^XGE^
+<br> ✦ Death Chain
+<br> ✦ Deathwyrm's Fury
+<br> Dispel Evil and Good
+<br> Enervation ^XGE^
+<br> Hallow
+<br> Hold Monster
+<br> Negative Energy Flood ^XGE^
+<br> ✦ Unholy Weapon
+
+</div>
+
+\columnbreak
+
+#### Anti-Magic Shell
+*2nd-level abjuration*
+___
+- **Casting Time:** 1 reaction, which you take when you are the target of a spell
+- **Range:** Self
+- **Components:** V, S 
+- **Duration:** 1 round
+___
+You surround yourself with a field of necrotic energy that repels harmful magic. For the duration of the spell, you have advantage on saving throws against spells, and resistance to the damage from spells. Furthermore, when a spell allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the shell lasts for an additional two rounds for each slot level above 2nd.
+
+#### Army of the Dead
+*5th-level necromancy*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S, M (brain matter from a humanoid killed within the past 24 hours)
+- **Duration:** Concentration, up to 1 minute
+___
+You voice profane words, and summon an army of the dead to kill and consume everything in its path. A horde of sham&shy;bling corpses appears around you, and disappears when it drops to 0 hit points or when the spell ends.
+
+Roll initiative for the horde, which has its own turns. You cannot control the horde. It spends its turns pursing and attacking the nearest nonundead to the best of its ability. <br> It will use its Slams action to attack and grapple creatures before moving to occupy its victims’ spaces and engulf them on the next turn with its Flesh-Eating Compulsion feature. If no creatures are within its reach, the horde will use its full movement to approach any nonundead crea&shy;tures it can see or hear. If no such creatures are evident, it will mindlessly follow you until targets present themselves.
+
+When you first cast this spell, you can designate any number of creatures that you can see to be ignored by the shambling horde, and which will be unaffected by its Flesh-Eating Compulsion feature. If you stop concentrating on the spell before it reaches its full duration, the horde remains for 1d6 rounds if it still has hit points, and no longer ignores these creatures.
+
+#### Asphyxiate
+*3rd-level necromancy*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** S
+- **Duration:** Concentration, up to 1 minute
+___
+Shadowy tendrils extend from you and swirl around the throat of a creature you can see within range. The target must make a successful Dexterity saving throw or be restrained for the spells duration. While restrained in this way, the target is also suffocating and unable to speak.
+
+At the end of each of its turns, the target must make a Constitution saving throw. On a failed save, the target loses 1 minute of air until the target is knocked unconscious. On a successful save, the target is freed from the tendrils and the spell ends.
+
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
+<div style='margin-top:-10px;'></div>
+
+___
+> ## Shambling Horde
+>*Gargantuan horde of Medium undead, chaotic evil*
+> ___
+> - **Armor Class** 8
+> - **Hit Points** 145 (10d20 + 40)
+> - **Speed** 20 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|25 (+7)|6 (-2)|18 (+4)|3 (-4)|6 (-2)|5 (-3)|
+>___
+> - **Saving Throws** Wis +2
+> - **Damage Immunities**  poison
+> - **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, grappled, incapacitated, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious
+> - **Senses** darkvision 60 ft., passive perception 8
+> - **Languages** —
+> - **Challenge** 8 (3,900 XP)
+> ___
+> ***Flesh-Eating Compulsion.*** The horde can share a space with another creature. If a creature that is not an un&shy;dead or a construct share a space with the horde at the beginning of the horde's turn, the horde is incapa&shy;citated (ignoring its incapacitated immunity) and the creature is engulfed. While engulfed, the creature is restrained, and it takes 21 (6d6) piercing damage at the start of each of the horde's turns, or 10 (3d6) piercing damage if the horde has half of its hit points or fewer, and the creature must succeed on a DC 15 Constitution saving throw or become infected with the shambling death disease. 
+<br>&nbsp;&nbsp; A diseased creature can't regain hit points until the disease is cured. For every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 10 (3d6) on a failure. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured.
+<br>&nbsp;&nbsp; Engulfed creatures can try to escape by making a DC 18 Strength check as an action. On a success, the creature escapes and enters a space of its choice within 5 feet of the shambling horde.
+>
+> ***Horde.*** The horde can occupy the space of a Large or smaller creature and vice versa, and the horde can move through any opening large enough for a Medium zombie. The horde can’t regain hit points or gain temporary hit points.
+>
+> ***Undead Fortitude.*** If the horde takes damage, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the horde takes no damage instead.
+>
+> ### Actions
+> ***Multiattack.*** The shambling horde can make up to three Slams attacks, and each attack must be against a different target.
+>
+> ***Slams.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 21 (6d6) bludgeoning damage, or 10 (3d6) bludgeoning damage if the horde has half of its hit points or fewer. If the target is Large or smaller, it is also grappled (escape DC 18).
+
+#### Blood Boil
+*2nd-level necromancy*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self (15-foot radius)
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+You reach out with unholy power, causing the blood in the veins of nearby creatures to boil. Each creature you choose within 15 feet of you must succeed on a Constitution saving throw or take 2d4 fire damage plus 2d4 necrotic damage. <br> A creature that succeeds on its saving throw takes half as much damage. Creatures that have no blood or vital fluids are immune to the effects of this spell.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the fire and necrotic damage each increase by 1d4 for each slot level above 2nd.
+
+#### Chains of Ice
+*1st-level evocaation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** 1 minute
+___
+Frost ridden chains erupt from the ground beneath a target that you can see within range. The target must succeed on a Strength saving throw, or have their movement speed halved for the spell’s duration.
+
+The chained target must make a Strength saving throw at the end of each of its turns. On a successful save, the chains break and the spell ends on the target.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 2nd.
+
+#### Corpse Explosion
+*1st-level necromancy*
+___
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** S, M (a corpse, which the spell destroys)
+- **Duration:** Instantaneous
+___
+The corpse of a recently deceased creature rapidly bloats at your command and erupts in a gruesome explosion. You target the corpse of a creature that's been dead for no longer than 1 minute that you can see within range. Each creature within 5 feet of that corpse must make a Dexterity saving throw. A target takes 2d6 necrotic damage on a failed save, or half as much damage on a successful one. The radius of the explosion increases by 5 feet for every size category of the corpse above Medium.
+
+A corpse detonated in this way is destroyed and cannot be raised or resurrected by any ability that requires a com&shy;plete corpse. Not all creatures leave a corpse; construts and oozes almost never do, neither do incorporeal undead. 
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d6 for each slot level above 1st.
+
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
+#### Death and Decay
+*4th-level necromancy*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
+You reach out towards a point you can see within range, creating a 20-foot radius sphere filled with festering, necro&shy;tic energy that withers and decays everything within it. When a creature enters the blighted area for the first time on a turn or starts its turn there, it must make a Constitu&shy;tion saving throw. On a failed save, the creature takes 4d8 necrotic damage. In addition, until the beginning of its next turn, the creature subtracts 1d4 from all of its attack rolls and saving throws, as if under the effect of the bane spell. On a successful save, the creature takes half as much damage, and suffers no additional effects.
+
+Undead creatures in the spell’s area take no damage, and are bolstered by its necrotic power. While standing in the spell’s area, undead creatures add 1d4 to their attack rolls and saving throws, as if under the effect of a bless spell.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
+
+#### Death Chain
+*5th-level necromancy*
+___
+- **Casting Time:** 1 action
+- **Range:** Self (20-foot radius)
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
+Ghastly chains erupt from you towards up to three different creatures you can see within range. Make a ranged spell attack against each target. On a hit, a target takes 4d8 necrotic damage and becomes chained together with you and any other target hit for the spell's duration.
+
+Chained creatures must succeed on a Strength saving throw to move more than 20 feet away from you. On a successful save, the target breaks the chain, ending the spell’s effect on them. Whenever you or another chained creature takes damage from a weapon attack or spell, each other creature chained together (including you) takes psychic damage equal to half the damage taken.
+
+Damage you take through this spell does not prompt a Constitution saving throw to maintain concentration on it.
+
+#### Death Grip
+*1st-level evocation*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+Necrotic energy grasps around a Huge or smaller creature you can see that is currently at least 10 feet away from you, and within the spell’s range. The creature must make a successful Strength saving throw or be moved to an empty space within 5 feet of you, and your next attack roll against them this turn is made with advantage.
+
+\columnbreak
+
+#### Deathwyrm's Fury
+*5th-level conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S, M (a scale from a slain dragon)
+- **Duration:** Instantaneous
+___
+You summon a mighty undead dragon to breath destruction on your enemies. You choose where to summon an ember&shy;wyrm, frostwyrm, or vilewyrm. It appears hovering above you and unleashes its breath weapon, tainted by necrotic power, before vanishing.
+
+The spell fails if there is insufficient room for the dragon to appear (for example, you are in a narrow tunnel). Any living dragons that witness you cast this spell will almost surely view you as a sworn enemy, if they didn’t already.
+
+***Emberwyrm.*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a Dexterity saving throw, taking 5d8 fire damage and 5d8 necrotic damage on a failed save, or half as much damage on a successful one.
+
+***Frostwyrm.*** The dragon exhales an icy blast at a point within 120 feet. Each creature within 20 feet of that point must make a Dexterity saving throw, taking 5d8 cold damage and 5d8 necrotic damage on a failed save, or half as much damage on a successful one.
+
+***Vilewyrm*** The dragon exhales acid in a 120-foot line <br>that is 10 feet wide. Each creature in that line must make a Dexterity saving throw, taking 5d8 acid damage and 5d8 necrotic damage on a failed save, or half as much damage on a successful one.
+
+#### Dominate Undead
+*4th-level enchantment*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
+You attempt to beguile an undead that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
+
+While the undead is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue com&shy;mands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and doesn’t receive further direction from you, it defends and preserves itself to the best of its ability.
+
+You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
+
+Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
+
+***At Higher Levels.*** When you cast this spell with a <br> 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a 7th level or higher, the duration is concentration, up to 8 hours.
+
+
+
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
+#### Dread Favor
+*1st-level necromancy*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self
+- **Components:** V, S 
+- **Duration:** Concentration, up to 1 minute
+___
+You are empowered by the suffering of your victims. Until the spell ends, your weapon attacks deal an extra 1d4 necrotic damage on a hit.
+
+#### Freezing Touch
+*2nd-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S, M (a shard of glass or ice)
+- **Duration:** 1 minute
+___
+Your fingers become cold to the touch as frost manifests on their surface. Make a melee spell attack against a creature within range. On a hit, the creature is incapacitated, can't move, and can't breathe until the spell ends as ice encap&shy;sulates their body. A target who hits the creature with an attack breaks the ice and ends the spell.
+
+#### Howling Blast
+*2nd-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 1 round
+___
+An icy gale suddenly erupts around a point of your choice within range. Each creature in a 15-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 cold damage on a failed save, or half as much damage on a successful one. A cold fog hangs in the air afterwards, making the area heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+
+#### Icebound Fortitude
+*2nd-level transmutation*
+___
+- **Casting Time:** 1 reaction, which you take when you are dealt bludgeoning, piercing, or slashing damage
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 round
+___
+You temporarily freeze your own blood and make your skin as hard as ice. Until the start of your next turn, you have resistance to bludgeoning, piercing, and slashing damage, including against the triggering damage.
+
+\columnbreak
+
+#### Icy Touch
+*1st-level necromancy*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 1 round
+___
+You summon icy energy to strike against a creature you can see within range, freezing them with the chill of the grave. Make a rangedspell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 3d8 cold damage, and it can't regain hit points until the start of your next turn. Until then, the target’s skin grows as pale as ice. If you hit a celestial target, it also has disadvantage on attack rolls against you until the end of your next turn. 
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st. 
+
+#### Mantle of the Fallen Crusader
+*3rd-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** Self (30-foot radius)
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
+___
+Unholy power radiates from you in an aura with a 30-foot radius, awakening bloodlust in friendly creatures. Until the spell ends, the aura moves with you, centered on you. While in the aura, each nonhostile creature in the aura (including you) deals an extra 1d4 necrotic damage when it hits with a weapon attack.
+
+#### Summon Undead
+*4th-level conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (viscera from a creature killed <br> within the past 24 hours)
+- **Duration:** Concentration, up to 1 hour
+___
+You summon a powerful undead being from the crypts and slaughterhouses of Northrend. You choose the undead’s type, which must be one of challenge rating 5 or lower, such as a revenant or wraith. The undead appears in an unoccupied space you can see within range, and the undead disappears when it drops to 0 hit points or when the spell ends.
+
+Roll initiative for the undead, which has its own turns. When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
+
+If you stop concentrating on the spell before it reaches its full duration, the undead spends the rest of the spell’s duration pursuing and attacking the nearest non-undead to the best of its ability.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.
+
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
+#### Unholy Weapon
+*5th-level evocation*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
+___
+You imbue a weapon you touch with unholy power. Until the spell ends, the weapon creates an area of darkness <br> in a 30-foot radius and dim light for an additional 30 feet. The bearer of the unholy weapon is immune to this effect. In addition, weapon attacks made with it deal an extra 2d8 necrotic damage on a hit. If the weapon isn’t already a magic weapon, it becomes one for the duration.
+
+As a bonus action on your turn, you can dismiss this <br> spell and cause the weapon to emit a torrent of corrupting shadows. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution saving throw. On a failed save, a creature takes 4d8 necro&shy;tic damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn’t blinded. At the end of each Of its turns, a blinded creature can make a Constitution saving throw, ending the effect on itself on a success.
+
+#### Void Shift
+*4th-level necromancy*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+You call upon the void to shift the health of you and another creature. Choose a willing creature within range, you and the chosen creature exchange your current hit points, to a maximum of 40 hit points from each creature.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the maximum hit points you can exchange increases by 10 for each slot level above 4th.
+
+<div class='footnote'>PART 2 | SPELLS </div>

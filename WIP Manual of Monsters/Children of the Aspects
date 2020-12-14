@@ -1,0 +1,377 @@
+<div class="pageLetter">C</div>
+<div class='footnote'>Children of the Aspects</div>
+
+___
+> ## Chimaera  <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;156;7;15;22;36;66;0;26;0;0;0;0;0;0;0;;;1;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+>*Large dragon, chaotic neutral*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 152 (16d10 + 64)
+> - **Speed** 30 ft., fly 60 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|19 (+4)|12 (+1)|18 (+4)|7 (-2)|12 (+1)|11 (+0)|
+>___
+> - **Senses** darkvision 60ft., passive Perception 11
+> - **Languages** -
+> - **Challenge** 7 (2,900 XP)
+> ___
+> ***Two Heads.*** The chimaera has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+>
+> ***Wakeful.*** While the chimaera sleeps, one of its heads is awake.
+>
+> ### Actions
+> ***Multiattack.*** The chimaera makes two bite attacks, one of which can be replaced with one breath weapon attack.
+> 
+> ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
+*Hit:* 13 (2d8 + 4) piercing damage plus  3 (1d6) damage of same type as one of the chosen breath weapons.
+>
+> ***Breath Weapons.*** Choose two breath weapons from the "Chimaera Breath Weapon" sidebar.
+>
+
+
+\columnbreak
+
+> ##### Chimaera Breath Weapon
+> <br>    ***Poison Spit (Recharge 6).*** *Ranged Weapon Attack:* +7 to hit, reach 30/45 ft., one creature. Hit: 22 (5d8) poison damage. Hit or miss, the poison then splashes around. The target and each creature within 5 feet of it must succeed on a DC 15 Dexterity saving throw or take 18 (4d8) poison damage.
+> <br>    In addition, each creature hit by the poison must succeed on a DC 15 Constitution saving throw, or be poisoned until the end of the chimera's next turn.
+>
+> ***Lightning Breath (Recharge 6).*** The chimaera exhales a bolt of lighting at a creature within 30 feet of it. That creature must make a DC 15 Dexterity saving throw, taking 22 (5d8) lightning damage on a failed save, or half as much damage on a success. Afterwards, the bolt jumps to a second creature within 30 feet of the first target and then to a third creature within 30 feet of the second one. 
+>
+> ***Acid Breath (Recharge 6).*** The chimaera ejects acid in a 20-foot cone. Each creature in that area must make a DC l5 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+> <br>    Further more, any nonmagical armor made of metal that is hit by the acid corrodes. After receiving damage, the armor takes a permanent and cumulative -1 penalty to armor class. If its penalty drops to -5, the armor is destroyed.
+>
+> ***Ice Jet (Recharge 6).*** The chimaera exhales a frigid beam of blue-white light forming a line 80 feet long and 5 feet wide in any direction it wants.  Each creature in the line must make a DC 15 Dexterity saving throw. A creature takes 13 (3d8) cold damage on a failed save, or half as much damage on a successful one and it becomes incapacitated until the start of the chimaera's next turn.
+>
+> ***Fire Breath (Recharge 6).*** The chimaera exhales fire in a 45-foot cone. Each creature in that area must succeed against a DC 15 Dexterity saving throw or take 11 (2d10) fire damage and catch fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
+
+
+
+
+\pagebreakNum
+
+
+
+<div class="pageLetter">C</div>
+<div class='footnote'>Children of the Aspects</div>
+
+___
+> ## Dryad <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;105;5;13;17;0;17;0;17;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
+>*Medium fey, lawful good*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 104 (16d8 + 32)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|11 (+0)|16 (+3)|14 (+2)|11 (+0)|12 (+1)|15 (+2)|
+>___
+> - **Skills** Nature +2, Perception +3, Survival +3
+> - **Senses** darkvision 60ft., passive Perception 13
+> - **Languages** Common, Darnassian
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Forest Walk.*** The dryad ignores difficult terrain in forests.
+>
+> ***Magic Resistance.*** The dryad has advantage on saving throws against spells and other magical effects.
+>
+> ***Speak with Beasts and Plants.*** The dryad can communicate with Beasts and Plants as if they shared a language.
+> ### Actions
+> 
+> ***Poison Javelin.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage, plus 7 (2d6) poison damage. The target must succeed against a DC 13 Constitution saving throw or be poisoned for one minute. 
+>
+> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (2d6) bludgeoning damage.
+
+<br>
+
+> ##### Variant: Daughter of Cenarius
+>
+> Some dryads inherit druidic powers from their father, Cenarius, allowing them to protect and heal their allies. 
+>
+> A daughter of Cenarius has the same statistics as a dryad, except it has Wisdom 15, as well as the following trait: 
+>
+> <br> ***Innate Spellcasting.*** The dryad's innate spellcasting ability is Wisdom (spell save DC 12). It can innately cast the following spells, requiring no material components: 
+>
+> <br>At will: *guidance*, *resistance*
+> <br> 3/day:  *healing word*
+> <br> 1/day: *dispel magic*
+
+\columnbreak
+___
+> ## Faerie Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?1;13;130;6;13;32;0;32;0;32;0;0;0;0;0;0;0;;;1;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
+>*Medium fey, unaligned*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 130 (20d8 + 40)
+> - **Speed** 10 ft., fly 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|11 (+0)|16 (+3)|14 (+2)|7 (-2)|12 (+1)|10 (+1)|
+>___
+> - **Skills** Perception +4, Stealth +6
+> - **Senses** passive Perception 14
+> - **Languages** -
+> - **Challenge** 5 (1,800 XP)
+> ___
+> ***Magic Resistance.*** The faerie dragon has advantage on saving throws against spells and other magical effects.
+>
+> ### Actions
+> ***Multiattack.*** The faerie dragon makes two bite attacks.
+> 
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 16 (3d8 + 3) piercing damage.
+>
+> ***Mana Flare (1/day).*** The faerie dragon channels magical energies that damage foes when they cast spells near it. Until the end of it's next turn, whenever an enemy within 30 ft from the faerie dragon casts a spell, that creature needs to succeed a DC 15 Wisdom saving throw or take 3 (1d6) points of damage per level of the spell it cast.
+> <br>    In addition, if the dragon succeeds on a saving throw against an enemies spell, mana flare automatically recharges.
+>
+> ### Reactions
+> 
+> ***Phase Shift (Recharge 5-6).*** Whenever the fairie dragon takes damage, it can use its reaction to immediately become incorporeal until its next turn. While incorporeal, it cannot attack, move or take any actions and it remains visible as a ghostly outline.
+
+<br>
+
+> ##### Variant: Tiny Fearie Dragons <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;22;5;13;8;0;8;0;8;0;0;0;0;0;0;0;;;1;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
+>
+> Many faerie dragons are naturally very small in size and usually harmless if encountered alone, while quite dangerous if someone face them in groups.
+>
+> A tiny faerie dragon has the same statistics as a faerie dragon, except it has 22 (5d4+10) hit points, it has CR 1 and it does not have the *multiattack* and *mana flare*. In addition, it has Perception +3, Stealth +5 and its bite attack is +5 to hit and deals 8 (2d4 + 3) piercing damage. 
+
+\pagebreakNum
+
+
+<div class="pageLetter">C</div>
+<div class='footnote'>Children of the Aspects</div>
+
+___
+> ## Gryphon <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;68;6;13;16;0;16;0;16;0;0;0;0;0;0;0;;;1;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+>*Large monstrosity, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 68 (8d10 + 24)
+> - **Speed** 40 ft., fly 60 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|15 (+2)|16 (+3)|9 (-1)|12 (+1)|8 (-1)|
+>___
+> - **Senses** passive Perception 11
+> - **Languages** -
+> - **Challenge** 2 (450 XP)
+> ___
+> ***Keen Sight.*** The gryphon has advantage on Wisdom (Perception) checks that rely on sight.
+>
+> ### Actions
+> ***Multiattack.*** The gryphon makes two attacks: one with its beak and one with its claws.
+> 
+> ***Beak.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
+*Hit:* 7 (1d6 + 4) piercing damage.
+>
+> ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
+*Hit:* 9 (2d4 + 4) slashing damage.
+>
+> ***Screech (1/Day).*** The gryphon emits a feral screech. Each creature within 20 feet of it that can hear it must succeed on a DC 13 Constitution saving throw or be frightened until the end of the gryphon's next turn.
+
+\columnbreak
+___
+> ## Hippogryph <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;26;5;13;18;0;11;0;11;0;0;0;0;0;0;0;;;1;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+>*Large monstrosity, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 26 (4d10 + 4)
+> - **Speed** 40 ft., fly 60 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|15 (+2)|12 (+1)|9 (-1)|12 (+1)|8 (-1)|
+>___
+> - **Senses** passive Perception 11
+> - **Languages** -
+> - **Challenge** 1 (200 XP)
+> ___
+> ***Keen Sight.*** The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
+>
+> ***Swoop.*** If the hippogryph flies at least 20 feet straight toward a target and then hits it with a claw attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
+>
+> ### Actions
+> ***Multiattack.*** The hippogryph makes two attacks: one with its beak and one with its claws.
+> 
+> ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
+*Hit:* 5 (1d4 + 3) piercing damage.
+>
+> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
+*Hit:* 6 (1d6 + 3) slashing damage.
+
+
+\pagebreakNum
+
+<div class="pageLetter">C</div>
+<div class='footnote'>Children of the Aspects</div>
+
+___
+> ## Keeper of the Grove <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;221;8;16;62;9;41;9;41;9;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+>*Large fey, lawful neutral*
+> ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 221 (26d10 + 78)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|16 (+3)|16 (+3)|12 (+1)|18 (+4)|14 (+2)|
+>___
+> - **Skills** Nature +5, Perception +8, Survival +8
+> - ***Damage Resistances*** lightning, poison
+> - **Senses** darkvision 60ft., passive Perception 18
+> - **Languages** Common, Darnassian
+> - **Challenge** 10 (5,900 XP)
+> ___
+> ***Forest Walk.*** The keeper ignores difficult terrain in forests.
+> 
+> ***Speak with Beasts and Plants.*** The keeper of the grove can communicate with beasts and plants as if they shared a language.
+>
+> ***Unearthly Grace.*** The keeper of the grove adds its Charisma modifier on all saving throws and its AC.
+>
+> ***Spellcasting.*** The keeper of the grove is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It has the following druid spells prepared:
+>
+> Cantrips (at will): *druidcraft, resistance, solar wrath*
+> <br> 1st level (4 slots): *beast bond, detect poison and <br>    disease, entangle, cure wounds*
+> <br> 2nd level (3 slots): *beast sense, locate animals and <br>    plants, spike growth*
+> <br> 3rd level (3 slots): *mass healing word, revivify, plant <br>    growth*
+> <br> 4th level (3 slots): *conjure woodland beings, grasping <br>    vine, guardian of nature*
+> <br> 5th level (2 slots): *tree stride, wrath of nature*
+> <br> 6th level (1 slot): *wall of thorns*
+>
+> ### Actions
+> 
+> ***Barbed Whip.***  *Melee Weapon Attack:* +7 to hit, reach 20 ft., one target. *Hit:* 13 (3d6 + 3) piercing damage, and if the creature is large or smaller, it is pulled or pushed up to 10 feet at any direction.
+>
+> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (2d6) bludgeoning damage.
+>
+> ### Reactions
+>
+> ***Thorns Aura.*** When a creature within 5 feet of the keeper of the grove hits it with a melee attack, the keeper can use its reaction to deal 9 (2d8) force damage to them.
+
+
+\columnbreak
+
+___
+> ## Two-legged Hydra <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;180;8;15;54;0;51;0;51;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+>*Large monstrosity, unaligned*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 180 (19d10 + 76)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|12 (+1)|18 (+4)|4 (-3)|10 (+0)|7 (-2)|
+>___
+> - **Skills** Perception +3
+> - **Senses** darkvision 60 ft., passive Perception 13
+> - **Languages** -
+> - **Challenge** 8 (3,900 XP)
+> ___
+> ***Multiple Heads.*** The hydra has three heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+>
+> ***Reactive Heads.*** For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.
+>
+> ***Wakeful.*** While the hydra sleeps, at least one of its heads is awake.
+>
+> ### Actions
+> ***Multiattack.*** The hydra makes as many bite attacks as it has heads.
+> 
+> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target.
+*Hit:* 12 (2d6 + 5) piercing damage plus 5 (2d4) poison damage.
+>
+> ***Venom Spit (Recharge 5-6).*** *Ranged Weapon Attack:* +8 to hit, reach 30/45 ft., one creature. Hit: 54 (12d8) poison damage. In addition, the target must succeed on a DC 15 Constitution  saving throw, or be poisoned until the end of the hydra's next turn.
+
+<br> 
+
+> ##### Variant: Gahz'rilla Spawn
+>
+> The children of the mighty Gahz'rilla inherit its power over ice and use it against their foes, instead of venom. 
+>
+> The Gahz'rilla spawn has the same statistics as a hydra, except that its bite attack deals cold damage instead of poison and in place of the venom spit action it has the following:
+>
+> ***Arctic Beam (Recharge 5-6).*** *Ranged Weapon Attack:* +8 to hit, reach 30/45 ft., one creature. Hit: 44 (8d10) cold damage. In addition, the target must succeed on a DC 15 Dexterity  saving throw, or become restrained. 
+> 
+> At the beginning of each of its turns, it may make a DC 15 Strength saving throw to end the effect on a success.
+
+
+\pagebreakNum
+
+<div class="pageLetter">C</div>
+<div class='footnote'>Children of the Aspects</div>
+
+___
+> ## Four-legged Hydra <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;147;7;14;48;0;39;0;39;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+>*Huge monstrosity, unaligned*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 147 (14d12 + 56)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|19 (+4)|12 (+1)|18 (+4)|4 (-3)|10 (+0)|7 (-2)|
+>___
+> - **Skills** Perception +3
+> - **Senses** darkvision 60 ft., passive Perception 13
+> - **Languages** -
+> - **Challenge** 6 (2,300 XP)
+> ___
+> ***Multiple Heads.*** The hydra has three heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+>
+> ***Reactive Heads.*** For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.
+>
+> ***Vile Blood.*** Whenever the hydra takes piercing or slashing damage, its blood sprays the attacker, dealing 7 (2d6) poison damage.
+>
+> ***Wakeful.*** While the hydra sleeps, at least one of its heads is awake.
+>
+> ### Actions
+> ***Multiattack.*** The hydra makes as many bite attacks as it has heads.
+> 
+> ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
+*Hit:* 13 (2d8 + 4) piercing damage.
+>
+> ***Breath Weapon.*** Choose the breath weapon from the "Hydra Breath Weapon" sidebar.
+
+\columnbreak
+
+> ##### Hydra Breath Weapon
+> <br>     ***Rolling Bile (Recharge 5-6).*** The hydra spews a ball of putrid bile at a point within 20 feet from it. Each creature in a 10-foot-radius sphere centered on that point must make a DC 14 Dexterity saving throw taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+> <br>    ***Crackling Thunder (Recharge 5-6).*** The hydra spews bolts of lighting in a 15-foot cone. Every creature must succeed against a DC 14 Dexterity saving throw or take 18 (4d8) lightning damage and it cannot use its reactions until the start of hydra's next turn.
+> <br>    ***Ball of Fire (Recharge 5-6).*** The hydra spews a large ball of fire at a point within 15 feet from it. Each creature in a 10-foot-radius sphere centered on that point must make a DC 14 Dexterity saving throw taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It lasts for 10 minute. When a creature enters the burning area for the first time on a turn or starts its turn there, takes 3 (1d6) fire damage.
+
+\pagebreakNum
+
+<div class="pageLetter">C</div>
+<div class='footnote'>Children of the Aspects</div>
+
+___
+> ## Wyvern <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;42;5;13;15;0;15;0;15;0;0;0;0;0;0;0;;;1;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+>*Large monstrosity, unaligned*
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 42 (5d10 + 15)
+> - **Speed** 30 ft., fly 60 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|15 (+2)|16 (+3)|9 (-1)|12 (+1)|8 (-1)|
+>___
+> - **Senses** passive Perception 11
+> - **Languages** -
+> - **Challenge** 2 (450 XP)
+> ___
+>
+> ### Actions
+> ***Multiattack.*** The wyvern makes two attacks: one bite attack and one sting attack.
+> 
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
+*Hit:* 6 (1d6 + 3) piercing damage.
+>
+> ***Sting.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target.
+*Hit:* 6 (1d6 + 3) piercing damage plus 3 (1d6) poison damage.

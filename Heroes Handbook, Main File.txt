@@ -7334,7 +7334,7 @@ Your hide toughens, improving your ability to shrug off attacks. You gain the fo
 </div>
 
 <style> .phb#p130:after { display:none; } </style>
-<img src='https://www.gmbinder.com/images/Mpqbq5k.jpg' style='position:absolute; top:0px; right:-230px; width:1250px' />
+<img src='https://static.wikia.nocookie.net/wowpedia/images/1/17/Troll_Wars_magi.jpg/revision/latest?cb=20160317181755' style='position:absolute; top:0px; right:-230px; width:1250px' />
 
 \pagebreak
 

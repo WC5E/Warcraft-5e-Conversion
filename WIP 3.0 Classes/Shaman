@@ -1,0 +1,948 @@
+<style>
+/* GLOBAL FORMATTING  */
+
+  /* Resize page to international A4 */
+  .phb {
+    width: 210mm;
+    height: 296.8mm;
+  }
+  .phb:after { content: ""; }
+
+
+/* TABLE OF CONTENTS  */
+
+  /* toc specifically wants black text. This resets the headers*/
+  .toc a {
+    color: inherit !important;
+  }
+  /* Allow dot leaders to fill remaining space but not overlap */
+  .toc li span:nth-child(2) {
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+  }
+  .toc li span:nth-child(2):after {
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    content:
+      " ........................................"
+      "........................................."
+      ".........................................";
+    }
+
+  /* Style TOC page numbers*/
+  .toc li span:first-child {
+    float: right;
+    font-family: BookSanity;
+    font-size: 0.317cm;
+    font-weight: normal;
+    color: black;
+    margin-left: 1px;
+  }
+
+  /* Adjust TOC H3 styles */
+  .toc li h3 span:nth-child(2):after {
+  	content: " ";
+  }
+  .toc li h3 {
+    margin-bottom: 4px !important;
+    margin-top: 10px !important;
+    line-height: initial !important;
+  }
+  .toc li h3 span:first-child {
+  	line-height: 1.8em !important;
+  }
+
+  /* Reduce TOC list indentation*/
+  .toc ul ul {
+  	margin-left: 10px !important;
+  }
+  .toc>ul>li {
+    margin-bottom: initial !important;
+  }
+
+
+/* TABLES AND BLOCKS */
+
+  /* Clear internal padding and add gap above for green note blocks*/
+  .phb blockquote {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .phb blockquote { margin-top: 1em;
+  }
+
+
+/* INK BLOT STYLES */
+
+  /* Root style for inkblots. Use alone, or together with
+  one of the inkb lotstyle classes below. Essentially:
+  <img url='{url}' class='inkblot inkblot-blue' />
+  */
+  .inkblot {
+    position: absolute;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+
+  .inkblot-blue {
+    filter: hue-rotate(190deg) saturate(120%)
+  }
+
+  .inkblot-green {
+    filter: hue-rotate(120deg)
+  }
+
+</style>
+
+<style>
+/* Background */
+  .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
+  .phb{ background-size: cover }
+
+/* Notes */
+  .phb section blockquote {background-color: #f6e5d4}
+  .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
+
+/* Tables */
+  table tr:nth-child(odd) td {background-color: #cccccc}
+
+/* Footer */
+  .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
+  .phb .footnote {color: rgba(0, 0, 0, 0.5)}
+  .phb:nth-child(odd):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : 10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
+    background-size  : cover;
+}
+
+.phb:nth-child(even):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : -10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
+    background-size  : cover;
+}
+
+/* Page Number */
+.phb .pageNumber{
+    position   : absolute;
+    bottom     : 30px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber{
+    right      : 12px;
+}
+
+.phb .pageNumber.auto{
+    position   : absolute;
+    bottom     : 41px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber.auto{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber.auto{
+    right      : 12px;
+}
+
+/* INK BLOT STYLES */
+
+  /* Root style for inkblots. Use alone, or together with
+  one of the inkb lotstyle classes below. Essentially:
+  <img url='{url}' class='inkblot inkblot-blue' />
+  */
+  .inkblot {
+    position: absolute;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+
+  .inkblot-blue {
+    filter: hue-rotate(190deg) saturate(120%)
+  }
+
+  .inkblot-green {
+    filter: hue-rotate(120deg)
+  }
+
+</style>
+
+<div style='margin-top:505px;'></div>
+
+## Shaman
+*The wolves are not tamed, not as you might understand the word. They have come to be our friends because I invited them. It is a part of being a shaman. We have a bond with the things of the natural world, and strive always to work in harmony with them. Warlocks would term them spells, but we shamans simply term them calls. We ask, the powers we work with answer. Or not, as they will. I can call the snows, and wind, and lightning. The trees may bend to me when I ask. The rivers may flow where I ask them to.*
+<div style="text-align:Right">
+
+*— Drek'Thar of the Frostwolf clan*  </div>
+
+An orc clad in loose plates chained together stands atop a lonely peak, the winds picking up around him, rattling through the chains of his armor, before he releases a glist&shy;ening bolt of lightning toward his enemies.
+
+A gray haired dwarf slowly lumps his way across the battlefield, emptying a bottle of water into the earth as he walks, before lifting it from the soil, and gently waves it over the body of a wounded ally, soothing his grave wounds.
+
+A human sprinting through the thicket, a pair of massive wolves of spectral vision running at his side. In the flash of a moment he howls as his body turns into a wolf of similar visage to his pets.
+
+Shamans are mortal mediators between the elements themselves. Often a spiritual guide in their community, these mystical figures may commune with ancestral spirits and weave elemental powers into their spells. Both to strengthen and heal their allies, and to strike down on the battlefield with devestating force. Shamans can imbue their weapons with the elements, smite their enemies with storm and fire, and summon forth elementals to their aid.
+
+\columnbreak
+
+<div style='margin-top:340px;'></div>
+
+### Herald of the Elements
+A Shaman's bond to their magic is unique. While a mage would study it in great depth, and a warlock would bend those same power to their whim, a shaman calls upon the elements themselves for aid. They commune with forces not strictly benevolent -- sometimes they may respond, and sometimes they may choose not to. The elements are chaotic, chained away in their elemental plane as they rage against one another with unending primal fury. It is the call of the shaman to bring balance to this chaos.
+
+These masters of the elements can also call upon ele&shy;mental forces directly, unleashing torrents of lava and bolts of lightning against foes. The elements can create, destroy, support, and hinder. An experienced shaman balances the vast spectrum of these primordial forces into an array of diverse abilities, making shaman versatile adventurers and valued members of any group.
+
+### Respected and Feared
+Since the early days of mortal life both Azeroth and Draenor, the elements of have been both feared and wor&shy;shiped. Mystics have sought to commune with them, to tap into the raw power of earth, air, fire, and water. In time, these spiritual guides have come to understand that the depth and gravity of the powers they wield. That the ele&shy;ments are not wholly benevolent, but rather a torrent of neverending conflict, as the elemental lord vie for control. The calling of the shaman is as a conduit of these volatile energies, leveraging them both to heal and to harm.
+
+### Creating a Shaman
+When creating a  shaman, consider how your bond with the elements have affected your personality and your view of the world. Although shamans resonate with all four primary elements, some tend to outwardly display aspects of one over the rest. 
+
+Shamans who lean towards fire might be impatient, temperamental, or bursting with energy in all they do. Shamans who lean toward water are adaptable, chaotic, and tend to go with the flow. 
+
+Those who favor earth are typically lawful, stalwart, and stubborn. And shaman who favor air are often aloof, distant, and  the most neutral in their arbitrations. 
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/08Vyjyt.jpg' style='position:absolute; top:0px; right:-200px; width:1000px' />
+<img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute; top:-40px; right:0px; width:900px; transform:scaley(-1)' />
+<img src='https://www.gmbinder.com/images/o5JVP3V.png' style='position:absolute; top:0px; right:400px; width:550px; transform:scalex(-1)' />
+
+\pagebreakNum
+
+<div class='classTable wide'>
+
+##### The Shaman
+|Level|Proficiency<br>Bonus|Features|Cantrips<br>Known|&nbsp;|Spells<br>Known|&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;| 6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th <div style="position: absolute; top:100px; right:95px; width:200px; height:25px">—Spell Slots per Spell Level—</div>|
+|:---:|:--:|:----------------------------|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|
+| 1st | +2 | Kalimag, Spellcasting                               |2|| 4||2||—||—||—||—||—||—||—||—|
+| 2nd | +2 | Totemist (2/rest), <br> Elemental Attunement        |2|| 5||3||—||—||—||—||—||—||—||—|
+| 3rd | +2 | Shamanic Binding                                    |2|| 6||4||2||—||—||—||—||—||—||—|
+| 4th | +2 | Ability Score Improvement                           |3|| 7||4||3||—||—||—||—||—||—||—|
+| 5th | +3 | Spirit Beast                                        |3|| 8||4||3||2||—||—||—||—||—||—|
+| 6th | +3 | Shamanic Binding feature                            |3|| 9||4||3||3||—||—||—||—||—||—|
+| 7th | +3 | —                                                   |3||10||4||3||3||1||—||—||—||—||—|
+| 8th | +3 | Ability Score Improvement                           |3||11||4||3||3||2||—||—||—||—||—|
+| 9th | +4 | Elemental Attunement improvement                    |3||12||4||3||3||3||1||—||—||—||—|
+| 10th| +4 | Totemic Projection, <br> Totemist (3/rest)          |4||14||4||3||3||3||2||—||—||—||—|
+| 11th| +4 | —                                                   |4||15||4||3||3||3||2||1||—||—||—|
+| 12th| +4 | Ability Score Improvement                           |4||15||4||3||3||3||2||1||—||—||—|
+| 13th| +5 | Far Sight                                           |4||16||4||3||3||3||2||1||1||—||—|
+| 14th| +5 | Shamanic Binding feature                            |4||18||4||3||3||3||2||1||1||—||—|
+| 15th| +5 | —                                                   |4||19||4||3||3||3||2||1||1||1||—|
+| 16th| +5 | Ability Score Improvement                           |4||19||4||3||3||3||2||1||1||1||—|
+| 17th| +6 | —                                                   |4||20||4||3||3||3||2||1||1||1||1|
+| 18th| +6 | Totemist (4/rest)                                   |4||22||4||3||3||3||3||1||1||1||1|
+| 19th| +6 | Ability Score Improvement                           |4||22||4||3||3||3||3||2||1||1||1|
+| 20th| +6 | Shamanic Binding feature                            |4||22||4||3||3||3||3||2||2||1||1|
+</div>
+
+&nbsp;&nbsp;&nbsp; Think about your bond with your totems and how they represent the elemental planes from which you gain your power. Are they simply tools to you for channelling raw planar power, or are they sacred and worthy of reverence? 
+
+Do they act as representations of a favored element, or do you use them to keep that element in check? How a shaman perceives their connection to the elemental planes is often reflected in the totems they summon forth.
+
+#### Optional Rule: Multiclassing
+If your group uses the optional rule on multiclassing in the *Player's Handbook*, here's what you need to know if you choose shaman as one of your classes.
+
+***Ability Score Minimum.*** As a multiclass character, you must have at least a Wisdom score of 13 to take a level in this class, or to take a level in another class if you are already a shaman.
+
+***Proficiencies Gained.*** If shaman isn't your initial class, here are the proficiencies you gain when you take your first level as a shaman: light armor, medium armor, shields, simple weapons.
+
+***Spell Slots.*** Add your levels in the shaman class (or half your levels if you choose the Enhancement subclass) to the appropriate levels from other class to determine your available spell slots.
+
+\columnbreak
+
+#### Quick Build
+You can make a shaman quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. If you intend to engage in melee combat regularly, make Strength or Dexterity your second highest ability score instead.
+
+## Class Features
+As a shaman, you gain the following class features.
+
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per shaman level
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per shaman level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor, medium armor, shields
+- **Weapons:** Simple weapons
+- **Tools:** Herbalism kit
+___
+- **Saving Throws:** Strength, Wisdom
+- **Skills:** Choose two from Animal handling, Arcana, History, Insight, Medicine, Nature, Perception, and Survival
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+ - *(a)* hide armor or *(b)* leather armor
+ - *(a)* a mace and shield or *(b)* two simple weapons
+ - *(a)* a dungeoneer's pack or *(b)* an explorer's pack
+ - a druidic focus
+
+<div style='margin-top:-3px;'></div>
+
+### Kalimag
+You know Kalimag, the language of elementals. You can speak the language and use it to leave messages in rocks and pools of water that only you and other shamans spot. The messages are spoken as through a *sending* spell, with the limitations that come of that spell.
+<div style='margin-top:-3px;'></div>
+
+### Spellcasting
+Drawing on the elements themselves, you can manifest them into casting spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the shaman spell list.
+
+#### Cantrips
+You know two cantrips of your choice from the shaman spell list. You learn additional shaman cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Shaman table.
+
+#### Spell Slots
+The Shaman table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a spell slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+#### Spells Known of 1st Level and Higher
+You know four 1st-level spells of your choice from the shaman spell list.
+
+The Spells Known column of the Shaman table shows when you learn more shaman spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the shaman spells you know and replace it with another spell from the shaman spell list, which also must be of a level for which you have spell slots.
+
+#### Spellcasting Ability
+Wisdom is your spellcasting ability for your shaman spells, since your power comes from the elements and spirits. You use your Wisdom whenever a shaman spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a shaman spell you cast and when making an attack roll with one.
+
+<div style="text-align: Center">
+
+**Spell save DC** = 8 + your proficiency bonus + <br> your Wisdom modifier
+
+**Spell attack modifier** = your proficiency bonus + <br> your Wisdom modifier
+</div>
+
+#### Ritual Casting
+You can cast a shaman spell you know as a ritual if that spell has the ritual tag.
+
+#### Spellcasting Focus
+You can use a druidic focus as a spellcasting focus for your shaman spells.
+
+\columnbreak
+
+### Totemist
+Starting at 2nd level, you can use your bonus action to channel elemental forces into a Small totem in an empty space on a horizontal surface within 15 feet of you. 
+
+The totem is a magical object that occupies its space. It has an AC of 15 and a number of hit points equal to twice your shaman level. It is immune to poison damage, psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). The totem disappears if it is reduced to 0 hit points or after 1 minute. You can dismiss it early as a bonus action.
+
+You can use your reaction to cause the totem to activate if you are within 60 feet of it and choose one of its powers to take effect. Your totem starts with two such powers: Elemental Resistance and a power determined by your Elemental Attunement. Your totem gains an additional power at 3rd level, determined by your shamanic binding.
+
+You can use your Totemist feature twice between rests. You regain all spent uses after finishing a short or long rest. You can summon an additional totem between rests when you reach 10th level, and again at 18th level.
+<div style='margin-top:-6px;'></div>
+
+***Totem Power: Elemental Resistance.*** You can activate the totem when a creature within 15 feet it takes acid, cold, fire, lightning, or thunder damage, giving them resistance to that type of damage until the end of the next turn.
+
+### Elemental Attunement
+Starting at 2nd level, you attune yourself to a force of the elemental plane. Choose one of the following options. You cannot take an Elemental Attunement option more than once, even if you later get to choose again. 
+
+#### Attunement of Air
+Your movement speed is increased by 5 feet and you may add your proficiency bonus to your initiative.
+
+At 9th level, you gain resistance to lightning damage.
+<div style='margin-top:-6px;'></div>
+
+***Totem Power: Grace of Air.*** You can activate the totem when a creature within 15 ft. of it makes a Dexterity check or saving throw, giving them advantage on their roll.
+
+#### Attunement of Earth
+You gain proficiency in Constitution saving throws.
+
+At 9th level, you gain resistance to acid damage.
+<div style='margin-top:-6px;'></div>
+
+***Totem Power: Strength of Earth.*** You can activate the totem when a creature within 15 ft. of it makes a Strength check or saving throw, giving them advantage on their roll
+
+#### Attunement of Fire
+When you hit a creature with an attack roll that is unable to hit more than one creature, you may deal additional fire damage to it equal to your profici&shy;ency bonus. You may use this attunement once per turn.
+
+At 9th level, you gain resistance to fire damage.
+<div style='margin-top:-6px;'></div>
+
+***Totem Power: Flametongue.*** You can activate the totem when a creature within 15 ft. of it makes a Charisma check or saving throw, giving them advantage on their roll.
+
+#### Attunement of Water
+You know a number of additional shaman spells of 1st level or higher equal to your proficiency bonus.
+
+At 9th level, you gain resistance to cold damage.
+<div style='margin-top:-6px;'></div>
+
+***Totem Power: Cleansing Stream.*** You can activate the totem when a creature within 15 ft. of it makes a Wisdom check or saving throw, giving them advantage on their roll.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+### Shamanic Binding
+At 3rd level, you choose a shamanic binding, shaping your approach to the forces of the elements. Choose Elemental, Enhancement, or Restoration, each of which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 14th, and 20th level.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Spirit Beast
+At 5th level, you earn the favor of a spirit beast and are able to assume its spectral visage. Choose a Medium or Small beast without a fly or swim speed to represent your spirit.
+
+You can use your action to assume the illusionary visage of your spirit beast. This visage has no effect on your game statistics except changing your movement speed to 50 feet.
+
+You remain transformed until you cast a spell, make an attack, or use your bonus action to revert back to yourself.
+
+### Totemic Projection
+At 10th level, you are able to channel elemental forces into a totem at greater lengths, increasing the distance at which you can summon your totem to 30 feet and while you are within 60 feet of your totem, you may use a bonus action to move the totem to an empty space within range as if you had summoned it anew.
+
+Additionally, you are able to manifest simple yet effective spells through your totem. You can use your action to cast a shaman cantrip with a range of 5 feet or more through the totem, as though you were in space of the totem.
+
+### Far Sight
+Beginning at 13th level, you are able to hone your sight and focus it upon a creature that you have seen before. By performing a 10 minute ritual, you can attempt to cast the *scrying* spell without providing material components. Roll a percentile dice, if the result is less than your Shaman level, you cast the *scrying* spell.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+## Shamanic Binding
+Shamans strive to deepen their understanding and connec&shy;tion with the elements, often forming a bond with it for life. Some prefer a more brutal approach as they rein in the powers of fire and earth for physical combat, or the forces of fire and air to fight at range. Others in turn, prefer a subtle approach of peace and meditation, bending water and air to their will. You attune with one of these groups.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/QVJZTHd.jpg' style='position:absolute; top:0px; right:-200px; width:880px' />
+<img src='https://www.gmbinder.com/images/E8GrMME.png' style='position:absolute; top:0px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/GJ0XjPx.png' style='position:absolute; top:910px; right:420px; width:250px' />
+
+\pagebreakNum
+
+### Elemental
+Through careful study and dedication, elemental shamans are able to channel the volatile energy of the Elemental Plane into destructive magical surges. Through their body flows bolts of lightning, as if from storm, and bursts of fire, as if from molten earth. To battle an elemental shaman is to taunt the very forces of nature.
+
+#### Totem Power
+When you choose this binding at 3rd level, you gain the following Totem Power.
+<div style='margin-top:-6px;'></div>
+
+***Totem Power: Tranquil Mind.*** You can activate the totem when a creature within 15 feet of it is forced to make a Constitution saving throw to main&shy;tain concentration, giving them advantage on the saving throw.
+
+#### Elemental Fury
+Starting at 3rd level, when you cast a spell that deals acid, cold, fire, lightning, or thunder damage, you can subsitute that damage type with one other type from the list (you can change only one damage type per casting of a spell). 
+
+#### Binding Spells
+Your attunement to the Elemental Plane infuses you with the ability to cast certain spells. You learn additional spells connected to your Elemental Attunement when you reach certain levels in this class, as shown in your elements Spell table. The spell counts as a shaman spell for you, but it doesn’t count against the number of shaman spells you know. These spells can’t be replaced when you gain a level in this class.
+
+#### Echo of the Elements
+At 6th level, when you roll damage for a shaman spell, you may reroll a number of dice up to your Wisdom modifier and use either roll.
+
+You can use this feature a number of times equal to your Wisdom modifier. You regain expended uses when you finish a long rest.
+
+#### Primal Sanctuary
+Upon reaching 14th level, elemental creatures of the world sense your connection the Elemental Plane and become hesitant to attack you. When an elemental creature attacks you, that creature must make a Wisdom saving throw against your shaman spell save DC. On a failed save, the creature must choose a different target, or the attack auto&shy;matically misses. On a successful save, the creature is immune to this effect for 24 hours.
+
+The creature is aware of this effect before it makes its attack against you.
+
+#### Ascendance
+At 20th level, you can assume the form of an elemental ascendant. Using your action, you undergo a transforma&shy;tion. For 1 minute, you gain the following benefits.
+
+- You gain immunity to damage dealt by the damage type of your elemental attunement.
+- When you reroll a dice with your Echo of the Elements feature, you add both dice results to the spell's damage.
+- You can use your reaction when hit by a melee attack to cause the attacker to take damage of your elemental attunement's type equal to your shaman level. 
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+\columnbreak
+
+##### Air
+|&nbsp; Shaman Level  | Binding Spells |
+|:---------:|:-------------------------|
+|&nbsp; 3rd | *dust devil ^XGE^, warding wind ^XGE^* |
+|&nbsp; 5th | *call lightning, wind wall* |
+|&nbsp; 7th | *freedom of movement, storm sphere ^XGE^* |
+|&nbsp; 9th | *conjure elemental (air), control winds ^XGE^* |
+<div style='margin-top:-5px;'></div>
+
+##### Earth
+|&nbsp; Shaman Level  | Binding Spells |
+|:---------:|:-------------------------|
+|&nbsp; 3rd | *earthen grasp ^XGE^, shatter* |
+|&nbsp; 5th | *✦ earthen spike, erupting earth ^XGE^* |
+|&nbsp; 7th | *hallucinatory terrain, stoneskin* |
+|&nbsp; 9th | *conjure elemental (earth), wall of stone* |
+<div style='margin-top:-5px;'></div>
+
+##### Fire
+|&nbsp; Shaman Level  | Binding Spells |
+|:---------:|:-------------------------|
+|&nbsp; 3rd | *heat metal, ✦ lava burst* |
+|&nbsp; 5th | *daylight, minute meteors ^XGE^* |
+|&nbsp; 7th | *fire shield, wall of fire* |
+|&nbsp; 9th | *conjure elemental (fire), flame strike* |
+<div style='margin-top:-5px;'></div>
+
+##### Water
+|&nbsp; Shaman Level  | Binding Spells |
+|:---------:|:-------------------------|
+|&nbsp; 3rd | *aid, lesser restoration* |
+|&nbsp; 5th | *✦ chain heal, wall of water ^XGE^* |
+|&nbsp; 7th | *control water, death ward* |
+|&nbsp; 9th | *conjure elemental (water), maelstrom ^XGE^* |
+<div style='margin-top:-5px;'></div>
+
+*✦ New spells can be found in chapter 6 later in this book* 
+
+### Enhancement
+Intense communion with fire, earth, air, and water isn’t exclusive to the elemental shaman. In many ways, enhance&shy;ment shaman similarly bond with nature and leverage its power on the battlefield. These shaman favor empowering their physical attacks with elemental energies and facing their adversaries up close. 
+
+#### Totem Power
+When you choose this binding at 3rd level, you gain the following Totem Power.
+<div style='margin-top:-6px;'></div>
+
+***Totem Power: Windfury.*** You can activate this totem when a creature within 15 feet of it misses a target with a melee weapon attack, that creature may immediately attempt the same weapon attack against the target.
+
+#### Bonus Proficiency
+At 3rd level, you gain proficiency with martial weapons and you can use a simple or martial weapon as a spellcasting focus for your shaman spells.
+
+#### Martial Calling
+Starting at 3rd level, you refer to the Enhancement Spell&shy;asting table to determine your cantrips, spells known, and spell slots whenever you gain a level in this class. You also count as a *half-caster* for determining available spell slots when multiclassing with other classes.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+<div class='classTable'>
+
+##### Enhancement Spellcasting
+|Shaman <br> Level|Cantrips<br>Known|Spells<br>Known|&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|
+|:---:|:-:|:--:|-|:--:|-|:--:|-|:--:|-|:--:|-|:--:|
+| 3rd | 2 | 5||3||—||—||—||—|
+| 4th | 2 | 5||3||—||—||—||—|
+| 5th | 2 | 5||4||2||—||—||—|
+| 6th | 2 | 6||4||2||—||—||—|
+| 7th | 2 | 6||4||3||—||—||—|
+| 8th | 2 | 6||4||3||—||—||—|
+| 9th | 2 | 7||4||3||2||—||—|
+| 10th| 3 | 7||4||3||2||—||—|
+| 11th| 3 | 7||4||3||3||—||—|
+| 12th| 3 | 8||4||3||3||—||—|
+| 13th| 3 | 8||4||3||3||1||—|
+| 14th| 3 | 8||4||3||3||1||—|
+| 15th| 3 | 9||4||3||3||2||—|
+| 16th| 3 | 9||4||3||3||2||—|
+| 17th| 3 |10||4||3||3||3||1|
+| 18th| 3 |10||4||3||3||3||1|
+| 19th| 3 |11||4||3||3||3||2|
+| 20th| 3 |11||4||3||3||3||2|
+</div>
+
+#### Maelstrom
+Also at 3rd level, you are able to harness the forces of the maelstrom and channel them into your weapons.
+
+***Maelstrom Points.*** You have a number of maelstrom points equal to half your shaman level (rounded up). You can spend these points to fuel various weapon strikes. When you spend a maelstrom point, it is unavailable until you finish a short or long rest, at the end of which you draw upon its energies and regain all expended maelstrom.
+
+***Weapon Strikes.*** You know two weapon strikes of your choice, which are detailed under "Weapon Strikes" below. Weapon strikes enhance an attack in some way. You can only use one strike per attack unless otherwise noted.
+
+You learn an additional weapon strike of your choice at 7th, 11th, and 15th level. Each time you learn a new weapon strike, you can also replace one weapon strike you know with a different one.
+
+***Saving Throws.*** Some of your strikes require your target to make a saving throw to resist the strike's effect. The saving throw DC is equal to your spell save DC.
+
+#### Extra Attack
+Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+#### Shamanic Vigor
+Starting at 9th level, you can cast *bloodlust and heroism* without expending a spell slot. Once you cast *bloodlust and heroism* this way, you can't do so again until you finish a long rest.
+
+\columnbreak
+
+<br>
+
+#### Elemental Fusion
+Upon reaching 14th level, you can choose a second option from the Elemental Attunement class feature.
+
+#### Enhancing Elements
+At 20th level, you are able to draw upon the energies of your attuned elements, gaining the following benefits depending on your Elemental Attunements.
+
+***Air.*** Your Dexterity score increases by 2 and your maximum ability score for it is now 22.
+
+***Earth.*** Your Strength score increases by 2 and your maximum ability score for it is now 22.
+
+***Fire.*** Your Charisma score increases by 2 and your maximum ability score for it is now 22.
+
+***Water.*** Your Wisdom score increases by 2 and your maximum ability score for it is now 22.
+
+## Weapon Strikes
+The weapon strikes are presented in alphabetical order.
+
+***Bouldering Strike.*** When you hit a creature with a weapon attack, you can spend 1 maelstrom point to force it to make a Strength saving throw. On a failure it is pushed 15 feet directly away from you.
+
+***Crashing Strike (Requires 7th level).*** When you hit a creature with a weapon attack, you can spend 3 maelstrom points to attempt a crashing blow. The creature must succeed on a Constitu&shy;tion saving throw or be incapacitated until the start of your next turn.
+
+***Elemental Lash.*** When you hit a creature with a 
+<br> weapon attack, you can spend 1 maelstrom point to lash out with the elements on a different creature of your choice within 15 feet of it. The second creature must succeed on a Dexterity saving throw or take 1d10 of your Elemental Attunement's damage type. You choose which of your Ele&shy;mental Attunements' damage type to lash out with when you activate this strike.
+
+***Elemental Strike.*** When you take the Attack action, you can spend 1 maelstrom point to wreathe your attacks in the element of your Elemental Attunement until the end of your turn. Each attack deals an additional 1d4 damage of your elemental attunement's type on a hit. You choose which of your Elemental Attunements' damage type to lash out with when you activate this strike.
+
+You can use Elemental Strike in combination with another strike when you make an attack.
+
+***Frostbrand.*** When you hit a creature with a weapon attack, you can spend 1 maelstrom point to attempt a frost&shy;branding strike. The target must succeed on a Constitution saving throw or have disadvantage on weapon attacks until the end of its next turn.
+
+***Maelstrom Strike.*** When you take the Attack action, you can spend 1 maelstrom points to make all of your weapon attacks count as magical until the end of your turn.
+
+You can use Maelstrom strike in combination with another strike when you make an attack.
+
+***Rockbite.*** When you hit a creature with a weapon attack, you can spend 1 maelstrom point to attempt a rockbiting blow. The target must succeed on a Strength saving throw or be knocked prone.
+
+***Stormstrike.*** When you hit a creature with a weapon attack, you can spend 1 maelstrom point to crack lightning across them. The creature must succeed on a Constitution saving throw or be unable to take reactions until the start of your next turn.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+### Restoration
+Some shaman find serenity in the restorative properties of water. They do not seek the Light or turn to the divine, yet they feel a profound spiritual connection to the source of mortal life. So strong is their connection to water that the shaman may draw on its power to restore life and heal afflictions, like a tidal wave across a sandy shore. They balance their charge with the other elements, striving for balance and harmony.
+
+#### Totem Power
+When you choose this binding at 3rd level, you gain the following Totem Power.
+<div style='margin-top:-6px;'></div>
+
+***Totem Power: Riptide.*** You can activate this totem when a creature within 15 feet of it casts a spell or uses an ability that restores hit points, causing the totem to riptide onto a creature of your choice within 15 feet of it. That creature regains hit points equal to your Wisdom modifier.
+
+#### Ancestral Guidance
+Starting at 3rd level, your restorative spells are guided by the hand of your ancestors. Whenever you use a spell of 1st level or higher to restore hit points to a creature and roll a 1 or 2, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+
+#### Nullifying Forces
+At 6th level, you are able to draw upon the elements to disrupt the spellwork of others. When you cast a spell that targets a friendly creature, you may also attempt to end one spell effect that is currently affecting them. If the spell slot of the effect is of equal or lower level than spell slot of your spell, the effect ends. Otherwise you must make a Wisdom check (DC 10 + the spell's level) to end it.
+
+You can use this feature twice. You regain expended uses when you finish a long rest.
+
+\columnbreak
+
+<div style='margin-top:30px;'></div>
+
+#### Elemental Boon
+Upon reaching 14th level, you can use your bonus action to grant a creature within 30 feet of you a boon of your Ele&shy;menetal Attunement. Once within the next 10 minutes, the creature can call upon the element and gain its benefits.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+<div style='margin-top:10px;'></div>
+
+&nbsp;&nbsp;&nbsp; ***Air.*** The creature can call upon this boon when it is targeted by a weapon attack, making the attack roll miss. The creature can use this feature before or after the roll, but before any effect of the roll is applied.
+
+***Earth.*** The creature can call upon this boon when it is hit by an attack, gaining a number of temporary hit points equal to your shaman level. These hit points lasts until the end of the next turn.
+
+***Fire.*** The creature can call upon this boon when it is hit by a melee attack, to wreathe the attacking creature in fire. The creature must succeed on a Dexterity saving throw or take fire damage equal to your shaman level.
+
+***Water.*** The creature can call upon this boon when it is targeted by an attack or spell. Until the end of the next turn, the creature cannot be targeted by any attack or spell and the attacking creature must choose another target or lose their action. The creature still takes damage from things such as a *fireball* spell.
+
+#### Wellspring
+At 20th level, you become a fount of restorative energies through the forces of the Elemental Plane. When you would normally roll one or more dice to restore hit points with a spell, you instad use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12 hit points.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/owfSJiy.jpg' style='position:absolute; top:590px; right:-200px; width:1000px' />
+<img src='https://www.gmbinder.com/images/wvTUmvu.png' style='position:absolute; top:0px; right:0px; width:1000px' />
+
+\pagebreakNum
+
+<div style='column-count:2'>
+
+### Shaman Spells
+##### Cantrips (0 Level)
+Booming Blade ^SCAG^
+<br> Control Flames ^XGE^
+<br> Create Bonfire ^XGE^
+<br> Fire Bolt
+<br> Frostbite ^XGE^
+<br> Gust ^XGE^
+<br> ✦ Invoke Elements
+<br> ✦ Lightning Blast
+<br> Lightning Lure ^SCAG^
+<br> Mending
+<br> Mold Earth ^XGE^
+<br> Produce Flame
+<br> Shape Water ^XGE^
+<br> Shocking Grasp
+<br> Thunderclap ^XGE^
+
+##### 1st Level
+Absorb Elements ^XGE^
+<br> Create or Destroy Water
+<br> Cure Wounds
+<br> Detect Magic
+<br> Detect Poison and Disease
+<br> Earth Tremor ^XGE^
+<br> ✦ Elemental Shock
+<br> Fog Cloud
+<br> ✦ Lightning Shield
+<br> Searing Smite
+<br> Thunderous Smite
+<br> Thunderwave
+
+##### 2nd Level
+Augury
+<br> Continual Flame
+<br> Dust Devil ^XGE^
+<br> Gust of Wind
+<br> Healing Spirit ^XGE^
+<br> Heat Metal
+<br> ✦ Lava Burst
+<br> Lesser Restoration
+<br> Maximilian's <br>&nbsp;&nbsp;&nbsp; Earthen Grasp ^XGE^
+<br> Protection from Poison
+<br> Shatter
+<br> Skywrite ^XGE^
+<br> Warding Wind ^XGE^
+
+##### 3rd Level
+Call Lightning
+<br> ✦ Chain Heal
+<br> Counterspell
+<br> Dispel Magic
+<br> ✦ Earthen Spike
+<br> Erupting Earth ^XGE^
+<br> Lightning Bolt
+<br> Magic Circle
+<br> Meld Into Stone
+<br> Protection from Energy
+<br> Revivify
+<br> Spirit Guardians
+<br> Thunder Step ^XGE^
+<br> Tidal Wave ^XGE^
+
+\columnbreak
+
+<div style='margin-top:28px;'></div>
+
+<br> Wall of Water ^XGE^
+<br> Water Breathing
+<br> Water Walk
+<br> Wind Wall
+
+##### 4th Level
+Conjure Minor Elementals
+<br> Control Water
+<br> Elemental Bane ^XGE^
+<br> Freedom of Movement
+<br> Locate Creature
+<br> Polymorph
+<br> Stone Shape
+<br> Stoneskin
+<br> Storm Sphere ^XGE^
+<br> Wall of Fire
+<br> Watery Sphere ^XGE^
+
+##### 5th Level
+✦ Bloodlust and Heroism
+<br> Commune with Nature
+<br> Conjure Elemental
+<br> Control Winds ^XGE^
+<br> Greater Restoration
+<br> ✦ Healing Rain
+<br> Legend Lore
+<br> Maelstrom ^XGE^
+<br> Mass Cure Wounds
+<br> ✦ Reincarnation
+<br> Scrying
+<br> Steel Wind Strike ^XGE^
+<br> Wall of Stone
+
+##### 6th Level
+Bones of the Earth ^XGE^
+<br> Chain Lightning
+<br> Flesh to Stone
+<br> Investiture of Stone ^XGE^
+<br> Investiture of Wind ^XGE^
+<br> Move Earth
+<br> Primordial Ward ^XGE^
+<br> Wind Walk
+
+##### 7th Level
+Etherealness
+<br> Prismatic Spray
+<br> Regenerate
+<br> Whirlwind ^XGE^
+
+##### 8th Level
+Antimagic Field
+<br> ✦ Cataclysm
+<br> Control Weather
+<br> Earthquake
+<br> Tsunami
+
+##### 9th Level
+Foresight
+<br> Imprisonment
+<br> Mass Heal
+<br> Storm of Vengeance
+<br> True Resurrection
+<div style='margin-top:1000px;'></div>
+</div>
+
+\columnbreak
+
+#### Bloodlust and Heroism
+*5th-level enchantment*
+___
+- **Casting Time:** 1 action
+- **Range:** self (30-feet radius)
+- **Components:** V, S
+- **Duration:**  Concentration, up to 1 minute
+___
+You imbue creatures of your choice within range with the will and determination to fight harder. Each target gains the following benefits for the duration of the spell.
+
+- The target is immune to being frightened and any frightened condition on the target is surpressed for the spell's duration.
+- Whenever the target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
+- The target gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
+
+#### Cataclysm
+*8th-level conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 150 feet
+- **Components:** V, S, M (a piece of charcoal)
+- **Duration:** Concentration, up to 10 minutes
+___
+The ground cracks as fissures reveal molten magma beneath the surface in a 20-foot radius centered on a point within range. The fissures are harmless and too small to deal damage to any creature that moves over them.
+
+Once while you are concentrating on the spell, you can use your action to erupt the fissured in a torrent of flames until the spell ends or you use your bonus action to calm the fissures. Each creature in the area of the cataclysm must make a Constitution saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. 
+
+A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there.
+
+#### Chain Heal
+*3rd-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet (15-feet between targets)
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+A beam of restorative energies surges through a friendly creatures. Choose a target within range, then choose a target within range of it, and another within range of the second target. You can't choose the same target more than once. Each target chosen by this spell regains a number of hit points equal to 2d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the chain heal surges through one additional target for each slot level above 3rd.
+
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
+#### Earthen Spike
+*3rd-level transmutation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a granite pebble)
+- **Duration:** Concentration, up to 1 hour
+___
+You place your hand on the ground and evoke the element of earth, erupting a spike of earth at a point within range. A 5-foot radius, 15-foot high spike of earth erupts from that point. Each creature within that area must make a Dexterity saving throw. On a failed save, a creature takes 6d8 bludgeoning damage, or half as much damage on a success. Each creature affected by this spike is pushed away from the point of the spell to the nearest empty space. A creature who failed the saving throw falls prone.
+
+The earthen spike remains for the duration of the spell or until your concentration is broken at which point it crumbles, leaving its area as difficult terrain. When it crumbles, each creature within 5 feet of it must succeed on a Dexterity saving throw or take 1d6 bludgeoning damage. 
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
+
+#### Elemental Shock
+*1st-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a piece of brimstone, granite, glass, and a feather)
+- **Duration:** Instantaneous
+___
+You manifest a burst of elemental force around a creature within range. You choose acid, cold, fire, lightning, or thunder for the shock you make, the creature must then make a Dexterity saving throw. Taking 3d8 of the chosen damage type on a failed save, or half as much on a success.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+
+#### Healing Rain
+*5th-level transmutation*
+___
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, M (a vial of rain water)
+- **Duration:** Concentration, up to 1 minute
+___
+You summon a cloud at a point within range, blanketing a 15-foot radius area around it in rain. Each friendly creature enters the rain for the first time on their turn, or starts their turn within the rain regains 2d6 hit points. The healing rain extinguishes nonmagical fires within its area of effect.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the healing increases by 1d6 for every two slot levels above 5th.
+
+#### Invoke Elements
+*Transmutation cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Up to 1 minute
+___
+You invoke a minor portion of the elements. You create one of the following magical effects within range:
+
+ - You create a harmless sensory effect that predicts what the weather will be for the next 24 hours. This effect persists for 1 round.
+ - You light or put out a small flame.
+ - You cause flames to flicker, brighten, drim, or change color for 1 minute.
+ - You cause harmless tremors in the ground for 1 minute.
+ - You cool or heat up a small amount of liquid.
+
+If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
+
+#### Lava Burst
+*2nd-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+You manifest molten stone and magma into a ferocious ball, and hurl it at a target within range. The target must make a Dexterity saving throw. On a failed save, it takes 3d6 fire damage and 3d6 bludgeoning damage, or half as much on a successful one.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 fire and bludgeoning damage for each slot above 2nd.
+
+#### Lightning Blast
+*Evocation cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** S
+- **Duration:** Instantaneous
+___
+An arc of lightning streaks from your palms towards a creature within range. Make a ranged spell attack. On a hit, the target takes 1d8 lightning damage. If the target is wearing armor made of metal, it instead takes 1d12 lightning damage.
+
+This spell's damage increases by 1d8 when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
+
+#### Lightning Shield
+*1st-level abjuration*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** 60 feet
+- **Components:** S
+- **Duration:** Concentration, up to 10 minutes
+___
+You call upon the element of air and surround a friendly target within range with a field of crackling electricity. Until the spell ends, the target gains a +1 bonus to AC and when a creature hits it with a melee attack, that creature takes 1d4 lightning damage.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
+
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
+#### Reincarnation
+*5th-level necromancy*
+___
+- **Casting Time:** 10 minutes
+- **Range:** Self
+- **Components:** V, S, M (a bejeweled ankh worth 500 gp)
+- **Duration:** 10 days
+___
+You protect your soul with the power of the elements. If you die during the spell's duration, you are instantly returned to life with half your hit points and the material component is consumed. 
+
+This spell neutralizes any poisons and cures normal diseases afflicting you when you died. It doesn't, however, remove magical diseases, curses, and the like; if such effects aren't removed prior to dying, they still afflict you. 
+
+This spell closes all mortal wounds and restores any missing body parts.
+
+Coming back from the dead is an ordeal. You take a −4 penalty to all attack rolls, saving throws, and ability checks. Every time you finish a long rest, the penalty is reduced by 1 until it disappears.
+
+If you cast this spell again, the effect of any previously cast reincarnation spell ends. The spell ends prematurely <br> if its material component is ever not on your person.
+
+<div class='footnote'>PART 2 | SPELLS </div>

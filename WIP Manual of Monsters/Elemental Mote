@@ -1,0 +1,99 @@
+## Elemental Mote
+Elemental motes are the least of the elemental creatures. Typically they act as servitors to the higher elementals or as assistants to the creatures who summon them.
+
+***Elemental Fragments.*** [Explanation of source of motes. Sites of battles between shamans or mages, locations of powerful ley line or land energies, from the bodies of powerful elementals, etc.]
+
+***???.*** [Explanation that they lack the energy and substance of proper elementals, but their loose composition in comparison to proper elementals means that their energy can leak into similarly aligned creatures. It takes a strong connection for most of the motes. For example, a mote of air wouldn't benefit a flying creature just because of that, the creature would need to be deeply connected to the sky/air.]
+
+***???.*** [WORDS WORDS WORDS]
+
+\columnbreak
+___
+> ## Elemental Mote
+> *Small elemental, neutral*
+> ___
+> - **Armor Class** 11
+> - **Hit Points** 25 (10d6 - 10)
+> - **Speed** 20 ft., fly 20 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> | 8 (-1)|12 (+1)| 8 (-1)| 6 (-2)|10 (+0)| 6 (-2)|
+> ___
+> - **Damage Immunities** poison
+> - **Condition Immunities** poisoned
+> - **Senses** darkvision 60 ft., passive Perception 11
+> - **Languages** —
+> - **Challenge** 1/4 (50 XP)
+> ___
+> ***Elemental Aura.*** Creatures attuned to the mote's element that are within 10 feet of the mote can add 1d4 to an ability check of their choice once per turn.
+> 
+> ***Innate Spellcasting (Recharges on a Short or Long Rest).*** The mote can cast one cantrip or spell. Its spellcasting ability is Wisdom (save DC 10, +2 on attack rolls).
+>
+> ***Sacrificial Blessing.*** As long as the mote has at least 1 hit point left, it can choose to sacrifice itself to briefly bless a creature affected by its Elemental Aura. It immediately drops to 0 hit points and cannot be raised from the dead. The target creature can choose to spend this blessing to add 1d6 to one attack roll, ability check, or saving throw of its choice, once within the next 10 minutes. 
+> <br>   Each type of mote has an alternate use for their blessing, as noted in their description.
+> 
+> ### Actions
+> ***Slam or Touch.*** *Melee Weapon Attack.* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) damage of the elemental's type.
+>
+> ***Elemental Burst.*** 
+
+\pagebreakNum
+
+### Elemental Mote Types
+Elemental motes come in several types. Each one is slightly different than the other, with the differences noted below.
+
+#### Motes of Air
+A mote of air appears to be a very small dust devil. It is typically found in areas of high winds or where powerful air elementals perished.
+
+A mote of air has a fly speed of 40 feet, can cast *gust*, and deals bludgeoning damage with its slam attack. Creatures that benefit from its elemental aura include air elementals and most shamans and they can use its sacrificial blessing to take the Dash action as a bonus action. 
+
+#### Motes of Earth
+A mote of earth appears to be a small amount of orbiting pebbles and dust. It is typically found in areas of seismic disturbances or near a fallen earth elemental.
+
+A mote of earth has a burrow speed of 20 feet, has vulnerability to thunder damage, can cast *mold earth*, and deals bludgeoning damage with its slam attack. Creatures that benefit from its elemental aura include earth elementals, dwarves, and most shamans and they can use its sacrificial blessing to gain resistance to bludgeoning, piercing, or slashing damage dealt from one attack.
+
+#### Motes of Fire
+A mote of fire appears to be a flickering campfire suspended in midair. Usually it can be found around large forest fires or among the ashes of an extinguished fire elementals.
+
+A mote of fire has a movement speed of 40 feet, has vulnerability to cold damage, has the illumination (5 feet) and water susceptibility traits of a fire elemental, can cast *control flames*, and deals fire damage with its touch attack. Creatures that benefit from its elemental aura include fire elementals, fire mages, dark iron dwarves, and most shamans and they can use its sacrificial blessing to add 1d4 fire damage to all attacks they deal until the beginning of their next turn. 
+
+#### Motes of Harmony
+A mote of harmony looks like a blue cloud of gentle mist. Exclusive to Pandaria, these motes congregate around remote spiritual locations, such as shrines and Lorevaults.
+
+A mote of harmony has an alignment of neutral good and can cast the *calm emotions* spell. Instead of a slam or touch attack, it can deal 4 (1d6 + 1) psychic damage as a reaction whenever it is the sole target of an attack. A creature brought to 0 hit points by this attack is automatically stabilized. Good creatures benefit from its elemental aura and they can use its blessing to end one effect on themselves that is causing them to be charmed or frightened.
+
+#### Motes of Life
+A mote of life appears to be a green orb, pulsing with a heartbeat. It is found in locations overripe with life, such as swamps, and it often arises from the corpses of bog beasts and similar creatures.
+
+A mote of life has vulnerability to necrotic damage, can cast the *healing word* spell and deals radiant damage on its touch attack. Creatures who are not undead or constructs benefit from its elemental aura and they can use its sacrificial blessing to regain 2d4 + 2 hit points.
+
+\columnbreak
+
+#### Motes of Mana
+A mote of mana looks like a perfectly round blue orb. It can be found in areas where multiple ley lines overlap, or near the bodies of powerful arcane creatures such as mana wyrms.
+
+A mote of mana can cast *magic missile* and deals force damage with is touch attack. Creatures capable of casting 1st level or higher spells benefit from its elemental aura and can use its sacrificial blessing to regain one expended 1st level spell slot. A creature can only regain an expended spell slot once per long rest.
+
+#### Motes of Shadow
+A mote of shadow appears to be a black flame, sucking in light rather than emitting it. It is found exclusively in sites where powerful void energies have been released, such as from the destruction of voidwalkers.
+
+A mote of shadow an alignment of neutral evil, has vulnerability to radiant damage, can cast *cause fear*, and deals necrotic damage with its touch attack. Creatures attuned to death and the Void, such as undead, void elves, and priests, benefit from its elemental aura and they can use its sacrificial blessing as a free action when at 0 hit points to immediately return to 1 hit point. They can do so while unconscious and only once per long rest.
+
+#### Motes of Water
+A mote of water appears to be a floating bubble of crystal clear water. It can be found in areas of strong currents and tides, as well as lingering near the soaked ground left by the destruction of a water elemental.
+
+A mote of water has a swim speed of 20 feet, can cast *shape water*, and deals bludgeoning damage with its slam attack. Creatures that benefit from its elemental aura include water elementals and most shamans and they can use its blessing to gain resistance to fire against one attack that deals fire damage.
+
+> ##### By Your Powers Combined
+> When multiple elemental motes work together, they can combine to form into a greater elemental. If at least four elemental motes of the same type arrange in a 10 foot square and spend their turns this round using their action and movement to focus, they can combine to form another creature. This creature is at full health and has no conditions no matter the status of the motes. The kind of creature formed depends on the motes involved:
+> Mote Type|Creature Formed
+> ---------|---------------
+> Air|**Lesser Air Elemental**
+> Earth|**Lesser Earth Elemental**
+> Fire|**Lesser Fire Elemental**
+> Harmony|**Ancient Spirit** (any)
+> Life|***Beast*** *or* ***Plant*** (any, CR 2 or below)
+> Mana|**Arcane Wyrm** *or* **Lesser Arcane Elemental**
+> Shadow|**Voidwalker**
+> Water|**Lesser Water Elemental**

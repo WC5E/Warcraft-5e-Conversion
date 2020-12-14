@@ -1,0 +1,75 @@
+<div style='margin-top:41px;'></div>
+
+## Kodos
+A kodo is a giant reptile, known for its thick hide <br/> and characteristics horns. Large and lumbering, <br/> these grazing beasts roam together in herds, <br/> their steps like rolling thunder across the plains <br/> of Kalimdor. Though their strength is immense, <br/> they are peaceful creatures whose horns serve <br> more to defend than to fight.
+
+***Herd Animals.*** Kodos are pack animals, and <br/> show a clear line of authority in their herds. The <br/> head of the pack leads the way, while the rest keep <br/> close guard of the weak and young as to not leave <br> anyone behind. Most kodo herds number in a dozen at <br> the most, though some have been sighted in groups as large as fifty beasts. It is rare for a kodo to wander <br> alone, though some elderly beasts have been seen taking <br> to a life of solitude.
+
+***Tauren Culture.*** Among the tauren, the kodos have a strong cultural presence as a symbol of vigor and power. Long have they hunted and tamed these imposing beasts, revering these acts important rites of passage for young tauren warriors. And for the size and brawn of the tauren themselves, few beasts can carry them as well as a kodo.
+
+***Pack Beasts.*** Kodos are formidable pack beasts, long elevated as such by the tauren and since ingrained in the Horde as a whole. They can carry even immense loads for long periods of time without any trouble.
+
+___
+> ## Kodo <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;45;7;15;30;0;14;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;30;;;;;; -->
+>*Large beast, unaligned*
+> ___
+> - **Armor Class** 12 (natural armor)
+> - **Hit Points** 45 (6d10 + 12)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|21 (+5)|9 (-1)|15 (+2)|3 (-4)|10 (+0)|6 (-2)|
+>___
+> - **Senses** passive Perception 10
+> - **Languages** —
+> - **Challenge** 2 (450 XP)
+> ___
+> ***Beast of Burden.*** The kodo is considered to be a Huge animal for the purpose of determining its carrying capacity.
+> 
+> ***Trampling Charge.*** If the kodo moves at least 20 feet straight towards a Large or smaller creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the kodo can make one stomp attack against it as a bonus action.
+>
+> ### Actions
+> ***Gore.*** *Melee Attack Weapon:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) piercing damage.
+>
+> ***Stomp.*** *Melee Attack Weapon:* +7 to hit, reach 5 ft., one prone target. *Hit:* 16 (2d10 + 5) bludgeoning damage. 
+
+\columnbreak
+
+<div style='margin-top:205px;'></div>
+
+___
+> ## Ancient Kodo <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;114;8;16;17;0;41;10;19;10;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;30;;;;;; -->
+>*Huge beast, unaligned*
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 114 (12d12 + 36)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|23 (+6)|9 (-1)|17 (+3)|4 (-3)|11 (+0)|6 (-2)|
+>___
+> - **Senses** passive Perception 10
+> - **Languages** —
+> - **Challenge** 4 (1,100 XP)
+> ___
+> ***Beast of Burden.*** The kodo is considered to be a Gargantuan animal for the purpose of determining its carrying capacity.
+> 
+> ***Trampling Charge.*** If the kodo moves at least 20 feet straight towards a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the kodo can make one stomp attack against it as a bonus action.
+>
+> ### Actions
+> ***Gore.*** *Melee Attack Weapon:* +8 to hit, reach 5 ft., one target. *Hit:* 19 (3d8 + 6) piercing damage.
+>
+> ***Stomp.*** *Melee Attack Weapon:* +8 to hit, reach 5 ft., one prone target. *Hit:* 22 (3d10 + 6) bludgeoning damage.
+>
+> ***Devour.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage. A Medium or smaller target must succeed on a DC 13 Dexterity saving throw or swallowed by the kodo. The kodo can only have one target swallowed at a time. If a target fails the saving throw while the kodo has a creature swallowed, it is grappled instead.
+> <br>    A swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the kodo, and it takes 10 (3d6) acid damage at the start of each of the kodo's turns.
+> <br>    If the kodo takes 15 damage or more on a single turn from the swallowed creature, the kodo must succeed on a DC 16 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the kodo. If the kodo dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone. 
+
+<div class="pageLetter">K</div>
+<div class='footnote'>KODOS </div>
+
+<img src='https://www.gmbinder.com/images/e5Dbuzd.png' class='inkblot' style='top:0px; right:0px; width:500px'>
+<img src='https://www.gmbinder.com/images/FgqGNWT.png' style='position:absolute; top:-190px; right:-230px; width:710px; z-index:100;' />
+

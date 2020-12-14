@@ -1,0 +1,132 @@
+## Elemental Revenants
+
+\pagebreakNum
+<div style='margin-top:340px'></div>
+
+___
+> ## Air Revenant <!-- https://wc5e-cr-calculator.frogvall.com/?1;19;117;7;14;29;0;21;0;21;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> *Medium elemental, neutral*
+> ___
+> - **Armor Class** 19 (half-plate, shield)
+> - **Hit Points** 117 (18d8 + 36)
+> - **Speed** 30 ft., fly 30 ft. (hover)
+>___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |18 (+4)|14 (+2)|14 (+2)| 9 (-1)|10 (+0)|10 (+0)|
+>___
+> - **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** poison
+> - **Condition Immunities** paralyzed, petrified, poisoned, prone
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** Auran
+> - **Challenge** 7 (2,900 XP)
+> ___
+> ***Magic Weapons.*** The revenant's weapon attacks are magical.
+>
+> ### Actions
+> ***Multiattack.*** The revenant makes three mace attacks.
+>
+> ***Mace.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) bludgeoning damage.
+> 
+> ***Lightning Strike (Recharge 6).*** The revenant makes one mace attack. If the attack hits, it deals an extra 22 (5d8) lightning damage, and the target must succeed on a DC 14 Constitution saving throw or be stunned until the end of the revenant's next turn.
+
+\columnbreak
+<div style='margin-top:340px'></div>
+
+___
+> ## Earth Revenant <!-- https://wc5e-cr-calculator.frogvall.com/?1;19;127;7;14;27;0;22;0;22;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> *Medium elemental, neutral*
+> ___
+> - **Armor Class** 19 (splint, shield)
+> - **Hit Points** 127 (17d8 + 51)
+> - **Speed** 30 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |18 (+4)|10 (+0)|17 (+3)| 8 (-1)|10 (+0)|10 (+0)|
+> ___
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** poison
+> - **Condition Immunities** paralyzed, petrified, poisoned, prone
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** Terran
+> - **Challenge** 7 (2,900 XP) 
+> ___
+> ***Brute.*** A melee weapon deals two extra dice of damage when the revenant hits with it (included in the attack).
+> 
+> ***Magic Weapons.*** The revenant's weapon attacks are magical.
+>
+> ### Actions
+> ***Multiattack.*** The revenant makes two club attacks.
+>
+> ***Club.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (3d4 + 4) bludgeoning damage.
+>
+> ***Thunderous Strike (Recharge 6).*** The revenant makes one club attack. On a hit, the target takes an extra 16 (3d10) thunder damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone. 
+
+\pagebreakNum
+
+<div style='margin-top:340px'></div>
+
+___
+> ## Fire Revenant <!-- https://wc5e-cr-calculator.frogvall.com/?1;19;123;7;13;39;0;24;0;24;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> *Medium elemental, neutral*
+> ___
+> - **Armor Class** 19 (half-plate, shield)
+> - **Hit Points** 123 (19d8 + 38)
+> - **Speed** 40 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |13 (+1)|18 (+4)|15 (+2)| 9 (-1)|10 (+0)|10 (+0)|
+> ___
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** fire, poison
+> - **Condition Immunities** paralyzed, petrified, poisoned, prone
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** Ignan
+> - **Challenge** 7 (2,900 XP) 
+> ___
+> ***Illumination.*** The revenant sheds bright light in a 20-foot radius and dim light in a 40-foot radius.
+>
+> ***Magic Weapons.*** The revenant's weapon attacks are magical.
+> 
+> ***Water Susceptibility.*** For every 5 feet the revenant moves in 1 foot or more of water, it takes 2 (1d4) cold damage.
+>
+> ### Actions
+> ***Multiattack.*** The revenant makes three longsword attacks.
+>
+> ***Longsword.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage.
+>
+> ***Fiery Strikes (Recharge 6).*** The revenant uses Multiattack. Each attack that hits deals an extra 5 (1d10) fire damage. 
+
+\columnbreak
+<div style='margin-top:340px'></div>
+
+___
+> ## Water Revenant <!-- https://wc5e-cr-calculator.frogvall.com/?1;19;127;7;13;36;0;21;0;21;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> *Medium elemental, neutral*
+> ___
+> - **Armor Class** 19 (half-plate, shield)
+> - **Hit Points** 127 (17d8 + 51)
+> - **Speed** 40 ft., swim 40 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |18 (+4)|14 (+2)|15 (+2)| 8 (-1)|10 (+0)|10 (+0)|
+> ___
+> - **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** poison
+> - **Condition Immunities** paralyzed, petrified, poisoned, prone
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** Aquan
+> - **Challenge** 7 (2,900 XP) 
+> ___
+> ***Magic Weapons.*** The revenant's weapon attacks are magical.
+>
+> ### Actions
+> ***Multiattack.*** The revenant makes three scimitar attacks.
+> 
+> ***Scimitar.*** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage.
+>
+> ***Freezing Strikes (Recharge 6).*** The revenant uses Multiattack. Each attack that hits deals an extra 5 (1d10) cold damage. A target that is hit by one or more of these attacks has its speed reduced by 10 feet until the end of the revenant's next turn. 
