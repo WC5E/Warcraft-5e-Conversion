@@ -5830,7 +5830,7 @@ ___
 >
 > ***Keen Sight and Smell.*** The moonkin has advantage on Wisdom (Perception) checks it makes that rely on sight or smell.
 >
-> ***Spellcasting.*** The moonkin is a 9th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The moonkin has the following druid spells prepared:
+> ***Spellcasting.*** The moonkin is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The moonkin has the following druid spells prepared:
 >
 > Cantrips (at will) :  *druidcraft, resistance, ✦ solar wrath*
 > <br> 1st level (4 slots): *healing word, entangle, faerie fire, <br>&nbsp;&nbsp;&nbsp; ✦ starfire*
