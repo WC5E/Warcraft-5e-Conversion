@@ -2641,10 +2641,12 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:130px;'></div>
+<div style='margin-top:100px;'></div>
 
 ## Elementals
 Elementals are as ageless as they are unchanging; volatile beings of raw elemental power, manifested in physical form. Since the early days of creation, as life hurdled through the cosmos and manifested itself upon countless worlds, the most common primordial form of life has been the elementals -- who now populate nearly every world spanning across the great dark beyond, nourishing themselves off of the energies within.
+
+***Fed by Spirit.*** Elementals are fueled by a planet's Spirit energy. On worlds with abundant Spirit, such as Draenor, they tend to be peaceful and strive for balance. On worlds where there is little Spirit energy, they are out of balance and seek conflict. Shamans can use Spirit energy to commune with and control these creatures.
 
 ***Bound to the Elemental Plane.*** On Azeroth, as the titanic Keepers saw to the ordering of the world, they found the elementals wreaking havoc under the corrupting influence of the Old Gods. As a safeguard, to protect their intended new denizens of the planet from such a destructive force, the Keepers constructed the Elemental Plane as a prison in which the elementals could be locked away, free to roam at their own behest. In their absence, the Keepers could tend to their task at hand; settling the natural order of Azeroth.
 
@@ -2662,10 +2664,10 @@ Above all other sits the Elemental Lords; beings of untamed power, whose sum can
 
 Carrying out the bidding of the Elemental Lords are their lieutenants. While nowhere near as powerful as their respective Lord, it is not uncommon for an elemental lieutenant to wield both great power and agency in carrying out their master's bidding.
 
-***Elemental Nature.*** An elemental doesn't require air, food, drink, or sleep.
+***Elemental Nature.*** An elemental doesn't require air, food, drink, or sleep. They do not feel pain and can only be permanently killed on their home plane.
 
-<img src='https://www.gmbinder.com/images/nLcDQIn.jpg' style='position:absolute; bottom:-30px; left:-80px; width:875px' />
-<img src='https://www.gmbinder.com/images/IVAoFBN.png' style='position:absolute; top:90px; right:0px; width:835px;' />
+<img src='https://www.gmbinder.com/images/nLcDQIn.jpg' style='position:absolute; bottom:-40px; left:-80px; width:875px' />
+<img src='https://www.gmbinder.com/images/IVAoFBN.png' style='position:absolute; top:100px; right:0px; width:835px;' />
 
 <div class='letterheader'></div>
 <div class="mmletter mml-e"></div>
@@ -2677,7 +2679,10 @@ Carrying out the bidding of the Elemental Lords are their lieutenants. While now
 ### Air Elemental
 Taking form as a swirling storm, or a billowing cloud given faint humanoid shape, an air elemental holds command of wind and weather. Fast and silent, it strikes out by enveloping its foes in a blinding whirlwind to seize the upper hand.
 
-[Text explaining where air elementals sprout from, and basic info about Skywall.]
+#### Skywall
+The elemental plane of Skywall was ruled by the Windlord Al'Akir from his seat at the Throne of the Four Winds. He was known to be the most cunning of the Old Gods' tacticians, sending elementals to spy on his enemies and sow distrust among their ranks.
+
+During the events of the Shattering, he was defeated and replaced with the former Prince of Air Thunderaan as ruler of the realm. His rule remains somewhat disputed among the Conclave of Wind, who declare the Prince Sarsarun as Al'Akir's true heir.
 
 ___
 > ## Lesser Air Elemental
@@ -2800,7 +2805,8 @@ ___
 ### Arcane Elemental
 Appearing in areas suffused with arcane energy, these ele&shy;mentals manifest from its energy and are often found in the service of mages, feeding of the fluctuation of magic from their spells.
 
-[Text explaining where arcane elementals sprout from, and basic info about ley lines.]
+#### Quasi-Elementals
+Arcane elementals, being composed of arcane energy instead of elemental power, are not elementals in the technical sense, but share enough similarities with other elementals to be classified as such. They do not have an Elemental Plane to retreat to when their form is dispersed.
 
 ___
 > ## Lesser Arcane Elemental
@@ -2835,7 +2841,7 @@ ___
 
 \columnbreak
 
-<div style='margin-top:180px;'></div>
+<div style='margin-top:185px;'></div>
 
 ___
 > ## Bound Arc. Elemental
@@ -2927,9 +2933,16 @@ ___
 \pagebreakNum
 
 ### Earth Elemental
-Near indistinguishable from rocks if standing still, an earth elemental is as hardy and steadfast as the element it embodies. It burrows through the ground with utmost ease, and faces its opponents head-on if engaged.
+Near indistinguishable from rocks if standing still, an earth elemental is as hardy and steadfast as the element it embodies. It burrows through the ground with utmost <br> ease, and faces its opponents head-on if engaged.
 
-[Text about how earth elementals form, and about Deepholme.]
+#### Deepholme
+The elemental plane of Deepholme is filled with a <br> variety of stone and crystalline creatures. Unique <br> metals such as obsidium and elementium are <br> found here, which can be worked into powerful <br> artifacts.
+
+It is ruled by Therazane the Stonemother. She was <br> the most reclusive of the Elemental Lords, preferring to <br> raise great mountain ranges to protect her children and only emerging to fight when the enemy wore them- <br> selves down on her defenses.
+
+As the Elemental Lord of Earth, she has been in <br> direct conflict with Deathwing and his forces. She has opposed the Old Gods on multiple occasions, reluctantly aiding the mortal forces in their fight against them out of spite.
+
+Deepholme is also the location where Deathwing has retreated to several times to rest and recover from his losses. When he burst forth from Deepholme and shattered the World Pillar, it kicked off the events of the Cataclysm.
 
 ___
 > ## Lesser Earth Elemental
@@ -2991,7 +3004,7 @@ ___
 >
 > ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage. <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;84;8;13;24;0;24;0;24;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 
-<img src='https://www.gmbinder.com/images/a81VyUK.png' class='inkblot' style='position:absolute; top:-180px; right:-80px; width:600px' />
+<img src='https://www.gmbinder.com/images/a81VyUK.png' class='inkblot' style='position:absolute; top:-180px; right:-83px; width:600px' />
 <img src='https://www.gmbinder.com/images/6aDvUEv.png' style='position:absolute; top:0px; left:360px; width:450px; transform:scaleX(-1);' />
 
 <div class="pageLetter">E</div>
@@ -3048,7 +3061,12 @@ ___
 ### Fire Elemental
 A fire elemental manifests as a smoldering pillar of unwavering destruction. While susceptible to water, it is a cunning presence that will often attempt to overwhelm and outright engulf those who try to stand in its way.
 
-[Text, you know the drill.]
+#### Firelands
+The Firelands are the least hospitable of the Elemental Planes, laden with scalding, noxious fumes and filled with an ocean of ever-churning magma and islands of jagged rock. 
+
+Its former leader, Ragnaros the Firelord, is the most brutish and destructive of the four Elemental Lords, wishing for nothing more than to burn the land, boil the sea, and choke the skies. 
+
+He has been a menace to the peoples of Azeroth on multiple occasions, enslaving the Dark Iron dwarves until he was destroyed during the Cataclysm and his mantle passed on to Smolderon after lengthy in-fighting.
 
 ___
 > ## Lesser Fire Elemental
@@ -3168,7 +3186,12 @@ ___
 ### Ice Elemental
 Manifest from frozen water, ice elementals share domain and allegiance with other water elementals. It moves unhindered through the icy reaches in which it dwells, and is very quick to enrage at the sight of fire wielded in its vicinity.
 
-[Blah, blah, blah.]
+#### Frozen Water
+Ice elementals are a curious thing. While their allegiance to the water elementals is clear, what is not is their true origin. 
+
+Are they simply water elementals who have frozen solid? Is there some interaction between the elements of air and water that forms snow that creates these creatures? Does water's multiphase nature allow for these creatures to exist? Or are they simply a new form of elemental that spontaneously arises from frost and snow?
+
+No one truly knows, not even the ice elementals themselves. Their most powerful member is the Frostlord Ahune. 
 
 ___
 > ## Lesser Ice Elemental
@@ -3293,6 +3316,11 @@ ___
 
 ### Water Elemental
 A favoured companion among mages, human mages in particular, a water elemental is near impossible to discern while underwater. If able, it often attempts to deal with threats by luring them along into the water -- dragging them from there into the murky depths.
+
+#### Abyssal Maw
+The underwater realm of the Abyssal Maw is ruled by Neptulon the Tidehunter. The wisest of the Elemental Lords, he was careful not to fall for Al'Akir's schemes or waste his forces on Therazane.
+
+During the Cataclysm, he did not align himself with Deathwing and the Old Gods, and has since allied himself with the forces of Azeroth on multiple occasions when his interests align.
 
 ___
 > ## Lesser Water Elemental
