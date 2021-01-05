@@ -1583,6 +1583,273 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:530px'></div>
+
+## Cloud Serpents
+A cloud serpent is a long, sinuous serpent-like dragon native to Pandaria. It is continually born aloft by the winds, eternally swimming through the air. While it is considered a dragon, it bears no connection to the dragonflights and while intelligent, it is closer to a particularly cunning animal than the keen intellect of a true dragon.
+
+***Fragile Balance.*** While the elder cloud serpents are as deadly a creature as any that exists on Azeroth, the eggs and hatchlings are almost paradoxically weak. Their young can only be found in specific isolated locations and need to be fiercely protected by their guardians.
+
+***Power of the Storm.*** According to myth, the first cloud serpent was born from a lake set aflame by the lightning of the Thunder King. Ever since, the cloud serpent have had a special connection to the storm. As they grow in age and power, they become more inured to its effects and eventually some are able to bring forth their inner storm through their breath or their mere presence.
+
+***Order of the Cloud Serpent.*** Thousands of years ago, a young pandaren girl found an injured hatchling. Though cloud serpents were feared at that time as violent and aggressive beasts, Jiang chose to care for and raise the cloud serpent Lo into an honored companion who went on to save her life from a troll and later proved their worth as deadly companions to the pandaren defenders.
+
+\columnbreak
+<div style='margin-top:563px'></div>
+
+Jiang then went on to found the Order of the Cloud Serpent, an order of flying pandaren warriors. While wild cloud serpents cannot be tamed to act as mounts, when one is raised from an egg to adolescence, they can prove to be eternally loyal beasts.
+
+***Ancient Powers.*** While most cloud serpents who survive to adulthood become powerful creatures in their own right, something more is needed to push them to the power of an ancient cloud serpent. These creatures almost always have a connection to some powerful being or place.
+
+***Multicolored.*** There are five primary colors found among the cloud serpents. While each has different attitudes and associations among pandaren folklore, but there are no real differences in their abilities. The five kinds of cloud serpents are:
+___
+- **Azure.** These creatures are associated as being harbingers of good fortune. 
+- **Crimson.** These cloud serpents are given to flights of fancy, often striking out on a whim for seemingly random journeys, sometimes for days at a time.
+- **Golden.** Golden cloud serpents are very rare and a sight to behold, considered a national treasure.
+- **Jade.** The most common kind of cloud serpent, jade serpents are particularly quick to violence when threatened.
+- **Onyx.** Among the most rare of cloud serpents, these stealthy creatures are aggressive and deadly.
+
+<div class="pageLetter">C</div>
+<div class='footnote'>CLOUD SERPENTS </div>
+<img src='https://www.gmbinder.com/images/CiNGl6P.jpg' style='position:absolute; width:1250px; top:0px; left:-100px;' />
+<img src='https://www.gmbinder.com/images/6caZrpw.png' style='position:absolute; top:250px; left:0px; width:1016px' />
+
+\pagebreakNum
+
+___
+> ## Cloud Serpent Hatchling
+> *Tiny dragon, neutral*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 45 (10d4 + 20)
+> - **Speed** 15 ft., fly 60 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> | 6 (-2)|14 (+2)|14 (+2)| 6 (-2)|10 (+0)|11 (+0)|
+> ___
+> - **Saving Throws** Dex +5, Wis +2, Cha +2
+> - **Skills** Acrobatics +4, Perception +2
+> - **Damage Immunities** lightning, thunder
+> - **Senses** passive Perception 12
+> - **Languages** —
+> - **Challenge** 1 (200 XP)
+> ___
+> ***Flyby.*** The cloud serpent doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+>
+> ***Keen Senses.*** The cloud serpent has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
+> 
+> ***One With The Storm.*** The cloud serpent is unaffected by strong winds or heavy precipitation.
+>
+> ### Actions
+> ***Multiattack.*** The cloud serpent makes two attacks: one with its bite and one with its claws.
+> 
+> ***Bite.*** *Melee Weapon Attack.* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) piercing damage.
+> 
+> ***Claw.*** *Melee Weapon Attack.* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8 + 2) slashing damage. <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;45;4;13;15;0;15;0;15;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+
+> ##### Variant: Heavenly Cloud Serpent
+> A very rare few cloud serpents possess a deep connection to the spirits. They glow with an inner white-gold light and possess the following traits:
+> ___
+> - ***Illumination.*** A heavenly cloud serpent hatchling sheds bright light in a 5-foot radius and dim light an additional 5 feet. These ranges increases to 20 feet for a young cloud serpent, 30 feet for an adult cloud serpent, and to 60 feet for an ancient cloud serpent.
+> - ***Aura of Peace and Hope.*** The cloud serpent and allied creatures within the area of the cloud serpent's bright illumination cannot be charmed or frightened as long as it is conscious.
+> - ***Innate Spellcasting.*** A heavenly cloud serpent can cast certain spells innately. Their spellcasting ability is Charisma, and they gain innate spells at each age category: <br> **Hatchling.** At will: *dancing lights*. 1/day: *bless* <br> **Young.** 1/day: *aura of vitality*, *divine favor*, *lesser restoration* <br> **Adult.** 1/day: *aura of life*, *aura of purity* <br> **Ancient.** 1/day: *banishment*. 1/week: *raise dead*
+
+\columnbreak
+
+<div style='margin-top:250px'></div>
+
+___
+> ## Young Cloud Serpent
+> *Large dragon, neutral*
+> ___
+> - **Armor Class** 14
+> - **Hit Points** 95 (10d10 + 40)
+> - **Speed** 30 ft., fly 80 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> | 8 (-1)|18 (+4)|18 (+4)| 8 (-1)|13 (+1)|12 (+1)|
+> ___
+> - **Saving Throws** Dex +7, Wis +4, Cha +4
+> - **Skills** Acrobatics +7, Perception +4
+> - **Damage Immunities** lightning, thunder
+> - **Senses** passive Perception 14
+> - **Languages** —
+> - **Challenge** 6 (2,300 XP)
+> ___
+> ***Flyby.*** The cloud serpent doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+>
+> ***Keen Senses.*** The cloud serpent has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
+> 
+> ***One With The Storm.*** The cloud serpent is unaffected by strong winds or heavy precipitation.
+>
+> ### Actions
+> ***Multiattack.*** The cloud serpent makes three attacks: one with its bite and two with its claws.
+> 
+> ***Bite.*** *Melee Weapon Attack.* +7 to hit, reach 10 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
+>
+> ***Claw.*** *Melee Weapon Attack.* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+> 
+> ***Constrict.*** *Melee Weapon Attack.* +7 to hit, reach 5 ft., one creature. *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the creature is restrained, and the cloud serpent can't constrict another target.
+> 
+> ***Storm Breath (Recharge 5-6).*** The cloud serpent exhales a lightning storm in a 30-foot cone. Each creature in the cone takes 16 (3d10) lightning damage and 16 (3d10) thunder damage and are deafened for 1 minute. On a successful DC 15 Dexterity save results in half damage and no other effect. <!-- https://wc5e-cr-calculator.frogvall.com/?1;14;95;7;15;64;0;35;0;35;0;0;0;0;0;0;0;;;;1;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
+
+\columnbreak
+
+<div class="pageLetter">C</div>
+<div class='footnote'>CLOUD SERPENTS </div>
+<img src='https://www.gmbinder.com/images/tiU4RnD.png' style='position:absolute; top:-90px; right:-80px; width:500px' />
+<img src='https://www.gmbinder.com/images/m9SuEZU.png' style='position:absolute; top:20px; right:-80px; width:400px' />
+
+\pagebreakNum
+
+___
+___
+> ## Adult Cloud Serpent
+> *Huge dragon, neutral*
+> ___
+> - **Armor Class** 16
+> - **Hit Points** 162 (13d12 + 78)
+> - **Speed** 30 ft., fly 100 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |10 (+0)|22 (+6)|22 (+6)|10 (+0)|16 (+3)|14 (+2)|
+> ___
+> - **Saving Throws** Dex +11, Wis +8, Cha +7
+> - **Skills** Acrobatics +11, Perception +8
+> - **Damage Immunities** lightning, thunder
+> - **Senses** passive Perception 18
+> - **Languages** —
+> - **Challenge** 13 (10,000 XP)
+> ___
+> ***Flyby.*** The cloud serpent doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+>
+> ***Keen Senses.*** The cloud serpent has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
+> 
+> ***Legendary Resistance (1/Day).*** If the cloud serpent fails a saving throw, it can choose to succeed instead.
+> 
+> ***One With The Storm.*** The cloud serpent is unaffected by strong winds or heavy precipitation.
+>
+> ### Actions
+> ***Multiattack.*** The cloud serpent makes three attacks: one with its bite, two with its claws.
+> 
+> ***Bite.*** *Melee Weapon Attack.* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage.
+>
+> \columnbreak
+>
+> ***Claw.*** *Melee Weapon Attack.* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
+> 
+> ***Constrict.*** *Melee Weapon Attack.* +11 to hit, reach 5 ft., one creature. *Hit:* 17 (2d10 + 6) bludgeoning damage, and the target is grappled (escape DC 19). Until this grapple ends, the creature is restrained, and the cloud serpent can't constrict another target.
+>
+> ***Storm Breath (Recharge 5-6).*** The cloud serpent exhales a lightning storm in a 60-foot cone. Each creature in the cone takes 22 (4d10) lightning damage and 22 (4d10) thunder damage and are deafened for 1 minute. On a successful DC 19 Dexterity save results in half damage and no other effect.
+> 
+> ### Legendary Actions
+> The cloud serpent can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The cloud serpent regains spent legendary actions at the start of its turn.
+> - **Claw.** The cloud serpent makes a claw attack.
+> - **Squeeze.** The cloud serpent deals 17 (2d10 + 6) bludgeoning damage to a constricted target.
+> - **Serpent Sweep (Costs 2 Actions).** The cloud serpent quickly spins in a circle, lashing out with its tail. Each creature within 15 feet of the cloud serpent must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. A successful save results in half damage and no other effect. The dragon can then fly up to half its flying speed. 
+> - **Call Lightning (Costs 3 Actions).** The cloud serpent chooses a point within 100 feet. Each creature within 5 feet of that point must make a DC 19 Dexterity save or take 16 (3d10) lightning damage or half on a successful save. <!-- https://wc5e-cr-calculator.frogvall.com/?2;16;162;11;19;88;39;43;39;43;39;0;0;0;0;0;0;;;;1;3;;;;;1;;;;1;1;;;;;;;;10;;;;;; -->
+
+<br>
+
+<div style='margin-top:-15px'></div>
+
+> ##### Variant: Thundering Cloud Serpent
+> Some cloud serpents manifest their inner storm more powerfully than other cloud serpents. They have the ***Lightning Absorption*** and ***Static Skin*** traits. 
+> 
+> ***Lightning Absorption.*** Whenever the cloud serpent is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
+> 
+> ***Static Skin.*** The cloud serpent deals an additional 3 (1d6) lightning damage with its melee attacks and creatures that hit the cloud serpent with a melee attack take 3 (1d6) lightning damage. The cloud serpent also has disadvantage on Stealth checks, except when in a thundercloud, where it has advantage instead.
+> 
+> A thundering cloud serpent has an altered Challenge Rating:
+>
+> <div style='margin-top:-8px'></div>
+>
+> ___
+> - **Hatchling.** CR 2 (450 XP) <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;45;4;13;21;0;21;0;21;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+> - **Young.** CR 6 (2,300 XP) <!-- https://wc5e-cr-calculator.frogvall.com/?1;14;95;7;15;64;3;44;3;44;3;0;0;0;0;0;0;;;;1;3;;;;;1;;;;;1;;;;;;;;10;;;;;; -->
+> - **Adult.** CR 14 (11,500 XP) <!-- https://wc5e-cr-calculator.frogvall.com/?2;16;162;11;19;88;51;52;51;52;51;0;0;0;0;0;0;;;;1;3;;;;;1;;;;1;1;;;;;;;;10;;;;;; -->
+> - **Ancient.** CR 19 (22,000 XP) <!-- https://wc5e-cr-calculator.frogvall.com/?3;18;240;14;22;132;63;64;63;64;63;0;0;0;0;0;0;;;;1;3;;;;;1;;;;1;1;;;;;;;;10;;;;;; -->
+
+<br>
+
+<div style='margin-top:5px'></div>
+
+### A Cloud Serpent's Lair
+While younger cloud serpents are known to be free-spirited wanderers, ancient cloud serpents usually stick to a single location, though their territory still encompasses several square miles.
+
+#### Regional Effects
+The territory of an ancient cloud serpent is changed by its inner storm, which creates on or more of the following effects:
+- The air in a 6 mile radius crackles with static electricity. Large amounts of metal can invite lightning strikes.
+- The cloud serpent can change the shape and color of clouds on a whim.
+- The cloud serpent can alter the weather at will in a 6-mile radius. The effect is identical to the *control weather* spell. When precipitation reaches stage 4 or higher, it is considered a thunderstorm.
+
+If the cloud serpent dies, the effects fade over the course of 1d10 days.
+
+<div class="pageLetter">C</div>
+<div class='footnote'>CLOUD SERPENTS </div>
+
+\pagebreakNum
+
+<div class='statblock-bottom-wide'>
+
+___
+___
+> ## Ancient Cloud Serpent
+> *Gargantuan dragon, neutral*
+> ___
+> - **Armor Class** 18
+> - **Hit Points** 240 (13d20 + 104)
+> - **Speed** 30 ft., fly 120 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |12 (+1)|26 (+8)|26 (+8)|12 (+1)|20 (+5)|16 (+3)|
+> ___
+> - **Saving Throws** Dex +14, Wis +11, Cha +9
+> - **Skills** Acrobatics +14, Perception +11
+> - **Damage Immunities** lightning, thunder
+> - **Senses** passive Perception 21
+> - **Languages** —
+> - **Challenge** 19 (22,000 XP)
+> ___
+> ***Flyby.*** The cloud serpent doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+>
+> ***Keen Senses.*** The cloud serpent has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
+>
+> ***Legendary Resistance (1/Day).*** If the cloud serpent fails a saving throw, it can choose to succeed instead.
+> 
+> ***One With The Storm.*** The cloud serpent is unaffected by strong winds or heavy precipitation.
+>
+> ### Actions
+> ***Multiattack.*** The cloud serpent makes three attacks: one with its bite and two with its claws.
+>
+> ***Bite.*** *Melee Weapon Attack.* +14 to hit, reach 15 ft., one target. *Hit:* 21 (2d12 + 8) piercing damage.
+>
+> ***Claw.*** *Melee Weapon Attack.* +14 to hit, reach 10 ft., one target. *Hit:* 17 (2d8 + 8) slashing damage.
+> 
+> ***Constrict.*** *Melee Weapon Attack.* +14 to hit, reach 10 ft., one creature. *Hit:* 21 (2d12 + 8) bludgeoning damage, and the target is grappled (escape DC 22). Until this grapple ends, the creature is restrained, and the cloud serpent can't constrict another target. 
+>
+> ***Storm Breath (Recharge 5-6).*** The cloud serpent exhales a lightning storm in a 90-foot cone. Each creature in the cone takes 33 (6d10) lightning damage and 33 (6d10) thunder damage and are deafened for 1 minute. On a successful DC 22 Dexterity save results in half damage and no other effect.
+> 
+> ### Legendary Actions
+> The cloud serpent can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The cloud serpent regains spent legendary actions at the start of its turn.
+> - **Claw.** The cloud serpent makes a claw attack.
+> - **Squeeze.** The cloud serpent deals 21 (2d12 + 8) bludgeoning damage to a constricted target.
+> - **Serpent Sweep (Costs 2 Actions).** The cloud serpent quickly spins in a circle, lashing out with its tail. Each creature within 20 feet of the cloud serpent must succeed on a DC 22 Dexterity saving throw or take 17 (2d8 + 8) bludgeoning damage and be knocked prone. A successful save results in half damage and no other effect. The dragon can then fly up to half its flying speed. 
+> - **Call Lightning (Costs 3 Actions).** The cloud serpent chooses a point within 100 feet. Each creature within 5 feet of that point must make a DC 22 Dexterity save or take 22 (4d10) lightning damage or half on a successful save. <!-- https://wc5e-cr-calculator.frogvall.com/?3;18;240;14;22;132;51;55;51;55;51;0;0;0;0;0;0;;;;1;3;;;;;1;;;;1;1;;;;;;;;10;;;;;; -->
+
+</div>
+
+<div class="pageLetter">C</div>
+<div class='footnote'>CLOUD SERPENTS </div>
+<img src='https://i.imgur.com/BGDbTwx.jpg' style='position:absolute; top:-120px; left:-120px' />
+<img src='https://www.gmbinder.com/images/6caZrpw.png' style='position:absolute; bottom:-650px; left:0px;' />
+
+\pagebreakNum
+
 <div class='statblock-bottom-wide'>
 
 ___
