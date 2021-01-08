@@ -1041,7 +1041,7 @@ ___
 - **Components:** V, S, M (a shard of glass or ice)
 - **Duration:** 1 minute
 ___
-Your fingers become cold to the touch as frost manifests on their surface. Make a melee spell attack against a creature within range. On a hit, the creature is incapacitated, can't move, and can't breathe until the spell ends as ice encap&shy;sulates their body. A target who hits the creature with an attack breaks the ice and ends the spell.
+Your fingers become cold to the touch as frost manifests on their surface. Make a melee spell attack against a creature within range. On a hit, the creature is incapacitatedand and restrained until the spell ends as ice encap&shy;sulates their body. A target who hits the creature with an attack breaks the ice and ends the spell.
 
 #### Frostfire Bolt
 *1st-level evocation*
