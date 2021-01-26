@@ -1296,7 +1296,7 @@ ___
 > ***Legion Axe.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1d10 + 3 slashing damage.
 > 
 > ### Reactions
-> ***Pursuit.*** When a creature attempts to move out of the felguard's weapon range, it can use its reaction to move up to its movement speed toward the creature and make a weapon attack. This movement doesn't provoke opportunity attacks. 
+> ***Pursuit.*** When a creature stops moving after leaving the felguard's reach, the felguard can use its reaction to move up to its speed towards the creature. This movement does not provoke opportunity attacks. The felguard can then make a Legion Axe attack against the creature if it is within reach.
 >
 > \columnbreak
 >
