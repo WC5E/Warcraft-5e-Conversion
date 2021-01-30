@@ -238,36 +238,6 @@
     background: none;
     border: none;
     box-shadow: none;
-    margin-top: 12px;
-    margin-bottom: 12px;
-    padding-top: 6px;
-    padding-bottom: 6px;
-  }
-
-</style>
-
-<div class='cover-header-container'>
-  <img class='cover-header-logo' src='https://www.gmbinder.com/images/0fKd9bC.png' />
-  <img class='cover-header-divider' src='https://www.gmbinder.com/images/SGYtcP2.png' />
-  <span class='cover-header-title'>
-    Heroes Handbook
-  </span>
-</div>
-
-<div class='cover-splotch'></div>
-
-<div class='cover-footer-container'>
-  <span class='cover-footer-subtitle'>
-    Everything a player needs to create 
-    <br />
-    heroic adventurers for the World of Azeroth
-    <br />
-  </span>
-  <span class='cover-footer-version'>
-    Version 3.0 — Feel of Warcraft
-  </span>
-</div>
-
 <style> .phb#p1:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/0PdNsAt.jpg' style='position:absolute; top:-80px; right:-500px; width:2000px' />
 <img src='https://www.gmbinder.com/images/3d9m32D.png' style='position:absolute; top:1000px; right:675px; width:100px' />
