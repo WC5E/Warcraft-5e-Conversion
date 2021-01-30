@@ -172,15 +172,15 @@
 *Always remember that power is a double-edged blade. One side light, the other dark. It calls to you, where you are most desperate; when victory seems worth any sacrifice. There is a price to be paid for such a gift, and many eagerly accept the bargain. Power alone is not to be feared. <br>Fear, instead, those who wield it.*
 <div style="text-align:Right">
 
-*— Jaina Proudmoore* &nbsp;</div>
+*— Jaina Proudmoore* <br/> &nbsp;</div> 
 
 Clad in a golden robe, a blood elf closes her eyes to shut out the distractions of the battlefields and begins her quiet chant. Fingers weaving in front of her, she completes her spell and launches a bead of fire toward the enemy ranks, where it erupts into an engulfing conflagration.
 
-The air shimmers, as a draenei lifts his hands above his head twisting the air around him into a barrier of force engulfs him, blocking a barrage of attacks against him.
+The air shimmers as a draenei lifts his hands above his head to twist the air around him into. A barrier of force engulfs him, blocking a barrage of attacks against him
 
-Golden eyes flashing, a human stomps his foot into the ground as a crippling fire sets him ablaze, as swords clash against him, an inferno of fire spews out at the attackers, engulfing them in hellfire.
+Golden eyes flashing, a human stomps his foot into the ground as a crippling fire sets him ablaze, as swords clash against him. An inferno of fire spews out at the attackers, engulfing them in hellfire.
 
-Mages are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the leylines of magic that permeates Azeroth, mages cast spells of explo-sive fire, arcing lightning, and subtle deception. Their magic can conjure monsters from other planes of exis-tence, or glimpses the future. Their mightiest spells change one substance into another, call meteors down from the sky, or open portals across continents.
+Mages are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the leylines of magic that permeates Azeroth, mages cast spells of explo-sive fire, arcing lightning, and subtle deception. Their magic can conjure monsters from other planes of exis-tence, or catch a glimpse the future. Their mightiest spells change one substance into another, call meteors down from the sky, or open portals across continents.
 
 \columnbreak
 
@@ -209,7 +209,7 @@ Mages' lives are seldom mundane. The closest a mage is likely to come to an ordi
 <div class='classTable wide'>
 
 ##### The Mage
-| Level | Proficiency<br>Bonus | Sorcery<br>Points | | Features | Cantrips<br>Known |&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;| 6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th <div style="position: absolute; top:100px; right:113px; width:200px; height:25px">—Spell Slots per Spell Level—</div>|
+| Level | Proficiency<br/>Bonus | Sorcery<br/>Points | | Features | Cantrips<br/>Known |&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;| 6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th <div style="position: absolute; top:100px; right:113px; width:200px; height:25px">—Spell Slots per Spell Level—</div>|
 |:---:|:--:|:-:|-|:----------|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|
 | 1st | +2 | —|| Spellcasting, Magic Sense                              |3||2||—||—||—||—||—||—||—||—|
 | 2nd | +2 | 2|| Font of Magic, Magical Study                           |3||3||—||—||—||—||—||—||—||—|
@@ -277,7 +277,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 \pagebreakNum
 
-<br>
+<br/>
 
  - *(a)* a scholar's pack or *(b)* an explorer's pack
  - A spellbook
@@ -308,15 +308,18 @@ At 1st level, you know three cantrips of your choice from the mage spell list. Y
 \columnbreak
 
 #### Spellbook
-At 1st level, you have a spellbook containing six 1st-level mage spells of your choice. Your spellbook does not contain your known cantrips.
-<div style='margin-top:-2px;'></div>
+*1st-level mage feature* 
+___
+<div style='margin-top:-6px'></div>
+
+You have a spellbook containing six 1st-level mage spells of your choice. Your spellbook does not contain your known cantrips.
 
 #### Preparing and Casting Spells
 The Mage table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain expended spell slots when you finish a long rest.
 
 You prepare the list of mage spells that are available for you to cast. To do so, choose a number of mage spells from your spellbook equal to your Intelligence modifier + your mage level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example. if you're a 3rd-level mage, you have four <br> 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared.
+For example. if you're a 3rd-level mage, you have four <br/> 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of mage spells requires time spent studying your spellbook and memori-zing the incantations and gestures you must make to cast the spell: 1 minute per spell level for each spell on your list.
 <div style='margin-top:-2px;'></div>
@@ -326,9 +329,9 @@ Intelligence is your spellcasting ability for your mage spells, since you learn 
 
 <div style="text-align: Center">
 
-**Spell save DC** = 8 + your proficiency bonus + <br> your Intelligence modifier
+**Spell save DC** = 8 + your proficiency bonus + <br/> your Intelligence modifier
 
-**Spell attack modifier** = your proficiency bonus + <br> your Intelligence modifier
+**Spell attack modifier** = your proficiency bonus + <br/> your Intelligence modifier
 </div>
 <div style='margin-top:-2px;'></div>
 
@@ -344,28 +347,34 @@ You can use an arcane focus as a spellcasting focus for your mage spells.
 Each time you gain a mage level, you add two mage spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Mage table. On your adventurers, you might find other spells that you can add to your spellbook (see the "Your Spellbook" sidebar).
 
 ### Magic Sense
-Your studies taught you how to sense residual magical energy. You can sense when a spell was cast within the last hour at your current location and see writing created or used by magic that is hidden to others. As long as you understand the language you can also decipher and read it.
+*1st-level mage feature* 
+___
+<div style='margin-top:-6px'></div>
 
-Additionally you can create hidden magical writing in any language you know.
-Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
+Your studies taught you how to sense residual magical energy. You can sense when a spell was cast within the last hour at your current location and see writing created or used by magic that is hidden to others. As long as you understand the language you can also decipher and read it.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
 \pagebreakNum
 
+Additionally you can create hidden magical writing in any language you know.
+Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
+
 ### Font of Magic
-At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
+*2nd-level mage feature* 
+___
+<div style='margin-top:-6px'></div>
+
+You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
 #### Sorcery Points
 You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the Mage table for your level. You regain all spent sorcery points when you finish a long rest.
 
 #### Flexible Casting
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
-Creating Spell Slots.
 
+#### Creating Spell Slots
 You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
-
-##### Creating Spell Slots
 
 | Spell Slot Level  | Sorcery Point Cost |
 |:-----:|:-----:|
@@ -376,11 +385,19 @@ You can transform unexpended sorcery points into one spell slot as a bonus actio
 |   5   |   7   |
 
 ### Magical Study
-Starting at 2nd level, you choose a magical study, shaping your practice of magic through one of three areas: Arcane, Fire or Frost, all detailed at the end of the class description.
+*2nd-level mage feature* 
+___
+<div style='margin-top:-6px'></div>
+
+You choose a magical study, shaping your practice of magic through one of three areas: Arcane, Fire or Frost, all detailed at the end of the class description.
 
 Your choice grants you features at 3rd level and again at 6th, 10th, and 14th level.
 
 ### Metamagic
+*3rd-level mage feature* 
+___
+<div style='margin-top:-6px'></div>
+
 At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
@@ -393,8 +410,6 @@ A chosen creature automatically succeeds on its saving throw against the spell.
 When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
 
 When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
-
-\columnbreak
 
 #### Transmuted Spell
 When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder. 
@@ -423,19 +438,31 @@ When you cast a spell that targets only one creature and doesn't have a range of
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, magic missile and scorching ray aren't eligible, but ray of frost and chromatic orb are.
 
 ### Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2. or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+*4th-level mage feature* 
+___
+<div style='margin-top:-6px'></div>
 
-### Spell Mastery
-At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level mage spell and a 2nd-level mage spell that are in your spell&shy;book. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2. or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
 \pagebreakNum
 
+### Spell Mastery
+*18th-level mage feature* 
+___
+<div style='margin-top:-6px'></div>
+
+You have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level mage spell and a 2nd-level mage spell that are in your spell&shy;book. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+
 You can spend 8 hours in study, and change one or both of the spells you chose for different spells of the same level.
 
 ### Signature Spells
-When you reach 20th level, you gain mastery over <br> two powerful spells and can cast them with little effort. <br> Choose two 3rd-level mage spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
+*20th-level mage feature* 
+___
+<div style='margin-top:-6px'></div>
+
+You gain mastery over <br/> two powerful spells and can cast them with little effort. <br/> Choose two 3rd-level mage spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
@@ -443,79 +470,123 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 Mages are spellcasters who favor magics involving the cardinal elements of the universe. Students gifted with a keen intellect and unwavering discipline may walk the path of the mage. The magic available to mages is both great and dangerous, and thus is revealed only to the most devoted practitioners.
 
 ### Study of Arcane
-Mages of the arcane are diviners of secrets, balancing the webb and flow of incredible mystic energies. These practi-tioners push their magical knowledge to its very limits. Those who master this craft are capable to manipulate spells on a much more primal level.
+Mages of the arcane are diviners of secrets, balancing the ebb and flow of incredible mystic energies. These practi-tioners push their magical knowledge to its very limits. Those who master this craft are capable to manipulate spells on a much more primal level.
 
 #### Bonus Cantrip
-*2nd-level Arcane feature* <br>
+*2nd-level Arcane feature* 
+___
+<div style='margin-top:-6px'></div>
+
 When you choose this magical study at 2nd level, you learn the *prestidigitation* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
+#### Arcane Charges
+*2nd-level Arcane feature* 
+___
+<div style='margin-top:-6px'></div>
+
+You gain the ability to conserve and enhance your mage abilities beyond the norm. Whenever you cast a mage spell of 1st level or higher, gain an arcane charge of the equivalent level up to 5th level. Spells slots higher than 5th give a 5th level arcane charge. These charges last until they are used, replaced by a higher level charge, or after 1 minute has passed.
+
+You may expend an arcane charge to grant yourself one of the following effects. This effect lasts until the end of your next turn.
+- As a bonus action, you can add a bonus equal to the arcane charge's level to Attack and Damage rolls for your next Mage Spell.
+ 
 \columnbreak
 
-#### Arcane Charges
-*2nd-level Arcane feature* <br>
-You gain the ability to conserve and enhance your mage abilities beyond the norm. Whenever you cast a mage spell of 1st level or higher, gain an arcane charge of the equivalent level up to 5th level. Spells slots higher than 5th give a 5th level arcane charge. These charges last until replaced by a higher level charge, used, or 1 minute has passed.
-
-You may expend an arcane charge as a bonus action to grant yourself one of the following effects. This effect lasts until the end of your next turn.
-- A bonus equal to the arcane charge's level to Attack and Damage rolls for your next Mage Spell.
-- A bonus equal to the arcane charge's level to Saving Throws against Magic or Magical Effects. You may use a reaction for this effect instead of a bonus action.
+- As a bonus action or reaction, you can add a bonus equal to the arcane charge's level to Saving Throws against Magic or Magical Effects.
 
 #### Chrono Shift
-*2nd-level Arcane feature* <br>
+*2nd-level Arcane feature* 
+___
+<div style='margin-top:-6px'></div>
+
 After rolling initiative, but before the first creature takes its turn, you can switch your result with the result of another creature that you can see. Once you've done so you can't use this feature again until you finish a long rest.
 
 #### Arcane Brilliance
-*6th-level Arcane feature* <br>
+*6th-level Arcane feature* 
+___
+<div style='margin-top:-6px'></div>
+
 You gain proficiency in the Arcana skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make with it.
 
 Additionally, you are always under the effects of a *comprehend languages* spell.
 
 #### Presence of Mind
-*10th-level Arcane feature* <br>
-Whenever you create a spell slot from sorcery points you also gain an arcane charge of equivalent level and you can use it as part of the same bonus action.
+*10th-level Arcane feature* 
+___
+<div style='margin-top:-6px'></div>
+
+Whenever you create a spell slot from sorcery points you also gain an arcane charge of equivalent level and you can expend the charge as part of the same bonus action.
 
 #### Savant
-*10th-level Arcane feature* <br>
+*10th-level Arcane feature* 
+___
+<div style='margin-top:-6px'></div>
+
 You can change your list of prepared mage spells when you finish a short or a long rest.
 
+<div class='footnote'>PART 1 | CLASSES</div>
+
 #### Time Warp
-*14th-level Arcane feature* <br>
+*14th-level Arcane feature* 
+___
+<div style='margin-top:-6px'></div>
+
 You can exert your control over magic to warp time itself. When a creature you can see within 60 feet of you begins their turn, you can use your reaction to allow that creature to take another action during that turn. When you do so, you gain one level of exhaustion.
 
-### Study of Fire
-While any worthy mage is an unparalleled expert in the use of magic and heavily dedicated to their craft, those who master the forces of fire tend to be a little more audacious than their peers. These mages take pride, even pleasure in igniting their enemies in wild bursts of flame.
 
-#### Bonus Cantrip
-*2nd-level Fire feature* <br>
-When you choose this magical study at 2nd level, you learn the *control flames* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+<img src='https://cdna.artstation.com/p/assets/images/images/010/560/706/large/michael-roberts-arcane.jpg?1525087569' style='position:absolute; bottom:-30px; right:-15px; width:425px; transform: scaleX(-1)' />
+
+<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:60px; left:0px; width:100%; height:100%; transform: scaleX(-1)' />
+
+<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:0px; left:0px; width:100%; height:100%; transform: scaleX(-1)' />
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/u17sxuH.jpg' style='position:absolute; top:580px; right:260px; width:700px' />
-<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:0px; right:-120px; width:950px' />
 
 \pagebreakNum
 
+### Study of Fire
+While any worthy mage is an unparalleled expert in the use of magic and heavily dedicated to their craft, those who master the forces of fire tend to be a little more audacious than their peers. These mages take pride, even pleasure, in igniting their enemies in wild bursts of flame.
+
+#### Bonus Cantrip
+*2nd-level Fire feature* 
+___
+<div style='margin-top:-6px'></div>
+
+When you choose this magical study at 2nd level, you learn the *control flames* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+
 #### Hot Streak
-*2nd-level Fire feature* <br>
+*2nd-level Fire feature* 
+___
+<div style='margin-top:-6px'></div>
+
 The blazing energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.
 
 At 10th level, you may choose any number of dice that rolled the highest number possible, you can only reroll each dice once.
 
 #### Cauterize
-*6th-level Fire feature* <br>
+*6th-level Fire feature*
+___
+<div style='margin-top:-6px'></div>
+
 If you are reduced to 0 hit points, you can use your reaction to draw on the fiery energy that burns within you. You are instead reduced to 1 hit point, and each creature within 10 feet of you takes fire damage equal to half your mage level + your Intelligence modifier.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
-#### Ignite
-*10th-level Fire feature* <br>
-When you deal fire damage with a spell of 1st level or higher, you can spend up to 3 sorcery points to empower a fire damage dealing spell of up to 5th-level. For each sorcery point spent you can add an extra die to a damage roll of a spell that deals fire damage.
-
-For example, when you cast Burning Hands and spend 2 points on it you add an additional 2d6 to the spells normal damage. If you where to cast Scorching Ray you can spend points on every ray individually.
-
 \columnbreak
 
+#### Ignite
+*10th-level Fire feature* 
+___
+<div style='margin-top:-6px'></div>
+
+When you deal fire damage with a spell of 1st level or higher, you can spend up to 3 sorcery points to empower a fire damage dealing spell of up to 5th-level. For each sorcery point spent you can add an extra die to a damage roll of a spell that deals fire damage.
+
+For example, when you cast Burning Hands and spend 2 points on it you add an additional 2d6 to the spells normal damage. When you cast a spell with multiple attack rolls, such as Scorching Ray, you can spend points on each attack individually.
+
 #### Combustion
-*14th-level Fire feature* <br>
+*14th-level Fire feature*
+___
+<div style='margin-top:-6px'></div>
+
 You can unleash the flames that blaze within you. As an action, you wreathing yourself in swirling fire.
 For 1 minute, you gain the following benefits:
 
@@ -531,42 +602,51 @@ Once you use this feature, you can't use it again until you finish a long rest, 
 Frost mages stand apart from their colleagues, in that their chosen school of magic focuses on maintaining supreme control over the capabilities of their enemies. Mages who command frost perform chilling displays on the battlefield, rendering foes immobile as they bombard them with ice.
 
 #### Bonus Cantrip
-*2nd-level Frost feature* <br>
+*2nd-level Frost feature* 
+___
+<div style='margin-top:-6px'></div>
+
 When you choose this magical study at 2nd level, you learn the *shape water* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
-<div style='margin-bottom:-0px;'></div>
-
 #### Fingers of Frost
-*2nd-level Frost feature* <br>
+*2nd-level Frost feature* 
+___
+<div style='margin-top:-6px'></div>
+
 You gain one of the following features of your choice:
 
 ***Ice Barrier.*** You can weave the cold around yourself for protection. When you cast a spell of 1st level or higher that deals cold damage to a creature, you can simultaneously warp part of the spell's magic to create an icy barrier on yourself that lasts until you finish a long rest. The barrier has hit points equal to twice your mage level + your Intelligence modifier. Whenever you take damage, the barrier takes the damage instead. If the damage reduces the barrier to 0 hit points, you take any remaining damage.
 
-When the barrier is reduced to 0 hit point, each creature within 10 feet of you has their speed reduced by 10 feet until the start of your next turn as the barrier bursts.
-
-While the barrier has 0 hit points, it can't absorb damage, but its magic remains. Whenever you cast a spell of 1st level or higher that deals cold damage, the barrier regains a number of hit points equal to twice the level of the spell.
-
-Once you create the barrier, you can't create it again until you finish a long rest.
-
-***Water Elemental.*** You learn how to conjure a water elemental. It is friendly to you and your companions, and it obeys your commands. See the creature's game statistics in the water elemental stat block.
-
-In combat, the water elemental shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a
+When the barrier is reduced to 0 hit points, each creature within 10 feet of you has their speed reduced by 10 feet until the start of your next turn as the barrier bursts.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
-<img src='https://cdn.discordapp.com/attachments/772791854008631367/772793073880137758/3idycmpzp40vtpiud6lc.png' style='position:absolute; bottom:-200px; left:-100px; width:1200px' />
-<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; bottom:0px; left:-25px; width:950px' />
+<img src='https://www.gmbinder.com/images/u17sxuH.jpg' style='position:absolute; top:560px; right:260px; width:700px' />
+
+<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:60px; left:0px; width:100%; height:100%;' />
+
+<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:0px; left:0px; width:100%; height:100%;' />
 
 \pagebreakNum
 
-bonus action to command it to take one of the actions in its stat block or the Dash, Disengage, or Help action.
+While the barrier has 0 hit points, it can't absorb damage, but its magic remains. Whenever you cast a spell of 1st level or higher that deals cold damage, the barrier regains a number of hit points equal to twice the level of the spell.
+
+Once you create the barrier, you can't create it again until you finish a long rest. <br/>
+<br/>
+
+***Water Elemental.*** You learn how to conjure a water elemental. It is friendly to you and your companions, and it obeys your commands. See the creature's game statistics in the water elemental stat block.
+
+In combat, the water elemental shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action to command it to take one of the actions in its stat block or the Dash, Disengage, or Help action.
 
 If you target the water elemental with a spell that deals cold damage, it is considered immune to the damage and regains a number of hit points equal to it. You don't need to roll to hit your elemental and it automatically fails any saving throw for it if you choose it.
 
 At the end of a long rest, you can conjure a new water elemental. If you already have a water elemental from this feature, the first one immediately perishes.
 
 #### Brain Freeze
-*6th-level Frost feature* <br>
+*6th-level Frost feature* 
+___
+<div style='margin-top:-6px'></div>
+
 Whenever a creature would take cold damage from one of your mage spells, its movement speed is reduced by 10 feet until the end of your next turn.
 
 When a creature has its speed reduced in this way, you can spend one sorcery point: that creature must succeed on a Strength saving throw against your spell save DC or be restrained for 1 minute.
@@ -575,12 +655,17 @@ If a creature makes a successful hit against the creature the conditions caused 
 Beginning at 14th level the creature becomes paralyzed instead of restrained.
 
 #### Hands of Frost
-*10th-level Frost feature* <br>
+*10th-level Frost feature* 
+___
+<div style='margin-top:-6px'></div>
+
 You gain one of the following features, depending on your choice at 2nd level.
 
 ***Ice Barrier.*** When a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your Ice Barrier to manifest around it and absorb the damage. If this damage reduces the barrier to 0 hit points, the barricaded creature takes any remaining damage.
 
 In addition, you can now spend sorcery points to cause the effect of Brain Freeze.
+
+\columnbreak
 
 ***Water Elemental.*** Your water elemental changes into an ice elemental and gains the following additional benefits:
 
@@ -588,10 +673,11 @@ In addition, you can now spend sorcery points to cause the effect of Brain Freez
 - Brain Freeze now applies to cold damage caused by the elemental.
 - It can cast the *sleet storm* spell once per long rest, using your spell save DC (requires your bonus action).
 
-\columnbreak
-
 #### Ring of Frost
-*14th-level Frost feature* <br>
+*14th-level Frost feature* 
+___
+<div style='margin-top:-6px'></div>
+
 You can use your action to conjure up a ring of magical runes to invoke the deepest cold around a point you can choose within 60 feet. The ring has a 30-foot-radius and fills a 10-foot tall cylinder with frigid cold. 
 Creatures inside the area must succeed on a strength saving throw against your spell save DC or become paralyzed for up to 1 minute or until they take damage. If a creature’s body is fully inside the area the save is made with disadvantage. On a successful save a creature isn't restrained.
 
@@ -624,10 +710,10 @@ ___
 > #### Actions (Requires your Bonus Action) <div style='margin-top:-0px;'></div>
 > ###
 >
-> ***Slam.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. <br> 
+> ***Slam.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. <br/> 
 *Hit:* 1d8 + 2 + PB bludgeoning damage.
 >
-> ***Frost Bolt.*** *Ranged Spell Attack:* your spell attack modifier to hit, range 30/60 ft., one target. <br>
+> ***Frost Bolt.*** *Ranged Spell Attack:* your spell attack modifier to hit, range 30/60 ft., one target. <br/>
 *Hit:* 1d6 + 2 + PB cold damage.
 >
 > ***Restore (3/day).*** The magics inside the water elemental restores 2d8 + PB hit points to itself.
@@ -637,8 +723,11 @@ ___
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
-<img src='https://www.gmbinder.com/images/4bKo7jE.jpg' style='position:absolute; bottom:-100px; right:-150px; width:1000px' />
-<img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute; bottom:-200px; right:0px; width:1100px' />
+<img src='https://www.gmbinder.com/images/4bKo7jE.jpg' style='position:absolute; bottom:-130px; right:-150px; width:1000px' />
+
+<img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute;  top:170px; left:0px; width:100%; height:100%' />
+
+<img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute;  top:0px; left:0px; width:100%; height:100%' />
 
 
 \pagebreakNum
@@ -657,242 +746,242 @@ Symbol|Spell Location
 ### Mage Spells
 ##### Cantrips (0 Level)
 ✦ Arcane Blast
-<br> Blade Ward
-<br> Control Flames ^XGE^
-<br> Create Bonfire ^XGE^
-<br> Dancing Lights
-<br> Fire Bolt
-<br> ✦ Flurry
-<br> Frostbite ^XGE^
-<br> Light
-<br> Mage Hand
-<br> Mending
-<br> Message
-<br> Minor Illusion
-<br> Prestidigitation
-<br> Produce Flame
-<br> Ray of Frost
-<br> Shape Water
+<br/> Blade Ward
+<br/> Control Flames ^XGE^
+<br/> Create Bonfire ^XGE^
+<br/> Dancing Lights
+<br/> Fire Bolt
+<br/> ✦ Flurry
+<br/> Frostbite ^XGE^
+<br/> Light
+<br/> Mage Hand
+<br/> Mending
+<br/> Message
+<br/> Minor Illusion
+<br/> Prestidigitation
+<br/> Produce Flame
+<br/> Ray of Frost
+<br/> Shape Water
 
 ##### 1st Level
 Alarm
-<br> Armor of Agathys
-<br> Burning Hands
-<br> Comprehend Languages
-<br> Create or Destroy Water
-<br> Detect Magic
-<br> Disguise Self
-<br> Expeditious Retreat
-<br> Feather Fall
-<br> Find Familiar
-<br> Frost Fingers ^ID:RotF^
-<br> ✦ Frostfire Bolt
-<br> Gift of Alacrity ^EGW^
-<br> Hellish Rebuke
-<br> Ice Knife ^XGE^
-<br> Identify
-<br> Illusory Script
-<br> Jump
-<br> Longstrider
-<br> Mage Armor
-<br> Magic Missile
-<br> Magnify Gravity ^EGW^
-<br> Shield
-<br> Silent Image
-<br> Snare ^XGE^
-<br> Tenser's Floating Disk
-<br> Unseen Servant
+<br/> Armor of Agathys
+<br/> Burning Hands
+<br/> Comprehend Languages
+<br/> Create or Destroy Water
+<br/> Detect Magic
+<br/> Disguise Self
+<br/> Expeditious Retreat
+<br/> Feather Fall
+<br/> Find Familiar
+<br/> Frost Fingers ^ID:RotF^
+<br/> ✦ Frostfire Bolt
+<br/> Gift of Alacrity ^EGW^
+<br/> Hellish Rebuke
+<br/> Ice Knife ^XGE^
+<br/> Identify
+<br/> Illusory Script
+<br/> Jump
+<br/> Longstrider
+<br/> Mage Armor
+<br/> Magic Missile
+<br/> Magnify Gravity ^EGW^
+<br/> Shield
+<br/> Silent Image
+<br/> Snare ^XGE^
+<br/> Tenser's Floating Disk
+<br/> Unseen Servant
 
 ##### 2nd Level
 Aganazzar's Scorcher ^XGE^
-<br> Alter Self
-<br> Arcane Lock
-<br> Blindness/Deafness
-<br> Blur
+<br/> Alter Self
+<br/> Arcane Lock
+<br/> Blindness/Deafness
+<br/> Blur
 
 \columnbreak
 
-<br> Cloud of Daggers
-<br> Continual Flame
-<br> Darkness
-<br> Darkvision
-<br> Detect Thoughts
-<br> Dragon's Breath ^XGE^
-<br> Enlarge/Reduce
-<br> Flame Arrows
-<br> Flame Blade
-<br> Flaming Sphere
-<br> Flock of Familiars ^LLK^
-<br> Fortune's Favor ^EGW^
-<br> Gentle Repose
-<br> ✦ Freezing Touch
-<br> Heat Metal
-<br> Hold Person
-<br> Immovable Object ^EGW^
-<br> Invisibility
-<br> Knock
-<br> Levitate
-<br> ✦ Living Bomb
-<br> Locate Object
-<br> Magic Mouth
-<br> Magic Weapon
-<br> Mirror Image
-<br> Misty Step
-<br> Nystul's Magic Aura
-<br> Pass without Trace
-<br> Phantasmal Force
-<br> Pyrotechnics ^XGE^
-<br> Rope Trick
-<br> Scorching Ray
-<br> See Invisibility
-<br> Shatter
-<br> Silence
-<br> Skywrite
-<br> Snilloc's Snowball <br>&nbsp;&nbsp;&nbsp; Swarm ^XGE^
-<br> Spider Climb
-<br> Suggestion
-<br> Wristpocket ^EGW^
+<br/> Cloud of Daggers
+<br/> Continual Flame
+<br/> Darkness
+<br/> Darkvision
+<br/> Detect Thoughts
+<br/> Dragon's Breath ^XGE^
+<br/> Enlarge/Reduce
+<br/> Flame Arrows
+<br/> Flame Blade
+<br/> Flaming Sphere
+<br/> Flock of Familiars ^LLK^
+<br/> Fortune's Favor ^EGW^
+<br/> Gentle Repose
+<br/> ✦ Freezing Touch
+<br/> Heat Metal
+<br/> Hold Person
+<br/> Immovable Object ^EGW^
+<br/> Invisibility
+<br/> Knock
+<br/> Levitate
+<br/> ✦ Living Bomb
+<br/> Locate Object
+<br/> Magic Mouth
+<br/> Magic Weapon
+<br/> Mirror Image
+<br/> Misty Step
+<br/> Nystul's Magic Aura
+<br/> Pass without Trace
+<br/> Phantasmal Force
+<br/> Pyrotechnics ^XGE^
+<br/> Rope Trick
+<br/> Scorching Ray
+<br/> See Invisibility
+<br/> Shatter
+<br/> Silence
+<br/> Skywrite
+<br/> Snilloc's Snowball <br/>&nbsp;&nbsp;&nbsp; Swarm ^XGE^
+<br/> Spider Climb
+<br/> Suggestion
+<br/> Wristpocket ^EGW^
 
 ##### 3rd Level
 ✦ Arcane Explosion
-<br> Blink
-<br> ✦ Blizzard
-<br> Catnap ^XGE^
-<br> Clairvoyance
-<br> Counterspell
-<br> Create food and Water
-<br> Dispel Magic
-<br> Feign Death
-<br> Fireball
-<br> Fly
-<br> Galder's Tower ^LLK^
-<br> Glyph of Warding
+<br/> Blink
+<br/> ✦ Blizzard
+<br/> Catnap ^XGE^
+<br/> Clairvoyance
+<br/> Counterspell
+<br/> Create food and Water
+<br/> Dispel Magic
+<br/> Feign Death
+<br/> Fireball
+<br/> Fly
+<br/> Galder's Tower ^LLK^
+<br/> Glyph of Warding
 
 \columnbreak
 
-<br> Haste
-<br> Hypnotic Pattern
-<br> Intellect Fortress ^TCE^
-<br> Magic Circle
-<br> Major Image
-<br> Nondetection
-<br> Protection from Energy
-<br> Pulse Wave ^EGW^
-<br> Remove Curse
-<br> Sending
-<br> Sleet Storm
-<br> Slow
-<br> ✦ Spellsteal
-<br> Tidal Wave ^XGE^
-<br> Tiny Servant ^XGE^
-<br> Tongues
+<br/> Haste
+<br/> Hypnotic Pattern
+<br/> Intellect Fortress ^TCE^
+<br/> Magic Circle
+<br/> Major Image
+<br/> Nondetection
+<br/> Protection from Energy
+<br/> Pulse Wave ^EGW^
+<br/> Remove Curse
+<br/> Sending
+<br/> Sleet Storm
+<br/> Slow
+<br/> ✦ Spellsteal
+<br/> Tidal Wave ^XGE^
+<br/> Tiny Servant ^XGE^
+<br/> Tongues
 
 ##### 4th Level
 Arcane Eye
-<br> ✦ Amplify or <br>&nbsp;&nbsp;&nbsp; Dampen Magic
-<br> ✦ Arcane Barrage
-<br> Banishment
-<br> Charm Monster ^XGE^
-<br> Confusion
-<br> Conjure Minor Elementals
-<br> Dimension Door
-<br> Fire Shield
-<br> Galder's <br>&nbsp;&nbsp;&nbsp; Speedy Courier ^LLK^
-<br> Gravity Sinkhole ^EGW^
-<br> Greater Invisibility
-<br> Hallucinatory Terrain
-<br> ✦ Ice Block
-<br> Ice Storm
-<br> Leomund's Secret Chest
-<br> Locate Creature
-<br> Mordenkainen's <br>&nbsp;&nbsp;&nbsp; Private Sanctum
-<br> Otiluke's Resilient Sphere
-<br> Polymorph
-<br> Summon Elemental ^TCE^
-<br> Wall of Fire
+<br/> ✦ Amplify or <br/>&nbsp;&nbsp;&nbsp; Dampen Magic
+<br/> ✦ Arcane Barrage
+<br/> Banishment
+<br/> Charm Monster ^XGE^
+<br/> Confusion
+<br/> Conjure Minor Elementals
+<br/> Dimension Door
+<br/> Fire Shield
+<br/> Galder's <br/>&nbsp;&nbsp;&nbsp; Speedy Courier ^LLK^
+<br/> Gravity Sinkhole ^EGW^
+<br/> Greater Invisibility
+<br/> Hallucinatory Terrain
+<br/> ✦ Ice Block
+<br/> Ice Storm
+<br/> Leomund's Secret Chest
+<br/> Locate Creature
+<br/> Mordenkainen's <br/>&nbsp;&nbsp;&nbsp; Private Sanctum
+<br/> Otiluke's Resilient Sphere
+<br/> Polymorph
+<br/> Summon Elemental ^TCE^
+<br/> Wall of Fire
 
 ##### 5th Level
 Animate Objects
-<br> Bigby's Hand
-<br> Cone of Cold
-<br> Conjure Elemental
-<br> Creation
-<br> Dominate Person
-<br> Far Step  ^XGE^
-<br> Flame Strike
-<br> Hold Monster
-<br> Immolation ^XGE^
-<br> Mislead
-<br> Passwall
-<br> Planar Binding
-<br> Scrying
-<br> Seeming
-<br> Skill Empowerment ^XGE^
-<br> Synaptic Static ^XGE^
-<br> Teleportation Circle
-<br> Wall of Force
+<br/> Bigby's Hand
+<br/> Cone of Cold
+<br/> Conjure Elemental
+<br/> Creation
+<br/> Dominate Person
+<br/> Far Step  ^XGE^
+<br/> Flame Strike
+<br/> Hold Monster
+<br/> Immolation ^XGE^
+<br/> Mislead
+<br/> Passwall
+<br/> Planar Binding
+<br/> Scrying
+<br/> Seeming
+<br/> Skill Empowerment ^XGE^
+<br/> Synaptic Static ^XGE^
+<br/> Teleportation Circle
+<br/> Wall of Force
 
 \columnbreak
 
 ##### 6th Level
 Arcane Gate
-<br> Contingency
-<br> Disintegrate
-<br> Globe of Invulnerability
-<br> Gravity Fissure ^EGW^
-<br> Guards and Wards
-<br> Heroes' Feast
-<br> Investiture of Flame ^XGE^
-<br> Investiture of Ice ^XGE^
-<br> Mass Suggestion
-<br> Mental Prison ^XGE^
-<br> Otiluke's Freezing Sphere
-<br> Programmed Illusion
-<br> Scatter ^XGE^
-<br> True Seeing
-<br> Wall of Ice
-<br> Word of Recall
+<br/> Contingency
+<br/> Disintegrate
+<br/> Globe of Invulnerability
+<br/> Gravity Fissure ^EGW^
+<br/> Guards and Wards
+<br/> Heroes' Feast
+<br/> Investiture of Flame ^XGE^
+<br/> Investiture of Ice ^XGE^
+<br/> Mass Suggestion
+<br/> Mental Prison ^XGE^
+<br/> Otiluke's Freezing Sphere
+<br/> Programmed Illusion
+<br/> Scatter ^XGE^
+<br/> True Seeing
+<br/> Wall of Ice
+<br/> Word of Recall
 
 ##### 7th Level
 Delayed Blast Fireball
-<br> Etherealness
-<br> Fire Storm
-<br> Forcecage
-<br> Mirage Arcane
-<br> ✦ Glacial Spike
-<br> Mordenkainen's <br>&nbsp;&nbsp;&nbsp; Magnificent Mansion
-<br> Reverse Gravity
-<br> Project Image
-<br> ✦ Pyroblast
-<br> Sequester
-<br> Teleport
+<br/> Etherealness
+<br/> Fire Storm
+<br/> Forcecage
+<br/> Mirage Arcane
+<br/> ✦ Glacial Spike
+<br/> Mordenkainen's <br/>&nbsp;&nbsp;&nbsp; Magnificent Mansion
+<br/> Reverse Gravity
+<br/> Project Image
+<br/> ✦ Pyroblast
+<br/> Sequester
+<br/> Teleport
 
 ##### 8th Level
 Antimagic Field
-<br> ✦ Blast Wave
-<br> Clone
-<br> Demiplane
-<br> ✦ Ice Nova
-<br> Illusory Dragon ^XGE^
-<br> Incendiary Cloud
-<br> Mind Blank
-<br> Reality Break ^EGW^
-<br> Tsunami
+<br/> ✦ Blast Wave
+<br/> Clone
+<br/> Demiplane
+<br/> ✦ Ice Nova
+<br/> Illusory Dragon ^XGE^
+<br/> Incendiary Cloud
+<br/> Mind Blank
+<br/> Reality Break ^EGW^
+<br/> Tsunami
 
 ##### 9th Level
 Blade of Disaster ^TCE^
-<br> Foresight
-<br> Gate
-<br> Imprisonment
-<br> Invulnerability ^XGE^
-<br> ✦ Jaina's Flying Ship
-<br> Mass Polymorph ^XGE^
-<br> Prismatic Wall
-<br> Meteor Swarm
-<br> Ravenous Void ^EGW^
-<br> Time Ravage
-<br> Time Stop
-<br> True Polymorph
+<br/> Foresight
+<br/> Gate
+<br/> Imprisonment
+<br/> Invulnerability ^XGE^
+<br/> ✦ Jaina's Flying Ship
+<br/> Mass Polymorph ^XGE^
+<br/> Prismatic Wall
+<br/> Meteor Swarm
+<br/> Ravenous Void ^EGW^
+<br/> Time Ravage
+<br/> Time Stop
+<br/> True Polymorph
 
 </div>
 
@@ -901,48 +990,48 @@ Blade of Disaster ^TCE^
 \pagebreakNum
 
 > ##### Extended spell list 
-> This list represents the spells a mage would be able to learn but are not in line with the Warcraft fantasy for a mage. <br> 
-> <br> 
+> This list holds spells that are not in line with the Warcraft fantasy for mages, but that a Dungeon Master could still allow a mage to learn. Many of these spells deal with necromancy or demonology, both of which are forbidden by most conclaves of magi. Others are powerful Wizard with no real equivalent in the Warcraft universe. <br/> 
+> <br/> 
 >##### Cantrips (0 Level) 
 > Chill Touch
-> <br> Sapping Sting ^EGW^
+> <br/> Sapping Sting ^EGW^
 >##### 1st Level
 > Cause Fear ^XGE^
-> <br> False Life
-> <br> Ray of Sickness
-> <br> Sleep
+> <br/> False Life
+> <br/> Ray of Sickness
+> <br/> Sleep
 >##### 2nd Level
 > Ray of Enfeeblement
 >##### 3rd Level
 > Animate Dead
-> <br> Bestow Curse
-> <br> Enemies Abound ^XGE^
-> <br> Fear
-> <br> Life Transference ^XGE^
-> <br> Speak with Dead
-> <br> Summon Lesser Demons ^XGE^
-> <br> Summon Undead ^TCE^
-> <br> Summon Shadowspawn ^TCE^
-> <br> Vampiric Touch
+> <br/> Bestow Curse
+> <br/> Enemies Abound ^XGE^
+> <br/> Fear
+> <br/> Life Transference ^XGE^
+> <br/> Speak with Dead
+> <br/> Summon Lesser Demons ^XGE^
+> <br/> Summon Undead ^TCE^
+> <br/> Summon Shadowspawn ^TCE^
+> <br/> Vampiric Touch
 >##### 4th Level
 > Summon Greater Demon ^XGE^
-> <br> Vitriolic Sphere ^XGE^
+> <br/> Vitriolic Sphere ^XGE^
 >##### 5th Level
 > Danse Macabre ^XGE^
 >##### 6th Level
 > Circle of Death
-> <br> Create Undead ^XGE^
-> <br> Forbiddance
+> <br/> Create Undead ^XGE^
+> <br/> Forbiddance
 >##### 7th Level
 > Create Magen ^ID:RotF^
-> <br> Finger of Death
-> <br> Plane Shift
+> <br/> Finger of Death
+> <br/> Plane Shift
 >##### 8th Level
 >Feeblemind
-> <br> Mighty Fortress ^XGE^
+> <br/> Mighty Fortress ^XGE^
 >##### 9th Level
 > Wish
-> Dream of the Blue Veil ^TCE^
+> <br/> Dream of the Blue Veil ^TCE^
 
 #### Amplify or Dampen Magic
 *4th-level abjuration*
@@ -994,6 +1083,10 @@ You draw from the fluctuating arcane near you and burst with a wave of arcane po
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Alextrasza’s Fury
 *8th-level evocation*
 ___
@@ -1004,10 +1097,6 @@ ___
 ___
 Your hands burst into flames as you push a roaring wave of fire outward from yourself. Each creature in a 60-foot cone must make a Constitution saving throw. A target takes 12d6 fire damage and is stunned until the end of their next turn on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried. A creature killed by this spell is reduced to ash.
 
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
-
 #### Blizzard
 *3rd-level evocation*
 ___
@@ -1017,7 +1106,7 @@ ___
 - **Duration:** Concentration, up to 1 minute
 ___
 A cold light flashes from your hand into the sky as blue shards hurl down in a 20-foot-radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, shards of freezing ice rain down upon the area. 
-When a creature enters the spell's area for the first time on a turn or starts its turn there, must make a Dexterity saving throw. A target takes 3d6 cold damage on a failed save, or half as much damage on a successful one.
+When a creature enters the spell's area for the first time on a turn or starts its turn there, it must make a Dexterity saving throw. A target takes 3d6 cold damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
@@ -1043,6 +1132,8 @@ ___
 ___
 Your fingers become cold to the touch as frost manifests on their surface. Make a melee spell attack against a creature within range. On a hit, the creature is incapacitated and restrained until the spell ends as ice encap&shy;sulates their body. A target who hits the creature with an attack breaks the ice and ends the spell.
 
+\columnbreak
+
 #### Frostfire Bolt
 *1st-level evocation*
 ___
@@ -1054,8 +1145,6 @@ ___
 You hurl a bolt of blue flames at a creature within range. Make a ranged spell attack against the creature. On a hit, the target takes 2d6 fire damage and 2d6 cold damage.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the fire and cold damage increases by 1d6 for each slot level above 1st.
-
-\columnbreak
 
 #### Glacial Spike
 *7th-level evocation*
@@ -1077,7 +1166,7 @@ ___
 - **Components:** V, S
 - **Duration:**  Concentration, up to 1 minute
 ___
-Ice rapidly materializes around you, protecting you from harm. You gain 40 temporary hit points and immunity to cold damage for the spells duration. While the spell is active you can't move and take any actions or reactions. The spell remains until the temporary hit points have been expend or until your concentration breaks.
+Ice rapidly materializes around you, protecting you from harm. You gain 40 temporary hit points and immunity to cold damage for the spells duration. While the spell is active you can't move and take any actions or reactions. The spell remains until the temporary hit points have been expended or for the spell's duration.
 
 #### Ice Nova
 *8th-level evocation*
@@ -1089,7 +1178,10 @@ ___
 ___
 Frigid cold rapidly expands in a 15-foot-radius centered on a point you you can see within range. Each creature in the cold must succeed on a Dexterity saving throw. On a failed save, a creature takes 10d6 cold damage and is restrained for 1 minute as ice encases the lower part of their legs. On a successful save, it takes half as much damage and isn't restrained by this spell.
 
-A creature restrained by the ice can use its action to make a Strength check against your spell save DC. On a success, it frees itself. Alternatively can the ice be broken by dealing a total of 40 hit points worth of damage to it, its armor class is 10. 
+A creature restrained by the ice can use its action to make a Strength check against your spell save DC. On a success, it frees itself. Alternatively, the ice can be broken by dealing a total of 40 hit points worth of damage to it. It has an armor class of 10. 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
 
 #### Jaina's Flying Ship
 *9th-level transmutation*
@@ -1099,17 +1191,13 @@ ___
 - **Components:** V, S
 - **Duration:** 24 hours
 ___
-You channel your powers into a nonmagical ship within range, the ship can be no larger than 100 feet long, and 30 feet wide. For the spells duration, the ship gains a flying speed of 60 feet, the ship changes direction and altitude at your command, continuing its course until a new command is given or the spells duration ends.
+You channel your powers into a nonmagical ship within range, the ship can be no larger than 100 feet long, and 30 feet wide. For the spell's duration, the ship gains a flying speed of 60 feet, the ship changes direction and altitude at your command, continuing its course until a new command is given or the spells duration ends.
 
 The flying ship has an Armor Class of 15, and 300 hit points; immunity to poison and psychic damage, and immunity to all conditions.
 
-<div class='footnote'>PART 2 | SPELLS </div>
+It has a maximum carrying capacity of 50 tons (limited by the size of the ship itself). It is not slowed by any weight until its maximum capacity is reached, at which point the ship loses its flying property and falls at a rate of 60 feet per round until it hits the ground. It takes no falling damage from the fall, and its passengers are unharmed
 
-\pagebreakNum
-
-It has a maximum carrying capacity of 50 tons (limited by the size of the ship itself). It is not slowed by any weight until its maximum capacity is reached, at which point the ship loses its flying property and falls at a rate of 60 feet per round until it hits the ground. Taking no falling damage from the fall, and leaving its passengers unharmed.
-
-You can this effect permanent by casting this spell on the same ship every day for one year.
+You can make this effect permanent by casting this spell on the same ship once per week for one year.
 
 #### Living Bomb
 *2nd-level evocation*
@@ -1119,7 +1207,7 @@ ___
 - **Components:** V, S, M (a flammable liquid)
 - **Duration:**  Concentration, up to 1 minute
 ___
-You manipulate the mana flowing through a creature within range, making it burn from the inside with a roaring fire. The target must make a Constitution saving throw. Taking 1d10 fire damage on a failed save, or half as much on a successful one. At the start of each of your turns for the spells duration, the target must make another Constitution saving throw as it takes the damage again.
+You manipulate the mana flowing through a creature within range, making it burn from the inside with a roaring fire. The target must make a Constitution saving throw. On a failed save it takes 1d10 fire damage, or half as much on a successful one. At the start of each of your turns for the spells duration, the target must make another Constitution saving throw as it takes the damage again
 
 When the spell ends the target and each creature within 10 feet of it must succeed on a Dexterity saving throw or take 2d6 fire damage.
 
@@ -1137,16 +1225,60 @@ You clasp your hands together, conjuring a ball of dripping magma, launching it 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher, the initial damage increases by 1d10 for each slot level above 7th.
 
+\columnbreak
+
 #### Spellsteal
 *3rd-level abjuration*
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+- **Duration:** Instantaneous
 ___
-Choose one creature within range. Any spell of 3rd level or lower that affects the target is transferred to you for the duration of spellsteal. If the spell requires concentration, it must still be maintained by its caster. Concentration must be broken by both its original caster and you before the spell and its effects disappear. To steal a spell of 4th level or higher, make an ability check using your spell&shy;casting ability. The DC equals 10 + the spell's level. On a successful check, you steal the effects of the spell.
+Choose a creature that you can see within range. A 1st level spell effect of your choosing that affects the target is transferred to you. For its remaining duration, the spell's effect is applied to you as if you had cast it yourself. 
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you automatically transfer the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.
+If the stolen spell requires concentration, you need to concentrate on it. You do not need to provide any additional spellcasting components, if any were required by the stolen spell. Spellsteal has no effect on spells that create or summon creatures, or on spell effects that can’t be removed by *dispel magic*. 
 
+You cannot change the stolen spell from how it was originally cast, unless its description explicitly allows it to be changed after being cast. If the stolen spell has a duration of more than 1 hour, its duration is reduced to 1 hour. 
+
+To steal a spell effect of 2nd level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, you successfully steal the spell. 
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the spell level where you automatically succeed the check increases by one for each slot level above 3rd.
 <div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreak
+
+# Playtest update
+### General
+- Removed Arcane Recovery
+- Added full functionality of Sorcery Points and Meta Magic.
+- Additional ribbon feature for first level.
+- 18th and 20th level unchanged (Spell Mastery, Signature Spell)
+- The spell list was revisited and expanded.
+- The WC5e spells got some updates!
+- Arcane Barrage had its mechanic changed to be more like a big magic missile.
+- Arcane Explosion got a neat extra mechanic preventing affected targets from taking their reaction.
+- Blast Wave was renamed Alextrasza’s Fury and had change to its damage and now stuns affected creatures until the end of their next turn.
+- Blizzard had its action cost for subsequent turns removed.
+- Flurry got a mechanical change. It now works similar to magic missile.
+- Freezing Touch had now has now reads "incapacitated and restrained" instead of "incapacitated, can't move, and can't breathe".<br/> Turns out not being able to breath without being able to hold your breath is very deadly.
+- Glacial Spike had it's save changed to DEX.
+- Jaina's Flying Ship can now become a permanent effect.
+- Pyroblast had its damage increased.
+- Spellsteal got reworked ... again.
+
+## Arcane
+- Completely reworked!
+- Arcane focuses more on combat and off combat utility with a combination of time manipulation, general mastery over spell usage.
+- Arcane Charges got reworked into a buff mechanic.
+- Rune of Power was replaced with Time Warp. Provides a action surge like reaction ... for a price.
+
+## Fire
+- Empowered Evocation has been replaced. 
+The intention is to capitalize more on crits instead of guaranteed damage and to provide some synergy with Hot Streak of the subclass.
+
+## Frost
+- Reworked Brain Freeze feature. The movement speed reduction now happens automatically. The restrain is coupled to sorcery points and a single saving throw.
+This should make the feature more reliable and less time consuming.
+- Replaced Spell Sculptor with Ring of Frost. 
+A big AoE to slow down a big area and potentially freezing creatures within.
