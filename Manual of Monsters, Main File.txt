@@ -2349,15 +2349,16 @@ ___
 
 \pagebreakNum
 
-<div style='margin-top:405px'></div>
+<div style='margin-top:485px'></div>
 
 ## Drakeadon
-
-When the black dragon Nefarion performed his exper- <br> iments to create the chromatic dragonflight, one of his intermediate steps was the creation of the drakeadon. By infusing the body of a core hound with the essence of each of the five dragonflights, the Lord of Blackrock Spire succeeded in creating a deadly guard dog.
-
-***Unstable Nature.*** Like almost all of Nefarion's draconic experiments, the drakeadon has inherent weaknesses and instabilities. Its dragonflight abilities will shift and mutate through a fight, which can be deadly to groups of adven- <br> turers. However, along with their draconic powers they gain noticeable weaknesses, which a prepared group of heroes can exploit.
-
-***Guards of Blackrock.*** As creations of Nefarion, drakeadons are never encountered in the wild. They are almost exclusively found acting under the employ of certain members of the black dragonflight or rarely dark iron dwarves in the bowels of Blackrock Mountain. 
+In the shadowy peak of Blackrock Mountain, the black dragon Nefarian executed many sick and twisted experiments using the blood and bodies of dragons. This resulted in the creation of his chromatic dragons; but never content to let progress lie still, Nefarian saw fit to further experiment. The exact methods are thankfully lost to time, but the result was a hideous amalgamation of draconic and elemental features, a breed of two-headed monsters of opalescent scales, immense power, and uncontrollable aggression.
+ 
+***Chromatic Instability.***  Drakeadons possess the same physical properties as Nefarian's other chromatic experiments, with the combined strengths and weaknesses of many breeds of dragon; however, their bodies are unstable and shift form and function constantly, ever changing their colour and power.
+ 
+***Blackwing's Pride.*** As perhaps Nefarian's greatest creations, the few living Drakeadons were seen exclusively guarding his lair in Blackrock Mountain. Held in chains and cages, they were barely able to be  controlled, and lashed out at any intruders that dared encroach their master's sanctum.
+ 
+***Elemental Anomalies.*** The nature of the experiments that spawned these abominations is unknown - however it is believed by some explorers that the dragon spawned them using the essence of the elemental core hounds, the favored pets of Nefarian's hated enemy, Ragnaros the Firelord. Were this true, it would demonstrate yet further the depths of the black dragon's depraved approach to science.
 
 \columnbreak
 
@@ -2399,12 +2400,12 @@ ___
 
 <div class="pageLetter">D</div>
 <div class='footnote'>DRAKEADONS </div>
-<img src='https://www.gmbinder.com/images/ehvr4Xh.jpg' style='position:absolute; left:0px; top:0px; width:793px' />
-<img src='https://www.gmbinder.com/images/epoShfv.png' style='position:absolute; bottom:-750px; left:0px; transform:scaleY(-1)' />
+<img src='https://www.gmbinder.com/images/ehvr4Xh.jpg' style='position:absolute; left:0px; top:0px; width:850px' />
+<img src='https://www.gmbinder.com/images/epoShfv.png' style='position:absolute; bottom:-800px; left:0px; transform:scaleY(-1)' />
 
 \pagebreakNum
 
-<br>
+<br />
 
 <div style='margin-top:1100px'></div>
 
@@ -2423,7 +2424,7 @@ ___
 >
 > In addition, any creature who failed the saving throw is covered in molten slag. The creature takes 5 (1d10) fire damage at the beginning of each of its turns until it or another creature uses an action to remove the slag.
 >
-> <br>
+> <br />
 >
 > <div style='margin-top:-30px'></div>
 >
@@ -2465,6 +2466,9 @@ ___
 
 </div>
 
+<img src='https://www.gmbinder.com/images/LSquXba.jpg' style='position:absolute; top:0px; left:-140px' />
+<img src='https://www.gmbinder.com/images/NO1EQoX.png' style='position:absolute; bottom:230px; left:0px; width:435px' />
+<img src='https://www.gmbinder.com/images/NO1EQoX.png' style='position:absolute; bottom:230px; right:0px; width:435px; transform:scaleX(-1)' />
 <div class="pageLetter">D</div>
 <div class='footnote'>DRAKEADONS </div>
 
