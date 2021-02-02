@@ -3438,31 +3438,32 @@ ___
 
 \pagebreakNum
 
-## Elemental Revenants
-When the Old Gods corrupted the armies of Elemental Lords into their service, they transformed some of their number into elemental revenants. These armored elemental warriors served as foot soldiers for the Black Empire and were a force to be reckoned with. While simple-minded, they were capable of harnessing their elemental might into deadly strikes.
+## Revenants
 
-***Soldiers for Hire.*** While they were initially created as servants for the Old Gods, not all continued to follow them after their defeat. Some came back into the service of their Elemental Lords, while some were tasked to protect certain areas or artifacts, most famously Frostmourne. Ultimately despite their power, they act as mere footnotes in the histories of those they serve.
+The elemental revenants are yet another long-unsolved mystery among many others out in the frozen land of Northrend. Far up at the cap of the world, these elemental spirits appear to be bound within enormous, ancient sets of rough-hewn armor, drifting along above the ground as though caught in gentle breeze. They are rare and, when seen, often appear to be following some kind of distant, obscure desire to stand guard, following no apparent patterns or goals beyond protecting a single area for centuries at a time.
 
-***WORDS.*** WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS WORDS
+***Mysterious Origins.*** Though they are elemental in nature, these entities are vanishingly rare outside of Northrend, and are not seen in their respective elemental planes. It is yet unknown why they act and appear the way they do, or even if they originated as elementals.
 
-***Elemental Nature.***  An elemental revenant doesn't require air, food, drink, or sleep.
+***Complex Loyalties.*** Some of the revenants of Northrend have been seen serving a mysterious master in the mountains, though for what purpose, to what end, and how deep this loyalty lies is unknown.
+
+***Tundra Ghosts.*** The revenants that drift across the snow, barely visible through blizzards and mist, have a ghostly, ethereal quality to them, and are believed by some local cultures to be the spirits of dead warriors bound eternally to their armor. 
 
 ### Air Revenant
-Sometimes known as lightning revenants, they either <br> glide eerily silent across the ground or roll on a crackling ball of lightning. They use the power of swift winds and lightning to move and strike quickly.
+Arcing electricity and static clinging to armour or weapons herald the arrival of an air or lightning revenant, twisted ribbons of rough metal wrapped around a powerful vortex. Lightning comes to their aid, wielded like a club, while the currents of air around them whip and tug at their foes. Their voices, shrill shrieks, are that of the most violent of icy gales.
 
 ### Death Revenant
-These creatures are corrupted remains of a long-forgotten elemental. It is unclear what the Old Gods intended these beings for, but they are deadly foes, able to use crude necromantic magics to reap the souls of the living.
+A mystery even greater than the cause of elemental revenants is the death revenants, so seldom seen as to border on mythical. Spoken of in hushed tones, and only when the sun is high, these fell spirits are said to be spirits of death itself. Great black scythes are wielded empty metal husks, whose echoing voices may call out in either threat or warning, though the difference may be minor. It is unknown if these dread reapers are even of the same ilk as other revenants, and their desires are, once again, a mystery.
 
 ### Earth Revenant
-These revenants are not particularly swift but are able to channel the power of the earth to perform incredibly powerful strikes.
+Plumes of stones and dry earth support stout, sturdy plates roughly riveted together. A massive club, thick enough to topple walls, drifts nearby. An earth revenant wields pure, raw power, roaming their territories slowly, with the assurance that any opposition will be completely flattened. 
 
 ### Fire Revenant
-Lit from within by the glowing fires that make up their core, these creatures are swift and deadly. Their armored shell helps protect them from the water that would extinguish their elemental cousins.
-
-### Water Revenant
-Also known as frost or ice revenants, these creatures use the power of waves and frost to both protect and attack.
+Jagged, scaled armor kept red-hot by the blazing flames within, a fire revenant resembles a floating foundry, spewing molten slag and burning coals in its wake. Unlike most revenants, their weapons are well-crafted and often beautiful, albeit hot enough to brand their foes with artful scars. When rarely seen outdoors in Northrend, the extreme heat flowing out of their bodies clashes with the cold and blankets them in steam.
 
 \columnbreak
+
+### Water Revenant
+Smooth pots or jugs - connected to a water revenant's armoured body by thick chains - constantly spill out with the clear, freezing water that comprises the vague appearance of a body. Frigid temperatures accompany these revenants, who may well be the most at home in the icy land of Northrend. Water ebbs and flows at their command, frostbite awaits anyone at the receiving end of their jagged, cruel scimitars. 
 
 ___
 > ## Air Revenant
@@ -3499,8 +3500,8 @@ ___
 > 
 > ***Lightning Strike (Recharge 5-6).*** The revenant makes one mace attack. If the attack hits, it deals an extra 38 (7d10) lightning damage, and the target must succeed on a DC 13 Constitution saving throw or be stunned until the end of the revenant's next turn. <!-- https://wc5e-cr-calculator.frogvall.com/?1;18;117;5;13;7;33;21;0;21;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;0;;;; -->
 
-<img src='https://www.gmbinder.com/images/mr5Fl7x.jpg' style='position:absolute; bottom:-150px; right:-0px; width:480px' />
-<img src='https://www.gmbinder.com/images/zeK0PZ5.png' style='position:absolute; bottom:-100px; left:-140px; width:1000px; ' />
+<img src='https://www.gmbinder.com/images/mr5Fl7x.jpg' style='position:absolute; bottom:-300px; right:-0px; width:480px' />
+<img src='https://www.gmbinder.com/images/zeK0PZ5.png' style='position:absolute; bottom:-300px; left:-120px; width:1000px; ' />
 
 <div class="pageLetter">E</div>
 <div class='footnote'>ELEMENTAL REVENANTS </div>
