@@ -79,7 +79,7 @@
 /* INK BLOT STYLES */
 
   /* Root style for inkblots. Use alone, or together with
-  one of the inkb lotstyle classes below. Essentially:
+  one of the ink blotstyle classes below. Essentially:
   <img url='{url}' class='inkblot inkblot-blue' />
   */
   .inkblot {
@@ -125,6 +125,13 @@
     background-size  : cover;
 }
 
+/* Footer with white text against dark backgrounds */
+.phb .footnote.footnote-white,
+.phb .footnote.footnote-white + .pageNumber,
+.phb .footnote.footnote-white + section .pageNumber {
+    color: rgba(255,255,255,0.8);
+}
+
 .phb:nth-child(even):after{ 
     content          : '';
     position         : absolute;
@@ -164,6 +171,11 @@
     right      : 12px;
 }
 
+/* Use black tones for statblock backgrounds */
+.phb blockquote {
+  box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
+}
+
 </style>
 
 <div style='margin-top:555px'></div>
@@ -187,7 +199,9 @@ Mages are supreme magic-users, defined and united as a class by the spells they 
 <div style='margin-top:317px'></div>
 
 ### Masters of Time and Space
-Students gifted with a keen intellect and unwavering discipline may walk the path of the mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, mages wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, mages can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze. Masters of ice can command blizzards that tear into flesh and limit movement. Should enemies manage to survive this assault, mages can shrink them into harmless sheep in the blink of an eye.
+Students gifted with a keen intellect and unwavering discipline may walk the path of the mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. 
+
+To avoid interference with their spellcasting, mages wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, mages can summon bursts of fire to incinerate distant targets and set entire battlefields ablaze. Masters of ice can command blizzards that tear into flesh and freeze bones. Should enemies manage to survive this assault, mages can shrink them into harmless sheep in the blink of an eye.
 
 Powerful magi can even generate enhancements and portals, assisting allies by sharpening their minds and transporting them instantly across the world.
 
@@ -508,8 +522,6 @@ ___
 
 You can change your list of prepared mage spells when you finish a short or a long rest.
 
-<div class='footnote'>PART 1 | CLASSES</div>
-
 #### Time Warp
 *14th-level Arcane feature* 
 ___
@@ -524,7 +536,7 @@ You can exert your control over magic to warp time itself. When a creature you c
 
 <img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:0px; left:0px; width:100%; height:100%; transform: scaleX(-1)' />
 
-<div class='footnote'>PART 1 | CLASSES</div>
+<div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
 \pagebreakNum
 
@@ -597,13 +609,13 @@ You gain one of the following features of your choice:
 
 When the barrier is reduced to 0 hit points, each creature within 10 feet of you has their speed reduced by 10 feet until the start of your next turn as the barrier bursts.
 
-<div class='footnote'>PART 1 | CLASSES</div>
-
 <img src='https://www.gmbinder.com/images/u17sxuH.jpg' style='position:absolute; top:560px; right:260px; width:700px' />
 
 <img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:60px; left:0px; width:100%; height:100%;' />
 
 <img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:0px; left:0px; width:100%; height:100%;' />
+
+<div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
 \pagebreakNum
 
@@ -696,7 +708,7 @@ ___
 > ### Reactions
 > ***Freeze.*** When a creature within reach hits the water elemental with a melee attack, the water elemental can attempt to grapple it.
 
-<div class='footnote'>PART 1 | CLASSES</div>
+<div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
 <img src='https://www.gmbinder.com/images/4bKo7jE.jpg' style='position:absolute; bottom:-130px; right:-150px; width:1000px' />
 
