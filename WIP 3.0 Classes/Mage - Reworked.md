@@ -283,6 +283,9 @@ You start with the following equipment, in addition to the equipment granted by 
  - A spellbook
 
 ### Spellcasting
+*1st-level mage feature* 
+<div style='margin-top:-4px'></div>
+
 As a student of arcane, you own a spellbook with spells that show the glimmerings of your true power. See chapter 10 of Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the mage spell list.
 
 #### Cantrips
@@ -308,10 +311,6 @@ At 1st level, you know three cantrips of your choice from the mage spell list. Y
 \columnbreak
 
 #### Spellbook
-*1st-level mage feature* 
-___
-<div style='margin-top:-6px'></div>
-
 You have a spellbook containing six 1st-level mage spells of your choice. Your spellbook does not contain your known cantrips.
 
 #### Preparing and Casting Spells
@@ -322,7 +321,6 @@ You prepare the list of mage spells that are available for you to cast. To do so
 For example. if you're a 3rd-level mage, you have four <br/> 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of mage spells requires time spent studying your spellbook and memori-zing the incantations and gestures you must make to cast the spell: 1 minute per spell level for each spell on your list.
-<div style='margin-top:-2px;'></div>
 
 #### Spellcasting Ability
 Intelligence is your spellcasting ability for your mage spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a mage spell you cast and when making an attack roll.
@@ -333,23 +331,19 @@ Intelligence is your spellcasting ability for your mage spells, since you learn 
 
 **Spell attack modifier** = your proficiency bonus + <br/> your Intelligence modifier
 </div>
-<div style='margin-top:-2px;'></div>
 
 #### Ritual Casting
 You can cast a mage spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
-<div style='margin-top:-2px;'></div>
 
 #### Spellcasting Focus
 You can use an arcane focus as a spellcasting focus for your mage spells.
-<div style='margin-top:-2px;'></div>
 
 #### Learning Spells of 1st Level and Higher
 Each time you gain a mage level, you add two mage spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Mage table. On your adventurers, you might find other spells that you can add to your spellbook (see the "Your Spellbook" sidebar).
 
 ### Magic Sense
 *1st-level mage feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 Your studies taught you how to sense residual magical energy. You can sense when a spell was cast within the last hour at your current location and see writing created or used by magic that is hidden to others. As long as you understand the language you can also decipher and read it.
 
@@ -362,8 +356,7 @@ Others spot the message's presence with a successful DC 15 Wisdom (Perception) c
 
 ### Font of Magic
 *2nd-level mage feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
@@ -386,8 +379,7 @@ You can transform unexpended sorcery points into one spell slot as a bonus actio
 
 ### Magical Study
 *2nd-level mage feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 You choose a magical study, shaping your practice of magic through one of three areas: Arcane, Fire or Frost, all detailed at the end of the class description.
 
@@ -395,8 +387,7 @@ Your choice grants you features at 3rd level and again at 6th, 10th, and 14th le
 
 ### Metamagic
 *3rd-level mage feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
 
@@ -407,9 +398,9 @@ When you cast a spell that forces other creatures to make a saving throw, you ca
 A chosen creature automatically succeeds on its saving throw against the spell.
 
 #### Distant Spell
-When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
+When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the spell's range.
 
-When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
+When you cast a spell that has a range of touch, you can spend 1 sorcery point to have the spell's range be 30 feet.
 
 #### Transmuted Spell
 When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder. 
@@ -428,7 +419,7 @@ When you cast a spell that forces a creature to make a saving throw to resist it
 When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
 
 #### Seeking Spell
-If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the d20, and you must use the new roll. You can use Seeking Spell even if you have already used a different Metamagic option during the casting of the spell. 
+When you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the d20, though must use the new roll. You can use Seeking Spell even if you have already used a different Metamagic option during the casting of the spell. 
 
 #### Subtle Spell
 When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
@@ -439,8 +430,7 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 
 ### Ability Score Improvement
 *4th-level mage feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2. or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -450,21 +440,21 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 ### Spell Mastery
 *18th-level mage feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
-You have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level mage spell and a 2nd-level mage spell that are in your spell&shy;book. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+You have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level mage spell and a 2nd-level mage spell that are in your spell&shy;book. 
+
+You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 You can spend 8 hours in study, and change one or both of the spells you chose for different spells of the same level.
 
 ### Signature Spells
 *20th-level mage feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
-You gain mastery over <br/> two powerful spells and can cast them with little effort. <br/> Choose two 3rd-level mage spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
+You gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level mage spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. 
 
-If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 ## Magical Studies
 Mages are spellcasters who favor magics involving the cardinal elements of the universe. Students gifted with a keen intellect and unwavering discipline may walk the path of the mage. The magic available to mages is both great and dangerous, and thus is revealed only to the most devoted practitioners.
@@ -474,15 +464,13 @@ Mages of the arcane are diviners of secrets, balancing the ebb and flow of incre
 
 #### Bonus Cantrip
 *2nd-level Arcane feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 When you choose this magical study at 2nd level, you learn the *prestidigitation* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 #### Arcane Charges
 *2nd-level Arcane feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 You gain the ability to conserve and enhance your mage abilities beyond the norm. Whenever you cast a mage spell of 1st level or higher, gain an arcane charge of the equivalent level up to 5th level. Spells slots higher than 5th give a 5th level arcane charge. These charges last until they are used, replaced by a higher level charge, or after 1 minute has passed.
 
@@ -495,15 +483,13 @@ You may expend an arcane charge to grant yourself one of the following effects. 
 
 #### Chrono Shift
 *2nd-level Arcane feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 After rolling initiative, but before the first creature takes its turn, you can switch your result with the result of another creature that you can see. Once you've done so you can't use this feature again until you finish a long rest.
 
 #### Arcane Brilliance
 *6th-level Arcane feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 You gain proficiency in the Arcana skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make with it.
 
@@ -511,8 +497,7 @@ Additionally, you are always under the effects of a *comprehend languages* spell
 
 #### Presence of Mind
 *10th-level Arcane feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 Whenever you create a spell slot from sorcery points you also gain an arcane charge of equivalent level and you can expend the charge as part of the same bonus action.
 
@@ -548,15 +533,13 @@ While any worthy mage is an unparalleled expert in the use of magic and heavily 
 
 #### Bonus Cantrip
 *2nd-level Fire feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 When you choose this magical study at 2nd level, you learn the *control flames* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 #### Hot Streak
 *2nd-level Fire feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 The blazing energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.
 
@@ -564,8 +547,7 @@ At 10th level, you may choose any number of dice that rolled the highest number 
 
 #### Cauterize
 *6th-level Fire feature*
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 If you are reduced to 0 hit points, you can use your reaction to draw on the fiery energy that burns within you. You are instead reduced to 1 hit point, and each creature within 10 feet of you takes fire damage equal to half your mage level + your Intelligence modifier.
 
@@ -575,8 +557,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 #### Ignite
 *10th-level Fire feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 When you deal fire damage with a spell of 1st level or higher, you can spend up to 3 sorcery points to empower a fire damage dealing spell of up to 5th-level. For each sorcery point spent you can add an extra die to a damage roll of a spell that deals fire damage.
 
@@ -584,8 +565,7 @@ For example, when you cast Burning Hands and spend 2 points on it you add an add
 
 #### Combustion
 *14th-level Fire feature*
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 You can unleash the flames that blaze within you. As an action, you wreathing yourself in swirling fire.
 For 1 minute, you gain the following benefits:
@@ -603,15 +583,13 @@ Frost mages stand apart from their colleagues, in that their chosen school of ma
 
 #### Bonus Cantrip
 *2nd-level Frost feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 When you choose this magical study at 2nd level, you learn the *shape water* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 #### Fingers of Frost
 *2nd-level Frost feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 You gain one of the following features of your choice:
 
@@ -644,8 +622,7 @@ At the end of a long rest, you can conjure a new water elemental. If you already
 
 #### Brain Freeze
 *6th-level Frost feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 Whenever a creature would take cold damage from one of your mage spells, its movement speed is reduced by 10 feet until the end of your next turn.
 
@@ -656,8 +633,7 @@ Beginning at 14th level the creature becomes paralyzed instead of restrained.
 
 #### Hands of Frost
 *10th-level Frost feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 You gain one of the following features, depending on your choice at 2nd level.
 
@@ -675,8 +651,7 @@ In addition, you can now spend sorcery points to cause the effect of Brain Freez
 
 #### Ring of Frost
 *14th-level Frost feature* 
-___
-<div style='margin-top:-6px'></div>
+<div style='margin-top:-4px'></div>
 
 You can use your action to conjure up a ring of magical runes to invoke the deepest cold around a point you can choose within 60 feet. The ring has a 30-foot-radius and fills a 10-foot tall cylinder with frigid cold. 
 Creatures inside the area must succeed on a strength saving throw against your spell save DC or become paralyzed for up to 1 minute or until they take damage. If a creature’s body is fully inside the area the save is made with disadvantage. On a successful save a creature isn't restrained.
@@ -990,7 +965,8 @@ Blade of Disaster ^TCE^
 \pagebreakNum
 
 > ##### Extended spell list 
-> This list holds spells that are not in line with the Warcraft fantasy for mages, but that a Dungeon Master could still allow a mage to learn. Many of these spells deal with necromancy or demonology, both of which are forbidden by most conclaves of magi. Others are powerful Wizard with no real equivalent in the Warcraft universe. <br/> 
+> This list holds spells that are not in line with the Warcraft fantasy for mages, but a Dungeon Master could still allow a mage to learn. Many of these spells deal with necromancy or demonology, both of which are forbidden by most conclaves of magi. Others are powerful Wizard with no real equivalent in the Warcraft universe. 
+> <br/> 
 > <br/> 
 >##### Cantrips (0 Level) 
 > Chill Touch
@@ -1249,12 +1225,15 @@ To steal a spell effect of 2nd level or higher, make an ability check using your
 \pagebreak
 
 # Playtest update
-### General
-- Removed Arcane Recovery
+
+## General
 - Added full functionality of Sorcery Points and Meta Magic.
+- Removed Arcane Recovery, due to the change above.
 - Additional ribbon feature for first level.
 - 18th and 20th level unchanged (Spell Mastery, Signature Spell)
-- The spell list was revisited and expanded.
+
+## Spells 
+- The spell list was revisited and expanded. 
 - The WC5e spells got some updates!
 - Arcane Barrage had its mechanic changed to be more like a big magic missile.
 - Arcane Explosion got a neat extra mechanic preventing affected targets from taking their reaction.
@@ -1262,7 +1241,7 @@ To steal a spell effect of 2nd level or higher, make an ability check using your
 - Blizzard had its action cost for subsequent turns removed.
 - Flurry got a mechanical change. It now works similar to magic missile.
 - Freezing Touch had now has now reads "incapacitated and restrained" instead of "incapacitated, can't move, and can't breathe".<br/> Turns out not being able to breath without being able to hold your breath is very deadly.
-- Glacial Spike had it's save changed to DEX.
+- Glacial Spike had its save changed to DEX.
 - Jaina's Flying Ship can now become a permanent effect.
 - Pyroblast had its damage increased.
 - Spellsteal got reworked ... again.
