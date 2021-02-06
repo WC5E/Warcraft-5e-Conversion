@@ -944,8 +944,8 @@ Delayed Blast Fireball
 <br/> Teleport
 
 ##### 8th Level
-Antimagic Field
-<br/> ✦ Blast Wave
+✦ Alextrasza’s Fury
+<br/> Antimagic Field
 <br/> Clone
 <br/> Demiplane
 <br/> ✦ Ice Nova
