@@ -1103,9 +1103,9 @@ ___
 - **Duration:** 1 hour
 ___
 This spell channels a small amount of dark energy. You create one of the following magical effects within range:
-- Touch an object. Centering on that object, in a 20 foot radius, bright light becomes dim light, and dim light becomes darkness for 1 hour.
-- An object you touch lightly decays. Wood rots, glass cracks, flowers wilt. This effect isn't strong enough to effect creatures, but it can effect the things they wear, such as causing a leather belt to rot and fall away.
-- You can reanimate a Small or Tiny 0 CR creature for 1 hour. It is undead and obeys all of your commands to the best of it's abilities. You cannot use this effect again until the reanimated creature dies, or the effect ends.
+- Touch an object. Centering on that object, in a 5 foot radius, bright light becomes dim light, and dim light becomes darkness for 1 hour. If the object is a light source smaller than 1 cubic foot in size, its light is suppressed for the duration.
+- An object up to 1 cubic foot in size or an area up to 1 square foot that you touch lightly decays. Wood rots, glass cracks, flowers wilt. This effect isn't strong enough to affect creatures, but it can affect the things they wear, such as causing a leather belt to rot and fall away.
+- You can reanimate a Tiny 0 CR beast for 1 hour. It is undead and obeys all of your commands to the best of it's abilities, though it cannot attack. You cannot use this effect again until the reanimated creature dies, or the effect ends.
 - You instantaneously light a candle, torch, or small campfire.
 - You make a glowing symbol or rune appear on an object or a surface for 1 hour.
 
