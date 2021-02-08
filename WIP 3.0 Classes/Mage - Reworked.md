@@ -1227,7 +1227,7 @@ Choose a creature that you can see within range. A 1st level spell effect of you
 
 If the stolen spell requires concentration, you need to concentrate on it. You do not need to provide any additional spellcasting components, if any were required by the stolen spell. Spellsteal has no effect on spells that create or summon creatures, or on spell effects that can’t be removed by *dispel magic*. 
 
-You cannot change the stolen spell from how it was originally cast, unless its description explicitly allows it to be changed after being cast. If the stolen spell has a duration of more than 1 hour, its duration is reduced to 1 hour. 
+You cannot change the stolen spell from how it was originally cast, unless its description explicitly allows it to be changed after being cast. 
 
 To steal a spell effect of 2nd level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, you successfully steal the spell. 
 
