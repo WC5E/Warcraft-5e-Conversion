@@ -530,11 +530,7 @@ ___
 You can exert your control over magic to warp time itself. When a creature you can see within 60 feet of you begins their turn, you can use your reaction to allow that creature to take another action during that turn. When you do so, you gain one level of exhaustion.
 
 
-<img src='https://cdna.artstation.com/p/assets/images/images/010/560/706/large/michael-roberts-arcane.jpg?1525087569' style='position:absolute; bottom:-30px; right:-15px; width:425px; transform: scaleX(-1)' />
-
-<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:60px; left:0px; width:100%; height:100%; transform: scaleX(-1)' />
-
-<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:0px; left:0px; width:100%; height:100%; transform: scaleX(-1)' />
+<img src='https://www.gmbinder.com/images/2qphvm4.png' style='position:absolute; right:0; bottom:-70px; width:440px;' />
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
@@ -609,11 +605,7 @@ You gain one of the following features of your choice:
 
 When the barrier is reduced to 0 hit points, each creature within 10 feet of you has their speed reduced by 10 feet until the start of your next turn as the barrier bursts.
 
-<img src='https://www.gmbinder.com/images/u17sxuH.jpg' style='position:absolute; top:560px; right:260px; width:700px' />
-
-<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:60px; left:0px; width:100%; height:100%;' />
-
-<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:0px; left:0px; width:100%; height:100%;' />
+<img src='https://www.gmbinder.com/images/5eknUH4.png' style='position:absolute; left:0; bottom:-40px; width:430px;' />
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
@@ -653,9 +645,9 @@ You gain one of the following features, depending on your choice at 2nd level.
 
 In addition, you can now spend sorcery points to cause the effect of Brain Freeze.
 
-\columnbreak
-
 ***Water Elemental.*** Your water elemental changes into an ice elemental and gains the following additional benefits:
+
+\columnbreak
 
 - It gains immunity to cold damage.
 - Brain Freeze now applies to cold damage caused by the elemental.
@@ -672,7 +664,7 @@ Additionally creatures passing through the area with non-magical means have thei
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-<div style='margin-top:0px;'></div>
+<div style='margin-top:-12px;'></div>
 
 ___
 > ## Water Elemental
@@ -712,9 +704,10 @@ ___
 
 <img src='https://www.gmbinder.com/images/4bKo7jE.jpg' style='position:absolute; bottom:-130px; right:-150px; width:1000px' />
 
-<img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute;  top:170px; left:0px; width:100%; height:100%' />
+<img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:130px; transform:scaleX(-1); left:0px; width:100%; height:100%' />
 
-<img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute;  top:0px; left:0px; width:100%; height:100%' />
+<img src='https://www.gmbinder.com/images/pbSeYXZ.png' style='position:absolute; top:0px; left:0px; transform:scaleY(-1); width:100%; height:100%' />
+
 
 
 \pagebreakNum
@@ -983,13 +976,16 @@ Blade of Disaster ^TCE^
 >##### Cantrips (0 Level) 
 > Chill Touch
 > <br/> Sapping Sting ^EGW^
+> <br/> <br/>
 >##### 1st Level
 > Cause Fear ^XGE^
 > <br/> False Life
 > <br/> Ray of Sickness
 > <br/> Sleep
+> <br/> <br/>
 >##### 2nd Level
 > Ray of Enfeeblement
+> <br/> <br/>
 >##### 3rd Level
 > Animate Dead
 > <br/> Bestow Curse
@@ -1001,25 +997,33 @@ Blade of Disaster ^TCE^
 > <br/> Summon Undead ^TCE^
 > <br/> Summon Shadowspawn ^TCE^
 > <br/> Vampiric Touch
+> <br/> <br/>
 >##### 4th Level
 > Summon Greater Demon ^XGE^
 > <br/> Vitriolic Sphere ^XGE^
+> <br/> <br/>
 >##### 5th Level
 > Danse Macabre ^XGE^
+> <br/> <br/>
 >##### 6th Level
 > Circle of Death
 > <br/> Create Undead ^XGE^
 > <br/> Forbiddance
+> <br/> <br/>
 >##### 7th Level
 > Create Magen ^ID:RotF^
 > <br/> Finger of Death
 > <br/> Plane Shift
+> <br/> <br/>
 >##### 8th Level
 >Feeblemind
 > <br/> Mighty Fortress ^XGE^
+> <br/> <br/>
 >##### 9th Level
 > Wish
 > <br/> Dream of the Blue Veil ^TCE^
+
+\columnbreak
 
 #### Amplify or Dampen Magic
 *4th-level abjuration*
@@ -1059,6 +1063,10 @@ You extend your hand and make a burst of arcane energy erupt from a target withi
 
 This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), 17th level (4d8).
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Arcane Explosion
 *3rd-level evocation*
 ___
@@ -1071,9 +1079,6 @@ You draw from the fluctuating arcane near you and burst with a wave of arcane po
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
 
 #### Alextrasza’s Fury
 *8th-level evocation*
@@ -1110,6 +1115,8 @@ Three shards of ice streaks out toward one or more creatures within range. Make 
 
 This spell's damage increases by 1d4 per shard when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
+\columnbreak
+
 #### Freezing Touch
 *2nd-level evocation*
 ___
@@ -1120,7 +1127,6 @@ ___
 ___
 Your fingers become cold to the touch as frost manifests on their surface. Make a melee spell attack against a creature within range. On a hit, the creature is incapacitated and restrained until the spell ends as ice encap&shy;sulates their body. A target who hits the creature with an attack breaks the ice and ends the spell.
 
-\columnbreak
 
 #### Frostfire Bolt
 *1st-level evocation*
@@ -1156,6 +1162,10 @@ ___
 ___
 Ice rapidly materializes around you, protecting you from harm. You gain 40 temporary hit points and immunity to cold damage for the spells duration. While the spell is active you can't move and take any actions or reactions. The spell remains until the temporary hit points have been expended or for the spell's duration.
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Ice Nova
 *8th-level evocation*
 ___
@@ -1167,9 +1177,6 @@ ___
 Frigid cold rapidly expands in a 15-foot-radius centered on a point you you can see within range. Each creature in the cold must succeed on a Dexterity saving throw. On a failed save, a creature takes 10d6 cold damage and is restrained for 1 minute as ice encases the lower part of their legs. On a successful save, it takes half as much damage and isn't restrained by this spell.
 
 A creature restrained by the ice can use its action to make a Strength check against your spell save DC. On a success, it frees itself. Alternatively, the ice can be broken by dealing a total of 40 hit points worth of damage to it. It has an armor class of 10. 
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
 
 #### Jaina's Flying Ship
 *9th-level transmutation*
@@ -1201,6 +1208,8 @@ When the spell ends the target and each creature within 10 feet of it must succe
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage of the explosion increases by 1d6 for each slot level above 2nd.
 
+\columnbreak
+
 #### Pyroblast
 *7th-level evocation*
 ___
@@ -1212,8 +1221,6 @@ ___
 You clasp your hands together, conjuring a ball of dripping magma, launching it at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 13d10 fire damage and ignites. Until a creature takes an action to douse the fire, the target takes 1d10 fire damage at the start of each of its turns.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher, the initial damage increases by 1d10 for each slot level above 7th.
-
-\columnbreak
 
 #### Spellsteal
 *3rd-level abjuration*
