@@ -201,9 +201,10 @@ Mages are supreme magic-users, defined and united as a class by the spells they 
 ### Masters of Time and Space
 Students gifted with a keen intellect and unwavering discipline may walk the path of the mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. 
 
-To avoid interference with their spellcasting, mages wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, mages can summon bursts of fire to incinerate distant targets and set entire battlefields ablaze. Masters of ice can command blizzards that tear into flesh and freeze bones. Should enemies manage to survive this assault, mages can shrink them into harmless sheep in the blink of an eye.
+To avoid interference with their spellcasting, mages wear only cloth armor, but arcane shields and enchantments give them additional protection. From afar, they summon bursts of fire that can set entire fields ablaze, and conjure forth blizzard strong enough to shatter bones. 
 
-Powerful magi can even generate enhancements and portals, assisting allies by sharpening their minds and transporting them instantly across the world.
+The most powerful among them can even generate enhancements and portals, assisting allies by sharpening their minds and transporting them instantly across the world.
+
 
 ### Scholars of the Arcane
 Wild and enigmatic, varied in form and function, the power of magic draws students who seek to master its mysteries. Some aspire to become like the titans, shaping reality itself. Though the casting of a typical spell requires merely the utterance of a few strange words, fleeting gestures, and sometimes a pinch or clump of exotic materials, these surface components barely hint at the expertise attained after years of apprenticeship and countless hours of study.
@@ -211,7 +212,13 @@ Wild and enigmatic, varied in form and function, the power of magic draws studen
 Mages live and die by their spells. Everything else is secondary. They learn new spells as they experiment and grow in experience. They can also learn them from other mages, from ancient tomes or inscriptions, and from ancient creatures that are steeped in magic.
 
 ### The Lure of Knowledge
-Mages' lives are seldom mundane. The closest a mage is likely to come to an ordinary life is working as a sage or lecturer in a library or university, teaching others the secrets of the multiverse. But the lure of knowledge and power calls even the most unadventurous mages out of the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most mages believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age.
+Mages' lives are seldom mundane. The closest a mage is likely to come to an ordinary life is working as a sage or lecturer in a library or university, teaching others the secrets of the multiverse. But the lure of knowledge and power calls even the most unadventurous mages out of the safety of their libraries and laboratories and into crumbling ruins and lost cities.
+
+### Creating a Mage
+Creating a mage character demands a backstory dominat&shy;ed by at least one extraordinary event. How did you first discover your aptitude for magic? Did you have a natural talent, or were you the studious apprentice of another mage? Or perhaps you encountered a magical creature, or an old tome rich in arcane secrets?
+
+What then drew you forth to adventure? Did you learn of a secret trove of spells and power lost to the ages, or are you seeking knowledge that no book can teach?
+
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/4bKo7jE.jpg' style='position:absolute; top:-200px; right:-150px; width:1000px' />
@@ -286,6 +293,8 @@ ___
 You start with the following equipment, in addition to the equipment granted by your background:
  - *(a)* quarterstaff or *(b)* a dagger
  - *(a)* a component pouch or *(b)* an arcane focus
+ - *(a)* a scholar's pack or *(b)* an explorer's pack
+ - A spellbook
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
