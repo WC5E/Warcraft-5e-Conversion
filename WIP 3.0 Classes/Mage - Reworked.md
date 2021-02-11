@@ -209,8 +209,6 @@ The most powerful among them can even generate enhancements and portals, assisti
 ### Scholars of the Arcane
 Wild and enigmatic, varied in form and function, the power of magic draws students who seek to master its mysteries. Some aspire to become like the titans, shaping reality itself. Though the casting of a typical spell requires merely the utterance of a few strange words, fleeting gestures, and sometimes a pinch or clump of exotic materials, these surface components barely hint at the expertise attained after years of apprenticeship and countless hours of study.
 
-Mages live and die by their spells. Everything else is secondary. They learn new spells as they experiment and grow in experience. They can also learn them from other mages, from ancient tomes or inscriptions, and from ancient creatures that are steeped in magic.
-
 ### The Lure of Knowledge
 Mages' lives are seldom mundane. The closest a mage is likely to come to an ordinary life is working as a sage or lecturer in a library or university, teaching others the secrets of the multiverse. But the lure of knowledge and power calls even the most unadventurous mages out of the safety of their libraries and laboratories and into crumbling ruins and lost cities.
 
@@ -254,10 +252,7 @@ What then drew you forth to adventure? Did you learn of a secret trove of spells
 | 20th| +6 |20|| Signature Spell                                        |5||4||3||3||3||3||2||2||1||1|
 </div>
 
-### Creating a Mage
-Creating a mage character demands a backstory dominated by at least one extraordinary event. How did your character first come into contact with magic? How did you discover you had an aptitude for it? Do you have a natural talent, or did you simply study hard and practice incessantly? Did you encounter a magical creature or an ancient tome that taught you the basics of magic?
 
-What drew you forth from your life of study? Did your first taste of magical knowledge leave you hungry for more? Have you received word of a secret repository of knowledge not yet plundered by any other mages?
 
 #### Optional Rule: Multiclassing
 If your group uses the optional rule on multiclassing in the *Player's Handbook*, here's what you need to know if you choose mage as one of your classes.
@@ -304,11 +299,6 @@ You start with the following equipment, in addition to the equipment granted by 
 <div class='footnote'>PART 1 | CLASSES</div>
 
 \pagebreakNum
-
-<br/>
-
- - *(a)* a scholar's pack or *(b)* an explorer's pack
- - A spellbook
 
 ### Spellcasting
 *1st-level mage feature* 
@@ -491,13 +481,13 @@ Mages are spellcasters who favor magics involving the cardinal elements of the u
 Mages of the arcane are diviners of secrets, balancing the ebb and flow of incredible mystic energies. These practi-tioners push their magical knowledge to its very limits. Those who master this craft are capable to manipulate spells on a much more primal level.
 
 #### Bonus Cantrip
-*2nd-level Arcane feature* 
+*2nd-level Study of Arcane feature* 
 <div style='margin-top:-4px'></div>
 
 When you choose this magical study at 2nd level, you learn the *prestidigitation* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 #### Arcane Charges
-*2nd-level Arcane feature* 
+*2nd-level Study of Arcane feature* 
 <div style='margin-top:-4px'></div>
 
 You gain the ability to conserve and enhance your mage abilities beyond the norm. Whenever you cast a mage spell of 1st level or higher, gain an arcane charge of the equivalent level up to 5th level. Spells slots higher than 5th give a 5th level arcane charge. These charges last until they are used, replaced by a higher level charge, or after 1 minute has passed.
@@ -510,13 +500,13 @@ You may expend an arcane charge to grant yourself one of the following effects. 
 - As a bonus action or reaction, you can add a bonus equal to the arcane charge's level to Saving Throws against Magic or Magical Effects.
 
 #### Chrono Shift
-*2nd-level Arcane feature* 
+*2nd-level Study of Arcane feature* 
 <div style='margin-top:-4px'></div>
 
 After rolling initiative, but before the first creature takes its turn, you can switch your result with the result of another creature that you can see. Once you've done so you can't use this feature again until you finish a long rest.
 
 #### Arcane Brilliance
-*6th-level Arcane feature* 
+*6th-level Study of Arcane feature* 
 <div style='margin-top:-4px'></div>
 
 You gain proficiency in the Arcana skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make with it.
@@ -524,20 +514,20 @@ You gain proficiency in the Arcana skill if you don't already have it. Your prof
 Additionally, you are always under the effects of a *comprehend languages* spell.
 
 #### Presence of Mind
-*10th-level Arcane feature* 
+*10th-level Study of Arcane feature* 
 <div style='margin-top:-4px'></div>
 
 Whenever you create a spell slot from sorcery points you also gain an arcane charge of equivalent level and you can expend the charge as part of the same bonus action.
 
 #### Savant
-*10th-level Arcane feature* 
+*10th-level Study of Arcane feature* 
 ___
 <div style='margin-top:-6px'></div>
 
 You can change your list of prepared mage spells when you finish a short or a long rest.
 
 #### Time Warp
-*14th-level Arcane feature* 
+*14th-level Study of Arcane feature* 
 ___
 <div style='margin-top:-6px'></div>
 
@@ -554,13 +544,13 @@ You can exert your control over magic to warp time itself. When a creature you c
 While any worthy mage is an unparalleled expert in the use of magic and heavily dedicated to their craft, those who master the forces of fire tend to be a little more audacious than their peers. These mages take pride, even pleasure, in igniting their enemies in wild bursts of flame.
 
 #### Bonus Cantrip
-*2nd-level Fire feature* 
+*2nd-level Study of Fire feature* 
 <div style='margin-top:-4px'></div>
 
 When you choose this magical study at 2nd level, you learn the *control flames* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 #### Hot Streak
-*2nd-level Fire feature* 
+*2nd-level Study of Fire feature* 
 <div style='margin-top:-4px'></div>
 
 The blazing energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.
@@ -568,7 +558,7 @@ The blazing energy of your spells intensifies. When you roll damage for a spell 
 At 10th level, you may choose any number of dice that rolled the highest number possible, you can only reroll each dice once.
 
 #### Cauterize
-*6th-level Fire feature*
+*6th-level Study of Fire feature*
 <div style='margin-top:-4px'></div>
 
 If you are reduced to 0 hit points, you can use your reaction to draw on the fiery energy that burns within you. You are instead reduced to 1 hit point, and each creature within 10 feet of you takes fire damage equal to half your mage level + your Intelligence modifier.
@@ -578,7 +568,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 \columnbreak
 
 #### Ignite
-*10th-level Fire feature* 
+*10th-level Study of Fire feature* 
 <div style='margin-top:-4px'></div>
 
 When you deal fire damage with a spell of 1st level or higher, you can spend up to 3 sorcery points to empower a fire damage dealing spell of up to 5th-level. For each sorcery point spent you can add an extra die to a damage roll of a spell that deals fire damage.
@@ -586,7 +576,7 @@ When you deal fire damage with a spell of 1st level or higher, you can spend up 
 For example, when you cast Burning Hands and spend 2 points on it you add an additional 2d6 to the spells normal damage. When you cast a spell with multiple attack rolls, such as Scorching Ray, you can spend points on each attack individually.
 
 #### Combustion
-*14th-level Fire feature*
+*14th-level Study of Fire feature*
 <div style='margin-top:-4px'></div>
 
 You can unleash the flames that blaze within you. As an action, you wreathing yourself in swirling fire.
@@ -604,13 +594,13 @@ Once you use this feature, you can't use it again until you finish a long rest, 
 Frost mages stand apart from their colleagues, in that their chosen school of magic focuses on maintaining supreme control over the capabilities of their enemies. Mages who command frost perform chilling displays on the battlefield, rendering foes immobile as they bombard them with ice.
 
 #### Bonus Cantrip
-*2nd-level Frost feature* 
+*2nd-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
 
 When you choose this magical study at 2nd level, you learn the *shape water* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 #### Fingers of Frost
-*2nd-level Frost feature* 
+*2nd-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
 
 You gain one of the following features of your choice:
@@ -639,7 +629,7 @@ If you target the water elemental with a spell that deals cold damage, it is con
 At the end of a long rest, you can conjure a new water elemental. If you already have a water elemental from this feature, the first one immediately perishes.
 
 #### Brain Freeze
-*6th-level Frost feature* 
+*6th-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
 
 Whenever a creature would take cold damage from one of your mage spells, its movement speed is reduced by 10 feet until the end of your next turn.
@@ -650,7 +640,7 @@ If a creature makes a successful hit against the creature the conditions caused 
 Beginning at 14th level the creature becomes paralyzed instead of restrained.
 
 #### Hands of Frost
-*10th-level Frost feature* 
+*10th-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
 
 You gain one of the following features, depending on your choice at 2nd level.
@@ -661,14 +651,14 @@ In addition, you can now spend sorcery points to cause the effect of Brain Freez
 
 ***Water Elemental.*** Your water elemental changes into an ice elemental and gains the following additional benefits:
 
-\columnbreak
-
 - It gains immunity to cold damage.
 - Brain Freeze now applies to cold damage caused by the elemental.
 - It can cast the *sleet storm* spell once per long rest, using your spell save DC (requires your bonus action).
 
+\columnbreak
+
 #### Ring of Frost
-*14th-level Frost feature* 
+*14th-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
 
 You can use your action to conjure up a ring of magical runes to invoke the deepest cold around a point you can choose within 60 feet. The ring has a 30-foot-radius and fills a 10-foot tall cylinder with frigid cold. 
