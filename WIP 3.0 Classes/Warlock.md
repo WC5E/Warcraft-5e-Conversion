@@ -1098,18 +1098,22 @@ Your skin becomes covered in a layer of fel energy, infusing you with fiendish v
 *Necromancy cantrip*
 ___
 - **Casting Time:** 1 action
-- **Range:** 5 feet
-- **Componenets:** S
-- **Duration:** 1 hour
+- **Range:** Self
+- **Components:** S
+- **Duration:** Up to 1 hour
 ___
 This spell channels a small amount of dark energy. You create one of the following magical effects within range:
-- Touch an object. Centering on that object, in a 5 foot radius, bright light becomes dim light, and dim light becomes darkness for 1 hour. If the object is a light source smaller than 1 cubic foot in size, its light is suppressed for the duration.
-- An object up to 1 cubic foot in size or an area up to 1 square foot that you touch lightly decays. Wood rots, glass cracks, flowers wilt. This effect isn't strong enough to affect creatures, but it can affect the things they wear, such as causing a leather belt to rot and fall away.
+- Choose a point within 30 feet. In a 5-foot radius of that point, bright light becomes dim light, and dim light becomes darkness for 1 hour. Any light sources within the area have the light they produce suppressed for the duration.
+- An object up to 1 cubic foot in size or an area up to 1 square foot that you touch lightly decays. Wood rots, glass cracks, flowers wilt. Casting the spell and then continuing to touch the target advances the decay; after 1 minute, the target is destroyed. This spell cannot affect creatures, magical objects, or sturdy materials like metal and stone.
 - You can reanimate a Tiny 0 CR beast for 1 hour. It is undead and obeys all of your commands to the best of it's abilities, though it cannot attack. You cannot use this effect again until the reanimated creature dies, or the effect ends.
-- You instantaneously light a candle, torch, or small campfire.
-- You make a glowing symbol or rune appear on an object or a surface for 1 hour.
+- You instantaneously light a candle, torch, or small campfire. The fire glows your choice of a smoldering red, bright green, or shadowy purple until extinguished.
+- Your fingertip glows green or purple for up to 1 minute. While it glows, you can use your finger to draw glowing lines of the same color on a solid surface that last for 1 hour.
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+
+<div class='footnote'>PART 2 | MAGIC</div>
+
+\pagebreakNum
 
 #### Drain Life
 *1st-level necromancy*
@@ -1122,10 +1126,6 @@ ___
 You cause a green stream of energy to trail from the target creature's eyes and mouth and into your hand, forming a continuous stream of energy to bind you two together.
 
 Make a ranged spell attack against that creature. On a hit, the target takes 1d8 necrotic damage, and on each of your turns for the duration, you can use your action to deal 1d8 necrotic damage to the target automatically. Each time the target takes damage from this spell, you gain a number of hit points equal to half the damage dealt and their maximum hit point total is reduced by the same amount. This reduction lasts until they finish a long rest.
-
-<div class='footnote'>PART 2 | MAGIC</div>
-
-\pagebreakNum
 
 The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell’s range or if it has total cover from you. This spell has no effect on the creature if they are a construct or undead.
 
@@ -1155,6 +1155,10 @@ You form six orbs of fire above your head, which you launch at targets within 20
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the spell creates one more orb for each spell level above 4th.
 
+
+\columnbreak
+
+
 #### Mind Flay
 *2nd-level enchantment*
 ___
@@ -1169,7 +1173,6 @@ At the end of each of its turns, the creature can make a Wisdom saving throw, en
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
-\columnbreak
 #### Rain of Fire
 *5th-level evocation*
 ___
@@ -1200,6 +1203,12 @@ A creature can choose to ignore the mirror, in which case it vanishes after 1 mi
 
 The ritual of summoning is only able to call creatures to it, a creature can't use the summoning stone to traverse back to their previous location.
 
+
+<div class='footnote'>PART 2 | MAGIC</div>
+
+\pagebreakNum
+
+
 #### Shadow Bolt
 *Necromancy cantrip*
 ___
@@ -1214,9 +1223,6 @@ When the spell hits, you can choose to take 1 point of psychic damage to increas
 
 The spell’s damage dealt increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12). The optional damage taken increases by 2 when you reach 5th level (3), 11th level (5), and 17th level (7).
 
-<div class='footnote'>PART 2 | MAGIC</div>
-
-\pagebreakNum
 #### Shadowfury
 *6th-level enchantment*
 ___
