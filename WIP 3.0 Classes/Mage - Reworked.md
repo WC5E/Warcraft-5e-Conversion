@@ -716,9 +716,9 @@ ___
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
-<img src='https://www.gmbinder.com/images/4bKo7jE.jpg' style='position:absolute; bottom:-130px; right:-150px; width:1000px' />
+<img src='https://www.gmbinder.com/images/4bKo7jE.jpg' style='position:absolute; bottom:-250px; right:-173px; width:1000px' />
 
-<img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:130px; transform:scaleX(-1); left:0px; width:100%; height:100%' />
+<img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:185px; left:0px; width:100%; height:100%' />
 
 <img src='https://www.gmbinder.com/images/pbSeYXZ.png' style='position:absolute; top:0px; left:0px; transform:scaleY(-1); width:100%; height:100%' />
 
