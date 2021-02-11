@@ -299,14 +299,23 @@ You start with the following equipment, in addition to the equipment granted by 
 \pagebreakNum
 
 ### Unarmored Defense
-Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Intelligence modifier.
+*1st-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Intelligence modifier.
 
 ### Illidari Initiation
+*1st-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
 You are an Illidari initiate, having survived through the ruth&shy;less trials of the Illidari and received training unheard of elsewhere. This grants you the following benefits:
 
  - On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.
  - You may treat melee weapons that does not have the heavy or two-handed property as if they had the finesse and light property, in addition to their other properties.
  - When you make a Wisdom (Survival) check related to tracking a creature, you are considered proficient in the Survival skill.
+ - When you throw a weapon with the thrown property, you can choose to have it return to your hand after the attack resolves.
 
 In addition, you savor an uncanny hatred for demonic beings and have been trained in defeating them. Giving you the following additional benefits:
 
@@ -314,16 +323,26 @@ In addition, you savor an uncanny hatred for demonic beings and have been traine
  - You can speak, read, and write Eredun.
 
 ### Spectral Sight
+*1st-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
 You have ritually blinded your eyes, you eye sockets infused with magic, giving you a new sight. You can see normally in both normal and magical darkness within 60 feet of you and are able to discern colors in darkness. Additionally, you are immune to the blinded condition.
 
 At 7th level, you can hone your spectral sight to the flow of magic around you. You can use your action to gain the benefits of a *detect magic* spell for 10 minutes. You can use this feature twice. You regain all spent uses when you finish a short or long rest.
 
 ### Fel
-Starting at 2nd level, you are able to draw from the chaotic fel dormant within you. Your access to this chaotic force is represented by a number of fel points. Your demon hunter level determines the number of points you have, as shown in the Fel Point column of the Demon Hunter table.
+*2nd-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+You are able to draw from the chaotic fel dormant within you. Your access to this chaotic force is represented by a number of fel points. Your demon hunter level determines the number of points you have, as shown in the Fel Point column of the Demon Hunter table.
 
 You can spend these points to fuel various features. You start by knowing three such features: Demon's Bite, Em&shy;power Wards, and Momentum. You learn more fel features as you gain levels in this class.
 
 When you spend a fel point, it is unavailable until you finish a short or long rest, at the end of which you replenish all of your expended fel energy.
+
+\columnbreak
 
 Some fel features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
 
@@ -335,8 +354,6 @@ Some fel features require your target to make a saving throw to resist the featu
 #### Demon's Bite
 Immediately after you take the Attack action on your turn, you can spend 1 fel point to make two weapon attacks as a bonus action. You don't add your ability modifier to the damage of these attacks.
 
-\columnbreak
-
 #### Empower Wards
 Whenever you make an Intelligence, Wisdom, or Charisma saving throw, you can spend 2 fel points as a reaction to give yourself advantage on the saving throw.
 
@@ -344,7 +361,11 @@ Whenever you make an Intelligence, Wisdom, or Charisma saving throw, you can spe
 You can spend 1 fel point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 ### Metamorphosis
-Also at 2nd level, you are able to release the powers of your bound demon. On your turn, you can enter metamorphosis as a bonus action and transform into a demonic being.
+*2nd-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+You are able to release the powers of your bound demon. On your turn, you can enter metamorphosis as a bonus action and transform into a demonic being.
 
 While metamorphed, you gain the following benefits:
 
@@ -359,57 +380,109 @@ Your metamorphosis lasts for 1 minute. It ends early if you are knocked unconsci
 You can use this feature a number of times equal to the number shown for your demon hunter level in the Meta&shy;morphosis column of the Demon hunter table. You regain all spent uses after finishing a long rest.
 
 ### Demonic Mark
-At 3rd level, you choose a mark that shapes the nature of your demonically infused body. Choose the Mark of Havoc, the Mark of Vengeance, or the Mark of Wrath, all detailed at the end of the class description. 
+*3rd-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+You choose a mark that shapes the nature of your demonically infused body. Choose the Mark of Havoc, the Mark of Vengeance, or the Mark of Wrath, all detailed at the end of the class description. 
 
 Your choice grants you features at 3rd level and again at 6th, 10th level, and 17th level.
-
-### Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-### Extra Attack
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
-
-### Instinctive Hunger
-Starting at 5th level, when a creature ends its turn within 15 feet of you, you can use your reaction to move up to half your speed to a space closer to the creature. Moving in this way doesn't provoke opportunity attacks.
-
-Additionally, you have advantage on the first attack you make against the creature before the end of your next turn.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
 \pagebreakNum
 
+### Ability Score Improvement
+*4th-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Extra Attack
+*5th-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Instinctive Hunger
+*5th-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+When a creature ends its turn within 15 feet of you, you can use your reaction to move up to half your speed to a space closer to the creature. Moving in this way doesn't provoke opportunity attacks.
+
+Additionally, you have advantage on the first attack you make against the creature before the end of your next turn.
+
 ### Evasion
-At 7th level, your keen instincts lets you dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the save, and only half damage if you fail.
+*7th-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+Your keen instincts lets you dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the save, and only half damage if you fail.
 
 ### A Hunter Above All Else
-By 9th level, you have honed your instincts for hunting prey. If you spend at least 1 minute observing a creature, you gain advantage on Wisdom (Survival) checks made to track that creature until you have either killed it, choose a new quarry, or a number of days equal to your demon hunter level passes. If you lose track of your prey, you can spend 1 hour to sense the general direction of it, relative to you, as long as you are both on the same plane of existence.
+*9th-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+You have honed your instincts for hunting prey. If you spend at least 1 minute observing a creature, you gain advantage on Wisdom (Survival) checks made to track that creature until you have either killed it, choose a new quarry, or a number of days equal to your demon hunter level passes. If you lose track of your prey, you can spend 1 hour to sense the general direction of it, relative to you, as long as you are both on the same plane of existence.
 
 In addition, on your first turn during combat, you have advantage on attack rolls made against the creature.
 
 ### Demon Wings
-Starting at 11th level, you can use your reaction when you fall to manifest demonic wings and reducing any falling damage you take by an amount equal to five times your Demon Hunter level.
+*11th-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+You can use your reaction when you fall to manifest demonic wings and reducing any falling damage you take by an amount equal to five times your Demon Hunter level.
 
 Additionally, for the duration of your Metamorphosis, you gain a flying speed equal to your movement speed.
 
 ### Illidari Finesse
-Beginning at 11th level, when wielding a melee weapon with the versatile property, you can use the increased damage value even when wielding the weapon with one hand. If you choose to wield the weapon with two hands, you receive no additional benefit.
+*11th-level demon hunter feature*
 
-### Cleansed by Flames
-At 13th level, you can use your action and spend 2 fel point to wreathe your body in pain and end one effect on yourself that is causing you to be charmed, frightened, or poisoned. Each creature within 5 feet of you when you use this fea&shy;ture must make a Dexterity saving throw, taking 1d10 + half your demon hunter level in fire damage on a failed save, or half as much damage on a successful one.
+<div style='margin-top:-4px;'></div>
 
-### Revealing Gaze
-Beginning 14th level, you can concentrate fel into your charred eyes to reveal the truth of the world around you. As an action, you can spend 3 fel points to gain the benefits of the *true seeing* spells for 1 minute.
-
-### Abyssal Resilience
-At 15th level, you have acquired superior fortitude. You gain proficiency in Constitution saving throws.
-
-### Timeless Body
-Beginning at 18th level, the primal fel that courses through your body has granted you an unimaginably long lifespan. For every 10 years that pass, your body ages only 1 year and you can't be aged magically.
+When wielding a melee weapon with the versatile property, you can use the increased damage value even when wielding the weapon with one hand. If you choose to wield the weapon with two hands, you receive no additional benefit.
 
 \columnbreak
 
+### Cleansed by Flames
+*13th-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+You can use your action and spend 2 fel point to wreathe your body in pain and end one effect on yourself that is causing you to be charmed, frightened, or poisoned. Each creature within 5 feet of you when you use this fea&shy;ture must make a Dexterity saving throw, taking 1d10 + half your demon hunter level in fire damage on a failed save, or half as much damage on a successful one.
+
+### Revealing Gaze
+*14th-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+You can concentrate fel into your charred eyes to reveal the truth of the world around you. As an action, you can spend 3 fel points to gain the benefits of the *true seeing* spells for 1 minute.
+
+### Abyssal Resilience
+*15th-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+You have acquired superior fortitude. You gain proficiency in Constitution saving throws.
+
+### Timeless Body
+*18th-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+The primal fel that courses through your body has granted you an unimaginably long lifespan. For every 10 years that pass, your body ages only 1 year and you can't be aged magically.
+
 ### Prepared
-At 20th level, your supernatural senses allow you to act at <br> a moments notice. You can take two turns during the first round of any combat. You take your first turn on initiative count 30 and your second turn at your rolled initiative.
+*20th-level demon hunter feature*
+
+<div style='margin-top:-4px;'></div>
+
+Your supernatural senses allow you to act at a moments notice. You can take two turns during the first round of any combat. You take your first turn on initiative count 30 and your second turn at your rolled initiative.
 
 Furthermore, when you roll initiative and have no fel points remaining, you regain 2 fel points.
 
@@ -420,21 +493,11 @@ Each demon hunter have absorbed the soul of a demon and fights a continuous batt
 Havoc demon hunters unleashes the potent energy stored up within them, they are the pinnacle of close quarter fight&shy;ing, harnessing the destructive powers of fel in to bolster their grasp on the battlefield. Demon hunters marked with havoc are known for their unpredictable nature, immense speed, and ability to funnel fel directly into their attacks.
 
 #### Bonus Proficiency
+*3rd-level Mark of Havoc feature*
+
+<div style='margin-top:-4px;'></div>
+
 Starting when you choose this mark at 3rd level, you gain proficiency in the Acrobatics skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses this proficiency.
-
-#### Fel Rush
-At 3rd level, you gain the ability to dance through the battle&shy;field with your momentum. Whenever you spend a fel point on the Momentum fel feature, you gain the benefits of both a Dodge and Disengage action until the end of your turn.
-
-#### Vengeful Momentum
-Starting at 6th level, whenever you use your Momentum fel feature, you gain advantage on the next weapon attack you make before the end of your next turn.
-
-#### Blade Dance
-Beginning at 10th level, you gain the ability to pass through short distances in the blink of an eye. You may spend 1 fel points when you take the Attack action on your turn. Until the end of your turn, you can teleport up to 15 feet before each attack to an unoccupied space you can see.
-
-If you attack at least two different creatures with during your Attack action, you can make one additional attack with it against a third creature.
-
-#### Chaos Nova
-At 17th level, when you enter your metamorphosis, you may release a burst of chaotic energy around you. Each creature within 10 feet of you must succeed on a Constitution saving throw or be stunned until the end of your next turn.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
@@ -442,55 +505,91 @@ At 17th level, when you enter your metamorphosis, you may release a burst of cha
 
 <div style='margin-top:150px;'></div>
 
+#### Fel Rush
+*3rd-level Mark of Havoc feature*
+
+<div style='margin-top:-4px;'></div>
+
+You gain the ability to dance through the battle&shy;field with your momentum. Whenever you spend a fel point on the Momentum fel feature, you gain the benefits of both a Dodge and Disengage action until the end of your turn.
+
+#### Vengeful Momentum
+*6th-level Mark of Havoc feature*
+
+<div style='margin-top:-4px;'></div>
+
+Whenever you use your Momentum fel feature, you gain advantage on the next weapon attack you make before the end of your next turn.
+
+#### Blade Dance
+*10th-level Mark of Havoc feature*
+
+<div style='margin-top:-4px;'></div>
+
+You gain the ability to pass through short distances in the blink of an eye. You may spend 1 fel points when you take the Attack action on your turn. Until the end of your turn, you can teleport up to 15 feet before each attack to an unoccupied space you can see.
+
+If you attack at least two different creatures with during your Attack action, you can make one additional attack with it against a third creature.
+
+#### Chaos Nova
+*17th-level Mark of Havoc feature*
+
+<div style='margin-top:-4px;'></div>
+
+When you enter your metamorphosis, you may release a burst of chaotic energy around you. Each creature within 10 feet of you must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+
 ### Mark of Vengeance
 Vengeance demon hunters empowers themselves through the energies within, they are hunters that continue to be able to stand and fight when all else fails. By empowering themselves they are to take an enormous amount of hits and still come out victorious by the fights end.
 
 #### Bonus Proficiency
+*3rd-level Mark of Vengeance feature*
+
+<div style='margin-top:-4px;'></div>
+
 Starting when you choose this mark at 3rd level, you gain proficiency in the Intimidation skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses this proficiency.
-
-#### Torment
-At 3rd level, you gain the ability to torment a creature. You can use your action and choose one creature that you can see within 30 feet of you. The target must succeed on a Wisdom saving throw against your fel save DC or have dis&shy;advantage on attack rolls against creatures other than you for 1 minute. At the end of each of its turns, the target can make another saving throw, ending the effect on a success.
-
-Torment ends early on the target if you use this ability on a different creature.
-
-#### Demon Spikes
-Beginning at 6th level, your demon form is empowered by your demon mark, giving you resistance to bludgeoning, piercing, and slashing damage while in metamorphosis. Also while in metamorphosis, you have advantage on Strength and Dexterity checks and saving throws.
-
-#### Immolation Aura
-Upon reaching 10th level, you can spend 2 fel points as a bonus action to wreathe your body in flames of fel. When you activate this aura, and at the beginning of each of your turns for its duration, you take 1d6 fire damage. Immo&shy;lation aura lasts for 1 minute, until you end it as a bonus action, or until you are knocked unconscious.
-
-Whenever a creature hits you with a melee attack for the duration of immulation aura, you deal fire damage to that creature equal to 1d6 + half your Demon Hunter level.
-
-#### Last Resort
-At 17th level, you are able to draw life from your demon mark to escape death. When you are reduced to 0 hit points, you can expend 1 fel point (no action required) to have 1 hit point instead and enter your metamorphosis until the end of your next turn.
 
 \columnbreak
 
 <div style='margin-top:150px;'></div>
 
+#### Torment
+*3rd-level Mark of Vengeance feature*
+
+<div style='margin-top:-4px;'></div>
+
+You gain the ability to torment a creature. You can use your action and choose one creature that you can see within 30 feet of you. The target must succeed on a Wisdom saving throw against your fel save DC or have dis&shy;advantage on attack rolls against creatures other than you for 1 minute. At the end of each of its turns, the target can make another saving throw, ending the effect on a success.
+
+Torment ends early on the target if you use this ability on a different creature.
+
+#### Demon Spikes
+*6th-level Mark of Vengeance feature*
+
+<div style='margin-top:-4px;'></div>
+
+Your demon form is empowered by your demon mark, giving you resistance to bludgeoning, piercing, and slashing damage while in metamorphosis. Also while in metamorphosis, you have advantage on Strength and Dexterity checks and saving throws.
+
+#### Immolation Aura
+*10th-level Mark of Vengeance feature*
+
+<div style='margin-top:-4px;'></div>
+
+You can spend 2 fel points as a bonus action to wreathe your body in flames of fel. When you activate this aura, and at the beginning of each of your turns for its duration, you take 1d6 fire damage. Immo&shy;lation aura lasts for 1 minute, until you end it as a bonus action, or until you are knocked unconscious.
+
+Whenever a creature hits you with a melee attack for the duration of immulation aura, you deal fire damage to that creature equal to 1d6 + half your Demon Hunter level.
+
+#### Last Resort
+*17th-level Mark of Vengeance feature*
+
+<div style='margin-top:-4px;'></div>
+
+You are able to draw life from your demon mark to escape death. When you are reduced to 0 hit points, you can expend 1 fel point (no action required) to have 1 hit point instead and enter your metamorphosis until the end of your next turn.
+
 ### Mark of Wrath
 Wrath demon hunters draws upon the chaotic energies infused on their skin, twisting the chaos into flames of fel that they can unleash upon a target from afar. They harness the destructive fel into ruthless display of power and agony. These demon hunters are rarely show the same hunger as other 'new' Illidari, they are hunters with a prey in mind, a person whom they won't stop for until they are no more.
 
 #### Bonus Proficiency
-Starting when you choose this mark at 3rd level, you gain proficiency in the Arcana skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses this proficiency.
+*3rd-level Mark of Wrath feature*
 
-#### Chaos Flames
-At 3rd level, you learn to manifest raw flames of fel. You gain a new attack option that you can use with the Attack action. This special attack is a ranged weapon attack with <br> a range of 30 feet. You are proficient with it and add your Dexterity modifier to its attack and damage rolls. On a successful hit, this special attack deals 1d6 fire damage.
+<div style='margin-top:-4px;'></div>
 
-When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.
-
-At 11th level, the damage of your Chaos Flames increase to 1d10 fire damage.
-
-#### Fiery Brand
-Starting at 6th level, your metamorphosis empowers the chaos flames you wield. Whenever you hit a creature with a Chaos flame attack granted by your Demon's Bite, the crea&shy;ture must succeed on a Constitution saving throw or have disadvantage on attack rolls until the end of its next turn.
-
-Additionally, while in your metamorphosis, fire damage dealt by chaos flames ignores resistance to fire and treats immunity as resistance for the purpose of damage.
-
-#### Consume Magic
-Beginning at 10th level, you are able to interfere with and absorb magic. As an action, you can spend 2 fel points to create the effects of a *dispel magic* spell. When you dispel an effect this way, you gain temporary hit points equal to twice the spell's level + your Intelligence modifier. These hit points remain until you finish your next short or long rest.
-
-#### Fel Barrage
-At 17th level, you can release a torrent of chaos flames at targets near you. You can use your action and expend 1 to 5 fel points, releasing a barrage of chaos flames at creatures of your choice within 30 feet of you. Each creature must make a Dexterity saving throw. On a failed save, a creature takes 1d8 fire damage and 1d8 force damage for each fel point spend, or half as much damage on a successful one.
+You gain proficiency in the Arcana skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses this proficiency.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/9GF5zXj.jpg' style='position:absolute; top:-280px; right:0px; width:800px' />
@@ -499,15 +598,48 @@ At 17th level, you can release a torrent of chaos flames at targets near you. Yo
 
 \pagebreakNum
 
+#### Chaos Flames
+*3rd-level Mark of Wrath feature*
+
+<div style='margin-top:-4px;'></div>
+
+You learn to manifest raw flames of fel. You gain a new attack option that you can use with the Attack action. This special attack is a ranged weapon attack with a range of 30 feet. You are proficient with it and add your Dexterity mod&shy;ifier to its attack and damage rolls. On a successful hit, this special attack deals 1d6 fire damage.
+
+When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.
+
+At 11th level, the damage of your Chaos Flames increase to 1d10 fire damage.
+
+#### Fiery Brand
+*6th-level Mark of Wrath feature*
+
+<div style='margin-top:-4px;'></div>
+
+Your metamorphosis empowers the chaos flames you wield. Whenever you hit a creature with a Chaos flame attack granted by your Demon's Bite, the crea&shy;ture must succeed on a Constitution saving throw or have dis&shy;advantage on attack rolls until the end of its next turn.
+
+Additionally, while in your metamorphosis, fire damage dealt by chaos flames ignores resistance to fire and treats immunity as resistance for the purpose of damage.
+
+#### Consume Magic
+*10th-level Mark of Wrath feature*
+
+<div style='margin-top:-4px;'></div>
+
+You are able to interfere with and absorb magic. As an action, you can spend 2 fel points to create the effects of a *dispel magic* spell. When you dispel an effect this way, you gain temporary hit points equal to twice the spell's level + your Intelligence modifier. These hit points remain until you finish your next short or long rest.
+
+#### Fel Barrage
+*17th-level Mark of Wrath feature*
+
+<div style='margin-top:-4px;'></div>
+
+You can release a torrent of chaos flames at targets near you. You can use your action and expend 1 to 5 fel points, releasing a barrage of chaos flames at creatures of your choice within 30 feet of you. Each creature must make a Dexterity saving throw. On a failed save, a creature takes 1d8 fire damage and 1d8 force damage for each fel point spend, or half as much damage on a successful one.
+
+<div style='margin-top:100px;'></div>
+
+# New Equipment
+
 <div class='classTable wide'>
 
 ##### Exotic Weapons
 |&nbsp; Name | Cost |&nbsp;&nbsp;&nbsp;&nbsp;| Damage | Weight |&nbsp;&nbsp;&nbsp;&nbsp;| Properties       &nbsp;|
 |:--------------------------------------|---:|:-|:---------------|---:|:-:|:-------------------------------------|
-|&nbsp; Warglaive           | 150 gp|| 1d8 slashing   |  3 lb.|| Special, Thrown (range 20/60), Versatile (1d10)  |
+|&nbsp; Warglaive           | 25 gp|| 1d8 slashing   |  3 lb.|| Thrown (range 20/60), Versatile (1d10)  |
 </div>
-
-#### Special Weapons
-Weapons with special rules are described here.
-
-***Warglaive.*** When you make a ranged attack with a warglaive, it returns to your hand at the end of your turn unless you rolled a natural 1 on that attack roll. In that case, it lands in your target's space.
