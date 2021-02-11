@@ -966,7 +966,7 @@ Blade of Disaster ^TCE^
 <br/> Prismatic Wall
 <br/> Meteor Swarm
 <br/> Ravenous Void ^EGW^
-<br/> Time Ravage
+<br/> Time Ravage ^EGW^
 <br/> Time Stop
 <br/> True Polymorph
 
