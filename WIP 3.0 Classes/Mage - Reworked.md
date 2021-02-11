@@ -269,7 +269,12 @@ If your group uses the optional rule on multiclassing in the *Player's Handbook*
 ***Spell Slots.*** Add your levels in the mage class to the appropriate levels from other class to determine your available spell slots.
 
 #### Quick Build
-You can make a mage quickly by following these sugges-tions. First, lntelligence should be your highest ability score, followed by Constitution or Dexterity.
+You can make a mage quickly by following these sugges-tions. First, lntelligence should be your highest ability score, followed by Constitution or Dexterity. Second, choose the sage background. 
+
+Third, choose the *light* and *mage hand* cantrips, as well as one other cantrip, along with the following 1st-level spells for your spellbook: *burning hands*, *detect magic*, *feather fall*, *frostfire bolt*, *mage armor*, and *magic missile*.
+
+
+\columnbreak
 
 ## Class Features
 As a mage, you gain the following class features.
