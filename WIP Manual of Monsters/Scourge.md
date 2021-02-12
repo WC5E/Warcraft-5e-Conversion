@@ -148,7 +148,7 @@ ___
 \pagebreak
 
 ___
-> ## Death Revenant
+> ## Unforgiven
 > *Large elemental (undead), chaotic evil*
 > ___
 > - **Armor Class** 16 (Scale mail)
@@ -183,7 +183,7 @@ ___
 >
 > ***Raise Dead (recharge 5-6).*** The death revenant animates a non-undead, non-construct corpse within 60 ft. A ghoul appears in the space of the corpse and the corpse is destroyed. The ghoul then rolls for initiative acting on its turn as normal.
 
-https://gamepedia.cursecdn.com/wowpedia/f/fe/Death_Revenant.jpg
+https://wow.gamepedia.com/Deathlord_(Warcraft_III)
 
 ___
 > ## Deathcharger
@@ -256,6 +256,7 @@ ___
 
 https://gamepedia.cursecdn.com/wowpedia/f/f5/Provoke.jpg
 
+\pagebreak
 
 ___
 > ## Doomskull
@@ -365,6 +366,7 @@ ___
 
 https://gamepedia.cursecdn.com/wowpedia/e/ed/Drom%27kor.jpg
 
+\pagebreak
 
 ___
 > ## Grand Necrolyte <!-- aka necrolord -->
