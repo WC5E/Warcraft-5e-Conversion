@@ -1,0 +1,34 @@
+# Chapter 2: Classes
+Heroes are extraordinary people, driven by a thirst for excitement into a life that others would never dare lead. Your class is the pri&shy;mary definition of what your character can do. It's more than a profession; it's your character's calling. A class shapes the way you think about the world
+<br> and interact with it and your relationship with other people and powers in the multiverse. A warrior, for example, might view the world in pragmatic terms of strategy and maneu&shy;vering, and see herself as a pawn in a much larger game.
+<br> A priest, by contrast, might see himself as a willing servant in a force's unfolding plan or conflict. While the warrior has contacts in a mercenary company or army, the priest might know a number of healers, paladins, and devotees who share his faith.
+
+Your class gives you a variety of special features, such
+<br> as a warrior's mastery of weapons and armor, and a mage's spells. At low levels, your class gives you only two or three features, but as you advance in level you gain more and your existing features often improve. 
+
+Each class entry in this chapter includes a table summarizing the benefits you gain at every level, and a detailed explanation of each one.
+
+Heroes sometimes advance in more than one class. A rogue might switch direction in life and swear the oath of a paladin. A barbaric warrior might discover latent magical ability and dabble in the arcane arts while continuing to advance as a warrior.
+
+<div style='margin-top:100px;'></div>
+
+<div class='classTable wide'>
+
+##### Classes
+|Class|&nbsp;&nbsp;&nbsp;|Description|Hit Die|&nbsp;|Primary Ability|&nbsp;|Saving Throw<br>Proficiencies&nbsp;&nbsp;&nbsp;|&nbsp;|Armor and Weapons<br>Proficiencies|
+|:----|-|:----------|:-----------|-|:-------------------|-|:-----------------|-|:---------------------------------|
+|Death Knight||A knight of undeath, as keen with a weapon as they are with the forces of the undead.      |d10||Strength & Charisma  ||Constitution & Charisma ||All armor, simple and martial weapons|
+|Demon Hunter||A fighter creatred through fel, taught for their hatred of demonic beings.                 | d8||Dexterity            ||Dexterity & Charisma    ||Light armor, simple and martial weapons, warglaives|
+|Druid       ||A watcher of nature, wielding powers <br> of elune, and able to transform into animals.    | d8||Wisdom & Constitution||Intelligence & Wisdom   ||Light armor, simple weapons|
+|Hunter      ||A prowess ranger, with keen skills and knowledge of the wild and its animals.              |d10||Dexterity & Wisdom   ||Strength & Dexterity    ||Light and medium armor, simple and martial weapons, firearms|
+|Mage        ||A scholar of magic, capable of evoking arcane, shaping it to their needs.                  | d6||Intelligence         ||Intelligence & Wisdom   ||Simple weapons|
+|Monk        ||A martial artist, harnessing the power <br>of the body in pursuit of spiritual perfection. | d8||Dexterity & Wisdom   ||Strength & Dexterity    ||Light armor, simple weapons, shortswords|
+|Paladin     ||A holy warrior, wielding the light to aid their allies and defeat their enemies.           |d10||Strength & Charisma  ||Wisdom & Charisma       ||All armors, shields, simple and martial weapons|
+|Priest      ||A faithful servant of great powers, wielding light and darkness in its name.               | d6||Charisma             ||Wisdom & Charisma       ||Simple weapons|
+|Rogue       ||A master assassin who uses stealth and trickery to overcome obstacles.                     | d8||Dexterity            ||Dexterity & Intelligence||Light armor, simple weapons, hand cross-  bows, longswords, rapiers, shortswords|
+|Shaman      ||A wielder of elements, calling them to his aid, and bending them to his will.              | d8||Wisdom               ||Strength & Wisdom       ||Light and medium armor, simple weapons|
+|Warlock     ||||||||||
+|Warrior     ||An exceptional fighter, skilled with a variety of weapons and armor.                       |d10||Strength             ||Strength & Constitution ||All armor, shields, simple and martial weapons|
+</div>
+
+<div class='footnote'>PART 1 | CLASSES</div>
