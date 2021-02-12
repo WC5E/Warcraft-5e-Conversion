@@ -397,6 +397,30 @@ ___
 
 https://gamepedia.cursecdn.com/wowpedia/e/ed/Drom%27kor.jpg
 
+___
+> ## Plague Eruptor
+> *Medium undead, neutral evil*
+> __
+> - Not yet started on this stat block, but added this placeholder for the sake of Nemzal
+
+___
+> ## Lich
+> *Medium undead, neutral evil*
+> __
+> - Not yet started on this stat block, but added this placeholder for the sake of Nemzal
+
+___
+> ## Plague-dog
+> *Medium undead, neutral evil*
+> __
+> - Not yet started on this stat block, but added this placeholder for the sake of Nemzal
+
+___
+> ## Frost wyrms
+> *Medium undead, neutral evil*
+> __
+> - Not yet started on these stat blocks, but added this placeholder for the sake of Nemzal
+
 <!-- 
 Bone Golem		5	Medium
 Bone Wraith		17	Huge
