@@ -20,6 +20,29 @@
   .phb blockquote {
     box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
   }
+  
+
+/* APPENDIX STYLES */
+
+  /* Avoid upscaling first letter on an appendix page */
+  .phb:nth-of-type(n+0):nth-of-type(-n+100) h1+p::first-letter {
+    font-family: BookSanity;
+    font-size: .317cm;
+    text-rendering: optimizeLegibility;
+    float: initial;
+  }
+  
+  /* For creature statblocks within range (start and end must be specified),
+  don't show a background. Used for the appendix creatures */
+  .phb:nth-of-type(n+0):nth-of-type(-n+100) hr+section blockquote {
+    background: none;
+    border: none;
+    box-shadow: none;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
 
 
 /* INK BLOT STYLES */
@@ -117,13 +140,7 @@
 
 # Appendix B: Nonplayer Characters
 
-<br/> 
-
-This appendix contains statistics for various humanoid nonplayer characters (NPCs). These stat blocks can represent human and nonhuman NPCs, and you can add racial traits to further customize them.
-
-### Acolyte
-The Holy Light is a powerful force worshiped worldwide. Its priests are welcoming and friendly, but will face the shadow with equal fury.
-
+This appendix contains statistics for various humanoid nonplayer characters (NPCs) that might be encountered during an adventure. These stat blocks can represent human and nonhuman NPCs, and you can customize them with whichever racial traits you feel are appropriate.
 
 ___
 > ## Acolyte <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;2;12;4;0;4;0;4;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;1;1;1;1;Sacred%20Flame (Divine Glow not factored in) -->
@@ -154,19 +171,17 @@ ___
 >
 > ***Divine Glow (1/Day).*** The acolyte becomes a source of celestial light. Each undead creature in a 15-foot radius centered on the acolyte must make a DC 12 Dexterity saving throw. On a failed save, a creature takes 3 (1d6) radiant damage.
 
+**Acolytes** are the novice priests in many creeds and orders following the teachings of the Light: a powerful force wor&shy;shipped far and wide. In their tutelage, it is often they who are called on for the simple deeds and grunt work.
+
 \columnbreak
 
+
 > ##### Variant: The Damned <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;2;12;4;0;4;0;4;6;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;1;1;1;1;Sacred%20Flame -->
-> Some acolytes abandon their faith in the Holy Light and become obsessed with undeath. Those acolytes end up serving the Lich King and the Scourge.
->
-> The damned has the same statistics as an acolyte except its *cure wounds* spell can affect undead and it has the following trait in place of acolyte's Divine Glow action:
+> Some fresh-faced acolytes lose hope in the Light and instead fall to the sway of the Damned, becoming servants of the  Lich King and the Scourge. 
+> 
+> The Damned have the same astistics as an acolyte except that its *cure wounds* spell can affect undead and it has the following trait in place of acolyte's Divine Glow action:
 >
 > <br/> ***Spirit Release.*** When the damned dies, its body release part of its spirit energy. Each creature in a 10-foot radius on the damned must make a DC 12 Constitution saving throw. On a failed save, a creature takes 3 (1d6) necrotic damage.
-
-
-### Arcanist
-Be it in Dalaran or further afield, arcanists form the bulk of any magical community, any individual always looking for a chance to learn and grow stronger.
-
 
 ___
 > ## Arcanist <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;54;4;12;14;0;14;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;2;4;Arcane%20Blast;Fire%20Bolt;Magic%20Missile -->
@@ -196,8 +211,9 @@ ___
 >
 > ### Actions
 >
-> ***Quarterstaff..*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if
-wielded with two hands.
+> ***Quarterstaff..*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if wielded with two hands.
+
+Be it in a bastion of magic such as Dalaran or in smaller societies further afield, **arcanists** form the bulk of any magical community; always looking for a chance to learn and grow stronger as they indulge in their findings together with their teachers and peers.
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
