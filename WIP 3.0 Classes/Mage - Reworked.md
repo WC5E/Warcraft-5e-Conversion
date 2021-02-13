@@ -407,9 +407,7 @@ Your choice grants you features at 3rd level and again at 6th, 10th, and 14th le
 *3rd-level mage feature* 
 <div style='margin-top:-4px'></div>
 
-At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
-
-You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level. You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
 #### Careful Spell
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Intelligence modifier (minimum of one creature). 
@@ -493,10 +491,10 @@ When you choose this magical study at 2nd level, you learn the *prestidigitation
 You gain the ability to conserve and enhance your mage abilities beyond the norm. Whenever you cast a mage spell of 1st level or higher, gain an arcane charge of the equivalent level up to 5th level. Spells slots higher than 5th give a 5th level arcane charge. These charges last until they are used, replaced by a higher level charge, or after 1 minute has passed.
 
 You may expend an arcane charge to grant yourself one of the following effects. This effect lasts until the end of your next turn.
-- As a bonus action, you can add a bonus equal to the arcane charge's level to Attack and Damage rolls for your next Mage Spell.
- 
+
 \columnbreak
 
+- As a bonus action, you can add a bonus equal to the arcane charge's level to Attack and Damage rolls for your next Mage Spell.
 - As a bonus action or reaction, you can add a bonus equal to the arcane charge's level to Saving Throws against Magic or Magical Effects.
 
 #### Chrono Shift
@@ -534,7 +532,7 @@ ___
 You can exert your control over magic to warp time itself. When a creature you can see within 60 feet of you begins their turn, you can use your reaction to allow that creature to take another action during that turn. When you do so, you gain one level of exhaustion.
 
 
-<img src='https://www.gmbinder.com/images/2qphvm4.png' style='position:absolute; right:0; bottom:-70px; width:440px;' />
+<img src='https://i.imgur.com/08NuEJc.png' style='position:absolute; right:0; bottom:0px; width:556px;' />
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
@@ -1247,9 +1245,15 @@ To steal a spell effect of 2nd level or higher, make an ability check using your
 
 \pagebreak
 
-# Playtest update
+# Playtest update 3.0.1
+
+<br />
+
+These are the changes made to the class since the last update released for the class (3.0.0).
 
 ## General
+- Initial page has been rewritten a bit, "Creating a Mage" has been moved up there.
+- Quick creation pointers have been fleshed out.
 - Added full functionality of Sorcery Points and Meta Magic.
 - Removed Arcane Recovery, due to the change above.
 - Additional ribbon feature for first level.
@@ -1274,6 +1278,10 @@ To steal a spell effect of 2nd level or higher, make an ability check using your
 - Arcane focuses more on combat and off combat utility with a combination of time manipulation, general mastery over spell usage.
 - Arcane Charges got reworked into a buff mechanic.
 - Rune of Power was replaced with Time Warp. Provides a action surge like reaction ... for a price.
+
+\columnbreak
+
+<br />
 
 ## Fire
 - Empowered Evocation has been replaced. 
