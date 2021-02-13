@@ -569,9 +569,9 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *10th-level Study of Fire feature* 
 <div style='margin-top:-4px'></div>
 
-When you deal fire damage with a spell of 1st level or higher, you can spend up to 3 sorcery points to empower a fire damage dealing spell of up to 5th-level. For each sorcery point spent you can add an extra die to a damage roll of a spell that deals fire damage.
+When you deal fire damage with a spell using a spell slot, up to 5th level, you can spend up to 3 sorcery points to empower it. For each sorcery point spent, add an extra die to  the damage dealt by the spell.
 
-For example, when you cast Burning Hands and spend 2 points on it you add an additional 2d6 to the spells normal damage. When you cast a spell with multiple attack rolls, such as Scorching Ray, you can spend points on each attack individually.
+For example, when you cast Burning Hands and spend 2 points, you add an extra 2d6 to the spell's damage. When you cast a spell that makes multiple attack rolls, such as Scorching Ray, you must spend the points on each attack individually.
 
 #### Combustion
 *14th-level Study of Fire feature*
