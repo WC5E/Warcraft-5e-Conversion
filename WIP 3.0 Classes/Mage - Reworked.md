@@ -1266,8 +1266,8 @@ These are the changes made to the class since the last update released for the c
 - Arcane Explosion got a neat extra mechanic preventing affected targets from taking their reaction.
 - Blast Wave was renamed Alextrasza’s Fury and had change to its damage and now stuns affected creatures until the end of their next turn.
 - Blizzard had its action cost for subsequent turns removed.
-- Flurry got a mechanical change. It now works similar to magic missile.
-- Freezing Touch had now has now reads "incapacitated and restrained" instead of "incapacitated, can't move, and can't breathe".<br/> Turns out not being able to breath without being able to hold your breath is very deadly.
+- Flurry got a mechanical change, putting it more in line with how it works in World of Warcraft.
+- Freezing Touch now applies "incapacitated and restrained" instead of "incapacitated, can't move, and can't breathe".<br/> Turns out not being able to breathe without being able to hold your breath is very deadly.
 - Glacial Spike had its save changed to DEX.
 - Jaina's Flying Ship can now become a permanent effect.
 - Pyroblast had its damage increased.
@@ -1292,3 +1292,13 @@ The intention is to capitalize more on crits instead of guaranteed damage and to
 This should make the feature more reliable and less time consuming.
 - Replaced Spell Sculptor with Ring of Frost. 
 A big AoE to slow down a big area and potentially freezing creatures within.
+
+## Art Credits
+
+| Pg.  | Artwork    |
+|:----:|:-----------|
+|  1   | "Human Mage" by [Glenn Rane](https://wow.gamepedia.com/File:ArtHumanMage.jpg) |
+|  1   | [Hall of the Guardian loading screen](https://wow.gamepedia.com/File:Hall_of_the_Guardian_loading_screen.jpg) |
+|  5   | "Arcane" by [Michael Roberts](https://www.artstation.com/artwork/vvJ5O) |
+|  6   | "Lyris, the Wild Mage" by [Will Murai](https://willmurai.artstation.com/projects/Qybxd) |
+|  7   | [Hall of the Guardian loading screen](https://wow.gamepedia.com/File:Hall_of_the_Guardian_loading_screen.jpg) |
