@@ -283,9 +283,9 @@ The talented few that put the work into magical mastery may be recognized as an 
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://i.imgur.com/uOQOURz.png' class='inkblot' style='right:-90px; top:140px; width:640px;' />
-<img src='https://i.imgur.com/PGGwqOC.png' style='position:absolute; top:90px; right:-200px; width:800px' />
-<img src='https://i.imgur.com/7drSEMn.png' style='position:absolute; top:-6px; left:-170px; width:1010px' />
+<img src='https://www.gmbinder.com/images/uOQOURz.png' class='inkblot' style='right:-90px; top:140px; width:640px;' />
+<img src='https://www.gmbinder.com/images/PGGwqOC.png' style='position:absolute; top:90px; right:-200px; width:800px' />
+<img src='https://www.gmbinder.com/images/7drSEMn.png' style='position:absolute; top:-6px; left:-170px; width:1010px' />
 
 
 \pagebreakNum
@@ -439,23 +439,15 @@ ___
 Across Azeroth, some find themselves eking out a life as a criminal; preying upon the communities around them. Whether will or chance brought a person to become a **bandit**, it is often a game of chance for whether these bands of thieves and pillagers rise to legend -- or fall to adventurers chasing a bounty placed upon them. 
 
 
-<img src='https://i.imgur.com/tiU4RnD.png' class='inkblot' style='right:-160px; top:-60px; width:640px; transform:rotate(120deg);' />
-<img src="https://i.imgur.com/9cQNovm.png" style="position:absolute; top:10px; right:0px; width:400px;">
-<img src='https://i.imgur.com/uOQOURz.png' class='inkblot' style='right:240px; bottom:-690px; width:700px; transform:rotate(-296deg);' />
+<img src='https://www.gmbinder.com/images/tiU4RnD.png' class='inkblot' style='right:-160px; top:-60px; width:640px; transform:rotate(120deg);' />
+<img src="https://www.gmbinder.com/images/9cQNovm.png" style="position:absolute; top:10px; right:0px; width:400px;">
+<img src='https://www.gmbinder.com/images/uOQOURz.png' class='inkblot' style='right:240px; bottom:-720px; width:700px; transform:rotate(-296deg);' />
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
 
 \pagebreakNum
-
-
-### Bandit Captain
-Always searching for a chance to use their freshly sharpened blade, the captains and leaders of bandit communities need to be particularly ruthless and cunning, or risk their own purses being cut, along with their throats.
-
-### Berserker
-Particularly common among trolls is the sight of a terrifying warrior so lost in a haze of pure violence that they do not seem to register any pain at all, simply powering through until everything is dead. 
-
 
 ___
 > ## Bandit Captain <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;45;5;13;18;0;18;0;18;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;1;;;;10;;;;;;;;;;; -->
@@ -488,6 +480,12 @@ can use its action to make a DC 10 Strength check to free itself or another crea
 > ### Reactions
 >
 > ***Parry.*** The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
+
+Always searching for a chance to use their freshly sharp&shy;ened blade, a **banit captain** is the leader of a community of cunning cutthroats. It is not unlike such a leader to turn to ruthless tactics to keep their band in check, or risk their own purse cut -- along with their throat.
+
+<div></div>
+
+**Bersekers** are terrifying warriors who head no warning when they rush forth into battle, lost in the haze of violence so pure as to drown out any pain they might feel. Simply powering through until all around them lay dead. They are particularly common among trolls and dwarves, though not unique to them.
 
 
 \columnbreak
@@ -526,9 +524,11 @@ ___
 > ***Ignore Pain (Recharges after a Short or Long Rest).*** When the berserker is hit by a weapon attack, it can give itself resistance towards bludgeoning, piercing, and slashing damage from nonmagical attacks until the start of its next turn.
 
 
+<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="right:-60px; bottom:-170px; width:660px; transform:rotate(-125deg);" />
+<img src="https://i.imgur.com/wP0RUsf.png" style="position:absolute; bottom:-200px; right:-40px; width:480px;" />
+
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src="https://www.gmbinder.com/images/kNzVt6n.png" style="position:absolute; top:560px; right:-35px; width:450px;">
-<img src="https://www.gmbinder.com/images/qKrtKxo.png" style="position:absolute; top:-330px; right:-200px; width:1350px; transform:rotate(90deg);">
+
 
 \pagebreakNum
 
@@ -1504,3 +1504,13 @@ ___
 <img src='https://www.gmbinder.com/images/l4AHa3B.png' style='position:absolute; top:-300px; right:130px; width:1100px' />
 <img src='https://www.gmbinder.com/images/l4AHa3B.png' style='position:absolute; top:0px; right:-450px; width:1100px; transform:rotate(180deg)' />
 
+\pagebreak
+
+## Art Credits
+
+| Pg.  | Artwork    |
+|:----:|:-----------|
+|  1   |    |
+|  2   | "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889) |
+|  4   | "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543) |
+|  5   | Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet) |
