@@ -65,11 +65,12 @@
     filter: hue-rotate(120deg)
   }
 
-/* Footer */
+/* FOOTER STYLES  */
+
   .phb .pageNumber { color: #7e735c; z-index:1000; }
   .phb .footnote { color: #7e735c; }
   
- .phb:nth-child(odd):after {
+  .phb:nth-child(odd):after {
     content: '';
     height: 125px;
     background-image: url(https://www.gmbinder.com/images/PB8On0U.png), url('https://gmbinder.com/images/YWardeu.png');
@@ -91,6 +92,7 @@
   }    
 
 
+/* Monster Manual alphabetical chapter letters */
 
 .mml-a {background-image: url(https://gmbinder.com/images/fVVv93s.png);}
 .mml-b {background-image: url(https://gmbinder.com/images/21X6N0B.png);}
@@ -121,7 +123,7 @@
 
 /* letter at bottom of page */
 
-.pageLetter {
+  .pageLetter {
     font-family:;
     position:absolute;
     right:25px;
@@ -129,12 +131,58 @@
     color:#673e1c;
     z-index:1000;
     font-size:135%;
-}
+  }
 
-.phb:nth-child(even) .pageLetter {
+  .phb:nth-child(even) .pageLetter {
     left:25px;
-}
+  }
 
+/* BACK PAGE STYLES */
+
+  /* Remove footer from back page, replace pX with last page num */
+  .phb#p19:after { display:none; }
+
+  .phb .back-cover-content {
+    padding-left: 4px;
+    padding-right: 16px;
+  }
+  .phb .back-cover-right {
+      padding-left: 40px;
+  }
+  .phb .back-cover-image {
+    height: 1136px;
+    left: -20px;
+    top: -10px;
+    width: 475px;
+    background-size: 475px 1136px;
+  }
+  .phb .back-cover-diamond {
+    display: block;
+    position: initial;
+    left: initial;
+    top: initial;
+    margin: auto;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+  }
+ .phb .back-cover-logo-container {
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 314px;
+ }
+ .phb .back-cover-logo,
+ .phb .back-cover-logo-link {
+     position: initial;
+     margin: auto;
+     margin-bottom: 8px;
+     left: initial;
+     bottom: initial;
+     right: initial;
+     background-repeat: no-repeat;
+ }
+ 
 </style>
 
 
@@ -1493,18 +1541,79 @@ ___
 <img src='https://www.gmbinder.com/images/l4AHa3B.png' style='position:absolute; top:-300px; right:130px; width:1100px' />
 <img src='https://www.gmbinder.com/images/l4AHa3B.png' style='position:absolute; top:0px; right:-450px; width:1100px; transform:rotate(180deg)' />
 
-\pagebreak
+\pagebreakNum
+ 
+ <div class='back-cover-image'></div>
+ 
+ <div style='margin-top:20px;'></div>
+ 
+ <div class='back-cover-header'>
+ 
+ Warcraft
+ 
+ 5th Edition
+ 
+ </div>
+ 
+<div class='back-cover-text'>
+ 
+  *Part of the WC5E Manual of Monsters v3*
+ 
+  This document is a part-piece of an upcoming update (as of writing this) to our *Warcraft 5th Edition Manual of Monsters*; a massive tome of creatures and NPCs adapted from the Warcraft universe to be used in Dungeons & Dragons. 
 
-## Art Credits
+  We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
+  
+  [Read about us on Github]
+  
+  [Find us on Reddit] [Find us on Discord]
+  
+  
 
-| Pg. | Artwork    |
-|:---:|:-----------|
-| 1   |    |
-| 2   | "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889) |
-| 4   | "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543) |
-| 5   | Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet) |
-| 6   | "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
-| 7   | "The Cultist" by [Rogier van de Beek](https://www.artstation.com/artwork/oG3OJ)
-| 8   | "Demon Hunter" by [Szabados Zsolt](https://www.wowhead.com/news=249763.3/legion-art-contest-winners-gallery)
-| 9   | "Wild Growth" by [EmberWickArt](https://twitter.com/emberwickart/status/1072575420850208768)
-| 10  | "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
+</div>
+ 
+<div class='back-cover-diamond' style='top: 679px;'></div>
+ 
+<div style='margin-top:35px;'></div>
+ 
+<div class='back-cover-close'>
+
+  Big love from the gang. ❤
+
+   
+</div>
+
+<div class='back-cover-logo-container'>
+ 
+  <div class='back-cover-logo'></div>
+ 
+  <div class='back-cover-logo-link'>
+ 
+  [WWW.GMBINDER.COM](https://www.gmbinder.com)
+ 
+  </div>
+
+</div>
+ 
+ \columnbreak
+ 
+
+<div class='back-cover-right'>
+ <div class='classTable'>
+
+  ##### Art Credits
+
+  | Pg.    | Artwork    |
+  |:------:|:-----------|
+  | **1**  |    |
+  | **2**  | "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889) |
+  | **4**  | "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543) |
+  | **5**  | Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet) |
+  | **6**  | "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
+  | **7**  | "The Cultist" by [Rogier van de Beek](https://www.artstation.com/artwork/oG3OJ)
+  | **8**  | "Demon Hunter" by [Szabados Zsolt](https://www.wowhead.com/news=249763.3/legion-art-contest-winners-gallery)
+  | **9**  | "Wild Growth" by [EmberWickArt](https://twitter.com/emberwickart/status/1072575420850208768)
+  | **10** | "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
+
+  </div>
+</div>
+ 
