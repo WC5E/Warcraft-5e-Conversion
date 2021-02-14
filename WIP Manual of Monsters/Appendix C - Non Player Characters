@@ -533,18 +533,6 @@ ___
 \pagebreakNum
 
 
-### Commoner
-Be they orcish peons, human peasants, merchants, or old women gathering water from a well, the one common thread of any culture is that they have everyday folk. 
-
-### Crusader
-*"A paladin can be easily recognised by the bright glow of their hammer, their chivalric nature, and total inability to perform a task with subtlety."* 
-
-<div style="text-align:Right"> 
-- Archlich Kel'thuzad to fresh acolytes. 
-
-</div>
-
-
 ___
 > ## Commoner <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;4;2;11;2;0;2;0;2;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
@@ -566,6 +554,15 @@ ___
 >
 > ***Club.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
 
+Be they orcish peons or human peasants, merchants at the stalls or old women heading for the town well, every culture across Azeroth features some form of **commoner** among them -- the everyday folk tending to their own lives.
+
+<div style="margin-top:500px;"></div>
+
+> *"A **paladin** can be easily recognised by the bright glow of their hammer, their chivalric nature, and total inability to perform a task with subtlety."* 
+>
+> - Archlich Kel'thuzad, addressing fresh acolytes. 
+>
+> <-- To be made a paper note later -->
 
 \columnbreak 
 
@@ -611,11 +608,12 @@ ___
 >
 > ***Parry.*** The crusader adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 
+Blessed by the Light to bring forth justice, **crusaders** are the brave and bold; the valiant holy warriors who stand forefront in the battle against darkness. They are renowned for the zeal by which they keep to their cause, though this zeal has driven some to fanaticism, such as the case of the Scarlet Crusade. 
+
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://www.gmbinder.com/images/giZyUo8.jpg' style='position:absolute; top:540px; right:250px; width:600px;'>
-<img src='https://www.gmbinder.com/images/7drSEMn.png' style='position:absolute; top:0px; right:-150px; width:900px; transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/MVDaLa2.png' style='position:absolute; top:-290px; right:150px; width:960px' />
+<img src="https://i.imgur.com/AYuE5Qf.png" class="inkblot" style="left:-110px; bottom:-130px; width:500px;" />
+<img src='https://i.imgur.com/fTCd9Sk.png' style='position:absolute; bottom:-70px; left:-120px; width:520px; transform:scaleX(-1);'>
 
 \pagebreakNum
 
@@ -1508,9 +1506,10 @@ ___
 
 ## Art Credits
 
-| Pg.  | Artwork    |
-|:----:|:-----------|
-|  1   |    |
-|  2   | "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889) |
-|  4   | "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543) |
-|  5   | Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet) |
+| Pg. | Artwork    |
+|:---:|:-----------|
+| 1   |    |
+| 2   | "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889) |
+| 4   | "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543) |
+| 5   | Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet) |
+| 6   | "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
