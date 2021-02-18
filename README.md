@@ -20,7 +20,7 @@ This is the repository for a community project looking to build a collection of 
 
 ***Will update when there are updates to release.*** Things in the project happen largely at their own pace, as we're trying our best not to push each other to release updates at any particular frequency. The last thing we want to do is to burn ourselves out on this project, because at the end of the day we are just a bunch of friends with a lot of Warcraft love who want to work together to create something cool. And then share that something with others, to see what they think!
 
-### Join the Conversation
+## Join the Conversation
 
 Other than this Github repository, we who work on the project can be found both on Discord and on Github. Discord is where we run our own internal conversations as well, discussing different changes and delegating tasks between people in the team.
 
@@ -44,7 +44,6 @@ Right now, all of the material in this project is available on Google Drive, as 
 
 - 📙 **MoM v3.0 Playtest:** *(Latest version: 3.0-preview-1)*
 <br /> Upcoming monsters that are still being previewed, released in monster group parts. Unlike the HHB 3.0 playtest, this won't supersede what is in the *Manual of Monsters* folder; it's all additional material.
-<br /> 
 
 - 📗 **Theme of the Month:** 
 <br /> Material that has been submitted to the community via our monthly running *Theme of the Month* events, where we throw up a theme and throw out invitation for everyone to come along and make some fun things with us. 
@@ -54,8 +53,7 @@ Right now, all of the material in this project is available on Google Drive, as 
 [WC5ETools](https://orjanbp.github.io/wc5etools/) 
 <br /> A site that, at the moment, contains an online bestiary that follows the main releases of the Manual of Monsters. Development is led by one of the members of this project's core team.
 
-
-## Issue Tracker
+# Issue Tracker and Docs
 
 This section is a floating summary of different projects and issues tracekd here on this Github repo. You can read more about how we have the Github set up [over here](https://github.com/Jihia/Warcraft-5e-Conversion/wiki/Github-Project-Setup).
 
@@ -104,20 +102,20 @@ These documents have been set up for the project, outside of Github, to track va
 
 * [Project Monster Planning Document](https://docs.google.com/spreadsheets/d/1gjxgzF93LLB3q_o7QYe9xynpxkaUrkorklA7YGHSJvA/edit?usp=sharing)
 
-## Project Team
+# Project Team
 
 People in this section are listed as the name by which they are known in the community. 
 
-**Original Creators**
+### Original Creators
 
 [Jihia](https://github.com/Jihia), [TangerineThunder](https://github.com/orjanbp)
 
-**Current Core Team**
+### Current Core Team
 
 Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, <br />
 MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
 
-**Inactive & Former Team Members**
+### Inactive & Former Team Members
 
 123jrf, ApolloLumina, Artipo, Christinekn, ClockWorkTank, <br />
 Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
