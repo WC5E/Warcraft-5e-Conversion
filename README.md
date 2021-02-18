@@ -1,11 +1,14 @@
-<div style='text-align:center;'>
+<p align="center">
+
 <img src='./assets/warcraft-logo.png' alt='Warcraft logo' style='max-width:600px; margin:auto;' />
 
-# Warcraft 5th Edition
+</p>
 
-*A campaign supplement for Dungeons & Dragons 5th Edition*
+<h1 align="center">Warcraft 5th Edition</h1>
 
-</div>
+<p align="center"><i>A campaign supplement for Dungeons & Dragons 5th Edition</i></p>
+
+</p>
 
 This is the repository for a community project looking to build a collection of books that can be used to play *Dungeons & Dragons 5th Edition* in the World of Warcraft. We're one out of several such projects hovering around out there, and work together with some others.
 
@@ -101,8 +104,6 @@ These documents have been set up for the project, outside of Github, to track va
 
 * [Project Monster Planning Document](https://docs.google.com/spreadsheets/d/1gjxgzF93LLB3q_o7QYe9xynpxkaUrkorklA7YGHSJvA/edit?usp=sharing)
 
-<div style="text-align:center;">
-
 ## Project Team
 
 People in this section are listed as the name by which they are known in the community. 
@@ -113,30 +114,20 @@ People in this section are listed as the name by which they are known in the com
 
 **Current Core Team**
 
-<div style="max-width:300px; margin:auto;">
-
-Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
-
-</div>
+Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, <br />
+MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
 
 **Inactive & Former Team Members**
 
-<div style="max-width:300px; margin:auto;">
-
-123jrf, ApolloLumina, Artipo, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
-
-</div>
+123jrf, ApolloLumina, Artipo, Christinekn, ClockWorkTank, <br />
+Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
 
 
 ## People we also want to give thanks to
 
-<div style="max-width:500px; margin:auto;">
-
 [List names under here of people we want to throw a shout-out to]
 
 [Some kind of link here to a "how can my name be on this list?" wiki page]
-
-</div>
 
 # Legal
 
