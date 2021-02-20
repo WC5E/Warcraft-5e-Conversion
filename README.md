@@ -20,6 +20,14 @@ This is the repository for a community project looking to build a collection of 
 
 ***Will update when there are updates to release.*** Things in the project happen largely at their own pace, as we're trying our best not to push each other to release updates at any particular frequency. The last thing we want to do is to burn ourselves out on this project, because at the end of the day we are just a bunch of friends with a lot of Warcraft love who want to work together to create something cool. And then share that something with others, to see what they think!
 
+## Current Project Status 
+
+For the Heroes' Handbook, our big focus is on fixing various class issues prior to releasing a big 3.0 update to the project. We've got some classes that have relatively minor issues that need to be sorted out, some subclasses we want to revisit, and some classes that we've been working on giving a fresh update. There's been some forking of the project and personal re-imagining of some classes that we think look really cool (and encourage for people to do; remix us to fit your taste if you want to), and important lessons that we want to learn from them. 
+
+For the Manual of Monsters, we have a *lot* of monsters that exist somewhere in the pipeline toward a future update. We've been planning these updates very thematically for when they go into the core book, but will be releasing each "group" of statblocks in individual monsters regardless of how long until their big update is ready.
+
+*Last edited 20. February 2021*
+
 ## Join the Conversation
 
 Other than this Github repository, we who work on the project can be found both on Discord and on Github. Discord is where we run our own internal conversations as well, discussing different changes and delegating tasks between people in the team.
