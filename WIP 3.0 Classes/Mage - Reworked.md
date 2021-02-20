@@ -113,6 +113,8 @@
 /* Footer */
   .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
   .phb .footnote {color: rgba(0, 0, 0, 0.5)}
+  
+  /* Bottom metalwork art */
   .phb:nth-child(odd):after{ 
     content          : '';
     position         : absolute;
@@ -123,16 +125,9 @@
     width            : 100%;
     background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
     background-size  : cover;
-}
-
-/* Footer with white text against dark backgrounds */
-.phb .footnote.footnote-white,
-.phb .footnote.footnote-white + .pageNumber,
-.phb .footnote.footnote-white + section .pageNumber {
-    color: rgba(255,255,255,0.8);
-}
-
-.phb:nth-child(even):after{ 
+  }
+  /* Bottom metalwork art */
+  .phb:nth-child(even):after{ 
     content          : '';
     position         : absolute;
     bottom           : -7px;
@@ -142,7 +137,14 @@
     width            : 100%;
     background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
     background-size  : cover;
-}
+  }
+
+  /* Footer with white text against dark backgrounds */
+  .phb .footnote.footnote-white,
+  .phb .footnote.footnote-white + .pageNumber,
+  .phb .footnote.footnote-white + section .pageNumber {
+    color: rgba(255,255,255,0.8);
+  }
 
 /* Page Number */
 .phb .pageNumber{
@@ -532,7 +534,7 @@ ___
 You can exert your control over magic to warp time itself. When a creature you can see within 60 feet of you begins their turn, you can use your reaction to allow that creature to take another action during that turn. When you do so, you gain one level of exhaustion.
 
 
-<img src='https://i.imgur.com/08NuEJc.png' style='position:absolute; right:0; bottom:0px; width:556px;' />
+<img src='https://www.gmbinder.com/images/08NuEJc.png' style='position:absolute; right:0; bottom:0px; width:556px;' />
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
@@ -1325,8 +1327,8 @@ A big AoE to slow down a big area and potentially freezing creatures within.
 
 /* BACK PAGE STYLES */
 
-  /* Remove footer from back page, replace pX with last page num */
-  .phb#p19:after { display:none; }
+  /* Remove footer from back page, replace pX with last page number */
+  .phb#p13:after { display:none; }
 
   .phb .back-cover-content {
     padding-left: 4px;
@@ -1370,6 +1372,8 @@ A big AoE to slow down a big area and potentially freezing creatures within.
  }
  
  </style>
+ 
+ <img src='https://www.gmbinder.com/images/4UrFsXk.jpg' style="position:absolute; right:-194px; bottom:0px; height:1160px;" />
  
  <div class='back-cover-image'></div>
  
