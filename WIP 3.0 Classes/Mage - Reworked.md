@@ -719,9 +719,9 @@ Symbol|Spell Location
 ✦ |In this chapter, under Spell Descriptions
 ^EGW^ | Explorer's Guide to Wildemount
 ^IDRotF^ | Icewind Dale: Rime of the Frostmaiden
-^SCAG^ |Sword Coast Adventurer's Guide
+^LLK^ | Lost Laboratory of Kwalish
 ^TCE^ | Tasha's Cauldron of Everything
-^XGE^ |Xanathar's Guide to Everything
+^XGE^ | Xanathar's Guide to Everything
 
 <div style='column-count:2'>
 
@@ -1245,7 +1245,7 @@ To steal a spell effect of 2nd level or higher, make an ability check using your
 
 \pagebreak
 
-# Playtest update 3.0.1
+# Update 3.0-preview-2
 
 <br />
 
@@ -1293,12 +1293,136 @@ This should make the feature more reliable and less time consuming.
 - Replaced Spell Sculptor with Ring of Frost. 
 A big AoE to slow down a big area and potentially freezing creatures within.
 
-## Art Credits
 
-| Pg.  | Artwork    |
-|:----:|:-----------|
-|  1   | "Human Mage" by [Glenn Rane](https://wow.gamepedia.com/File:ArtHumanMage.jpg) |
-|  1   | [Hall of the Guardian loading screen](https://wow.gamepedia.com/File:Hall_of_the_Guardian_loading_screen.jpg) |
-|  5   | "Arcane" by [Michael Roberts](https://www.artstation.com/artwork/vvJ5O) |
-|  6   | "Lyris, the Wild Mage" by [Will Murai](https://willmurai.artstation.com/projects/Qybxd) |
-|  7   | [Hall of the Guardian loading screen](https://wow.gamepedia.com/File:Hall_of_the_Guardian_loading_screen.jpg) |
+## Credits
+
+**Provide feedback for this document:** We'd really love your opinion on this material. You can do so by: 
+- Messaging an active Creator or Contributor on Discord.
+- Making a feedback post on Reddit.
+- Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
+
+<br />**Current core team:** Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
+<br />
+
+<br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
+<br />
+
+<br />**Projects we like and want to give thanks to:**
+- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
+- [This WC5E Fork](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
+- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! 
+
+<br />**Page 1 Art:** "Human Mage" by [Glenn Rane](https://wow.gamepedia.com/File:ArtHumanMage.jpg)
+<br /> **Page 1 Art:** [Hall of the Guardian loading screen](https://wow.gamepedia.com/File:Hall_of_the_Guardian_loading_screen.jpg)
+<br /> **Page 5 Art:** "Arcane" by [Michael Roberts](https://www.artstation.com/artwork/vvJ5O)
+<br /> **Page 6 Art:** "Lyris, the Wild Mage" by [Will Murai](https://willmurai.artstation.com/projects/Qybxd)
+<br /> **Page 7 Art:** [Hall of the Guardian loading screen](https://wow.gamepedia.com/File:Hall_of_the_Guardian_loading_screen.jpg)
+
+\pagebreakNum
+
+<style>
+
+/* BACK PAGE STYLES */
+
+  /* Remove footer from back page, replace pX with last page num */
+  .phb#p19:after { display:none; }
+
+  .phb .back-cover-content {
+    padding-left: 4px;
+    padding-right: 16px;
+  }
+  .phb .back-cover-right {
+      padding-left: 40px;
+  }
+  .phb .back-cover-image {
+    height: 1136px;
+    left: -20px;
+    top: -10px;
+    width: 475px;
+    background-size: 475px 1136px;
+  }
+  .phb .back-cover-diamond {
+    display: block;
+    position: initial;
+    left: initial;
+    top: initial;
+    margin: auto;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+  }
+ .phb .back-cover-logo-container {
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 314px;
+ }
+ .phb .back-cover-logo,
+ .phb .back-cover-logo-link {
+     position: initial;
+     margin: auto;
+     margin-bottom: 8px;
+     left: initial;
+     bottom: initial;
+     right: initial;
+     background-repeat: no-repeat;
+ }
+ 
+ </style>
+ 
+ <div class='back-cover-image'></div>
+ 
+ <div style='margin-top:20px;'></div>
+ 
+ <div class='back-cover-header'>
+ 
+ Warcraft
+ 
+ 5th Edition
+ 
+ </div>
+ 
+<div class='back-cover-text'>
+ 
+  *Part of the WC5E Heroes Handbook v3*
+ 
+  This document is a part-piece of an upcoming update (as of writing this) to our *Warcraft 5th Edition Heroes Handbook*; a massive tome of player classes, races, and backgrounds to put a Warcraft spin on core Dungeons & Dragons material.
+
+  We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
+  
+  [Our project on Github](https://github.com/Jihia/Warcraft-5e-Conversion/) <br />
+  [Our community on Reddit](https://www.reddit.com/r/wc5e/) <br />
+  [Our community on Discord](https://discord.com/invite/dKMJmmD)
+  
+</div>
+ 
+<div class='back-cover-diamond' style='top: 679px;'></div>
+ 
+<div style='margin-top:35px;'></div>
+ 
+<div class='back-cover-close'>
+
+  Big love from the team. ❤
+
+   
+</div>
+
+<div class='back-cover-logo-container'>
+ 
+  <div class='back-cover-logo'></div>
+ 
+  <div class='back-cover-logo-link'>
+ 
+  [WWW.GMBINDER.COM](https://www.gmbinder.com)
+ 
+  </div>
+
+</div>
+ 
+ \columnbreak
+ 
+
+<div class='back-cover-right'>
+
+</div>
