@@ -1320,6 +1320,7 @@ A big AoE to slow down a big area and potentially freezing creatures within.
 <br /> **Page 5 Art:** "Arcane" by [Michael Roberts](https://www.artstation.com/artwork/vvJ5O)
 <br /> **Page 6 Art:** "Lyris, the Wild Mage" by [Will Murai](https://willmurai.artstation.com/projects/Qybxd)
 <br /> **Page 7 Art:** [Hall of the Guardian loading screen](https://wow.gamepedia.com/File:Hall_of_the_Guardian_loading_screen.jpg)
+<br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreakNum
 
