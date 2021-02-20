@@ -129,9 +129,14 @@ MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
 Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
 
 
-## People we also want to give thanks to
+## People we want to give thanks to
 
-[List names under here of people we want to throw a shout-out to]
+Huatu Hoitou, GMKel, Quivscor, Dismana, Acely, WhiskeyNrawhal <br />
+Lintian, Forgotten Goat, Sammy, Trek2148, yingchan, Sternhawk, <br />
+Jaynus, Darkraven, Silverblade, Nick L, Zeeb S. Tripe, Alzenrider, <br />
+Emmia, Gingersnap, Endris, Banana Arms, Knightforce, Franciscan, <br />
+and all our other community members. It's thanks to you people that <br />
+we're able to do this. You rock. ♥
 
 [Some kind of link here to a "how can my name be on this list?" wiki page]
 
