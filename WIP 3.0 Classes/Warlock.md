@@ -316,7 +316,7 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Profane Secrets
 *1st-level warlock feature*
 
-<div style='margin-top:-5px'></div>
+<div style='margin-top:-4px'></div>
 
 You have spent long hours researching and practicing forbidden knowledge, gaining the following benefits:
 - You can speak, read, and write Eredun.
@@ -1281,12 +1281,12 @@ ___
 >
 > **5th Level:** While holding the core, the warlock knows the *magic weapon* spell and can cast it without expending a spell slot once per long rest.
 >
-> **9th Level:** While holding the core, the warlock knows the *bloodlust and heroism* spell and can cast it without expending a spell slot once per long rest.
+> **9th Level:** While holding the core, the warlock knows the *✦ bloodlust and heroism* spell and can cast it without expending a spell slot once per long rest.
 > 
 > #### Supremacy Evolution
 > A felguard in service to a demonologist evolves into a fel lord at 14th level. Its skin turns gray and it increases in size, wielding a massively oversized axe. It gains the following benefits:
 > - Its size increases to Large, causing its Legion Axe attack to deal an extra die of damage and have a range of 10 feet.
-> - As an action it can slam its weapon into the ground, causing it to buckle. Treat this as though it cast *earth tremor* as a 2nd level spell using your warlock spell save DC.
+> - As an action it can slam its weapon into the ground, causing it to buckle. Treat this as though it cast *earth tremor ^XGE^* as a 2nd level spell using your warlock spell save DC.
 > - As an action, it can make a single attack roll targeting any number of creatures within 10 feet. Roll damage for a Legion Axe attack for each creature that the attack roll would hit.
 
 <img src='https://www.gmbinder.com/images/DCctq70.jpg' style='position:absolute; bottom:-200px; right:0px; width:800px' />
@@ -1390,7 +1390,7 @@ ___
 > 
 > **5th Level:** While holding the core, the warlock knows the *blink* spell and can cast it without expending a warlock spell slot once per long rest.
 >
-> **9th Level:** While holding the core, the warlock knows the *rain of fire* spell and can cast it without expending a warlock spell slot once per long rest.
+> **9th Level:** While holding the core, the warlock knows the *✦ rain of fire* spell and can cast it without expending a warlock spell slot once per long rest.
 >
 > #### Supremacy Evolution
 > An imp in service to a demonologist evolves into a fel imp at 14th level. The imp increases in size, gaining massive horns and a pair of wings. It gains the following benefits:
@@ -1501,7 +1501,7 @@ ___
 > 
 > **5th Level:** While holding the core, the warlock knows the *hunger of hadar* spell and can cast it without expending a warlock spell slot once per long rest.
 >
-> **9th Level:** While holding the core, the warlock knows the *enervation* spell and can cast it without expending a warlock spell slot once per long rest.
+> **9th Level:** While holding the core, the warlock knows the *enervation ^XGE^* spell and can cast it without expending a warlock spell slot once per long rest.
 >
 > #### Supremacy Evolution
 > A voidwalker in service to a demonologist evolves into a voidlord at 14th level. The voidwalker's body becomes darker and takes on a blue sheen and it sprouts black armor plating. It gains the following benefits:
