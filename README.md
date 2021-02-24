@@ -69,28 +69,28 @@ Note that 'issue' in this section means there is an Issue created for it, and is
 
 ### General topics
 
-![Heroes Handbook issues](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?color=orange&label=%F0%9F%93%99%20%20Heroes%20Handbook&query=is%3Aopen%20is%3Aissue%20label%3A%22%F0%9F%93%99%20Book%3A%20HHB%22&style=flat-square)
-![Manual of Monsters issues](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?color=orange&label=%F0%9F%93%98%20Manual%20of%20Monsters&query=is%3Aopen%20is%3Aissue%20label%3A%22%F0%9F%93%98%20Book%3A%20MM%22&style=flat-square)
+![Heroes Handbook issues](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?color=orange&label=%F0%9F%93%99%20%20Heroes%20Handbook&query=is%3Aopen%20is%3Aissue%20label%3A%22%F0%9F%93%99%20Book%3A%20HHB%22&style=flat-square)
+![Manual of Monsters issues](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?color=orange&label=%F0%9F%93%98%20Manual%20of%20Monsters&query=is%3Aopen%20is%3Aissue%20label%3A%22%F0%9F%93%98%20Book%3A%20MM%22&style=flat-square)
 
-![Player Race issues](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?color=orange&label=Player%20Races&query=is%3Aopen%20is%3Aissue%20label%3A%22%F0%9F%93%84%20race%22&style=flat-square)
-![Player Class issues](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?color=orange&label=Player%20Classes&query=is%3Aopen%20is%3Aissue%20label%3A%22%F0%9F%93%84%20class%22&style=flat-square)
+![Player Race issues](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?color=orange&label=Player%20Races&query=is%3Aopen%20is%3Aissue%20label%3A%22%F0%9F%93%84%20race%22&style=flat-square)
+![Player Class issues](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?color=orange&label=Player%20Classes&query=is%3Aopen%20is%3Aissue%20label%3A%22%F0%9F%93%84%20class%22&style=flat-square)
 
 ### Per player class
 
-![Death Knight](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Death%20Knight&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Death%20Knight%22&style=flat-square)
-![Demon Hunter](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Demon%20Hunter&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Demon%20Hunter%22&style=flat-square)
-![Druid](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Druid&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Druid%22&style=flat-square)
-![Hunter](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Hunter&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Hunter%22%20NOT%20in%3Atitle%20%22Demon%20Hunter%22&style=flat-square)
+![Death Knight](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Death%20Knight&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Death%20Knight%22&style=flat-square)
+![Demon Hunter](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Demon%20Hunter&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Demon%20Hunter%22&style=flat-square)
+![Druid](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Druid&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Druid%22&style=flat-square)
+![Hunter](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Hunter&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Hunter%22%20NOT%20in%3Atitle%20%22Demon%20Hunter%22&style=flat-square)
 
-![Mage](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Mage&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Mage%22&style=flat-square)
-![Monk](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Monk&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Monk%22&style=flat-square)
-![Paladin](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Paladin&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Paladin%22&style=flat-square)
-![Priest](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Priest&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Priest%22&style=flat-square)
+![Mage](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Mage&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Mage%22&style=flat-square)
+![Monk](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Monk&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Monk%22&style=flat-square)
+![Paladin](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Paladin&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Paladin%22&style=flat-square)
+![Priest](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Priest&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Priest%22&style=flat-square)
 
-![Rogue](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Rogue&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Rogue%22&style=flat-square)
-![Shaman](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Shaman&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Shaman%22&style=flat-square)
-![Warlock](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Warlock&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Warlock%22&style=flat-square)
-![Warrior](https://img.shields.io/github/issues-search/Jihia/Warcraft-5e-Conversion?label=Warrior&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Warrior%22&style=flat-square)
+![Rogue](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Rogue&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Rogue%22&style=flat-square)
+![Shaman](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Shaman&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Shaman%22&style=flat-square)
+![Warlock](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Warlock&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Warlock%22&style=flat-square)
+![Warrior](https://img.shields.io/github/issues-search/WC5E/Warcraft-5e-Conversion?label=Warrior&query=is%3Aopen%20is%3Aissue%20in%3Atitle%20%22Warrior%22&style=flat-square)
 
 ## Changelogs
 
