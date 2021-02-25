@@ -381,7 +381,7 @@ Others spot the message's presence with a successful DC 15 Wisdom (Perception) c
 You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
 #### Sorcery Points
-You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the Mage table for your level. You regain all spent sorcery points when you finish a long rest.
+You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Mage table. You can never have more sorcery points than shown on the Mage table for your level. You regain all spent sorcery points when you finish a long rest.
 
 #### Flexible Casting
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
@@ -484,7 +484,7 @@ Mages of the arcane are diviners of secrets, balancing the ebb and flow of incre
 *2nd-level Study of Arcane feature* 
 <div style='margin-top:-4px'></div>
 
-When you choose this magical study at 2nd level, you learn the *prestidigitation* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+When you choose this magical study at 2nd level, you learn the *prestidigitation* cantrip. If you already know this cantrip, you learn a different mage cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 #### Arcane Charges
 *2nd-level Study of Arcane feature* 
@@ -547,7 +547,7 @@ While any worthy mage is an unparalleled expert in the use of magic and heavily 
 *2nd-level Study of Fire feature* 
 <div style='margin-top:-4px'></div>
 
-When you choose this magical study at 2nd level, you learn the *control flames* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+When you choose this magical study at 2nd level, you learn the *control flames* cantrip. If you already know this cantrip, you learn a different mage cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 #### Hot Streak
 *2nd-level Study of Fire feature* 
@@ -597,7 +597,7 @@ Frost mages stand apart from their colleagues, in that their chosen school of ma
 *2nd-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
 
-When you choose this magical study at 2nd level, you learn the *shape water* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+When you choose this magical study at 2nd level, you learn the *shape water* cantrip. If you already know this cantrip, you learn a different mage cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 #### Fingers of Frost
 *2nd-level Study of Frost feature* 
@@ -974,7 +974,7 @@ Blade of Disaster ^TCE^
 \pagebreakNum
 
 > ##### Extended spell list 
-> This list holds spells that are not in line with the Warcraft fantasy for mages, but a Dungeon Master could still allow a mage to learn. Many of these spells deal with necromancy or demonology, both of which are forbidden by most conclaves of magi. Others are powerful Wizard with no real equivalent in the Warcraft universe. 
+> This list holds spells that are not in line with the Warcraft fantasy for mages, but a Dungeon Master could still allow a mage to learn. Many of these spells deal with necromancy or demonology, both of which are forbidden by most conclaves of magi. Others are powerful Wizard spells with no real equivalent in the Warcraft universe. 
 > <br/> 
 > <br/> 
 >##### Cantrips (0 Level) 
