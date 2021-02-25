@@ -135,7 +135,7 @@ Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNom
 
 Huatu Hoitou, GMKel, Quivscor, Dismana, Acely, WhiskeyNrawhal, Lintian, Forgotten Goat, Sammy, Trek2148, yingchan, Sternhawk, Jaynus, Darkraven, Silverblade, Nick L, Zeeb S. Tripe, Alzenrider, Emmia, Gingersnap, Endris, Banana Arms, Knightforce, Franciscan, and all our other community members. It's thanks to you people that we're able to do this. You rock. ♥
 
-[Some kind of link here to a "how can my name be on this list?" wiki page]
+[I'm on this list and want to change that, or not on this list but feel I should be](https://github.com/WC5E/Warcraft-5e-Conversion/wiki/Credits-Page-Details)
 
 # Legal
 
