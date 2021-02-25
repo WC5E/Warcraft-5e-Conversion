@@ -1299,8 +1299,8 @@ A big AoE to slow down a big area and potentially freezing creatures within.
 ## Credits
 
 **Provide feedback for this document:** We'd really love your opinion on this material. You can do so by: 
-- Messaging an active Creator or Contributor on Discord.
-- Making a feedback post on Reddit.
+- Joining the conversation on [Discord](https://discord.com/invite/dKMJmmD). <br /> (Or just messaging an active Contributor there.)
+- Sharing your thoughts with us on [Reddit](https://www.reddit.com/r/wc5e/).
 - Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
 
 <br />**Current core team:** Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
@@ -1311,9 +1311,9 @@ A big AoE to slow down a big area and potentially freezing creatures within.
 
 <br />**Projects we like and want to give thanks to:**
 - [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
-- [This WC5E Fork](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [This Warcraft project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
 - [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
-- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! 
+- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
 
 <br />**Page 1 Art:** "Human Mage" by [Glenn Rane](https://wow.gamepedia.com/File:ArtHumanMage.jpg)
 <br /> **Page 1 Art:** [Hall of the Guardian loading screen](https://wow.gamepedia.com/File:Hall_of_the_Guardian_loading_screen.jpg)
@@ -1396,7 +1396,7 @@ A big AoE to slow down a big area and potentially freezing creatures within.
 
   We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
   
-  [Our project on Github](https://github.com/Jihia/Warcraft-5e-Conversion/) <br />
+  [Our project on Github](https://github.com/WC5E/Warcraft-5e-Conversion/) <br />
   [Our community on Reddit](https://www.reddit.com/r/wc5e/) <br />
   [Our community on Discord](https://discord.com/invite/dKMJmmD)
   
