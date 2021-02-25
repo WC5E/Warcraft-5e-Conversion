@@ -1281,13 +1281,13 @@ These are the changes made to the class since the last update released for the c
 - Arcane Charges got reworked into a buff mechanic.
 - Rune of Power was replaced with Time Warp. Provides a action surge like reaction ... for a price.
 
-\columnbreak
-
-<br />
-
 ## Fire
 - Empowered Evocation has been replaced. 
 The intention is to capitalize more on crits instead of guaranteed damage and to provide some synergy with Hot Streak of the subclass.
+
+\columnbreak
+
+<br />
 
 ## Frost
 - Reworked Brain Freeze feature. The movement speed reduction now happens automatically. The restrain is coupled to sorcery points and a single saving throw.
@@ -1304,6 +1304,9 @@ A big AoE to slow down a big area and potentially freezing creatures within.
 - Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
 
 <br />**Current core team:** Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
+<br />
+
+<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
 <br />
 
 <br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
