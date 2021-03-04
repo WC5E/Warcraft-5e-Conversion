@@ -79,7 +79,7 @@
 /* INK BLOT STYLES */
 
   /* Root style for inkblots. Use alone, or together with
-  one of the inkb lotstyle classes below. Essentially:
+  one of the ink blotstyle classes below. Essentially:
   <img url='{url}' class='inkblot inkblot-blue' />
   */
   .inkblot {
@@ -113,6 +113,8 @@
 /* Footer */
   .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
   .phb .footnote {color: rgba(0, 0, 0, 0.5)}
+  
+  /* Bottom metalwork art */
   .phb:nth-child(odd):after{ 
     content          : '';
     position         : absolute;
@@ -123,9 +125,9 @@
     width            : 100%;
     background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
     background-size  : cover;
-}
-
-.phb:nth-child(even):after{ 
+  }
+  /* Bottom metalwork art */
+  .phb:nth-child(even):after{ 
     content          : '';
     position         : absolute;
     bottom           : -7px;
@@ -135,7 +137,14 @@
     width            : 100%;
     background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
     background-size  : cover;
-}
+  }
+
+  /* Footer with white text against dark backgrounds */
+  .phb .footnote.footnote-white,
+  .phb .footnote.footnote-white + .pageNumber,
+  .phb .footnote.footnote-white + section .pageNumber {
+    color: rgba(255,255,255,0.8);
+  }
 
 /* Page Number */
 .phb .pageNumber{
@@ -164,25 +173,10 @@
     right      : 12px;
 }
 
-/* INK BLOT STYLES */
-
-  /* Root style for inkblots. Use alone, or together with
-  one of the inkb lotstyle classes below. Essentially:
-  <img url='{url}' class='inkblot inkblot-blue' />
-  */
-  .inkblot {
-    position: absolute;
-    mix-blend-mode: multiply;
-    opacity: 0.6;
-  }
-
-  .inkblot-blue {
-    filter: hue-rotate(190deg) saturate(120%)
-  }
-
-  .inkblot-green {
-    filter: hue-rotate(120deg)
-  }
+/* Use black tones for statblock backgrounds */
+.phb blockquote {
+  box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
+}
 
 </style>
 
@@ -469,7 +463,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 <img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-110px; right:0px; width:900px' />
 <img src='https://www.gmbinder.com/images/pZ94Ass.png' style='position:absolute; top:780px; right:400px; width:350px' />
 
-<div class='footnote'>PART 1 | CLASSES</div>
+<div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
 \pagebreakNum
 
@@ -555,9 +549,10 @@ You learn the *bestow curse* and *remove curse* spells. These do not count again
 
 Additionally, when you cast either of these spells you can target two creatures instead of one.
 
-<div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/Narbe7i.jpg' style='position:absolute; bottom:-674px; right:0px; ' />
 <img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-36px; left:0px; width:900px; transform:rotate(8deg)' />
+
+<div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
 \pagebreakNum
 
@@ -1292,7 +1287,7 @@ ___
 <img src='https://www.gmbinder.com/images/DCctq70.jpg' style='position:absolute; bottom:-200px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-220px; right:0px; width:900px' />
 
-<div class='footnote'>APPENDIX C | DEMON COMPANIONS</div>
+<div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
 \pagebreakNum
 ___
@@ -1348,7 +1343,7 @@ ___
 <img src='https://www.gmbinder.com/images/moaDsD1.jpg' style='position:absolute; bottom:-80px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute; bottom:0px; left:0px; width:900px;' />
 
-<div class='footnote'>APPENDIX C | DEMON COMPANIONS</div>
+<div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
 \pagebreakNum
 ___
@@ -1401,7 +1396,7 @@ ___
 <img src='https://www.gmbinder.com/images/z08oeTn.jpg' style='position:absolute; bottom:-100px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/wvTUmvu.png' style='position:absolute; bottom:-20px; left:0px; width:800px' />
 
-<div class='footnote'>APPENDIX C | DEMON COMPANIONS</div>
+<div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
 \pagebreakNum
 ___
@@ -1455,7 +1450,7 @@ ___
 <img src='https://www.gmbinder.com/images/lc9zJNs.jpg' style='position:absolute; bottom:-250px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-130px; left:0px; width:800px' />
 
-<div class='footnote'>APPENDIX C | DEMON COMPANIONS</div>
+<div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
 \pagebreak
 ___
@@ -1512,7 +1507,7 @@ ___
 <img src='https://www.gmbinder.com/images/dPcFWbx.jpg' style='position:absolute; bottom:-150px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:-0px; left:0px; width:800px' />
 
-<div class='footnote'>APPENDIX C | DEMON COMPANIONS</div>
+<div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
 \pagebreakNum
 
@@ -1592,7 +1587,11 @@ ___
 <div class='footnote'>APPENDIX C | DEMON COMPANIONS</div>
 
 \pagebreakNum
+
 ## Changelog
+
+This release of the document is a patch update from the last class preview. The changelog shown here shows all class changes since the last version of the class (HHB 2.1).
+
 ### Class Features 
 - Armour proficiency removed, weapon proficiencies reduced
 - Starting equipment has been changed accordingly
@@ -1619,6 +1618,8 @@ ___
 - 14th level: Seed of Corruption has been replaced with Unstable Afflictions. 
 - 18th level: New feature Potent Affliction. It is split into two parts; Curse of Doom and Seed of Corruption.
 
+\columnbreak
+
 ### Demonology
 - 2nd level: Fiendish Influence has been replaced with Soul Conduit, which empowers demons from Demonic Knowledge.
 - 2nd level: New feature Sense Demons.
@@ -1627,7 +1628,6 @@ ___
 - 14th level: Mark of Service has been replaced with Grimoire of Supremacy. 
 - 18th level: New feature We are Legion.
 
-\columnbreak
 ### Destruction 
 - 2nd level: Ignite has been stepped up and renamed Pyrophile. 
 - 2nd level: New feature Channel Demonfire.
@@ -1652,6 +1652,8 @@ ___
 - Puppet (UA spell)
 - Soulwell
 
+\pagebreakNum
+
 ### Added Spells 
 - Cantrips: Acid Splash, Produce Flame, Sapping Sting
 - 1st Level: Alarm, Bane, Chromatic Orb, Detect Magic, Dissonant Whispers, Find Familiar, Identify, Jump, Shield, Sleep, Tasha's Caustic Brew
@@ -1664,10 +1666,146 @@ ___
 - 8th Level: Antimagic Field, Clone, Reality Break, Telepathy
 - 9th Level: Blade of Disaster, Ravenous Void
 
-\pagebreakNum
-
 ### Appendix: Demon Companions
 - Demon companions / minions have been rewritten, and now follow the same Might of the Master structure as companions in other classes do. 
 - Many features have been changed. 
 - The Felguard has been added. 
-- All statblocks also have a Demonic Core (for Grimoire of Sacrifice) and a Supremacy Evolution (for Grimoire of Supremacy). 
+- All statblocks also have a Demonic Core (for Grimoire of Sacrifice) and a Supremacy Evolution (for Grimoire of Supremacy).
+
+\columnbreak
+
+## Credits
+
+**Provide feedback for this document:** We'd really love your opinion on this material. You can do so by: 
+- Joining the conversation on [Discord](https://discord.com/invite/dKMJmmD). <br /> (Or just messaging an active Contributor there.)
+- Sharing your thoughts with us on [Reddit](https://www.reddit.com/r/wc5e/).
+- Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
+
+<br />**Current core team:** Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
+<br />
+
+<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
+<br />
+
+<br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
+<br />
+
+<br />**Projects we like and want to give thanks to:**
+- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
+- [This Warcraft project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
+- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
+
+<br />**< Per-page art credits should be listed here >**
+<br />**Page X Art:** 
+<br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
+
+\pagebreakNum
+
+<style>
+
+/* BACK PAGE STYLES */
+
+  /* Remove footer from back page, replace pX with last page number */
+  .phb#p21:after { display:none; }
+
+  .phb .back-cover-content {
+    padding-left: 4px;
+    padding-right: 16px;
+  }
+  .phb .back-cover-right {
+      padding-left: 40px;
+  }
+  .phb .back-cover-image {
+    height: 1136px;
+    left: -20px;
+    top: -10px;
+    width: 475px;
+    background-size: 475px 1136px;
+  }
+  .phb .back-cover-diamond {
+    display: block;
+    position: initial;
+    left: initial;
+    top: initial;
+    margin: auto;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+  }
+ .phb .back-cover-logo-container {
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 314px;
+ }
+ .phb .back-cover-logo,
+ .phb .back-cover-logo-link {
+     position: initial;
+     margin: auto;
+     margin-bottom: 8px;
+     left: initial;
+     bottom: initial;
+     right: initial;
+     background-repeat: no-repeat;
+ }
+ 
+ </style>
+ 
+ <img src='https://www.gmbinder.com/images/4UrFsXk.jpg' style="position:absolute; right:-194px; bottom:0px; height:1160px;" />
+ 
+ <div class='back-cover-image'></div>
+ 
+ <div style='margin-top:20px;'></div>
+ 
+ <div class='back-cover-header'>
+ 
+ Warcraft
+ 
+ 5th Edition
+ 
+ </div>
+ 
+<div class='back-cover-text'>
+ 
+  *Part of the WC5E Heroes Handbook v3*
+ 
+  This document is a part of an upcoming update (as of writing this) to our *Warcraft 5th Edition Heroes Handbook*; a massive tome of player classes, races, and backgrounds to put a Warcraft spin on core Dungeons & Dragons material.
+
+  We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
+  
+  [Our project on Github](https://github.com/WC5E/Warcraft-5e-Conversion/) <br />
+  [Our community on Reddit](https://www.reddit.com/r/wc5e/) <br />
+  [Our community on Discord](https://discord.com/invite/dKMJmmD)
+  
+</div>
+ 
+<div class='back-cover-diamond' style='top: 679px;'></div>
+ 
+<div style='margin-top:35px;'></div>
+ 
+<div class='back-cover-close'>
+
+  Big love from the team. ❤
+
+   
+</div>
+
+<div class='back-cover-logo-container'>
+ 
+  <div class='back-cover-logo'></div>
+ 
+  <div class='back-cover-logo-link'>
+ 
+  [WWW.GMBINDER.COM](https://www.gmbinder.com)
+ 
+  </div>
+
+</div>
+ 
+ \columnbreak
+ 
+
+<div class='back-cover-right'>
+
+</div>
