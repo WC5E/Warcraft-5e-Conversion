@@ -241,14 +241,14 @@ What then drew you forth to adventure? Did you learn of a secret trove of spells
 | 7th | +3 | 7|| —                                                      |4||4||3||3||1||—||—||—||—||—|
 | 8th | +3 | 8|| Ability Score Improvement                              |4||4||3||3||2||—||—||—||—||—|
 | 9th | +4 | 9|| —                                                      |4||4||3||3||3||1||—||—||—||—|
-| 10th| +4 |10|| Magical Study feature, Meta Magic                      |4||4||3||3||3||2||—||—||—||—|
+| 10th| +4 |10|| Magical Study feature, Metamagic                      |4||4||3||3||3||2||—||—||—||—|
 | 11th| +4 |11|| —                                                      |5||4||3||3||3||2||1||—||—||—|
 | 12th| +4 |12|| Ability Score Improvement                              |5||4||3||3||3||2||1||—||—||—|
 | 13th| +5 |13|| —                                                      |5||4||3||3||3||2||1||1||—||—|
 | 14th| +5 |14|| Magical Study feature                                  |5||4||3||3||3||2||1||1||—||—|
 | 15th| +5 |15|| —                                                      |5||4||3||3||3||2||1||1||1||—|
 | 16th| +5 |16|| Ability Score Improvement                              |5||4||3||3||3||2||1||1||1||—|
-| 17th| +6 |17|| Meta Magic                                             |5||4||3||3||3||2||1||1||1||1|
+| 17th| +6 |17|| Metamagic                                             |5||4||3||3||3||2||1||1||1||1|
 | 18th| +6 |18|| Spell Mastery                                          |5||4||3||3||3||3||1||1||1||1|
 | 19th| +6 |19|| Ability Score Improvement                              |5||4||3||3||3||3||2||1||1||1|
 | 20th| +6 |20|| Signature Spell                                        |5||4||3||3||3||3||2||2||1||1|
@@ -1256,7 +1256,7 @@ These are the changes made to the class since the last update released for the c
 ## General
 - Initial page has been rewritten a bit, "Creating a Mage" has been moved up there.
 - Quick creation pointers have been fleshed out.
-- Added full functionality of Sorcery Points and Meta Magic.
+- Added full functionality of Sorcery Points and Metamagic.
 - Removed Arcane Recovery, due to the change above.
 - Additional ribbon feature for first level.
 - 18th and 20th level unchanged (Spell Mastery, Signature Spell)
