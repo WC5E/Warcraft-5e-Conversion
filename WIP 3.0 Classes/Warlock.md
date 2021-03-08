@@ -223,8 +223,9 @@ Warlocks are defined by the powers they wield, the power-ful fel that the have s
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/dvMcsXD.jpg' style='position:absolute; top:-0px; right:-100px; width:1100px;transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/76ytPWI.png' style='position:absolute; top:-520px; right:-200px; width:1500px;transform:rotate(-12deg)' />
-<img src='https://www.gmbinder.com/images/kWRapfL.png' style='position:absolute; top:30px; right:260px; width:550px;transform:scalex(-1)' />
+<img src='https://i.imgur.com/vn90cy3.png' style='position:absolute; top:-10px; right:0px; width:800px; transform:scaleX(-1);' />
+<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; bottom:0px; right:0px; width:800px;' />
+<img src='https://www.gmbinder.com/images/kWRapfL.png' style='position:absolute; top:24px; right:260px; width:550px;transform:scalex(-1)' />
 
 \pagebreakNum
 
@@ -460,7 +461,7 @@ You can expend a soul shard within 5 feet of you to create one of the following 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 <img src='https://www.gmbinder.com/images/8GHYm5P.jpg' style='position:absolute; top:770px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-110px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:0px; right:-15px; width:825px' />
 <img src='https://www.gmbinder.com/images/pZ94Ass.png' style='position:absolute; top:780px; right:400px; width:350px' />
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
@@ -549,8 +550,7 @@ You learn the *bestow curse* and *remove curse* spells. These do not count again
 
 Additionally, when you cast either of these spells you can target two creatures instead of one.
 
-<img src='https://www.gmbinder.com/images/Narbe7i.jpg' style='position:absolute; bottom:-674px; right:0px; ' />
-<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-36px; left:0px; width:900px; transform:rotate(8deg)' />
+<img src='https://i.imgur.com/p23X3P4.png' style='position:absolute; width:800px; bottom:-4px; right:0px;' />
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
@@ -809,9 +809,9 @@ The infernal rises from the crater at the end of your turn, following your comma
 Once you have used this ability, you cannot do so again until you finish a long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/Zvvr01c.jpg' style='position:absolute; bottom:-70px; right:-90px; width:550px '/>
-<img src='https://www.gmbinder.com/images/i9dzMuI.png' style='position:absolute; bottom:-210px; right:-50px; width:900px;' />
-<img src='https://www.gmbinder.com/images/i9dzMuI.png' style='position:absolute; top:0px; right:-50px; width:900px;' />
+<img src='https://www.gmbinder.com/images/Zvvr01c.jpg' style='position:absolute; bottom:-70px; right:-70px; width:550px '/>
+<img src='https://www.gmbinder.com/images/i9dzMuI.png' style='position:absolute; bottom:-240px; right:-30px; width:900px;' />
+<img src='https://www.gmbinder.com/images/i9dzMuI.png' style='position:absolute; top:0px; right:-30px; width:900px;' />
 
 \pagebreakNum
 # Chapter 6: Spells
@@ -1286,6 +1286,7 @@ ___
 
 <img src='https://www.gmbinder.com/images/DCctq70.jpg' style='position:absolute; bottom:-200px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-220px; right:0px; width:900px' />
+<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
 
 <div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
@@ -1342,6 +1343,7 @@ ___
 
 <img src='https://www.gmbinder.com/images/moaDsD1.jpg' style='position:absolute; bottom:-80px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute; bottom:0px; left:0px; width:900px;' />
+<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
 
 <div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
@@ -1395,6 +1397,7 @@ ___
 
 <img src='https://www.gmbinder.com/images/z08oeTn.jpg' style='position:absolute; bottom:-100px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/wvTUmvu.png' style='position:absolute; bottom:-20px; left:0px; width:800px' />
+<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
 
 <div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
@@ -1449,6 +1452,7 @@ ___
 
 <img src='https://www.gmbinder.com/images/lc9zJNs.jpg' style='position:absolute; bottom:-250px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-130px; left:0px; width:800px' />
+<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
 
 <div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
@@ -1506,6 +1510,7 @@ ___
 
 <img src='https://www.gmbinder.com/images/dPcFWbx.jpg' style='position:absolute; bottom:-150px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:-0px; left:0px; width:800px' />
+<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
 
 <div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
