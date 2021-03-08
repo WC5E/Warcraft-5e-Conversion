@@ -200,26 +200,31 @@ A brutish orc waves his hand in the air, sparking flames of green and red, with 
 
 Shifting his gaze between a battered tome and the rough drawn glyphs made in the dirt. A wild eyed forsaken begins a slow chant, as a demonic gate erupts from the ground.
 
-Warlocks and seekers of the knowledge that lies hidden in the fabric of the multiverse. Through their powerful fel magic and secret grimoires, warlocks unlock magical effects both subtle and spectacular. They draw on powers often forbidden throughout Azeroth to bolster their own power.
+Warlocks and seekers of the knowledge that lies hidden in the fabric of the multiverse. Through their powerful fel magic and secret grimoires, warlocks delve deep into forbidden magic both subtle and spectacular.
 
 ### Dark Arts, Dominance
-In the face of demonic powers, most adventurers see death and destruction. Warlocks see only opportunity, dominance is their aim, and have found a path to it in their fel sorcery. These voracious spellcasters enslave demon as their minions to fight and protect besides them. The power of their enslaved demons strengthens as the warlock does, making them able to summon deadly demons to their aid.
+In the face of demonic powers, most adventurers see death and destruction. Warlocks see opportunity, dominance, and a clear power to it through their dark sorcery. They are voracious spellcasters who enslave demons into doing their bidding. Some hide away in plain sight, presenting as forward-thinking arcanists while secretly dabbling in dark practices. Others practice their arts openly, in sects that quickly grow notorious both far and wide.
 
-<br />
+\columnbreak
+
 <div style='margin-top:363px'></div>
 
 ### Wielders of Fel
-Warlocks are the wielders of the destructive fel magic, a form of magic often used by demons and members of the Burning Legion. It is a form of magic that is demonic, entropic, and extremely chaotic. Its practice has been banned throughout most regions of Azeroth, and is not something even warlocks dare practice openly, yet it is still practiced by most warlocks in secrecy.
+Warlocks are the wielders of the destructive fel, a form of magic most associated with demons and the Burning Legion. It is well known for being entropic and extremely chaotic, leading its practice to have been banned in most societies and for its practitioners to work in secrecy. 
 
-Whilst other forms of magic comes as a natural source from the wielder or is granted by the spirits, fel magic is a bargain, it corrupts the minds of those surrounded and affected by it, and desecrates the land it touches. If their demonic minion was not enough to frighten common folks of Azeroth, the knowledge of the fel powers they wield are enough to discourage service to them.
+Whilst other forms of magic have a natural source, from the wielder or granted to the wielder, fel magic is a bargain. It corrupts the minds of those involved and desecrates the land around them. If their subdued demons were not enough to frighten the common folk, the fear for what these powers can bring would certainly do the trick.
 
 ### Delvers of Secrets
-Warlocks are the most volatile and insatiable of spell-casters. Though they often pledge themselves to the service of noble causes and are not innately evil, their desire to understand darker magics and exercise unwavering command over demonic forces breeds mistrust among even their closest allies. Warlocks peer into the Void without hesitation, leveraging the chaos they glimpse within to devastating ends in battle—their greatest abilities are fueled by the souls they’ve harvested from their victims. 
+Though warlocks are not innately evil, often pledging them&shy;selves to noble causes, their desire to understand these dark powers and hold command over demonic forces does breed mistrust among even even their closest allies. 
 
-They exploit powerful shadow and fel magic to manipu-late and degrade the minds and bodies of their enemies. They employ hellish fires to rain from the skies, immolating their opponents, summoning and commanding indomitable demons from the Twisting Nether to do their bidding, or even to be sacrificed as the Warlock sees fit, empowering and protecting the dark caster from harm.
+Warlocks peer into the Void without hesitation, leverag&shy;ing the chaos they glimpse within to devastating ends in battle—some of their abilities are even fueled by the souls they’ve harvested from their victims. 
 
-### Sworn and Beholden
-Warlocks are defined by the powers they wield, the power-ful fel that the have studied, granting them knowledge of powers hidden to mages and arcanists. A warlock might be a new found member of one of Azeroth's many cults hidden in ruins no longer used, studying fel in secrecy, attempting to unlock devastating powers.
+They exploit powerful shadow and fel magic to manipu-late and degrade the minds and bodies of their enemies. They employ hellish fires to rain from the skies, immolating their opponents, summoning and commanding indomitable demons from the Twisting Nether to wreak havoc.
+
+### Creating a Warlock
+As you create your warlock, think about how and why you decided to delve into the secrets of fel sorcery, one of the greatest and most volatile powers known among mortals. What made you see potential where others would only see death? Were you seduced by the powers promised? Was a deal struck with a demon, or a denizen of the void? 
+
+Perhaps you are part of a sect to whom fel and shadow are but the means to an end, or perhaps a taste was all it took to hurl you into a magical addiction that you are now fighting to overcome. How your dark studies came to be is for you to decide.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/dvMcsXD.jpg' style='position:absolute; top:-0px; right:-100px; width:1100px;transform:scalex(-1)' />
@@ -258,11 +263,6 @@ Level   |Proficiency<br />Bonus|Features          |Cantrips<br />Known|Spells<br
 
 **Note:** The "+X" represents Nethermancy spells.
 </div>
-
-<div style='margin-top:-8px'></div>
-
-### Creating a Warlock
-As you make your warlock character, think about why you decided to delve into the secrets of fel sorcery. Were you seduced by the powers it had?  Did you seek out a warlock yourself? Or perhaps you became addicted to its powers. How your studies came to be is for you to decide.
 
 #### Optional Rule: Multiclassing
 If your group uses the optional rule on multiclassing in the *Player's Handbook*, here's what you need to know if you choose warlock as one of your classes.
