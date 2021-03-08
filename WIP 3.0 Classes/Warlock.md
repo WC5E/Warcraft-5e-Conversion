@@ -1696,8 +1696,17 @@ This release of the document is a patch update from the last class preview. The 
 - [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
 - All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
 
-<br />**< Per-page art credits should be listed here >**
-<br />**Page X Art:** 
+<br />**Pg 1 Art:** "Undead Warlock" from [the WoW TGC](https://wow.gamepedia.com/File:Undead_warlock_1920xwide.jpg)
+<br />**Pg 2 Art:** "Shadowmoon Valley" by [Peter Lee](https://wow.gamepedia.com/File:Shadowmoon_Valley_Concept_Art_Peter_Lee_2.jpg)
+<br />**Pg 4 Art:** "Warlock Class Crest" from [World of Warcraft](https://wow.gamepedia.com/File:Warlock_Crest.png)
+<br />**Pg 4 Art:** "The Tomb of Sargeras" by [Dmytro Vernygor](https://www.artstation.com/artwork/31m9A)
+<br />**Pg 5 Art:** "Life Tap" by [Luca Zontini](https://hearthstone.gamepedia.com/File:Life_Tap_full.jpg)
+<br />**Pg 8 Art:** "Gnome Warlock and Minions" by [Artlon](https://artlon.tumblr.com/post/160230752796/gnome-warlock-and-minions-gnome-warlock-in-her)
+<br />**Pg 13 Art:** "Felguard" by [John Polidora](https://hearthstone.gamepedia.com/File:Felguard_full.jpg)
+<br />**Pg 14 Art:** "Malistra the Demonmistress" by [John Polidora](https://wow.gamepedia.com/File:Malistra_the_Demonmistress_TCG.jpg)
+<br />**Pg 15 Art:** "Imp Gang Boss" by [Steve Prescott](https://hearthstone.gamepedia.com/File:Imp_Gang_Boss_full.jpg)
+<br />**Pg 16 Art:** "Sarlia" by [Dan Scott](https://wow.gamepedia.com/Sarlia)
+<br />**Pg 17 Art:** "Voidcaller" by [Robb Shoberg](https://hearthstone.gamepedia.com/File:Voidcaller_full.jpg)
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreakNum
