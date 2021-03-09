@@ -338,7 +338,7 @@ The Mage table shows how many spell slots you have to cast your spells of 1st le
 
 You prepare the list of mage spells that are available for you to cast. To do so, choose a number of mage spells from your spellbook equal to your Intelligence modifier + your mage level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example. if you're a 3rd-level mage, you have four <br/> 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared.
+For example. if you're a 3rd-level mage, you have four <br/> 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell *magic missile*, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of mage spells requires time spent studying your spellbook and memori-zing the incantations and gestures you must make to cast the spell: 1 minute per spell level for each spell on your list.
 
@@ -372,6 +372,7 @@ Your studies taught you how to sense residual magical energy. You can sense when
 \pagebreakNum
 
 Additionally you can create hidden magical writing in any language you know.
+
 Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
 
 ### Font of Magic
@@ -413,6 +414,7 @@ At 3rd level, you gain the ability to twist your spells to suit your needs. You 
 
 #### Careful Spell
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Intelligence modifier (minimum of one creature). 
+
 A chosen creature automatically succeeds on its saving throw against the spell.
 
 #### Distant Spell
@@ -420,11 +422,9 @@ When you cast a spell that has a range of 5 feet or greater, you can spend 1 sor
 
 When you cast a spell that has a range of touch, you can spend 1 sorcery point to have the spell's range be 30 feet.
 
-#### Transmuted Spell
-When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder. 
-
 #### Empowered Spell
 When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Intelligence modifier (minimum of 1). You must then use the new damage rolls.
+
 You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 #### Extended Spell
@@ -442,8 +442,12 @@ When you make an attack roll for a spell and miss, you can spend 2 sorcery point
 #### Subtle Spell
 When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 
+#### Transmuted Spell
+When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder. 
+
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, magic missile and scorching ray aren't eligible, but ray of frost and chromatic orb are.
 
 ### Ability Score Improvement
@@ -573,7 +577,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 When you deal fire damage with a spell using a spell slot, up to 5th level, you can spend up to 3 sorcery points to empower it. For each sorcery point spent, add an extra die to  the damage dealt by the spell.
 
-For example, when you cast Burning Hands and spend 2 points, you add an extra 2d6 to the spell's damage. When you cast a spell that makes multiple attack rolls, such as Scorching Ray, you must spend the points on each attack individually.
+For example, when you cast *burning hands* and spend 2 points, you add an extra 2d6 to the spell's damage. When you cast a spell that makes multiple attack rolls, such as *scorching ray*, you must spend the points on each attack individually.
 
 #### Combustion
 *14th-level Study of Fire feature*
@@ -634,8 +638,7 @@ At the end of a long rest, you can conjure a new water elemental. If you already
 
 Whenever a creature would take cold damage from one of your mage spells, its movement speed is reduced by 10 feet until the end of your next turn.
 
-When a creature has its speed reduced in this way, you can spend one sorcery point: that creature must succeed on a Strength saving throw against your spell save DC or be restrained for 1 minute.
-If a creature makes a successful hit against the creature the conditions caused by Brain Freeze are removed.
+When a creature has its speed reduced in this way, you can spend one sorcery point: that creature must succeed on a Strength saving throw against your spell save DC or be restrained for 1 minute. If a creature makes a successful hit against the creature the conditions caused by Brain Freeze are removed.
 
 Beginning at 14th level the creature becomes paralyzed instead of restrained.
 
@@ -662,6 +665,7 @@ In addition, you can now spend sorcery points to cause the effect of Brain Freez
 <div style='margin-top:-4px'></div>
 
 You can use your action to conjure up a ring of magical runes to invoke the deepest cold around a point you can choose within 60 feet. The ring has a 30-foot-radius and fills a 10-foot tall cylinder with frigid cold. 
+
 Creatures inside the area must succeed on a strength saving throw against your spell save DC or become paralyzed for up to 1 minute or until they take damage. If a creature’s body is fully inside the area the save is made with disadvantage. On a successful save a creature isn't restrained.
 
 Additionally creatures passing through the area with non-magical means have their movement speed halved until the end of their next turn after leaving the area. Additionally ranged attacks made through the area are made with disadvantage.
@@ -758,7 +762,7 @@ Alarm
 <br/> Expeditious Retreat
 <br/> Feather Fall
 <br/> Find Familiar
-<br/> Frost Fingers ^ID:RotF^
+<br/> Frost Fingers ^IDRotF^
 <br/> ✦ Frostfire Bolt
 <br/> Gift of Alacrity ^EGW^
 <br/> Hellish Rebuke
@@ -1015,7 +1019,7 @@ Blade of Disaster ^TCE^
 > <br/> Forbiddance
 > <br/> <br/>
 >##### 7th Level
-> Create Magen ^ID:RotF^
+> Create Magen ^IDRotF^
 > <br/> Finger of Death
 > <br/> Plane Shift
 > <br/> <br/>
