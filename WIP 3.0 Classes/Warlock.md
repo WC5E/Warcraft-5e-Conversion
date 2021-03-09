@@ -1595,7 +1595,7 @@ ___
 
 \pagebreakNum
 
-## Changelog
+## Changelog (preview-1)
 
 This release of the document is a patch update from the last class preview. The changelog shown here shows all class changes since the last version of the class (HHB 2.1).
 
@@ -1679,7 +1679,34 @@ This release of the document is a patch update from the last class preview. The 
 - The Felguard has been added. 
 - All statblocks also have a Demonic Core (for Grimoire of Sacrifice) and a Supremacy Evolution (for Grimoire of Supremacy).
 
-\columnbreak
+## Changelog (Preview-1.1)
+### Major Changes:
+- Demon progression changed, moved to own column in class table. 
+- Saving Throws changed from Intelligence/Charisma to Constitution/Intelligence.
+- Profane Secret's bonus to Charisma checks now applies even if you don't have skill proficiency.
+- In Grimoire of Servitude, the line "A minion can't attack, but it can take other actions as normal." was removed.
+- Spellstones now only affect one creature and the first saving throw against the spell.
+- Demonology: Redundant revive rule in Soul Conduit removed.
+- Demonology: Pool of energy from Demonic Fury is a static six instead of based on Intelligence.
+- Destruction: Channel Demonfire can now be used on cantrips.
+- Destruction: Slight wording change on how Havoc works.
+- Spells: Summon Aberration, Summon Fiend, Summon Shadowspawn, Summon Undead, and Tasha's Caustic Brew added.
+- Spells: Cataclysm, Diabolism, Rain of Fire, Shadow Bolt, and Shadowfury reworked. 
+- Spells: Demonfire replaced with Fire and Brimstone. Functionally the same, with fixes, but should avoid confusion with the Destruction ability.
+- Demons: Felguard's Pursuit reworked.
+- Demons: Imp's Etherealness replaced with Phase Shift.
+- Added credits backpage.
+
+### Minor Changes:	
+- Class background image changed.
+- Fixed some formatting problems. 
+- Changed some wording in the introduction to the class.
+- Profane Knowledge renamed to Profane Secrets.
+- Dark Knowledge renamed to Demonic Knowledge.
+- Grimoire of Service renamed to Grimoire of Servitude.
+- Multiclassing section added.
+- Quick build expanded. 
+- Tasha's class format added.
 
 ## Credits
 
