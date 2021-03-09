@@ -274,9 +274,9 @@ If your group uses the optional rule on multiclassing in the *Player's Handbook*
 ***Fel Sorcery.*** You can cast spells known or prepared from the Spellcasting class feature using Fel Sorcery spell slots, and vice versa.
 
 #### Quick Build
-You can make a warlock quickly by following these sugges&shy;tions. First, Intelligence should be your highest ability score, followed by Constitution.
+You can make a warlock quickly by following these sugges&shy;tions. First, Intelligence should be your highest ability score, followed by Constitution. Second, choose the charlatan background. 
 
-**< Remainder missing for background, cantrips, and 1st-level spells. >**
+Third, choose the *shadow bolt* and *mage hand* cantrips, along with the 1st level spell *demon skin* and either of the 1st-level spells *drain life* or *witch bolt*.
 
 \columnbreak
 
