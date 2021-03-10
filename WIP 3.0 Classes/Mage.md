@@ -638,7 +638,7 @@ At the end of a long rest, you can conjure a new water elemental. If you already
 
 Whenever a creature would take cold damage from one of your mage spells, its movement speed is reduced by 10 feet until the end of your next turn.
 
-When a creature has its speed reduced in this way, you can spend one sorcery point: that creature must succeed on a Strength saving throw against your spell save DC or be restrained for 1 minute. If a creature makes a successful hit against the creature the conditions caused by Brain Freeze are removed.
+When a creature has its speed reduced in this way, you can spend one sorcery point: that creature must succeed on a Strength saving throw against your spell save DC or be restrained for 1 minute. If a creature lands a successful hit against the creature the conditions caused by Brain Freeze are removed.
 
 Beginning at 14th level the creature becomes paralyzed instead of restrained.
 
