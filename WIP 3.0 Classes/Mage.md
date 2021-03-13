@@ -535,7 +535,7 @@ You can change your list of prepared mage spells when you finish a short or a lo
 ___
 <div style='margin-top:-6px'></div>
 
-You can exert your control over magic to warp time itself. When a creature you can see within 60 feet of you begins their turn, you can use your reaction to allow that creature to take another action during that turn. When you do so, you gain one level of exhaustion.
+You can exert your control over magic to warp time itself. When a creature you can see within 60 feet of you begins their turn, you can use your reaction to allow that creature to take one additional action during its turn. When you do so, you gain one level of exhaustion.
 
 
 <img src='https://www.gmbinder.com/images/08NuEJc.png' style='position:absolute; right:0; bottom:0px; width:556px;' />
