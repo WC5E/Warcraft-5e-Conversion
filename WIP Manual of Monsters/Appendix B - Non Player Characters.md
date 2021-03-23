@@ -1117,9 +1117,11 @@ ___
 The higher class of their culture, **nobles** have often been particularly susceptible to the corrupting forces of the world. Others in turn have chosen to use their influence to actively combat said corruption and evil. 
 
 
+<img src="https://i.imgur.com/0hVRLNf.png" class="inkblot" style="width:690px; bottom:-120px; right:-160px; transform: rotate(21deg) scaleY(-1);" />
+<img src="https://i.imgur.com/xU5GXXN.png" style="position:absolute; bottom:-45px; right:-80px; width:530px;">
+
+
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src="https://www.gmbinder.com/images/IZxUcyh.jpg" style="position:absolute; top:580px; right:-145px; width:550px;">
-<img src="https://www.gmbinder.com/images/qKrtKxo.png" style="position:absolute; top:-180px; right:-140px; width:1150px; transform:rotate(90deg);">
 
 \pagebreakNum
 
@@ -1575,6 +1577,8 @@ These are the changes made to the class since the last update this material (3.x
 <br />**Page 8 Art:** "Demon Hunter" by [Szabados Zsolt](https://www.wowhead.com/news=249763.3/legion-art-contest-winners-gallery)
 <br />**Page 9 Art:** "Wild Growth" by [EmberWickArt](https://twitter.com/emberwickart/status/1072575420850208768)
 <br />**Page 10 Art:** "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
+<br />**Page 11 Art:** "Draenei Frost Mage" by [Aaron Lovett](https://www.artstation.com/artwork/y2w6x)
+<br />**Page 12 Art:** "Kel'Thuzad" by [Alexey Kruglov](https://www.artstation.com/artwork/V5BWN)
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreak
