@@ -1522,8 +1522,114 @@ Some arcanists devote their life to the art of warfare, taking on the title of *
 <img src='https://www.gmbinder.com/images/lge9kHo.jpg' style='position:absolute; top:0px; right:100px; width:800px' />
 <img src='https://www.gmbinder.com/images/l4AHa3B.png' style='position:absolute; top:-300px; right:130px; width:1100px' />
 <img src='https://www.gmbinder.com/images/l4AHa3B.png' style='position:absolute; top:0px; right:-450px; width:1100px; transform:rotate(180deg)' />
+ 
+ \pagebreak
+
+# Update 3.0-type-num
+
+<br />
+
+These are the changes made to the class since the last update this material (3.x.x)
+
+## Category
+
+
+## Category
+
+
+## Category
+
+
+
+\columnbreak
+
+
+## Credits
+
+**Provide feedback for this document:** We'd really love your opinion on this material. You can do so by: 
+- Joining the conversation on [Discord](https://discord.com/invite/dKMJmmD). <br /> (Or just messaging an active Contributor there.)
+- Sharing your thoughts with us on [Reddit](https://www.reddit.com/r/wc5e/).
+- Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
+
+<br />**Current core team:** Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
+<br />
+
+<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
+<br />
+
+<br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
+<br />
+
+<br />**Projects we like and want to give thanks to:**
+- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
+- [This Warcraft project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
+- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
+
+<br />**Page X Art:** 
+<br />**Page 2 Art:** "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889)
+<br />**Page 4 Art:** "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543)
+<br />**Page 5 Art:** Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet)
+<br />**Page 6 Art:** "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
+<br />**Page 7 Art:** "The Cultist" by [Rogier van de Beek](https://www.artstation.com/artwork/oG3OJ)
+<br />**Page 8 Art:** "Demon Hunter" by [Szabados Zsolt](https://www.wowhead.com/news=249763.3/legion-art-contest-winners-gallery)
+<br />**Page 9 Art:** "Wild Growth" by [EmberWickArt](https://twitter.com/emberwickart/status/1072575420850208768)
+<br />**Page 10 Art:** "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
+<br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreakNum
+
+<style>
+
+/* BACK PAGE STYLES */
+
+  /* Remove footer from back page, replace pX with last page number */
+  .phb#p13:after { display:none; }
+
+  .phb .back-cover-content {
+    padding-left: 4px;
+    padding-right: 16px;
+  }
+  .phb .back-cover-right {
+      padding-left: 40px;
+  }
+  .phb .back-cover-image {
+    height: 1136px;
+    left: -20px;
+    top: -10px;
+    width: 475px;
+    background-size: 475px 1136px;
+  }
+  .phb .back-cover-diamond {
+    display: block;
+    position: initial;
+    left: initial;
+    top: initial;
+    margin: auto;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+  }
+ .phb .back-cover-logo-container {
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 314px;
+ }
+ .phb .back-cover-logo,
+ .phb .back-cover-logo-link {
+     position: initial;
+     margin: auto;
+     margin-bottom: 8px;
+     left: initial;
+     bottom: initial;
+     right: initial;
+     background-repeat: no-repeat;
+ }
+ 
+ </style>
+ 
+ <img src='https://www.gmbinder.com/images/4UrFsXk.jpg' style="position:absolute; right:-194px; bottom:0px; height:1160px;" />
  
  <div class='back-cover-image'></div>
  
@@ -1541,16 +1647,14 @@ Some arcanists devote their life to the art of warfare, taking on the title of *
  
   *Part of the WC5E Manual of Monsters v3*
  
-  This document is a part-piece of an upcoming update (as of writing this) to our *Warcraft 5th Edition Manual of Monsters*; a massive tome of creatures and NPCs adapted from the Warcraft universe to be used in Dungeons & Dragons. 
+  This document is a part of an upcoming update (as of writing this) to our *Warcraft 5th Edition Manual of Monsters*; a massive tome of creatures and NPCs adapted from the Warcraft universe to be used in Dungeons & Dragons. 
 
   We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
   
-  [Read about us on Github]
+  [Our project on Github](https://github.com/WC5E/Warcraft-5e-Conversion/) <br />
+  [Our community on Reddit](https://www.reddit.com/r/wc5e/) <br />
+  [Our community on Discord](https://discord.com/invite/dKMJmmD)
   
-  [Find us on Reddit] [Find us on Discord]
-  
-  
-
 </div>
  
 <div class='back-cover-diamond' style='top: 679px;'></div>
@@ -1559,7 +1663,7 @@ Some arcanists devote their life to the art of warfare, taking on the title of *
  
 <div class='back-cover-close'>
 
-  Big love from the gang. ❤
+  Big love from the team. ❤
 
    
 </div>
@@ -1580,22 +1684,5 @@ Some arcanists devote their life to the art of warfare, taking on the title of *
  
 
 <div class='back-cover-right'>
- <div class='classTable'>
 
-  ##### Art Credits
-
-  | Pg.    | Artwork    |
-  |:------:|:-----------|
-  | **1**  |    |
-  | **2**  | "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889) |
-  | **4**  | "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543) |
-  | **5**  | Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet) |
-  | **6**  | "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
-  | **7**  | "The Cultist" by [Rogier van de Beek](https://www.artstation.com/artwork/oG3OJ)
-  | **8**  | "Demon Hunter" by [Szabados Zsolt](https://www.wowhead.com/news=249763.3/legion-art-contest-winners-gallery)
-  | **9**  | "Wild Growth" by [EmberWickArt](https://twitter.com/emberwickart/status/1072575420850208768)
-  | **10** | "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
-
-  </div>
 </div>
- 
