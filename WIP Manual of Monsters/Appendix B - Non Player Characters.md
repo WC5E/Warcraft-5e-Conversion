@@ -1519,11 +1519,12 @@ ___
 Some arcanists devote their life to the art of warfare, taking on the title of **war mages**. They keep a keen mind for tactical and scholarly matters alike, and are often among the most respected advisors to leaders. Some such mages are even charismatic leaders in their own right. 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://www.gmbinder.com/images/lge9kHo.jpg' style='position:absolute; top:0px; right:100px; width:800px' />
-<img src='https://www.gmbinder.com/images/l4AHa3B.png' style='position:absolute; top:-300px; right:130px; width:1100px' />
-<img src='https://www.gmbinder.com/images/l4AHa3B.png' style='position:absolute; top:0px; right:-450px; width:1100px; transform:rotate(180deg)' />
+<img src='https://www.gmbinder.com/images/lge9kHo.jpg' style='position:absolute; top:0px; right:-20px; width:840px' />
+<img src='https://i.imgur.com/C2bOp8u.png' style='position:absolute; top:250px; right:-10px; width:820px;' />
  
- \pagebreak
+ 
+\pagebreakNum
+
 
 # Update 3.0-type-num
 
@@ -1577,7 +1578,7 @@ These are the changes made to the class since the last update this material (3.x
 <br />**Page 10 Art:** "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
-\pagebreakNum
+\pagebreak
 
 <style>
 
