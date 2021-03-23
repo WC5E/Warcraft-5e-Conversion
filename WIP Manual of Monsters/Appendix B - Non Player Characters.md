@@ -956,13 +956,7 @@ Highly skilled **infiltrators** are sent into exceptional danger to gather the m
 
 \pagebreakNum
 
-
-### Knight
-The heroic knights of any culture will, first and foremost, represent the virtues of their home, running away only when ordered to by their leader.
-
-### Mage
-A mage has passed the trials of apprenticeship and begun the path of greater knowledge and power, and will often be eager for opportunities to acquire both.
-
+<div style='margin-top:308px;'></div>
 
 ___
 > ## Knight <!-- https://wc5e-cr-calculator.frogvall.com/?0;18;52;5;13;20;0;20;0;20;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;1;;;;10;;;;;; -->
@@ -998,11 +992,12 @@ ___
 >
 > ***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 
+The heroic **knights** of any culture will, first and foremost, represent the virtues of their home. They only ever turn from a battle ordered to do so by their commander.
 
 \columnbreak
 
-<div style='margin-top:310px;'></div>
 
+<div style='margin-top:274px;'></div>
 
 ___
 > ## Mage <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;126;6;14;50;0;37;0;37;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;5;4;4;9;Arcane%20Barrage;Blizzard;Frostfire%20Bolt;Fire%20Bolt;Magic%20Missile;Scorching%20Ray -->
@@ -1041,16 +1036,16 @@ ___
 > ***Dagger.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
 
+A **mage** is an arcanist has passed the trials of apprenticeship and begun the path of greater knowledge and power -- and will often be eager for opportunities to acquire both.
+
+
+
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 <img src="https://www.gmbinder.com/images/5Kd1arQ.jpg" style="position:absolute; top:0px; right:-35px; width:450px;">
 <img src="https://www.gmbinder.com/images/qKrtKxo.png" style="position:absolute; top:0px; right:-50px; width:950px;">
 <img src="https://www.gmbinder.com/images/TYBvp5o.png" style="position:absolute; top:-50px; right:-100px; width:900px;">
 
 \pagebreakNum
-
-
-### Necromancer
-Powerful mages who have learned the taboo powers over the dead. Most serve the Scourge, and display a sickening intellect.
 
 
 ___
@@ -1088,11 +1083,10 @@ ___
 > ***Dagger.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20ft./60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
 
+**Necromancers** are powerful mages who delve into the shrouded mysteries of undeath, a practice that is consid&shy;ered taboo -- and typically outlawed. While some work to their own ends, most serve the Scourge, and they all show a sickening kind of brilliance.
+
+
 \columnbreak
-
-
-### Noble
-The higher class of their culture, nobles have often been particularly susceptible to the corrupting forces of the world. Others have used their influence to combat evil. 
 
 
 ___
@@ -1121,15 +1115,14 @@ ___
 >
 > ***Parry.*** The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 
+The higher class of their culture, **nobles** have often been particularly susceptible to the corrupting forces of the world. Others in turn have chosen to use their influence to actively combat said corruption and evil. 
+
+
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 <img src="https://www.gmbinder.com/images/IZxUcyh.jpg" style="position:absolute; top:580px; right:-145px; width:550px;">
 <img src="https://www.gmbinder.com/images/qKrtKxo.png" style="position:absolute; top:-180px; right:-140px; width:1150px; transform:rotate(90deg);">
 
 \pagebreakNum
-
-
-### Priest
-The priests of the Holy Light display a mastery over mending and protection. They are most often kind and accommodating, but religious doctrine can limit their interactions with certain people.
 
 
 ___
@@ -1163,12 +1156,10 @@ ___
 > ### Actions
 > ***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage.
 
+The **priests** of the Holy Light display a mastery over spells that mend and protec. They are most often kind and acco&shy;mmodating, though religious doctrine can limit their ability or willingness to interact with certain people.
+
 
 \columnbreak
-
-
-### Ranger
-Elven rangers are among the most respected people across the world, and any non-elf seen learning their ways often earns even greater respect. They learn the lay of the land and guard its borders with extreme care.
 
 
 ___
@@ -1198,6 +1189,8 @@ ___
 >
 > ***Longbow.*** *Ranged Weapon Attack:* +6 to hit, range l50/600 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage.
 
+Elven **rangers** are among the most respected figures one can find, and any non-elf seen learning their ways often earns even greater respect for their ability to follow the same path. They learn the lay of the land and guard its borders with utmost care.
+
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 <img src='https://www.gmbinder.com/images/Kgr2J29.jpg' style='position:absolute; top:660px; left:200px; width:600px; transform:scaleX(-1)'>
@@ -1205,10 +1198,6 @@ ___
 <img src='https://www.gmbinder.com/images/MVDaLa2.png' style='position:absolute; top:-150px; left:150px;; width:960px' />
 
 \pagebreakNum
-
-
-### Scout
-Often the youngest and brightest of ranger corps, scouts will do whatever they can to ensure vital information reaches their homes. They often have not yet been made cynical by years of service.
 
 
 ___
@@ -1240,11 +1229,9 @@ ___
 > ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range l50/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
 
+As swift as they are agile, **scouts** excel as guides through the wilds, as well as reconnaissance workers and expedient messengers. Those embroiled in military service will keep themselves leaps ahead of their fellows, ever on guard for any encroaching threat. 
+
 \columnbreak
-
-
-### Soldier
-Be they grunts, sentinels, or soldiers, the backbone of any army is its standing ranks. Loyalty to their homes can sometimes be enough to make them stand fast against terrible sights.
 
 
 ___ 
@@ -1273,16 +1260,14 @@ ___
 > ***Parry.*** The soldier adds 2 to its AC against one melee attack that would hit it. To do so, the soldier must see the attacker
 and be wielding a shield.
 
+Whether they are grunts, sentinels, or **soldiers**, the back&shy;bone of any army is its standing ranks. In some cultures, the common folk may find themselves drafted out of sheer necessity, while in other cultures it can be considered a matter of pride to partake.
+
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 <img src='https://www.gmbinder.com/images/3mjUMeK.jpg' style='position:absolute; top:700px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/MVDaLa2.png' style='position:absolute; top:-50px; right:0px; width:900px' />
 
 \pagebreakNum
-
-
-### Spy
-Spies are ubiquitous across any world led by war, not least the Horde's Shattered Hand or the Alliance's SI:7, however any group may employ the stealthy kind to discover vital information. 
 
 
 ___
@@ -1314,12 +1299,10 @@ ___
 >
 > ***Hand Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
+In the hunt for vital information, employing a **spy** is always a sure-fire approach -- and in a world led by war, they can be rather commonplace. Two organizations particularly well known for the art are the *Shattered Hand* for the Horde and the *SI:7* for the Alliance. 
+
 
 \columnbreak
-
-
-### Thug
-The criminals of the world pay muscle to act as a deterrent to would-be attackers. Thugs often thirst for action and spend little time bothering with niceties.
 
 
 ___
@@ -1349,16 +1332,14 @@ ___
 >
 > ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft, one creature. *Hit:* 4 (1d4 + 2) piercing damage.
 
+Anyone looking to get ahead in the criminal underworld knows to pay for some muscle, as a deterrent against any would-be attackers. These **thugs** will thirst for action and spend little time bothering with niceties.
+
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 <img src='https://www.gmbinder.com/images/kyVTwI1.png' style='position:absolute; top:580px; right:180px; width:700px' />
 <img src='https://www.gmbinder.com/images/luZTiQ3.png' style='position:absolute; top:-200px; right:-370px; width:1200px' />
 
 \pagebreakNum
-
-
-### Tribal Warrior
-The uncivilized tribes of the world are defended by these loyal warriors. Often simple minded, they will not bother asking questions if they feel threatened.
 
 
 ___ 
@@ -1387,12 +1368,10 @@ ___
 > ***Handaxe.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
 
 
+Tribal societies can be found far and wide across Azeroth -- trolls, tauren, ogres, naga, the humans of Arathi before they became an empire, and many more still. A common denom&shy;inator among them are the brave and bold **tribal warriors** who patrol their borders. 
+
+
 \columnbreak
-
-
-### Veteran
-Azeroth has seen countless wars, and a veteran of one is often a veteran of many. Respected by their peers, it is uncommon for them to forget their training.
-
 
 ___
 > ## Veteran <!-- https://wc5e-cr-calculator.frogvall.com/?0;17;78;5;12;20;0;20;0;20;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -1419,6 +1398,8 @@ ___
 > ***Longsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 >
 > ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+
+Azeroth has seen countless wars, and a **veteran** of one is likely to be a veteran of many. Well-respected by their peers, it is not uncommon even for a long-retired veteran to still know their training by heart.
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
@@ -1464,14 +1445,13 @@ ___
 > ***Drain Life.*** *Ranged Spell Attack:* +7 to hit, range 30 ft., one creature. *Hit:* The creature takes 9 (2d8) necrotic damage and the warlock regains a number of hit points equal to half the damage dealt. 
 > <br/>   The creature must also make a DC 15 Constitution saving throw or have their maximum hit point total reduced by the amount of damage taken until their next long rest. This cannot reduce their maximum hit point total below 1.
 
+Sharply intelligent, immensely powerful, and often sardonic in nature, a **warlock** would seldom bother with people they perceive as inferior -- which is often most of them. Their demonic powers have them often, though not always, keeping some semblance loyalty to the Burning Legion. 
+
 \columnbreak
 
 
-### Warlock
-The most powerful users of demonic magic are often - but not always - loyal to the Burning Legion. They are often sharply intelligent but sardonic in nature, and seldom bother with those they perceive as inferior, which is most people.
 
-### War Mage
-Mages that have devoted their magic to resolving warfare, following the likes of Khadgar. Their technical or scholarly knowledge has not fallen behind, and they can be among the most respected advisers to leaders, or charismatic leaders in their own right.
+
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
@@ -1535,6 +1515,8 @@ ___
 > ### Reactions
 >
 > ***Arcane Deflection.*** When the mage is attacked by a spell, it can use its reaction to gain +2 AC or +4 to saving throws against that spell. 
+
+Some arcanists devote their life to the art of warfare, taking on the title of **war mages**. They keep a keen mind for tactical and scholarly matters alike, and are often among the most respected advisors to leaders. Some such mages are even charismatic leaders in their own right. 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 <img src='https://www.gmbinder.com/images/lge9kHo.jpg' style='position:absolute; top:0px; right:100px; width:800px' />
