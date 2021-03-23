@@ -1041,10 +1041,9 @@ A **mage** is an arcanist has passed the trials of apprenticeship and begun the 
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src="https://www.gmbinder.com/images/5Kd1arQ.jpg" style="position:absolute; top:0px; right:-35px; width:450px;">
-<img src="https://www.gmbinder.com/images/qKrtKxo.png" style="position:absolute; top:0px; right:-50px; width:950px;">
-<img src="https://www.gmbinder.com/images/TYBvp5o.png" style="position:absolute; top:-50px; right:-100px; width:900px;">
-
+<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:650px; top:-200px; right:110px; transform:rotate(90deg);" />
+<img src="https://i.imgur.com/3NbU5os.png" style="position:absolute; top:-40px; right:-25px; width:680px;" />
+    
 \pagebreakNum
 
 
