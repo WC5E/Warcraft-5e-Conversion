@@ -1265,9 +1265,9 @@ and be wielding a shield.
 Whether they are grunts, sentinels, or **soldiers**, the back&shy;bone of any army is its standing ranks. In some cultures, the common folk may find themselves drafted out of sheer necessity, while in other cultures it can be considered a matter of pride to partake.
 
 
+<img src='https://i.imgur.com/moDxofj.png' style='position:absolute; bottom:-130px; right:0px; width:800px' />
+
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://www.gmbinder.com/images/3mjUMeK.jpg' style='position:absolute; top:700px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/MVDaLa2.png' style='position:absolute; top:-50px; right:0px; width:900px' />
 
 \pagebreakNum
 
@@ -1581,6 +1581,7 @@ These are the changes made to the class since the last update this material (3.x
 <br />**Page 11 Art:** "Draenei Frost Mage" by [Aaron Lovett](https://www.artstation.com/artwork/y2w6x)
 <br />**Page 12 Art:** "Kel'Thuzad" by [Alexey Kruglov](https://www.artstation.com/artwork/V5BWN)
 <br />**Page 13 Art:** "Night Elf Ranger" by [Grace Liu](https://www.deviantart.com/nightblue-art/art/Night-Elf-Ranger-374201887)
+<br />**Page 14 Art:** "Scout Kurgo" by [Dan Scott](https://wowpedia.fandom.com/wiki/Scout_Kurgo)
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreak
@@ -1591,8 +1592,7 @@ These are the changes made to the class since the last update this material (3.x
 
   /* Remove footer from back page, replace pX with last page number */
   .phb#p13:after { display:none; }
-
-  .phb .back-cover-content {
+ -cover-content {
     padding-left: 4px;
     padding-right: 16px;
   }
