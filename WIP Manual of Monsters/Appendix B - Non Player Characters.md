@@ -1190,13 +1190,14 @@ ___
 >
 > ***Longbow.*** *Ranged Weapon Attack:* +6 to hit, range l50/600 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage.
 
-Elven **rangers** are among the most respected figures one can find, and any non-elf seen learning their ways often earns even greater respect for their ability to follow the same path. They learn the lay of the land and guard its borders with utmost care.
+Among elves,  **rangers** are some of the most respected figures one can find, and any non-elf following the same path will often be treated to much of the same reverence. It is their charge to learn the lay of the land and guard it with utmost care.
 
+
+<img src="https://i.imgur.com/AYuE5Qf.png" class="inkblot" style="width:660px; bottom:-420px; right:-101px; transform: rotate(244deg);" />
+<img src='https://i.imgur.com/Vd3niEy.png' style='position:absolute; top:660px; left:200px; width:600px; transform:scaleX(-1)'>
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://www.gmbinder.com/images/Kgr2J29.jpg' style='position:absolute; top:660px; left:200px; width:600px; transform:scaleX(-1)'>
-<img src='https://www.gmbinder.com/images/7drSEMn.png' style='position:absolute; top:0px; left:-300px; width:900px;' />
-<img src='https://www.gmbinder.com/images/MVDaLa2.png' style='position:absolute; top:-150px; left:150px;; width:960px' />
+
 
 \pagebreakNum
 
@@ -1579,6 +1580,7 @@ These are the changes made to the class since the last update this material (3.x
 <br />**Page 10 Art:** "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
 <br />**Page 11 Art:** "Draenei Frost Mage" by [Aaron Lovett](https://www.artstation.com/artwork/y2w6x)
 <br />**Page 12 Art:** "Kel'Thuzad" by [Alexey Kruglov](https://www.artstation.com/artwork/V5BWN)
+<br />**Page 13 Art:** "Night Elf Ranger" by [Grace Liu](https://www.deviantart.com/nightblue-art/art/Night-Elf-Ranger-374201887)
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreak
