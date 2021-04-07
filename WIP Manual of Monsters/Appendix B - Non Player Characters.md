@@ -1337,9 +1337,9 @@ ___
 Anyone looking to get ahead in the criminal underworld knows to pay for some muscle, as a deterrent against any would-be attackers. These **thugs** will thirst for action and spend little time bothering with niceties.
 
 
+<img src='https://i.imgur.com/ZhrJawL.png' style='position:absolute; bottom:-15px; right:-5px; width:805px; transform:scaleX(-1);' />
+
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://www.gmbinder.com/images/kyVTwI1.png' style='position:absolute; top:580px; right:180px; width:700px' />
-<img src='https://www.gmbinder.com/images/luZTiQ3.png' style='position:absolute; top:-200px; right:-370px; width:1200px' />
 
 \pagebreakNum
 
@@ -1582,6 +1582,7 @@ These are the changes made to the class since the last update this material (3.x
 <br />**Page 12 Art:** "Kel'Thuzad" by [Alexey Kruglov](https://www.artstation.com/artwork/V5BWN)
 <br />**Page 13 Art:** "Night Elf Ranger" by [Grace Liu](https://www.deviantart.com/nightblue-art/art/Night-Elf-Ranger-374201887)
 <br />**Page 14 Art:** "Scout Kurgo" by [Dan Scott](https://wowpedia.fandom.com/wiki/Scout_Kurgo)
+<br />**Page 15 Art:** "Bubula del Kissel" by [Phroilan Gardner](https://wowpedia.fandom.com/wiki/Bubula_del_Kissel)
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreak
