@@ -1404,9 +1404,10 @@ ___
 Azeroth has seen countless wars, and a **veteran** of one is likely to be a veteran of many. Well-respected by their peers, it is not uncommon even for a long-retired veteran to still know their training by heart.
 
 
+<img src="https://i.imgur.com/zxp4HSp.png" class="inkblot" style="width:740px; bottom:-200px; right:-40px; transform: rotate(90deg);" />
+<img src="https://i.imgur.com/XuJmPk1.png" style="position:absolute; bottom:-24px; left:80px; width:500px; transform:scaleX(-1);">
+
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src="https://www.gmbinder.com/images/v0IoBvo.jpg" style="position:absolute; top:580px; right:-55px; width:550px;">
-<img src="https://www.gmbinder.com/images/qKrtKxo.png" style="position:absolute; top:-180px; right:-40px; width:1150px; transform:rotate(90deg);">
 
 \pagebreakNum
 
@@ -1583,6 +1584,7 @@ These are the changes made to the class since the last update this material (3.x
 <br />**Page 13 Art:** "Night Elf Ranger" by [Grace Liu](https://www.deviantart.com/nightblue-art/art/Night-Elf-Ranger-374201887)
 <br />**Page 14 Art:** "Scout Kurgo" by [Dan Scott](https://wowpedia.fandom.com/wiki/Scout_Kurgo)
 <br />**Page 15 Art:** "Bubula del Kissel" by [Phroilan Gardner](https://wowpedia.fandom.com/wiki/Bubula_del_Kissel)
+<br />**Page 16 Art:** "Troll Warrior" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Troll-warrior-832831281)
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreak
