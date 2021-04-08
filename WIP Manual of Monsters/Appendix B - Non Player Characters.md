@@ -1568,7 +1568,7 @@ These are the changes made to the class since the last update this material (3.x
 - [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
 - All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
 
-<br />**Page X Art:** 
+<br />**Page 1 Art:** [[Swap this one out?]]
 <br />**Page 2 Art:** "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889)
 <br />**Page 4 Art:** "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543)
 <br />**Page 5 Art:** Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet)
@@ -1593,7 +1593,7 @@ These are the changes made to the class since the last update this material (3.x
 /* BACK PAGE STYLES */
 
   /* Remove footer from back page, replace pX with last page number */
-  .phb#p13:after { display:none; }
+  .phb#p20:after { display:none; }
  -cover-content {
     padding-left: 4px;
     padding-right: 16px;
