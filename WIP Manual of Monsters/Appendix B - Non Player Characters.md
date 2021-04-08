@@ -1453,13 +1453,11 @@ Sharply intelligent, immensely powerful, and often sardonic in nature, a **warlo
 \columnbreak
 
 
-
-
-
+<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:700px; bottom:220px; right:-175px; transform: rotate(-20deg);" />
+<img src='https://i.imgur.com/a3SgitT.png' style='position:absolute; bottom:-66px; right:-85px; width:600px' />
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://www.gmbinder.com/images/FVLZreP.jpg' style='position:absolute; top:220px; right:-320px; width:800px' />
-<img src='https://www.gmbinder.com/images/l4AHa3B.png' style='position:absolute; top:-50px; right:-130px; width:1100px' />
+
 
 \pagebreakNum
 
@@ -1585,6 +1583,7 @@ These are the changes made to the class since the last update this material (3.x
 <br />**Page 14 Art:** "Scout Kurgo" by [Dan Scott](https://wowpedia.fandom.com/wiki/Scout_Kurgo)
 <br />**Page 15 Art:** "Bubula del Kissel" by [Phroilan Gardner](https://wowpedia.fandom.com/wiki/Bubula_del_Kissel)
 <br />**Page 16 Art:** "Troll Warrior" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Troll-warrior-832831281)
+<br />**Page 17 Art:** "Belf Warlock" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Belf-Warlock-772984259)
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreak
