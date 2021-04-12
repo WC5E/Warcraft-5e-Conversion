@@ -5454,7 +5454,7 @@ ___
 \pagebreakNum
 
 ___
-> ## Naga Sea Witch
+> ## Naga Siren
 >*Medium humanoid (naga), neutral evil*
 > ___
 > - **Armor Class** 13 (16 with *mage armor*)
