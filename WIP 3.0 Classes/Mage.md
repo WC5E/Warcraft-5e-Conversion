@@ -436,19 +436,18 @@ When you cast a spell that forces a creature to make a saving throw to resist it
 #### Quickened Spell
 When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
 
-#### Seeking Spell
-When you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the d20, though must use the new roll. You can use Seeking Spell even if you have already used a different Metamagic option during the casting of the spell. 
-
 #### Subtle Spell
 When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
-
-#### Transmuted Spell
-When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder. 
 
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, magic missile and scorching ray aren't eligible, but ray of frost and chromatic orb are.
+
+> #### Optional Class Features
+> See Tasha's Cauldron of Everything, Pg. 65 for additional Metamagic options. 
+>
+> You may also use the Sorcerous Versatility feature found on the same page or Cantrip Formulas from the Wizard class on Pg. 75.
 
 ### Ability Score Improvement
 *4th-level mage feature* 
