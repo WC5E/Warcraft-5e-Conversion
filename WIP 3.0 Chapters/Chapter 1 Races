@@ -1139,13 +1139,13 @@ Your draenei character has the following racial traits.
 ***Subrace.*** Three subraces of draenei exist: exodar draenei, lightforged draenei, and broken draenei. Choose one of these subraces.
 
 #### Exodar Draenei
-As an exodar draenei, you have a natural connection with the Naaru, strengthening your bond to the light. You have fled your home planet of Arugs from the Burning Legion's crusade, forced into exile for centuries before crash land&shy;ing on Azeroth's Azuremyst Isles.
+As an exodar draenei, you have a natural connection with the Naaru, strengthening your bond to the light. You have fled your home planet of Argus from the Burning Legion's crusade, forced into exile for centuries before crash land&shy;ing on Azeroth's Azuremyst Isles.
 
 ***Ability Score Increase.*** Your Strength score <br> increases by 1.
  
 ***Gemcutting.*** You are proficient with the jeweler's tools.
  
-***Gift of the Naaru.*** As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can’t use it again until you finish a long rest.
+***Gift of the Naaru.*** As an action, you can touch a creature and cause it to regain a number of hit points equal to your character level. Once you use this trait, you can’t use it again until you finish a long rest.
  
 ***Heroic Presence.*** You can cast *heroism* and *divine favor* with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can’t cast it again with this trait until you finish a long rest.
 
@@ -1483,7 +1483,7 @@ As a forsaken elf, you were once a high elf of Quel'thalas who died to the Scour
 
 ***Ability Score Increase.*** Your Intelligence score increases by 1.
 
-***Arcane Knowledge.*** You are proficient in the Arcana skill, and you can cast *detect magic* with this trait, using Intelligence as your spellcasting ability for it. Once you cast detect magic, you can't cast it again until you finish a short or long rest.
+***Arcane Knowledge.*** You are proficient in the Arcana skill. You also can cast *detect magic* with this trait, using Intelligence as your spellcasting ability for it. Once you cast the spell, you can't cast it again until you finish a short or long rest.
 
 ***Extra Language.*** You can speak, read, and write Thalassian.
 
@@ -1833,7 +1833,7 @@ Your blood elf character has the following racial traits.
 
 ***Darkvision.*** Due to your elven heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-***Arcane Knowledge.*** You are proficient in the Arcana skill, and you can cast *detect magic* with this trait, using Intelligence as your spellcasting ability for it. Once you cast detect magic, you can't cast it again until you finish a short or long rest.
+***Arcane Knowledge.*** You are proficient in the Arcana skill. You also can cast *detect magic* with this trait, using Intelligence as your spellcasting ability for it. Once you cast the spell, you can't cast it again until you finish a short or long rest.
 
 ***Keen Senses.*** You are proficient in the Perception skill.
 
@@ -1946,7 +1946,7 @@ Your goblin character has the following racial traits.
 
 ***Best Deals Anywhere.*** Whenever you make a Charisma (Persuasion) check related to haggling, you are considered proficient in the Persuasion skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
-***DODGE.*** You may give yourself advantage on a Dexterity saving throw against an effect that you can see, such as a trap or a spell. You can choose to do so before or after the roll, but before any effects of the roll are applied. You can't use this feature again until you finish a short or long rest.
+***DODGE.*** As a reaction, you can grant yourself advantage on a Dexterity saving throw or impose disadvantage on an attack roll against you. In order to use this ability, you must be able to detect the source of the effect or attack and must not be incapacitated. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ***Goblin Engineering.*** You have proficiency with the artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 25 gp worth of materials to construct a Tiny device (AC 5, 1 HP). The device ceases to function after 24 hours (unless you spend 1 hour maintaining it. This can be done as part of a short or long rest), or after it has been activated, at which point the device breaks; at that time, you can reclaim 5 gp worth of materials used to create it. You can only make one device between long rests and can never maintain more than one device at a time.
 
@@ -1958,7 +1958,7 @@ When you create this device, choose one of the following spells: *burning hands,
 
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/VaHU2Gc.jpg' style='position:absolute; top:490px; right:-150px; width:600px' />
-<img src='https://www.gmbinder.com/images/wvTUmvu.png' style='position:absolute; top:50px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/wvTUmvu.png' style='position:absolute; top:60px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/E8GrMME.png' style='position:absolute; top:0px; right:0px; width:900px' />
 
 \pagebreakNum
