@@ -579,10 +579,10 @@ With their penchant for migration and conquest, humans are more physically diver
 \columnbreak
 
 <br>
-<div style='margin-top:542px'></div>
+<div style='margin-top:448px'></div>
 
 ### Variety in All Things
-Humans are the most adaptable and ambitious people among Azeroth's races. They have widely varying tastes, morals, and customs in the many different kingdoms where they have settled. When they settle though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human's memory. They live fully in the present but also plan for the future, striving to leave a lasting legacy.
+Humans are the most adaptable and ambitious people among Azeroth's races. They have widely varying tastes, morals, and customs in the many different kingdoms where they have settled. When they settle though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. They live fully in the present but also plan for the future, striving to leave a lasting legacy.
 
 ### Proudly Standing
 Despite what atrocities have happened to them, humans remain hardy and brave, thoroughly committed to building strong societies, reinforcing their kingdoms, and reclaiming lost nations. Years of war have tempered their resolve, and they are more determined than ever before. Their value of virtue, honor and courage shine their ranks.
@@ -590,17 +590,17 @@ Despite what atrocities have happened to them, humans remain hardy and brave, th
 ### Faithful
 Among all human nations, the holy light is a central part of civilized society. By most it is considered the only religion and a staple of worship, respect, and honor. The religion is widely worshiped throughout Azeroth, yet humans were the first to utilize its powers in an offensive manner with the creation of paladins. Throughout their kingdoms, churches of the holy light can be found, an organization dedicated to creating a world of honor, and justice.
 
+### Affiliation
+Humans began the Alliance and it could not exist without them. Humans and orcs joined forces to face the Burning Legion years ago, but old habits returned once they dispatched the demon threat. Although the Alliance and Horde leaders bear a healthy respect for each another, old racial hatreds still stir within the hearts of their troops. 
+
+They respect the races of their alliance, and carries no ill wish against any of them. They know they are the center stone of the alliance, and that a good relationship is key.
+
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/Ke9OOwE.png' style='position:absolute; top:0px; right:-30px; width:1000px' />
 <img src='https://www.gmbinder.com/images/pbSeYXZ.png' style='position:absolute; top:50px; right:0px; width:800px; transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/x6YvTEU.png' style='position:absolute; top:20px; right:240px; width:650px;transform:scalex(-1)' />
 
 \pagebreakNum
-
-### Affiliation
-Humans began the Alliance and it could not exist without them. Humans and orcs joined forces to face the Burning Legion years ago, but old habits returned once they dispatched the demon threat. Although the Alliance and Horde leaders bear a healthy respect for each another, old racial hatreds still stir within the hearts of their troops. 
-
-They respect the races of their alliance, and carries no ill wish against any of them. They know they are the center stone of the alliance, and that a good relationship is key.
 
 ### Human Names and Ethnicities
 Having so much more variety than other cultures, humans as a whole have no typical names. Some human parents give their children names from other languages, such as Dwarven or Darnassian, but most parents give names that are linked to their region's culture or to the naming traditions of their ancestors.
@@ -628,14 +628,15 @@ Gilneans are tall, fair to amber-skinned folk with blue or steely gray eyes. Mos
 <br>**Gilnean Names:** (Male) Blake, Chris, Fenegan, Gerard, <br>&nbsp;&nbsp;&nbsp; James, Sean, Sebastian, Vincent; (female) Amelia, <br>&nbsp;&nbsp;&nbsp; Ashley, Celestine, Loren, Mary, Melinda, Mia, Tess; <br>&nbsp;&nbsp;&nbsp; (surnames) Broderick, Cleese, Crowly, Godfrey, Walden
 
 #### Kul Tiras
-Native to the Kul Tiran isles, tirasians are generally tall and muscular, with fair to amber skin similar to that of gilneans, brown to black hair, and light colored eyes.
+Native to the Kul Tiran isles, Kul Tirans are generally tall and muscular, with fair to amber skin similar to that of gilneans, brown to black hair, and light colored eyes.<div style='margin-top:-18px;'></div>
 
-\columnbreak
-
-**Tirasian Names:** (Male) Cyrus, Denzel, Elijah, Herold, <br>&nbsp;&nbsp;&nbsp; Patrick, Ron, Wesley, Will; (female) Fray, Helena, Jess, <br>&nbsp;&nbsp;&nbsp; Joan, Kate, Leila, Louisa, Taylor; (surnames) Clark, <br>&nbsp;&nbsp;&nbsp; Ledger, Mueller, Page, Wellard
+<br>**Kul Tiran Names:** (Male) Cyrus, Denzel, Elijah, Herold, <br>&nbsp;&nbsp;&nbsp; Patrick, Ron, Wesley, Will; (female) Fray, Helena, Jess, <br>&nbsp;&nbsp;&nbsp; Joan, Kate, Leila, Louisa, Taylor; (surnames) Clark, <br>&nbsp;&nbsp;&nbsp; Ledger, Mueller, Page, Wellard
 
 #### Lordaeron
 Widespread along the Eastern Kingdoms northern realm, Lordaeronians are of medium height and slender built, with pale skin. Their hair and eye color varies widely, but silver or light colored hair and blue eyes are common.
+
+\columnbreak
+
 <div style='margin-top:-18px;'></div>
 
 <br>**Lordaeronian Names:** (Male) Alexi, Aurius, Gannon, <br>&nbsp;&nbsp;&nbsp; Menard, Norwyn, Othmar, Urias, Wallace; (female) <br>&nbsp;&nbsp;&nbsp; Arenya, Diahann, Ellaine, Illucia, Jandice, Lydie, Malina, <br>&nbsp;&nbsp;&nbsp; Merla; (surnames) Barton, Camden, Godwin, Hayden
@@ -674,6 +675,8 @@ It's hard to make generalizations about humans, no matter where you were born yo
 &nbsp;&nbsp;&nbsp; ***Speed.*** Your base walking speed is 30 feet. 
 
 ***Determination.*** When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. You can't do so again until you finish a short or long rest.
+
+***Human Spirit.*** When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.
 
 ***Skill Versatility.*** You gain proficiency in two skills or tools of your choice.
 
