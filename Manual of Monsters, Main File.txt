@@ -5336,11 +5336,10 @@ The myrmidons, with their navy blue skin and fearsome tridents, are among the st
 
 They are often the most fanatical in their loyalty to the Queen. So much so that some would never take to their orders with anything other than utmost obedience.
 
-### Naga Sea Witch
-"Sea witch" is the informal term for a naga priestess. Many have witnessed the prodigious storm that mark their presence, but few have actually seen the witch herself and since lived to tell the tale.
+### Naga Siren
+Naga sirens are female naga who possess potent arcane spellcasting, capable of incapacitating their foes. While not as physical strong as their myrmidon, they are just as fearsome. 
 
-They are potent spellcasters, able to use terrifying frost and lightning spells against their foes, as well as their Highborne legacy of the arcane for personal protection.
-
+Many gather to sing and practice their arcane arts at the Shrines of Azshara, perfecting and improving their insidious craft. 
 <div class='letterheader'></div>
 <div class="mmletter mml-n"></div>
 <div class="pageLetter">N</div>
@@ -5405,10 +5404,10 @@ ___
 
 <div style='margin-top:20px;'></div>
 
-> ##### Variant: Naga Siren
-> Female naga are primarily spellcasters, and consider&shy;ably powerful ones at that for how they wield the turbulent powers of the sea. Naga sirens are novice spellcasters, as apprentices of a sea witch.
+> ##### Variant: Naga Sorceress 
+> Female naga are primarily spellcasters, and consider&shy;ably powerful ones at that for how they wield the turbulent powers of the sea. Naga sorceresses are novice spellcasters, as apprentices of a sea witches and sirens.
 >
-> A naga siren has the same statistics as a naga, save for Intelligence 14, Charisma 12, and the following additional trait:
+> A naga sorceress has the same statistics as a naga, save for Intelligence 14, Charisma 12, and the following additional trait:
 >
 > <br> ***Innate Spellcasting.*** The naga's innate spellcasting ability
 is Intelligence (spell save DC 12). It can innately cast the
@@ -5455,7 +5454,7 @@ ___
 \pagebreakNum
 
 ___
-> ## Naga Sea Witch
+> ## Naga Siren
 >*Medium humanoid (naga), neutral evil*
 > ___
 > - **Armor Class** 13 (16 with *mage armor*)
