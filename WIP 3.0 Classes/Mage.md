@@ -1083,10 +1083,9 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-You draw from the fluctuating arcane near you and burst with a wave of arcane power. Each other creature within range must make a Dexterity saving throw. A target takes 6d8 force damage and can't take reactions until the start of its next turn on a failed saving throw, or half as much damage on a successful one.
+You draw from the fluctuating arcane near you and burst with a wave of arcane power. Each other creature within range must make a Dexterity saving throw. On a failed save, a target takes 6d8 force damage and can't take reactions until the start of its next turn. On a successful save, a target takes half as much damage and can use its reactions as normal.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
-
 
 #### Alextrasza’s Fury
 *8th-level evocation*
@@ -1096,7 +1095,7 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-Your hands burst into flames as you push a roaring wave of fire outward from yourself. Each creature in a 60-foot cone must make a Constitution saving throw. A target takes 12d6 fire damage and is stunned until the end of their next turn on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried. A creature killed by this spell is reduced to ash.
+Your hands burst into flames as you push a roaring wave of fire outward from yourself. Each creature in a 60-foot cone must make a Constitution saving throw. On a failed save, a target takes 12d6 fire damage and is stunned until the end of their next turn. On a successful save, a target takes half as much damage and isn't stunned. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried. A creature killed by this spell is reduced to ash.
 
 #### Blizzard
 *3rd-level evocation*
@@ -1133,8 +1132,7 @@ ___
 - **Components:** V, S, M (a shard of glass or ice)
 - **Duration:** 1 minute
 ___
-Your fingers become cold to the touch as frost manifests on their surface. Make a melee spell attack against a creature within range. On a hit, the creature is incapacitated and restrained until the spell ends as ice encap&shy;sulates their body. A target who hits the creature with an attack breaks the ice and ends the spell.
-
+Your fingers become cold to the touch as frost manifests on their surface. Make a melee spell attack against a creature within range. On a hit, the creature is incapacitated and restrained until the spell ends as ice encap&shy;sulates their body. The spell ends for an affected creature if it takes any damage or if someone else uses an action to break the creature out of the ice.
 
 #### Frostfire Bolt
 *1st-level evocation*
@@ -1253,11 +1251,11 @@ To steal a spell effect of 2nd level or higher, make an ability check using your
 
 # Update 3.0-preview-2
 
-<br />
+<br/>
 
 These are the changes made to the class since the last update released for the class (3.0.0).
 
-## General
+### General
 - Initial page has been rewritten a bit, "Creating a Mage" has been moved up there.
 - Quick creation pointers have been fleshed out.
 - Added full functionality of Sorcery Points and Metamagic.
@@ -1265,7 +1263,7 @@ These are the changes made to the class since the last update released for the c
 - Additional ribbon feature for first level.
 - 18th and 20th level unchanged (Spell Mastery, Signature Spell)
 
-## Spells 
+### Spells 
 - The spell list was revisited and expanded. 
 - The WC5e spells got some updates!
 - Arcane Barrage had its mechanic changed to be more like a big magic missile.
@@ -1279,26 +1277,37 @@ These are the changes made to the class since the last update released for the c
 - Pyroblast had its damage increased.
 - Spellsteal got reworked ... again.
 
-## Arcane
+### Arcane
 - Completely reworked!
 - Arcane focuses more on combat and off combat utility with a combination of time manipulation, general mastery over spell usage.
 - Arcane Charges got reworked into a buff mechanic.
 - Rune of Power was replaced with Time Warp. Provides a action surge like reaction ... for a price.
 
-## Fire
+### Fire
 - Empowered Evocation has been replaced. 
 The intention is to capitalize more on crits instead of guaranteed damage and to provide some synergy with Hot Streak of the subclass.
 
-\columnbreak
-
-<br />
-
-## Frost
+### Frost
 - Reworked Brain Freeze feature. The movement speed reduction now happens automatically. The restrain is coupled to sorcery points and a single saving throw.
 This should make the feature more reliable and less time consuming.
+
+\columnbreak
+
+<br/>
+
 - Replaced Spell Sculptor with Ring of Frost. 
 A big AoE to slow down a big area and potentially freezing creatures within.
 
+### Errata 1
+- Some spelling issues that had to be fixed, small errata, and a change to how Time Warp was worded.
+
+### Errata 2
+- Replaced Tasha's Couldorn reprint with sidebar.
+
+### Errata 3
+- Changed *arcane explosion* wording to read like similar spells. 
+- Added "on successful save" wording to *alextrasza’s fury.*
+- Changed *icy touch* to break on any damage or when something spends its action to free the creature.
 
 ## Credits
 
