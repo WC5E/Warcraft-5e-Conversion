@@ -1583,52 +1583,6 @@ ___
 
 \pagebreakNum
 
-<div class='statblock-bottom-wide'>
-
-___
-___
-> ## Core Hound
->*Large elemental, chaotic evil*
-> ___
-> - **Armor Class** 16 (natural armor)
-> - **Hit Points** 126 (12d10 + 60)
-> - **Speed** 40 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|21 (+5)|9 (-1)|20 (+5)|8 (-1)|10 (+0)|6 (-2)|
->___
-> - **Skills** Athletics +8
-> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-> - **Damage Immunities** fire
-> - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** understands Kalimag but can't speak
-> - **Challenge** 7 (2,900 XP)
-> ___
-> ***Illumination.*** The core hound sheds bright light in a 15-foot radius and dim light in an additional 15 feet.
->
-> ***Molten Core.*** A creature that touches the core hound or hits it with a melee attack while within 5 feet of it takes 4 (1d8) fire damage. In addition, any non&shy;magical weapon that hits the core hound melts. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition that hits the core hound is destroyed after dealing damage.
->
-> ***Two Heads.*** The core hound has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
->
-> ***Wakeful.*** When one of the core hounds heads is asleep, its other head is awake.
->
-> ### Actions
-> ***Multiattack.*** The core hound makes two bite attacks.
->
-> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage plus 18 (4d8) fire damage.
->
-> ***Molten Breath (Recharge 4-6).*** The core hound exhales searing flames in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 11 (2d10) fire damage on a failed save, or half as much damage on a successful one. A creature failing the save who wears nonmagical armor or a shield take a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.<!-- https://wc5e-cr-calculator.frogvall.com/?1;16;126;8;16;56;4;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
-
-</div>
-
-<div class="pageLetter">C</div>
-<div class='footnote'>CORE HOUNDS </div>
-<img src='https://www.gmbinder.com/images/KbFQk4a.png' style='position:absolute; top:-100px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/TYBvp5o.png' style='position:absolute; top:150px; right:0px; width:900px' />
-
-\pagebreakNum
-
 <div style='margin-top:480px;'></div>
 
 ___
@@ -1688,6 +1642,54 @@ These hounds are often used as mounts by the dark iron dwarves that keep them, t
 
 \pagebreakNum
 
+<div class='statblock-bottom-wide'>
+
+___
+___
+> ## Core Hound
+>*Large elemental, chaotic evil*
+> ___
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 126 (12d10 + 60)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|21 (+5)|9 (-1)|20 (+5)|8 (-1)|10 (+0)|6 (-2)|
+>___
+> - **Skills** Athletics +8
+> - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** fire
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** understands Kalimag but can't speak
+> - **Challenge** 7 (2,900 XP)
+> ___
+> ***Illumination.*** The core hound sheds bright light in a 15-foot radius and dim light in an additional 15 feet.
+>
+> ***Molten Core.*** A creature that touches the core hound or hits it with a melee attack while within 5 feet of it takes 4 (1d8) fire damage. In addition, any non&shy;magical weapon that hits the core hound melts. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition that hits the core hound is destroyed after dealing damage.
+>
+> ***Two Heads.*** The core hound has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+>
+> ***Wakeful.*** When one of the core hounds heads is asleep, its other head is awake.
+>
+> ### Actions
+> ***Multiattack.*** The core hound makes two bite attacks.
+>
+> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage plus 18 (4d8) fire damage.
+>
+> ***Molten Breath (Recharge 4-6).*** The core hound exhales searing flames in a 15-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 11 (2d10) fire damage on a failed save, or half as much damage on a successful one. A creature failing the save who wears nonmagical armor or a shield take a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.<!-- https://wc5e-cr-calculator.frogvall.com/?1;16;126;8;16;56;4;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+
+</div>
+
+<div class="pageLetter">C</div>
+<div class='footnote'>CORE HOUNDS </div>
+<img src='https://www.gmbinder.com/images/KbFQk4a.png' style='position:absolute; top:-100px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/TYBvp5o.png' style='position:absolute; top:150px; right:0px; width:900px' />
+
+\pagebreakNum
+
+<div style='margin-top:130px;'></div>
+
 # Dinosaurs
 Dinosaurs are among the oldest reptiles in the world, ancient in every sense of the word. Their presence can inspire both awe and dread into any adventurer fortunate -- or unfortunate -- enough to cross their path. They roam far and wide across Azeroth; all the way from remote mountain valleys, to humid jungles, and to rugged barren plains. 
 
@@ -1708,6 +1710,8 @@ This giant lizard stands tall on its two powerful hind legs, with two stunted fo
 
 Female devilsaurs tend to be smaller and lighter, though they are even more aggressive than their male counterpart. During mating seasons, once the nest has been made and her eggs have been laid, she will leave it to the male who fathered the clutch to protect them until they hatch.
 
+<div class='letterheader'></div>
+<div class="mmletter mml-d"></div>
 <div class="pageLetter">D</div>
 <div class='footnote'>DINOSAURS </div>
 
@@ -3955,55 +3959,6 @@ ___
 
 \pagebreakNum
 
-<div class='statblock-bottom-wide'>
-
-___
-___
-> ## Arcane Golem
->*Large construct, unaligned*
-> ___
-> - **Armor Class** 12 (17 with *shield*)
-> - **Hit Points** 95 (10d10 + 40)
-> - **Speed** 30 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|19 (+4)|9 (-1)|18 (+4)|20 (+5)|11 (+0)|1 (-5)|
->___
-> - **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
-> - **Condition Immunities** charmed, exhaustion, frightened paralyzed, petrified, poisoned
-> - **Senses** darkvision 120 ft., passive Perception 10
-> - **Languages** understands the languages of its creator but can't speak
-> - **Challenge** 8 (3,900 XP)
-> ___
-> ***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
->
-> ***Innate Spellcasting.*** The golem's innate spellcasting ability is Intelligence (spell save DC 16). The golem can innately cast the following spells, requiring no material components.
->
-> At will: *detect magic, magic missile, shield*
-> <br> 3/day each: *counterspell, dispel magic*
-> <br> 1/day each: *✦ arcane explosion, wall of force*
->
-> ***Magic Resistance.*** The golem has advantage on saving throws against spells and other magical effects.
->
-> ***Magic Weapon.*** The golem's weapon attacks are magical.
->
-> ### Actions
-> ***Multiattack.*** The golem makes two slam attacks.
->
-> ***Arcane Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage plus 4 (1d8) force damage.
->
-> ***Slow (Recharge 5-6).*** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 16 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<!-- https://wc5e-cr-calculator.frogvall.com/?1;17;95;0;16;54;0;34;0;34;0;0;0;0;0;0;0;;1;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
-
-</div>
-
-<div class="pageLetter">G</div>
-<div class='footnote'>GOLEMS </div>
-<img src='https://www.gmbinder.com/images/2OoW8Ni.jpg' style='position:absolute; top:-125px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/iqsWrVi.png' style='position:absolute; top:100px; right:0px; width:900px' />
-
-\pagebreakNum
-
 <div style='margin-top:295px;'></div>
 
 ___
@@ -4066,6 +4021,55 @@ Anyone looking to cross Westfall would be wise to stay alert, look out for any o
 
 <img src='https://www.gmbinder.com/images/tiU4RnD.png' class='inkblot' style='top:-100px; right:150px; width:600px; transform:rotate(80deg)' />
 <img src='https://www.gmbinder.com/images/auDVjw8.png' style='position:absolute; top:-45px; right:170px; width:700px; transform:scalex(-1)' />
+
+\pagebreakNum
+
+<div class='statblock-bottom-wide'>
+
+___
+___
+> ## Arcane Golem
+>*Large construct, unaligned*
+> ___
+> - **Armor Class** 12 (17 with *shield*)
+> - **Hit Points** 95 (10d10 + 40)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|19 (+4)|9 (-1)|18 (+4)|20 (+5)|11 (+0)|1 (-5)|
+>___
+> - **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Condition Immunities** charmed, exhaustion, frightened paralyzed, petrified, poisoned
+> - **Senses** darkvision 120 ft., passive Perception 10
+> - **Languages** understands the languages of its creator but can't speak
+> - **Challenge** 8 (3,900 XP)
+> ___
+> ***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
+>
+> ***Innate Spellcasting.*** The golem's innate spellcasting ability is Intelligence (spell save DC 16). The golem can innately cast the following spells, requiring no material components.
+>
+> At will: *detect magic, magic missile, shield*
+> <br> 3/day each: *counterspell, dispel magic*
+> <br> 1/day each: *✦ arcane explosion, wall of force*
+>
+> ***Magic Resistance.*** The golem has advantage on saving throws against spells and other magical effects.
+>
+> ***Magic Weapon.*** The golem's weapon attacks are magical.
+>
+> ### Actions
+> ***Multiattack.*** The golem makes two slam attacks.
+>
+> ***Arcane Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage plus 4 (1d8) force damage.
+>
+> ***Slow (Recharge 5-6).*** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 16 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<!-- https://wc5e-cr-calculator.frogvall.com/?1;17;95;0;16;54;0;34;0;34;0;0;0;0;0;0;0;;1;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;; -->
+
+</div>
+
+<div class="pageLetter">G</div>
+<div class='footnote'>GOLEMS </div>
+<img src='https://www.gmbinder.com/images/2OoW8Ni.jpg' style='position:absolute; top:-125px; right:0px; width:800px' />
+<img src='https://www.gmbinder.com/images/iqsWrVi.png' style='position:absolute; top:100px; right:0px; width:900px' />
 
 \pagebreakNum
 
