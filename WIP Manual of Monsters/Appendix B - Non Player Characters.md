@@ -1131,7 +1131,7 @@ ___
 > ## Priest <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;60;5;13;21;0;21;0;17;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;3;3;2;5;Sacred%20Flame;Word%20of%20Radiance;Guiding%20Bolt -->
 >*Medium humanoid (any race), any alignment*
 > ___
-> - **Armor Class** 13 (chain shirt)
+> - **Armor Class** 13
 > - **Hit Points** 60 (11d8 + 11)
 > - **Speed** 30 ft.
 >___
@@ -1176,7 +1176,7 @@ ___
 > |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 > |11 (+0)|18 (+4)|16 (+3)|11 (+0)|13 (+1)|10 (+0)|
 >___
-> - **Skills** Acrobatics +6, Perception +5
+> - **Skills** Acrobatics +6, Animal Handling +4, Nature +3,  Survival +4, Perception +5
 > - **Senses** passive Perception 15
 > - **Languages** any one language (usually Common)
 > - **Challenge** 3 (700 XP)
