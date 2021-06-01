@@ -603,12 +603,6 @@ Be they orcish peons or human peasants, merchants at the stalls or old women hea
 
 <div style="margin-top:500px;"></div>
 
-> *"A **paladin** can be easily recognised by the bright glow of their hammer, their chivalric nature, and total inability to perform a task with subtlety."* 
->
-> - Archlich Kel'thuzad, addressing fresh acolytes. 
->
-> <-- To be made a paper note later -->
-
 \columnbreak 
 
 
@@ -653,7 +647,7 @@ ___
 >
 > ***Parry.*** The crusader adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 
-Blessed by the Light to bring forth justice, **crusaders** are the brave and bold; the valiant holy warriors who stand forefront in the battle against darkness. They are renowned for the zeal by which they keep to their cause, though this zeal has driven some to fanaticism, such as the case of the Scarlet Crusade. 
+Blessed by the Light to bring forth justice, **crusaders** are the brave and bold; the valiant holy warriors who stand forefront in the battle against darkness. They are often recognized by their brilliant librams, and for the zeal by which they keep to their cause. This zeal has driven some to fanaticism, such as the case of the Scarlet Crusade.
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
@@ -946,6 +940,13 @@ another creature that it can see. If the infiltrator hits the targeted creature 
 > ***Smoke Bomb (2/Day).*** The infiltrator can throw a bomb at a point up to 60 feet away. When the smoke bomb lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. It lasts for 1 minute or until a strong wind disperses it.
 
 Highly skilled **infiltrators** are sent into exceptional danger to gather the most vital of knowledge, often at the risk of death or torture. They have silver tongues and lightning reflexes, and will serve their commanders by all means and with every trick their sleeve.
+
+> "And remember, agent. Should you be discovered, SI:7 will disavow all knowledge of your existence."
+> 
+> - Master Mathias Shaw, briefing an SI:7 infiltrator
+>
+> // Convert into paper note
+
 
 <img src='https://i.imgur.com/BrDcy46.png' class='inkblot' style='left:-150px; bottom:-130px; width:670px; transform:rotate(215deg);' />
 <img src='https://i.imgur.com/uOQOURz.png' class='inkblot' style='left:-40px; bottom: -560px; width:700px; transform:rotate(-100deg);' />
