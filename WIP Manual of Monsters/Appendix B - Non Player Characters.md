@@ -1465,7 +1465,7 @@ Sharply intelligent, immensely powerful, and often sardonic in nature, a **warlo
 
 
 <img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:760px; top:0px; right:-230px; transform: rotate(-20deg);" />
-<img src='https://i.imgur.com/a3SgitT.png' style='position:absolute; bottom:24px; right:-82px; width:580px' />
+<img src='https://i.imgur.com/Wxj4KMG.png' style='position:absolute; bottom:-30px; right:-30px; width:880px' />
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
