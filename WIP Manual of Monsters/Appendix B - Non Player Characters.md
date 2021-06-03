@@ -1464,8 +1464,8 @@ Sharply intelligent, immensely powerful, and often sardonic in nature, a **warlo
 \columnbreak
 
 
-<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:700px; bottom:220px; right:-175px; transform: rotate(-20deg);" />
-<img src='https://i.imgur.com/a3SgitT.png' style='position:absolute; bottom:-66px; right:-85px; width:600px' />
+<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:760px; top:0px; right:-230px; transform: rotate(-20deg);" />
+<img src='https://i.imgur.com/a3SgitT.png' style='position:absolute; bottom:24px; right:-82px; width:580px' />
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1530,10 +1530,12 @@ ___
 
 Some arcanists devote their life to the art of warfare, taking on the title of **war mages**. They keep a keen mind for tactical and scholarly matters alike, and are often among the most respected advisors to leaders. Some such mages are even charismatic leaders in their own right. 
 
-<div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
+
 <img src='https://www.gmbinder.com/images/lge9kHo.jpg' style='position:absolute; top:0px; right:-20px; width:840px' />
 <img src='https://i.imgur.com/C2bOp8u.png' style='position:absolute; top:250px; right:-10px; width:820px;' />
+<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:700px; bottom:-498px; right:25px; transform:rotate(58deg);" />
  
+<div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
  
 \pagebreakNum
 
