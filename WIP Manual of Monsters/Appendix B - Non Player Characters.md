@@ -532,6 +532,10 @@ Always searching for a chance to use their freshly sharp&shy;ened blade, a **ban
 
 **Bersekers** are terrifying warriors who head no warning when they rush forth into battle, lost in the haze of violence so pure as to drown out any pain they might feel. Simply powering through until all around them lay dead. They are particularly common among trolls and dwarves, though not unique to them.
 
+> "I'm gonna enjoy guttin' you, lemme hear your bones crunch! GRaaAaAAH!!"
+>
+> - A berserker rousing before a fight
+
 
 \columnbreak
 
@@ -727,7 +731,7 @@ Those in the world who are weakest are often those most easily exploited, brough
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://i.imgur.com/y0m5pEu.png' style='position:absolute; bottom:0px; right:-5px; width:820px' />
+<img src='https://i.imgur.com/y0m5pEu.png' style='position:absolute; bottom:0px; left:-10px; width:860px;' />
 
 \pagebreakNum
 
@@ -1084,6 +1088,12 @@ ___
 
 
 **Necromancers** are powerful mages who delve into the shrouded mysteries of undeath, a practice that is consid&shy;ered taboo -- and typically outlawed. While some work to their own ends, most serve the Scourge, and they all show a sickening kind of brilliance.
+
+--
+--
+--
+
+// Insert some ghoul sketches here, wowpedia's article on Ghouls has some cool stuff
 
 
 \columnbreak
