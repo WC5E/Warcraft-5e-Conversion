@@ -1095,6 +1095,8 @@ ___
 
 // Insert some ghoul sketches here, wowpedia's article on Ghouls has some cool stuff
 
+// Otherwise, it's a good place to present a Necromancer quote, both could be good options.
+
 
 \columnbreak
 
@@ -1203,9 +1205,16 @@ ___
 
 Among elves,  **rangers** are some of the most respected figures one can find, and any non-elf following the same path will often be treated to much of the same reverence. It is their charge to learn the lay of the land and guard it with utmost care.
 
+> ##### Placeholder Note
+> Putting this here to have a placeholding reference point for adding an extra note block to this page.
+> 
+> Nullam velit ipsum, eleifend vitae blandit vitae, porta eu ex. Integer eu neque eu enim pretium elementum laoreet id orci. In hac habitasse platea dictumst. Nulla malesuada elementum consectetur. Nulla neque diam, scelerisque sit amet neque a, tristique imperdiet justo. In hac habitasse platea dictumst. 
+>
+> Nullam at pretium leo. Vivamus dapibus, augue a volutpat pharetra, tortor ipsum laoreet eros, id varius dui elit id ante. Sed tincidunt tincidunt metus ut commodo.
 
-<img src="https://i.imgur.com/AYuE5Qf.png" class="inkblot" style="width:660px; bottom:-420px; right:-101px; transform: rotate(244deg);" />
-<img src='https://i.imgur.com/Vd3niEy.png' style='position:absolute; top:660px; left:200px; width:600px; transform:scaleX(-1)'>
+
+<img src="https://www.gmbinder.com/images/AYuE5Qf.png" class="inkblot" style="width:660px; bottom:-466px; right:129px; transform: rotate(264deg) scaleY(-1);" />
+<img src='https://www.gmbinder.com/images/Vd3niEy.png' style='position:absolute; bottom:-4px; left:-66px; width:536px;'>
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1597,6 +1606,7 @@ These are the changes made to the class since the last update this material (3.x
 <br />**Page 15 Art:** "Bubula del Kissel" by [Phroilan Gardner](https://wowpedia.fandom.com/wiki/Bubula_del_Kissel)
 <br />**Page 16 Art:** "Troll Warrior" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Troll-warrior-832831281)
 <br />**Page 17 Art:** "Belf Warlock" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Belf-Warlock-772984259)
+<br /> // Uh oh, missing credits for the war mage art here
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreak
