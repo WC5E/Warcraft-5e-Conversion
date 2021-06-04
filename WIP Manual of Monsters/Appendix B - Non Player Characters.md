@@ -1089,14 +1089,6 @@ ___
 
 **Necromancers** are powerful mages who delve into the shrouded mysteries of undeath, a practice that is consid&shy;ered taboo -- and typically outlawed. While some work to their own ends, most serve the Scourge, and they all show a sickening kind of brilliance.
 
---
---
---
-
-// Insert some ghoul sketches here, wowpedia's article on Ghouls has some cool stuff
-
-// Otherwise, it's a good place to present a Necromancer quote, both could be good options.
-
 
 \columnbreak
 
@@ -1130,8 +1122,11 @@ ___
 The higher class of their culture, **nobles** have often been particularly susceptible to the corrupting forces of the world. Others in turn have chosen to use their influence to actively combat said corruption and evil. 
 
 
-<img src="https://i.imgur.com/0hVRLNf.png" class="inkblot" style="width:690px; bottom:-120px; right:-160px; transform: rotate(21deg) scaleY(-1);" />
-<img src="https://i.imgur.com/xU5GXXN.png" style="position:absolute; bottom:-45px; right:-80px; width:530px;">
+<img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px; bottom:-120px; right:-160px; transform: rotate(21deg) scaleY(-1);" />
+<img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px; bottom:-300px; right:190px; transform: rotate(81deg) scaleY(-1);" />
+<img src="https://www.gmbinder.com/images/xU5GXXN.png" style="position:absolute; bottom:-45px; right:-80px; width:530px;">
+<img src='https://i.imgur.com/4Zw3ovg.png' style='position:absolute; bottom:-0px; left:-30px; width:270px; transform:scaleX(-1); mix-blend-mode:multiply' />
+<img src="https://i.imgur.com/XsyrOpt.jpg" style="position:absolute; bottom:20px; left:220px; width:270px; mix-blend-mode:multiply " />
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
@@ -1205,13 +1200,19 @@ ___
 
 Among elves,  **rangers** are some of the most respected figures one can find, and any non-elf following the same path will often be treated to much of the same reverence. It is their charge to learn the lay of the land and guard it with utmost care.
 
-> ##### Placeholder Note
-> Putting this here to have a placeholding reference point for adding an extra note block to this page.
-> 
-> Nullam velit ipsum, eleifend vitae blandit vitae, porta eu ex. Integer eu neque eu enim pretium elementum laoreet id orci. In hac habitasse platea dictumst. Nulla malesuada elementum consectetur. Nulla neque diam, scelerisque sit amet neque a, tristique imperdiet justo. In hac habitasse platea dictumst. 
+> ##### Variant: Beast Companions
+> Rangers are often accompanied by beasts of the wild as partners in battle. This is usually a creature of <br/> CR 1 or below. Some common examples of tamed beasts are listed below.
 >
-> Nullam at pretium leo. Vivamus dapibus, augue a volutpat pharetra, tortor ipsum laoreet eros, id varius dui elit id ante. Sed tincidunt tincidunt metus ut commodo.
-
+> Creature		            | Preferred By  | Page  
+> --------------------------|---------------|----:
+> Brown Bear                | Dwarves       | ###
+> Dire Wolf                 | Humans, Orcs  | ###
+> Giant Moth                | Draenei       | ###
+> Raptor                    | Trolls        | ###
+> Sabercat                  | Night elves   | ###
+> Turtle                    | Pandaren      | ###
+> Wind Serpent              | Tauren        | ###
+> Young Dragonhawk          | Blood elves   | ###
 
 <img src="https://www.gmbinder.com/images/AYuE5Qf.png" class="inkblot" style="width:660px; bottom:-466px; right:129px; transform: rotate(264deg) scaleY(-1);" />
 <img src='https://www.gmbinder.com/images/Vd3niEy.png' style='position:absolute; bottom:-4px; left:-66px; width:536px;'>
@@ -1363,6 +1364,7 @@ Anyone looking to get ahead in the criminal underworld knows to pay for some mus
 
 \pagebreakNum
 
+<div style='margin-top:480px;'></div>
 
 ___ 
 > ## Tribal Warrior <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;11;4;12;5;0;5;0;5;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
@@ -1390,10 +1392,12 @@ ___
 > ***Handaxe.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
 
 
-Tribal societies can be found far and wide across Azeroth -- trolls, tauren, ogres, naga, the humans of Arathi before they became an empire, and many more still. A common denom&shy;inator among them are the brave and bold **tribal warriors** who patrol their borders. 
+Tribal societies can be found far and wide across Azeroth -- trolls, tauren, ogres, naga, the humans of Arathi before they became an empire, and many more still. A common denom­inator among them are the brave and bold **tribal warriors** who patrol their borders. 
 
 
 \columnbreak
+
+<div style='margin-top:480px;'></div>
 
 ___
 > ## Veteran <!-- https://wc5e-cr-calculator.frogvall.com/?0;17;78;5;12;20;0;20;0;20;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -1424,8 +1428,8 @@ ___
 Azeroth has seen countless wars, and a **veteran** of one is likely to be a veteran of many. Well-respected by their peers, it is not uncommon even for a long-retired veteran to still know their training by heart.
 
 
-<img src="https://i.imgur.com/zxp4HSp.png" class="inkblot" style="width:740px; bottom:-200px; right:-40px; transform: rotate(90deg);" />
-<img src="https://i.imgur.com/XuJmPk1.png" style="position:absolute; bottom:-24px; left:80px; width:500px; transform:scaleX(-1);">
+<img src="https://i.imgur.com/WRgZf6j.jpg" style="position:absolute; top:-0px; left:0px; width:800px; "/>
+<img src='https://i.imgur.com/iqsWrVi.png' style='position:absolute; top:-160px; left:0px; width:1000px' />
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
