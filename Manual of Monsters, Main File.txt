@@ -1618,7 +1618,7 @@ ___
 
 ___
 > ## Cloud Serpent Hatchling
-> *Tiny dragon, neutral*
+> *Tiny dragon, unaligned*
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 45 (10d4 + 20)
@@ -1661,7 +1661,7 @@ ___
 
 ___
 > ## Young Cloud Serpent
-> *Large dragon, neutral*
+> *Large dragon, unaligned*
 > ___
 > - **Armor Class** 14
 > - **Hit Points** 95 (10d10 + 40)
@@ -1707,7 +1707,7 @@ ___
 ___
 ___
 > ## Adult Cloud Serpent
-> *Huge dragon, neutral*
+> *Huge dragon, unaligned*
 > ___
 > - **Armor Class** 16
 > - **Hit Points** 162 (13d12 + 78)
@@ -1798,7 +1798,7 @@ If the cloud serpent dies, the effects fade over the course of 1d10 days.
 ___
 ___
 > ## Ancient Cloud Serpent
-> *Gargantuan dragon, neutral*
+> *Gargantuan dragon, unaligned*
 > ___
 > - **Armor Class** 18
 > - **Hit Points** 240 (13d20 + 104)
