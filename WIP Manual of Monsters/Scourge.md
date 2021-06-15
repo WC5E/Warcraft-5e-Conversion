@@ -45,7 +45,7 @@ ___
 > *Huge construct (undead), chaotic evil*
 > ___
 > - **Armor Class** 17 (natural armor)
-> - **Hit Points** 203 (14d12 + 112)
+> - **Hit Points** 188 (13d12 + 104)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -59,7 +59,7 @@ ___
 > - **Condition Immunities** charmed, exhaustion, frightened, poisoned
 > - **Senses** darkvision 90 ft., passive Perception 22
 > - **Languages** the languages of its creator
-> - **Challenge** 18 (20,000 XP) <!-- OCR: 23 DCR: 13 -->
+> - **Challenge** 18 (20,000 XP)
 > ___
 >	
 > ***Bone Storm.*** At the start of each of the bone wraith's turns, each creature within 10 feet of it takes 7 (2d6) slashing and 7 (2d6) necrotic damage.
@@ -90,8 +90,7 @@ ___
 >
 > ***Detect.*** The bone wraith makes a Wisdom (Perception) check.
 > 
-> ***Spine Attack (Costs 2 Actions).*** The bone wraith strikes its spinal wing towards a creature. Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: (3d10 + 7) piercing damage and the target must succeed on a DC 19 Strength check or be grappled (escape DC 19). Until this grapple ends, the target is restrained. The bone wraith can have maximum two creatures grappled this way.
-> 
+> ***Spine Attack (Costs 2 Actions).*** The bone wraith strikes its spinal wing towards a creature. Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 23 (3d10 + 7) piercing damage and the target must succeed on a DC 19 Strength check or be grappled (escape DC 19). Until this grapple ends, the target is restrained. The bone wraith can have maximum two creatures grappled this way.<!-- https://wc5e-cr-calculator.frogvall.com/?3;17;188;13;12;112;56;63;56;72;56;0;0;0;0;0;0;1;;;1;4;;;;;;;;;1;3;1;;;;;;;10;;;;;;;2;2;1;3; -->
 
 https://wow.gamepedia.com/Bone_wraith#/media/File:Bone_Guard_Boss_Concept.jpg
 
