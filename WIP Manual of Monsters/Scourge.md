@@ -8,8 +8,8 @@ ___
 > ## Bone Golem
 > *Medium construct (undead), neutral evil*
 > ___
-> - **Armor Class** 14 (natural armor)
-> - **Hit Points** 52 (7d8 + 21) <!-- effectively 104 -->
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 75 (10d8 + 30)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -29,9 +29,9 @@ ___
 > ### Actions
 > ***Multiattack.*** The bone golem makes two melee attacks, or three melee attacks if it has half of its hit points or fewer.
 >
-> ***Bone Scythe.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
+> ***Bone Scythe.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit:* 14 (2d8 + 5) slashing damage.
 >
-> ***Bone Spike.*** *Ranged Weapon Attack:* +8 to hit, range 20/60 ft, one target. *Hit:* 19 (4d6 + 5) piercing damage.
+> ***Bone Spike.*** *Ranged Weapon Attack:* +8 to hit, range 20/60 ft, one target. *Hit:* 22 (5d6 + 5) piercing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?1;16;75;8;12;28;7;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
 
 https://wow.gamepedia.com/Bone_golem#/media/File:Skeletal_Flayer.jpg
 
