@@ -140,7 +140,7 @@ ___
 > ***Raise Dead (recharge 5-6).*** The death knight animates a non-undead, non-construct corpse within 60 ft. A bone golem appears in the space of the corpse and the corpse is destroyed. The bone golem then rolls for initiative acting on its turn as normal.
 >
 > ### Reactions
-> ***Hysteria.*** When an undead creature makes an attack roll, the death knight can utter maddening words that deal 7 (2d6) psychic damage to the creature and give it advantage on all attack rolls made until the end of its turn.<!-- https://wc5e-cr-calculator.frogvall.com/?2;20;256;13;12;54;35;0;0;0;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;;3;1;;;;;;;10;;;;;;;2;2;1;3; -->
+> ***Hysteria.*** When an undead creature makes an attack roll, the death knight can utter maddening words that deal 7 (2d6) psychic damage to the creature and give it advantage on all attack rolls made until the end of its turn.<!-- https://wc5e-cr-calculator.frogvall.com/?2;20;256;10;12;54;35;0;0;0;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;;3;1;;;;;;;10;;;;;;;2;2;1;3; -->
 
 </div>
 
