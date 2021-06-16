@@ -151,7 +151,7 @@ ___
 > *Large elemental (undead), chaotic evil*
 > ___
 > - **Armor Class** 16 (Scale mail)
-> - **Hit Points** 102 (12d10 + 36) <!-- effectively 153 -->
+> - **Hit Points** 119 (14d10 + 42)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -163,24 +163,24 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** undestands common but cannot speak
+> - **Languages** understands common, but cannot speak
 > - **Challenge** 8 (3,900 XP)
 > ___
 >	
-> ***Darkness.*** Magical darkness spreads from the death revenant in a 15-foot-radius sphere. The darkness spreads around corners. Nonmagical light can't illuminate it, but a creature with darkvision can see through it.
+> ***Darkness.*** Magical darkness spreads from the unforgiven in a 15-foot-radius sphere. The darkness spreads around corners. Nonmagical light can't illuminate it, but a creature with darkvision can see through it.
 >
-> ***Magic Weapons.*** The death revenant's weapon attacks are magical.
+> ***Magic Weapons.*** The unforgiven's weapon attacks are magical.
 >
-> ***Telepathy.*** The revenant can magically transmit messages and images to any creature within 120 feet of it that can understand a language.
+> ***Telepathy.*** The unforgiven can magically transmit messages and images to any creature within 120 feet of it that can understand a language.
 >
 > ### Actions 
-> ***Multiattack.*** The death revenant makes a scythe attack and then uses *Death Coil*.
+> ***Multiattack.*** The unforgiven makes a scythe attack and then uses *Death Coil*.
 >
 > ***Scythe.*** *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage, plus 10 (3d6) necrotic damage.
 >
-> ***Death Coil.*** The death revenant fires a blast of unholy energy at a living or undead creature. A living creature has to make a DC 15 Constitution saving throw or take 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one. An undead creature restores 21 (6d6) hit points instead.
+> ***Death Coil.*** The unforgiven fires a blast of unholy energy at a living or undead creature. A living creature has to make a DC 15 Constitution saving throw or take 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one. An undead creature restores 21 (6d6) hit points instead.
 >
-> ***Raise Dead (recharge 5-6).*** The death revenant animates a non-undead, non-construct corpse within 60 ft. A ghoul appears in the space of the corpse and the corpse is destroyed. The ghoul then rolls for initiative acting on its turn as normal.
+> ***Raise Dead (recharge 5-6).*** The unforgiven animates a non-undead, non-construct corpse within 60 ft. A ghoul appears in the space of the corpse and the corpse is destroyed. The ghoul then rolls for initiative acting on its turn as normal.
 
 https://wow.gamepedia.com/Deathlord_(Warcraft_III)
 
