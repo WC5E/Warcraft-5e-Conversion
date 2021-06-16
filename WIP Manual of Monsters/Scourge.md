@@ -148,7 +148,7 @@ ___
 
 ___
 > ## Unforgiven
-> *Large elemental (undead), chaotic evil*
+> *Large undead, chaotic evil*
 > ___
 > - **Armor Class** 16 (Scale mail)
 > - **Hit Points** 119 (14d10 + 42)
