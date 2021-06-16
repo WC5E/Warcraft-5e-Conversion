@@ -106,7 +106,7 @@ ___
 > *Medium undead, chaotic evil*
 > ___
 > - **Armor Class** 20 (Plate, Shield)
-> - **Hit Points** 171 (18d8 + 90) <!-- effectively 256 -->
+> - **Hit Points** 256 (27d8 + 135)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -122,7 +122,7 @@ ___
 > - **Challenge** 16 (15,000 XP)
 > ___
 >	
-> ***Cursed air.*** Living creatures within 10 feet of the death knight is unable to restore hit points.
+> ***Cursed air.*** Living creatures within 10 feet of the death knight is unable to regain hit points.
 >
 > ***Magic Resistance.*** The death knight has advantage on saving throws against spells and other magical effects.
 >
@@ -133,14 +133,14 @@ ___
 >
 > ***Longsword.*** *Melee Weapon Attack*: +10 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 18 (4d8) necrotic damage.
 >
-> ***Death Coil.*** The death knight fires a blast of unholy energy at a living or undead creature. A living creature has to make a DC 17 Constitution saving throw or take 28 (8d6) necrotic damage on a failed save, or half as much damage on a successful one. An undead creature don't get to save, but instead of taking damage it restores 28 (8d6) hit points.
+> ***Death Coil.*** The death knight fires a blast of unholy energy at a living or undead creature. A living creature has to make a DC 17 Constitution saving throw or take 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one. An undead creature don't get to save, but instead of taking damage it restores 35 (10d6) hit points.
 >
 > ***Intimidating Shout. (1/day)*** The death knight lets out a horrifying cry and all creatures withing 30 ft. have to make a DC 17 wisdom saving throw or be paralyzed as it can do nothing else but cowering in fear. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 > ***Raise Dead (recharge 5-6).*** The death knight animates a non-undead, non-construct corpse within 60 ft. A bone golem appears in the space of the corpse and the corpse is destroyed. The bone golem then rolls for initiative acting on its turn as normal.
 >
 > ### Reactions
-> ***Hysteria.*** When a friendly undead makes an attack roll, the death knight can utter maddening words that deal 7 (2d6) psychic damage to the undead and give it advantage on all attack rolls made until the end of its turn.
+> ***Hysteria.*** When an undead creature makes an attack roll, the death knight can utter maddening words that deal 7 (2d6) psychic damage to the creature and give it advantage on all attack rolls made until the end of its turn.<!-- https://wc5e-cr-calculator.frogvall.com/?2;20;256;13;12;54;35;0;0;0;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;;3;1;;;;;;;10;;;;;;;2;2;1;3; -->
 
 </div>
 
