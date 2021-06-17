@@ -151,7 +151,7 @@ ___
 > *Large undead, chaotic evil*
 > ___
 > - **Armor Class** 16 (Scale mail)
-> - **Hit Points** 119 (14d10 + 42)
+> - **Hit Points** 110 (13d10 + 39)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -180,7 +180,7 @@ ___
 >
 > ***Death Coil.*** The unforgiven fires a blast of unholy energy at a living or undead creature. A living creature has to make a DC 15 Constitution saving throw or take 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one. An undead creature restores 21 (6d6) hit points instead.
 >
-> ***Raise Dead (recharge 5-6).*** The unforgiven animates a non-undead, non-construct corpse within 60 ft. A ghoul appears in the space of the corpse and the corpse is destroyed. The ghoul then rolls for initiative acting on its turn as normal.
+> ***Raise Dead (recharge 5-6).*** The unforgiven animates a non-undead, non-construct corpse within 60 ft. A ghoul appears in the space of the corpse and the corpse is destroyed. The ghoul then rolls for initiative acting on its turn as normal.<!-- https://wc5e-cr-calculator.frogvall.com/?1;16;110;8;12;22;21;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;1;;;;;2;2;1;3; -->
 
 https://wow.gamepedia.com/Deathlord_(Warcraft_III)
 
