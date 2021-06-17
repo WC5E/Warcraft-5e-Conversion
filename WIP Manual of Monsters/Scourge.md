@@ -260,7 +260,7 @@ ___
 > *Tiny undead, chaotic evil*
 > ___
 > - **Armor Class** 15
-> - **Hit Points** 54 (12d4 + 24)
+> - **Hit Points** 49 (11d4 + 22)
 > - **Speed** 0 ft., fly 40 ft. (hover)
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -278,14 +278,14 @@ ___
 >
 > ***Magic Resistance.*** The doomskull has advantage on saving throws against spells and other magical effects.
 >
-> ***Spellcasting.*** The doomskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The doomskull has the following warlock spells prepared:
+> ***Spellcasting.*** The doomskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The doomskull has the following mage and warlock spells prepared:
 >
 > Cantrips (at will): *mage hand, ✦ shadow bolt*
 > <br> 1st level (3 slots): *hex, magic missile, shield*
 > <br> 2nd level (2 slots): *blur, phantasmal force, ray of enfeeblement*
 > <br> 3rd level (1 slot): *bestow curse, enemies abound*
 >
-> ***Swift caster.*** The doomskull can use a bonus action to cast a cantrip.
+> ***Swift caster.*** The doomskull can use a bonus action to cast a cantrip, even if it casts a spell using its action.
 >
 > ***Vacant Size.*** The doomskull can occupy another creature's space and vice versa.
 >
@@ -293,7 +293,7 @@ ___
 > ***Bite.*** *Melee Weapon Attack*: +5 to hit, reach 0 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage.
 >
 > ### Reactions
-> ***Curse of Doom.*** When the doomskull is reduced to 0 hit points from taking damage caused by another creature, it utters some incomprehensible words to curse the creature with doom. The creature has to make a DC 13 Wisdom saving throw or gain one level of exhaustion and become cursed. While cursed the creature cannot reduce its exhaustion level. Undead and constructs are immune to the curse. <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;54;5;13;35;0;28;9;28;9;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;3;2;2;5;Shadow%20Bolt;Magic%20Missile;Phantasmal%20Force -->
+> ***Curse of Doom.*** When the doomskull is reduced to 0 hit points from taking damage caused by another creature, it utters some incomprehensible words to curse the creature with doom. The creature has to make a DC 13 Wisdom saving throw or gain one level of exhaustion and become cursed. While cursed the creature cannot reduce its exhaustion level. Undead and constructs are immune to the curse. <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;49;5;13;35;0;28;13;28;13;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;;;3;2;2;5;Shadow%20Bolt;Magic%20Missile;Phantasmal%20Force -->
 
 \pagebreak
 
