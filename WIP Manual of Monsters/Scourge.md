@@ -302,7 +302,7 @@ ___
 > *Medium undead, chaotic evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 27 (6d8 + 0)
+> - **Hit Points** 31 (7d8 + 0)
 > - **Speed** 35 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -324,9 +324,9 @@ ___
 > ***Standing Leap.*** The geist's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start. If the geist jumps atleast 15 feet towards a creature, it has advantage on its next attack against the creature until the end of its turn.
 >
 > ### Actions 
-> ***Multiattack.*** The geist makes two claw attacks.
+> ***Multiattack.*** The geist makes three claw attacks.
 >
-> ***Claw.*** *Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
+> ***Claw.*** *Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;15;49;5;13;35;0;28;13;28;13;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;;;3;2;2;5;Shadow%20Bolt;Magic%20Missile;Phantasmal%20Force -->
 
 https://gamepedia.cursecdn.com/wowpedia/9/9f/Runeforge_Haunter.jpg
 
