@@ -217,7 +217,7 @@ ___
 > *Huge construct (undead), chaotic evil*
 > ___
 > - **Armor Class** 14 (natural armor)
-> - **Hit Points** 230 (20d12 + 100) <!-- effectively 287 -->
+> - **Hit Points** 218 (19d12 + 95)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -245,13 +245,11 @@ ___
 >
 > ***Frightful Presence.*** Each creature of the flesh giant's choice that is within 120 feet of the flesh giant and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the flesh giant's Frightful Presence for the next 24 hours.
 >
-> ***Stomp (Recharge 5-6)***  The flesh giant stomps the ground knocking any creature and unsecured object into the air. Each creature within 50 yards of the stone giant must make a DC 17 Strength saving throw or take 10d8 bludgeoning damage and be hurled 20 feet into the air, immediately falling if it cannot hover. On a successful save, the target takes half damage and is not hurled into the air. Unsecure objects are automatically hurled into the air.
+> ***Stomp (Recharge 5-6)***  The flesh giant stomps the ground knocking any creature and unsecured object into the air. Each creature within 50 yards of the stone giant must make a DC 17 Strength saving throw or take 45 (10d8) bludgeoning damage and be hurled 20 feet into the air, immediately falling if it cannot hover. On a successful save, the target takes half damage and is not hurled into the air. Unsecure objects are automatically hurled into the air.
 >
 > ### Reactions
 >
-> ***Acid Spinal Fluid*** When hit by a melee attack that deals slashing or piercing damage to the flesh giant, it spews corrosive acid over its attacker. The attacker have to make a DC 17 dexterity saving throw or take 13 (3d8) acid damage.
-
-**Should go into its description:** "A little-known quality of the flesh giants is that their spinal fluid interacts with the plague in a very interesting way, turning it into a corrosive acid."
+> ***Acid Spinal Fluid*** When hit by a melee attack that deals slashing or piercing damage to the flesh giant, it spews corrosive acid over its attacker. The attacker have to make a DC 17 dexterity saving throw or take 13 (3d8) acid damage.<!-- https://wc5e-cr-calculator.frogvall.com/?2;14;218;14;17;90;13;44;13;44;13;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
 
 https://gamepedia.cursecdn.com/wowpedia/f/f5/Provoke.jpg
 
