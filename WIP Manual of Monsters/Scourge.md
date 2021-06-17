@@ -208,7 +208,7 @@ ___
 > ***Trampling Charge.*** If the deathcharger moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the deathcharger can make another attack with its hooves against it as a bonus action.
 >
 > ### Actions 
-> ***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) necrotic damage.
+> ***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) necrotic damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;13;68;6;12;18;18;18;0;18;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
 
 \pagebreak
 
