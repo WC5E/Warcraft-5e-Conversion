@@ -43,6 +43,16 @@
     padding-top: 6px;
     padding-bottom: 6px;
   }
+  
+  /* For double-wide creature statblocks that we want to have anchored to the
+  bottom of the page regardless of content flow. */
+  .statblock-bottom-wide {
+    position:absolute;
+    bottom:63px;
+    right:1.7cm;
+    left:1.7cm;
+    margin-top:1200px;
+  }
 
 
 /* INK BLOT STYLES */
@@ -338,6 +348,14 @@ The talented few that put the work into magical mastery may be recognized as an 
 
 \pagebreakNum
 
+<div style="margin-top:126px"></div>
+
+Among druidic communities, there is nobody more respected and heeded than the wise **archdruid**. Few have ever existed, and those that do live long lives devoted to nature, and many of those few spend their time bound to the Emerald Dream.
+
+\columnbreak
+
+<div class="statblock-bottom-wide">
+
 ___
 ___
 > ## Archdruid <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;231;10;18;98;25;84;25;76;18;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;9;8;7;17;Solar%20Wrath;Starfall;Starfire;Starsurge;Sunbeam;Wall%20of%20Thorns;Whirlwind;Wrath%20of%20Nature  Extra damage from Wrath of the Moon (+7 per spell w/ at least 5d6 damage) and Fury of Elune worked in.  -->
@@ -370,7 +388,6 @@ ___
 >
 > ***Moon's Shadow (Moonkin Form Only).*** When a creature succeeds on a saving throw against a cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effects.
 >
-> \columnbreak
 >
 > ***Spellcasting (Humanoid or Moonkin Form Only).*** The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). The archdruid has the following druid spells prepared:
 >
@@ -403,12 +420,15 @@ ___
 >
 > ***Fury of Elune.*** When the archdruid is hit by a melee attack, it can use its reaction to deal 18 radiant damage to the attacker. The attacker must also make a DC 18 Strength saving throw. On a failed save, the attacker is pushed in a straight line up to 20 feet away from the archdruid.
 
-Among druidic communities, there is nobody more respected and heeded than the wise **archdruid**. Few have existed, and those that do live long lives devoted to nature, and many of those few spend their time bound to the Emerald Dream. 
+</div>
 
 \columnbreak
 
-
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
+<img src='https://i.imgur.com/6u511ES.jpg' style='position:absolute; top:-100px; left:-38px; width:920px;' />
+<img src='https://i.imgur.com/NO1EQoX.png' style='position:absolute; top:-230px; left:0; width:800px;' />
+<img src='https://i.imgur.com/NO1EQoX.png' style='position:absolute; bottom:0; left:0; width:800px;' />
+
 
 \pagebreakNum
 
@@ -1596,6 +1616,7 @@ These are the changes made to the class since the last update this material (3.x
 
 <br />**Page 1 Art:** [[Swap this one out?]]
 <br />**Page 2 Art:** "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889)
+<br />**Page 3 Art:** "Val'Sharah Concept" by [Phillip Zhang](https://www.artstation.com/artwork/RYen2r)
 <br />**Page 4 Art:** "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543)
 <br />**Page 5 Art:** Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet)
 <br />**Page 6 Art:** "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
