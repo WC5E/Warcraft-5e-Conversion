@@ -1144,9 +1144,10 @@ The higher class of their culture, **nobles** have often been particularly susce
 
 <img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px; bottom:-120px; right:-160px; transform: rotate(21deg) scaleY(-1);" />
 <img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px; bottom:-300px; right:190px; transform: rotate(81deg) scaleY(-1);" />
+
 <img src="https://www.gmbinder.com/images/xU5GXXN.png" style="position:absolute; bottom:-45px; right:-80px; width:530px;">
-<img src='https://i.imgur.com/4Zw3ovg.png' style='position:absolute; bottom:-0px; left:-30px; width:270px; transform:scaleX(-1); mix-blend-mode:multiply' />
-<img src="https://i.imgur.com/XsyrOpt.jpg" style="position:absolute; bottom:20px; left:220px; width:270px; mix-blend-mode:multiply " />
+<img src="https://i.imgur.com/XsyrOpt.jpg" style="position:absolute;bottom: 44px;left: 22px;width: 240px;mix-blend-mode:multiply;">
+<img src="https://i.imgur.com/4Zw3ovg.png" style="position:absolute;bottom: 13px;left: 246px;width: 260px;transform:scaleX(-1);mix-blend-mode:multiply;">
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
