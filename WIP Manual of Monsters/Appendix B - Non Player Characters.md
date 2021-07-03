@@ -1566,8 +1566,8 @@ Some arcanists devote their life to the art of warfare, taking on the title of *
 
 \columnbreak
 
-> "I will take extra pleasure in separating the life energy from your body, and decorate my chambers with your skull." 
-> - Grand Magus Telestra, addressing her foes
+> "You, too, shall be charred to ash!"
+> - Koelger of the Scarlet Crusade
 
 
 
@@ -1638,7 +1638,7 @@ These are the changes made to the class since the last update this material (3.x
 <br />**Page 15 Art:** "Bubula del Kissel" by [Phroilan Gardner](https://wowpedia.fandom.com/wiki/Bubula_del_Kissel)
 <br />**Page 16 Art:** "Troll Warrior" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Troll-warrior-832831281)
 <br />**Page 17 Art:** "Belf Warlock" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Belf-Warlock-772984259)
-<br /> // Uh oh, missing credits for the war mage art here
+<br />**Page 18 Art:** "Sarkhan Vol" from [Magic the Gathering](https://magic.wizards.com/en/story/planeswalkers/sarkhan-vol)
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreak
