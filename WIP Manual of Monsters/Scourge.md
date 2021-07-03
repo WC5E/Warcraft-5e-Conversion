@@ -369,33 +369,8 @@ ADD SIDEBAR ABOUT NON-ORC NECROLYTES REPLACING RELENTLESS ENDURANCE WITH ANOTHER
 ___
 > ## Grand Necrolyte <!-- aka necrolord -->
 > *Medium undead, neutral evil*
-> ___
-> - **Armor Class** 15 (leather armor)
-> - **Hit Points** xx (xdx + x)
-> - **Speed** 30 ft.
-> ___
-> STR | DEX | CON | INT | WIS | CHA
->|:---:|:---:|:---:|:---:|:---:|:---:|
-> 8 (-1)|16 (+3)|12 (+1)|18 (+4)|13 (+1)|13 (+1)|
-> ___
-> - **Skills** Arcana +7
-> - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** common
-> - **Challenge** 8 (700 XP)
-> ___
->
-> ***Spellcasting.*** The necrolyte is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The necrolyte has the following spells prepared:
->
-> Cantrips (at will): *chill touch, spare the dying, toll the dead*
-> <br> 1st level (3 slots): *cause fear, ✦ corpse explosion, false life, inflict wounds*
-> <br> 2nd level (2 slots): *blindness/deathness, crown of madness, ray of enfeeblement*
-> <br> 3rd level (1 slot): *animate dead, ✦ asphyxiate, speak with dead*
-> <br> *Add Drain Life if it ends up being a warlock spell.*
->
-> ### Actions 
-> ***Dagger.*** *Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. *Hit:*, 4 (1d4 + 2) slashing damage.
-
-https://gamepedia.cursecdn.com/wowpedia/e/ed/Drom%27kor.jpg
+> __
+> - Not yet started on this stat block, but added this placeholder for the sake of Nemzal
 
 ___
 > ## Plague Eruptor
