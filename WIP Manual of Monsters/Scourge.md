@@ -335,7 +335,7 @@ ___
 > *Medium humanoid (orc), neutral evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 49 (9d8 + 9)
+> - **Hit Points** 82 (15d8 + 15)
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -348,20 +348,21 @@ ___
 > - **Challenge** 3 (700 XP)
 > ___
 >
-> ***Relentless Endurance*** When the necrolyte is reduced to 0 hit points but not killed, it can drop to 1 hit point instead. You must then finish a long rest to use this feature again.
+> ***Relentless Endurance (1/day)*** When the necrolyte is reduced to 0 hit points but not killed, it can drop to 1 hit point instead.
 >
-> ***Spellcasting.*** The necrolyte is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The necrolyte has the following spells prepared:
+> ***Spellcasting.*** The necrolyte is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The necrolyte has the following death knight and warlock spells prepared:
 >
-> Cantrips (at will): *chill touch, spare the dying, toll the dead*
-> <br> 1st level (3 slots): *cause fear, ✦ corpse explosion, false life, inflict wounds*
+> Cantrips (at will): *chill touch, sapping sting, toll the dead*
+> <br> 1st level (3 slots): *cause fear, ✦ corpse explosion, ✦ drain life, false life*
 > <br> 2nd level (2 slots): *blindness/deathness, crown of madness, ray of enfeeblement*
 > <br> 3rd level (1 slot): *animate dead, ✦ asphyxiate, speak with dead*
-> <br> *Add Drain Life if it ends up being a warlock spell.*
 >
 > ### Actions 
-> ***Dagger.*** *Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. *Hit:*, 4 (1d4 + 2) slashing damage.
+> ***Dagger.*** *Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. *Hit:*, 4 (1d4 + 2) slashing damage.<!-- https://wc5e-cr-calculator.frogvall.com/?0;12;82;5;13;28;0;28;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;2;2;1;3;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Corpse%20Explosion;Drain%20Life -->
 
 https://gamepedia.cursecdn.com/wowpedia/e/ed/Drom%27kor.jpg
+
+ADD SIDEBAR ABOUT NON-ORC NECROLYTES REPLACING RELENTLESS ENDURANCE WITH ANOTHER RACIAL
 
 \pagebreak
 
