@@ -1385,7 +1385,7 @@ Anyone looking to get ahead in the criminal underworld knows to pay for some mus
 
 \pagebreakNum
 
-<div style='margin-top:480px;'></div>
+<div style='margin-top:470px;'></div>
 
 ___ 
 > ## Tribal Warrior <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;11;4;12;5;0;5;0;5;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
@@ -1418,7 +1418,7 @@ Tribal societies can be found far and wide across Azeroth -- trolls, tauren, ogr
 
 \columnbreak
 
-<div style='margin-top:480px;'></div>
+<div style='margin-top:470px;'></div>
 
 ___
 > ## Veteran <!-- https://wc5e-cr-calculator.frogvall.com/?0;17;78;5;12;20;0;20;0;20;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -1449,7 +1449,7 @@ ___
 Azeroth has seen countless wars, and a **veteran** of one is likely to be a veteran of many. Well-respected by their peers, it is not uncommon even for a long-retired veteran to still know their training by heart.
 
 
-<img src="https://i.imgur.com/WRgZf6j.jpg" style="position:absolute; top:-0px; left:0px; width:800px; "/>
+<img src="https://i.imgur.com/WRgZf6j.jpg" style="position:absolute;top: -50px;left: -5px;width: 900px;">
 <img src='https://i.imgur.com/iqsWrVi.png' style='position:absolute; top:-160px; left:0px; width:1000px' />
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
