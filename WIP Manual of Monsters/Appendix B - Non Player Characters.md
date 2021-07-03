@@ -1562,7 +1562,13 @@ ___
 >
 > ***Arcane Deflection.*** When the mage is attacked by a spell, it can use its reaction to gain +2 AC or +4 to saving throws against that spell. 
 
-Some arcanists devote their life to the art of warfare, taking on the title of **war mages**. They keep a keen mind for tactical and scholarly matters alike, and are often among the most respected advisors to leaders. Some such mages are even charismatic leaders in their own right. 
+Some arcanists devote their life to the art of warfare, taking on the title of **war mages**. They keep a keen mind for tactical and scholarly matters alike, and are often among the most respected advisors to leaders. Some such mages are even charismatic leaders in their own right.
+
+\columnbreak
+
+> "I will take extra pleasure in separating the life energy from your body, and decorate my chambers with your skull." 
+> - Grand Magus Telestra, addressing her foes
+
 
 
 <img src='https://www.gmbinder.com/images/lge9kHo.jpg' style='position:absolute; top:0px; right:-20px; width:840px' />
