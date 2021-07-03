@@ -1507,7 +1507,7 @@ Sharply intelligent, immensely powerful, and often sardonic in nature, a **warlo
 \pagebreakNum
 
 
-<div style='margin-top:750px;'></div>
+<div style='margin-top:860px;'></div>
 
 ___
 ___
@@ -1566,14 +1566,10 @@ Some arcanists devote their life to the art of warfare, taking on the title of *
 
 \columnbreak
 
-> "You, too, shall be charred to ash!"
-> - Koelger of the Scarlet Crusade
 
-
-
-<img src='https://www.gmbinder.com/images/lge9kHo.jpg' style='position:absolute; top:0px; right:-20px; width:840px' />
-<img src='https://i.imgur.com/C2bOp8u.png' style='position:absolute; top:250px; right:-10px; width:820px;' />
-<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:700px; bottom:-498px; right:25px; transform:rotate(58deg);" />
+<img src='https://i.imgur.com/PirsUGQ.jpg' style='position:absolute; top:-20px; left:0px; width:800px' />
+<img src='https://i.imgur.com/C2bOp8u.png' style='position:absolute; top:320px; right:-10px; width:820px;' />
+<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:700px; bottom:-540px; right:25px; transform:rotate(56deg);" />
  
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
  
