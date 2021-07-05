@@ -1222,8 +1222,10 @@ ___
 
 Among elves,  **rangers** are some of the most respected figures one can find, and any non-elf following the same path will often be treated to much of the same reverence. It is their charge to learn the lay of the land and guard it with utmost care.
 
+<!-- TODO: When this is in the book, it needs to have page numbers -->
+
 > ##### Variant: Beast Companions
-> Rangers are often accompanied by beasts of the wild as partners in battle. This is usually a creature of <br/> CR 1 or below. Some common examples of tamed beasts are listed below.
+> Rangers are often accompanied by beasts of the wild as partners in battle, which are added to an encoun&shy;ter as standalone creatures. This is usually a creature of CR 1 or below. Here are some examples of such tamed beasts (pages will be added later).
 >
 > Creature		            | Preferred By  | Page  
 > --------------------------|---------------|----:
