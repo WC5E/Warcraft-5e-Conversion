@@ -352,7 +352,7 @@ You can use your reaction to cause the totem to activate if you are within 60 fe
 You can use your Totemist feature twice between rests. You regain all spent uses after finishing a short or long rest. You can summon an additional totem between rests when you reach 10th level, and again at 18th level.
 <div style='margin-top:-6px;'></div>
 
-***Totem Power: Elemental Resistance.*** You can activate the totem when a creature within 15 feet it takes acid, cold, fire, lightning, or thunder damage, giving them resistance to that type of damage until the end of the next turn.
+***Totem Power: Elemental Resistance.*** You can activate the totem when a creature within 15 feet it takes acid, cold, fire, lightning, or thunder damage, giving them resistance to that type of damage until the end of their next turn.
 
 ### Elemental Attunement
 Starting at 2nd level, you attune yourself to a force of the elemental plane. Choose one of the following options. You cannot take an Elemental Attunement option more than once, even if you later get to choose again. 
@@ -579,7 +579,7 @@ At 20th level, you are able to draw upon the energies of your attuned elements, 
 
 ***Water.*** Your Wisdom score increases by 2 and your maximum ability score for it is now 22.
 
-## Weapon Strikes
+#### Weapon Strikes
 The weapon strikes are presented in alphabetical order.
 
 ***Bouldering Strike.*** When you hit a creature with a weapon attack, you can spend 1 maelstrom point to force it to make a Strength saving throw. On a failure it is pushed 15 feet directly away from you.
@@ -636,11 +636,11 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 &nbsp;&nbsp;&nbsp; ***Air.*** The creature can call upon this boon when it is targeted by a weapon attack, making the attack roll miss. The creature can use this feature before or after the roll, but before any effect of the roll is applied.
 
-***Earth.*** The creature can call upon this boon when it is hit by an attack, gaining a number of temporary hit points equal to your shaman level. These hit points lasts until the end of the next turn.
+***Earth.*** The creature can call upon this boon when it is hit by an attack, gaining a number of temporary hit points equal to your shaman level. These hit points last until the end of the creature's next turn.
 
 ***Fire.*** The creature can call upon this boon when it is hit by a melee attack, to wreathe the attacking creature in fire. The creature must succeed on a Dexterity saving throw or take fire damage equal to your shaman level.
 
-***Water.*** The creature can call upon this boon when it is targeted by an attack or spell. Until the end of the next turn, the creature cannot be targeted by any attack or spell and the attacking creature must choose another target or lose their action. The creature still takes damage from things such as a *fireball* spell.
+***Water.*** The creature can call upon this boon when it is targeted by an attack or spell. Until the end of its next turn, the creature cannot be targeted by any attack or spell and the attacking creature must choose another target or lose their action. The creature still takes damage from things such as a *fireball* spell.
 
 #### Wellspring
 At 20th level, you become a fount of restorative energies through the forces of the Elemental Plane. When you would normally roll one or more dice to restore hit points with a spell, you instad use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12 hit points.
