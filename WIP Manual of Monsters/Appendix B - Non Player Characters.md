@@ -1605,10 +1605,10 @@ These are the changes made to the class since the last update this material (3.x
 - Sharing your thoughts with us on [Reddit](https://www.reddit.com/r/wc5e/).
 - Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
 
-<br />**Current core team:** Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
+<br />**Current core team:** Ace Azzermeen, Geamros, Lorestalker Nemzal, MagusRogue, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
 <br />
 
-<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
+<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Auvreannia, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
 <br />
 
 <br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
@@ -1620,7 +1620,7 @@ These are the changes made to the class since the last update this material (3.x
 - [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
 - All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
 
-<br />**Page 1 Art:** [[Swap this one out?]]
+<br />**Page 1 Art:** "Acolyte" from [Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Acolyte?file=Reforged_credits_art_13.png)
 <br />**Page 2 Art:** "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889)
 <br />**Page 3 Art:** "Val'Sharah Concept" by [Phillip Zhang](https://www.artstation.com/artwork/RYen2r)
 <br />**Page 4 Art:** "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543)
