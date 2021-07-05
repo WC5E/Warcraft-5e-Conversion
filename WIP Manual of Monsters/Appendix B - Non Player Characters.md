@@ -229,17 +229,19 @@ ___
 >
 > ***Divine Glow (1/Day).*** The acolyte becomes a source of celestial light. Each undead creature in a 15-foot radius centered on the acolyte must make a DC 12 Dexterity saving throw. On a failed save, a creature takes 3 (1d6) radiant damage.
 
-**Acolytes** are the novice priests in many creeds and orders following the teachings of the Light: a powerful force wor&shy;shipped far and wide. In their tutelage, it is often they who are called on for the simple deeds and grunt work.
+**Acolytes** are the novice priests in creeds and orders, great or small, that follow the teachings of a divine power. 
+<br /> In this capacity, simple deeds and physical grunt
+<br /> work are often made part of their tutelage.
 
 \columnbreak
 
 
-> ##### Variant: The Damned <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;2;12;4;0;4;0;4;6;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;1;1;1;1;Sacred%20Flame -->
-> Some fresh-faced acolytes lose hope in the Light and instead fall to the sway of the Damned, becoming servants of the  Lich King and the Scourge. 
+> ##### Variant: Acolyte of the Damned <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;2;12;4;0;4;0;4;6;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;1;1;1;1;Sacred%20Flame -->
+> One particularly notable group of acolytes are those who fell to the sway of the Damned and became servants of the Lich King and the Scourge.
 > 
-> The Damned have the same astistics as an acolyte except that its *cure wounds* spell can affect undead and it has the following trait in place of acolyte's Divine Glow action:
+> An acolyte of the Damned have the same statistics as an acolyte, except that its *cure wounds* spell can affect undead creatures. It also has the following trait in place of an acolyte's Divine Glow action:
 >
-> <br/> ***Spirit Release.*** When the damned dies, its body release part of its spirit energy. Each creature in a 10-foot radius on the damned must make a DC 12 Constitution saving throw. On a failed save, a creature takes 3 (1d6) necrotic damage.
+> <br/> ***Spirit Release.*** When the acolyte dies, its spirit escapes from its body in a violent burst of energy. Each creature in a 10-foot radius of the priest must make a DC 12 Constitution saving throw. On a failed save, a creature takes 3 (1d6) necrotic damage.
 
 ___
 > ## Arcanist <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;54;4;12;14;0;14;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;2;4;Arcane%20Blast;Fire%20Bolt;Magic%20Missile -->
@@ -275,9 +277,8 @@ Be it in a bastion of magic such as Dalaran or in smaller societies further afie
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://www.gmbinder.com/images/EUILrmP.jpg' style='position:absolute; top:800px; right:400px; width:500px;' />
-<img src='https://www.gmbinder.com/images/7drSEMn.png' style='position:absolute; top:0px; right:-50px; width:900px; transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/MVDaLa2.png' style='position:absolute; top:-70px; right:-150px; width:960px' />
+<img src="https://www.gmbinder.com/images/AYuE5Qf.png" class="inkblot" style="left: -30px;bottom: -342px;width: 520px;transform: rotate(107deg);">
+<img src="https://www.gmbinder.com/images/cNVEirW.png" style="position:absolute;bottom: -22px;left: -42px;width: 455px;">
 
 \pagebreakNum
 
