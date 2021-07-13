@@ -718,7 +718,8 @@ ___
 
 
 ___
-> ## Lich <!-- based on Devkarin Lich -->
+> ## Lich <!-- based on Devkarin Lich --> 
+> <!-- only defensive cr https://wc5e-cr-calculator.frogvall.com/?2;15;144;4;12;0;0;0;0;0;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;1;3;;;;;;;1;15;;;;;;;2;2;1;3; -->
 > *Large undead, neutral evil*
 > ___
 > - **Armor Class** 15 (natural armor)
@@ -731,17 +732,25 @@ ___
 > ___
 > - **Saving Throws** Con +7, Int +9, Wis +8
 > - **Skills** Arcana +14, Insight +8, Perception +8
-> - **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Resistances** cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 > - **Damage Immunities** poison
-> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed,petrified, poisoned, prone
 > - **Senses** truesight 120 ft., passive Perception 18
 > - **Languages** the languages it knew in life.
 > - **Challenge** 14 (11,500 XP) <!-- Proficiency Bonus +5 -->
 > ___
 >
+> ***Aloof Nature*** The lich always hovers 5 feet above any surface below it. It only thouches the ground if it chooses to and it isn't impeded by terrain features. Addinitally liquids below the lich start to cool down causeing them to turn solid, solid surfaces start to grow rime instead.
+>
 > ***Ice Shield.*** The lich has a magical ward that has 48 (half its hp) hit points. Whenever the lich takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, the lich takes any remaining damage. When the lich casts spell that deals cold damage of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. Additionally a creature that touches the ice shield takes 11 (2d10) cold damage.
 >
+> ***Immutable Form.*** The lich is immune to any spell or effect that would alter its form. 
+>
 > ***Legendary Resistance (3/Day).*** If the lich fails a saving throw, it can choose to succeed instead.
+>
+> ***Master of Undeath.*** The lich has control over any undead created by the scourge within 500 feet that aren't under the command of someone else.
+>
+> ***Rejuvenation.*** If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 >
 > ***Spellcasting.*** The lich is a 14th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). The lich has the following death knight and mage spells prepared:
 >
@@ -757,9 +766,11 @@ ___
 > ***Turn Resistance.*** The lich has advantage on saving throws against any effect that turns undead.
 >
 > ### Actions 
-> ***Multiattack.*** The lich makes two claw attacks.
+> ***Multiattack.*** The lich makes one attack with its claws and one with its chains.
 >
 > ***Claw.*** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing and 2d8 (9) damage.
+>
+> ***Undying Chains.*** Melee Spell Attack. +10 to hit, reach 15 ft., one creature. Hit: 13 (3d8) cold damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained and has disadvantage on all saving throws, and the lich can't chain another target.
 >
 > ### Legendary Actions
 > The lich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The devkarin lich regains spent legendary actions at the start of its turn.
@@ -771,7 +782,7 @@ ___
 
 ___
 > ## Plague-dog
-> *Huge undead, neutral evil*
+> *Huge construct (undead), neutral evil*
 > __
 > - Not yet started on this stat block, but added this placeholder for the sake of Nemzal
 
