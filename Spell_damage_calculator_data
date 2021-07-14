@@ -21,7 +21,7 @@ map.set('Solar Wrath', new Cantrip(4.5, 4.5, false));
 // leveled
 
 map.set('Arcane Barrage', new Spell(37.5, 12.5, 4, false));
-map.set('Arcane Explosion', new Spell(27.5, 4,5, 3, true));
+map.set('Arcane Explosion', new Spell(27.5, 4.5, 3, true));
 map.set('Army of the Dead', new Spell(63, 0, 5, false)); //DoT
 map.set('Alextrasza’s Fury', new Spell(42, 0, 8, true)); //Blastwave 
 map.set('Blizzard', new Spell(10.5, 3.5, 3, true)); //DoT
@@ -73,7 +73,7 @@ map.set('Create Bonfire', new Cantrip(4.5, 4.5, false));
 map.set('Eldritch Blast', new Cantrip(5.5, 5.5, false));
 map.set('Fire Bolt', new Cantrip(5.5, 5.5, false));
 map.set('Frostbite', new Cantrip(3.5, 3.5, false));
-map.set('Green-Flame Blade', new Cantrip(8.5, 9, false)); //assumed mod +3
+map.set('Green-Flame Blade', new Cantrip(7.5, 9, false)); //assumed mod +3
 map.set('Infestation', new Cantrip(3.5, 3.5, false));
 map.set('Lightning Lure', new Cantrip(4.5, 4.5, false));
 map.set('Magic Stone', new Cantrip(6.5, 0, false)); //assumed mod +3
