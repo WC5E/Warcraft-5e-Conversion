@@ -507,7 +507,7 @@ https://wowpedia.fandom.com/wiki/Flesh_giant
 \pagebreak
 
 ___
-> ## Doomskull <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;54;5;13;16;0;28;13;28;13;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;;;3;2;2;5;Shadow%20Bolt;Magic%20Missile;Phantasmal%20Force -->
+> ## Doomskull <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;54;5;13;16;0;31;13;31;13;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;;;3;2;2;5;Shadow%20Bolt;Magic%20Missile;Scorching%20Ray -->
 > *Tiny undead, chaotic evil*
 > ___
 > - **Armor Class** 15
@@ -533,7 +533,7 @@ ___
 >
 > Cantrips (at will): *mage hand, ✦ shadow bolt*
 > <br> 1st level (3 slots): *hex, magic missile, shield*
-> <br> 2nd level (2 slots): *blur, phantasmal force, ray of enfeeblement*
+> <br> 2nd level (2 slots): *blur, ray of enfeeblement, scorching ray*
 > <br> 3rd level (1 slot): *bestow curse, enemies abound*
 >
 > ***Swift caster.*** The doomskull can use a bonus action to cast a cantrip, even if it casts a spell using its action.
