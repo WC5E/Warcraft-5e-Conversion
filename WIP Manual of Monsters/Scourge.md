@@ -507,7 +507,7 @@ https://wowpedia.fandom.com/wiki/Flesh_giant
 \pagebreak
 
 ___
-> ## Doomskull <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;54;5;13;16;0;31;13;31;13;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;;;3;2;2;5;Shadow%20Bolt;Magic%20Missile;Scorching%20Ray -->
+> ## Doomskull <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;54;5;13;16;0;38;13;31;13;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;;;3;2;2;5;Shadow%20Bolt;Magic%20Missile;Scorching%20Ray -->
 > *Tiny undead, chaotic evil*
 > ___
 > - **Armor Class** 15
