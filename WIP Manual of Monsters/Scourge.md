@@ -347,7 +347,7 @@ ___
 > - **Condition Immunities** exhaustion, frightened, poisoned
 > - **Senses** darkvision 120 ft., passive Perception 13
 > - **Languages** the languages it knew in life.
-> - **Challenge** 16 (15,000 XP)
+> - **Challenge** 16 (15,000 XP) <!-- Proficiency Bonus +5 -->
 > ___
 >	
 > ***Cursed air.*** Living creatures within 10 feet of the death knight is unable to regain hit points.
@@ -393,7 +393,7 @@ ___
 > - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, unconscious
 > - **Senses** darkvision 60 ft., passive Perception 11
 > - **Languages** understands common, but cannot speak
-> - **Challenge** 8 (3,900 XP)
+> - **Challenge** 8 (3,900 XP) <!-- Proficiency Bonus +3 -->
 > ___
 >	
 > ***Darkness.*** Magical darkness spreads from the unforgiven in a 15-foot-radius sphere. The darkness spreads around corners. Nonmagical light can't illuminate it, but a creature with darkvision can see through it.
@@ -434,7 +434,7 @@ ___
 > - **Condition Immunities** exhaustion, frightened, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 11
 > - **Languages** understands the languages of its creator but can't speak
-> - **Challenge** 3 (700 XP)
+> - **Challenge** 3 (700 XP) <!-- Proficiency Bonus +2 -->
 > ___
 >
 > ***Confer Resistance.*** The deathcharger can grant resistance to necrotic damage to anyone riding it.
@@ -473,7 +473,7 @@ ___
 > - **Condition Immunities** charmed, exhaustion, frightened, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 9
 > - **Languages** understands the languages of its creator but can't speak
-> - **Challenge** 13 (10,000 XP)
+> - **Challenge** 13 (10,000 XP) <!-- Proficiency Bonus +5 -->
 > ___
 >
 > ***Fear of Fire.*** When the flesh giant takes fire damage, it has to make a wisdom saving throw. The DC equals 10 or half the damage it takes, whichever number is higher. On a failure the flesh giant has disadvantage on ability checks and attack rolls until the end of its next turn.
@@ -507,11 +507,11 @@ https://wowpedia.fandom.com/wiki/Flesh_giant
 \pagebreak
 
 ___
-> ## Doomskull <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;49;5;13;35;0;28;13;28;13;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;;;3;2;2;5;Shadow%20Bolt;Magic%20Missile;Phantasmal%20Force -->
+> ## Doomskull <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;54;5;13;16;0;28;13;28;13;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;;;3;2;2;5;Shadow%20Bolt;Magic%20Missile;Phantasmal%20Force -->
 > *Tiny undead, chaotic evil*
 > ___
 > - **Armor Class** 15
-> - **Hit Points** 49 (11d4 + 22)
+> - **Hit Points** 54 (12d4 + 24)
 > - **Speed** 0 ft., fly 40 ft. (hover)
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -524,7 +524,7 @@ ___
 > - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, prone
 > - **Senses** darkvision 60 ft., passive Perception 12
 > - **Languages** common
-> - **Challenge** 4 (1,100 XP)
+> - **Challenge** 4 (1,100 XP) <!-- Proficiency Bonus +2 -->
 > ___
 >
 > ***Magic Resistance.*** The doomskull has advantage on saving throws against spells and other magical effects.
@@ -572,7 +572,7 @@ ___
 > - **Condition Immunities** poisoned
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** the languages it knew in life.
-> - **Challenge** 1 (200 XP)
+> - **Challenge** 1 (200 XP) <!-- Proficiency Bonus +2 -->
 > ___
 >
 > ***Hangman's Rope.*** The geist has disadvantage on ability checks to contest or escape a grapple.
@@ -594,7 +594,7 @@ https://wowpedia.fandom.com/wiki/Geist
 https://gamepedia.cursecdn.com/wowpedia/9/9f/Runeforge_Haunter.jpg
 
 ___
-> ## Necrolyte <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;82;5;13;28;0;28;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;2;2;1;3;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Corpse%20Explosion;Drain%20Life -->
+> ## Necrolyte <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;82;5;13;42;0;28;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;3;2;1;5;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Corpse%20Explosion;Drain%20Life -->
 > *Medium humanoid (orc), neutral evil*
 > ___
 > - **Armor Class** 12
@@ -608,7 +608,7 @@ ___
 > - **Skills** Arcana +5
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** common
-> - **Challenge** 3 (700 XP)
+> - **Challenge** 3 (700 XP) <!-- Proficiency Bonus +2 -->
 > ___
 >
 > ***Relentless Endurance (1/day)*** When the necrolyte is reduced to 0 hit points but not killed, it can drop to 1 hit point instead.
@@ -617,7 +617,7 @@ ___
 >
 > Cantrips (at will): *chill touch, sapping sting, toll the dead*
 > <br> 1st level (3 slots): *cause fear, ✦ corpse explosion, ✦ drain life, false life*
-> <br> 2nd level (2 slots): *blindness/deathness, crown of madness, ray of enfeeblement*
+> <br> 2nd level (2 slots): *blindness/deafness, crown of madness, ray of enfeeblement*
 > <br> 3rd level (1 slot): *animate dead, ✦ asphyxiate, speak with dead*
 >
 > ### Actions 
@@ -631,39 +631,185 @@ https://gamepedia.cursecdn.com/wowpedia/e/ed/Drom%27kor.jpg
 
 <img src='https://gamepedia.cursecdn.com/wowpedia/e/ed/Drom%27kor.jpg' style='position:absolute; top:900px; right:00px; width:200px;' />
 
-ADD SIDEBAR ABOUT NON-ORC NECROLYTES REPLACING RELENTLESS ENDURANCE WITH ANOTHER RACIAL
+>ADD SIDEBAR ABOUT NON-ORC NECROLYTES REPLACING RELENTLESS ENDURANCE WITH ANOTHER RACIAL
+>
 
 \pagebreak
 
 ___
-> ## Grand Necrolyte <!-- aka necrolord -->
-> *Medium undead, neutral evil*
-> __
-> - Not yet started on this stat block, but added this placeholder for the sake of Nemzal
+> ## Grand Necrolyte <!-- aka necrolord --> 
+ 
+<!-- not corpse explosion: https://wc5e-cr-calculator.frogvall.com/?1;15;110;8;16;44;0;36;44;36;0;0;0;0;0;0;0;1;;;1;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;5;5;4;10;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Drain%20Life;Death%20and%20Decay;Blight;Enervation --> 
+<!--corpse explosion: https://wc5e-cr-calculator.frogvall.com/?1;15;110;8;16;70;0;70;0;56;0;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;;;;;;;;10;1;;;;;;5;5;4;10;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Corpse%20Explosion;Drain%20Life;Death%20and%20Decay;Blight;Enervation -->
+
+> *Medium humanoid (orc), neutral evil*
+> ___
+> - **Armor Class** 12 (15 with mage armor)
+> - **Hit Points** 110 (17d8 + 34)
+> - **Speed** 30 ft.
+> ___
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 8 (-1)|14 (+2)|14 (+2)|20 (+5)|13 (+1)|13 (+1)|
+> ___
+> - **Saving Throws** Int +8, Wis +4, Cha +4
+> - **Skills** Arcana +8
+> - **Damage Resistances** necrotic, poison
+> - **Senses** darkvision 60 ft., passive Perception 11
+> - **Languages** common
+> - **Challenge** 8 (3,900 XP) <!-- Proficiency Bonus +3 -->
+> ___
+>
+> ***Relentless Endurance (1/day)*** When the necrolyte is reduced to 0 hit points but not killed, it can drop to 1 hit point instead.
+>
+> ***Corpse Shield*** As long as there is a undead creature under the command of the necrolyte within 60 feet of it that it can see, it can split up to half of the damage it takes among its undead minions.  
+>
+> ***Spellcasting.*** The necrolyte is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The necrolyte has the following death knight and warlock spells prepared:
+>
+> Cantrips (at will): *chill touch, sapping sting, toll the dead*
+> <br> 1st level (3 slots): *cause fear, ✦ corpse explosion, ✦ drain life, false life, mage armor*
+> <br> 2nd level (2 slots): *blindness/deafness, crown of madness, ray of enfeeblement*
+> <br> 3rd level (3 slot): *animate dead, ✦ asphyxiate, speak with dead, summon undead*
+> <br> 4th level (3 slot): *✦ death and decay, blight*
+> <br> 5th level (2 slot): *danse macabre, enervation*
+>
+> ### Actions 
+> ***Dagger.*** *Melee Weapon Attack*: +5 to hit, reach 5 ft., one target. *Hit:*, 4 (1d4 + 2) slashing damage. 
+
+
+Greater necromancers occupying a far higher rank in their cults, grand necrolytes act as spiritual leaders among the still-livin worshippers of the Scourge’s decree. They experience no doubts and have no questions about their chosen path, showing a piety that might make a paladin blush. Granted powers over life and death that dwarf those of other necromancers, these dark clerics often lead or perform the most skilful of rituals to create the more powerful creatures.
 
 ___
-> ## Plague Eruptor
-> *Medium undead, neutral evil*
-> __
-> - Not yet started on this stat block, but added this placeholder for the sake of Nemzal
+> ## Plague Eruptor <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;102;7;16;36;10;36;10;36;45;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;1;;;;2;2;1;3; -->
+> *Large undead, neutral evil*
+> ___
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points**  102 (12d10 + 24)
+> - **Speed** 30 ft.
+> ___
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 17 (+3)|14 (+2)|16 (+3)|6 (-2)|10 (+0)|5 (-3)|
+> ___
+> - **Skills** 
+> - **Damage Immunities** poison
+> - **Condition Immunities** poisoned
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** the languages it knew in life but can't speak.
+> - **Challenge** 7 (2,900 XP) <!-- Proficiency Bonus +3 --> <!-- +4 cause of offesive cr 9 -->
+> ___
+>
+> ***Leaking Pustules.*** A creature that touches the plague eruptor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) poison damage.
+>
+> ***Deadly Plague.*** Poison damage that the plaguebear deals ignores resistance and immunity to poison damage. It can inflict the poisoned condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the plague of undeath.
+>
+> ***Plague Eruption.*** When the plague eruptor dies, it explodes, and each creature within 15 feet of it must make a DC 16 Constitution saving throw, taking 35 (10d6) poison damage and become infected with the plague of undeath on a failed save. A successful save results in half damage and no other effect. A humanoid creature killed by this damage rises as a zombie after 1 minute.
+>
+> ### Actions 
+> ***Multiattack.*** The plague eruptor makes two slam attacks and uses its vile gas ability.
+>
+> ***Slam.*** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) bludgeoning damage.
+>
+> and one of those or maybe both? (kinda prefer the first one but i see why the second one is preferable) (calculator assumes both because the multiattack does equal damage to the recharge)
+>
+> ***Vile Gas.*** The plague eruptor expels a poisonous cloud in 10-feet radius around it. Each creature in the area must make a DC 15 Constitution saving throw. On a failed save, a creature takes 12 (2d8+3) poison damage. On a successful save, the creature takes half as much damage.
+>
+> ***Vile Gas Eruption (Recharge 6).*** One of the plague eruptors pustules explodes into a cloud of poison that covers a 15-foot cube. ~~The plague eruptor takes 7 (2d6) bludgeoning damage (this damage can't be reduced in any way).~~ Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
 
 ___
-> ## Lich
-> *Medium undead, neutral evil*
-> __
-> - Not yet started on this stat block, but added this placeholder for the sake of Nemzal
+> ## Lich <!-- based on Devkarin Lich --> 
+> <!-- only defensive cr https://wc5e-cr-calculator.frogvall.com/?2;15;144;4;12;0;0;0;0;0;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;1;3;;;;;;;1;15;;;;;;;2;2;1;3; -->
+> *Large undead, neutral evil*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points**  97 (13d10 + 26)
+> - **Speed** 30 ft.
+> ___
+> STR | DEX | CON | INT | WIS | CHA
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+> 11 (+0)|14 (+2)|14 (+2)|20 (+5)|16 (+3)|15 (+2)|
+> ___
+> - **Saving Throws** Con +7, Int +9, Wis +8
+> - **Skills** Arcana +14, Insight +8, Perception +8
+> - **Damage Resistances** cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Damage Immunities** poison
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed,petrified, poisoned, prone
+> - **Senses** truesight 120 ft., passive Perception 18
+> - **Languages** the languages it knew in life.
+> - **Challenge** 14 (11,500 XP) <!-- Proficiency Bonus +5 -->
+> ___
+>
+> ***Aloof Nature*** The lich always hovers 5 feet above any surface below it. It only thouches the ground if it chooses to and it isn't impeded by terrain features. Addinitally liquids below the lich start to cool down causeing them to turn solid, solid surfaces start to grow rime instead.
+>
+> ***Ice Shield.*** The lich has a magical ward that has 48 (half its hp) hit points. Whenever the lich takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, the lich takes any remaining damage. When the lich casts spell that deals cold damage of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. Additionally a creature that touches the ice shield takes 11 (2d10) cold damage.
+>
+> ***Immutable Form.*** The lich is immune to any spell or effect that would alter its form. 
+>
+> ***Legendary Resistance (3/Day).*** If the lich fails a saving throw, it can choose to succeed instead.
+>
+> ***Master of Undeath.*** The lich has control over any undead created by the scourge within 500 feet that aren't under the command of someone else.
+>
+> ***Rejuvenation.*** If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
+>
+> ***Spellcasting.*** The lich is a 14th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). The lich has the following death knight and mage spells prepared:
+>
+> Cantrips (at will): *chill touch, sapping sting, frostbite, flurry, prestidigitation*
+> <br> 1st level (4 slots): *cause fear, ✦ corpse explosion, ✦ drain life, false life*
+> <br> 2nd level (3 slots): *blindness/deafness, crown of madness, ray of enfeeblement*
+> <br> 3rd level (3 slot): *animate dead, ✦ asphyxiate, ✦ blizzard, counterspell, speak with dead, summon undead*
+> <br> 4th level (3 slot): *✦ ice block, ✦ death and decay, blight*
+> <br> 5th level (2 slot): *✦ army of the Dead, cone of cold, danse macabre, enervation*
+> <br> 6th level (1 slot): *circle of death, create undead, investiture of ice, wall of ice
+> <br> 7th level (1 slot): *finger of death, ✦ glacial spike*
+>
+> ***Turn Resistance.*** The lich has advantage on saving throws against any effect that turns undead.
+>
+> ### Actions 
+> ***Multiattack.*** The lich makes one attack with its claws and one with its chains.
+>
+> ***Claw.*** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing and 2d8 (9) damage.
+>
+> ***Undying Chains.*** Melee Spell Attack. +10 to hit, reach 15 ft., one creature. Hit: 13 (3d8) cold damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained and has disadvantage on all saving throws, and the lich can't chain another target.
+>
+> ### Legendary Actions
+> The lich can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The devkarin lich regains spent legendary actions at the start of its turn.
+>
+> ***Cantrip.*** The lich casts one of its cantrips.
+> ***Claw (Costs 2 Actions).*** The lich makes a Claw attack.
+> ***Disrupt Life (Costs 3 Actions).*** Each creature within 30 feet of the lich must make a DC 18 Constitution saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+
 
 ___
 > ## Plague-dog
-> *Medium undead, neutral evil*
+> *Huge construct (undead), neutral evil*
 > __
 > - Not yet started on this stat block, but added this placeholder for the sake of Nemzal
 
 ___
-> ## Frost wyrms
-> *Medium undead, neutral evil*
+> ## Frost Wyrm (Whelp)
+> *Small undead, neutral evil*
 > __
 > - Not yet started on these stat blocks, but added this placeholder for the sake of Nemzal
+
+___
+> ## Frost Wyrm (Drake)
+> *Large undead, neutral evil*
+> __
+> - Not yet started on these stat blocks, but added this placeholder for the sake of Nemzal
+
+___
+> ## Frost Wyrm (Dragon)
+> *Huge undead, neutral evil*
+> __
+> - Not yet started on these stat blocks, but added this placeholder for the sake of Nemzal
+
+___
+> ## Frost Wyrm
+> *Gargantuan undead, neutral evil*
+> __
+> - Not yet started on these stat blocks, but added this placeholder for the sake of Nemzal
+
 
 <!-- 
 Bone Golem		5	Medium
@@ -675,6 +821,6 @@ Flesh Giant		13	Huge
 Floating Skull		4	Tiny	Draws inspiration from Flameskulls.
 Geist		1	Medium
 Necrolord		8	Medium
-Plague Eruptor		7	Large 
+Plague Eruptor		7	medium
 -->
 
