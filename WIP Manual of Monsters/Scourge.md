@@ -719,7 +719,7 @@ ___
 
 ___
 > ## Lich <!-- based on Devkarin Lich --> 
-> <!-- only defensive cr https://wc5e-cr-calculator.frogvall.com/?2;15;144;4;12;0;0;0;0;0;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;1;3;;;;;;;1;15;;;;;;;2;2;1;3; -->
+> <!-- no cropse explosion https://wc5e-cr-calculator.frogvall.com/?2;15;144;4;12;0;0;0;0;0;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;1;3;;;;;;;1;15;;;;;;;2;2;1;3;](https://wc5e-cr-calculator.frogvall.com/?2;15;144;;18;90;0;80;0;72;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;1;3;;;;;;;1;15;;;;;;;7;6;5;14;Drain%20Life;Blizzard;Death%20and%20Decay;Blight;Army%20of%20the%20Dead;Cone%20of%20Cold;Enervation;Circle%20of%20Death;Investiture%20of%20Ice;Wall%20of%20Ice;Glacial%20Spike;Finger%20of%20Death) -->
 > *Large undead, neutral evil*
 > ___
 > - **Armor Class** 15 (natural armor)
