@@ -236,7 +236,7 @@ Nothing is left to waste in the Scourge. A creation from the dark Scholomance, t
 
 https://wow.gamepedia.com/Bone_golem#/media/File:Skeletal_Flayer.jpg
 
-\pagebreak
+\pagebreakNum
 
 <br/>
 
@@ -309,7 +309,7 @@ ___
 
 </div>
 
-\pagebreak
+\pagebreakNum
 
 
 
@@ -373,7 +373,7 @@ ___
 </div>
 
 
-\pagebreak
+\pagebreakNum
 
 ___
 > ## Unforgiven <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;110;8;12;22;21;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;1;;;;;2;2;1;3; -->
@@ -452,7 +452,7 @@ maybe one of these
 https://www.deviantart.com/lessanamidairo/art/Acherus-Deathcharger-628851381
 https://wowpedia.fandom.com/wiki/Deathcharger?file=Deathcharger_TCG.jpg
 
-\pagebreak
+\pagebreakNum
 
 ___
 > ## Flesh Giant <!-- https://wc5e-cr-calculator.frogvall.com/?2;14;218;14;17;90;13;44;13;44;13;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
@@ -504,7 +504,7 @@ https://wowpedia.fandom.com/wiki/Flesh_giant
 
 
 
-\pagebreak
+\pagebreakNum
 
 ___
 > ## Doomskull <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;54;5;13;16;0;28;13;28;13;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;;;3;2;2;5;Shadow%20Bolt;Magic%20Missile;Phantasmal%20Force -->
@@ -553,7 +553,7 @@ Robbed of their bodies and their free will, but not their wit, a laughing doomsk
 maybe this
 <img src='https://p4.wallpaperbetter.com/wallpaper/397/957/220/adventure-dark-skull-soul-video-games-world-of-warcraft-hd-art-wallpaper-preview.jpg' style='position:absolute; top:00px; right:00px; width:200px;' />
 
-\pagebreak
+\pagebreakNum
 
 ___
 > ## Geist <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;49;5;13;35;0;28;13;28;13;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;1;;;;;;;10;;;;;;;3;2;2;5;Shadow%20Bolt;Magic%20Missile;Phantasmal%20Force -->
@@ -632,16 +632,11 @@ https://gamepedia.cursecdn.com/wowpedia/e/ed/Drom%27kor.jpg
 <img src='https://gamepedia.cursecdn.com/wowpedia/e/ed/Drom%27kor.jpg' style='position:absolute; top:900px; right:00px; width:200px;' />
 
 >ADD SIDEBAR ABOUT NON-ORC NECROLYTES REPLACING RELENTLESS ENDURANCE WITH ANOTHER RACIAL
->
 
-\pagebreak
+\pagebreakNum
 
 ___
-> ## Grand Necrolyte <!-- aka necrolord --> 
- 
-<!-- not corpse explosion: https://wc5e-cr-calculator.frogvall.com/?1;15;110;8;16;44;0;36;44;36;0;0;0;0;0;0;0;1;;;1;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;5;5;4;10;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Drain%20Life;Death%20and%20Decay;Blight;Enervation --> 
-<!--corpse explosion: https://wc5e-cr-calculator.frogvall.com/?1;15;110;8;16;70;0;70;0;56;0;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;;;;;;;;10;1;;;;;;5;5;4;10;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Corpse%20Explosion;Drain%20Life;Death%20and%20Decay;Blight;Enervation -->
-
+> ## Grand Necrolyte <!-- aka necrolord not corpse explosion: https://wc5e-cr-calculator.frogvall.com/?1;15;110;8;16;44;0;36;44;36;0;0;0;0;0;0;0;1;;;1;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;5;5;4;10;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Drain%20Life;Death%20and%20Decay;Blight;Enervation corpse explosion: https://wc5e-cr-calculator.frogvall.com/?1;15;110;8;16;70;0;70;0;56;0;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;;;;;;;;10;1;;;;;;5;5;4;10;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Corpse%20Explosion;Drain%20Life;Death%20and%20Decay;Blight;Enervation -->
 > *Medium humanoid (orc), neutral evil*
 > ___
 > - **Armor Class** 12 (15 with mage armor)
@@ -679,6 +674,7 @@ ___
 
 Greater necromancers occupying a far higher rank in their cults, grand necrolytes act as spiritual leaders among the still-livin worshippers of the Scourge’s decree. They experience no doubts and have no questions about their chosen path, showing a piety that might make a paladin blush. Granted powers over life and death that dwarf those of other necromancers, these dark clerics often lead or perform the most skilful of rituals to create the more powerful creatures.
 
+
 ___
 > ## Plague Eruptor <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;102;7;16;36;10;36;10;36;45;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;1;;;;2;2;1;3; -->
 > *Large undead, neutral evil*
@@ -710,13 +706,17 @@ ___
 >
 > ***Slam.*** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) bludgeoning damage.
 >
-> and one of those or maybe both? (kinda prefer the first one but i see why the second one is preferable) (calculator assumes both because the multiattack does equal damage to the recharge)
+> **one of following or maybe both? (kinda prefer the first one but i see why the second one is preferable) (calculator assumes both because the multiattack does equal damage to the recharge)**
 >
 > ***Vile Gas.*** The plague eruptor expels a poisonous cloud in 10-feet radius around it. Each creature in the area must make a DC 15 Constitution saving throw. On a failed save, a creature takes 12 (2d8+3) poison damage. On a successful save, the creature takes half as much damage.
 >
 > ***Vile Gas Eruption (Recharge 6).*** One of the plague eruptors pustules explodes into a cloud of poison that covers a 15-foot cube. ~~The plague eruptor takes 7 (2d6) bludgeoning damage (this damage can't be reduced in any way).~~ Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
+\pagebreakNum
 
+<div class='statblock-wide'>
+
+___
 ___
 > ## Lich <!-- based on Devkarin Lich --> 
 > <!-- no cropse explosion https://wc5e-cr-calculator.frogvall.com/?2;15;144;7;18;90;0;80;0;72;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;1;3;;;;;;;1;12;;;;;;;7;6;5;14;Drain%20Life;Blizzard;Death%20and%20Decay;Blight;Army%20of%20the%20Dead;Cone%20of%20Cold;Enervation;Circle%20of%20Death;Investiture%20of%20Ice;Wall%20of%20Ice;Glacial%20Spike;Finger%20of%20Death -->
@@ -779,6 +779,10 @@ ___
 > ***Claw (Costs 2 Actions).*** The lich makes a Claw attack.
 > ***Disrupt Life (Costs 3 Actions).*** Each creature within 30 feet of the lich must make a DC 18 Constitution saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
 
+
+</div>
+
+\pagebreakNum
 
 ___
 > ## Plague-dog
