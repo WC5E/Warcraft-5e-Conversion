@@ -437,12 +437,16 @@ ___
 > - **Challenge** 3 (700 XP) <!-- Proficiency Bonus +2 -->
 > ___
 >
-> ***Confer Resistance.*** The deathcharger can grant resistance to necrotic damage to anyone riding it.
+> ***Icy Hooves.*** The deathcharger freezes the ground where it touches it, allowing it to walk over any liquid surfaces.
 >
 > ***Trampling Charge.*** If the deathcharger moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the deathcharger can make another attack with its hooves against it as a bonus action.
 >
 > ### Actions 
 > ***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) necrotic damage.
+>
+> ***Wraith Walk.*** The Deathcharger and its rider magically enter the Ethereal Plane from the Material Plane, or vice versa.
+
+<!-- > Greater Steed Variant: Deathknights can summon a deathcharger via the ***find greater steed*** spell. When a deathcharger is summoned through the spell it loses the extra attack from ***trampleing charge*** when a target is prone, also its ***wraith walk*** ability can only be used 3 times per long rest and only lasts until the start of its next turn. -->
 
 A true Scourge invasion is headed by the iconic sight of a knight sat atop a skeletal horse, decked in armour and finery, mutated through dark magic to sport vicious horns and cruel, eyeless sockets. Expected to be as dangerous as they are unfalteringly obedient, these dread horses are an eternal symbol of the Scourge’s military might.
 
@@ -706,11 +710,9 @@ ___
 >
 > ***Slam.*** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) bludgeoning damage.
 >
-> **one of following or maybe both? (kinda prefer the first one but i see why the second one is preferable) (calculator assumes both because the multiattack does equal damage to the recharge)**
->
 > ***Vile Gas.*** The plague eruptor expels a poisonous cloud in 10-feet radius around it. Each creature in the area must make a DC 15 Constitution saving throw. On a failed save, a creature takes 12 (2d8+3) poison damage. On a successful save, the creature takes half as much damage.
 >
-> ***Vile Gas Eruption (Recharge 6).*** One of the plague eruptors pustules explodes into a cloud of poison that covers a 15-foot cube. ~~The plague eruptor takes 7 (2d6) bludgeoning damage (this damage can't be reduced in any way).~~ Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+> ***Vile Gas Eruption (Recharge 6).*** One of the plague eruptors pustules explodes into a cloud of poison that covers a 15-foot cube. Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 \pagebreakNum
 
