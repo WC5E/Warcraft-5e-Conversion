@@ -532,9 +532,9 @@ ___
 > ***Spellcasting.*** The doomskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The doomskull has the following mage and warlock spells prepared:
 >
 > Cantrips (at will): *mage hand, ✦ shadow bolt*
-> <br> 1st level (3 slots): *hex, magic missile, shield*
-> <br> 2nd level (2 slots): *blur, phantasmal force, ray of enfeeblement*
-> <br> 3rd level (1 slot): *bestow curse, enemies abound*
+> <br/> 1st level (3 slots): *hex, magic missile, shield*
+> <br/> 2nd level (2 slots): *blur, phantasmal force, ray of enfeeblement*
+> <br/> 3rd level (1 slot): *bestow curse, enemies abound*
 >
 > ***Swift caster.*** The doomskull can use a bonus action to cast a cantrip, even if it casts a spell using its action.
 >
@@ -594,11 +594,11 @@ https://wowpedia.fandom.com/wiki/Geist
 https://gamepedia.cursecdn.com/wowpedia/9/9f/Runeforge_Haunter.jpg
 
 ___
-> ## Necrolyte <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;82;5;13;42;0;28;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;3;2;1;5;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Corpse%20Explosion;Drain%20Life -->
-> *Medium humanoid (orc), neutral evil*
+> ## Necrolyte <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;90;5;13;13;0;13;0;13;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;3;3;0;5;Mind%20Blast;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Dark%20Void;Drain%20Life -->
+> *Medium humanoid (any), neutral evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 82 (15d8 + 15)
+> - **Hit Points** 82 (15d8 + 15) + 8 (1d4+4) from *false life*
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -608,17 +608,28 @@ ___
 > - **Skills** Arcana +5
 > - **Senses** darkvision 60 ft., passive Perception 10
 > - **Languages** common
-> - **Challenge** 3 (700 XP) <!-- Proficiency Bonus +2 -->
+> - **Challenge** 2 (450 XP) <!-- Proficiency Bonus +2 -->
 > ___
 >
-> ***Relentless Endurance (1/day)*** When the necrolyte is reduced to 0 hit points but not killed, it can drop to 1 hit point instead.
+> ***Focused Mind*** The necrolyte advantage on Constitution saving throws that it make to maintain its concentration on a spell.
 >
-> ***Spellcasting.*** The necrolyte is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The necrolyte has the following death knight and warlock spells prepared:
+> ***Racial Heritage*** The necrolyte inherents one trait or ability from its race. For example *relentless endurance* for when it is an orc.
 >
-> Cantrips (at will): *chill touch, sapping sting, toll the dead*
-> <br> 1st level (3 slots): *cause fear, ✦ corpse explosion, ✦ drain life, false life*
-> <br> 2nd level (2 slots): *blindness/deafness, crown of madness, ray of enfeeblement*
-> <br> 3rd level (1 slot): *animate dead, ✦ asphyxiate, speak with dead*
+> ***Innate Spellcasting.*** The necrolyte's innate spellcasting ability is Intelligence. It can innately cast the following spells (spell save DC 13), requiring no material components:
+> <br/> At will: *disguise self, false life*
+> <br/> 1/day: *animate dead*
+>
+> ***Spellcasting.*** The necrolyte is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The necrolyte regains its expended spell slots when it finishes a short or long rest, and knows the following priest and warlock spells:
+>
+> Cantrips (at will): *chill touch, ✦ diabolism, ✦ mind blast, resistance, sapping sting, toll the dead*
+> <br/> 1st-3rd level (2 3rd-level slots): *blindness/deafness, ✦ dark void, ✦ drain life, fear, ray of enfeeblement, speak with dead*
+> 
+> <!---
+> Cantrips (at will): chill touch, ✦ diabolism, ✦ mind blast, resistance, sapping sting, toll the dead
+> <br/> 1st level: ✦ dark void, drain life
+> <br/> 2nd level: blindness/deafness, ray of enfeeblement
+> <br/> 3rd level: fear, speak with dead
+> -->
 >
 > ### Actions 
 > ***Dagger.*** *Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. *Hit:*, 4 (1d4 + 2) slashing damage.
@@ -636,11 +647,11 @@ https://gamepedia.cursecdn.com/wowpedia/e/ed/Drom%27kor.jpg
 \pagebreakNum
 
 ___
-> ## Grand Necrolyte <!-- aka necrolord not corpse explosion: https://wc5e-cr-calculator.frogvall.com/?1;15;110;8;16;44;0;36;44;36;0;0;0;0;0;0;0;1;;;1;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;5;5;4;10;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Drain%20Life;Death%20and%20Decay;Blight;Enervation corpse explosion: https://wc5e-cr-calculator.frogvall.com/?1;15;110;8;16;70;0;70;0;56;0;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;;;;;;;;10;1;;;;;;5;5;4;10;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Corpse%20Explosion;Drain%20Life;Death%20and%20Decay;Blight;Enervation -->
+> ## Grand Necrolyte <!-- aka necrolord https://wc5e-cr-calculator.frogvall.com/?1;15;118;8;16;40;0;40;0;36;0;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;5;5;4;11;Mind%20Blast;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Dark%20Void;Drain%20Life;Guiding%20Bolt;Hunger%20of%20Hadar;Vampiric%20Touch;Blight;Enervation -->
 > *Medium humanoid (orc), neutral evil*
 > ___
-> - **Armor Class** 12 (15 with mage armor)
-> - **Hit Points** 110 (17d8 + 34)
+> - **Armor Class** 12 (15 with *mage armor*)
+> - **Hit Points** 110 (17d8 + 34) + 8 (1d4+4) from *false life*
 > - **Speed** 30 ft.
 > ___
 > STR | DEX | CON | INT | WIS | CHA
@@ -655,18 +666,33 @@ ___
 > - **Challenge** 8 (3,900 XP) <!-- Proficiency Bonus +3 -->
 > ___
 >
-> ***Relentless Endurance (1/day)*** When the necrolyte is reduced to 0 hit points but not killed, it can drop to 1 hit point instead.
+> ***Racial Heritage*** The necrolyte inherents one trait or ability from its race. For example *relentless endurance* for when it is an orc.
 >
 > ***Corpse Shield*** As long as there is a undead creature under the command of the necrolyte within 60 feet of it that it can see, it can split up to half of the damage it takes among its undead minions.  
 >
-> ***Spellcasting.*** The necrolyte is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The necrolyte has the following death knight and warlock spells prepared:
+> ***Focused Mind*** The necrolyte advantage on Constitution saving throws that it make to maintain its concentration on a spell.
+> 
+> ***Innate Spellcasting.*** The necrolyte's innate spellcasting ability is Intelligence. It can innately cast the following spells (spell save DC 13), requiring no material components:
+> <br/> At will: *disguise self, false life, mage armor (self only)*
+> <br/> 1/day: *animate dead*
+> 
 >
-> Cantrips (at will): *chill touch, sapping sting, toll the dead*
-> <br> 1st level (3 slots): *cause fear, ✦ corpse explosion, ✦ drain life, false life, mage armor*
-> <br> 2nd level (2 slots): *blindness/deafness, crown of madness, ray of enfeeblement*
-> <br> 3rd level (3 slot): *animate dead, ✦ asphyxiate, speak with dead, summon undead*
-> <br> 4th level (3 slot): *✦ death and decay, blight*
-> <br> 5th level (2 slot): *danse macabre, enervation*
+> ***Spellcasting.*** The necrolyte is a 11th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The necrolyte regains its expended spell slots when it finishes a short or long rest, and knows the following priest and warlock spells:
+>
+> <br/> 1/day *create Undead*
+>
+> Cantrips (at will): *chill touch, ✦ diabolism, ✦ mind blast, resistance, sapping sting, toll the dead*
+> <br/> 1st-5th level (3 5th-level slots): *blindness/deafness (2nd), ✦ dark void (1st), danse macabre (5th), ✦ drain life (1st), fear (3rd), ray of enfeeblement (2nd), speak with dead (3rd)*
+> <!---
+> Cantrips (at will): chill touch, ✦ diabolism, ✦ mind blast, resistance, sapping sting, toll the dead
+> <br/> 1st level: ✦ dark void, guiding bolt (necrotic damage)
+> <br/> 2nd level: blindness/deafness, ray of enfeeblement
+> <br/> 3rd level: hunger of hadar, fear, speak with dead, vampiric touch
+> <br/> 4th level: ✦ voidshift\*, blight
+> <br/> 5th level: danse macabre, enervation
+> -->
+> 
+> \*creatures under the necrolyte's command don't have to be willing.
 >
 > ### Actions 
 > ***Dagger.*** *Melee Weapon Attack*: +5 to hit, reach 5 ft., one target. *Hit:*, 4 (1d4 + 2) slashing damage. 
@@ -755,13 +781,13 @@ ___
 > ***Spellcasting.*** The lich is a 14th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). The lich has the following death knight and mage spells prepared:
 >
 > Cantrips (at will): *chill touch, sapping sting, frostbite, flurry, prestidigitation*
-> <br> 1st level (4 slots): *cause fear, ✦ corpse explosion, ✦ drain life, false life*
-> <br> 2nd level (3 slots): *blindness/deafness, crown of madness, ray of enfeeblement*
-> <br> 3rd level (3 slot): *animate dead, ✦ asphyxiate, ✦ blizzard, counterspell, speak with dead, summon undead*
-> <br> 4th level (3 slot): *✦ ice block, ✦ death and decay, blight*
-> <br> 5th level (2 slot): *✦ army of the Dead, cone of cold, danse macabre, enervation*
-> <br> 6th level (1 slot): *circle of death, create undead, investiture of ice, wall of ice
-> <br> 7th level (1 slot): *finger of death, ✦ glacial spike*
+> <br/> 1st level (4 slots): *cause fear, ✦ corpse explosion, ✦ drain life, false life*
+> <br/> 2nd level (3 slots): *blindness/deafness, crown of madness, ray of enfeeblement*
+> <br/> 3rd level (3 slot): *animate dead, ✦ asphyxiate, ✦ blizzard, counterspell, speak with dead, summon undead*
+> <br/> 4th level (3 slot): *✦ ice block, ✦ death and decay, blight*
+> <br/> 5th level (2 slot): *✦ army of the Dead, cone of cold, danse macabre, enervation*
+> <br/> 6th level (1 slot): *circle of death, create undead, investiture of ice, wall of ice
+> <br/> 7th level (1 slot): *finger of death, ✦ glacial spike*
 >
 > ***Turn Resistance.*** The lich has advantage on saving throws against any effect that turns undead.
 >
