@@ -682,7 +682,8 @@ ___
 > <br/> 1/day *create Undead*
 >
 > Cantrips (at will): *chill touch, ✦ diabolism, ✦ mind blast, resistance, sapping sting, toll the dead*
-> <br/> 1st-5th level (3 5th-level slots): *blindness/deafness (2nd), ✦ dark void (1st), danse macabre (5th), ✦ drain life (1st), fear (3rd), ray of enfeeblement (2nd), speak with dead (3rd)*
+> <br/> 1st-5th level (3 5th-level slots): *blight, blindness/deafness, ✦ dark void, danse macabre, ✦ drain life, enervation, fear, guiding bolt (necrotic damage), hunger of hadar, ray of enfeeblement, speak with dead, vampiric touch, ✦ voidshift\**
+> 
 > <!---
 > Cantrips (at will): chill touch, ✦ diabolism, ✦ mind blast, resistance, sapping sting, toll the dead
 > <br/> 1st level: ✦ dark void, guiding bolt (necrotic damage)
