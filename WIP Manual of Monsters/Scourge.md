@@ -646,7 +646,7 @@ https://gamepedia.cursecdn.com/wowpedia/e/ed/Drom%27kor.jpg
 
 ___
 > ## Grand Necrolyte <!-- aka necrolord https://wc5e-cr-calculator.frogvall.com/?1;15;118;8;16;40;0;40;0;40;0;0;0;0;0;0;0;1;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;5;5;5;11;Mind%20Blast;Chill%20Touch;Sapping%20Sting;Toll%20the%20Dead;Dark%20Void;Drain%20Life;Guiding%20Bolt;Hunger%20of%20Hadar;Vampiric%20Touch;Blight;Enervation -->
-> *Medium humanoid (orc), neutral evil*
+> *Medium humanoid (any), neutral evil*
 > ___
 > - **Armor Class** 12 (15 with *mage armor*)
 > - **Hit Points** 110 (17d8 + 34) + 8 (1d4+4) from *false life*
