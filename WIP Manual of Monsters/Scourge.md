@@ -613,8 +613,6 @@ ___
 >
 > ***Focused Mind*** The necrolyte advantage on Constitution saving throws that it make to maintain its concentration on a spell.
 >
-> ***Racial Heritage*** The necrolyte inherents one trait or ability from its race. For example *relentless endurance* for when it is an orc.
->
 > ***Innate Spellcasting.*** The necrolyte's innate spellcasting ability is Intelligence. It can innately cast the following spells (spell save DC 13), requiring no material components:
 > <br/> At will: *disguise self, false life*
 > <br/> 1/day: *animate dead*
@@ -665,8 +663,6 @@ ___
 > - **Languages** common
 > - **Challenge** 8 (3,900 XP) <!-- Proficiency Bonus +3 -->
 > ___
->
-> ***Racial Heritage*** The necrolyte inherents one trait or ability from its race. For example *relentless endurance* for when it is an orc.
 >
 > ***Corpse Shield*** As long as there is a undead creature under the command of the necrolyte within 60 feet of it that it can see, it can split up to half of the damage it takes among its undead minions.  
 >
