@@ -450,7 +450,7 @@ ___
 > - **Damage Resistances** poison
 > - **Senses** passive Perception 13
 > - **Languages** any two languages
-> - **Challenge** 9 (5,000 XP)
+> - **Challenge** 8 (3,900 XP)
 > ___
 >
 > ***Assassinate.*** During its first turn, the assassin has advantage on attack rolls against any creature that hasn’t taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
