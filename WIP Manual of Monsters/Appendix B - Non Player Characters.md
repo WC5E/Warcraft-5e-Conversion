@@ -342,9 +342,9 @@ The talented few that put the work into magical mastery may be recognized as an 
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://www.gmbinder.com/images/uOQOURz.png' class='inkblot' style='right:-90px; top:140px; width:640px;' />
-<img src='https://www.gmbinder.com/images/PGGwqOC.png' style='position:absolute; top:90px; right:-200px; width:800px' />
-<img src='https://www.gmbinder.com/images/7drSEMn.png' style='position:absolute; top:-6px; left:-170px; width:1010px' />
+<img src="https://www.gmbinder.com/images/uOQOURz.png" class="inkblot" style="right:-90px; top:140px; width:640px;">
+<img src="https://www.gmbinder.com/images/PGGwqOC.png" style="position:absolute;top:90px;right: -182px;width: 780px;">
+<img src="https://www.gmbinder.com/images/7drSEMn.png" style="position:absolute;top: -156px;left: -180px;width:1010px;">
 
 
 \pagebreakNum
@@ -407,13 +407,13 @@ ___
 >
 > ### Actions
 >
-> ***Quarterstaff (Humanoid or Moonkin Forms Only).*** *Melee Weapon Attack:* +9 to hit, reach 5 ft ., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
+> ***Quarterstaff (Humanoid or Moonkin Forms Only).*** *Melee Weapon Attack:* +10 to hit, reach 5 ft ., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 >
 > ***Multiattack (Bear or Cat Forms Only).*** The archdruid makes a claw and a bite attack.
 >
-> ***Claws (Bear or Cat Forms Only).*** *Melee Weapon Attack:* *Bear Form:* +4 to hit, *Cat Form:* +6 to hit, reach 5 ft., one target. *Hit:* *Bear Form:* 7 (2d6) slashing damage, *Cat Form:* 7 (2d4 + 2) slashing damage.
+> ***Claws (Bear or Cat Forms Only).*** *Melee Weapon Attack:* *Bear Form:* +5 to hit, *Cat Form:* +7 to hit, reach 5 ft., one target. *Hit:* *Bear Form:* 7 (2d6) slashing damage, *Cat Form:* 7 (2d4 + 2) slashing damage.
 >
-> ***Bite (Bear or Cat Forms Only).*** *Melee Weapon Attack:* *Bear Form:* +4 to hit, *Cat Form:* +6 to hit, reach 5 ft., one target. *Hit:* *Bear Form:* 4 (1d8) piercing damage, *Cat Form:* 5 (1d6 + 2) piercing damage.
+> ***Bite (Bear or Cat Forms Only).*** *Melee Weapon Attack:* *Bear Form:* +5 to hit, *Cat Form:* +7 to hit, reach 5 ft., one target. *Hit:* *Bear Form:* 4 (1d8) piercing damage, *Cat Form:* 5 (1d6 + 2) piercing damage.
 >
 > ***Renewal (Recharges after Short or Long Rest).*** The archdruid can choose any creature within 30 feet of it (including itself). The target  regains 41 (8d8 + 5) hit points.
 >
@@ -952,7 +952,7 @@ ___
 >
 > ***Cunning Action.*** On each of its turns, the infiltrator can use a bonus action to take the Dash, Disengage, or Hide action. 
 >
-> ***Sneak Attack (1/Turn).*** The infiltrator deals an extra 7 (2d6) damage when it hit s a target with a weapon attack and has advantage on the attack roll , or when the target is within 5 feet of an ally of the infiltrator that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
+> ***Sneak Attack (1/Turn).*** The infiltrator deals an extra 7 (2d6) damage when it hit s a target with a weapon attack and has advantage on the attack roll , or when the target is within 5 feet of an ally of the infiltrator that isn't incap&shy;acitated and the infiltrator doesn't have disadvantage on the attack roll.
 >
 > ***Shadowstep (1/Day).*** The infiltrator can use a bonus action to teleport up to 30 feet to an unoccupied space within 5 feet of
 another creature that it can see. If the infiltrator hits the targeted creature with an attack, on the same turn, it is surrounded by entangling shadows and its movement speed is halved until the start of your next turn.
@@ -1096,7 +1096,7 @@ ___
 >
 > ***Undead Thralls.*** When the necromancer casts *animate dead*, it can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate. Undead created by the necromancer have an additional 6 hp and a +3 to their weapon damage rolls.
 >
-> ***Spellcasting.*** The necromancer is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +5 to hit with spell attacks). The mage has following warlock and priest spells prepared:
+> ***Spellcasting.*** The necromancer is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +5 to hit with spell attacks). The necromancer has following warlock and priest spells prepared:
 >
 > Cantrips (at will): *blade ward*, *chill touch*, ✦ *shadow <br/>   bolt*
 > <br/> 1st level (4 slots): *cause fear* ^XGE^, ✦ *dark void*, *false <br/>   life*, *ray of sickness*
@@ -1210,7 +1210,7 @@ ___
 > - **Languages** any one language (usually Common)
 > - **Challenge** 3 (700 XP)
 > ___
-> ***Careful Aim (3/Day).***  As a bonus action, the ranger can add 5 (1d10) to its next attack or damage roll with a longbow.
+> ***Careful Aim (3/Day).***  As a bonus action, the ranger can add 5 (1d10) to its next attack or damage roll with a ranged weapon.
 >
 > ### Actions
 >
