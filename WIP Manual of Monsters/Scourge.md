@@ -742,7 +742,7 @@ ___
 > - **Challenge** 14 (11,500 XP) <!-- Proficiency Bonus +5 -->
 > ___
 >
-> ***Aloof Nature*** The lich always hovers 5 feet above any surface below it. It only thouches the ground if it chooses to and it isn't impeded by terrain features. Additionally the lich chills the area sorroundings it causing any surface to slowly freeze over.
+> ***Innate Levitation*** The lich hovers above any surface but doesn't fly. It isn't affected by difficult terrain and can move over liquids turning them solid along its path. 
 >
 > ***Ice Shield.*** The lich has a magical ward that has 48 (half its hp) hit points. Whenever the lich takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, the lich takes any remaining damage. When the lich casts spell that deals cold damage of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. Additionally a creature that touches the ice shield takes 11 (2d10) cold damage.
 >
