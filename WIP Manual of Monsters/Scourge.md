@@ -810,7 +810,7 @@ ___
 \pagebreakNum
 
 ___
-> ## Plague-dog <!-- https://wc5e-cr-calculator.frogvall.com/?1;13;136;10;17;53;0;53;21;53;21;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
+> ## Plague-dog <!-- https://wc5e-cr-calculator.frogvall.com/?1;13;105;10;17;53;0;53;21;53;21;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
 > *Huge construct (undead), neutral evil*
 > ___
 > - **Armor Class** 13 (natural armor)
