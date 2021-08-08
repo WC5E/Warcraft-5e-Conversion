@@ -350,7 +350,7 @@ ___
 > - **Challenge** 16 (15,000 XP) <!-- Proficiency Bonus +5 -->
 > ___
 >	
-> ***Cursed air.*** Living creatures within 10 feet of the death knight is unable to regain hit points.
+> ***Cursed air.*** Any creature that isn't undead or a construct within 10 feet of the death knight is unable to regain hit points.
 >
 > ***Magic Resistance.*** The death knight has advantage on saving throws against spells and other magical effects.
 >
@@ -361,14 +361,14 @@ ___
 >
 > ***Longsword.*** *Melee Weapon Attack*: +10 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 18 (4d8) necrotic damage.
 >
-> ***Death Coil.*** The death knight fires a blast of unholy energy at a living or undead creature. A living creature has to make a DC 17 Constitution saving throw or take 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one. An undead creature don't get to save, but instead of taking damage it restores 35 (10d6) hit points.
+> ***Death Coil.*** The death knight fires a blast of unholy energy at a living or undead creature within 120 ft. A living creature has to make a DC 17 Constitution saving throw or take 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one. An undead creature don't get to save, but instead of taking damage it restores 35 (10d6) hit points.
 >
 > ***Intimidating Shout. (1/day)*** The death knight lets out a horrifying cry and all creatures withing 30 ft. have to make a DC 17 wisdom saving throw or be paralyzed as it can do nothing else but cowering in fear. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
-> ***Raise Dead (recharge 5-6).*** The death knight animates a non-undead, non-construct corpse within 60 ft. A bone golem appears in the space of the corpse and the corpse is destroyed. The bone golem then rolls for initiative acting on its turn as normal.
+> ***Raise Dead (recharge 5-6).*** The death knight animates a non-undead, non-construct, medium or larger corpse within 60 ft. A bone golem appears in the space of the corpse and the corpse is destroyed. The bone golem then rolls for initiative acting on its turn as normal.
 >
 > ### Reactions
-> ***Hysteria.*** When an undead creature makes an attack roll, the death knight can utter maddening words that deal 7 (2d6) psychic damage to the creature and give it advantage on all attack rolls made until the end of its turn.
+> ***Hysteria.*** When an undead creature the deathknight can see makes an attack roll, the death knight can utter maddening words to it. The creature takes 7 (2d6) psychic damage and has advantage on all attack rolls it makes until the end of its turn.
 
 </div>
 
@@ -437,12 +437,16 @@ ___
 > - **Challenge** 3 (700 XP) <!-- Proficiency Bonus +2 -->
 > ___
 >
-> ***Confer Resistance.*** The deathcharger can grant resistance to necrotic damage to anyone riding it.
+> ***Icy Hooves.*** The deathcharger freezes the ground where it touches it, allowing it to walk over any liquid surfaces.
 >
 > ***Trampling Charge.*** If the deathcharger moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the deathcharger can make another attack with its hooves against it as a bonus action.
 >
 > ### Actions 
 > ***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) necrotic damage.
+>
+> ***Wraith Walk.*** The Deathcharger and its rider magically enter the Ethereal Plane from the Material Plane, or vice versa.
+
+<!-- > Greater Steed Variant: Deathknights can summon a deathcharger via the ***find greater steed*** spell. When a deathcharger is summoned through the spell it loses the extra attack from ***trampleing charge*** when a target is prone, also its ***wraith walk*** ability can only be used 3 times per long rest and only lasts until the start of its next turn. -->
 
 A true Scourge invasion is headed by the iconic sight of a knight sat atop a skeletal horse, decked in armour and finery, mutated through dark magic to sport vicious horns and cruel, eyeless sockets. Expected to be as dangerous as they are unfalteringly obedient, these dread horses are an eternal symbol of the Scourge’s military might.
 
@@ -706,11 +710,9 @@ ___
 >
 > ***Slam.*** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) bludgeoning damage.
 >
-> **one of following or maybe both? (kinda prefer the first one but i see why the second one is preferable) (calculator assumes both because the multiattack does equal damage to the recharge)**
->
 > ***Vile Gas.*** The plague eruptor expels a poisonous cloud in 10-feet radius around it. Each creature in the area must make a DC 15 Constitution saving throw. On a failed save, a creature takes 12 (2d8+3) poison damage. On a successful save, the creature takes half as much damage.
 >
-> ***Vile Gas Eruption (Recharge 6).*** One of the plague eruptors pustules explodes into a cloud of poison that covers a 15-foot cube. ~~The plague eruptor takes 7 (2d6) bludgeoning damage (this damage can't be reduced in any way).~~ Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+> ***Vile Gas Eruption (Recharge 6).*** One of the plague eruptors pustules explodes into a cloud of poison that covers a 15-foot cube. Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 \pagebreakNum
 
@@ -740,7 +742,7 @@ ___
 > - **Challenge** 14 (11,500 XP) <!-- Proficiency Bonus +5 -->
 > ___
 >
-> ***Aloof Nature*** The lich always hovers 5 feet above any surface below it. It only thouches the ground if it chooses to and it isn't impeded by terrain features. Addinitally liquids below the lich start to cool down causeing them to turn solid, solid surfaces start to grow rime instead.
+> ***Innate Levitation*** The lich hovers above any surface but doesn't fly. It isn't affected by difficult terrain and can move over liquids turning them solid along its path. 
 >
 > ***Ice Shield.*** The lich has a magical ward that has 48 (half its hp) hit points. Whenever the lich takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, the lich takes any remaining damage. When the lich casts spell that deals cold damage of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. Additionally a creature that touches the ice shield takes 11 (2d10) cold damage.
 >
