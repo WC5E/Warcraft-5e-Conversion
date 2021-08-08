@@ -811,37 +811,36 @@ ___
 
 ___
 > ## Plague-dog <!-- https://wc5e-cr-calculator.frogvall.com/?1;13;136;10;17;53;0;53;21;53;21;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
-> *Huge undead (construct), neutral evil*
+> *Huge construct (undead), neutral evil*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 136 (13d12 + 52)
+> - **Hit Points** 105 (10d12 + 40)
 > - **Speed** 50 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|25 (+3)|10 (+2)|19 (+2)|2 (-4)|12 (+1)|9 (-1)|
+>|25 (+7)|10 (+0)|19 (+4)|2 (-4)|12 (+1)|9 (-1)|
 >___
-> - **Saving Throws** 
 > - **Skills** Perception +4
-> - **Resistances** 
+> - **Resistances** bludgeoning, piercing, and slashing from non magical attacks
 > - **Damage Immunities** poison
-> - **Condition Immunities** charmed, exhaustion, frightened, poisoned
+> - **Condition Immunities** exhaustion, frightened, petrified, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 14
 > - **Languages** understands the languages of its creator but can't speak
 > - **Challenge** 8 (3,900 XP) <!-- Proficiency Bonus +3 -->
 > ___
 > 
 > ***Deadly Plague.*** Poison damage that the plague-dog deals ignores resistance and immunity to poison damage. It can inflict the poisoned condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the plague of undeath.
+>
+> ***Immutable Form.*** The abomination is immune to any spell or effect that would alter its form.
 > 
 > ### Actions
 > ***Multiattack.*** The plague-dog makes two attacks: one bite or chomp and one claw attack.
 >
-> ***Bite.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20 (2d12 + 7) piercing and 13 (2d12) poison damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the plague-dog can't bite another target.
+> ***Bite.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20 (2d12 + 7) piercing and 13 (2d12) poison damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Dexterity saving throw or be swallowed ny the plague-dog. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the worm, and takes 21 (6d6) poison damage at the start of each of the plague dog's turns. A plague dog can have only one creature swallowed at a time.
+> If the plague dog takes 30 damage or more on a single turn from the swallowed creature, the plague-dog must succeed on a DC 14 Constitution saving throw or the creature successfully cuts its way through the dog and falls prone in a space within 5 feet of the plague-dog. If the plague-dog dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
 >
 > ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 20 (3d8 + 7) slashing damage.
->
-> ***Chomp.*** The plague-dog makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the plague-dog, and it takes 21 (6d6) poison damage at the start of each of the plague dog's turns. A plague dog can have only one creature swallowed at a time.
-> If the plague dog takes 30 damage or more on a single turn from the swallowed creature, the plague-dog must succeed on a DC 14 Constitution saving throw or the creature successfully cuts its way through the dog and falls prone in a space within 5 feet of the plague-dog. If the plague-dog dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
 
 
 
