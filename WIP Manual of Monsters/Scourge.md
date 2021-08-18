@@ -842,203 +842,234 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 20 (3d8 + 7) slashing damage.
 
+## Frost Wyrms
 
+Creatures killed by a frostbrood dragon's cold become a frozen statue until they thaw.
 
+Ice made by frost wyrms is magical and will not melt without magical assistance.
 
 ___
-> ## Frostbrood Whelp <!-- copy of blue dragons for now -->
-> *Small undead (dragon), neutral evil*
+> ## Frostbrood Whelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;31;4;13;36;8;11;8;11;8;0;0;0;0;0;0;;;;1;4;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
+> *Small undead, lawful evil*
 > ___
 > - **Armor Class** 15 (natural armor)
 > - **Hit Points** 31 (7d6 + 7)
 > - **Speed** 30 ft., fly 60 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|14 (+2)|11 (+0)|13 (+1)|14 (+2)|11 (+0)|14 (+2)|
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |14 (+2)|11 (+0)|13 (+1)|14 (+2)|11 (+0)|14 (+2)|
 >___
 > - **Saving Throws** Dex +2, Con +3, Int +4, Cha +4
 > - **Skills** Arcana +6, Perception +2
-> - **Damage Immunities** force
-> - **Senses** blindsight 10ft., darkvision 60ft., passive Perception 12
+> - **Damage Resistances** necrotic
+> - **Damage Immunities** cold, force, poison
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+> - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 12
 > - **Languages** Common, Draconic
-> - **Challenge** 2 (450 XP)
+> - **Challenge** 3 (700 XP)                   **Proficiency Bonus** +2
 > ___
+> ***Frost Aura.*** A creature who ends their turn within 5 feet of the whelp or strikes it with a melee attack takes 4 (1d8) cold damage.
 >
-> ***Sense Vitality.*** The frost dragon can magically sense the presence of living creatures up to 90 feet away that aren't constructs. It knows the general direction they're in but not their exact locations.
+> ***Ice Walk.*** The whelp can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 >
 > ### Actions
-> 
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
-*Hit:* 7 (1d10 + 2) piercing damage plus 3 (1d6) cold damage.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage plus 4 (1d8) cold damage.
 >
-> ***Frost Breath (Recharge 5-6).*** The dragonwhelp exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC l3 Dexterity saving throw, taking 7 (2d6) cold damage plus 3 (1d6) necrotic damage on a failed save, or half as much damage on a successful one.
+> ***Frost Breath (Recharge 5-6).*** The whelp exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute. 
 
+\columnbreak
 ___
-> ## Frostbrood Drake <!-- copy of blue dragons for now -->
-> *Large undead (dragon), neutral evil*
-> __
-> - **Armor Class** 16 (natural armor)
-> - **Hit Points** 153 (18d10 + 54)
-> - **Speed** 40 ft., fly 80 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|17 (+3)|10 (+0)|17 (+3)|16 (+3)|12 (+1)|16 (+3)|
->___
-> - **Saving Throws** Dex +3, Con +6, Int +6, Cha +6
-> - **Skills** Arcana +9, Perception +4
-> - **Damage Immunities** force
-> - **Senses** blindsight 10ft., darkvision 60ft., passive Perception 14
-> - **Languages** Common, Draconic
-> - **Challenge** 7 (2,900 XP)
+> ## Frostbrood Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;127;8;16;62;36;35;36;35;18;0;0;0;0;0;0;;;;1;4;;;;;;;;;;1;;;;;;;;10;;;;;;1;3;3;3;9;Flurry;Blizzard -->
+> *Large dragon, lawful evil*
 > ___
-> ***Sense Vitality.*** The frost dragon can magically sense the presence of living creatures up to 900 feet away that aren't constructs. It knows the general direction they're in but not their exact locations.
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 127 (15d10 + 45)
+> - **Speed** 40 ft., fly 80 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |18 (+4)|11 (+0)|17 (+3)|18 (+4)|13 (+1)|16 (+3)|
+> ___
+> - **Saving Throws** Dex +4, Con +7, Int +8, Cha +7
+> - **Skills** Arcana +11, Perception +5
+> - **Damage Resistances** necrotic
+> - **Damage Immunities** cold, force, poison
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+> - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 15
+> - **Languages** Common, Draconic
+> - **Challenge** 9 (5,000 XP)                 **Proficiency Bonus** +4
+> ___
+> ***Frost Aura.*** A creature who ends their turn within 10 feet of the drake or strikes it with a melee attack takes 9 (2d8) cold damage.
 >
-> ***Innate Spellcasting.*** The drake's innate spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+> ***Ice Walk.*** The drake can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+>
+> ***Innate Spellcasting.*** The drake's innate spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 > 
-> At will: ✦*flurry*, *minor illusion*, *shape water* ^XGE^
-> <br/> 3/day each:  *armor of agathys*,  *fog cloud*, *invisibility*, <br/>      *magic missile*
-> <br/> 1/day each: ✦*amplify or dampen magic*, *dispel magic*
->
-> <br/><br/>
+> At will: ✦ *diabolism*, ✦ *flurry*, *shape water* ^XGE^
+> <br/> 3/day each: ✦ *blizzard*, *dispel magic*, *fog cloud*, <br/>     *ray of enfeeblement*, *sleet storm*
 >
 > ### Actions
 > ***Multiattack.*** The drake makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 10ft., one target. *Hit:* 14 (2d10 + 3) piercing damage plus 7 (2d6) cold damage.
+> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 15 (2d10 + 4) piercing damage plus 9 (2d8) cold damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
 >
-> ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
->
-> **Frost Breath.** The drake exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 24 (7d6) cold damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. In addition, any creature damaged by the breath must make a DC 16 Constituton saving throw or xxx.
-> **2nd breath.** The drake exhales xxx.
+> ***Frost Breath (Recharge 5-6).*** The drake exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 31 (7d8) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute. If they fail their save by 5 or more, they are also entombed in ice.
+> <br/>     While entombed, they have total cover and are restrained and incapacitated. At the beginning of their turn, they take 9 (2d8) cold damage and can attempt a DC 16 Strength check, breaking free from the ice on a success. The ice can be attacked and destroyed (AC 10; hp equal to cold damage taken by the breath weapon; vulnerability to fire damage; immunity to cold, poison, and psychic damage).
+
+<div class="pageLetter">D</div>
+<div class='footnote'>DRAGONS | Blue Dragonflight</div>
+
+\pagebreakNum
 
 ___
-> ## Frostbrood Dragon <!-- copy of blue dragons for now -->
-> *Huge undead (dragon), neutral evil*
-> __
-> - **Armor Class** 19 (natural armor)
-> - **Hit Points** 230 (20d12 + 100)
-> - **Speed** 40 ft., climb 40ft., fly 80 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|21 (+5)|10 (+0)|20 (+5)|19 (+4)|12 (+1)|19 (+4)|
->___
-> - **Saving Throws** Dex +5, Con +11, Int +9, Cha +9
-> - **Skills** Arcana +14, Perception +6
-> - **Damage Immunities** force
-> - **Senses** blindsight 10ft., darkvision 60ft., passive Perception 16
-> - **Languages** Common, Draconic
-> - **Challenge** 14 (11,500 XP)
+___
+> ## Frostbrood Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?3;17;172;12;19;72;78;43;78;43;52;0;0;0;0;0;0;;;;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;;1;3;3;3;16;Flurry;Blizzard -->
+> *Huge dragon, lawful evil*
 > ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 172 (15d12 + 75)
+> - **Speed** 40 ft., fly 80 ft.
+>___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |22 (+6)|11 (+0)|21 (+5)|22 (+6)|15 (+2)|18 (+4)|
+>___
+> - **Saving Throws** Dex +6, Con +11, Int +12, Cha +10
+> - **Skills** Arcana +17, Perception +8
+> - **Damage Resistances** necrotic
+> - **Damage Immunities** cold, force, poison
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+> - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 18
+> - **Languages** Common, Draconic
+> - **Challenge** 17 (18,000 XP)              **Proficiency Bonus** +6
+> ___
+> ***Frost Aura.*** A creature who ends their turn within 15 feet of the dragon or strikes it with a melee attack takes 13 (3d8) cold damage.
 >
+> ***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+>
+> ***Innate Spellcasting.*** The dragon's innate spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+> 
+> At will: ✦ *diabolism*, ✦ *flurry*, *shape water* ^XGE^, <br/>     *sleet storm*
+> <br/> 3/day each: ✦ *blizzard*, *dispel magic*, *fog cloud*, <br/>     *ray of enfeeblement*
+> <br/> 1/day each: *shadow of moil* ^XGE^, *wall of ice*
+> 
 > ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
->
-> ***other feature.*** 
-> 
-> ***Sense Vitality.*** The frost dragon can magically sense the presence of living creatures up to 90 feet away that aren't constructs. It knows the general direction they're in but not their exact locations.
->
-> ***Innate Spellcasting.*** The dragon's innate spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
-> 
-> At will: *detect thoughts*, ✦*flurry*, *minor illusion*, *shape  <br/>      water* ^XGE^ 
-> <br/> 3/day each: *armor of agathys*, *dispel magic*, *fog cloud*, <br/>     *invisibility*,  *magic missile*
-> <br/> 1/day each: ✦*amplify or dampen magic*, ✦*spellsteal*, <br/>     *wall of force*
-> 
 >
 > ### Actions
 > ***Multiattack.*** The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10ft., one target. *Hit:* 16 (2d10 + 5) piercing damage plus 7 (2d6) cold damage.
+> ***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage plus 13 (3d8) cold damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
 >
-> ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 15ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
+> ***Tail Sweep.*** *Melee Weapon Attack:* +12 to hit, reach <br/> 15 ft., all targets in reach. *Hit:* 15 (2d8 + 6) bludgeoning damage.
 >
 > ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >
-> ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
->
-> **Frost Breath.** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 31 (9d6) cold damage plus 17 (5d6) necrotic damage on a failed save, or half as much damage on a successful one. 
-> In addition, any creature damaged by the breath must make a DC 19 Constitutuin saving throw or xxx.
-> **2nd breath.** The dragon exhales xxx.
+> ***Frost Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 36 (8d8) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute. If they fail their save by 5 or more, they are also entombed in ice.
+> <br/>     While entombed, they have total cover and are restrained and incapacitated. At the beginning of their turn, they take 13 (3d8) cold damage and can attempt a DC 18 Strength check, breaking free from the ice on a success. The ice can be attacked and destroyed (AC 10; hp equal to cold damage taken by the breath weapon; vulnerability to fire damage; immunity to cold, poison, and psychic damage).
 >
 > ### Legendary Actions
 > The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >
-> **Detect.** The dragon makes a Wisdom (Perception) 
-<br/>    check.
-> <br/> **Tail Attack.** The dragon makes a tail attack.
+> **Icy Grip.** Each creature within 40 feet of the dragon 
+<br/>    must make a DC 20 Strength saving throw or be 
+<br/>    pulled to the closest unoccupied space next to the 
+<br/>    dragon.
+> <br/> **Sleet Storm.** The dragon casts *sleet storm*.
+> <br/> **Ice Tomb (Costs 2 Actions).** A creature the dragon can 
+<br/>    see within 60 feet must make a DC 20 Dexterity 
+<br/>    saving throw or become entombed in ice, as if they 
+<br/>    were affected by Frost Breath (30 hit points). On a 
+<br/>    successful save, they instead have their speed halved 
+<br/>    and cannot take reactions until the dragon's next 
+<br/>    turn.
 > <br/> **Wing Attack (Costs 2 Actions).** The dragon beats its 
 <br/>    wings. Each creature within 10 feet of the dragon 
-<br/>    must succeed on a DC 21 Dexterity saving throw or 
-<br/>    take 12 (2d6 + 5) bludgeoning damage and be 
+<br/>    must succeed on a DC 20 Dexterity saving throw or 
+<br/>    take 13 (2d6 + 6) bludgeoning damage and be 
 <br/>    knocked prone. The dragon can then fly up to half its 
 <br/>    flying speed.
 
+<div class="pageLetter">D</div>
+<div class='footnote'>DRAGONS | Blue Dragonflight</div>
+
+\pagebreakNum
+
 ___
-> ## Frostbrood Wyrm <!-- copy of blue dragons for now -->
-> *Gargantuan undead (dragon), neutral evil*
-> __
-> - **Armor Class** 20 (natural armor)
-> - **Hit Points** 330 (20d20 + 120)
-> - **Speed** 40 ft., climb 40ft., fly 80 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|21 (+5)|13 (+1)|22 (+6)|21 (+5)|16 (+3)|19 (+4)|
->___
-> - **Saving Throws** Dex +8, Con +13, Int +12, Cha +11
-> - **Skills** Arcana +19, Perception +10
-> - **Damage Immunities** force
-> - **Senses** blindsight 10ft., darkvision 60ft., passive Perception 20
-> - **Languages** Common, Draconic
-> - **Challenge** 21 (33,000 XP)
+___
+> ## Frostbrood Wyrm <!-- https://wc5e-cr-calculator.frogvall.com/?3;18;350;15;22;108;102;70;102;52;66;0;0;0;0;0;0;;;;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;;1;8;3;3;16;Flurry;Blizzard;Ice%20Nova -->
+> *Gargantuan dragon, lawful neutral*
 > ___
+> - **Armor Class** 18 (natural armor)
+> - **Hit Points** 350 (20d20 + 140)
+> - **Speed** 40 ft., fly 80 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |26 (+8)|11 (+0)|25 (+7)|26 (+8)|17 (+3)|20 (+5)|
+> ___
+> - **Saving Throws** Dex +7, Con +14, Int +15, Cha +12
+> - **Skills** Arcana +22, Perception +10
+> - **Damage Resistances** necrotic
+> - **Damage Immunities** cold, force, poison
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+> - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 20
+> - **Languages** Common, Draconic
+> - **Challenge** 23 (50,000 XP)              **Proficiency Bonus** +7
+> ___
+> ***Frost Aura.*** A creature who ends their turn within 20 feet of the wyrm or strikes it with a melee attack takes 18 (4d8) cold damage.
 >
+> ***Ice Walk.*** The wyrm can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+>
+> ***Innate Spellcasting.*** The wyrm's innate spellcasting ability is Intelligence (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+> 
+> At will: ✦ *diabolism*, ✦ *flurry*, *shape water* ^XGE^, <br/>     *sleet storm*
+> <br/> 3/day each: ✦ *blizzard*, *dispel magic*, *fog cloud*, <br/>     *ray of enfeeblement*, *wall of ice*
+> <br/> 1/day each: *antimagic field*, *shadow of moil* ^XGE^, <br/>     ✦ *ice nova*
+> 
 > ***Legendary Resistance (3/Day).*** If the wyrm fails a saving throw, it can choose to succeed instead.
->
-> ***other feature.*** 
->
-> ***Sense Vitality.*** The frost dragon can magically sense the presence of living creatures up to 90 feet away that aren't constructs. It knows the general direction they're in but not their exact locations.
->
-> ***Innate Spellcasting.*** The wyrm's innate spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
-> 
-> At will: *armor of agathys*, *dispel magic*, *detect <br/>      thoughts*, ✦ *flurry*, *invisibility*, *magic missile*, *minor <br/>     illusion*, *shape water* ^XGE^
-> <br/> 3/day each: ✦*amplify or dampen magic*, ✦*spellsteal*, <br/>     *wall of force*
-> <br/> 1/day each: *antimagic field*, *arcane gate*
-> 
 >
 > ### Actions
 > ***Multiattack.*** The wyrm can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10ft., one target. *Hit:* 27 (4d10 + 5) piercing damage plus 14 (4d6) cold damage.
+> ***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10 + 8) piercing damage plus 18 (4d8) cold damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 19 (4d6 + 5) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6 + 8) slashing damage.
 >
-> ***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15ft., one target. *Hit:* 23 (4d8 + 5) bludgeoning damage.
+> ***Tail Sweep.*** *Melee Weapon Attack:* +15 to hit, reach <br/> 20 ft., all targets in reach. *Hit:* 17 (2d8 + 8) bludgeoning damage.
 >
-> ***Frightful Presence.*** Each creature of the wyrm's choice that is within 120 feet of the wyrm and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the wyrm's Frightful Presence for the next 24 hours.
+> ***Frightful Presence.*** Each creature of the wyrm's choice that is within 120 feet of the wyrm and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the wyrm's Frightful Presence for the next 24 hours.
 >
-> ***Breath Weapons (Recharge 5-6).*** The wyrm uses one of the following breath weapons.
->
-> **Frost Breath.** The wyrm exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 52 (15d6) cold damage plus 24 (7d6) necrotic damage on a failed save, or half as much damage on a successful one.
-> In addition, any creature damaged by the breath must make a DC 21 Constitution saving throw or xxx.
-> **2nd breath.** The wyrm exhales xxx.
+> ***Frost Breath (Recharge 5-6).*** The wyrm exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Dexterity saving throw, taking 52 (12d8) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute. If they fail their save by 5 or more, they are also entombed in ice.
+> <br/>     While entombed, they have total cover and are restrained and incapacitated. At the beginning of their turn, they take 18 (4d8) cold damage and can attempt a DC 22 Strength check, breaking free from the ice on a success. The ice can be attacked and destroyed (AC 10; hp equal to cold damage taken by the breath weapon; vulnerability to fire damage; immunity to cold, poison, and psychic damage).
 >
 > ### Legendary Actions
 > The wyrm can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The wyrm regains spent legendary actions at the start of its turn.
 >
-> **Detect.** The wyrm makes a Wisdom (Perception) check.
-> <br/> **Tail Attack.** The wyrm makes a tail attack .
+> **Icy Grip.** Each creature within 60 feet of the wyrm 
+<br/>    must make a DC 23 Strength saving throw or be 
+<br/>    pulled to the closest unoccupied space next to the 
+<br/>    dragon.
+> <br/> **Sleet Storm.** The wyrm casts *sleet storm*.
+> <br/> **Ice Tomb (Costs 2 Actions).** A creature the wyrm can 
+<br/>    see within 60 feet must make a DC 23 Dexterity 
+<br/>    saving throw or become entombed in ice, as if they 
+<br/>    were affected by Frost Breath (50 hit points). On a 
+<br/>    successful save, they instead have their speed halved 
+<br/>    and cannot take reactions until the dragon's next 
+<br/>    turn.
 > <br/> **Wing Attack (Costs 2 Actions).** The wyrm beats its 
-<br/>    wings. Each creature within 10 feet of the wyrm 
-<br/>    must succeed on a DC 21 Dexterity saving throw or 
-<br/>    take 19 (4d6 + 5) bludgeoning damage and be 
+<br/>    wings. Each creature within 15 feet of the wyrm 
+<br/>    must succeed on a DC 23 Dexterity saving throw or 
+<br/>    take 15 (2d6 + 8) bludgeoning damage and be 
 <br/>    knocked prone. The wyrm can then fly up to half its 
 <br/>    flying speed.
+> <br/> **Breath Weapon (Costs 3 Actions).** The wyrm uses its 
+<br/>    breath weapon, if it is available.
 
 <!-- 
 Bone Golem		5	Medium
