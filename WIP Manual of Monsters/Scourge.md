@@ -216,7 +216,7 @@ ___
 > - **Condition Immunities** charmed, exhaustion, frightened, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 9
 > - **Languages** understands the languages of its creator but can't speak
-> - **Challenge** 5 (1,800 XP)
+> - **Challenge** 5 (1,800 XP) <!-- Proficiency Bonus +3 -->
 > ___
 >
 > ***Immutable Form.*** The bone golem is immune to any spell or effect that would alter its form.
@@ -273,7 +273,7 @@ ___
 > - **Condition Immunities** charmed, exhaustion, frightened, poisoned
 > - **Senses** darkvision 90 ft., passive Perception 22
 > - **Languages** the languages of its creator
-> - **Challenge** 18 (20,000 XP)
+> - **Challenge** 18 (20,000 XP) <!-- Proficiency Bonus +6 -->
 > ___
 >	
 > ***Bone Storm.*** At the start of each of the bone wraith's turns, each creature within 10 feet of it takes 7 (2d6) slashing and 7 (2d6) necrotic damage.
@@ -724,7 +724,7 @@ ___
 >
 > ***Leaking Pustules.*** A creature that touches the plague eruptor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) poison damage.
 >
-> ***Deadly Plague.*** Poison damage that the plaguebear deals ignores resistance and immunity to poison damage. It can inflict the poisoned condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the plague of undeath.
+> ***Deadly Plague.*** Poison damage that the plague eruptor deals ignores resistance and immunity to poison damage. It can inflict the poisoned condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the plague of undeath.
 >
 > ***Plague Eruption.*** When the plague eruptor dies, it explodes, and each creature within 15 feet of it must make a DC 16 Constitution saving throw, taking 35 (10d6) poison damage and become infected with the plague of undeath on a failed save. A successful save results in half damage and no other effect. A humanoid creature killed by this damage rises as a zombie after 1 minute.
 >
@@ -793,7 +793,7 @@ ___
 > ### Actions 
 > ***Multiattack.*** The lich makes one attack with its claws and one with its chains.
 >
-> ***Claw.*** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing and 2d8 (9) damage.
+> ***Claw.*** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing and 2d8 (9) cold damage.
 >
 > ***Undying Chains.*** Melee Spell Attack. +10 to hit, reach 15 ft., one creature. Hit: 13 (3d8) cold damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained and has disadvantage on all saving throws, and the lich can't chain another target.
 >
@@ -810,35 +810,266 @@ ___
 \pagebreakNum
 
 ___
-> ## Plague-dog
+> ## Plague-dog <!-- https://wc5e-cr-calculator.frogvall.com/?1;13;105;10;17;53;0;53;21;53;21;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
 > *Huge construct (undead), neutral evil*
-> __
-> - Not yet started on this stat block, but added this placeholder for the sake of Nemzal
+> ___
+> - **Armor Class** 13 (natural armor)
+> - **Hit Points** 105 (10d12 + 40)
+> - **Speed** 50 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|25 (+7)|10 (+0)|19 (+4)|2 (-4)|12 (+1)|9 (-1)|
+>___
+> - **Skills** Perception +4
+> - **Resistances** bludgeoning, piercing, and slashing from non magical attacks
+> - **Damage Immunities** poison
+> - **Condition Immunities** exhaustion, frightened, petrified, poisoned
+> - **Senses** darkvision 60 ft., passive Perception 14
+> - **Languages** understands the languages of its creator but can't speak
+> - **Challenge** 8 (3,900 XP) <!-- Proficiency Bonus +3 -->
+> ___
+> 
+> ***Deadly Plague.*** Poison damage that the plague-dog deals ignores resistance and immunity to poison damage. It can inflict the poisoned condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the plague of undeath.
+>
+> ***Immutable Form.*** The abomination is immune to any spell or effect that would alter its form.
+> 
+> ### Actions
+> ***Multiattack.*** The plague-dog makes two attacks: one bite or chomp and one claw attack.
+>
+> ***Bite.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20 (2d12 + 7) piercing and 13 (2d12) poison damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Dexterity saving throw or be swallowed ny the plague-dog. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the worm, and takes 21 (6d6) poison damage at the start of each of the plague dog's turns. A plague dog can have only one creature swallowed at a time.
+> If the plague dog takes 30 damage or more on a single turn from the swallowed creature, the plague-dog must succeed on a DC 14 Constitution saving throw or the creature successfully cuts its way through the dog and falls prone in a space within 5 feet of the plague-dog. If the plague-dog dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
+>
+> ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 20 (3d8 + 7) slashing damage.
+
+## Frost Wyrms
+
+Creatures killed by a frostbrood dragon's cold become a frozen statue until they thaw.
+
+Ice made by frost wyrms is magical and will not melt without magical assistance.
 
 ___
-> ## Frost Wyrm (Whelp)
-> *Small undead, neutral evil*
-> __
-> - Not yet started on these stat blocks, but added this placeholder for the sake of Nemzal
+> ## Frostbrood Whelp <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;31;4;13;36;8;11;8;11;8;0;0;0;0;0;0;;;;1;4;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
+> *Small undead, lawful evil*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 31 (7d6 + 7)
+> - **Speed** 30 ft., fly 60 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |14 (+2)|11 (+0)|13 (+1)|14 (+2)|11 (+0)|14 (+2)|
+>___
+> - **Saving Throws** Dex +2, Con +3, Int +4, Cha +4
+> - **Skills** Arcana +6, Perception +2
+> - **Damage Resistances** necrotic
+> - **Damage Immunities** cold, force, poison
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+> - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 12
+> - **Languages** Common, Draconic
+> - **Challenge** 3 (700 XP)                   **Proficiency Bonus** +2
+> ___
+> ***Frost Aura.*** A creature who ends their turn within 5 feet of the whelp or strikes it with a melee attack takes 4 (1d8) cold damage.
+>
+> ***Ice Walk.*** The whelp can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage plus 4 (1d8) cold damage.
+>
+> ***Frost Breath (Recharge 5-6).*** The whelp exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute. 
+
+\columnbreak
+___
+> ## Frostbrood Drake <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;127;8;16;62;36;35;36;35;18;0;0;0;0;0;0;;;;1;4;;;;;;;;;;1;;;;;;;;10;;;;;;1;3;3;3;9;Flurry;Blizzard -->
+> *Large dragon, lawful evil*
+> ___
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 127 (15d10 + 45)
+> - **Speed** 40 ft., fly 80 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |18 (+4)|11 (+0)|17 (+3)|18 (+4)|13 (+1)|16 (+3)|
+> ___
+> - **Saving Throws** Dex +4, Con +7, Int +8, Cha +7
+> - **Skills** Arcana +11, Perception +5
+> - **Damage Resistances** necrotic
+> - **Damage Immunities** cold, force, poison
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+> - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 15
+> - **Languages** Common, Draconic
+> - **Challenge** 9 (5,000 XP)                 **Proficiency Bonus** +4
+> ___
+> ***Frost Aura.*** A creature who ends their turn within 10 feet of the drake or strikes it with a melee attack takes 9 (2d8) cold damage.
+>
+> ***Ice Walk.*** The drake can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+>
+> ***Innate Spellcasting.*** The drake's innate spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+> 
+> At will: ✦ *diabolism*, ✦ *flurry*, *shape water* ^XGE^
+> <br/> 3/day each: ✦ *blizzard*, *dispel magic*, *fog cloud*, <br/>     *ray of enfeeblement*, *sleet storm*
+>
+> ### Actions
+> ***Multiattack.*** The drake makes two attacks: one with its bite and one with its claws.
+>
+> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 15 (2d10 + 4) piercing damage plus 9 (2d8) cold damage.
+>
+> ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+>
+> ***Frost Breath (Recharge 5-6).*** The drake exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 31 (7d8) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute. If they fail their save by 5 or more, they are also entombed in ice.
+> <br/>     While entombed, they have total cover and are restrained and incapacitated. At the beginning of their turn, they take 9 (2d8) cold damage and can attempt a DC 16 Strength check, breaking free from the ice on a success. The ice can be attacked and destroyed (AC 10; hp equal to cold damage taken by the breath weapon; vulnerability to fire damage; immunity to cold, poison, and psychic damage).
+
+<div class="pageLetter">D</div>
+<div class='footnote'>DRAGONS | Blue Dragonflight</div>
+
+\pagebreakNum
 
 ___
-> ## Frost Wyrm (Drake)
-> *Large undead, neutral evil*
-> __
-> - Not yet started on these stat blocks, but added this placeholder for the sake of Nemzal
+___
+> ## Frostbrood Dragon <!-- https://wc5e-cr-calculator.frogvall.com/?3;17;172;12;19;72;78;43;78;43;52;0;0;0;0;0;0;;;;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;;1;3;3;3;16;Flurry;Blizzard -->
+> *Huge dragon, lawful evil*
+> ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 172 (15d12 + 75)
+> - **Speed** 40 ft., fly 80 ft.
+>___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |22 (+6)|11 (+0)|21 (+5)|22 (+6)|15 (+2)|18 (+4)|
+>___
+> - **Saving Throws** Dex +6, Con +11, Int +12, Cha +10
+> - **Skills** Arcana +17, Perception +8
+> - **Damage Resistances** necrotic
+> - **Damage Immunities** cold, force, poison
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+> - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 18
+> - **Languages** Common, Draconic
+> - **Challenge** 17 (18,000 XP)              **Proficiency Bonus** +6
+> ___
+> ***Frost Aura.*** A creature who ends their turn within 15 feet of the dragon or strikes it with a melee attack takes 13 (3d8) cold damage.
+>
+> ***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+>
+> ***Innate Spellcasting.*** The dragon's innate spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+> 
+> At will: ✦ *diabolism*, ✦ *flurry*, *shape water* ^XGE^, <br/>     *sleet storm*
+> <br/> 3/day each: ✦ *blizzard*, *dispel magic*, *fog cloud*, <br/>     *ray of enfeeblement*
+> <br/> 1/day each: *shadow of moil* ^XGE^, *wall of ice*
+> 
+> ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+>
+> ### Actions
+> ***Multiattack.*** The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
+>
+> ***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage plus 13 (3d8) cold damage.
+>
+> ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
+>
+> ***Tail Sweep.*** *Melee Weapon Attack:* +12 to hit, reach <br/> 15 ft., all targets in reach. *Hit:* 15 (2d8 + 6) bludgeoning damage.
+>
+> ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+>
+> ***Frost Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 36 (8d8) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute. If they fail their save by 5 or more, they are also entombed in ice.
+> <br/>     While entombed, they have total cover and are restrained and incapacitated. At the beginning of their turn, they take 13 (3d8) cold damage and can attempt a DC 18 Strength check, breaking free from the ice on a success. The ice can be attacked and destroyed (AC 10; hp equal to cold damage taken by the breath weapon; vulnerability to fire damage; immunity to cold, poison, and psychic damage).
+>
+> ### Legendary Actions
+> The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+>
+> **Icy Grip.** Each creature within 40 feet of the dragon 
+<br/>    must make a DC 20 Strength saving throw or be 
+<br/>    pulled to the closest unoccupied space next to the 
+<br/>    dragon.
+> <br/> **Sleet Storm.** The dragon casts *sleet storm*.
+> <br/> **Ice Tomb (Costs 2 Actions).** A creature the dragon can 
+<br/>    see within 60 feet must make a DC 20 Dexterity 
+<br/>    saving throw or become entombed in ice, as if they 
+<br/>    were affected by Frost Breath (30 hit points). On a 
+<br/>    successful save, they instead have their speed halved 
+<br/>    and cannot take reactions until the dragon's next 
+<br/>    turn.
+> <br/> **Wing Attack (Costs 2 Actions).** The dragon beats its 
+<br/>    wings. Each creature within 10 feet of the dragon 
+<br/>    must succeed on a DC 20 Dexterity saving throw or 
+<br/>    take 13 (2d6 + 6) bludgeoning damage and be 
+<br/>    knocked prone. The dragon can then fly up to half its 
+<br/>    flying speed.
+
+<div class="pageLetter">D</div>
+<div class='footnote'>DRAGONS | Blue Dragonflight</div>
+
+\pagebreakNum
 
 ___
-> ## Frost Wyrm (Dragon)
-> *Huge undead, neutral evil*
-> __
-> - Not yet started on these stat blocks, but added this placeholder for the sake of Nemzal
-
 ___
-> ## Frost Wyrm
-> *Gargantuan undead, neutral evil*
-> __
-> - Not yet started on these stat blocks, but added this placeholder for the sake of Nemzal
-
+> ## Frostbrood Wyrm <!-- https://wc5e-cr-calculator.frogvall.com/?3;18;350;15;22;108;102;70;102;52;66;0;0;0;0;0;0;;;;1;4;;;;;;;1;;1;3;;;;;;;;15;;;;;;1;8;3;3;16;Flurry;Blizzard;Ice%20Nova -->
+> *Gargantuan dragon, lawful neutral*
+> ___
+> - **Armor Class** 18 (natural armor)
+> - **Hit Points** 350 (20d20 + 140)
+> - **Speed** 40 ft., fly 80 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |26 (+8)|11 (+0)|25 (+7)|26 (+8)|17 (+3)|20 (+5)|
+> ___
+> - **Saving Throws** Dex +7, Con +14, Int +15, Cha +12
+> - **Skills** Arcana +22, Perception +10
+> - **Damage Resistances** necrotic
+> - **Damage Immunities** cold, force, poison
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+> - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 20
+> - **Languages** Common, Draconic
+> - **Challenge** 23 (50,000 XP)              **Proficiency Bonus** +7
+> ___
+> ***Frost Aura.*** A creature who ends their turn within 20 feet of the wyrm or strikes it with a melee attack takes 18 (4d8) cold damage.
+>
+> ***Ice Walk.*** The wyrm can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+>
+> ***Innate Spellcasting.*** The wyrm's innate spellcasting ability is Intelligence (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+> 
+> At will: ✦ *diabolism*, ✦ *flurry*, *shape water* ^XGE^, <br/>     *sleet storm*
+> <br/> 3/day each: ✦ *blizzard*, *dispel magic*, *fog cloud*, <br/>     *ray of enfeeblement*, *wall of ice*
+> <br/> 1/day each: *antimagic field*, *shadow of moil* ^XGE^, <br/>     ✦ *ice nova*
+> 
+> ***Legendary Resistance (3/Day).*** If the wyrm fails a saving throw, it can choose to succeed instead.
+>
+> ### Actions
+> ***Multiattack.*** The wyrm can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws.
+>
+> ***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10 + 8) piercing damage plus 18 (4d8) cold damage.
+>
+> ***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6 + 8) slashing damage.
+>
+> ***Tail Sweep.*** *Melee Weapon Attack:* +15 to hit, reach <br/> 20 ft., all targets in reach. *Hit:* 17 (2d8 + 8) bludgeoning damage.
+>
+> ***Frightful Presence.*** Each creature of the wyrm's choice that is within 120 feet of the wyrm and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the wyrm's Frightful Presence for the next 24 hours.
+>
+> ***Frost Breath (Recharge 5-6).*** The wyrm exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Dexterity saving throw, taking 52 (12d8) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute. If they fail their save by 5 or more, they are also entombed in ice.
+> <br/>     While entombed, they have total cover and are restrained and incapacitated. At the beginning of their turn, they take 18 (4d8) cold damage and can attempt a DC 22 Strength check, breaking free from the ice on a success. The ice can be attacked and destroyed (AC 10; hp equal to cold damage taken by the breath weapon; vulnerability to fire damage; immunity to cold, poison, and psychic damage).
+>
+> ### Legendary Actions
+> The wyrm can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The wyrm regains spent legendary actions at the start of its turn.
+>
+> **Icy Grip.** Each creature within 60 feet of the wyrm 
+<br/>    must make a DC 23 Strength saving throw or be 
+<br/>    pulled to the closest unoccupied space next to the 
+<br/>    dragon.
+> <br/> **Sleet Storm.** The wyrm casts *sleet storm*.
+> <br/> **Ice Tomb (Costs 2 Actions).** A creature the wyrm can 
+<br/>    see within 60 feet must make a DC 23 Dexterity 
+<br/>    saving throw or become entombed in ice, as if they 
+<br/>    were affected by Frost Breath (50 hit points). On a 
+<br/>    successful save, they instead have their speed halved 
+<br/>    and cannot take reactions until the dragon's next 
+<br/>    turn.
+> <br/> **Wing Attack (Costs 2 Actions).** The wyrm beats its 
+<br/>    wings. Each creature within 15 feet of the wyrm 
+<br/>    must succeed on a DC 23 Dexterity saving throw or 
+<br/>    take 15 (2d6 + 8) bludgeoning damage and be 
+<br/>    knocked prone. The wyrm can then fly up to half its 
+<br/>    flying speed.
+> <br/> **Breath Weapon (Costs 3 Actions).** The wyrm uses its 
+<br/>    breath weapon, if it is available.
 
 <!-- 
 Bone Golem		5	Medium
