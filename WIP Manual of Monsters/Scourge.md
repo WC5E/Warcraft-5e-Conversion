@@ -446,7 +446,7 @@ ___
 >
 > ***Wraith Walk.*** The Deathcharger and its rider magically enter the Ethereal Plane from the Material Plane, or vice versa.
 
-<!-- > Greater Steed Variant: Deathknights can summon a deathcharger via the ***find greater steed*** spell. When a deathcharger is summoned through the spell it loses the extra attack from ***trampleing charge*** when a target is prone, also its ***wraith walk*** ability can only be used 3 times per long rest and only lasts until the start of its next turn. -->
+> Greater Steed Variant: Deathknights can summon a deathcharger via the ***find greater steed*** spell. When a deathcharger is summoned through the spell it loses the extra attack from ***trampleing charge*** when a target is prone, also its ***wraith walk*** ability can only be used 3 times per long rest and only lasts until the start of its next turn.
 
 A true Scourge invasion is headed by the iconic sight of a knight sat atop a skeletal horse, decked in armour and finery, mutated through dark magic to sport vicious horns and cruel, eyeless sockets. Expected to be as dangerous as they are unfalteringly obedient, these dread horses are an eternal symbol of the Scourge’s military might.
 
