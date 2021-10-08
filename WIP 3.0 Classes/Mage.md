@@ -1119,9 +1119,9 @@ ___
 ___
 Three shards of ice streaks out toward one or more creatures within range. Make a ranged spell attack for each shard. You can direct the shards at the same target or at different ones, but they all strike simultaneously. Each shard deals 1d4 cold damage on a hit.
 
-This spell's damage increases by 1d4 per shard when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
-
 \columnbreak
+
+This spell's damage increases by 1d4 per shard when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
 #### Freezing Touch
 *2nd-level evocation*
