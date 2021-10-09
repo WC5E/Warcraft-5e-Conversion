@@ -349,7 +349,7 @@ The talented few that put the work into magical mastery may be recognized as an 
 
 \pagebreakNum
 
-<div style="margin-top:126px"></div>
+<div style="margin-top:168px"></div>
 
 Among druidic communities, there is nobody more respected and heeded than the wise **archdruid**. Few have ever existed, and those that do live long lives devoted to nature, and many of those few spend their time bound to the Emerald Dream.
 
@@ -359,12 +359,12 @@ Among druidic communities, there is nobody more respected and heeded than the wi
 
 ___
 ___
-> ## Archdruid <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;231;10;18;98;25;84;25;76;18;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;9;8;7;17;Solar%20Wrath;Starfall;Starfire;Starsurge;Sunbeam;Wall%20of%20Thorns;Whirlwind;Wrath%20of%20Nature  Extra damage from Wrath of the Moon (+7 per spell w/ at least 5d6 damage) and Fury of Elune worked in.  -->
+> ## Archdruid <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;231;10;18;98;25;84;25;76;18;83;18;90;18;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;9;8;7;17;Solar%20Wrath;Starfire;Starsurge;Wrath%20of%20Nature;Starfall;Sunbeam;Wall%20of%20Thorns;Whirlwind  Extra damage from Wrath of the Moon (+7 per spell w/ at least 5d6 damage) and Fury of Elune worked in. Turn  4 is bear form, turn 5 is cat form. -->
 >*Medium humanoid (any race), any alignment*
 > ___
-> - **Armor Class** 14 (hide armor) in humanoid form, 13 in bear form, 15 in cat form, or 16 with *barkskin*; <br/> 17 in moonkin form
+> - **Armor Class** 14 (hide armor) in spellcaster or flight form, 16 with *barkskin*; 19 in bear form, or 16 in cat form.
 > - **Hit Points** 231 (42d8 + 42)
-> - **Speed** 30 ft.
+> - **Speed** 30 ft., 50 ft. in cat form, fly 60 ft. in flight form
 >___
 > |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 > |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -377,20 +377,22 @@ ___
 > - **Languages** Druidic plus any two languages
 > - **Challenge** 14 (11,500 XP)
 > ___
-> ***Astral Influence.*** The powers of Elune flows within the archdruid, giving it resistance to radiant damage.
+>
+> ***Shapeshifting.*** As a bonus action, the archdruid can magically polymorph into its Bear form, Cat form, Flight form, or Spellcaster form. Outside of its normal human&shy;oid form, any equipment it is wearing or carrying is absorbed or borne by the alternate form (the archdruid's choice). It reverts to its humanoid form when it dies
+>
+> - ***Bear Form.*** While in the form of a Large bear, if the archdruid moves at least 20 feet straight toward a target and then hits with a melee attack on the same turn, the target takes an extra 18 (4d8) damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be knocked prone.
+>
+> - ***Cat Form.*** While in the form of a Medium cat, the archdruid can take the Disengage or Hide action as a bonus action on each of its turn.
+>
+> - ***Flight Form.*** While in the form of a Medium bird, the archdruid does not provoke opportunity attacks when it moves out of an enemy's reach.
+> 
+> - ***Spellcaster Form.*** While in its normal humanoid form, or in the form of a Medium owlbear, a creature that suc&shy;ceeds on a saving throw against a cantrip cast by the archdruid still takes half the cantrip's damage (if any) but suffers no additional effects.
+>
+> <span></span> <!-- Break intendation on the line below -->
 >
 > ***Wrath of the Moon (2/Day).*** When the archdruid casts a spell that deals damage, it can reroll up to 5 damage dice and use either roll.
 >
-> ***Shapeshifting.*** The archdruid can magically polymorph as a bonus action into another form—a Large bear, Large cat (lion), or Medium moonkin—or back into its humanoid form. Any equipment it is wearing or carrying is absorbed or borne by the alternate form (the archdruid's choice). It reverts to its humanoid form when it dies. The archdruid's statistics other than size are the same in each form, except where noted in this stat block.
->
-> ***Charge (Bear Form Only).*** If the archdruid moves at least 20 feet straight toward a target and then hits with a melee attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
->
-> ***Pounce (Cat Form Only).*** If the archdruid moves at least 20 feet straight toward a creature right before hitting it with a melee attack, the target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is knocked prone by the pounce, the archdruid's next melee attack deals an extra 3 (1d6) damage.
->
-> ***Moon's Shadow (Moonkin Form Only).*** When a creature succeeds on a saving throw against a cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effects.
->
->
-> ***Spellcasting (Humanoid or Moonkin Form Only).*** The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). The archdruid has the following druid spells prepared:
+> ***Spellcasting (Spellcaster Form Only).*** The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). The archdruid has the following druid spells prepared:
 >
 > Cantrips (at will): *druidcraft*, *shape water* ^XGE^, <br/>   *shillelagh**, ✦ *solar wrath*
 > <br/> 1st level (4 slots): *cure wounds*, *entangle*, *speak with <br/>   animals*, ✦ *starfire*
@@ -407,15 +409,15 @@ ___
 >
 > ### Actions
 >
-> ***Quarterstaff (Humanoid or Moonkin Forms Only).*** *Melee Weapon Attack:* +10 to hit, reach 5 ft ., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
+> ***Multiattack (Bear or Cat Forms Only).*** The archdruid makes two melee attacks while in bear form, or four melee attacks while in cat form.
 >
-> ***Multiattack (Bear or Cat Forms Only).*** The archdruid makes a claw and a bite attack.
+> ***Maul (Bear Form Only).*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 32 (5d10 + 5) bludgeoning damage.
 >
-> ***Claws (Bear or Cat Forms Only).*** *Melee Weapon Attack:* *Bear Form:* +5 to hit, *Cat Form:* +7 to hit, reach 5 ft., one target. *Hit:* *Bear Form:* 7 (2d6) slashing damage, *Cat Form:* 7 (2d4 + 2) slashing damage.
+> ***Rake (Cat or Flight Form Only).*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 22 (5d6 + 5) slashing damage.
 >
-> ***Bite (Bear or Cat Forms Only).*** *Melee Weapon Attack:* *Bear Form:* +5 to hit, *Cat Form:* +7 to hit, reach 5 ft., one target. *Hit:* *Bear Form:* 4 (1d8) piercing damage, *Cat Form:* 5 (1d6 + 2) piercing damage.
+> ***Quarterstaff (Spellcaster Form Only).*** *Melee Weapon Attack:* +10 to hit, reach 5 ft ., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 >
-> ***Renewal (Recharges after Short or Long Rest).*** The archdruid can choose any creature within 30 feet of it (including itself). The target  regains 41 (8d8 + 5) hit points.
+> ***Renewal (Recharges after Short or Long Rest).*** The arch&shy;druid chooses any one creature within 30 feet of it, which regains 41 (8d8 + 5) hit points.
 >
 > ### Reactions
 >
