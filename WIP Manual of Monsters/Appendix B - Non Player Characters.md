@@ -1434,7 +1434,7 @@ Anyone looking to get ahead in the criminal underworld knows to pay for some mus
 
 \pagebreakNum
 
-<div style='margin-top:448px;'></div>
+<div style='margin-top:470px;'></div>
 
 ___ 
 > ## Tribal Warrior <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;11;4;12;5;0;5;0;5;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
@@ -1498,9 +1498,8 @@ ___
 Azeroth has seen countless wars, and a **veteran** of one is likely to be a veteran of many. Well-respected by their peers, it is not uncommon even for a long-retired veteran to still know their training by heart.
 
 
-
-<img src="https://i.imgur.com/WRgZf6j.jpg" style="position:absolute;top: -60px;left: 0px;width: 880px;">
-<img src="https://i.imgur.com/iqsWrVi.png" style="position:absolute;top: -170px;left:0px;width:1000px;">
+<img src="https://i.imgur.com/WRgZf6j.jpg" style="position:absolute;top: -50px;left: -5px;width: 900px;">
+<img src='https://i.imgur.com/iqsWrVi.png' style='position:absolute; top:-160px; left:0px; width:1000px' />
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1662,31 +1661,30 @@ These are the changes made to the class since the last update this material (3.x
 <br />
 
 <br />**Projects we like and want to give thanks to:**
-- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979)
-- [The Champions of Azeroth Project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7)
-- [Wyken's WoW Dungeon Modules](https://www.gmbinder.com/profile/wyken)
+- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
+- [This Warcraft project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
 - All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
 
-<br />"Acolyte" from [Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Acolyte?file=Reforged_credits_art_13.png)
-<br /> "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889)
-<br /> "Val'Sharah Concept" by [Phillip Zhang](https://www.artstation.com/artwork/RYen2r)
-<br /> "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543)
-<br /> Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet)
-<br /> "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
-<br /> "The Cultist" by [Rogier van de Beek](https://www.artstation.com/artwork/oG3OJ)
-<br /> "Demon Hunter" by [Szabados Zsolt](https://www.wowhead.com/news=249763.3/legion-art-contest-winners-gallery)
-<br /> "Druid of the Claw" by [Luca Zontini](https://hearthstone.fandom.com/wiki/Druid_of_the_Claw)
-<br /> Giant Frog Scene from [Rastakhan's Rumble Trailer](https://www.hearthstonetopdecks.com/rastakhans-rumble-wallpapers-desktop-mobile-versions-high-quality-hd/)
-<br /> "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
-<br /> "Draenei Frost Mage" by [Aaron Lovett](https://www.artstation.com/artwork/y2w6x)
-<br /> "Kel'Thuzad" by [Alexey Kruglov](https://www.artstation.com/artwork/V5BWN)
-<br /> "Night Elf Ranger" by [Grace Liu](https://www.deviantart.com/nightblue-art/art/Night-Elf-Ranger-374201887)
-<br /> "Scout Kurgo" by [Dan Scott](https://wowpedia.fandom.com/wiki/Scout_Kurgo)
-<br /> "Bubula del Kissel" by [Phroilan Gardner](https://wowpedia.fandom.com/wiki/Bubula_del_Kissel)
-<br /> "Troll Warrior" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Troll-warrior-832831281)
-<br /> "Belf Warlock" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Belf-Warlock-772984259)
-<br /> "Fire Mage" by [Matheus Fernando](https://www.artstation.com/artwork/W8mLJ)
-<br /> "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
+<br />**Page 1 Art:** "Acolyte" from [Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Acolyte?file=Reforged_credits_art_13.png)
+<br />**Page 2 Art:** "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889)
+<br />**Page 3 Art:** "Val'Sharah Concept" by [Phillip Zhang](https://www.artstation.com/artwork/RYen2r)
+<br />**Page 4 Art:** "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543)
+<br />**Page 5 Art:** Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet)
+<br />**Page 6 Art:** "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
+<br />**Page 7 Art:** "The Cultist" by [Rogier van de Beek](https://www.artstation.com/artwork/oG3OJ)
+<br />**Page 8 Art:** "Demon Hunter" by [Szabados Zsolt](https://www.wowhead.com/news=249763.3/legion-art-contest-winners-gallery)
+<br />**Page 9 Art:** "Wild Growth" by [EmberWickArt](https://twitter.com/emberwickart/status/1072575420850208768)
+<br />**Page 10 Art:** "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
+<br />**Page 11 Art:** "Draenei Frost Mage" by [Aaron Lovett](https://www.artstation.com/artwork/y2w6x)
+<br />**Page 12 Art:** "Kel'Thuzad" by [Alexey Kruglov](https://www.artstation.com/artwork/V5BWN)
+<br />**Page 13 Art:** "Night Elf Ranger" by [Grace Liu](https://www.deviantart.com/nightblue-art/art/Night-Elf-Ranger-374201887)
+<br />**Page 14 Art:** "Scout Kurgo" by [Dan Scott](https://wowpedia.fandom.com/wiki/Scout_Kurgo)
+<br />**Page 15 Art:** "Bubula del Kissel" by [Phroilan Gardner](https://wowpedia.fandom.com/wiki/Bubula_del_Kissel)
+<br />**Page 16 Art:** "Troll Warrior" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Troll-warrior-832831281)
+<br />**Page 17 Art:** "Belf Warlock" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Belf-Warlock-772984259)
+<br />**Page 18 Art:** "Fire Mage" by [Matheus Fernando](https://www.artstation.com/artwork/W8mLJ)
+<br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreak
 
