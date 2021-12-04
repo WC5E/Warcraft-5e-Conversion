@@ -6,6 +6,17 @@
 
 <style>
 
+  /* Workaround fix for the line height displacement that GM Binder is
+    experiencing right now thanks to under the hood Chromium changes */
+  .phb p{ line-height: 15px; } 
+  .phb blockquote p{ line-height: 14px; } 
+  .phb h2{ line-height: 26px; } 
+  .phb h3{ line-height: 19px; } 
+  .phb h4{ line-height: 15px; padding-bottom: 3px; } 
+  .phb h5{ line-height: 17px; } 
+  th, td { line-height: 14px; }
+
+
 /* TABLES AND BLOCKS */
 
   /* Clear internal padding and add gap above for green note blocks*/
