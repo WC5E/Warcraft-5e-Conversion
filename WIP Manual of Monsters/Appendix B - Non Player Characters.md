@@ -898,7 +898,7 @@ As examples, the Druids of the Claw keep
 
 \pagebreakNum
 
-
+___
 ___
 > ## Gladiator <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;112;7;15;33;0;33;0;33;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;;1;;;;1;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
@@ -934,7 +934,13 @@ ___
 >
 > ***Parry.*** The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
 
-Any arena **gladiator** today may owe the tradition to the ogre lords of Draenor, who made the sport a cultural tentpole. These warriors fight for coin and fame, sometimes freedom, and seldom for honor.
+For a **gladiator**, Azeroth is host to a multitude of bloody arenas in which they may risk it all for coin and fame -- sometimes even for freedom, though seldom for honor. 
+
+The bombastic nature of these gladiatorial displays owe back to the traditions of the ogre lords of Draenor, to whom the sport is a long-standing cultural tentpole. 
+
+
+<img src="https://i.imgur.com/MuuoF3i.jpg" style="position: absolute;bottom: -80px;right: -40px;width: 900px;">
+<img src="https://i.imgur.com/pZatMx5.png" style="position:absolute;top: -80px;right: -20px;width: 830px;transform:scaleY(-1);">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
