@@ -377,7 +377,7 @@ ___
 > - **Languages** Druidic plus any two languages
 > - **Challenge** 14 (11,500 XP)
 > ___
->
+> 
 > ***Shapeshifting.*** As a bonus action, the archdruid can magically polymorph into its Bear form, Cat form, Flight form, or Spellcaster form. Outside of its normal human&shy;oid form, any equipment it is wearing or carrying is absorbed or borne by the alternate form (the archdruid's choice). It reverts to its humanoid form when it dies
 >
 > - ***Bear Form.*** While in the form of a Large bear, if the archdruid moves at least 20 feet straight toward a target and then hits with a melee attack on the same turn, the target takes an extra 18 (4d8) damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be knocked prone.
@@ -390,8 +390,10 @@ ___
 >
 > <span></span> <!-- Break intendation on the line below -->
 >
-> ***Wrath of the Moon (2/Day).*** When the archdruid casts a spell that deals damage, it can reroll up to 5 damage dice and use either roll.
+> ***Speak with Beasts and Plants.*** The archdruid can communicate with beasts and plants as if they shared a language.
 >
+> ***Wrath of the Moon (2/Day).*** When the archdruid casts a spell that deals damage, it can reroll up to 5 damage dice and use either roll.
+> 
 > ***Spellcasting (Spellcaster Form Only).*** The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). The archdruid has the following druid spells prepared:
 >
 > Cantrips (at will): *druidcraft*, *shape water* ^XGE^, <br/>   *shillelagh**, ✦ *solar wrath*
@@ -822,7 +824,8 @@ They hold a burning determination in their work against demons and stand ever on
 \pagebreakNum
 
 ___
-> ## Druid <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;60;4;12;22;0;22;0;22;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;2;4;Solar%20Wrath;Starfire;Moonbeam -->
+___
+> ## Druid <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;60;4;12;22;0;22;0;22;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;2;4;Solar%20Wrath;Starfire;Moonbeam Turn  4 is bear form, turn 5 is cat form. -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 11 (16 with *barkskin*)
@@ -839,23 +842,61 @@ ___
 > - **Challenge** 3 (700 XP)
 > ___
 >
+> ***Shapeshifting.*** As a bonus action, the druid can magically polymorph into its Bear form, Cat form, or Flight form, or back to its normal humanoid form. Outside of its normal form, any equipment it is wearing or carrying is absorbed or borne by the alternate form (the druid's choice). It reverts to its humanoid form when it dies
+>
+> - ***Bear Form.*** While in the form of a Large bear, if the druid moves at least 20 feet straight toward a target and then hits with a melee attack on the same turn, the target takes an extra 9 (2d8) damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.
+>
+> - ***Cat Form.*** While in the form of a Medium cat, the druid can take the Disengage or Hide action as a bonus action on each of its turn.
+>
+> - ***Flight Form.*** While in the form of a Medium bird, the druid does not provoke opportunity attacks when it moves out of an enemy's reach.
+>
+> <span></span> <!-- Break intendation on the line below -->
+> 
 > ***Renewal (Recharges after a Short or Long Rest).*** The druid can use its bonus action to regain 9 (2d6 + 2) hit points.
+>
+> ***Speak with Beasts and Plants.*** The archdruid can communicate with beasts and plants as if they shared a language.
 >
 > ***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 >
-> Cantrips (at will): *druidcraft*, ✦ *solar wrath*, *shillelagh*
+> Cantrips (at will): *druidcraft*, ✦ *solar wrath*, *shillelagh**
 > <br/> 1st level (4 slots): *cure wounds*, *entangle*, *feather fall*, <br/>   ✦ *starfire*
-> <br/> 2nd level (3 slots): *barkskin*, *moonbeam*
+> <br/> 2nd level (3 slots): *barkskin**, *moonbeam*
 >
+> *The druid casts these spells on itself before combat.
 >
 > ### Actions
+> 
+> ***Multiattack (Cat Form Only).*** The druid makes two melee attacks while in cat form.
 >
-> ***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with *shillelagh*.
+> ***Maul (Bear Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 13 (2d10 + 2) bludgeoning damage.
+>
+> ***Rake (Cat or Flight Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 2) slashing damage.
+>
+> ***Quarterstaff (Spellcaster Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft ., one target. *Hit:* 6 (1d8 + 2) bludgeoning damage.
+>
+> <span /> <!-- Break in extra space to change statblock split -->
 
-Through a connection to the Emerald Dream, **druids** are able to take on the shape and powers of nature. They consider any threat to the balance of nature a grave matter. 
+Through a connection to the Emerald Dream, **druids** druids are guardians of nature who seek to preserve balance and protect life. They have an immense versatility on the field of battle, harnessing a wide breadth of abilities through the forms of different beasts. 
 
+Druids often band together in smaller groups or larger clans, that focus their teachings in around a particular animal totem and aspect of their powers, though 
+<br /> it is not unusual for them to embrace multiple 
+<br /> totems regardless of their clan. 
+
+As examples, the Druids of the Claw keep 
+<br /> cat and bear totems; the Druids of the Talon
+<br /> keep bird totems; and the Druids of the Moon
+<br /> keep totems of the great owlbear.
 
 \columnbreak
+
+
+<img src='https://i.imgur.com/AYuE5Qf.png' class='inkblot' style='left: 220px;bottom: -340px;width: 630px;transform: rotate(-85deg) scaleX(-1);' />
+<img src='https://i.imgur.com/diOKboU.png' style='position:absolute;bottom: -30px;right: -140px;width: 630px;transform: rotate(12deg);' />
+
+<div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
+
+
+\pagebreakNum
 
 
 ___
@@ -894,9 +935,6 @@ ___
 > ***Parry.*** The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
 
 Any arena **gladiator** today may owe the tradition to the ogre lords of Draenor, who made the sport a cultural tentpole. These warriors fight for coin and fame, sometimes freedom, and seldom for honor.
-
-<img src='https://i.imgur.com/AYuE5Qf.png' class='inkblot' style='left:-50px; bottom:-260px; width:580px; transform:rotate(85deg);' />
-<img src='https://i.imgur.com/MDnJ4L0.png' style='position:absolute; bottom:-20px; right:70px; width:800px' />
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
