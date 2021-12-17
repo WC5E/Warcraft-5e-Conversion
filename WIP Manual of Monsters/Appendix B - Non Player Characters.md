@@ -770,11 +770,11 @@ Those in the world who are weakest are often those most easily exploited, brough
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://i.imgur.com/y0m5pEu.png' style='position:absolute; bottom:0px; left:-10px; width:860px;' />
+<img src="https://i.imgur.com/y0m5pEu.png" style="position:absolute;bottom: -36px;left: -30px;width: 870px;">
 
 \pagebreakNum
 
-<div style="margin-bottom:800px;"></div>
+<div style="margin-bottom:770px;"></div>
 
 ___
 ___
@@ -827,9 +827,8 @@ Following Illidan Stormrage to battle the Burning Legion, a determined few have 
 They hold a burning determination in their work against demons and stand ever on guard for demonic corruption, even among their own ranks.
 
 
-<img src='https://www.gmbinder.com/images/A9GFqM6.jpg' style='position:absolute; top:-50px; right:0px; width:850px' />
-<img src='https://www.gmbinder.com/images/iqsWrVi.png' style='position:absolute; top:-130px; right:0px; width:820px' />
-<img src='https://www.gmbinder.com/images/iqsWrVi.png' style='position:absolute; bottom:-100px; right:0px; width:820px' />
+<img src="https://i.imgur.com/dSG1nle.jpg" style="position:absolute;top: -75px;right: -40px;width: 860px;">
+<img src="https://i.imgur.com/C2bOp8u.png" style="position:absolute;bottom: -320px;right:0px;width:820px;">
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
