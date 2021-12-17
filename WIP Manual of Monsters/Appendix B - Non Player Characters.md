@@ -951,9 +951,20 @@ For a **gladiator**, Azeroth is host to a multitude of bloody arenas in which th
 
 The bombastic nature of these gladiatorial displays owe back to the traditions of the ogre lords of Draenor, to whom the sport is a long-standing cultural tentpole. 
 
+\columnbreak
 
-<img src="https://i.imgur.com/MuuoF3i.jpg" style="position: absolute;bottom: -80px;right: -40px;width: 900px;">
-<img src="https://i.imgur.com/pZatMx5.png" style="position:absolute;top: -80px;right: -20px;width: 830px;transform:scaleY(-1);">
+> ##### Variant: Gladiator Nets
+> Throwing nets are a classic tool of choice for seasoned gladiators. A gladiator choosing to fight this way gains the following traits in place of its Shield Bash action:
+>
+> <br /> ***Net Thrower.*** The gladiator can throw a net in place of any melee or ranged attack it makes. It can only throw one net per turn.
+> 
+> <br /> ***Reinforced Net.*** *Ranged Weapon Attack*: +5 to hit, range 5/15 ft., one Large or smaller creature. *Hit*: The target is restrained. A creature can use its action to make a DC 15 Strength check to free itself or another creature within reach on a success. Dealing 25 slashing damage to the net (AC 15) frees the target without harming it and destroys the net.
+>
+> The gladiator carries 2 (1d4+1) nets. 
+
+
+<img src="https://i.imgur.com/Lb5BP9S.jpg" style="position: absolute;bottom: -100px;right: 0px;width: 850px;">
+<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute;top: -171px;right: -20px;width: 830px;transform: scaleX(-1);">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
