@@ -44,7 +44,10 @@
   }
   
   /* For creature statblocks within range (start and end must be specified),
-  don't show a background. Used for the appendix creatures */
+  don't show a background. Used for the appendix creatures 
+  !! Disabled to test appendix with standard statblock appearance
+  */
+  /* 
   .phb:nth-of-type(n+0):nth-of-type(-n+100) hr+section blockquote {
     background: none;
     border: none;
@@ -53,7 +56,8 @@
     margin-bottom: 12px;
     padding-top: 6px;
     padding-bottom: 6px;
-  }
+  } 
+  */
   
   /* For double-wide creature statblocks that we want to have anchored to the
   bottom of the page regardless of content flow. */
@@ -289,7 +293,7 @@ Be it in a bastion of magic such as Dalaran or in smaller societies further afie
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 <img src="https://www.gmbinder.com/images/AYuE5Qf.png" class="inkblot" style="left: -30px;bottom: -342px;width: 520px;transform: rotate(107deg);">
-<img src="https://www.gmbinder.com/images/cNVEirW.png" style="position:absolute;bottom: -22px;left: -42px;width: 455px;">
+<img src="https://www.gmbinder.com/images/cNVEirW.png" style="position:absolute;bottom: -35px;left: -20px;width: 430px;">
 
 \pagebreakNum
 
