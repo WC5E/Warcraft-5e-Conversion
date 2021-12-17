@@ -357,14 +357,12 @@ The talented few that put the work into magical mastery may be recognized as an 
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src="https://www.gmbinder.com/images/uOQOURz.png" class="inkblot" style="right:-90px; top:140px; width:640px;">
-<img src="https://www.gmbinder.com/images/PGGwqOC.png" style="position:absolute;top:90px;right: -182px;width: 780px;">
-<img src="https://www.gmbinder.com/images/7drSEMn.png" style="position:absolute;top: -156px;left: -180px;width:1010px;">
-
+<img src="https://www.gmbinder.com/images/uOQOURz.png" class="inkblot" style="right: -62px;top: 145px;width:640px;">
+<img src="https://www.gmbinder.com/images/PGGwqOC.png" style="position:absolute;top: 78px;right: -178px;width: 810px;">
 
 \pagebreakNum
 
-<div style="margin-top:168px"></div>
+<div style="margin-top:110px"></div>
 
 Among druidic communities, there is nobody more respected and heeded than the wise **archdruid**. Few have ever existed, and those that do live long lives devoted to nature, and many of those few spend their time bound to the Emerald Dream.
 
@@ -446,7 +444,7 @@ ___
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 <img src='https://i.imgur.com/6u511ES.jpg' style='position:absolute; top:-100px; left:-38px; width:920px;' />
-<img src='https://i.imgur.com/NO1EQoX.png' style='position:absolute; top:-230px; left:0; width:800px;' />
+<img src='https://i.imgur.com/NO1EQoX.png' style='position:absolute; top:-245px; left:0; width:800px;' />
 <img src='https://i.imgur.com/NO1EQoX.png' style='position:absolute; bottom:0; left:0; width:800px;' />
 
 
@@ -526,7 +524,7 @@ Across Azeroth, some find themselves eking out a life as a criminal; preying upo
 
 <img src='https://www.gmbinder.com/images/tiU4RnD.png' class='inkblot' style='right:-160px; top:-60px; width:640px; transform:rotate(120deg);' />
 <img src="https://www.gmbinder.com/images/9cQNovm.png" style="position:absolute; top:10px; right:0px; width:400px;">
-<img src='https://www.gmbinder.com/images/uOQOURz.png' class='inkblot' style='right:240px; bottom:-720px; width:700px; transform:rotate(-296deg);' />
+<img src="https://www.gmbinder.com/images/uOQOURz.png" class="inkblot" style="right: 275px;bottom: -715px;width:700px;transform:rotate(-296deg);">
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
@@ -613,8 +611,8 @@ ___
 > ***Ignore Pain (Recharges after a Short or Long Rest).*** When the berserker is hit by a weapon attack, it can give itself resistance towards bludgeoning, piercing, and slashing damage from nonmagical attacks until the start of its next turn.
 
 
-<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="right:-60px; bottom:-170px; width:660px; transform:rotate(-125deg);" />
-<img src="https://i.imgur.com/wP0RUsf.png" style="position:absolute; bottom:-200px; right:-40px; width:480px;" />
+<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="right: -60px;bottom: -180px;width:660px;transform: rotate(-141deg);">
+<img src="https://i.imgur.com/wP0RUsf.png" style="position:absolute; bottom:-200px; right:-25px; width:480px;" />
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -645,7 +643,10 @@ ___
 
 Be they orcish peons or human peasants, merchants at the stalls or old women heading for the town well, every culture across Azeroth features some form of **commoner** among them -- the everyday folk tending to their own lives.
 
-<div style="margin-top:500px;"></div>
+<div></div>
+
+Blessed by the Light to bring forth justice, **crusaders** are the brave and bold; the valiant holy warriors who stand forefront in the battle against darkness. They are often recognized by their brilliant librams, and for the zeal by which they keep to their cause. This zeal has driven some to fanaticism, such as the case of the Scarlet Crusade.
+
 
 \columnbreak 
 
@@ -689,14 +690,12 @@ ___
 > ***Light's Hammer (Recharge after a Short or Long Rest).*** As an action, the crusader slams a divine maul into the ground at a point within 30 feet of you, causing the ground to erupt in holy light in a 10-ft radius. Any ally within range is healed by 6 hit points, and all enemies within range must make a Constitution saving throw, taking 6 radiant damage on a failed save, and half as much on a successful one.
 > ### Reactions
 >
-> ***Parry.*** The crusader adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
-
-Blessed by the Light to bring forth justice, **crusaders** are the brave and bold; the valiant holy warriors who stand forefront in the battle against darkness. They are often recognized by their brilliant librams, and for the zeal by which they keep to their cause. This zeal has driven some to fanaticism, such as the case of the Scarlet Crusade.
+> ***Parry.*** The crusader adds 2 to its AC against one melee attack that would hit it. To do so, the crusader must see the attacker and be wielding a melee weapon.
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src="https://i.imgur.com/AYuE5Qf.png" class="inkblot" style="left:-110px; bottom:-130px; width:500px;" />
-<img src='https://i.imgur.com/fTCd9Sk.png' style='position:absolute; bottom:-70px; left:-120px; width:520px; transform:scaleX(-1);'>
+<img src="https://i.imgur.com/AYuE5Qf.png" class="inkblot" style="left: 12px;bottom: -175px;width: 550px;transform: rotate(108deg);">
+<img src="https://i.imgur.com/fTCd9Sk.png" style="position:absolute;bottom: -190px;left: -88px;width: 525px;transform:scaleX(-1);">
 
 \pagebreakNum
 
