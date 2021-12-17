@@ -292,7 +292,7 @@ Be it in a bastion of magic such as Dalaran or in smaller societies further afie
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src="https://www.gmbinder.com/images/AYuE5Qf.png" class="inkblot" style="left: -30px;bottom: -342px;width: 520px;transform: rotate(107deg);">
+<img src="https://www.gmbinder.com/images/AYuE5Qf.png" class="inkblot" style="left: -35px;bottom: -355px;width: 520px;transform: rotate(107deg);">
 <img src="https://www.gmbinder.com/images/cNVEirW.png" style="position:absolute;bottom: -35px;left: -20px;width: 430px;">
 
 \pagebreakNum
@@ -903,8 +903,8 @@ As examples, the Druids of the Claw keep
 \columnbreak
 
 
-<img src='https://i.imgur.com/AYuE5Qf.png' class='inkblot' style='left: 220px;bottom: -340px;width: 630px;transform: rotate(-85deg) scaleX(-1);' />
-<img src='https://i.imgur.com/diOKboU.png' style='position:absolute;bottom: -30px;right: -140px;width: 630px;transform: rotate(12deg);' />
+<img src='https://i.imgur.com/AYuE5Qf.png' class='inkblot' style='left: 210px;bottom: -360px;width: 630px;transform: rotate(-85deg) scaleX(-1);' />
+<img src="https://i.imgur.com/diOKboU.png" style="position:absolute;bottom: -35px;right: -135px;width: 620px;transform: rotate(12deg);">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1032,8 +1032,8 @@ Highly skilled **infiltrators** are sent into exceptional danger to gather the m
 > // Convert into paper note
 
 
-<img src='https://i.imgur.com/BrDcy46.png' class='inkblot' style='left:-150px; bottom:-130px; width:670px; transform:rotate(215deg);' />
-<img src='https://i.imgur.com/uOQOURz.png' class='inkblot' style='left:-40px; bottom: -560px; width:700px; transform:rotate(-100deg);' />
+<img src="https://i.imgur.com/BrDcy46.png" class="inkblot" style="left: -150px;bottom: -98px;width: 660px;transform: rotate(292deg) scaleX(-1);">
+<img src="https://i.imgur.com/uOQOURz.png" class="inkblot" style="left: 430px;bottom: -540px;width: 600px;transform: rotate(-450deg);">
 <img src='https://i.imgur.com/qg5tNJp.png' style='position:absolute; bottom:0px; left:-10px; width:430px;' />
 
 
@@ -1041,7 +1041,7 @@ Highly skilled **infiltrators** are sent into exceptional danger to gather the m
 
 \pagebreakNum
 
-<div style='margin-top:308px;'></div>
+<div style='margin-top:250px;'></div>
 
 ___
 > ## Knight <!-- https://wc5e-cr-calculator.frogvall.com/?0;18;52;5;13;20;0;20;0;20;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;1;;;;10;;;;;; -->
@@ -1082,7 +1082,7 @@ The heroic **knights** of any culture will, first and foremost, represent the vi
 \columnbreak
 
 
-<div style='margin-top:274px;'></div>
+<div style='margin-top:214px;'></div>
 
 ___
 > ## Mage <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;126;6;14;50;0;37;0;37;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;5;4;4;9;Arcane%20Barrage;Blizzard;Frostfire%20Bolt;Fire%20Bolt;Magic%20Missile;Scorching%20Ray -->
@@ -1202,12 +1202,12 @@ ___
 The higher class of their culture, **nobles** have often been particularly susceptible to the corrupting forces of the world. Others in turn have chosen to use their influence to actively combat said corruption and evil. 
 
 
-<img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px; bottom:-120px; right:-160px; transform: rotate(21deg) scaleY(-1);" />
-<img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px; bottom:-300px; right:190px; transform: rotate(81deg) scaleY(-1);" />
+<img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px;bottom: -60px;right: -160px;transform: rotate(221deg) scaleY(-1);">
+<img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px;bottom: -380px;right:190px;transform: rotate(85deg) scaleY(-1);">
 
-<img src="https://www.gmbinder.com/images/xU5GXXN.png" style="position:absolute; bottom:-45px; right:-80px; width:530px;">
-<img src="https://i.imgur.com/XsyrOpt.jpg" style="position:absolute;bottom: 44px;left: 22px;width: 240px;mix-blend-mode:multiply;">
-<img src="https://i.imgur.com/4Zw3ovg.png" style="position:absolute;bottom: 13px;left: 246px;width: 260px;transform:scaleX(-1);mix-blend-mode:multiply;">
+<img src="https://www.gmbinder.com/images/xU5GXXN.png" style="position:absolute; bottom:-50px; right:-80px; width:530px;">
+<img src="https://i.imgur.com/4Zw3ovg.png" style="position:absolute;bottom: 10px;left: 30px;width: 240px;transform:scaleX(-1);mix-blend-mode:multiply;">
+<img src="https://i.imgur.com/XsyrOpt.jpg" style="position:absolute;bottom: 30px;left: 256px;width: 220px;mix-blend-mode:multiply;">
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
@@ -1297,8 +1297,9 @@ Among elves,  **rangers** are some of the most respected figures one can find, a
 > Wind Serpent              | Tauren        | ###
 > Young Dragonhawk          | Blood elves   | ###
 
-<img src="https://www.gmbinder.com/images/AYuE5Qf.png" class="inkblot" style="width:660px; bottom:-466px; right:129px; transform: rotate(264deg) scaleY(-1);" />
-<img src='https://www.gmbinder.com/images/Vd3niEy.png' style='position:absolute; bottom:-4px; left:-66px; width:536px;'>
+
+<img src="https://www.gmbinder.com/images/AYuE5Qf.png" class="inkblot" style="width: 580px;bottom: -258px;right: -5px;transform: rotate(100deg) scaleY(-1);">
+<img src="https://www.gmbinder.com/images/Vd3niEy.png" style="position:absolute;bottom: -10px;left: -25px;width: 480px;">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1369,7 +1370,7 @@ and be wielding a shield.
 Whether they are grunts, sentinels, or **soldiers**, the back&shy;bone of any army is its standing ranks. In some cultures, the common folk may find themselves drafted out of sheer necessity, while in other cultures it can be considered a matter of pride to partake.
 
 
-<img src='https://i.imgur.com/moDxofj.png' style='position:absolute; bottom:-130px; right:0px; width:800px' />
+<img src='https://i.imgur.com/moDxofj.png' style='position:absolute; bottom:-174px; right:0px; width:800px' />
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1438,16 +1439,17 @@ ___
 >
 > ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft, one creature. *Hit:* 4 (1d4 + 2) piercing damage.
 
-Anyone looking to get ahead in the criminal underworld knows to pay for some muscle, as a deterrent against any would-be attackers. These **thugs** will thirst for action and spend little time bothering with niceties.
+Anyone looking to get ahead in the criminal underworld knows to pay for some muscle, as a deterrent against any would-be attackers. These **thugs** will thirst for action and spend little time bothering 
+<br /> with niceties.
 
 
-<img src='https://i.imgur.com/ZhrJawL.png' style='position:absolute; bottom:-15px; right:-5px; width:805px; transform:scaleX(-1);' />
+<img src="https://i.imgur.com/ZhrJawL.png" style="position:absolute;bottom: -45px;right: -10px;width: 810px;transform:scaleX(-1);">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
 \pagebreakNum
 
-<div style='margin-top:470px;'></div>
+<div style='margin-top:415px;'></div>
 
 ___ 
 > ## Tribal Warrior <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;11;4;12;5;0;5;0;5;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
@@ -1480,7 +1482,7 @@ Tribal societies can be found far and wide across Azeroth -- trolls, tauren, ogr
 
 \columnbreak
 
-<div style='margin-top:470px;'></div>
+<div style='margin-top:435px;'></div>
 
 ___
 > ## Veteran <!-- https://wc5e-cr-calculator.frogvall.com/?0;17;78;5;12;20;0;20;0;20;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -1511,8 +1513,8 @@ ___
 Azeroth has seen countless wars, and a **veteran** of one is likely to be a veteran of many. Well-respected by their peers, it is not uncommon even for a long-retired veteran to still know their training by heart.
 
 
-<img src="https://i.imgur.com/WRgZf6j.jpg" style="position:absolute;top: -50px;left: -5px;width: 900px;">
-<img src='https://i.imgur.com/iqsWrVi.png' style='position:absolute; top:-160px; left:0px; width:1000px' />
+<img src="https://i.imgur.com/WRgZf6j.jpg" style="position:absolute;top: -50px;left: -30px;width: 940px;">
+<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute;bottom:-120px;left:0px;width:830px;transform: rotate(180deg) scaleX(-1);">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1561,7 +1563,7 @@ Sharply intelligent, immensely powerful, and often sardonic in nature, a **warlo
 
 
 <img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:760px; top:0px; right:-230px; transform: rotate(-20deg);" />
-<img src='https://i.imgur.com/Wxj4KMG.png' style='position:absolute; bottom:-30px; right:-30px; width:880px' />
+<img src="https://i.imgur.com/Wxj4KMG.png" style="position:absolute;bottom: -55px;right: -35px;width: 930px;">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1569,7 +1571,7 @@ Sharply intelligent, immensely powerful, and often sardonic in nature, a **warlo
 \pagebreakNum
 
 
-<div style='margin-top:860px;'></div>
+<div style='margin-top:790px;'></div>
 
 ___
 ___
@@ -1629,8 +1631,8 @@ Some arcanists devote their life to the art of warfare, taking on the title of *
 \columnbreak
 
 
-<img src='https://i.imgur.com/PirsUGQ.jpg' style='position:absolute; top:-20px; left:0px; width:800px' />
-<img src='https://i.imgur.com/C2bOp8u.png' style='position:absolute; top:320px; right:-10px; width:820px;' />
+<img src="https://i.imgur.com/PirsUGQ.jpg" style="position:absolute;top:-25px;left: -15px;width: 840px;">
+<img src='https://i.imgur.com/C2bOp8u.png' style='position:absolute; top:350px; right:-10px; width:820px;' />
 <img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:700px; bottom:-540px; right:25px; transform:rotate(56deg);" />
  
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
