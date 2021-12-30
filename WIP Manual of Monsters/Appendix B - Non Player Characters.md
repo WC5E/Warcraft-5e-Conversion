@@ -210,47 +210,66 @@
  
 </style>
 
+# Nonplayer Characters
 
-# Update 3.0-type-num
+This is a partial release from the *Warcraft 5E* project's *Manual of Monsters*; a small group of friends having fun writing and sharing *Warcraft* material for D&D 5th Edition. 
 
-<br />
+We're mainly a group of friends looking to have fun with this, as our little hobby project with big ambitions. It is entirely out of our own time, and entirely for free. 
 
-These are the changes made to the class since the last update this material (3.x.x)
+If you want to see more, follow the links at the bottom of this page. 
 
-## Category
+##### About these statblocks
+
+This document contains statistics for different humanoid nonplayer characters (NPCs) that might be encountered during an adventure. 
+
+Many of these statblocks are taken from the Dungeons & Dragons SRD 5.1, following guidelines on copying and modifying SRD content. From there, we've rewritten them with new features, new spell lists, and new text to better work for us as Warcraft NPCs. 
+
+We also have a lot of more stand-out unique statblocks both made and otherwise planned, here we just wanted to have a lot of more typical NPCs flavoured for the setting. Check out the project link above for that.
+
+At some point, we'd like to have an overview of what could be added to an NPC to reflect different races (the statblocks are all written for medium-sized humanoids), but that is a priority some way down the line for now. 
 
 
-## Category
+## Contributor Credits
 
+*Contributors listed by community usernames.*
+<div style='margin-top:-10px;'></div>
 
-## Category
+<br> **Original project authors** 
+<br><span style="margin-left:12px"></span> Jih, Tangerine
 
+<br />**Current core team**
+<br><span style="margin-left:12px"></span> Ace Azzermeen, Geamros, Lorestalker Nemzal,
+<br><span style="margin-left:12px"></span> MagusRogue MythMaker, Nagash, Llamadom,
+<br><span style="margin-left:12px"></span> Tangerine, Tyloris
+
+<br />**Inactive & former team members**
+<br><span style="margin-left:12px"></span> 123jrf, ApolloLumina, Artipo, Auvreannia, Christinekn,
+<br><span style="margin-left:12px"></span> ClockWorkTank, Elenus, Jih, Prometheus, Reiga,
+<br><span style="margin-left:12px"></span> Silverblade, Tseims, Wyken
+
+<br />**Big thanks to** 
+<br><span style="margin-left:12px"></span> Everyone at our community Discord and Subreddit
+
+<br> **Also thanks to**
+<br><span style="margin-left:12px"></span> This entire book was made using GM Binder. It is an
+<br><span style="margin-left:12px"></span> amazing tool for creating authentic-looking homebrew
+<br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons. Without
+<br><span style="margin-left:12px"></span> it, this project would've likely never been considered.
+
+<br> **Based on the original D&D game created by**
+<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as
+<br><span style="margin-left:12px"></span>Brian Blume, Rob Kuntz, James Ward and Don Kaye.
+
+<br> **Based on the Warcraft franchise by**
+<br><span style="margin-left:12px"></span> © Blizzard Entertainment
 
 
 \columnbreak
 
 
-## Credits
+## Art Credits 
 
-**Provide feedback for this document:** We'd really love your opinion on this material. You can do so by: 
-- Joining the conversation on [Discord](https://discord.com/invite/dKMJmmD). <br /> (Or just messaging an active Contributor there.)
-- Sharing your thoughts with us on [Reddit](https://www.reddit.com/r/wc5e/).
-- Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
-
-<br />**Current core team:** Ace Azzermeen, Geamros, Lorestalker Nemzal, MagusRogue, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
-<br />
-
-<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Auvreannia, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
-<br />
-
-<br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
-<br />
-
-<br />**Projects we like and want to give thanks to:**
-- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
-- [This Warcraft project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
-- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
-- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
+<div style='margin-top:-14px;'></div>
 
 <br />**Page 1 Art:** "Acolyte" from [Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Acolyte?file=Reforged_credits_art_13.png)
 <br />**Page 2 Art:** "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889)
@@ -273,12 +292,44 @@ These are the changes made to the class since the last update this material (3.x
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 
+## Other Thanks 
+
+**Other projects we like and want to give thanks to**
+- [World of Warcraft 5E](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
+- [Champion of Azeroth](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
+- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! <br /> You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
+
+
+## Project Links
+
+**Other Warcraft 5E books**
+<br><span style="margin-left:12px"></span> We've been working creating both player material and
+<br><span style="margin-left:12px"></span> dungeon master material for playing Warcraft in
+<br><span style="margin-left:12px"></span> D&D 5th Edition. You can check them all out here:
+
+<div style="text-align:center">
+
+#### [Warcraft 5E on GDrive](https://drive.google.com/drive/folders/1kVoAMR8TiO3CXFYcigFN2B6zk62xcnv9)
+
+</div>
+
+<br> **Want to join our community?**
+<br><span style="margin-left:12px"></span> We're a relatively small group working together on this,
+<br><span style="margin-left:12px"></span> and we think it's fun to hear the thoughts and opinions
+<br><span style="margin-left:12px"></span> of people who have played with it. If you want to share
+<br><span style="margin-left:12px"></span> your stories with us, suggest changes, or just join our
+<br><span style="margin-left:12px"></span> Warcraft RPG community, we have both a Discord
+<br><span style="margin-left:12px"></span> server and a subreddit going.
+
+<div style="text-align:center">
+
+#### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:40px"></span> [Subreddit](https://www.reddit.com/r/wc5e/)
+
+</div>
+
+
 \pagebreakNum
-
-
-# Appendix B: Nonplayer Characters
-
-This appendix contains statistics for various humanoid nonplayer characters (NPCs) that might be encountered during an adventure. These stat blocks can represent human and nonhuman NPCs, and you can customize them with whichever racial traits you feel are appropriate.
 
 ___
 > ## Acolyte <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;2;12;4;0;4;0;4;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;1;1;1;1;Sacred%20Flame (Divine Glow not factored in) -->
