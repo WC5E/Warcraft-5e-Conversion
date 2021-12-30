@@ -211,6 +211,71 @@
 </style>
 
 
+# Update 3.0-type-num
+
+<br />
+
+These are the changes made to the class since the last update this material (3.x.x)
+
+## Category
+
+
+## Category
+
+
+## Category
+
+
+
+\columnbreak
+
+
+## Credits
+
+**Provide feedback for this document:** We'd really love your opinion on this material. You can do so by: 
+- Joining the conversation on [Discord](https://discord.com/invite/dKMJmmD). <br /> (Or just messaging an active Contributor there.)
+- Sharing your thoughts with us on [Reddit](https://www.reddit.com/r/wc5e/).
+- Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
+
+<br />**Current core team:** Ace Azzermeen, Geamros, Lorestalker Nemzal, MagusRogue, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
+<br />
+
+<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Auvreannia, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
+<br />
+
+<br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
+<br />
+
+<br />**Projects we like and want to give thanks to:**
+- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
+- [This Warcraft project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
+- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
+
+<br />**Page 1 Art:** "Acolyte" from [Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Acolyte?file=Reforged_credits_art_13.png)
+<br />**Page 2 Art:** "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889)
+<br />**Page 3 Art:** "Val'Sharah Concept" by [Phillip Zhang](https://www.artstation.com/artwork/RYen2r)
+<br />**Page 4 Art:** "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543)
+<br />**Page 5 Art:** Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet)
+<br />**Page 6 Art:** "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
+<br />**Page 7 Art:** "The Cultist" by [Rogier van de Beek](https://www.artstation.com/artwork/oG3OJ)
+<br />**Page 8 Art:** "Demon Hunter" by [Szabados Zsolt](https://www.wowhead.com/news=249763.3/legion-art-contest-winners-gallery)
+<br />**Page 9 Art:** "Wild Growth" by [EmberWickArt](https://twitter.com/emberwickart/status/1072575420850208768)
+<br />**Page 10 Art:** "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
+<br />**Page 11 Art:** "Draenei Frost Mage" by [Aaron Lovett](https://www.artstation.com/artwork/y2w6x)
+<br />**Page 12 Art:** "Kel'Thuzad" by [Alexey Kruglov](https://www.artstation.com/artwork/V5BWN)
+<br />**Page 13 Art:** "Night Elf Ranger" by [Grace Liu](https://www.deviantart.com/nightblue-art/art/Night-Elf-Ranger-374201887)
+<br />**Page 14 Art:** "Scout Kurgo" by [Dan Scott](https://wowpedia.fandom.com/wiki/Scout_Kurgo)
+<br />**Page 15 Art:** "Bubula del Kissel" by [Phroilan Gardner](https://wowpedia.fandom.com/wiki/Bubula_del_Kissel)
+<br />**Page 16 Art:** "Troll Warrior" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Troll-warrior-832831281)
+<br />**Page 17 Art:** "Belf Warlock" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Belf-Warlock-772984259)
+<br />**Page 18 Art:** "Fire Mage" by [Matheus Fernando](https://www.artstation.com/artwork/W8mLJ)
+<br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
+
+
+\pagebreakNum
+
+
 # Appendix B: Nonplayer Characters
 
 This appendix contains statistics for various humanoid nonplayer characters (NPCs) that might be encountered during an adventure. These stat blocks can represent human and nonhuman NPCs, and you can customize them with whichever racial traits you feel are appropriate.
@@ -1648,71 +1713,9 @@ Some arcanists devote their life to the art of warfare, taking on the title of *
  
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
  
+
 \pagebreakNum
 
-
-# Update 3.0-type-num
-
-<br />
-
-These are the changes made to the class since the last update this material (3.x.x)
-
-## Category
-
-
-## Category
-
-
-## Category
-
-
-
-\columnbreak
-
-
-## Credits
-
-**Provide feedback for this document:** We'd really love your opinion on this material. You can do so by: 
-- Joining the conversation on [Discord](https://discord.com/invite/dKMJmmD). <br /> (Or just messaging an active Contributor there.)
-- Sharing your thoughts with us on [Reddit](https://www.reddit.com/r/wc5e/).
-- Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
-
-<br />**Current core team:** Ace Azzermeen, Geamros, Lorestalker Nemzal, MagusRogue, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
-<br />
-
-<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Auvreannia, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
-<br />
-
-<br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
-<br />
-
-<br />**Projects we like and want to give thanks to:**
-- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
-- [This Warcraft project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
-- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
-- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
-
-<br />**Page 1 Art:** "Acolyte" from [Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Acolyte?file=Reforged_credits_art_13.png)
-<br />**Page 2 Art:** "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889)
-<br />**Page 3 Art:** "Val'Sharah Concept" by [Phillip Zhang](https://www.artstation.com/artwork/RYen2r)
-<br />**Page 4 Art:** "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543)
-<br />**Page 5 Art:** Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet)
-<br />**Page 6 Art:** "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
-<br />**Page 7 Art:** "The Cultist" by [Rogier van de Beek](https://www.artstation.com/artwork/oG3OJ)
-<br />**Page 8 Art:** "Demon Hunter" by [Szabados Zsolt](https://www.wowhead.com/news=249763.3/legion-art-contest-winners-gallery)
-<br />**Page 9 Art:** "Wild Growth" by [EmberWickArt](https://twitter.com/emberwickart/status/1072575420850208768)
-<br />**Page 10 Art:** "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
-<br />**Page 11 Art:** "Draenei Frost Mage" by [Aaron Lovett](https://www.artstation.com/artwork/y2w6x)
-<br />**Page 12 Art:** "Kel'Thuzad" by [Alexey Kruglov](https://www.artstation.com/artwork/V5BWN)
-<br />**Page 13 Art:** "Night Elf Ranger" by [Grace Liu](https://www.deviantart.com/nightblue-art/art/Night-Elf-Ranger-374201887)
-<br />**Page 14 Art:** "Scout Kurgo" by [Dan Scott](https://wowpedia.fandom.com/wiki/Scout_Kurgo)
-<br />**Page 15 Art:** "Bubula del Kissel" by [Phroilan Gardner](https://wowpedia.fandom.com/wiki/Bubula_del_Kissel)
-<br />**Page 16 Art:** "Troll Warrior" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Troll-warrior-832831281)
-<br />**Page 17 Art:** "Belf Warlock" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Belf-Warlock-772984259)
-<br />**Page 18 Art:** "Fire Mage" by [Matheus Fernando](https://www.artstation.com/artwork/W8mLJ)
-<br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
-
-\pagebreak
 
 <style>
 
@@ -1733,6 +1736,9 @@ These are the changes made to the class since the last update this material (3.x
     top: -10px;
     width: 475px;
     background-size: 475px 1136px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
   }
   .phb .back-cover-diamond {
     display: block;
@@ -1798,7 +1804,6 @@ These are the changes made to the class since the last update this material (3.x
 <div class='back-cover-close'>
 
   Big love from the team. ❤
-
    
 </div>
 
