@@ -953,12 +953,12 @@ The bombastic nature of these gladiatorial displays owe back to the traditions o
 
 \columnbreak
 
-> ##### Variant: Gladiator Nets
-> Throwing nets are a classic tool of choice for seasoned gladiators. A gladiator choosing to fight this way gains the following traits in place of its Shield Bash action:
+> ##### Variant: Net-Throwing Gladiator
+> Throwing nets are a common tool for seasoned gladiators. A gladiator fighting this way gains the following traits in place of its Shield Bash action:
 >
 > <br /> ***Net Thrower.*** The gladiator can throw a net in place of any melee or ranged attack it makes. It can only throw one net per turn.
 > 
-> <br /> ***Reinforced Net.*** *Ranged Weapon Attack*: +5 to hit, range 5/15 ft., one Large or smaller creature. *Hit*: The target is restrained. A creature can use its action to make a DC 15 Strength check to free itself or another creature within reach on a success. Dealing 25 slashing damage to the net (AC 15) frees the target without harming it and destroys the net.
+> <br /> ***Reinforced Net.*** *Ranged Weapon Attack*: +5 to hit, range 5/15 ft., one Large or smaller creature. *Hit*: The target is restrained. A creature can use its action to make a DC 15 Strength check to free itself or another creature within reach on a success. Dealing 20 slashing damage to the net (AC 15) frees the target without harming it and destroys the net.
 >
 > The gladiator carries 2 (1d4+1) nets. 
 
