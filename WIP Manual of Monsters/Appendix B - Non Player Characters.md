@@ -161,52 +161,6 @@
   .phb:nth-child(even) .pageLetter {
     left:25px;
   }
-
-/* BACK PAGE STYLES */
-
-  /* Remove footer from back page, replace pX with last page num */
-  .phb#p19:after { display:none; }
-
-  .phb .back-cover-content {
-    padding-left: 4px;
-    padding-right: 16px;
-  }
-  .phb .back-cover-right {
-      padding-left: 40px;
-  }
-  .phb .back-cover-image {
-    height: 1136px;
-    left: -20px;
-    top: -10px;
-    width: 475px;
-    background-size: 475px 1136px;
-  }
-  .phb .back-cover-diamond {
-    display: block;
-    position: initial;
-    left: initial;
-    top: initial;
-    margin: auto;
-    margin-bottom: 35px;
-    box-sizing: border-box;
-    background-repeat: no-repeat;
-  }
- .phb .back-cover-logo-container {
-    position: absolute;
-    bottom: 30px;
-    left: 64px;
-    width: 314px;
- }
- .phb .back-cover-logo,
- .phb .back-cover-logo-link {
-     position: initial;
-     margin: auto;
-     margin-bottom: 8px;
-     left: initial;
-     bottom: initial;
-     right: initial;
-     background-repeat: no-repeat;
- }
  
 </style>
 
@@ -1773,7 +1727,8 @@ Some arcanists devote their life to the art of warfare, taking on the title of *
 /* BACK PAGE STYLES */
 
   /* Remove footer from back page, replace pX with last page number */
-  .phb#p20:after { display:none; }
+  .phb#p21:after { display:none; }
+
  -cover-content {
     padding-left: 4px;
     padding-right: 16px;
