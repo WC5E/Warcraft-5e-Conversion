@@ -360,13 +360,12 @@
     <br />
   </span>
   <span class='cover-footer-version'>
-    Version 1.0 — First release
+    Major Version 3, Book Release 1
   </span>
 </div>
 
 <style> .phb#p1:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/v1OE3Fq.jpg' style='position:absolute; top:-3px; right:-5px; width:810px' />
-<img src='https://www.gmbinder.com/images/3d9m32D.png' style='position:absolute; top:1000px; right:675px; width:100px' />
 
 \pagebreak
 
@@ -9963,3 +9962,5 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <div class='back-cover-right'>
 
 </div>
+
+
