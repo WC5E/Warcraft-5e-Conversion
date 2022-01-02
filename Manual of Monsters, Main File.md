@@ -451,7 +451,7 @@ With each coming update, all changes will be noted in the Changelog — Link is 
 
 **Other projects we really like and want to give thanks to**
 - [World of Warcraft 5E](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
-- [Champion of Azeroth](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [Champions of Azeroth](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
 - [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
 - All of the awesome homebrew that has been shared within the community, it's super cool to see it all! <br /> You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
 
