@@ -8403,7 +8403,16 @@ ___
 </div>
 
 
-This chapter contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
+This chapter contains statistics for numerous miscellan&shy;eous animals, creatures, and critters. Several creatures in this chapter are magical in nature, some of them even on par so with creatures found in chapter 1, but we chose to bring them all together in this chapter. 
+
+Azeroth is a fantastical world, and even some of its ordinary and everyday critters are larger than life without being monstrous. Massive scorpids, six-legged crocolisks, hawkstriders, and magical moths are all pretty typical sights on these mystical shores.
+
+
+##### SRD Content Included
+
+Some of the statblocks included in this chapter are taken from the Dungeons & Dragons SRD 5.1, following guidelines on copying and modifying SRD content. 
+
+Some of them have been added as is, while others we've adjusted and rebalanced for Warcraft as a campaign setting. We did this because we wanted to have as many setting-appropriate creatures as possible, even ones already printed in the SRD, together in one place. 
 
 ___
 > ## Ashwing Moth
