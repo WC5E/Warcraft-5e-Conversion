@@ -87,8 +87,8 @@
 
 /* TABLES AND BLOCKS */
 
-  /* Adjust table colors */
-  table tr:nth-child(odd) td { 
+  /* Adjust table colors inside noteblocks */
+  .phb blockquote table tr:nth-child(odd) td { 
     background-color: #FFF0f5; 
   }
   .phb hr+section blockquote tr:nth-child(odd) td { 
