@@ -1,0 +1,1127 @@
+### Aranasi
+Hideous eight-legged demons called the Aranasi have been sighted among the ranks of the Burning Legion, acting variously as fodder, soldiers and commanders.
+Their life cycle is rapid, hatched from eggs as spider-like creatures before rapidly growing into intelligent arachnoid monsters. They have a mastery over their natural venom, which can be frighteningly deadly, and as they invade territories they are seen transforming whole regions into breeding pits of festering pools and skittering death.
+
+***Spider Queens.*** As female aranasi mature, they undergo a transformation. Becoming significantly more intelligent, they stand up on two of their many legs, with the others splayed behind them like wings, and typically take the role of commanders among the Legion, gaining lofty royal titles and choosing consorts.
+
+***The Silk Road.*** Aranasi broodmothers command dangerous and tricky magic, moulding captured territories into their own silken palaces via their race's webbing. Stepping into such a parlour can be extraordinarily dangerous, as any and all nearby aranasi, from the old to the newly-hatched, will come to the aid of their queen.
+
+___
+> ## Aranasi Spiderling
+> *Medium fiend (demon), unaligned*
+> ___
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 26 (4d10 + 4)
+> - **Speed** 30 ft., climb 30 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |14 (+2)|18 (+4)|12 (+1)| 2 (-4)|11 (+0)| 4 (-3)|
+> ___
+> - **Skills** Perception +2, Stealth +8
+> - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 12
+> - **Languages** —
+> - **Challenge** 1 (200 XP)
+> ___
+> ***Spider Climb.*** The spiderling can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+> ***Web Walker.*** The spiderling ignores movement restrictions caused by webbing.
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 14 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one.
+
+___
+> ## Aranasi
+> *Large fiend (demon), chaotic evil*
+> ___
+> - **Armor Class** 18 (natural armor)
+> - **Hit Points** 104 (11d10 + 44)
+> - **Speed** 30 ft., climb 40 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |16 (+3)|19 (+4)|14 (+2)|11 (+0)|13 (+1)|15 (+2)|
+> ___
+> - **Saving Throws** Con +7, Cha +5
+> - **Skills** Perception +4, Stealth +11
+> - **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical weapons
+> - **Damage Immunities** poison
+> - **Condition Immunities** poisoned
+> - **Senses** blindsight 20 ft., darkvision 60 ft., passive Perception 14
+> - **Languages** Eredun
+> - **Challenge** 7 (2,900 XP)
+> ___
+> ***Spider Climb.*** The aranasi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+> ***Web Sense.*** While in contact with a web, the aranasi knows the exact location of any other creature in contact with the same web.
+>
+> ***Web Walker.*** The aranasi ignores movement restrictions caused by webbing.
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
+>
+> ***Demon Web (Recharge 5-6).*** The aranasi spits webbing at a point it can see within 60 feet. The webbing fills a 20-foot-radius circle from that point, and counts as difficult terrain. 
+> <br>    Any creature that starts its turn in the webs or that enters them during its turn must make a DC 15 Dexterity saving throw. On a failed save, the creature takes 14 (4d6) necrotic damage and is restrained as long as it remains in the webs or until it breaks free.
+> <br>    A creature restrained by the webs can use its action to make a DC 15 Strength check. If the check succeeds, it is no longer restrained. The webbs have AC 10, 15 hit points, resistance to fire damage, and immunity to bludgeoning, piercing, and psychic damage.
+
+\pagebreakNum
+___
+___
+> ## Aranasi Broodmother
+> *Large fiend (demon), neutral evil*
+> ___
+> - **Armor Class** 18 (natural armor)
+> - **Hit Points** 126 (12d10 + 60)
+> - **Speed** 30 ft., climb 40 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |18 (+4)|22 (+6)|21 (+5)|20 (+5)|17 (+3)|17 (+3)|
+> ___
+> - **Saving Throws** Con +11, Wis +8, Cha +8
+> - **Skills** Perception +8, Stealth +16
+> - **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical weapons
+> - **Damage Immunities** poison
+> - **Condition Immunities** poisoned
+> - **Senses** blindsight 40 ft., darkvision 120 ft., passive Perception 18
+> - **Languages** Common, Eredun
+> - **Challenge** 13 (10,000 XP)
+> ___
+> ***Innate Spellcasting.*** The aranasi's innate spellcasting ability is Intelligence (spell save DC 18). The aranasi can innately cast the following spells, requiring no material components:
+>
+> 3/day each: *hex*, *witch bolt*
+> <br>2/day each: *darkness*, *dispel magic*, *web*
+> <br>1/day: *cloudkill*
+>
+> ***Legendary Resistance (3/Day).*** If the aranasi fails a saving throw, it can choose to succeed instead.
+> 
+> ***Spider Climb.*** The aranasi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+> ***Web Sense.*** While in contact with a web, the aranasi knows the exact location of any other creature in contact with the same web.
+>
+> ***Web Walker.*** The aranasi ignores movement restrictions caused by webbing.
+> 
+> ***Demonic Terror.*** Any non-demonic creature who sees the aranasi must make a DC 16 Wisdom saving throw. On a failure, the creature is frightened of the aranasi, and must repeat the saving throw at the start of each turn. A creature who succeeds on the saving throw is immune to this effect for 24 hours.
+>
+> \columnbreak
+>
+>### Actions
+> ***Multiattack:*** The aranasi makes two attacks with her claws. 
+>
+> ***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) slashing damage, and the target must make a DC 18 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
+>
+> ***Demon Web (Recharge 5-6).*** The aranasi broodmother spits webbing at a point it can see within 60 feet. The webbing fills a 20-foot-radius circle from that point, and counts as difficult terrain.
+> <br>    Any creature that starts its turn in the webs or that enters them during its turn must make a DC 15 Strength saving throw. On a failed save, the creature takes 21 (6d6) necrotic damage and is restrained as long as it remains in the webs or until it breaks free.
+> <br>    A creature restrained by the webs can use its action to make a DC 15 Strength check. If the check succeeds, it is no longer restrained. The webs have AC 10, 15 hit points, resistance to fire damage, and immunity to bludgeoning, piercing, and psychic damage.
+>
+> ***Come, My Children (1/day).*** The aranasi broodmother calls forth 2d4+2 aranasi spiderlings, which arrive in 1d4 rounds. These spiderlings appears in an unoccupied space within 60 feet of the aranasi broodmother, acts as an ally of the aranasi broodmother, and obeying any spoken commands. These spiderlings remains for 1 minute, until it or the aranasi broodmother dies, or until the aranasi broodmother dismisses them as an action.
+>
+>
+>### Legendary Actions
+>The aranasi can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The aranasi regains spent legendary actions at the start of its turn.
+>
+> **Move.** The aranasi broodmother moves up to half its speed.
+> <br>**Claw Attack.** The aranasi broodmother makes one claw 
+> <br>    attack.
+> <br>**Feed, My Children (Costs 2 Actions).** Each aranasi that 
+> <br>    can see and hear the aranasi broodmother can use its 
+> <br>    reaction to make one weapon attack against a target 
+> <br>    of its choice.
+
+\pagebreakNum
+
+### Doomguards
+
+*"I remember well the sting of defeat at the conclusion of the Third War. I have waited far too long for my revenge. Now the shadow of the Legion falls over this world. It is only a matter of time until all of your failed creation... is undone." - Supreme Lord Kazzak*
+
+The fearsome ered'ruin race are among the most recognisable, and most feared, of the Burning Legion's infinite army. These hulking, great masses of muscle match perfectly the image of demons across all worlds; piercing horns, enormous wings, hooves, great flaming swords, and an unstoppable desire for murder and destruction. Believed to be among the earliest of the Legion's forces, doomguards have a deadly mastery over destructive magic and raw martial strength, and their sheer love of chaos makes them the ideal demonic warriors. Often individual doomguards act as lieutenants under greater demons, or command lesser troops on the battlefield. An army of many doomguards is a force unto itself, and many of the Legion's greatest victories have been at the hands of these fearsome creatures.
+Their immense strength and violent nature makes them unstoppable in combat, and their brutish appearance hides an insidious intelligence tempered by the fires of eternal war.
+
+***Doom Bringers.*** During times of Legion attack, the doomguards are usually the most immediately visible threat, seldom seen outside out outright invasion. However, it is often said that if the invasion has gone so far that these demons are seen in battle, then it is already too late, and doom has been assured.
+
+***Demonic Overlords.*** Some of these fearsome demons ascend to even greater degrees of raw strength and power, becoming respected commanders and generals in command of enormous armies of demons. Doomlords such as these have left scars across entire worlds, and even in defeat they have been known as exceptionally persistent.
+
+***Terrible Fiends.*** Some demons, similar in appearance and power to the ered'ruin, have been sighted among Legion forces. These terrorguards have a similar profile, but their appearance is somehow more monstrous, with crowns of many horns circling their heads, and flame-belching, toothy maws in place of their torsos, accompanied by ever-staring eyes. Their relationship to the doomguards is unknown, but they well-earn their name, as they beget terror wherever they go.
+
+> ##### Variant: Terrorguard
+> Some doomguards have a gigantic mouth in their stomach, which can belch flames. They gain the following attack.
+>
+> ***Belching Gutmouth.*** The doomguard belches fire from the giant mouth in its stomach. All creatures in a 20-foot cone must make a DC 16 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much on a successful one.
+
+\columnbreak
+___
+> ## Doomguard
+> *Large fiend (demon), lawful evil*
+> ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 96 (12d10 + 40)
+> - **Speed** 25 ft., fly 15 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |20 (+5)|15 (+2)|19 (+4)|15 (+2)|15 (+2)|13 (+1)|
+> ___
+> - **Saving Throws** Str +8, Wis +5
+> - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
+> - **Damage Immunities** fire, poison
+> - **Condition Immunities** poisoned
+> - **Senses** darkvision 120 ft., passive Perception 12
+> - **Languages** Common, Eredun
+> - **Challenge** 8 (2,900 XP)
+> ___
+> ***Demon Sight.*** Magical darkness doesn't impede the doomguard's darkvision.
+>
+> ***Fel Weapons.*** The doomguard's weapon attacks are magical
+>
+> ***Magic Resistance.*** The doomguard has advantage on saving throws against spells and other magical effects.  
+> 
+>
+> ### Actions
+> ***Multiattack.*** The doomguard makes three attacks with its scimitar. It can replace one of these weapon attacks with a stomp attack.
+>
+> ***Scimitar.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage and 2 (1d4) fire damage.
+>
+> ***Stomp (Recharge 5-6).*** Creatures within 15 feet must make a DC 16 Dexterity saving throw, taking 11 (2d10) thunder damage on a failed save, or half as much on a successful one. A creature that fails its save is knocked prone.
+> ### Reactions
+> ***Demonic Doom.*** When a creature within 15 feet of the doomguard deals damage on the doomguard, it can inflict a curse on that creature. They must succeed on a DC 15 Wisdom saving throw, or have disadvantage on attack rolls and saving throws against demons till the end of the doomguard's next turn.
+
+
+\pagebreak
+
+___
+> ## Doomlord
+> *Huge fiend (demon), lawful evil*
+> ___
+> - **Armor Class** 18 (natural armor)
+> - **Hit Points** 184 (16d12 + 80)
+> - **Speed** 30 ft., fly 30 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |25 (+7)|15 (+2)|21 (+5)|17 (+3)|16 (+3)|15 (+2)|
+> ___
+> - **Saving Throws** Str +11, Wis +7, Cha +6
+> - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
+> - **Damage Immunities** fire, poison
+> - **Condition Immunities** poisoned
+> - **Senses** darkvision 120 ft., passive Perception 13
+> - **Languages** Common, Eredun
+> - **Challenge** 12 (8,400 XP)
+> ___
+> <br>***Demon Sight.*** Magical darkness doesn't impede the doomlord's darkvision.
+>
+> ***Fel Weapons.*** The doomlord's weapon attacks are treated as if magical.
+>
+> ***Magic Resistance.*** The doomlord has advantage on saving throws against spells and other magical effects.  
+> 
+> ***Innate Spellcasting.*** The doomlord's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with 
+> spell attacks). It can innately cast the following spells, requiring no material components:
+>
+> 3/day: *dispel magic*, *slow*
+> <br>1/day: *wall of fire*
+>
+> ### Actions
+> ***Multiattack.*** The doomlord makes three attacks: three with its scimitar, or two with its scimitar and one with its stomp.
+>
+> ***Scimitar.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d6 + 7) slashing damage + 3 (1d6) fire damage.
+>
+> ***Stomp (Recharge 5-6).*** Creatures within 15 feet must make a DC 19 Dexterity saving throw, taking 16 (3d10) thunder damage on a failed save, or half as much on a successful one. A creature that fails its save is knocked prone.
+>
+> ***Demonic Howl.*** Any non-fiend that hears the howl must make a DC 15 Wisdom saving throw or be frightened. A frightened creature can remake the saving throw at the end of each turn. If a creature's saving throw is successful, the creature is immune to Demonic Howl for the next 24 hours.
+> ### Reactions
+> ***Wing Buffet.*** When the doomguard is attacked by a creature it can see, it can flex its wings to throw that creature away. The creature must make a DC 19 Strength saving throw or be pushed 15 feet away.
+
+\pagebreakNum
+
+
+
+### Felbat
+On some demon-infested world long ago, a species of bat-like creatures was mutated beyond recognition into the disgusting felbats, which now act as a combination of mounts, spies and aerial assault for the Burning Legion. Their massive bodies are surprisingly agile in the air, where they can safely stay out of harm's way while they assault the ground with corruptive globs of mucus. The horrendous, high-pitched screams of a swarm of felbats has caused many defenders against the Legion running for their lives.
+ 
+___
+> ## Felbat
+>*Large fiend (demon), chaotic evil*
+>___
+>- **Armor Class** 15 
+>- **Hit Points** 63 (10d8 + 18)
+>- **Speed** 20 ft., fly 60 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|15 (+2)|15 (+2)|3 (–4)|13 (+1)|7 (–2)|
+>___
+>- **Skills** Acrobatics +4
+>- **Damage Immunities** fire, poison
+>- **Condition Immunities** poisoned
+>- **Senses** blindsight 60 ft., passive Perception 11
+>- **Languages** _ 
+>- **Challenge** 4 (450 XP)
+>___
+>
+> ***Ambusher.*** In the first round of a combat, the felbat has advantage on attack rolls against any creature it surprised.
+> 
+> ***Echolocation.*** The bat can't use its Blindsight while Deafened.
+>
+> ***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
+>
+>### Actions
+>***Multiattack.*** The felbat makes two claw attacks.
+>
+>***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+>
+>***Fel Spit.*** *Ranged Weapon Attack:* +5 to hit, range 30 ft., one target. *Hit:* 13 (2d12) fire damage.
+>
+> ***Demonic Scream.*** The felbat releases a shrill scream to instill fear into their enemies. All creatures except fiends that can hear the felbat within 60 feet must make a DC 14 Wisdom saving throw, being frightened on a failed save for a minute. An affected creature can remake the saving throw at the end of each of its turns, ending the effect and becoming immune to the felbat's Demonic Scream for the next 24 hours on a succesful save.
+>
+
+\pagebreakNum
+
+### Felhound
+
+The bloodhounds of the Legion, though their resemblance to canines is superficial. If their scaly bodies, eyeless faces, long and toothy maws, hoofed feet and strange, almost flower-like tentacular feelers extending from their shoulders can be ignored, then their behaviour can be called canine - their intense desire to chase and hunt down their targets, and an inbuilt obedience to domineering masters. Felhounds of all kinds are blind, and see through an innate ability to sense magic, for which they hunger constantly. When commanded, they will weaken their spellcasting prey by devouring the very magic used against them, and then will use their splayed tentacles to drain the mana and life of whatever creature is unfortunate enough to cross them.
+
+
+> ##### Variant: Felstalker
+> Less common than felhounds, but more dangerous, felstalkers lack the tentacle attacks of their demonic cousins. Instead, they gain the following stat changes.
+> ___
+> **Armor Class** 15 (natural armor)
+> <br>**Hit Points** 65 (10d8 + 20)
+> <br>**Challenge** 3 (700 XP)
+> ___
+> ***Pack Tactics.*** The felstalker has advantage on an attack roll against a creature if at least one of the felstalker's allies is within 5 feet of the creature and the ally isn't incapacitated.
+> ___
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d4 + 5) piercing damage and the target must make a DC 12 Constitution saving throw or be afflicted by Fel Disease.
+> <br>    A target afflicted by Fel Disease takes 1d8 necrotic damage at the start of each turn. The felstalker that inflicted this disease on the target regains hit points equal to half the necrotic damage. A target can only be inflicted with Fel Disease from one source. The target can repeat its saving throw at the end of each round to end the effect, or the affliction can be removed by any effect which cures diseases or dispels magic.
+
+___
+> ## Felhound
+> *Medium fiend (demon), chaotic evil*
+> ___
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 52 (8d8 + 16)
+> - **Speed** 40 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |17 (+3)|12 (+1)|14 (+2)|6 (-2)|13 (+1)| 14 (+2)|
+> ___
+> - **Skills**  Perception +3
+> - **Damage Resistances** fire
+> - **Damage Immunities** poison
+> - **Condition Immunities** poisoned
+> - **Senses** blindsight 120 ft., passive Perception 13
+> - **Languages** —
+> - **Challenge** 2 (450 XP)
+> ___
+><br> ***Mage Slayer.*** A creature dealt damage by the felhunter has disadvantage on Constituion saving throws made to maintain concentration on a spell.
+>
+>***Magic Resistance.*** The felhound has advantage on saving throws against spells and other magical effects.
+>
+> ***Sense Magic.*** The felhound can sense magic within 120 feet of it at will. This trait otherwise work like the *detect magic* spell but isn't itself magical
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage, or 17 (4d6 + 3) piercing damage against a grappled target.
+>
+> ***Tentacles.*** The felhound lashes out with its tentacles at a creature within 5 feet. The target must make a DC 13 Dexterity saving throw or be grappled and take 13 (3d8) necrotic damage. The felhound regains hit points equal to half the necrotic damage.
+>
+>### Reactions
+> ***Devour Magic.*** When a creature cast a spell, the felhunter can makes an Intelligence check against a DC equal to 10 + the spell's level. On a success, the spell ends and the felhound regains 1d8 hit points per spell level.
+
+\pagebreak
+
+___
+___
+> ## Fel Reaver
+>*Gargantuan construct , chaotic neutral*
+> ___
+> - **Armor Class** 19 (metal plating)
+> - **Hit Points** 280 (16d20 + 112) 
+> - **Speed** 50 ft. 
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|28 (+9)|8 (-1)|25 (+7)|13 (+1)|12 (+1)|3 (-4)|
+>___
+> - **Saving Throws** Str +14, Con +12, Wis +6  
+> - **Skills** Athletic +14, Intimidation +6, Stealth +4 
+> - **Damage Resistances** cold, lightning, necrotic: bludgeoning, piercing, and slashing from non-magical attacks that aren't adamantine. 
+> - **Damage Immunities** acid, fire, poison, psychic. 
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+> - **Senses** darkvision 120 ft., Passive Perception 11 
+> - **Languages** Common, Eredun
+> - **Challenge** 18 (20,000 XP)    **PB** 5 
+> ___
+>
+> ***Fel Weapons.*** The fel reaver's melee attacks are magical, and deal and additional 2d8 fire damage, on a hit (included in the attack). This fire damage ignores resistance and treats immunity as resistance. 
+>
+> ***Immutable Form.*** The fel reaver is immune to any spell or effect that would alter its form.
+>
+> ***Frightening Presence.*** Each hostile creature within 120 feet of the fel reaver and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effects ends on it, the creature is immune to the fel reaver's Frightening Presence for the next 24 hours. 
+>
+> ***Siege Monster.*** The fel reaver deals double damage to objects and structures. 
+>
+> ***Quiet Exhaust.*** The fel reaver, despite its size and bulk, is surprisingly quiet. Creatures that have advantage on Wisdom (Perception) checks that rely on hearing do not apply it against the fel reaver. 
+>
+>
+> ### Actions
+> ***Multiattack.*** The fel reaver makes one slam attack, and one stomp attack (if applicable). 
+>
+> ***Slam.*** *Melee Weapon Attack:* +14 to hit, reach 15 feet., one target. *Hit:* 27 (4d8 + 9) bludgeoning damage plus 9 (2d8) fire damage, and the creature is knocked prone. 
+>
+> ***Stomp.*** *Melee Weapon Attack:* +14 to hit, reach 10 feet, one target. *Hit:* 34 (4d12 + 9) bludgeoning daamge plus 9 (2d8) fire damage. 
+>
+> ***War Stomp (Recharge 5-6).*** The fel reaver slams down into the ground repeatedly. All other creatures on the ground within 30 feet of the fel reaver must succeed on a DC 22 Dexterity saving throw, taking 55 (10d10) thunder damage on a failed save, or half as much on a success. A creature who is prone and fails the save is also stunned for 1 minute, and can repeat the saving throw at the end of each of their turns.  
+>
+> ### Reaction
+> ***Mechanical Screech.*** When the fel reaver takes a critical hit, it releases a terrifying metallic sound, forcing all creatures to be affected by its Frightening Presence until the start of its next turn, even if they are immune to it. If a creature is already frightened from this ability and fails the save, it it also paralyzed. If a creature would be immune to the fel reaver's Frightening Presence, it makes the saving throw with advantage. 
+
+\pagebreak
+___
+> ## Felsteed
+>*Large fiend (demon), chaotic evil*
+>___
+>- **Armor Class** 11 
+>- **Hit Points** 25 (3d10 + 9)
+>- **Speed** 60 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|13 (+1)|16 (+3)|10 (+0)|12 (+1)|13 (+1)|
+>___
+>- **Damage Immunities** fire
+>- **Senses** darkvision 60 ft., passive Perception 11
+>- **Languages** understands Eredun and Common but cannot speak
+>- **Challenge** 2 (450 XP)
+>___
+>
+>***Confer Fire Resistance.*** The felsteed can grant resistance to fire damage to anyone riding it.
+>
+> ***Illumination.*** The felsteed sheds bright light in a 10-foot radius and dim light for an additional 10 feet. >
+>
+> ***Trampling Charge.*** If the felsteed moves at least 20 ft. straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
+>### Actions
+>***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage + 7(2d6) fire damage.
+
+### Felsteed
+
+Even warlocks have the need for steeds, and no mere horse would be fitting for masters of such power. For this reason the felsteed was created from the native creatures of Azeroth, warped and corrupted into obedient minions like the others. No longer able to be called a horse, the felsteed is a warped demonic creature with flame in its blood, and hate and pain in its eyes. 
+
+***Dreadsteeds of Xoroth.*** The felsteed is but a shallow copy of the true steed of demonic masters; the dreadsteed from the Legion world, Xoroth. Flaming hooves, curved horns and fiery breath crown the demon horse, not merely corrupted from nature but born purely of the Fel. A significantly more difficult and complicated ritual is required by warlocks to even see one of these horses.
+
+\pagebreak
+
+### Imp
+*"Ohhh, sure! Send the little guy!"*
+
+The fodder of the Legion, the lowest in the hierarchy. Weak, expendable, too numerous to count, and able to be spawned on an almost industrial scale, fiery imps make up an appreciable portion of the Legion's invasion tactics, often being deployed in swarms at areas and allowed to go hog wild. Imps have an innate, gleeful love for destruction, and when uncontrolled will happily use their fire magic to burn anything around them with zero hesitation. Their tiny, pathetic bodies contain an unbearable amount of pure energetic enthusiasm, and their love for burning is perhaps only matched for their love of talking, which makes them extremely unpopular among the other rank and file of the Legion. It is a favourite pastime of any demon commander to order a squad of imps to charge to their deaths, knowing that whether or not they destroy anything, the universe will benefit from fewer imps.
+
+***Devilish Familiars.*** Imps are an extremely common sight among warlocks, even outside of the Legion's command, as they are easy to summon and control, are obedient, and easy to replace. As such they are often used as assistants or familiars by summoners with a need for an extra pair of hands, but little concern with what happens to them.
+
+***Speculative Origins.*** Legend among imps is that they came from a world full of creatures like themselves who had a fondness for mischief and fun, but which spawned as spirits of nature. The truth of it is unknown, and demon lords will forbid any talk of such things, but it is nevertheless a comforting thought for imps everywhere, that they may have once come from somewhere.
+
+***Fel Imps.*** Some imps are far larger than others, and burn with brighter flames of sickly green Fel. Whether this is a natural development or a mutation caused by experimentation by uncaring masters is unknown, but these rare Fel imps are seldom a welcome sight, as their fiery magic can be far more powerful.
+
+___
+> ## Imp
+>*Small fiend (demon), chaotic evil*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 18 (4d6 + 4)
+>- **Speed** 25 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (–2)|15 (+2)|13 (+1)|15(+2)|9 (-1)|14 (+2)|
+>___
+>- **Skills** Deception +4, Insight +1, Stealth +4
+>- **Damage Immunities** fire, poison
+>- **Condition Immunities** poisoned
+>- **Senses** darkvision 60 ft., passive Perception 9
+>- **Languages** Common, Eredun
+>- **Challenge** 1/4 (25 XP)
+>___
+>### Actions
+>***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
+>
+>***Fire Blast.*** *Ranged Weapon Attack:* +4 to hit, range 60 ft., one target. *Hit:*  3 (1d6 ) fire damage.
+> 
+> ### Reactions
+> ***Phase Shift.***  When the imp is subjected to an effect that allows it to make a saving throw to take half damage, it can use its reaction to shift out of phase with the world and automatically succeed.
+
+\pagebreak
+
+### Infernal
+*"We never paid any heed to the ancient prophecies. Like fools we clung to the old hatreds, and fought as we had for generations. Until the day the sky rained fire... and a new enemy came among us. We stand now, upon the brink of destruction... for the Reign of Chaos has come at last."*
+
+A cloudy sky, casting shadow over a battlefield. An army of demons swarms, held back bravely by the world's defenders. Suddenly, an assault that no warrior can hold back - breaching through the cloud cover far above, streaking from the sky with a burning, flaming trail of sick green fire, falls a meteor. It slams into the earth, shattering bones and burning skin and armour away with its impact. The defending soldiers, wounded but not yet broken, watch in horror as the burning boulder cracks, moves, and unfolds. Crags become shoulders, arms and legs. Flames give it a vaguely humanoid shape, capped by hideous green eyes in a skull-like face. An infernal has landed among them, a construct of pure destruction, and its sole purpose is to break them.
+
+***Infernal Constructs.*** Ever-burning, the Legion's infernals are crafted on their own worlds out of flaming cores and black rock. They are thoughtless, having no desires or needs, and follow only one instruction - destroy. They are among the Legion's most deadly and feared weapons, and their summoning invariably precedes doom and terror.
+
+***Blazing Invasion.*** Infernals are sometimes deployed en masse by summoners, and predictably, the arrival of hundreds of blazing meteors alone can cause untold damage. As they awaken, the infernals will often do the job of breaking a siege, tearing defenses open and burning away any opposition.
+
+***Immolation and Destruction.*** Little can harm their rocky form, and their Fel cores break magic cast upon them. Their constantly burning bodies set alight anyone foolish enough to go close, and their sheer strength will smash any survivors.
+ 
+
+___
+> ## Infernal 
+>*Large construct, chaotic neutral*
+> ___
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** 85 (10d10 + 30) 
+> - **Speed** 30 ft. 
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|10 (+0)|16 (+3)|6 (-2)|10 (+0)|6 (-2)|
+>___
+> - **Damage Resistances** bludegoning, piercing, and slashing damage from nonmagial attacks not made with adamantine weapons; fire 
+> - **Damage Immunities** poison, psychic
+> - **Condition Immunities** charmed, exhausted, frightened, paralyzed, petrified, poisoned
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** understands the languages of its creator but can't speak
+> - **Challenge** 5
+> ___
+>
+>***Immolation Aura.*** Any creature that starts its turn within 5 feet of the infernal, or hits it with a melee weapon attack, takes 5 (1d10) fire damage
+>
+>***Immutable Form.*** the infernal is immune to any spell or effect that would alter its form.
+>
+>***Magic Resistance.*** the infernal has advantage on saving throws against spells and other magical effects.
+>
+>***Siege Monster.*** the infernal deals double damage to objects and structures.
+>
+> ### Actions
+>***Multiattack.*** The infernal make two slam attacks.
+>
+>***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 15 (2d8 + 4) bludgeoning damage + 3 (1d6) fire damage.
+
+\pagebreak
+___
+> ## Abyssal 
+>*Huge construct, chaotic neutral*
+>___
+>- **Armor Class** 16 (natural armor)
+>- **Hit Points** 150 (12d12 + 72)
+>- **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|21 (+5)|10 (+0)|22 (+6)|6 (–2)|12 (+1)|6 (–2)|
+>___
+>- **Damage Resistances** fire
+>- **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing damage from nonmagical attacks not made with adamantine weapons. 
+>- **Condition Immunities** charmed, exhausted, frightened, paralyzed, petrified, poisoned 
+>- **Senses** darkvision 120 ft., passive Perception 11
+>- **Languages** understands the languages of its creator but can't speak
+>- **Challenge** 10 (5,900 XP)
+>___
+>***Immolation Aura.*** Any creature that starts its turn within 10 feet of the infernal, or hits it with a melee weapon attack, takes 11 (2d10) fire damage
+>
+>***Immutable Form.*** the infernal is immune to any spell or effect that would alter its form.
+>
+>***Magic Resistance.*** the infernal has advantage on saving throws against spells and other magical effects.
+>
+>***Siege Monster.*** the infernal deals double damage to objects and structures.
+>
+>### Actions
+>***Multiattack.*** The infernal make two slam attacks.
+>
+>***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 15 (2d8 + 6) bludgeoning damage + 4 (1d8) fire damage.
+
+\pagebreak
+
+### Mo'arg
+*“Anger... Hate... These are tools I can use.” - The Maker*
+
+A deadly combination of brains and brawn, the mo'arg are a varsatile race of demons that have fulfilled several roles in the Burning Legion across history. The vast, vast majority act as Felguard foot soldiers, unrecognisable from their non-conscripted kin. Others are born stunted and weak. Those few remaining take on positions befitting their strength and intelligence, often ending up as commanders or high-ranking engineers. Aside from the felguard army, mo'arg are seldom content to appear generic, often modifying themselves or setting out specifically to gather scars and unique weaponry, and in general the higher-functioning mo'arg tend to be much more individualistic than other demons.
+
+***Stunted Brethren.*** There are a subset of diminutive, sickly mo'arg which lack the brainpower or muscle to serve the Legion in the same ways as their kin. These stunted mo'arg, called gan'arg, act instead as assistant engineers and technicians on Legion-run worlds, seldom seeing combat. They are treated poorly and are given no reason to have ambition, and as such their lives are brief and utilitarian.
+
+***Mechanical Marvels.*** Some mo'arg prefer intellectual endeavours, and act as some of the best engineers of the Legion's war machine. These mo'arg see fit to sever parts of their own bodies and replace them with mechanical upgrades, no two alike; common replacements include grabbing arms, cutting blades, or dangerous weaponry.
+
+***Brutish Strength.*** Other mo'arg prefer to employ their natural hulking strength in the Legion's endless conquest, wielding massive swords, clubs or axes, donning thick armour and simply wading through  their foes' defences. These brutes do not lack intellect, but their preference for stomping, smashing and breaking suits their colossal bodies perfectly.
+
+#### Felguard
+Numbered in the millions, the felguard comprise the shock troops of the Burning Legion, deployed to innumerable degrees to overwhelm their foes with a combination of martial discipline and sheer numbers. Uncomplicated, these demons are bred solely for combat, and are expected to live and die for pure war. They do so with gusto, charging their foes, isolating them and using their immense strength to obliterate them. And should a felguard fall in battle - no matter. Where one falls, another shall take its place. And another... and another...
+ 
+___
+> ## Felguard
+> *Medium fiend (demon), lawful evil*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 90 (12d8 + 36)
+> - **Speed** 30 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |16 (+3)|12 (+1)|16 (+3)|11 (+0)|12 (+1)|12 (+1)|
+> ___
+> - **Saving Throws** Str +6, Con +6
+> - **Skills** Athletics +6, Intimidation +3
+> - **Damage Resistances.** bludgeoning, piercing, and slashing damage from nonmagical weapons. 
+> - **Condition Immunities** stunned, frightened
+> - **Senses** darkvision 60 ft., passive Perception 11
+> - **Languages** Common, Eredun
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Legion Strike.*** Once on each of its turns when the felguard make a Legion Axe attack, it can make another attack against a different creature that is within 5 feet of both the first creature and the felguard.
+>
+> ***Strength of the Legion.*** The felguard has advantage on attack rolls against a creature if one of the felguard's allies attacked the creature since the end of its last turn. 
+>
+> ### Actions
+> ***Multiattack.*** The Felguard can make two greataxe attacks
+>
+> ***Legion Axe.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d12 + 3) slashing damage.
+> 
+> ### Reactions 
+> ***Pursuit.*** When a creature attempts to move out of the felguard's weapon range, it can use its reaction to move up to its movement speed toward the creature and make a weapon attack. This movement doesn't provoke opportunity attacks.
+
+\pagebreak
+
+___
+___ 
+> ## Gan'arg
+>*Small fiend (demon), chaotic evil*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 13 (3d6 + 3)
+> - **Speed** 30 ft. 
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|7 (-2)|15 (+2)|13 (+1)|14 (+2)|9 (-1)|8 (-1)|
+>___
+> - **Skills** Perception + 0
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** Common, Eredun
+> - **Challenge** 1/2 
+> ___
+>
+> ### Actions
+> ***Wrench.*** Melee Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
+>
+>
+> ***Cache of Weapons.*** The gan'arg uses one of the following options (roll a d6 or choose one); the gan'arg can use each one no more than once per day:
+>
+> ***1-High Explosive Sheep.*** The gan'arg releases a mechanized sheep into an unoccupied space within 5 feet of it. the sheep has a walking speed of 20 feet, AC 10, 1 hit point, and no effective attacks. It rolls initiative, and on its turn, moves toward the closest creature, preferably toward a group of creature. It then proceeds to explode, forcing all creatures within 10 feet of it to make a DC 13 Dexterity saving throw, taking 1d6 fire damage and being knocked prone on a failed save, or half as much damage and no other ill effect on a success.  
+>
+> ***2- Mana Bomb.*** The gan'arg throws a mana bomb within 30 feet of it, and every creature within 10 feet of it must succeed on a DC 12 Constitution saving throw, or lose 1d4 level of spell slots, starting with the lowest spell slot available, and taking 1d4 damage per level of slot lost. Slots lost in this way are regained upon finishin a short or long rest. 
+>
+> ***3- Goblin Dragon Gun.*** All creature in a 10 foot cone in front of the gan'arg must make a DC 12 Dexterity saving throw, taking 1d4 fire damage on a failed save, or half as much on a success. A creature who fails the saving is also set ablaze 1 minute, taking 1d4 fire damage at the end of each of their turns, unless they succeed on a DC 12 Dexterity saving throw to put it out. 
+>
+> ***4- Rocket Launcher.*** The gan'arg shoots a rocket. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 3 (1d6) fire damage, and the creature must succeed on a DC 12 Constitution saving throw, or be incapacitated till the start of the gan'arg's next turn. 
+>
+> ***5- Recombobulate.*** The gan'arg uses a recombobulating chicken on one of its allies, ending one condition on it and restoring 1d6 + 2 hit points. 
+>
+> ***6- Magnetic Bomb.*** The gan'arg throws a magnetic bomb within 30 feet of itself, forcing all creatures either wearing metal armor or wielding metal weapons within 15 feet of it to make a DC 13 Strength saving throw. On a failed save, the creature is pulled 10 feet toward the bomb if its wearing metal armor, or loses its weapon as its pulled toward the bomb if wielding a metallic weapon. 
+>
+>
+
+\pagebreak
+
+___
+> ## Eye of Kilrogg 
+>*Small fiend (demon), neutral evil*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 44 (8d6 + 16)
+> - **Speed** 0 ft., fly 60 ft. (hover) 
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|1 (-5)|16 (+3)|15 (+2)|9 (-1)|15 (+2)|14 (+2)|
+>___
+> - **Skills** Perception +5 
+> - **Damage Immunities** fire, necrotic, poison
+> - **Condition Immunities** charmed, frightened, paralyzed, poisoned, prone
+> - **Senses** truesight 30 ft., passive Perception
+> - **Languages** can understand Eredun but can't speak it. 
+> - **Challenge** 4
+> ___
+> ***Innate Spellcasting.*** The eye of kilrogg's innate spellcasting ability is Charisma (spell save DC 12, +4 to spell attacks). It can innately cast the following spells, requiring no components:
+> <br> At will: *ray of enfeeblement*, *invisibility*
+> <br> 3/day: *ray of sickness*
+>
+> ***Magic Resistance.*** The eye of kilrogg has advantage on saving throws against spells and other magical effects.
+>
+>
+> ### Actions
+> 
+> ***Fel Ray.*** *Ranged Spell Attack:* +5 to hit, range 30 ft., one target. Hit: 7 (2d6) fire damage.
+>
+> ***Focused Eye.*** The eye focuses its negative energy onto a creature it can see; until the start of the eye's next turn, if that creature is affected by a spell and makes a saving throw as to end that spell's effects, it makes the saving throw with disadvantage. 
+
+___
+> ## Inquisitor
+>*Medium fiend (demon), neutral evil*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 91 (14d8 + 28)
+> - **Speed** 30 ft. (hover)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|13 (+1)|15 (+2)|18 (+4)|15 (+2)|14 (+2)|
+>___
+> - **Saving Throws** Int +9 , Wis +7 
+> - **Skills** Arcana +14 , Insight +7 , Perception +12 
+> - **Damage Resistances** fire, necrotic 
+> - **Damage Immunities** poison
+> - **Condition Immunities** blinded, poisoned 
+> - **Senses** blindsight 10 feet, passive Perception 
+> - **Languages** Common, Eredun
+> - **Challenge** 13    **PB** +5 
+> ___
+>
+> ***Innate Spellcasting.*** The inquisitor's innate spellcasting ability is Intelligence (spell save DC 17, +9 to spell attacks). It can innately cast the following spells, requiring no components:
+> <br> At will: *ray of enfeeblement*, *phantasmal force*,
+> <br> 3/day: *crown of madness,* *fear*, *mind spike*
+> <br> 1/day: *eyebite*, *hallucinatory terrain*
+>
+> ***Spellcasting.*** The inquistor is a 14th-level spellcaster. Its spellcasting modifier is Intelligence (spell save DC 17 , +9 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It has the following warlock spells prepared. 
+>
+> <br> Cantrips (at will): *chill touch, diabolism, fel flame, mage hand, shadow bolt* 
+> <br> 1st-5th level (three 5th level slots): *bane, cause fear, drain life, hex, ray of sickness, hold person, bestow curse, hunger of hadar, blight, compulsion, dominate person* 
+>
+> ***The Inquistion Sees All.*** An inquisitor often employs the uses of several *eyes of Kilrogg* to compensate for its lack of sight. The inquisitor in in telepathic communication with its eyes, and at any point, an inquisitor can be connected to up to 10 eyes at once.  
+>
+> As an action, the inquisitor can choose an eye it is bonded with. It can see everything that the eye sees, and can cast spells as if it is in the eye's space. In addition, if the inquisitor cast a spell that requires concentration, the eye be the one to maintain the concentration for that spell. This sight remains until either the eye is destroyed, or the inquisitor ends the connection (no action required). 
+>
+> ### Actions
+>
+> ***Dagger.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *HRanged Spell Attack: +5 to hit, range 30 ft., one target. Hit: 10 (3d6) fire damage.it:* 4 (1d6 + 1) piercing damage.
+>
+> ***Infernal Sacrifice.*** The Inquisitor can sacrifice one of its bounded eyes to regain one of its expended spell slot.
+
+\pagebreak
+___
+> ## Mo'arg Brute
+>*Large fiend (demon), lawful evil*
+>___
+>- **Armor Class** 16 (half plate)
+>- **Hit Points** 144 (16d10 + 64)
+>- **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|11 (+0)|19 (+4)|10 (+0)|13 (+1)|13 (+1)|
+>___
+> - **Saving Throws** Str +8, Con +7
+> - **Skills** Athletics +9, Intimidation +6
+> - **Damage Resistances** bludgeoning, piercing, and slashing damage from nonmagical weapons
+>- **Senses** darkvision 60 ft., passive Perception 12
+>- **Languages** Common, Eredun
+>- **Challenge** 8 
+>___
+>***Brute.*** A melee weapon deals one extra die of its damage when the mo'arg brute hits with it.
+>
+>***Reckless.*** At the start of its turn, the mo'arg brute can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
+>### Actions
+>***Multiattack.*** The Mo'arg brute makes two greatsword attacks
+>
+>***Greatsword.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 23 (5d6 + 4) slashing damage.
+>
+>***Hateful Stomp.*** The mo'arg brute stomps its foot strongly upon the ground, causing all creatures within 10 feet to make a DC 18 Strength saving throw,  taking 11 (2d10) thunder damage and falling prone on a failed save. On a success, a creature only takes half damage to no other ill effect. 
+
+
+___
+> ## Fel Lord
+> *Huge fiend (demon), lawful evil*
+> ___
+> - **Armor Class** 18 (natural armor)
+> - **Hit Points** 190 (20d12 + 80)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|23 (+6)|13 (+2)|18 (+4)|13 (+1)|15 (+2)|15 (+2)|
+>___
+> - **Saving Throws** Str +9, Con +8, Cha +6
+> - **Skills** Athletics +9, Intimidation +6, Perception +6, Survival +6
+> - **Damage Resistances** bludgeoning, piercing, and slashing damage from nonmagical weapons
+> - **Senses** darkvision 60 feet, passive Perception 12
+> - **Languages** Eredun, Common
+> - **Challenge** 12 
+> ___
+>
+> ***Brute.*** A melee weapon deals one extra die of its damage when the fel lord hits with it.
+> 
+> ***Charge.*** If the fel lord moves at least 10 feet straight toward a target and then hits it with a Legion Axe attack on the same turn, the target takes an extra 14 (4d6) slashing damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be knocked prone.
+>
+> ***Legion Strike.*** Once on each of its turns when the fel lord make a Legion Axe attack, it can make another attack against a different creature that is within 5 feet of both the first creature and the fel lord.
+>
+> ### Actions
+> ***Multiattack.*** The fel lord makes two weapon attacks. He can replace one weapon attack with Earth Tremor.
+>
+> ***Legion Axe.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. *Hit:* 24 (3d12 + 5) slashing damage.
+>
+> ***Earth Tremor (Recharge 5-6).*** You slam your weapon into the ground causing a tremor out to 10 feet. Each creature other than you in that area must make a DC 15 Dexterity saving throw. On a failed save, a creature takes 14 (4d6) thunder damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
+>
+> ### Reactions
+> ***Pursuit.*** When a creature attempts to move out of the fel lord's weapon range, it can use its reaction to move up to its movement speed toward the creature and make a weapon attack. This movement doesn't provoke opportunity attacks.
+
+
+\pagebreak
+
+### Dread Lord
+*“I'm always on the winning side.” - Varimathras*
+
+The dreaded infiltrators of the demon army, and arguably the most valuable and respected species among the Burning Legion, the Nathrezim race are perhaps second only to the Eredar themselves in the eyes of their dark master. It is hard to overstate the impact that the Dreadlords have had on the entire Great Dark, as their insidious efforts have led them to have a hand in almost every major event since before the Burning Legion was even created.
+Pale skin, dark eyes, and vicious fangs mark the faces of evil. They are vampiric demons with a natural skill for manipulation, cruelty and espionage, far more likely to use their powers to turn others to evil than to do something as crass and direct as combat - though their prowess in combat is legendary. Acting as high commanders and infiltrators for the Legion, many are seen ordering grand armies into new and confusing positions using information about their foes that they themselves have gathered. Their ability to change their shape and addle or even control the minds of mortals has led to intense distrust and confusion among their enemies, which suits the dreadlords perfectly.
+
+***Vampiric Desires.*** The nathrezim are well known for their thirst for blood, hungering constantly for the vital fluid. this hunger fuels them in combat, and they will drain the lives of their victims until there is nothing left. Even their minions, children of the night such as insects or bats, will thirst for blood, never to be satisfied.
+
+***Master Infiltrators.*** It is said that, at any time, in any place, someone you know may be a dreadlord in disguise. Their sheer skill for gathering information, manipulation and espionage is their greatest strength, and has led the Legion to countless victories. There are no lines they will not cross to further their master's goals, stealing knowledge and power from every world and every realm, even the land of the dead. Some dreadlord spies have gone years, or decades, unmasked.
+
+***Makers of Villains.*** Ironically, their greatest impact on history may be their ability to influence the creation of even greater threats, and not always on purpose. They have had a hand in the creation of some of Azeroth's greatest threats, making ripples and waves far beyond the scope of comprehension. In hushed tones, it is said that they even had a hand in the corruption of the Dark Titan Sargeras - though none would dare claim this as fact.
+ 
+ 
+
+
+\pagebreak
+___
+___
+> ## Dread Lord
+> *Large fiend (demon), chaotic evil*
+> ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 209 (22d10 + 88)
+> - **Speed** 30 ft., fly 30 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |19 (+4)|18 (+4)|19 (+4)|21 (+5)|16 (+3)|21 (+5)|
+> ___
+> - **Saving Throws** Dex +10, Wis +9, Cha +11
+> - **Skills** Perception +9, Persuasion +11, Deception +17
+> - **Damage Resistances** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+> - **Senses** darkvision 60 ft., passive Perception 19
+> - **Languages** Eredun; the dread lord can understand any physical language and communicate with any creature that speaks one
+> - **Challenge** 17 (18,000 XP)
+> ___
+> ***Demonic Terror.*** Any non-demonic creature who sees the dread lord must make a DC 19 Wisdom saving throw. On a failure, the creature is frightened of the dread lord, and must repeat the saving throw at the start of each turn. A creature who succeeds on the saving throw is immune to this effect for 24 hours.
+>
+>***Legendary Resistance (3/Day).*** If the dread lord fails a saving throw, it can choose to succeed instead.
+>
+> ***Spellcasting.*** The dread lord is a 12th-level spellcaster. The dread lord's spellcasting ability is Charisma (spell save DC 19, +11 to hit with spell attacks). The dread lord has the following spells prepared:
+>
+> Cantrip (at will): *friends*, *prestidigitation*, *fire bolt*, 
+> <br>    *minor illusion*
+> <br>1st level (4 slots): *sleep*, *false life*, *cause fear*, 
+<br>     *charm person*, *hex*
+> <br>2nd level (3 slots): *detect thoughts*, *invisibility*, *hold*
+> <br>    *person*, *ray of enfeeblement*
+> <br>3rd level (3 slots): *gaseous form*, *vampiric touch*, 
+> <br>    *bestow curse*, *hypnotic pattern*
+> <br>4th level (3 slots): *blight*, *hallucinatory terrain*
+> <br>5th level (2 slots): *hold monster*, *scrying*
+> <br>6th level (1 slots): *mass suggestion*
+>
+> ***Vampiric Aura.*** Whenever the dread lord or allies within 30 feet of it deal necrotic damage, they regain hit points equal to half the necrotic damage dealt. 
+> 
+>### Actions
+> ***Multiattack.*** The dread lord makes two vampiric claw attacks.
+>
+> ***Vampiric Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage plus 18 (4d8) necrotic damage. 
+>
+> ***Charm.*** The dread lord targets one humanoid it can see within 30 feet of itself. If the target can see the dread lord, the target must succeed on a DC 19 Wisdom saving throw or be charmed. The charmed target regards the nathrezim as a trusted friend to be heeded and protected. The target isn't under the dread lord's control, but it takes the dread lord's requests and action in the most favorable way.
+> <br>    Each time the dread lord or its companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect last 24 hours or until the dread lord is destroyed, is on a different place of existence than the target, or takes a bonus action to end this effect.
+>
+> ***Carrion Swarm (Recharge 5-6).*** The dread lord summons a swarm of biting insects around himself. All creatures in a 30 foot line starting from the dread lord must make a DC 18 Dexterity saving throw or take 14 (4d6) piercing damage and 14 necrotic damage , or half as much on a successful save. A creature who fails this saving throw also can only take either their action or bonus action on their turn, not both for 1 minute, or until they succeed on a DC 19 Constitution saving throw, which can be made at the end of each of their turns. 
+> ### Legendary Actions
+> The dread lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dread lord regains spent legendary actions at the start of its turn.
+>
+> **Move.** The dread lord can move up to its speed without 
+> <br>    provoking opportunity attacks
+> <br>**Attack.** The dread lord makes one vampiric claw attack.
+> <br>**Sleep (Costs 2 Actions).** The nathrezim cast *sleep* using 
+> <br>    one of its spell slots.
+
+\pagebreak
+
+___
+___
+> ## Observer
+>*Large fiend (demon), neutral evil*
+> ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 115 (15d10+60)
+> - **Speed** 0 ft., fly 20 ft. (hover)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|14 (+2)|18 (+4)|17 (+3)|15 (+2)|17 (+3)|
+>___
+> - **Saving Throws**  Int +6, Wis +5
+> - **Skills** Perception +8
+> - **Condition Immunities** prone
+> - **Senses** darkvision 120 ft, truesight 30 ft., passive Perception 18
+> - **Languages** Common, Eredun
+> - **Challenge** 8 (3,900 XP)
+> ___
+>
+> ***Clone Magic.*** The observer can cast *spellsteal* at will as a bonus action, using Intelligence as its spellcasting ability. When it successfully steals a spell, it also regains a number of hit points equal to five times the spell level.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 11 (3d6) piercing damage and 4 (1d6) acid damage, and the creature is grappled (escape DC 15).
+>
+> ***Tongue Lash.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 6 (1d10) bludgeoning damage and 7 (2d6) acid damage
+> 
+> ***Eye Rays.*** The observer shoots three of the predetermined magical eye rays at random, choosing one to three targets it can see within 120 feet of it.
+>
+> 1 *Arcane Ray:* The targeted creature must make a DC 14 Dexterity saving throw or take 23 (5d8) force damage and is pushed 10 feet directly away from the observer.
+> 
+> 2	*Disintegration Ray:* If the target is a creature, it must make a DC 14 Dexterity saving throw or take 27 (6d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust. If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without saving throw. If the target is a Hude or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.
+>
+> 3	*Draining Ray:* The targeted creature must make a DC 14 Constitution saving throw or take 18 (4d8) necrotic damage. The observer regains hit points equal to half the amount of necrotic damage the target takes.
+>
+> 4	*Fel Ray:* The targeted creature must make a DC 14 Dexterity saving throw or take 17 (3d10) fire damage. This ray ignores fire resistance, and creatures immune to fire damage are considered to be resistant.
+> 
+> 5	*Fire Ray:* The targeted creature must make a DC 14 Dexterity saving throw, taking 17 (3d10) fire damage and the creature catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
+> 
+> 6	*Frost Ray:* The targeted creature must make a DC 14 Dexterity saving throw or take 18 (4d8) cold damage and have their movement speed reduced to half.
+> 
+> 7	*Mind Ray:* The targeted creature must make a DC 14 Wisdom saving throw or take 18 (4d8) psychic damage and and have disadvantage on all attack rolls and ability checks for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+> 
+> 8	*Optic Link:* The targeted creature must make a DC 14 Dexterity saving throw or take 18 (4d8) necrotic damage, and the observer keeps the ray linked to the creature for 1 minute. The target must repeat the saving throw at the end of its turns. On a success, the effect ends. On failure, the target takes 5 (1d8) necrotic damage. The number of damage dice of this effect increases by 1 for each round this link has been active.
+> 
+> 9	*Poison Ray:* The targeted creature must make a DC 14 Constitution saving throw or take 18 (4d8) poison damage and be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+> 
+> 10	*Paralyzing Ray:* The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+> 
+> 11	*Petrification Ray:* The targeted creature must make a DC 14 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other.
+> 
+> 12	*Shadow Ray:* The targeted creature must make a DC 14 Wisdom saving throw or take 14 (3d8) necrotic damage and be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+\pagebreak
+
+### Pit Lord
+*"Yes... yes! I can feel his burning eyes upon me, he is close...so close. And then your world will be unmade, your lives as nothing!" - Mannoroth the Destructor*
+
+The annihilan are perhaps the most fearsome, dangerous and destructive of all of the demonic races. Known as Pit Lords, these colossal creatures act as high commanders of the Legion's invasion forces, and are rarely content to command anywhere other than in the field of battle.
+Built like mountains, their reptilian tails and four cawed legs give rise to immensely powerful upper bodies, protected by armour as thick as doors. Their barrel-like arms typically wield swords or polearms the length of buildings, capable of shattering the ground beneath them. Their gigantic wings are worthless for flight, as they are simply too heavy, but are like a shield of steel, while their backs, from head to tail, are lit by a blazing mane of emerald flames. Their faces, tusked and filled with nests of tiny razor-sharp teeth, spew flame with every breath.
+Pit lords use little magic or cunning, preferring instead to end battles decisively using their brute strength and fearsome tactics to overcome an enemy. Their command over their inferiors is unquestioned, and failure is punished by death. They respect nothing but strength, and seek nothing but total destruction.
+
+***Unrelenting Power.*** Pit lords do not give up. Ever. Unless it is completely killed, nothing will stop its slaughter. There have been pit lords with their hands removed, who have simply replaced them with weapons. Pit lords imprisoned will literally never stop raging and heaving at their bonds. Refusal to obey them will result in extreme rage, while those given orders will put the entire being into reaching their goal, no cost too small.
+
+***Legacy of Death.*** Even death does not stop a pit lord's malice. Their bodies are loaded with overwhelming power, and upon their death all of it is unleashed at once in a catastrophic explosion. Even afterwards, their blood has a hideous corruptive potency that will never go away; drinking the blood of a pit lord is enough to permanently transform a creature unregognisably, while the blood is also able to deeply corrupt the land around it until it too is unrecognisable. This blood has been seen raising the dead, and even congealing into living globules. The death of a pit lord is n ongoing catastrophe that may take decades to be cleared.
+
+***Bloody Enslavement.*** The blood of a pit lord's most famous property is also its worst; when consumed, a creature will be bound to the demon. Enslaved, unable to resist its will, and overwhelmed with bloodlust, creatures so enslaved will be under command until the moment of the demon's death. This was first seen when the demon Mannoroth's blood was consumed by the orcish race, turning their brown skin green.
+ 
+
+
+\pagebreak
+___
+___
+> ## Pit Lord
+>*Huge fiend (demon), chaotic evil*
+>___
+>- **Armor Class** 19 (natural armor)
+>- **Hit Points** 283 (21d12 + 147)
+>- **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|28 (+9)|13 (+1)|25 (+7)|22 (+6)|18 (+4)|19 (+4)|
+>___
+>- **Saving Throws** Str +15, Con +13, Wis +10, Cha +10
+>- **Damage Resistances** cold, bludgeoning, piercing, and slashing damage from nonmagical attacks not made with silvered weapons
+>- **Damage Immunities** fire, poison
+>- **Condition Immunities** poisoned
+>- **Senses** darkvision 120 ft., passive Perception 14
+>- **Languages** Common, Eredun
+>- **Challenge** 18 (20,000 XP)
+>___
+> 
+> ***Commanding Presence.*** Demon's within 30 feet of the pit lord gain a bonus to their initiative equal to its Charisma modifier, and a demon who drops to 0 hit points while within 30 feet of the pit lord can make one melee attack before falling unconscious. 
+>
+> ***Magic Resistance.*** The pit lord has advantage on saving throws against spells and other magical effects.
+>
+> ***Fel Weapons.*** the pit lord's weapon attacks are magical.
+>
+>***Legendary Resistance (3/Day).*** If the pit lord fails a saving throw, it can choose to succeed instead.
+>
+>***Death Throes.*** When the pit lord dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 35 (10d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the pit lord's weapons.
+>
+>### Actions
+>***Multiattack.*** The pit lord makes two melee weapon attacks, then can uses its Bellowing Howl action.
+>
+>***Halberd.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 25 (3d10 + 9) slashing damage + 7 (2d6) fire damage
+>
+>***Cleave.***  *Melee Weapon Attack:* +15 to hit, reach 10ft., up to three targets. *Hit:* 15 (1d12 + 9) slashing damage.
+>
+>***Bellowing Howl.*** Each creature of the pit lord's choice that can hear it within 120 feet of the pit lord and is aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the pit lord's Bellowing Howl for the next 24 hours.
+>
+>***Demonic Command.*** Each ally of the pit lord's within 60 feet of it can't be charmed or frightened until the end of its next turn.
+>
+>***Summon Demons (1/day).*** The pit lord calls into the depths of the Twisted Nether, summon either one infernal or 2d4 felhunters. They roll and act on their own initiatives.
+>
+>### Legendary Actions
+>The pit lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The pit lord regains spent legendary actions at the start of its turn.
+>
+> **Demonic Command.** The pit lord uses its Demonic <br>&nbsp;&nbsp;&nbsp; Command action
+> </br> **Halberd (Cost 2 Actions).** The pit lord makes a halberd <br>&nbsp;&nbsp;&nbsp; attack
+> </br> **Tail Sweep (Cost 3 Actions).** The pit lord sweeps its tail <br>&nbsp;&nbsp;&nbsp; 
+               out. Each creature within 10 feet of the pit lord must <br>&nbsp;&nbsp;&nbsp; 
+                 succeed on a DC 25 Strength saving throw. On a fail, <br>&nbsp;&nbsp;&nbsp; 
+                     a creature takes 13 (1d8 + 9) bludgeoning damage <br>&nbsp;&nbsp;&nbsp; 
+                  and is knocked prone. On a success, a creature only <br>&nbsp;&nbsp;&nbsp;
+                  takes half damage and does not fall prone. 
+> </br> **Cleave (Cost 3 Actions).** The pit lord uses its Cleave <br>&nbsp;&nbsp;&nbsp; action
+
+\pagebreak
+
+### Shivarra
+*"Business... or pleasure?"  - Mother Shahraz*
+
+Exotic, many-armed women approaching a young, enterprising adventurer may not necessarily be unwelcome, but a shivarra will have no intention beyond warping a foe into a loyal servant of Sargeras, and failing that, cutting them to pieces with countless bladed weapons. Equally deadly and beautiful, he shivarra comprise some of the Legion's most devout and loyal followers, who follow the Legion's goals with an almost religious zeal. To them nothing is more offensive than slights against their master or his Burning Crusade, and subsequently the shivarra often take on a supporting role in the demon army's ranks as charismatic leaders, performing an almost motherly role by ensuring that the demons believe the right beliefs, and ensuring that failure to do so is punished horribly.
+
+___
+> ## Shivarra
+>*Large fiend (demon), lawful evil*
+>___
+>- **Armor Class** 18 (natural armor)
+>- **Hit Points** 162 (18d10 + 72)
+>- **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|12 (+1)|18 (+4)|13 (+1)|14 (+2)|18 (+4)|
+>___
+>- **Senses** darkvision 60 ft., passive Perception 12
+>- **Languages** Common, Eredun
+>- **Challenge** 9 (5,000 XP)
+>___
+>
+>***Magic Resistance.*** The shivarra has advantage on saving throws against spells and other magical effects.
+>
+>***Fel Weapons.*** the shivarra'sweapon attacks are magical. 
+>
+>***Reactive.*** The shivarra can take one reaction on every turn in combat.
+>
+>### Actions
+>***Multiattack.*** The shivarra can make up to four longsword attacks
+>
+>***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
+>
+>### Reactions
+>***Parry.*** The shivarra adds 4 to its AC against one melee attack that would hit it. To do so, the marilthin must see the attacker and be wielding a melee weapon.
+
+\columnbreak
+
+### Succubi
+Succubi are some of the best-known demons even outside of the circles of demons and warlocks, and the reasons should be obvious; taking the form of an exceptionally attractive woman with relatively minimal demonic features, a succubus will act as the eyes and ears of the Burning Legion, working variously as anything from an infiltrator to a torturer. The name of their game is information, and using their powers of transformation and beguilement, succubi will infiltrate, commiserate and exterminate. It takes a strong will to overcome the wiles of a succubus, and many a warlock - often young men - will try to summon a succubus expecting submissive fealty, and will find themselves flayed and broken, while the demon quietly leaves with any useful knowledge she can find.
+
+***Enchanting Beauty.*** Famously, a succubus has immense powers of seduction. Even without magic, these demons are charming, and combined with their shape changing, illusions and mind-altering powers, it is rare that their needs are unmatched.
+
+***Hideous Torture.*** Without ever missing a beat, a succubus can go from seductive charm to cruel violence. Utilising a barbed whip, poison or shadowy magic, a succubus has a trained and intimate knowledge of how to cause as much pain as she possibly can.
+
+\pagebreak
+___
+> ## Succubus
+>*Medium fiend (demon), chaotic evil*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 66 (12d8 + 12)
+>- **Speed** 30 ft, fly 50 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (–1)|17 (+3)|13 (+1)|15 (+2)|13 (+1)|20 (+5)|
+>___
+>- **Skills** Deception +5, Insight +1, Perception +1, Persuasion +5, Stealth +3
+>- **Senses** darkvision 60 ft., passive Perception 11
+>- **Languages** Common, Eredun, telepathy 60 ft.
+>- **Challenge** 4 (1,100 XP)
+>___
+>***Telepathic Bond.*** The succubus ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.
+>
+> ***Shapechanger.*** The succubus can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the succubus loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>
+>***Innate Spellcasting.*** The succubus's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+>
+>3/day: *invisibility*
+> <br> 1/day: *suggestion*
+>
+>### Actions
+>***Whip.*** *Melee Weapon Attack:* +3 to hit, reach 10 ft., one target. *Hit:* 5 (1d4 + 3) slashing damage plus 3 (1d6) necrotic damage.
+>
+>***Seduction.*** One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours
+> <br>&nbsp;&nbsp;&nbsp;The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
+
+\pagebreak
+ 
+### Ur'zul
+Wandering the broken streets and canyons of Argus, the Legion homeworld, one might see perhaps their most hideous and disturbing creation - the ur'zul. Disgusting amalgamations of flesh and souls, originally crafted from the countless millions of eredar souls claimed during the planet's original corruption by the Legion, ur'zul take the form of hound-like monsters with countless faces locked in expressions of horrifying, ceaseless agony, positioned above a nightmarish toothy mouth.  Ur'zul have none of the sympathy or love that these souls once felt; the creatures exist only to spread their suffering.
+___
+___
+> ## Ur'zul
+>*Large fiend (demon), chaotic evil*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 75 (10d10 + 20)
+>- **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|16 (+3)|15 (+2)|19 (+4)|14 (+2)|15 (+2)|
+>___
+>- **Saving Throws** Int +7, Cha +5
+>- **Skill** Deception +5, Perception +5, plus one of the following: Arcana +7, History +7, Nature +5, and Religion +5
+>- **Senses** blindsight 60 ft. (blind beyond this distance), passive Perception 15
+>- **Languages** Common, Eredun, plus two more languages 
+>- **Challenge** 4 (1,100 XP)
+>___
+>***Insightful.*** The ur'zul has advantage on Wisdom (Perception) checks that rely on sight and it can't be surprised
+>
+>***Soul Sense.*** The Ur'zul can sense the location of any creature within 60 feet of it, unless that creature's type is construct or undead.
+>
+>***Soul Simulacrum.*** An ur'zul contains 1d8+1 different souls, with a minimum of two needed to maintain its form. It knows all the memories of the souls it has devoured. 
+>
+> As a bonus action, the ur'zul can extrude a piece of itself that assumes the appearance of one Medium or smaller creature who's soul it has devoured. The visage appears, feels, and sounds exactly like the creature it impersonates, though it smells faintly of sulfur. Each visage is tethered to the Ur'zul by a stand of sickly white flesh that can extend up to 120 feet from the ur'zul. While the ur'zul has a visage extruded, it can see through its senses. The ur'zul can have up to three visages extruded from its body. The sickly tendrils are immune to damage, but servered if there is no opening at least 1 inch wide between the visage and the ur'zul. A visage disappears if the tether is servered."
+>### Actions
+>
+> ***Multiattack.*** The ur'zul makes one melee attack, then uses its Soul Drain 
+>
+>***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage.
+>
+>***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage.
+>
+>***Soul Drain.*** The ur'zul targets one creature within 5 feet of it or one of its tendrils. The target must succeed on a DC 15 Constitution saving throw, taking 14 (4d6) necrotic damage, or half as much on a success. the ur'zul regains hit points equal to the necrotic damage dealt, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction last until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0, and any creature that dies in this way is sucked into the ur'zul's body.
+>
+
+\pagebreak
+
+### Vilefiends
+Smart and aggressive, vilefiends are animalistic demons known to roam freely in groups, actively hunting mortals. Spiny and protected by a natural armour, their long limbs and rows of teeth are only their secondary weapons; first and foremost they are corrosive, spewing their acidic blood and bile at their prey in the hopes of dissolving them into sludge. Their bite can be crippling, and can corrode away even the toughest of metal. When damaged enough their blood vessels will burst, with high-pressure acid blood spewing generously.
+
+___
+> ## Vilefiend
+>*Large fiend (demon), chaotic evil*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 127 (15d10 + 45)
+>- **Speed** 50 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|15 (+2)|16 (+3)|3 (–4)|13 (+1)|8 (–1)|
+>___
+>- **Damage Resistances** acid, poison
+>- **Skills** Perception +4, Stealth +5
+>- **Senses** passive Perception 14
+>- **Languages** _ 
+>- **Challenge** 6 (2,300 XP)
+>___
+>***Keen Smell.*** the vilefiend has advantage on Wisdom (perception) checks that rely on smell.
+>
+>***Pounce.*** If the vilefiend moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the vilefiend can make one bite attack against it as a bonus action.
+>
+>
+>***Vile Rupture.***  When the vilefiend dies, it erupts with a burst of acidic liquid. Each creature within 5 feet of the vilefiend must succeed on a DC 15 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much on a success.  
+>
+>***Pack Tactics.*** the vilefiend has advantage on an attack roll against a creature if at least one of the vilefiend's allies is within 5 feet of the creature and the ally isn't incapacitated .
+>
+>### Actions
+>***Corrosive Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage, and a creature hit must make a DC 15 Con saving throw, taking 11 (2d10) acid damage on a fail. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces it AC to 10.
+>
+>***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3 ) slashing damage.
+
+
