@@ -111,6 +111,10 @@
   .phb blockquote {
     box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
   }
+  /* Normalize space above Attributes */
+  .phb hr+section blockquote hr+table {
+    padding-top: 4px;
+  }
 
 /* TABLE OF CONTENTS  */
 
@@ -330,12 +334,12 @@
 /* APPENDIX STYLES */
 
   /* Avoid upscaling first letter on an appendix page */
-  /* .phb:nth-of-type(n+100):nth-of-type(-n+200) h1+p::first-letter {
+  .phb:nth-of-type(n+100):nth-of-type(-n+200) h1+p::first-letter {
     font-family: BookSanity;
     font-size: .317cm;
     text-rendering: optimizeLegibility;
     float: initial;
-  }   */
+  }  
 </style>
 
 <div class='cover-header-container'>
@@ -8595,8 +8599,6 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* +4 (1d4 + 2) piercing damage.
 
-\columnbreak
-
 ___
 > ## Crab
 >*Tiny beast, unaligned*
@@ -8620,6 +8622,9 @@ ___
 > ### Actions
 > ***Claw.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage.
 
+
+\columnbreak
+
 ___
 > ## Crocolisk
 >*Large beast, unaligned*
@@ -8641,6 +8646,10 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* +7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
+
+A **crocolisk** is a massive, six-legged reptilian predator. It is an amphibious creature that can be found along most warm, humid shorelines across Azeroth -- or dwelling in its murky swamps, rivers, and marshes. 
+
+Hunters prize the meat and thick, durable hide of the crocolisk. Some speculate the beast may be related to thediemetradon, as they share a number of characteristics. 
 
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
@@ -8674,7 +8683,9 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, plus 2 (1d4) poison damage.
 
-A **darkhound** is a demonic dog found stalking the forests of the world, either by themselves or in small packs. Most consider them to be little more than a nuisance to be rid of, though the dark iron dwarves have found good use in them as patrol animals.
+A **darkhound** is a demonic dog found stalking the forests of the world, either by themselves or in small packs. Despite their dark origin, they are a fairly common presence where they dwell. To farmsteads and small communities, having a pack of darkhounds nearby is a nuisance best dealt with quick -- though the dark iron dwarves have found good use in them as patrol animals.
+
+\columnbreak
 
 ___
 > ## Deer
@@ -8696,8 +8707,6 @@ ___
 > ### Actions
 >
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage.
-
-\columnbreak
 
 ___
 > ## Dire Wolf
@@ -8807,6 +8816,8 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 2 (1d4) poison damage.
 
+\pagebreakNum
+
 ___
 > ## Frenzyfish
 >*Tiny beast, unaligned*
@@ -8831,12 +8842,9 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+The **frenzyfish** are large, swarm-hunting predatory fish that can be far and wide across Azeroth, with different types well-adapted to different climates. Some prefer the warmer climates of southern Kalimdor and Eastern Kingdoms, while others thrive even in the frozen waters of Northrend.
 
-<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot inkblot-green' style='top:850px; right:100px; width:700px; transform:rotate(-40deg)'>
-<img src='https://www.gmbinder.com/images/5b3OUol.png' style='position:absolute; top:820px; right:370px; width:500px' />
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Giant Bat
@@ -8886,7 +8894,8 @@ ___
 > ### Actions
 > ***Tusk.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
-\columnbreak
+
+\pagebreakNum
 
 ___
 > ## Giant Crab
@@ -8938,11 +8947,8 @@ ___
 >
 > ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-green' style='top:650px; right:100px; width:700px; transform:rotate(230deg)'>
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Giant Moth
@@ -8993,7 +8999,7 @@ ___
 > ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (2d6 + 1) slashing damage.
 
 
-\columnbreak
+\pagebreakNum
 
 ___
 > ## Giant Scorpid
@@ -9145,6 +9151,9 @@ ___
 
 A **hawkstrider** is a large, flightless bird, indigenous to the forests of Quel'Thalas. Known for their bright, vibrant plumage and uncanny intelligence, these graceful creatures have long been a symbol of Silvermoon.
 
+
+
+
 \columnbreak
 
 ___
@@ -9171,13 +9180,6 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
-<img src='https://www.gmbinder.com/images/QsIMjKG.png' style='position:absolute; top:670px; right:0px; width:400px' />
-
-\pagebreakNum
 
 ___
 > ## Hyena
@@ -9206,7 +9208,8 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
-\columnbreak
+
+\pagebreakNum
 
 ___
 > ## Hyena Matriarch
@@ -9239,12 +9242,8 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
-<img src='https://www.gmbinder.com/images/QsIMjKG.png' style='position:absolute; top:670px; right:0px; width:400px' />
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Lion
@@ -9277,7 +9276,13 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
+<img src='https://www.gmbinder.com/images/QsIMjKG.png' style='position:absolute; top:670px; right:0px; width:400px' />
+
+\pagebreakNum
 
 ___
 > ## Lion Pridemane
@@ -9314,13 +9319,11 @@ ___
 >
 > ***Terrifying Roar.*** Each creature within 30 ft. of the lion that can hear it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lion's Terrifying Roar for the next 24 hours.
 
-A **lion** is a common sight across central Kalimdor. These fierce predators stalk the tall grass in small packs -- their prides -- and have been known to even hunt travellers.
+Lions roam far and wide across the savannahs of central Kalimdor. These fierce predators stalk the tall grass in small packs -- their prides -- and have been known even to hunt unwary travellers. 
 
+Chief among is a **pridemane**; a venerable beast that towers far above the rest. They are the heart of their pride. Recognizing one from the rest is best done, as the name would suggest, by looking for the largest beast with the biggest mane.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Mountain Lion
@@ -9351,7 +9354,11 @@ ___
 
 More commonplace across Azeroth than lions is the **mountain lion**, found both along the lush plains of Mulgore and up the grassy foothills of Hillsbrad.
 
-\columnbreak
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
 
 
 ___
@@ -9405,11 +9412,7 @@ ___
 > ### Actions
 > ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Polar Bear
@@ -9463,7 +9466,11 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 
 ___
 > ## Scorpid
@@ -9485,11 +9492,11 @@ ___
 > ### Actions
 > ***Sting.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much on a successful one.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+A **scorpid** is a quick and vicious predator, commonly found in dry and arid parts of Azeroth -- from the Barrens to Tanaris, and from the Badlands to the Burning Steppes. 
 
+They are kin to scorpions, though scorpids are far larger and far, far deadlier. it is said that the venom of an adult scorpid's stinger holds enough venom to kill beasts a hundred times its size.
 
-\pagebreakNum
-
+\columnbreak
 ___
 > ## Skywisp Moth
 >*Small beast, unaligned*
@@ -9520,7 +9527,10 @@ A **skywisp moth** is considered a docile, insignificant beast to most. Among ar
 Because of this, they are often a favoured companion for any hunters whose quarry is a dangerous spellcaster.
 
 
-\columnbreak
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+
+\pagebreakNum
 
 
 ___
@@ -9573,10 +9583,8 @@ ___
 >
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Swarm of Frenzyfish
@@ -9606,6 +9614,11 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 ___
 > ## Tallstrider
 >*Medium beast, unaligned*
@@ -9628,8 +9641,6 @@ ___
 > ***Beak.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
 >
 > ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
-
-\columnbreak
 
 ___
 > ## Towering Tallstrider
@@ -9654,6 +9665,8 @@ ___
 > ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 8 (1d12 + 2) piercing damage.
 >
 > ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.
+
+\columnbreak
 
 **Tallstriders** are large, flightless birds, native to the plains and savannahs of central Kalimdor. There is a very clear and stubborn pride to the tallstriders, making them near impossible to domesticate and useless as beasts of burden.
 
@@ -9688,9 +9701,6 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
-
-\columnbreak
-
 ___
 > ## Wolf
 >*Medium beast, unaligned*
@@ -9715,6 +9725,8 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+
+\columnbreak
 
 ___
 > ## Worg
