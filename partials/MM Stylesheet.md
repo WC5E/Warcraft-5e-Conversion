@@ -111,6 +111,10 @@
   .phb blockquote {
     box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
   }
+  /* Normalize space above Attributes */
+  .phb hr+section blockquote hr+table {
+    padding-top: 4px;
+  }
 
 /* TABLE OF CONTENTS  */
 
