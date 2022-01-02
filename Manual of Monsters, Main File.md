@@ -8432,6 +8432,10 @@ The moth cannot survive for long in captivity, however. Those who wish to make r
 
 An ashwing moth kept in captivity sheds light for 1d8 days, after which the light fades as it goes dormant.
 
+
+> This would be a good place for some Ashwing Moth art
+
+
 \columnbreak
 
 ___
@@ -8569,6 +8573,10 @@ ___
 
 A **carrion bird** is a large, carnivorous scavenger bird found across Azeroth. Their wings are broad and their heads often featherless. They stalk their prey from the skies, lurk&shy;ing from a distance, as they wait for it to fall -- whether from exhaustion, or from another hunter.
 
+
+> Maybe ditch the bear, or change this part here to be a page tear with some suitable art
+
+
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
 <img src="https://www.gmbinder.com/images/wJZvXi2.png" class="inkblot inkblot-green" style="top: -327px;right: -240px;width: 680px;transform: rotate(84deg);">
@@ -8656,6 +8664,10 @@ A **crocolisk** is a massive, six-legged reptilian predator. It is an amphibious
 Hunters prize the meat and thick, durable hide of the crocolisk. Some speculate the beast may be related to thediemetradon, as they share a number of characteristics. 
 
 
+> Crocolisk art goes here
+
+
+
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
 <img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 681px;right: -195px;width:700px;transform: rotate(49deg);">
@@ -8688,6 +8700,11 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, plus 2 (1d4) poison damage.
 
 A **darkhound** is a demonic dog found stalking the forests of the world, either by themselves or in small packs. Despite their dark origin, they are a fairly common presence where they dwell. To farmsteads and small communities, having a pack of darkhounds nearby is a nuisance best dealt with quick -- though the dark iron dwarves have found good use in them as patrol animals.
+
+
+> Move the Darkhound art here
+
+
 
 \columnbreak
 
@@ -8820,6 +8837,10 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 2 (1d4) poison damage.
 
+
+> Could move foxe art here, together with a note, or use the space for the spider
+
+
 \pagebreakNum
 
 ___
@@ -8847,6 +8868,10 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
 The **frenzyfish** are large, swarm-hunting predatory fish that can be far and wide across Azeroth, with different types well-adapted to different climates. Some prefer the warmer climates of southern Kalimdor and Eastern Kingdoms, while others thrive even in the frozen waters of Northrend.
+
+
+> Frenzyfish are the unique ones on this page, so the art here should be of one of those
+
 
 \columnbreak
 
@@ -9053,6 +9078,12 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 22 (3d10 + 6) piercing damage.
+
+\columnbreak
+
+
+> I want a note here about Giant creatures and Azeroth here, if there is anything that could work. And a page tear with something suitably cool. Basically a half page tear fitting the last page and a half of statblocks. 
+
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
