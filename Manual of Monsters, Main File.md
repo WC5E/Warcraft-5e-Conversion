@@ -8242,7 +8242,7 @@ They also appear to be very susceptible to the wolfsbane plant; a small, purple 
 
 \columnbreak
 
-<div style='margin-top:375px;'></div>
+<div style='margin-top:290px;'></div>
 
 ___
 > ## Feral Worgen
