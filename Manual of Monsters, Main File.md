@@ -8426,7 +8426,11 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-An **ashwing moth** is a nocturnal creature, best known for its vibrant light. Assassins prize them for it, using it as a decoy or distraction, as well as a subtle light in dark places. An ashwing moth in captivity sheds light for up to 1d8 days.
+An **ashwing moth** is a nocturnal creature, best known for its vibrant light. Assassins prize them for it, using it as a decoy or distraction, as well as a subtle light in dark places. 
+
+The moth cannot survive for long in captivity, however. Those who wish to make regular use of its abilities must either carefully recreate its natural habitat -- as is often done by the Jinyu of Pandaria -- or only seek them out where they already are.
+
+An ashwing moth kept in captivity sheds light for 1d8 days, after which the light fades as it goes dormant.
 
 \columnbreak
 
