@@ -55,6 +55,9 @@ These are the changes made to the class since the last update this material (3.x
     padding-left: 4px;
     padding-right: 16px;
   }
+  .phb .back-cover-header p {
+    line-height: 76px;
+  }
   .phb .back-cover-right {
       padding-left: 40px;
   }
