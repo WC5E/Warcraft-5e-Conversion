@@ -370,61 +370,8 @@
 
 \pagebreak
 
-## Credits
-*Contributors listed by community usernames.*
-<div style='margin-top:-20px;'></div>
+## Foreword
 
-<br> **Manual of Monsters Leads:** Jih, Tangerine
-<br> **Creature Statistics:** Angery, Arenalor, Auvreannia, 
-<br> <span style="margin-left:12px"></span> Geamros, Jih, Tangerine
-<br> **Text Writing:** Auvreannia, Geamros, Jih, Tangerine
-<br> **Layouting:** Jih, Tangerine
-<br> **Managing Editors:** Jih, Tangerine
-
-<br> **Additional Contribution:** Our Discord Community
-
-<br> **Cover Illustrator:** Zhang Zs
-<br> **Interior Illustrators:** Abe Taraky, Alex Garner, Andrei
-<br><span style="margin-left:12px"></span> Kiselev, Andrew Hou, Anndr, Anthony Avon, Arthur
-<br><span style="margin-left:12px"></span> Bozonnet, Blizzard Cinematics, Blizzard Entertainment,
-<br><span style="margin-left:12px"></span> Chris Deboda, Dan Mumford, Dan Scott, Dmitry Bolotov,
-<br><span style="margin-left:12px"></span> Dmitry Prozorov, Elodie Metivier, Glenn Rane, Grace
-<br><span style="margin-left:12px"></span> Liu, Jakub Kasber, James Ryman, Jimmy Lo, Jorge
-<br><span style="margin-left:12px"></span> Jacinto, Justin Kunz, kikicianjur, Laurel D. Austin,
-<br><span style="margin-left:12px"></span> Lloyd Hoshide, Luke Mancini, Mark Gibbons, Markus
-<br><span style="margin-left:12px"></span> Erdt, Matt Smith, Matthew Mckeown, Maxence Burgel,
-<br><span style="margin-left:12px"></span> Miao Zi, Monica Langlois, Mr. Jack, Noah Warner,
-<br><span style="margin-left:12px"></span> Peter Lee, Phillip Zhang, Raymond Swanland, Ruan
-<br><span style="margin-left:12px"></span> Jia, Sean O'Daniels, Sojin Hwang, Timens, UnidColor,
-<br><span style="margin-left:12px"></span> Wei Wang, Zhang Zs
-
-<br> **Based on the original D&D game created by**
-<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as
-<br><span style="margin-left:12px"></span>Brian Blume, Rob Kuntz, James Ward and Don Kaye.
-
-<br> **Based on the Warcraft franchise by**
-<br><span style="margin-left:12px"></span> © Blizzard Entertainment
-
-<br> **Playtesting provided by**
-
-<br> **Special thanks to**
-<br><span style="margin-left:12px"></span> This entire book was made using GM Binder. It is an
-<br><span style="margin-left:12px"></span> amazing tool for creating authentic-looking homebrew
-<br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons. Without
-<br><span style="margin-left:12px"></span> it, this project would've likely never been considered.
-
-<div style='margin-top:24px'></div>
-<div style="text-align:Center">
-
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='width:150px' />
-
-##### [www.GmBinder.com](https://www.gmbinder.com/)
-</div>
-
-<div style='margin-top:1000px'></div>
-<div style="text-align:Right">
-
-## Foreword </div>
 We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of Dungeons & Dragons. It is a task that has taken us months to do, and it'll likely take many more still. Everyone involved are working this in their spare time, aiming to bring a genuine recreation of *Warcraft* as a D&D 5th Edition tabletop RPG.
 
 This book is made to compliment official D&D 5th edition books, including the **Player's Handbook, Dungeon Master's Guide**, and **Monster Manual**. It has been built on the framework set by those books, and designed to be brought in as any supplement book would. Without any more work than to just use the material presented.
@@ -438,40 +385,114 @@ With each coming update, all changes will be noted in the Changelog — Link is 
 #### [ChangeLog](https://drive.google.com/open?id=1487fO7RPdUbloD7NY6mdCC-yFwsU4yFHOUQ4CBqX9mE)
 </div>
 
-<br> **Heroes Handbook**
-<br><span style="margin-left:12px"></span> Did you know that we have a Heroes Handbook as well
-<br><span style="margin-left:12px"></span> to go alongside the Manual of Monsters? A fully fleshed-
-<br><span style="margin-left:12px"></span> out player book, bringing with it all the races and classes
-<br><span style="margin-left:12px"></span>  from World of Warcraft!
-<div style='margin-top:-5px;'></div>
-<div style="text-align:Center">
+## Project Links
 
-#### [Heroes Handbook](https://www.gmbinder.com/share/-LFhhtssjN-teWCOregn)
+**Other Warcraft 5E books**
+<br><span style="margin-left:12px"></span> We've been working creating both player material and
+<br><span style="margin-left:12px"></span> dungeon master material for playing Warcraft in
+<br><span style="margin-left:12px"></span> D&D 5th Edition. You can check them all out here:
+
+<div style="text-align:center">
+
+#### [Warcraft 5E on GDrive](https://drive.google.com/drive/folders/1kVoAMR8TiO3CXFYcigFN2B6zk62xcnv9)
+
 </div>
 
-<br> **Want to help grow a community?**
+<br> **Want to join our community?**
 <br><span style="margin-left:12px"></span> We're a relatively small group working together on this,
-<br><span style="margin-left:12px"></span> and as such our ability to playtest all of it is limited.
-<br><span style="margin-left:12px"></span> If you want to help the project out and give feedback,
-<br><span style="margin-left:12px"></span> suggest changes and new features for the books, or
-<br><span style="margin-left:12px"></span> simply just join our growing Warcraft RPG community,
-<br><span style="margin-left:12px"></span> we have both an active discord server and a subreddit
-<br><span style="margin-left:12px"></span> dedicated to this project! — Links below!
-<div style='margin-top:-5px;'></div>
+<br><span style="margin-left:12px"></span> and we think it's fun to hear the thoughts and opinions
+<br><span style="margin-left:12px"></span> of people who have played with it. If you want to share
+<br><span style="margin-left:12px"></span> your stories with us, suggest changes, or just join our
+<br><span style="margin-left:12px"></span> Warcraft RPG community, we have both a Discord
+<br><span style="margin-left:12px"></span> server and a subreddit going.
+
+<div style="text-align:center">
+
+#### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:40px"></span> [Subreddit](https://www.reddit.com/r/wc5e/)
+
+</div>
+
+
+\columnbreak
+
+
+## Contributor Credits
+
+*Contributors listed by community usernames.*
+<div style='margin-top:-10px;'></div>
+
+<br> **Original project authors** 
+<br><span style="margin-left:12px"></span> Jih, Tangerine
+
+<br />**Current core team**
+<br><span style="margin-left:12px"></span> Ace Azzermeen, Geamros, Lorestalker Nemzal,
+<br><span style="margin-left:12px"></span> MagusRogue MythMaker, Nagash, Llamadom,
+<br><span style="margin-left:12px"></span> Tangerine, Tyloris
+
+<br />**Inactive & former team members**
+<br><span style="margin-left:12px"></span> 123jrf, ApolloLumina, Artipo, Auvreannia, Christinekn,
+<br><span style="margin-left:12px"></span> ClockWorkTank, Elenus, Jih, Prometheus, Reiga,
+<br><span style="margin-left:12px"></span> Silverblade, Tseims, Wyken
+
+<br />**Big thanks to** 
+<br><span style="margin-left:12px"></span> Everyone at our community Discord and Subreddit,
+<br><span style="margin-left:12px"></span> whose engagement with the material and conversations
+<br><span style="margin-left:12px"></span> with us make this project a ton of fun to work with.
+
+<br> **Based on the original D&D game created by**
+<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as
+<br><span style="margin-left:12px"></span>Brian Blume, Rob Kuntz, James Ward and Don Kaye.
+
+<br> **Based on the Warcraft franchise by**
+<br><span style="margin-left:12px"></span> © Blizzard Entertainment
+
+
+## Other Thanks 
+
+**Other projects we really like and want to give thanks to**
+- [World of Warcraft 5E](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
+- [Champion of Azeroth](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
+- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! <br /> You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
+
+
+## Made with GM Binder
+
+This entire book was made using GM Binder. It is an amazing tool for creating authentic-looking homebrew material for 5th Edition Dungeons and Dragons.  Without it, this project would've likely never been considered.
+
+
+<div style='margin-top:24px'></div>
 <div style="text-align:Center">
 
-#### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:48px"></span> [Subreddit](https://old.reddit.com/r/wc5e/)
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='width:150px' />
+
+##### [www.GmBinder.com](https://www.gmbinder.com/)
+
 </div>
 
-<div style='margin-top:70px'></div>
+\pagebreakNum
 
-<div class='wide'>
+## Legal Stuff
 
-#### Legal Stuff
+In accordance with [statements presented by Blizzard Entertainment](https://www.blizzard.com/en-us/legal/28d5ebbf-c245-4408-8ba9-043dd5f056bf/legal-faq), for use of Blizzard trademarks in the creation of "total conversions", we the providers of the Dungeons & Dragons 5th Edition material presented in here make it all available for free.
+
+There will never be a cost required to access any of it. This project will always remain free.
+
+Depending on viewpoint, this project could be viewed as an "adaption" rather than a "total conversion" of Blizzard Entertainment's intellectual property. 
+
+We have however seen a number of long-lived and still going conversion projects, adopting properties such as *Warcraft* and *Diablo* to other games -- including other tabletop RPG conversions of such. The common denominator between is that they are all creative endeavours and not marketed products.
+
+We understand that our ability to work on this project may be revoked should Blizzard Entertainment find it an infringement of their End User License Agreement.
+
+##### Wizards of the Coast Legal
 DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
-<br> This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.
-<br> All other original material in this work is copyright 2019 by [your legal name or company name] and published under the Community Content Agreement for Dungeon Masters Guild.
-</div>
+
+Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.1 ("SRD5") is granted solely through the use of the Open Gaming License, Version 1.0a.
+
+##### Blizzard Entertainment Legal
+
+©2004 Blizzard Entertainment, Inc. All rights reserved. World of Warcraft, Warcraft and Blizzard Entertainment are trademarks or registered trademarks of Blizzard  Entertainment, Inc. in the U.S. and/or other countries.
+
 
 \pagebreakNum
 
@@ -8414,6 +8435,8 @@ Some of the statblocks included in this chapter are taken from the Dungeons & Dr
 
 Some of them have been added as is, while others we've adjusted and rebalanced for Warcraft as a campaign setting. We did this because we wanted to have as many setting-appropriate creatures as possible, even ones already printed in the SRD, together in one place. 
 
+> Keep this here for a bit but move it to the book intro later to clear some space.
+
 ___
 > ## Ashwing Moth
 >*Tiny beast, unaligned*
@@ -8440,10 +8463,6 @@ An **ashwing moth** is a nocturnal creature, best known for its vibrant light. A
 The moth cannot survive for long in captivity, however. Those who wish to make regular use of its abilities must either carefully recreate its natural habitat -- as is often done by the Jinyu of Pandaria -- or only seek them out where they already are.
 
 An ashwing moth kept in captivity sheds light for 1d8 days, after which the light fades as it goes dormant.
-
-
-> This would be a good place for some Ashwing Moth art
-
 
 \columnbreak
 
