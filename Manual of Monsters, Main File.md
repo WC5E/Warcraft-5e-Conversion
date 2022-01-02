@@ -233,7 +233,7 @@
     transform: scaleX(-1);
   }
   /* On odd bestiary pages, have the Monster Manual page tear and lettering */
-  .phb:nth-child(odd):nth-of-type(n+10):nth-of-type(-n+115):after {
+  .phb:nth-child(odd):nth-of-type(n+11):nth-of-type(-n+123):after {
     content: '';
     height: 125px;
     background-image: url(https://gmbinder.com/images/lLWeevR.png), url('https://gmbinder.com/images/YWardeu.png');
@@ -242,7 +242,7 @@
     background-position: bottom right -10px, bottom;
   }
   /* Reversed for alternating pages */
-  .phb:nth-child(even):nth-of-type(n+10):nth-of-type(-n+115):after {
+  .phb:nth-child(even):nth-of-type(n+11):nth-of-type(-n+123):after {
     content: '';
     height: 125px;
     background-image: url(https://gmbinder.com/images/lLWeevR.png), url('https://gmbinder.com/images/YWardeu.png');
