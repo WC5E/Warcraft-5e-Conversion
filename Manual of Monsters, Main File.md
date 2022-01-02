@@ -330,12 +330,12 @@
 /* APPENDIX STYLES */
 
   /* Avoid upscaling first letter on an appendix page */
-  .phb:nth-of-type(n+0):nth-of-type(-n+100) h1+p::first-letter {
+  /* .phb:nth-of-type(n+100):nth-of-type(-n+200) h1+p::first-letter {
     font-family: BookSanity;
     font-size: .317cm;
     text-rendering: optimizeLegibility;
     float: initial;
-  }  
+  }   */
 </style>
 
 <div class='cover-header-container'>
