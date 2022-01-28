@@ -8857,10 +8857,15 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 2 (1d4) poison damage.
 
 
-> Could move foxe art here, together with a note, or use the space for the spider
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/zxp4HSp.png" class="inkblot inkblot-green" style="top: 361px;left: 20px;width: 820px;transform: rotate(39deg);">
+<img src="https://i.imgur.com/DpcTgA2.png" style="position:absolute;bottom: 60px;right: 42px;width: 850px;">
 
 
 \pagebreakNum
+
 
 ___
 > ## Frenzyfish
@@ -9850,7 +9855,7 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <br />Dwarf Hunter with Bear by [Miao Zi](https://www.reddit.com/r/Art/comments/5db5gv/dwarf_hunter_with_bear_by_miao_zi_2560_1600_2015/)
 <br />River Crocolisk by [Daren Bader](https://hearthstone.fandom.com/wiki/River_Crocolisk)
 <br />Phase Hound by [Lars Grant-West](https://wowpedia.fandom.com/wiki/Phase_Hound_(Blood_of_Gladiators))
-
+<br />Fox Render from World of Warcraft
 
 \pagebreakNum
 
