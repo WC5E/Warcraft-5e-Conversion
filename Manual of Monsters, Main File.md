@@ -8599,13 +8599,13 @@ ___
 A **carrion bird** is a large, carnivorous scavenger bird found across Azeroth. Their wings are broad and their heads often featherless. They stalk their prey from the skies, lurk&shy;ing from a distance, as they wait for it to fall -- whether from exhaustion, or from another hunter.
 
 
-> Maybe ditch the bear, or change this part here to be a page tear with some suitable art
-
-
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+<img src="https://i.imgur.com/QIZvRDl.jpg" style="position: absolute;bottom: -39px;right: -98px;width: 900px;">
+
+<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute; top:-50px; right:0px; width:800px;" />
+
 <img src="https://www.gmbinder.com/images/wJZvXi2.png" class="inkblot inkblot-green" style="top: -327px;right: -240px;width: 680px;transform: rotate(84deg);">
-<!--<img src="https://www.gmbinder.com/images/VEAtHNK.png" style="position:absolute;top: -130px;right: -180px;width: 730px;">-->
 
 
 \pagebreakNum
@@ -8689,14 +8689,10 @@ A **crocolisk** is a massive, six-legged reptilian predator. It is an amphibious
 Hunters prize the meat and thick, durable hide of the crocolisk. Some speculate the beast may be related to thediemetradon, as they share a number of characteristics. 
 
 
-> Crocolisk art goes here
-
-
-
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-<img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 681px;right: -195px;width:700px;transform: rotate(49deg);">
-<img src='https://www.gmbinder.com/images/nw76d2C.png' style='position:absolute; top:850px; right:-20px; width:400px' />
+<img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 531px;left: 20px;width: 770px;transform: rotate(39deg);">
+<img src="https://i.imgur.com/xgTWyy8.png" style="position:absolute;top: 640px;right: -18px;width: 760px;">
 
 \pagebreakNum
 
@@ -9846,6 +9842,16 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 
 <img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
 <img src='https://www.gmbinder.com/images/4TyqQuB.png' style='position:absolute; top:600px; right:-75px; width:500px' />
+
+\pagebreakNum
+
+## Appendix A Art Credits
+
+<div style='margin-top:-14px;'></div>
+
+<br />Dwarf Hunter with Bear by [Miao Zi](https://www.reddit.com/r/Art/comments/5db5gv/dwarf_hunter_with_bear_by_miao_zi_2560_1600_2015/)
+<br />River Crocolisk by [Daren Bader](https://hearthstone.fandom.com/wiki/River_Crocolisk)
+
 
 \pagebreakNum
 
