@@ -8720,11 +8720,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, plus 2 (1d4) poison damage.
 
-A **darkhound** is a demonic dog found stalking the forests of the world, either by themselves or in small packs. Despite their dark origin, they are a fairly common presence where they dwell. To farmsteads and small communities, having a pack of darkhounds nearby is a nuisance best dealt with quick -- though the dark iron dwarves have found good use in them as patrol animals.
-
-
-> Move the Darkhound art here
-
+A **darkhound** is a demonic dog found stalking the forests of the world, either by themselves or in small packs. Despite their dark origin, they are a fairly common presence where they dwell. To farmsteads and small communities, having a pack of darkhounds nearby is a trouble best dealt with quickly -- though the dark iron dwarves have found good use in them as patrol animals.
 
 
 \columnbreak
@@ -8775,12 +8771,14 @@ ___
 >
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
+
+
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-<img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 681px;right: -195px;width:700px;transform: rotate(49deg);">
-<img src='https://www.gmbinder.com/images/nw76d2C.png' style='position:absolute; top:850px; right:-20px; width:400px' />
+<img src="https://i.imgur.com/BsqNNL3.png" style="position:absolute;bottom: -25px;left: 0px;width: 450px;">
 
 \pagebreakNum
+
 
 ___
 > ## Eagle
@@ -9851,6 +9849,7 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 
 <br />Dwarf Hunter with Bear by [Miao Zi](https://www.reddit.com/r/Art/comments/5db5gv/dwarf_hunter_with_bear_by_miao_zi_2560_1600_2015/)
 <br />River Crocolisk by [Daren Bader](https://hearthstone.fandom.com/wiki/River_Crocolisk)
+<br />Phase Hound by [Lars Grant-West](https://wowpedia.fandom.com/wiki/Phase_Hound_(Blood_of_Gladiators))
 
 
 \pagebreakNum
