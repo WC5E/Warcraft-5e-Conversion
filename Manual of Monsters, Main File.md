@@ -9384,6 +9384,8 @@ Chief among is a **pridemane**; a venerable beast that towers far above the rest
 
 \columnbreak
 
+> Missing Lizard statblock here
+
 ___
 > ## Mountain Lion
 >*Medium beast, unaligned*
@@ -9446,6 +9448,10 @@ ___
 >
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
+> Missing Octopus statblock here
+
+\columnbreak
+
 ___
 > ## Owl
 >*Tiny beast, unaligned*
@@ -9470,8 +9476,6 @@ ___
 >
 > ### Actions
 > ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
-
-\columnbreak
 
 ___
 > ## Polar Bear
@@ -9500,6 +9504,10 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 ___
 > ## Reef Shark
 >*Medium beast, unaligned*
@@ -9524,12 +9532,6 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
-
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 
 ___
 > ## Scorpid
@@ -9556,6 +9558,15 @@ A **scorpid** is a quick and vicious predator, commonly found in dry and arid pa
 They are kin to scorpions, though scorpids are far larger and far, far deadlier. it is said that the venom of an adult scorpid's stinger holds enough venom to kill beasts a hundred times its size.
 
 \columnbreak
+
+> Missing Sea Horse statblock here
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+
+\pagebreakNum
+
 ___
 > ## Skywisp Moth
 >*Small beast, unaligned*
@@ -9585,12 +9596,7 @@ A **skywisp moth** is considered a docile, insignificant beast to most. Among ar
 
 Because of this, they are often a favoured companion for any hunters whose quarry is a dangerous spellcaster.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-
-\pagebreakNum
-
+\columnbreak
 
 ___
 > ## Spider
@@ -9643,7 +9649,9 @@ ___
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
 
-\columnbreak
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
 
 ___
 > ## Swarm of Frenzyfish
@@ -9673,11 +9681,6 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 ___
 > ## Tallstrider
 >*Medium beast, unaligned*
@@ -9700,6 +9703,10 @@ ___
 > ***Beak.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
 >
 > ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
+
+
+\columnbreak
+
 
 ___
 > ## Towering Tallstrider
@@ -9725,7 +9732,6 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.
 
-\columnbreak
 
 **Tallstriders** are large, flightless birds, native to the plains and savannahs of central Kalimdor. There is a very clear and stubborn pride to the tallstriders, making them near impossible to domesticate and useless as beasts of burden.
 
@@ -9760,6 +9766,11 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
+
+> Missing Weasel statblock here
+
+\columnbreak
+
 ___
 > ## Wolf
 >*Medium beast, unaligned*
@@ -9785,7 +9796,11 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
-\columnbreak
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
 
 ___
 > ## Worg
@@ -9810,9 +9825,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
+\columnbreak
 
 
 ___
