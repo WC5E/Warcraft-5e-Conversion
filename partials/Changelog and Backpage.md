@@ -68,6 +68,9 @@ These are the changes made to the class since the last update this material (3.x
     width: 475px;
     background-size: 475px 1136px;
   }
+  .phb .back-cover-header p {
+    line-height: 76px;
+  }
   .phb .back-cover-diamond {
     display: block;
     position: initial;
