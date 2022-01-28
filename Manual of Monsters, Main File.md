@@ -8571,8 +8571,6 @@ ___
 
 \columnbreak
 
-<div style='margin-top:170px;'></div>
-
 ___
 > ## Carrion Bird
 >*Medium beast, unaligned*
@@ -8607,7 +8605,7 @@ A **carrion bird** is a large, carnivorous scavenger bird found across Azeroth. 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
 <img src="https://www.gmbinder.com/images/wJZvXi2.png" class="inkblot inkblot-green" style="top: -327px;right: -240px;width: 680px;transform: rotate(84deg);">
-<img src="https://www.gmbinder.com/images/VEAtHNK.png" style="position:absolute;top: -130px;right: -180px;width: 730px;">
+<!--<img src="https://www.gmbinder.com/images/VEAtHNK.png" style="position:absolute;top: -130px;right: -180px;width: 730px;">-->
 
 
 \pagebreakNum
