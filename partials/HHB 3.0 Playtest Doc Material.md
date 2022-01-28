@@ -8,6 +8,16 @@
   }
   .phb:after { content: ""; }
 
+  /* Workaround fix for the line height displacement that GM Binder is
+  experiencing right now thanks to under the hood Chromium changes */
+  .phb p{ line-height: 15px; } 
+  .phb blockquote p{ line-height: 14px; } 
+  .phb h2{ line-height: 26px; } 
+  .phb h3{ line-height: 19px; } 
+  .phb h4{ line-height: 15px; padding-bottom: 3px; } 
+  .phb h5{ line-height: 17px; } 
+  th, td { line-height: 14px; }
+
 
 /* TABLE OF CONTENTS  */
 
@@ -249,6 +259,9 @@ These are the changes made to the class since the last update this material (3.x
     top: -10px;
     width: 475px;
     background-size: 475px 1136px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
   }
   .phb .back-cover-diamond {
     display: block;

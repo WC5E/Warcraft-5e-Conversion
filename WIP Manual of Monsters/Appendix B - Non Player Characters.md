@@ -6,6 +6,17 @@
 
 <style>
 
+  /* Workaround fix for the line height displacement that GM Binder is
+    experiencing right now thanks to under the hood Chromium changes */
+  .phb p{ line-height: 15px; } 
+  .phb blockquote p{ line-height: 14px; } 
+  .phb h2{ line-height: 26px; } 
+  .phb h3{ line-height: 19px; } 
+  .phb h4{ line-height: 15px; padding-bottom: 3px; } 
+  .phb h5{ line-height: 17px; } 
+  th, td { line-height: 14px; }
+
+
 /* TABLES AND BLOCKS */
 
   /* Clear internal padding and add gap above for green note blocks*/
@@ -33,7 +44,10 @@
   }
   
   /* For creature statblocks within range (start and end must be specified),
-  don't show a background. Used for the appendix creatures */
+  don't show a background. Used for the appendix creatures 
+  !! Disabled to test appendix with standard statblock appearance
+  */
+  /* 
   .phb:nth-of-type(n+0):nth-of-type(-n+100) hr+section blockquote {
     background: none;
     border: none;
@@ -42,6 +56,17 @@
     margin-bottom: 12px;
     padding-top: 6px;
     padding-bottom: 6px;
+  } 
+  */
+  
+  /* For double-wide creature statblocks that we want to have anchored to the
+  bottom of the page regardless of content flow. */
+  .statblock-bottom-wide {
+    position:absolute;
+    bottom:63px;
+    right:1.7cm;
+    left:1.7cm;
+    margin-top:1200px;
   }
 
 
@@ -136,59 +161,129 @@
   .phb:nth-child(even) .pageLetter {
     left:25px;
   }
-
-/* BACK PAGE STYLES */
-
-  /* Remove footer from back page, replace pX with last page num */
-  .phb#p19:after { display:none; }
-
-  .phb .back-cover-content {
-    padding-left: 4px;
-    padding-right: 16px;
-  }
-  .phb .back-cover-right {
-      padding-left: 40px;
-  }
-  .phb .back-cover-image {
-    height: 1136px;
-    left: -20px;
-    top: -10px;
-    width: 475px;
-    background-size: 475px 1136px;
-  }
-  .phb .back-cover-diamond {
-    display: block;
-    position: initial;
-    left: initial;
-    top: initial;
-    margin: auto;
-    margin-bottom: 35px;
-    box-sizing: border-box;
-    background-repeat: no-repeat;
-  }
- .phb .back-cover-logo-container {
-    position: absolute;
-    bottom: 30px;
-    left: 64px;
-    width: 314px;
- }
- .phb .back-cover-logo,
- .phb .back-cover-logo-link {
-     position: initial;
-     margin: auto;
-     margin-bottom: 8px;
-     left: initial;
-     bottom: initial;
-     right: initial;
-     background-repeat: no-repeat;
- }
  
 </style>
 
+# Nonplayer Characters
 
-# Appendix B: Nonplayer Characters
+This is a partial release from the *Warcraft 5E* project's *Manual of Monsters*; a small group of friends having fun writing and sharing *Warcraft* material for D&D 5th Edition. 
 
-This appendix contains statistics for various humanoid nonplayer characters (NPCs) that might be encountered during an adventure. These stat blocks can represent human and nonhuman NPCs, and you can customize them with whichever racial traits you feel are appropriate.
+We're mainly a group of friends looking to have fun with this, as our little hobby project with big ambitions. It is entirely out of our own time, and entirely for free. 
+
+If you want to see more, follow the links at the bottom of this page. 
+
+##### About these statblocks
+
+This document contains statistics for different humanoid nonplayer characters (NPCs) that might be encountered during an adventure. 
+
+Many of these statblocks are taken from the Dungeons & Dragons SRD 5.1, following guidelines on copying and modifying SRD content. From there, we've rewritten them with new features, new spell lists, and new text to better work for us as Warcraft NPCs. 
+
+We also have a lot of more stand-out unique statblocks both made and otherwise planned, here we just wanted to have a lot of more typical NPCs flavoured for the setting. Check out the project link above for that.
+
+At some point, we'd like to have an overview of what could be added to an NPC to reflect different races (the statblocks are all written for medium-sized humanoids), but that is a priority some way down the line for now. 
+
+
+## Contributor Credits
+
+*Contributors listed by community usernames.*
+<div style='margin-top:-10px;'></div>
+
+<br> **Original project authors** 
+<br><span style="margin-left:12px"></span> Jih, Tangerine
+
+<br />**Current core team**
+<br><span style="margin-left:12px"></span> Ace Azzermeen, Geamros, Lorestalker Nemzal,
+<br><span style="margin-left:12px"></span> MagusRogue MythMaker, Nagash, Llamadom,
+<br><span style="margin-left:12px"></span> Tangerine, Tyloris
+
+<br />**Inactive & former team members**
+<br><span style="margin-left:12px"></span> 123jrf, ApolloLumina, Artipo, Auvreannia, Christinekn,
+<br><span style="margin-left:12px"></span> ClockWorkTank, Elenus, Jih, Prometheus, Reiga,
+<br><span style="margin-left:12px"></span> Silverblade, Tseims, Wyken
+
+<br />**Big thanks to** 
+<br><span style="margin-left:12px"></span> Everyone at our community Discord and Subreddit
+
+<br> **Also thanks to**
+<br><span style="margin-left:12px"></span> This entire book was made using GM Binder. It is an
+<br><span style="margin-left:12px"></span> amazing tool for creating authentic-looking homebrew
+<br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons. Without
+<br><span style="margin-left:12px"></span> it, this project would've likely never been considered.
+
+<br> **Based on the original D&D game created by**
+<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as
+<br><span style="margin-left:12px"></span>Brian Blume, Rob Kuntz, James Ward and Don Kaye.
+
+<br> **Based on the Warcraft franchise by**
+<br><span style="margin-left:12px"></span> © Blizzard Entertainment
+
+
+\columnbreak
+
+
+## Art Credits 
+
+<div style='margin-top:-14px;'></div>
+
+<br />**Page 1 Art:** "Acolyte" from [Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Acolyte?file=Reforged_credits_art_13.png)
+<br />**Page 2 Art:** "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889)
+<br />**Page 3 Art:** "Val'Sharah Concept" by [Phillip Zhang](https://www.artstation.com/artwork/RYen2r)
+<br />**Page 4 Art:** "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543)
+<br />**Page 5 Art:** Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet)
+<br />**Page 6 Art:** "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
+<br />**Page 7 Art:** "The Cultist" by [Rogier van de Beek](https://www.artstation.com/artwork/oG3OJ)
+<br />**Page 8 Art:** "Demon Hunter" by [Szabados Zsolt](https://www.wowhead.com/news=249763.3/legion-art-contest-winners-gallery)
+<br />**Page 9 Art:** "Wild Growth" by [EmberWickArt](https://twitter.com/emberwickart/status/1072575420850208768)
+<br />**Page 10 Art:** "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
+<br />**Page 11 Art:** "Draenei Frost Mage" by [Aaron Lovett](https://www.artstation.com/artwork/y2w6x)
+<br />**Page 12 Art:** "Kel'Thuzad" by [Alexey Kruglov](https://www.artstation.com/artwork/V5BWN)
+<br />**Page 13 Art:** "Night Elf Ranger" by [Grace Liu](https://www.deviantart.com/nightblue-art/art/Night-Elf-Ranger-374201887)
+<br />**Page 14 Art:** "Scout Kurgo" by [Dan Scott](https://wowpedia.fandom.com/wiki/Scout_Kurgo)
+<br />**Page 15 Art:** "Bubula del Kissel" by [Phroilan Gardner](https://wowpedia.fandom.com/wiki/Bubula_del_Kissel)
+<br />**Page 16 Art:** "Troll Warrior" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Troll-warrior-832831281)
+<br />**Page 17 Art:** "Belf Warlock" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Belf-Warlock-772984259)
+<br />**Page 18 Art:** "Fire Mage" by [Matheus Fernando](https://www.artstation.com/artwork/W8mLJ)
+<br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
+
+
+## Other Thanks 
+
+**Other projects we like and want to give thanks to**
+- [World of Warcraft 5E](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
+- [Champion of Azeroth](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
+- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! <br /> You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
+
+
+## Project Links
+
+**Other Warcraft 5E books**
+<br><span style="margin-left:12px"></span> We've been working creating both player material and
+<br><span style="margin-left:12px"></span> dungeon master material for playing Warcraft in
+<br><span style="margin-left:12px"></span> D&D 5th Edition. You can check them all out here:
+
+<div style="text-align:center">
+
+#### [Warcraft 5E on GDrive](https://drive.google.com/drive/folders/1kVoAMR8TiO3CXFYcigFN2B6zk62xcnv9)
+
+</div>
+
+<br> **Want to join our community?**
+<br><span style="margin-left:12px"></span> We're a relatively small group working together on this,
+<br><span style="margin-left:12px"></span> and we think it's fun to hear the thoughts and opinions
+<br><span style="margin-left:12px"></span> of people who have played with it. If you want to share
+<br><span style="margin-left:12px"></span> your stories with us, suggest changes, or just join our
+<br><span style="margin-left:12px"></span> Warcraft RPG community, we have both a Discord
+<br><span style="margin-left:12px"></span> server and a subreddit going.
+
+<div style="text-align:center">
+
+#### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:40px"></span> [Subreddit](https://www.reddit.com/r/wc5e/)
+
+</div>
+
+
+\pagebreakNum
 
 ___
 > ## Acolyte <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;2;12;4;0;4;0;4;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;1;1;1;1;Sacred%20Flame (Divine Glow not factored in) -->
@@ -219,17 +314,19 @@ ___
 >
 > ***Divine Glow (1/Day).*** The acolyte becomes a source of celestial light. Each undead creature in a 15-foot radius centered on the acolyte must make a DC 12 Dexterity saving throw. On a failed save, a creature takes 3 (1d6) radiant damage.
 
-**Acolytes** are the novice priests in many creeds and orders following the teachings of the Light: a powerful force wor&shy;shipped far and wide. In their tutelage, it is often they who are called on for the simple deeds and grunt work.
+**Acolytes** are the novice priests in creeds and orders, great or small, that follow the teachings of a divine power. 
+<br /> In this capacity, simple deeds and physical grunt
+<br /> work are often made part of their tutelage.
 
 \columnbreak
 
 
-> ##### Variant: The Damned <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;2;12;4;0;4;0;4;6;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;1;1;1;1;Sacred%20Flame -->
-> Some fresh-faced acolytes lose hope in the Light and instead fall to the sway of the Damned, becoming servants of the  Lich King and the Scourge. 
+> ##### Variant: Acolyte of the Damned <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;2;12;4;0;4;0;4;6;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;1;1;1;1;Sacred%20Flame -->
+> One particularly notable group of acolytes are those who fell to the sway of the Damned and became servants of the Lich King and the Scourge.
 > 
-> The Damned have the same astistics as an acolyte except that its *cure wounds* spell can affect undead and it has the following trait in place of acolyte's Divine Glow action:
+> An acolyte of the Damned have the same statistics as an acolyte, except that its *cure wounds* spell can affect undead creatures. It also has the following trait in place of an acolyte's Divine Glow action:
 >
-> <br/> ***Spirit Release.*** When the damned dies, its body release part of its spirit energy. Each creature in a 10-foot radius on the damned must make a DC 12 Constitution saving throw. On a failed save, a creature takes 3 (1d6) necrotic damage.
+> <br/> ***Spirit Release.*** When the acolyte dies, its spirit escapes from its body in a violent burst of energy. Each creature in a 10-foot radius of the priest must make a DC 12 Constitution saving throw. On a failed save, a creature takes 3 (1d6) necrotic damage.
 
 ___
 > ## Arcanist <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;54;4;12;14;0;14;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;2;4;Arcane%20Blast;Fire%20Bolt;Magic%20Missile -->
@@ -265,9 +362,8 @@ Be it in a bastion of magic such as Dalaran or in smaller societies further afie
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://www.gmbinder.com/images/EUILrmP.jpg' style='position:absolute; top:800px; right:400px; width:500px;' />
-<img src='https://www.gmbinder.com/images/7drSEMn.png' style='position:absolute; top:0px; right:-50px; width:900px; transform:scalex(-1)' />
-<img src='https://www.gmbinder.com/images/MVDaLa2.png' style='position:absolute; top:-70px; right:-150px; width:960px' />
+<img src="https://www.gmbinder.com/images/AYuE5Qf.png" class="inkblot" style="left: -35px;bottom: -355px;width: 520px;transform: rotate(107deg);">
+<img src="https://www.gmbinder.com/images/cNVEirW.png" style="position:absolute;bottom: -35px;left: -20px;width: 430px;">
 
 \pagebreakNum
 
@@ -331,21 +427,27 @@ The talented few that put the work into magical mastery may be recognized as an 
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://www.gmbinder.com/images/uOQOURz.png' class='inkblot' style='right:-90px; top:140px; width:640px;' />
-<img src='https://www.gmbinder.com/images/PGGwqOC.png' style='position:absolute; top:90px; right:-200px; width:800px' />
-<img src='https://www.gmbinder.com/images/7drSEMn.png' style='position:absolute; top:-6px; left:-170px; width:1010px' />
-
+<img src="https://www.gmbinder.com/images/uOQOURz.png" class="inkblot" style="right: -62px;top: 145px;width:640px;">
+<img src="https://www.gmbinder.com/images/PGGwqOC.png" style="position:absolute;top: 78px;right: -178px;width: 810px;">
 
 \pagebreakNum
 
+<div style="margin-top:110px"></div>
+
+Among druidic communities, there is nobody more respected and heeded than the wise **archdruid**. Few have ever existed, and those that do live long lives devoted to nature, and many of those few spend their time bound to the Emerald Dream.
+
+\columnbreak
+
+<div class="statblock-bottom-wide">
+
 ___
 ___
-> ## Archdruid <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;231;10;18;98;25;84;25;76;18;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;9;8;7;17;Solar%20Wrath;Starfall;Starfire;Starsurge;Sunbeam;Wall%20of%20Thorns;Whirlwind;Wrath%20of%20Nature  Extra damage from Wrath of the Moon (+7 per spell w/ at least 5d6 damage) and Fury of Elune worked in.  -->
+> ## Archdruid <!-- https://wc5e-cr-calculator.frogvall.com/?2;17;231;10;18;98;25;84;25;76;18;83;18;90;18;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;9;8;7;17;Solar%20Wrath;Starfire;Starsurge;Wrath%20of%20Nature;Starfall;Sunbeam;Wall%20of%20Thorns;Whirlwind  Extra damage from Wrath of the Moon (+7 per spell w/ at least 5d6 damage) and Fury of Elune worked in. Turn  4 is bear form, turn 5 is cat form. -->
 >*Medium humanoid (any race), any alignment*
 > ___
-> - **Armor Class** 14 (hide armor) in humanoid form, 13 in bear form, 15 in cat form, or 16 with *barkskin*; <br/> 17 in moonkin form
+> - **Armor Class** 14 (hide armor) in spellcaster or flight form, 16 with *barkskin*; 19 in bear form, or 16 in cat form.
 > - **Hit Points** 231 (42d8 + 42)
-> - **Speed** 30 ft.
+> - **Speed** 30 ft., 50 ft. in cat form, fly 60 ft. in flight form
 >___
 > |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 > |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -358,21 +460,24 @@ ___
 > - **Languages** Druidic plus any two languages
 > - **Challenge** 14 (11,500 XP)
 > ___
-> ***Astral Influence.*** The powers of Elune flows within the archdruid, giving it resistance to radiant damage.
+> 
+> ***Shapeshifting.*** As a bonus action, the archdruid can magically polymorph into its Bear form, Cat form, Flight form, or Spellcaster form. Outside of its normal human&shy;oid form, any equipment it is wearing or carrying is absorbed or borne by the alternate form (the archdruid's choice). It reverts to its humanoid form when it dies
+>
+> - ***Bear Form.*** While in the form of a Large bear, if the archdruid moves at least 20 feet straight toward a target and then hits with a melee attack on the same turn, the target takes an extra 18 (4d8) damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be knocked prone.
+>
+> - ***Cat Form.*** While in the form of a Medium cat, the archdruid can take the Disengage or Hide action as a bonus action on each of its turn.
+>
+> - ***Flight Form.*** While in the form of a Medium bird, the archdruid does not provoke opportunity attacks when it moves out of an enemy's reach.
+> 
+> - ***Spellcaster Form.*** While in its normal humanoid form, or in the form of a Medium owlbear, a creature that suc&shy;ceeds on a saving throw against a cantrip cast by the archdruid still takes half the cantrip's damage (if any) but suffers no additional effects.
+>
+> <span></span> <!-- Break intendation on the line below -->
+>
+> ***Speak with Beasts and Plants.*** The archdruid can communicate with beasts and plants as if they shared a language.
 >
 > ***Wrath of the Moon (2/Day).*** When the archdruid casts a spell that deals damage, it can reroll up to 5 damage dice and use either roll.
->
-> ***Shapeshifting.*** The archdruid can magically polymorph as a bonus action into another form—a Large bear, Large cat (lion), or Medium moonkin—or back into its humanoid form. Any equipment it is wearing or carrying is absorbed or borne by the alternate form (the archdruid's choice). It reverts to its humanoid form when it dies. The archdruid's statistics other than size are the same in each form, except where noted in this stat block.
->
-> ***Charge (Bear Form Only).*** If the archdruid moves at least 20 feet straight toward a target and then hits with a melee attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
->
-> ***Pounce (Cat Form Only).*** If the archdruid moves at least 20 feet straight toward a creature right before hitting it with a melee attack, the target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is knocked prone by the pounce, the archdruid's next melee attack deals an extra 3 (1d6) damage.
->
-> ***Moon's Shadow (Moonkin Form Only).*** When a creature succeeds on a saving throw against a cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effects.
->
-> \columnbreak
->
-> ***Spellcasting (Humanoid or Moonkin Form Only).*** The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). The archdruid has the following druid spells prepared:
+> 
+> ***Spellcasting (Spellcaster Form Only).*** The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). The archdruid has the following druid spells prepared:
 >
 > Cantrips (at will): *druidcraft*, *shape water* ^XGE^, <br/>   *shillelagh**, ✦ *solar wrath*
 > <br/> 1st level (4 slots): *cure wounds*, *entangle*, *speak with <br/>   animals*, ✦ *starfire*
@@ -389,26 +494,29 @@ ___
 >
 > ### Actions
 >
-> ***Quarterstaff (Humanoid or Moonkin Forms Only).*** *Melee Weapon Attack:* +9 to hit, reach 5 ft ., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
+> ***Multiattack (Bear or Cat Forms Only).*** The archdruid makes two melee attacks while in bear form, or four melee attacks while in cat form.
 >
-> ***Multiattack (Bear or Cat Forms Only).*** The archdruid makes a claw and a bite attack.
+> ***Maul (Bear Form Only).*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 32 (5d10 + 5) bludgeoning damage.
 >
-> ***Claws (Bear or Cat Forms Only).*** *Melee Weapon Attack:* *Bear Form:* +4 to hit, *Cat Form:* +6 to hit, reach 5 ft., one target. *Hit:* *Bear Form:* 7 (2d6) slashing damage, *Cat Form:* 7 (2d4 + 2) slashing damage.
+> ***Rake (Cat or Flight Form Only).*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 22 (5d6 + 5) slashing damage.
 >
-> ***Bite (Bear or Cat Forms Only).*** *Melee Weapon Attack:* *Bear Form:* +4 to hit, *Cat Form:* +6 to hit, reach 5 ft., one target. *Hit:* *Bear Form:* 4 (1d8) piercing damage, *Cat Form:* 5 (1d6 + 2) piercing damage.
+> ***Quarterstaff (Spellcaster Form Only).*** *Melee Weapon Attack:* +10 to hit, reach 5 ft ., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 >
-> ***Renewal (Recharges after Short or Long Rest).*** The archdruid can choose any creature within 30 feet of it (including itself). The target  regains 41 (8d8 + 5) hit points.
+> ***Renewal (Recharges after Short or Long Rest).*** The arch&shy;druid chooses any one creature within 30 feet of it, which regains 41 (8d8 + 5) hit points.
 >
 > ### Reactions
 >
 > ***Fury of Elune.*** When the archdruid is hit by a melee attack, it can use its reaction to deal 18 radiant damage to the attacker. The attacker must also make a DC 18 Strength saving throw. On a failed save, the attacker is pushed in a straight line up to 20 feet away from the archdruid.
 
-Among druidic communities, there is nobody more respected and heeded than the wise **archdruid**. Few have existed, and those that do live long lives devoted to nature, and many of those few spend their time bound to the Emerald Dream. 
+</div>
 
 \columnbreak
 
-
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
+<img src='https://i.imgur.com/6u511ES.jpg' style='position:absolute; top:-100px; left:-38px; width:920px;' />
+<img src='https://i.imgur.com/NO1EQoX.png' style='position:absolute; top:-245px; left:0; width:800px;' />
+<img src='https://i.imgur.com/NO1EQoX.png' style='position:absolute; bottom:0; left:0; width:800px;' />
+
 
 \pagebreakNum
 
@@ -429,7 +537,7 @@ ___
 > - **Damage Resistances** poison
 > - **Senses** passive Perception 13
 > - **Languages** any two languages
-> - **Challenge** 9 (5,000 XP)
+> - **Challenge** 8 (3,900 XP)
 > ___
 >
 > ***Assassinate.*** During its first turn, the assassin has advantage on attack rolls against any creature that hasn’t taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
@@ -486,7 +594,7 @@ Across Azeroth, some find themselves eking out a life as a criminal; preying upo
 
 <img src='https://www.gmbinder.com/images/tiU4RnD.png' class='inkblot' style='right:-160px; top:-60px; width:640px; transform:rotate(120deg);' />
 <img src="https://www.gmbinder.com/images/9cQNovm.png" style="position:absolute; top:10px; right:0px; width:400px;">
-<img src='https://www.gmbinder.com/images/uOQOURz.png' class='inkblot' style='right:240px; bottom:-720px; width:700px; transform:rotate(-296deg);' />
+<img src="https://www.gmbinder.com/images/uOQOURz.png" class="inkblot" style="right: 275px;bottom: -715px;width:700px;transform:rotate(-296deg);">
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
@@ -532,6 +640,10 @@ Always searching for a chance to use their freshly sharp&shy;ened blade, a **ban
 
 **Bersekers** are terrifying warriors who head no warning when they rush forth into battle, lost in the haze of violence so pure as to drown out any pain they might feel. Simply powering through until all around them lay dead. They are particularly common among trolls and dwarves, though not unique to them.
 
+> "I'm gonna enjoy guttin' you, lemme hear your bones crunch! GRaaAaAAH!!"
+>
+> - A berserker rousing before a fight
+
 
 \columnbreak
 
@@ -569,8 +681,8 @@ ___
 > ***Ignore Pain (Recharges after a Short or Long Rest).*** When the berserker is hit by a weapon attack, it can give itself resistance towards bludgeoning, piercing, and slashing damage from nonmagical attacks until the start of its next turn.
 
 
-<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="right:-60px; bottom:-170px; width:660px; transform:rotate(-125deg);" />
-<img src="https://i.imgur.com/wP0RUsf.png" style="position:absolute; bottom:-200px; right:-40px; width:480px;" />
+<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="right: -60px;bottom: -180px;width:660px;transform: rotate(-141deg);">
+<img src="https://i.imgur.com/wP0RUsf.png" style="position:absolute; bottom:-200px; right:-25px; width:480px;" />
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -601,7 +713,10 @@ ___
 
 Be they orcish peons or human peasants, merchants at the stalls or old women heading for the town well, every culture across Azeroth features some form of **commoner** among them -- the everyday folk tending to their own lives.
 
-<div style="margin-top:500px;"></div>
+<div></div>
+
+Blessed by the Light to bring forth justice, **crusaders** are the brave and bold; the valiant holy warriors who stand forefront in the battle against darkness. They are often recognized by their brilliant librams, and for the zeal by which they keep to their cause. This zeal has driven some to fanaticism, such as the case of the Scarlet Crusade.
+
 
 \columnbreak 
 
@@ -645,14 +760,12 @@ ___
 > ***Light's Hammer (Recharge after a Short or Long Rest).*** As an action, the crusader slams a divine maul into the ground at a point within 30 feet of you, causing the ground to erupt in holy light in a 10-ft radius. Any ally within range is healed by 6 hit points, and all enemies within range must make a Constitution saving throw, taking 6 radiant damage on a failed save, and half as much on a successful one.
 > ### Reactions
 >
-> ***Parry.*** The crusader adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
-
-Blessed by the Light to bring forth justice, **crusaders** are the brave and bold; the valiant holy warriors who stand forefront in the battle against darkness. They are often recognized by their brilliant librams, and for the zeal by which they keep to their cause. This zeal has driven some to fanaticism, such as the case of the Scarlet Crusade.
+> ***Parry.*** The crusader adds 2 to its AC against one melee attack that would hit it. To do so, the crusader must see the attacker and be wielding a melee weapon.
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src="https://i.imgur.com/AYuE5Qf.png" class="inkblot" style="left:-110px; bottom:-130px; width:500px;" />
-<img src='https://i.imgur.com/fTCd9Sk.png' style='position:absolute; bottom:-70px; left:-120px; width:520px; transform:scaleX(-1);'>
+<img src="https://i.imgur.com/AYuE5Qf.png" class="inkblot" style="left: 12px;bottom: -175px;width: 550px;transform: rotate(108deg);">
+<img src="https://i.imgur.com/fTCd9Sk.png" style="position:absolute;bottom: -190px;left: -88px;width: 525px;transform:scaleX(-1);">
 
 \pagebreakNum
 
@@ -727,11 +840,11 @@ Those in the world who are weakest are often those most easily exploited, brough
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://i.imgur.com/y0m5pEu.png' style='position:absolute; bottom:0px; right:-5px; width:820px' />
+<img src="https://i.imgur.com/y0m5pEu.png" style="position:absolute;bottom: -36px;left: -30px;width: 870px;">
 
 \pagebreakNum
 
-<div style="margin-bottom:800px;"></div>
+<div style="margin-bottom:770px;"></div>
 
 ___
 ___
@@ -784,9 +897,8 @@ Following Illidan Stormrage to battle the Burning Legion, a determined few have 
 They hold a burning determination in their work against demons and stand ever on guard for demonic corruption, even among their own ranks.
 
 
-<img src='https://www.gmbinder.com/images/A9GFqM6.jpg' style='position:absolute; top:-50px; right:0px; width:850px' />
-<img src='https://www.gmbinder.com/images/iqsWrVi.png' style='position:absolute; top:-130px; right:0px; width:820px' />
-<img src='https://www.gmbinder.com/images/iqsWrVi.png' style='position:absolute; bottom:-100px; right:0px; width:820px' />
+<img src="https://i.imgur.com/dSG1nle.jpg" style="position:absolute;top: -75px;right: -40px;width: 860px;">
+<img src="https://i.imgur.com/C2bOp8u.png" style="position:absolute;bottom: -320px;right:0px;width:820px;">
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
@@ -795,7 +907,8 @@ They hold a burning determination in their work against demons and stand ever on
 \pagebreakNum
 
 ___
-> ## Druid <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;60;4;12;22;0;22;0;22;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;2;4;Solar%20Wrath;Starfire;Moonbeam -->
+___
+> ## Druid <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;60;4;12;22;0;22;0;22;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;2;4;Solar%20Wrath;Starfire;Moonbeam Turn  4 is bear form, turn 5 is cat form. -->
 >*Medium humanoid (any race), any alignment*
 > ___
 > - **Armor Class** 11 (16 with *barkskin*)
@@ -812,25 +925,63 @@ ___
 > - **Challenge** 3 (700 XP)
 > ___
 >
+> ***Shapeshifting.*** As a bonus action, the druid can magically polymorph into its Bear form, Cat form, or Flight form, or back to its normal humanoid form. Outside of its normal form, any equipment it is wearing or carrying is absorbed or borne by the alternate form (the druid's choice). It reverts to its humanoid form when it dies
+>
+> - ***Bear Form.*** While in the form of a Large bear, if the druid moves at least 20 feet straight toward a target and then hits with a melee attack on the same turn, the target takes an extra 9 (2d8) damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.
+>
+> - ***Cat Form.*** While in the form of a Medium cat, the druid can take the Disengage or Hide action as a bonus action on each of its turn.
+>
+> - ***Flight Form.*** While in the form of a Medium bird, the druid does not provoke opportunity attacks when it moves out of an enemy's reach.
+>
+> <span></span> <!-- Break intendation on the line below -->
+> 
 > ***Renewal (Recharges after a Short or Long Rest).*** The druid can use its bonus action to regain 9 (2d6 + 2) hit points.
+>
+> ***Speak with Beasts and Plants.*** The archdruid can communicate with beasts and plants as if they shared a language.
 >
 > ***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 >
-> Cantrips (at will): *druidcraft*, ✦ *solar wrath*, *shillelagh*
+> Cantrips (at will): *druidcraft*, ✦ *solar wrath*, *shillelagh**
 > <br/> 1st level (4 slots): *cure wounds*, *entangle*, *feather fall*, <br/>   ✦ *starfire*
-> <br/> 2nd level (3 slots): *barkskin*, *moonbeam*
+> <br/> 2nd level (3 slots): *barkskin**, *moonbeam*
 >
+> *The druid casts these spells on itself before combat.
 >
 > ### Actions
+> 
+> ***Multiattack (Cat Form Only).*** The druid makes two melee attacks while in cat form.
 >
-> ***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with *shillelagh*.
+> ***Maul (Bear Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 13 (2d10 + 2) bludgeoning damage.
+>
+> ***Rake (Cat or Flight Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 2) slashing damage.
+>
+> ***Quarterstaff (Spellcaster Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft ., one target. *Hit:* 6 (1d8 + 2) bludgeoning damage.
+>
+> <span /> <!-- Break in extra space to change statblock split -->
 
-Through a connection to the Emerald Dream, **druids** are able to take on the shape and powers of nature. They consider any threat to the balance of nature a grave matter. 
+Through a connection to the Emerald Dream, **druids** druids are guardians of nature who seek to preserve balance and protect life. They have an immense versatility on the field of battle, harnessing a wide breadth of abilities through the forms of different beasts. 
 
+Druids often band together in smaller groups or larger clans, that focus their teachings in around a particular animal totem and aspect of their powers, though 
+<br /> it is not unusual for them to embrace multiple 
+<br /> totems regardless of their clan. 
+
+As examples, the Druids of the Claw keep 
+<br /> cat and bear totems; the Druids of the Talon
+<br /> keep bird totems; and the Druids of the Moon
+<br /> keep totems of the great owlbear.
 
 \columnbreak
 
 
+<img src='https://i.imgur.com/AYuE5Qf.png' class='inkblot' style='left: 210px;bottom: -360px;width: 630px;transform: rotate(-85deg) scaleX(-1);' />
+<img src="https://i.imgur.com/diOKboU.png" style="position:absolute;bottom: -35px;right: -135px;width: 620px;transform: rotate(12deg);">
+
+<div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
+
+
+\pagebreakNum
+
+___
 ___
 > ## Gladiator <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;112;7;15;33;0;33;0;33;0;0;0;0;0;0;0;;;;1;3;;;;;;;;;;1;;;;1;;;;10;;;;;; -->
 >*Medium humanoid (any race), any alignment*
@@ -866,10 +1017,24 @@ ___
 >
 > ***Parry.*** The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
 
-Any arena **gladiator** today may owe the tradition to the ogre lords of Draenor, who made the sport a cultural tentpole. These warriors fight for coin and fame, sometimes freedom, and seldom for honor.
+For a **gladiator**, Azeroth is host to a multitude of bloody arenas in which they may risk it all for coin and fame -- sometimes even for freedom, though seldom for honor. 
 
-<img src='https://i.imgur.com/AYuE5Qf.png' class='inkblot' style='left:-50px; bottom:-260px; width:580px; transform:rotate(85deg);' />
-<img src='https://i.imgur.com/MDnJ4L0.png' style='position:absolute; bottom:-20px; right:70px; width:800px' />
+The bombastic nature of these gladiatorial displays owe back to the traditions of the ogre lords of Draenor, to whom the sport is a long-standing cultural tentpole. 
+
+\columnbreak
+
+> ##### Variant: Net-Throwing Gladiator
+> Throwing nets are a common tool for seasoned gladiators. A gladiator fighting this way gains the following traits in place of its Shield Bash action:
+>
+> <br /> ***Net Thrower.*** The gladiator can throw a net in place of any melee or ranged attack it makes. It can only throw one net per turn.
+> 
+> <br /> ***Reinforced Net.*** *Ranged Weapon Attack*: +5 to hit, range 5/15 ft., one Large or smaller creature. *Hit*: The target is restrained. A creature can use its action to make a DC 15 Strength check to free itself or another creature within reach on a success. Dealing 20 slashing damage to the net (AC 15) frees the target without harming it and destroys the net.
+>
+> The gladiator carries 2 (1d4+1) nets. 
+
+
+<img src="https://i.imgur.com/Lb5BP9S.jpg" style="position: absolute;bottom: -100px;right: 0px;width: 850px;">
+<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute;top: -171px;right: -20px;width: 830px;transform: scaleX(-1);">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -927,7 +1092,7 @@ ___
 >
 > ***Cunning Action.*** On each of its turns, the infiltrator can use a bonus action to take the Dash, Disengage, or Hide action. 
 >
-> ***Sneak Attack (1/Turn).*** The infiltrator deals an extra 7 (2d6) damage when it hit s a target with a weapon attack and has advantage on the attack roll , or when the target is within 5 feet of an ally of the infiltrator that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
+> ***Sneak Attack (1/Turn).*** The infiltrator deals an extra 7 (2d6) damage when it hit s a target with a weapon attack and has advantage on the attack roll , or when the target is within 5 feet of an ally of the infiltrator that isn't incap&shy;acitated and the infiltrator doesn't have disadvantage on the attack roll.
 >
 > ***Shadowstep (1/Day).*** The infiltrator can use a bonus action to teleport up to 30 feet to an unoccupied space within 5 feet of
 another creature that it can see. If the infiltrator hits the targeted creature with an attack, on the same turn, it is surrounded by entangling shadows and its movement speed is halved until the start of your next turn.
@@ -948,8 +1113,8 @@ Highly skilled **infiltrators** are sent into exceptional danger to gather the m
 > // Convert into paper note
 
 
-<img src='https://i.imgur.com/BrDcy46.png' class='inkblot' style='left:-150px; bottom:-130px; width:670px; transform:rotate(215deg);' />
-<img src='https://i.imgur.com/uOQOURz.png' class='inkblot' style='left:-40px; bottom: -560px; width:700px; transform:rotate(-100deg);' />
+<img src="https://i.imgur.com/BrDcy46.png" class="inkblot" style="left: -150px;bottom: -98px;width: 660px;transform: rotate(292deg) scaleX(-1);">
+<img src="https://i.imgur.com/uOQOURz.png" class="inkblot" style="left: 430px;bottom: -540px;width: 600px;transform: rotate(-450deg);">
 <img src='https://i.imgur.com/qg5tNJp.png' style='position:absolute; bottom:0px; left:-10px; width:430px;' />
 
 
@@ -957,7 +1122,7 @@ Highly skilled **infiltrators** are sent into exceptional danger to gather the m
 
 \pagebreakNum
 
-<div style='margin-top:308px;'></div>
+<div style='margin-top:250px;'></div>
 
 ___
 > ## Knight <!-- https://wc5e-cr-calculator.frogvall.com/?0;18;52;5;13;20;0;20;0;20;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;1;;;;10;;;;;; -->
@@ -998,7 +1163,7 @@ The heroic **knights** of any culture will, first and foremost, represent the vi
 \columnbreak
 
 
-<div style='margin-top:274px;'></div>
+<div style='margin-top:214px;'></div>
 
 ___
 > ## Mage <!-- https://wc5e-cr-calculator.frogvall.com/?1;15;126;6;14;50;0;37;0;37;0;0;0;0;0;0;0;;;;1;2;;;;;;;;;;1;;;;;;;;10;;;;;;;5;4;4;9;Arcane%20Barrage;Blizzard;Frostfire%20Bolt;Fire%20Bolt;Magic%20Missile;Scorching%20Ray -->
@@ -1071,7 +1236,7 @@ ___
 >
 > ***Undead Thralls.*** When the necromancer casts *animate dead*, it can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate. Undead created by the necromancer have an additional 6 hp and a +3 to their weapon damage rolls.
 >
-> ***Spellcasting.*** The necromancer is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +5 to hit with spell attacks). The mage has following warlock and priest spells prepared:
+> ***Spellcasting.*** The necromancer is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +5 to hit with spell attacks). The necromancer has following warlock and priest spells prepared:
 >
 > Cantrips (at will): *blade ward*, *chill touch*, ✦ *shadow <br/>   bolt*
 > <br/> 1st level (4 slots): *cause fear* ^XGE^, ✦ *dark void*, *false <br/>   life*, *ray of sickness*
@@ -1118,11 +1283,12 @@ ___
 The higher class of their culture, **nobles** have often been particularly susceptible to the corrupting forces of the world. Others in turn have chosen to use their influence to actively combat said corruption and evil. 
 
 
-<img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px; bottom:-120px; right:-160px; transform: rotate(21deg) scaleY(-1);" />
-<img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px; bottom:-300px; right:190px; transform: rotate(81deg) scaleY(-1);" />
-<img src="https://www.gmbinder.com/images/xU5GXXN.png" style="position:absolute; bottom:-45px; right:-80px; width:530px;">
-<img src='https://i.imgur.com/4Zw3ovg.png' style='position:absolute; bottom:-0px; left:-30px; width:270px; transform:scaleX(-1); mix-blend-mode:multiply' />
-<img src="https://i.imgur.com/XsyrOpt.jpg" style="position:absolute; bottom:20px; left:220px; width:270px; mix-blend-mode:multiply " />
+<img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px;bottom: -60px;right: -160px;transform: rotate(221deg) scaleY(-1);">
+<img src="https://www.gmbinder.com/images/0hVRLNf.png" class="inkblot" style="width:690px;bottom: -380px;right:190px;transform: rotate(85deg) scaleY(-1);">
+
+<img src="https://www.gmbinder.com/images/xU5GXXN.png" style="position:absolute; bottom:-50px; right:-80px; width:530px;">
+<img src="https://i.imgur.com/4Zw3ovg.png" style="position:absolute;bottom: 10px;left: 30px;width: 240px;transform:scaleX(-1);mix-blend-mode:multiply;">
+<img src="https://i.imgur.com/XsyrOpt.jpg" style="position:absolute;bottom: 30px;left: 256px;width: 220px;mix-blend-mode:multiply;">
 
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
@@ -1184,7 +1350,7 @@ ___
 > - **Languages** any one language (usually Common)
 > - **Challenge** 3 (700 XP)
 > ___
-> ***Careful Aim (3/Day).***  As a bonus action, the ranger can add 5 (1d10) to its next attack or damage roll with a longbow.
+> ***Careful Aim (3/Day).***  As a bonus action, the ranger can add 5 (1d10) to its next attack or damage roll with a ranged weapon.
 >
 > ### Actions
 >
@@ -1196,8 +1362,10 @@ ___
 
 Among elves,  **rangers** are some of the most respected figures one can find, and any non-elf following the same path will often be treated to much of the same reverence. It is their charge to learn the lay of the land and guard it with utmost care.
 
+<!-- TODO: When this is in the book, it needs to have page numbers -->
+
 > ##### Variant: Beast Companions
-> Rangers are often accompanied by beasts of the wild as partners in battle. This is usually a creature of <br/> CR 1 or below. Some common examples of tamed beasts are listed below.
+> Rangers are often accompanied by beasts of the wild as partners in battle, which are added to an encoun&shy;ter as standalone creatures. This is usually a creature of CR 1 or below. Here are some examples of such tamed beasts (pages will be added later).
 >
 > Creature		            | Preferred By  | Page  
 > --------------------------|---------------|----:
@@ -1210,8 +1378,9 @@ Among elves,  **rangers** are some of the most respected figures one can find, a
 > Wind Serpent              | Tauren        | ###
 > Young Dragonhawk          | Blood elves   | ###
 
-<img src="https://www.gmbinder.com/images/AYuE5Qf.png" class="inkblot" style="width:660px; bottom:-420px; right:-101px; transform: rotate(244deg);" />
-<img src='https://www.gmbinder.com/images/Vd3niEy.png' style='position:absolute; top:690px; right:200px; width:600px;'>
+
+<img src="https://www.gmbinder.com/images/AYuE5Qf.png" class="inkblot" style="width: 580px;bottom: -258px;right: -5px;transform: rotate(100deg) scaleY(-1);">
+<img src="https://www.gmbinder.com/images/Vd3niEy.png" style="position:absolute;bottom: -10px;left: -25px;width: 480px;">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1282,7 +1451,7 @@ and be wielding a shield.
 Whether they are grunts, sentinels, or **soldiers**, the back&shy;bone of any army is its standing ranks. In some cultures, the common folk may find themselves drafted out of sheer necessity, while in other cultures it can be considered a matter of pride to partake.
 
 
-<img src='https://i.imgur.com/moDxofj.png' style='position:absolute; bottom:-130px; right:0px; width:800px' />
+<img src='https://i.imgur.com/moDxofj.png' style='position:absolute; bottom:-174px; right:0px; width:800px' />
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1351,16 +1520,17 @@ ___
 >
 > ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft, one creature. *Hit:* 4 (1d4 + 2) piercing damage.
 
-Anyone looking to get ahead in the criminal underworld knows to pay for some muscle, as a deterrent against any would-be attackers. These **thugs** will thirst for action and spend little time bothering with niceties.
+Anyone looking to get ahead in the criminal underworld knows to pay for some muscle, as a deterrent against any would-be attackers. These **thugs** will thirst for action and spend little time bothering 
+<br /> with niceties.
 
 
-<img src='https://i.imgur.com/ZhrJawL.png' style='position:absolute; bottom:-15px; right:-5px; width:805px; transform:scaleX(-1);' />
+<img src="https://i.imgur.com/ZhrJawL.png" style="position:absolute;bottom: -45px;right: -10px;width: 810px;transform:scaleX(-1);">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
 \pagebreakNum
 
-<div style='margin-top:480px;'></div>
+<div style='margin-top:415px;'></div>
 
 ___ 
 > ## Tribal Warrior <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;11;4;12;5;0;5;0;5;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;1;;;;;10;;;;;; -->
@@ -1393,7 +1563,7 @@ Tribal societies can be found far and wide across Azeroth -- trolls, tauren, ogr
 
 \columnbreak
 
-<div style='margin-top:480px;'></div>
+<div style='margin-top:435px;'></div>
 
 ___
 > ## Veteran <!-- https://wc5e-cr-calculator.frogvall.com/?0;17;78;5;12;20;0;20;0;20;0;0;0;0;0;0;0;;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -1424,8 +1594,8 @@ ___
 Azeroth has seen countless wars, and a **veteran** of one is likely to be a veteran of many. Well-respected by their peers, it is not uncommon even for a long-retired veteran to still know their training by heart.
 
 
-<img src="https://i.imgur.com/WRgZf6j.jpg" style="position:absolute; top:-0px; left:0px; width:800px; "/>
-<img src='https://i.imgur.com/iqsWrVi.png' style='position:absolute; top:-160px; left:0px; width:1000px' />
+<img src="https://i.imgur.com/WRgZf6j.jpg" style="position:absolute;top: -50px;left: -30px;width: 940px;">
+<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute;bottom:-120px;left:0px;width:830px;transform: rotate(180deg) scaleX(-1);">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1473,8 +1643,8 @@ Sharply intelligent, immensely powerful, and often sardonic in nature, a **warlo
 \columnbreak
 
 
-<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:700px; bottom:220px; right:-175px; transform: rotate(-20deg);" />
-<img src='https://i.imgur.com/a3SgitT.png' style='position:absolute; bottom:-66px; right:-85px; width:600px' />
+<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:760px; top:0px; right:-230px; transform: rotate(-20deg);" />
+<img src="https://i.imgur.com/Wxj4KMG.png" style="position:absolute;bottom: -55px;right: -35px;width: 930px;">
 
 <div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
 
@@ -1482,7 +1652,7 @@ Sharply intelligent, immensely powerful, and often sardonic in nature, a **warlo
 \pagebreakNum
 
 
-<div style='margin-top:750px;'></div>
+<div style='margin-top:760px;'></div>
 
 ___
 ___
@@ -1537,83 +1707,28 @@ ___
 >
 > ***Arcane Deflection.*** When the mage is attacked by a spell, it can use its reaction to gain +2 AC or +4 to saving throws against that spell. 
 
-Some arcanists devote their life to the art of warfare, taking on the title of **war mages**. They keep a keen mind for tactical and scholarly matters alike, and are often among the most respected advisors to leaders. Some such mages are even charismatic leaders in their own right. 
-
-<div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
-<img src='https://www.gmbinder.com/images/lge9kHo.jpg' style='position:absolute; top:0px; right:-20px; width:840px' />
-<img src='https://i.imgur.com/C2bOp8u.png' style='position:absolute; top:250px; right:-10px; width:820px;' />
- 
- 
-\pagebreakNum
-
-
-# Update 3.0-type-num
-
-<br />
-
-These are the changes made to the class since the last update this material (3.x.x)
-
-## Category
-
-
-## Category
-
-
-## Category
-
-
+Some arcanists devote their life to the art of warfare, taking on the title of **war mages**. They keep a keen mind for tactical and scholarly matters alike, and are often among the most respected advisors to leaders. Some such mages are even charismatic leaders in their own right.
 
 \columnbreak
 
 
-## Credits
+<img src="https://i.imgur.com/PirsUGQ.jpg" style="position:absolute;top:-25px;left: -15px;width: 840px;">
+<img src='https://i.imgur.com/C2bOp8u.png' style='position:absolute; top:350px; right:-10px; width:820px;' />
+<img src="https://i.imgur.com/tiU4RnD.png" class="inkblot" style="width:700px; bottom:-540px; right:25px; transform:rotate(56deg);" />
+ 
+<div class='footnote'>APPENDIX B: NONPLAYER CHARACTERS </div>
+ 
 
-**Provide feedback for this document:** We'd really love your opinion on this material. You can do so by: 
-- Joining the conversation on [Discord](https://discord.com/invite/dKMJmmD). <br /> (Or just messaging an active Contributor there.)
-- Sharing your thoughts with us on [Reddit](https://www.reddit.com/r/wc5e/).
-- Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
+\pagebreakNum
 
-<br />**Current core team:** Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
-<br />
-
-<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
-<br />
-
-<br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
-<br />
-
-<br />**Projects we like and want to give thanks to:**
-- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
-- [This Warcraft project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
-- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
-- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
-
-<br />**Page 1 Art:** [[Swap this one out?]]
-<br />**Page 2 Art:** "Archmage" by [breath-art](https://www.deviantart.com/breath-art/art/archmage-male-204726889)
-<br />**Page 4 Art:** "WoW Tribute" by [r-trigger](https://www.deviantart.com/r-trigger/art/WoW-Tribute-393940543)
-<br />**Page 5 Art:** Uncaptioned troll art by [Francis Brunet](https://www.artstation.com/francisbrunet)
-<br />**Page 6 Art:** "Crusader" by [Da Guo](https://bigguo.artstation.com/projects/LJl5R)
-<br />**Page 7 Art:** "The Cultist" by [Rogier van de Beek](https://www.artstation.com/artwork/oG3OJ)
-<br />**Page 8 Art:** "Demon Hunter" by [Szabados Zsolt](https://www.wowhead.com/news=249763.3/legion-art-contest-winners-gallery)
-<br />**Page 9 Art:** "Wild Growth" by [EmberWickArt](https://twitter.com/emberwickart/status/1072575420850208768)
-<br />**Page 10 Art:** "Guard" by [Bigball Gao](https://www.artstation.com/artwork/0l3ZG)
-<br />**Page 11 Art:** "Draenei Frost Mage" by [Aaron Lovett](https://www.artstation.com/artwork/y2w6x)
-<br />**Page 12 Art:** "Kel'Thuzad" by [Alexey Kruglov](https://www.artstation.com/artwork/V5BWN)
-<br />**Page 13 Art:** "Night Elf Ranger" by [Grace Liu](https://www.deviantart.com/nightblue-art/art/Night-Elf-Ranger-374201887)
-<br />**Page 14 Art:** "Scout Kurgo" by [Dan Scott](https://wowpedia.fandom.com/wiki/Scout_Kurgo)
-<br />**Page 15 Art:** "Bubula del Kissel" by [Phroilan Gardner](https://wowpedia.fandom.com/wiki/Bubula_del_Kissel)
-<br />**Page 16 Art:** "Troll Warrior" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Troll-warrior-832831281)
-<br />**Page 17 Art:** "Belf Warlock" by [VanHarmontt](https://www.deviantart.com/vanharmontt/art/Belf-Warlock-772984259)
-<br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
-
-\pagebreak
 
 <style>
 
 /* BACK PAGE STYLES */
 
   /* Remove footer from back page, replace pX with last page number */
-  .phb#p20:after { display:none; }
+  .phb#p21:after { display:none; }
+
  -cover-content {
     padding-left: 4px;
     padding-right: 16px;
@@ -1627,6 +1742,9 @@ These are the changes made to the class since the last update this material (3.x
     top: -10px;
     width: 475px;
     background-size: 475px 1136px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
   }
   .phb .back-cover-diamond {
     display: block;
@@ -1692,7 +1810,6 @@ These are the changes made to the class since the last update this material (3.x
 <div class='back-cover-close'>
 
   Big love from the team. ❤
-
    
 </div>
 
