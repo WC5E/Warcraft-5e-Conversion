@@ -9892,6 +9892,7 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <br />**Frenzyfish Renders** from World of Warcraft
 <br />**Wasteland Scorpid** by [Mauricio Herrera](https://hearthstone.fandom.com/wiki/Wasteland_Scorpid)
 <br />**Tomb Spider** by [Turovec Konstantin](https://hearthstone.fandom.com/wiki/Tomb_Spider)
+<br />**Swift Hawkstrider** by [Tyler Walpole](https://hearthstone.fandom.com/wiki/Battle_Hawkstrider)
 
 \pagebreakNum
 
