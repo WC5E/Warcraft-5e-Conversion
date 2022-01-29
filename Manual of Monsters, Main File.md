@@ -9191,6 +9191,10 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+<img src="https://i.imgur.com/YmzkuLc.jpg" style="position: absolute;bottom: -60px;right: -10px;width: 900px;">
+
+<img src="https://i.imgur.com/NO1EQoX.png" style="position:absolute;top: -20px;right:0px;width:800px;transform: scale(-1);">
+
 \pagebreakNum
 
 
@@ -9875,12 +9879,13 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 
 <div style='margin-top:-14px;'></div>
 
-<br />Dwarf Hunter with Bear by [Miao Zi](https://www.reddit.com/r/Art/comments/5db5gv/dwarf_hunter_with_bear_by_miao_zi_2560_1600_2015/)
-<br />River Crocolisk by [Daren Bader](https://hearthstone.fandom.com/wiki/River_Crocolisk)
-<br />Phase Hound by [Lars Grant-West](https://wowpedia.fandom.com/wiki/Phase_Hound_(Blood_of_Gladiators))
-<br />Fox Render from World of Warcraft
-<br />Frenzyfish Renders from World of Warcraft
-<br />Wasteland Scorpid by [Mauricio Herrera](https://hearthstone.fandom.com/wiki/Wasteland_Scorpid)
+<br />**Dwarf Hunter with Bear** by [Miao Zi](https://www.reddit.com/r/Art/comments/5db5gv/dwarf_hunter_with_bear_by_miao_zi_2560_1600_2015/)
+<br />**River Crocolisk** by [Daren Bader](https://hearthstone.fandom.com/wiki/River_Crocolisk)
+<br />**Phase Hound** by [Lars Grant-West](https://wowpedia.fandom.com/wiki/Phase_Hound_(Blood_of_Gladiators))
+<br />**Fox Render** from World of Warcraft
+<br />**Frenzyfish Renders** from World of Warcraft
+<br />**Wasteland Scorpid** by [Mauricio Herrera](https://hearthstone.fandom.com/wiki/Wasteland_Scorpid)
+<br />**Tomb Spider** by [Turovec Konstantin](https://hearthstone.fandom.com/wiki/Tomb_Spider)
 
 \pagebreakNum
 
