@@ -9880,6 +9880,7 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <br />Phase Hound by [Lars Grant-West](https://wowpedia.fandom.com/wiki/Phase_Hound_(Blood_of_Gladiators))
 <br />Fox Render from World of Warcraft
 <br />Frenzyfish Renders from World of Warcraft
+<br />Wasteland Scorpid by [Mauricio Herrera](https://hearthstone.fandom.com/wiki/Wasteland_Scorpid)
 
 \pagebreakNum
 
