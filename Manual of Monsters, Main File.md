@@ -8771,16 +8771,12 @@ ___
 >
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-
-<div style="margin-left:44px;">
-
 A **dire wolf** has much in common with its smaller, more common counterpart; the two look alike, but dire wolves are nearly twice the size. Their massive jaws look like they could snap iron bars, and orcs have long favoured them over other mounts for their cunning and strength.
 
-</div>
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-<img src="https://i.imgur.com/BsqNNL3.png" style="position:absolute;bottom: -25px;left: 0px;width: 450px;">
+<img src="https://i.imgur.com/BsqNNL3.png" style="position:absolute;bottom: -25px;left: -45px;width: 450px;">
 
 \pagebreakNum
 
