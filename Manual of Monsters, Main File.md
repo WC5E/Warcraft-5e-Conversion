@@ -9282,6 +9282,12 @@ ___
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
 
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/Sjc9IFl.png" class="inkblot inkblot-green" style="bottom: -170px;left: -80px;width: 800px;transform: rotate(190deg);">
+<img src="https://i.imgur.com/2Q5o3SA.png" style="position:absolute;bottom: -12px;left: 0px;width: 490px;">
+
+
 \pagebreakNum
 
 ___
