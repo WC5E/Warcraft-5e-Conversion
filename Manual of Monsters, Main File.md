@@ -9321,6 +9321,10 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage.
 
+Hyenas are scavengers who thrive in the most barren reaches of Kalimdor and Zandalar &mdash; from Desolace and the Barrens, out across the dunes of Tanaris and Vol'dun. 
+
+Azerothian hyenas keep keep together in large clans, with most following the call of their **matriarch**; the clan's strongest and most cunning female member, whose rallying cry can quickly rouse her kin to action.
+
 
 \columnbreak
 
@@ -9398,9 +9402,9 @@ ___
 >
 > ***Terrifying Roar.*** Each creature within 30 ft. of the lion that can hear it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lion's Terrifying Roar for the next 24 hours.
 
-Lions roam far and wide across the savannahs of central Kalimdor. These fierce predators stalk the tall grass in small packs -- their prides -- and have been known even to hunt unwary travellers. 
+Lions roam far and wide across central Kalimdor, stalking the tall grass in small packs -- their prides. They are not at all shy for what prey they hunt, and have at times been known to even stalk unwary travellers. 
 
-Chief among is a **pridemane**; a venerable beast that towers far above the rest. They are the heart of their pride. Recognizing one from the rest is best done, as the name would suggest, by looking for the largest beast with the biggest mane.
+Chief among them is the **pridemane**; the pride's leading male, who towers high above the rest with its imposing stature and massive mane.
 
 \columnbreak
 
