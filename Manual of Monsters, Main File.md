@@ -8895,9 +8895,6 @@ ___
 The **frenzyfish** are large, swarm-hunting predatory fish that can be far and wide across Azeroth, with different types well-adapted to different climates. Some prefer the warmer climates of southern Kalimdor and Eastern Kingdoms, while others thrive even in the frozen waters of Northrend.
 
 
-> Frenzyfish are the unique ones on this page, so the art here should be of one of those
-
-
 \columnbreak
 
 ___
@@ -8947,6 +8944,12 @@ ___
 >
 > ### Actions
 > ***Tusk.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/R7wbd4k.png" class="inkblot inkblot-green" style="top: 411px;left: 80px;width: 650px;transform: rotate(100deg);">
+<img src="https://i.imgur.com/QUUIyc6.png" style="position:absolute;bottom: 48px;left: 20px;width: 520px;">
 
 
 \pagebreakNum
@@ -9870,6 +9873,7 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <br />River Crocolisk by [Daren Bader](https://hearthstone.fandom.com/wiki/River_Crocolisk)
 <br />Phase Hound by [Lars Grant-West](https://wowpedia.fandom.com/wiki/Phase_Hound_(Blood_of_Gladiators))
 <br />Fox Render from World of Warcraft
+<br />Frenzyfish Renders from World of Warcraft
 
 \pagebreakNum
 
