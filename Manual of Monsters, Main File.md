@@ -9110,10 +9110,16 @@ ___
 \columnbreak
 
 
-> I want a note here about Giant creatures and Azeroth here, if there is anything that could work. And a page tear with something suitably cool. Basically a half page tear fitting the last page and a half of statblocks. 
+> I want a note here about Giant creatures and Azeroth here, if there is anything that could work. And a page tear with something suitably cool. Basically a half page tear fitting the last page and a half of statblocks.
 
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/ssCX3kD.jpg" style="position: absolute;top: 0;right: -205px;width: 840px;">
+
+<img src="https://i.imgur.com/7drSEMn.png" style="position:absolute;top: 0;right: 0px;width: 870px;">
+
+
 
 
 \pagebreakNum
