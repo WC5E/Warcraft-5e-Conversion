@@ -9362,8 +9362,8 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
-<img src='https://www.gmbinder.com/images/QsIMjKG.png' style='position:absolute; top:670px; right:0px; width:400px' />
+<img src="https://www.gmbinder.com/images/CRqcfac.png" class="inkblot inkblot-green" style="top: 600px;right: 20px;width: 740px;transform: rotate(-135deg);">
+<img src="https://i.imgur.com/RRwI4sS.png" style="position:absolute; bottom:0; right:0px; width:540px;">
 
 \pagebreakNum
 
@@ -10011,5 +10011,3 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <div class='back-cover-right'>
 
 </div>
-
-
