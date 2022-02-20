@@ -9488,9 +9488,40 @@ ___
 >
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-> Missing Octopus statblock here
-
 \columnbreak
+
+___
+> ## Octopus
+>*Small beast, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 3 (1d6)
+> - **Speed** 5 ft., swim 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|4 (-3)|15 (+2)|11 (+0)|3 (-4)|10 (+0)|4 (-3)|
+>___
+> - **Skills** Perception +2, Stealth +4
+> - **Senses** darkvision 30 ft., passive Perception 12
+> - **Languages** —
+> - **Challenge** 0 (10 XP)
+> ___
+> 
+> ***Hold Breath.*** While out of water, the octopus can hold its breath for 30 minutes.
+>
+> ***Underwater Camouflage.*** The octopus has advantage on Dexterity (Stealth) checks made while underwater.
+> 
+> ***Water Breathing.*** The octopus can breathe only underwater.
+>
+> ### Actions
+> ***Tentacles.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.
+> 
+> ***Ink Cloud (Recharges after a Short or Long Rest).*** A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
 
 ___
 > ## Owl
@@ -9516,6 +9547,10 @@ ___
 >
 > ### Actions
 > ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
+
+
+\columnbreak
+
 
 ___
 > ## Polar Bear
@@ -9544,10 +9579,6 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 ___
 > ## Reef Shark
 >*Medium beast, unaligned*
@@ -9573,6 +9604,13 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
+
 ___
 > ## Scorpid
 >*Small beast, unaligned*
@@ -9597,15 +9635,26 @@ A **scorpid** is a quick and vicious predator, commonly found in dry and arid pa
 
 They are kin to scorpions, though scorpids are far larger and far, far deadlier. it is said that the venom of an adult scorpid's stinger holds enough venom to kill beasts a hundred times its size.
 
+___
+> ## Sea Horse
+>*Tiny beast, unaligned*
+> ___
+> - **Armor Class** 11
+> - **Hit Points** 1 (1d4-1)
+> - **Speed** 0 ft., swim 20 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|1 (-5)|12 (+1)|8 (-1)|1 (-5)|10 (+0)|2 (-4)|
+>___
+> - **Senses** passive Perception 10
+> - **Languages** —
+> - **Challenge** 0 (10 XP)
+> ___
+>
+> ***Water Breathing.*** The sea horse can breathe only underwater.
+
 \columnbreak
-
-> Missing Sea Horse statblock here
-
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-
-\pagebreakNum
 
 ___
 > ## Skywisp Moth
@@ -9636,7 +9685,11 @@ A **skywisp moth** is considered a docile, insignificant beast to most. Among ar
 
 Because of this, they are often a favoured companion for any hunters whose quarry is a dangerous spellcaster.
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+
+\pagebreakNum
 
 ___
 > ## Spider
@@ -9689,9 +9742,7 @@ ___
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Swarm of Frenzyfish
@@ -9721,6 +9772,13 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
+
+
 ___
 > ## Tallstrider
 >*Medium beast, unaligned*
@@ -9743,10 +9801,6 @@ ___
 > ***Beak.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
 >
 > ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
-
-
-\columnbreak
-
 
 ___
 > ## Towering Tallstrider
@@ -9773,16 +9827,14 @@ ___
 > ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.
 
 
+\columnbreak
+
+<div style="margin-top:16px;"></div>
+
+
 **Tallstriders** are large, flightless birds, native to the plains and savannahs of central Kalimdor. There is a very clear and stubborn pride to the tallstriders, making them near impossible to domesticate and useless as beasts of burden.
 
 Some skilled hunters and beast-handlers have mastered the art of taming a tallstrider, however. For them, the birds' strength and speed make them excellent companions for any sudden skirmish.
-
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-
-\pagebreakNum
-
 
 ___
 > ## Turtle
@@ -9807,9 +9859,34 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
 
-> Missing Weasel statblock here
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-\columnbreak
+
+\pagebreakNum
+
+
+___
+> ## Weasel
+>*Tiny beast, unaligned*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 1 (1d4-1)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|3 (-4)|16 (+3)|8 (-1)|2 (-4)|12 (+1)|3 (-4)|
+>___
+> - *Skills** Perception +3, Stealth +5
+> - **Senses** passive Perception 13
+> - **Languages** —
+> - **Challenge** 0 (10 XP)
+> ___
+>
+> ***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
 ___
 > ## Wolf
@@ -9837,10 +9914,7 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Worg
@@ -9865,7 +9939,10 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
 
 
 ___
@@ -9913,6 +9990,7 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <br />**Wasteland Scorpid** by [Mauricio Herrera](https://hearthstone.fandom.com/wiki/Wasteland_Scorpid)
 <br />**Tomb Spider** by [Turovec Konstantin](https://hearthstone.fandom.com/wiki/Tomb_Spider)
 <br />**Swift Hawkstrider** by [Tyler Walpole](https://hearthstone.fandom.com/wiki/Battle_Hawkstrider)
+<br />**Hyena Alpha** by [Peter Stapleton](https://hearthstone.fandom.com/wiki/Hyena_Alpha)
 
 \pagebreakNum
 
