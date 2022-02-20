@@ -391,9 +391,7 @@ You can use an arcane focus as a spellcasting focus for your warlock spells.
 
 <div style='margin-top:-4px'></div>
 
-When you do not have any Fel Sorcery spell slots remain&shy;ing, you can still cast a spell as though you do. As part of the action to cast the spell, your current and maximum hit points are reduced by an amount equal to three times your Fel Sorcery slot level.
-
-This damage cannot be resisted or ignored, and you cannot use this feature if doing so would reduce you to 0 hit points. Your maximum hit point total is restored when you finish a long rest.
+You can choose to cast a spell without expending a slot by instead sacrificing your hit points. When you cast a spell, your current hit points and hit point maximum is reduced by an amount equal to three times the spell’s level. You choose the spell level, up to your Fel Sorcery slot level. You cannot use this feature if it would reduce your hit points <br/> to 0. This reduction lasts until you finish a long rest.
 
 ### Fel Study
 *2nd-level warlock feature*
