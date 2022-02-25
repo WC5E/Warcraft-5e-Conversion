@@ -1578,3 +1578,315 @@ d8 |Damage Type |d8 |Damage Type
 The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll and damage type roll for each beam.
 
 <div class='footnote'>PART 2 | MAGIC</div>
+
+\pagebreakNum
+
+## Changelog (preview-1)
+
+This release of the document is a patch update from the last class preview. The changelog shown here shows all class changes since the last version of the class (HHB 2.1).
+
+### Class Features 
+- Armour proficiency removed, weapon proficiencies reduced
+- Starting equipment has been changed accordingly
+- New feature Profane Secrets at 1st level
+- Shadow Magic has been renamed to Fel Sorcery. Functionally it acts the same, but ritual casting has been added. 
+- The number of cantrips has reduced from 5 to 4, aligning with the PHB warlock, druid, and bard
+- Life Tap now starts at 1st level. It no longer reduces maximum hit points, but instead deals unresisted damage with a limited number of uses.
+- Fel Study choice delayed to 2nd level.
+- Shadow Embrace has been removed, and split into Demonic Knowledge and Soul Shards. 
+- Demonic Knowledge allows you to build a growing number of known demon types. It is split into two parts; Grimoire of Servitude and Grimoire of Sacrifice, the former for summoning demons and the latter for draining their powers instead. 
+- Soul Shards function similar, but the number of ways they can be used has been increased.
+- New feature Soulforging at 5th level, adding more ways to use soul shards. 
+- Fel Arcanum has been renamed to Nethermancy. Instead of adding a 1/LR spell of 6th - 9th level, the warlock gains one spell known from each level and one LR spell slot of each level. These spell slots can be used to cast any spell the warlock knows.
+
+### Subclasses
+- Subclasses have been completely redesigned. 
+- Expanded spell lists have been rearranged.
+
+### Affliction
+- 2st level: Curse of Agony has been changed to Corruption, which lets the warlock cast Banes with different effects. 
+- 2nd level: New feature Haunt. 
+- 6th level: Nether Ward has been replaced with Curse Master. 
+- 10th level: Unstable Affliction has been folded into Corruption, and replaced with Drain Soul. 
+- 14th level: Seed of Corruption has been replaced with Unstable Afflictions. 
+- 18th level: New feature Potent Affliction. It is split into two parts; Curse of Doom and Seed of Corruption.
+
+### Demonology
+- 2nd level: Fiendish Influence has been replaced with Soul Conduit, which empowers demons from Demonic Knowledge.
+- 2nd level: New feature Sense Demons.
+- 6th level: Wild Imps has been replaced with Soul Link. 
+- 10th level: Demonic Resilience has been replaced with Demonic Fury. 
+- 14th level: Mark of Service has been replaced with Grimoire of Supremacy. 
+- 18th level: New feature We are Legion.
+
+\columnbreak
+
+### Destruction 
+- 2nd level: Ignite has been stepped up and renamed Pyrophile. 
+- 2nd level: New feature Channel Demonfire.
+- 6th level: Havoc has changed its resource mechanics, but is otherwise largely the same. 
+- 10th level: Soul Fire has been replaced with Unending Resolve. 
+- 14th level: Chaos Bolt has been replaced with Flames of Xerrath. 
+- 18th level: New feature Inferno. It's time to crash down some infernals.
+
+### New and Changed Spells
+- Demon Skin has been reworked and is now a 1st level spell to fill the class' Mage Armor niche.
+- Demonfire has been redone as Fire and Brimstone.
+- Diabolism added to the list, credited from [DDB.](https://www.dndbeyond.com/spells/141243-diabolism)
+- Drain Life is now a spell. 
+- Rain of Fire is now a spell.
+- Shadow Bolt now has a longer range. It also has a lower initial damage (d8 down from d10) but can be boosted to deal even more damage (d12).
+- Shadowfury now deals unavoidable damage in addition to its stun effect.
+
+### Removed Spells
+- Eldritch Blast (Shadow Bolt takes its place)
+- Power Word Pain
+- Power Word Kill
+- Puppet (UA spell)
+- Soulwell
+
+### Added Spells 
+- Cantrips: Acid Splash, Produce Flame, Sapping Sting
+- 1st Level: Alarm, Bane, Chromatic Orb, Detect Magic, Dissonant Whispers, Find Familiar, Identify, Jump, Shield, Sleep, Tasha's Caustic Brew
+- 2nd Level: Aganazzar's Scorcher, Alter Self, Arcane Lock, Continual Flame, Darkvision, Dragon's Breath, Flame Blade, Flaming Sphere, Heat Metal, Knock, Levitate, Locate Object, Melf's Acid Arrow, Pyrotechnics, Spider Climb, Suggestion, Tasha's Mind Whip, Web
+- 3rd Level: Animate Dead, Elemental Weapon, Gaseous Form, Haste, Life Transference, Protection From Energy, Sending, Speak With Dead, Stinking Cloud, Summon Shadowspawn, Summon Undead, Water Walk
+- 4th Level: Blight, Compulsion, Confusion, Death Ward, Dimension Door, Dominate Beast, Fire Shield, Greater Invisibility, Leomund's Secret Chest, Locate Creature, Mordenkainen's Faithful Hound, Otiluke's Resilient Sphere, Phantasmal Killer, Summon Aberration, Vitriolic Sphere, Wall of Fire
+- 5th Level: Antilife Shell, Contagion, Dispel Evil and Good, Geas, Insect Plague, Modify Memory, Rary's Telepathic Bond, Teleportation Circle, Wall of Force
+- 6th Level: Disintigrate, Globe of Invulnerability, Harm, Investiture of Flame, Magic Jar, Mass Suggestion, Planar Ally, Summon Fiend, Word of Recall
+- 7th Level: Forcecage, Mordenkainen's Sword, Teleport
+- 8th Level: Antimagic Field, Clone, Reality Break, Telepathy
+- 9th Level: Blade of Disaster, Ravenous Void
+
+\pagebreakNum
+
+
+### Appendix: Demon Companions
+- Demon companions / minions have been rewritten, and now follow the same Might of the Master structure as companions in other classes do. 
+- Many features have been changed. 
+- The Felguard has been added. 
+- All statblocks also have a Demonic Core (for Grimoire of Sacrifice) and a Supremacy Evolution (for Grimoire of Supremacy).
+
+## Changelog (Preview-1.1)
+### Major Changes:
+- Demon progression changed, moved to own column in class table. 
+- Saving Throws changed from Intelligence/Charisma to Constitution/Intelligence.
+- Profane Secret's bonus to Charisma checks now applies even if you don't have skill proficiency.
+- In Grimoire of Servitude, the line "A minion can't attack, but it can take other actions as normal." was removed.
+- Spellstones now only affect one creature and the first saving throw against the spell.
+- Demonology: Redundant revive rule in Soul Conduit removed.
+- Demonology: Pool of energy from Demonic Fury is a static six instead of based on Intelligence.
+- Destruction: Channel Demonfire can now be used on cantrips.
+- Destruction: Slight wording change on how Havoc works.
+- Spells: Summon Aberration, Summon Fiend, Summon Shadowspawn, Summon Undead, and Tasha's Caustic Brew added.
+- Spells: Cataclysm, Diabolism, Rain of Fire, Shadow Bolt, and Shadowfury reworked. 
+- Spells: Demonfire replaced with Fire and Brimstone. Functionally the same, with fixes, but should avoid confusion with the Destruction ability.
+- Demons: Felguard's Pursuit reworked.
+- Demons: Imp's Etherealness replaced with Phase Shift.
+- Added credits backpage.
+
+### Minor Changes:	
+- Class background image changed.
+- Fixed some formatting problems. 
+- Changed some wording in the introduction to the class.
+- Profane Knowledge renamed to Profane Secrets.
+- Dark Knowledge renamed to Demonic Knowledge.
+- Grimoire of Service renamed to Grimoire of Servitude.
+- Multiclassing section added.
+- Quick build expanded. 
+- Tasha's class format added.
+
+## Changelog (Preview-1.2)
+- Life Tap changed to be more flexible. Can be used at any time and on any spell and you choose what level to cast the spell at (and thus, how much damage to take).
+- Soul Shards and Demonic Knowledge (now called Dark Grimoires) swapped levels, from 2nd to 3rd and vice versa.
+- Soul Shards: Removed the Soulburn: Extend, Soulburn: Quicken, and Soulburn: Rebound abilities.
+- Soul Shards: Added some clarification on Casting Circle's wording.
+- Soul Shards: Added the Bolster Life and Borrow Experience abilities. 
+- Dark Grimoires: Renamed from Demonic Knowledge. Now a Pact Boon-like choice.
+- Dark Grimoires: Demonic Minions simplified into a TCE-style format. Demonic Cores and Grimoire of Supremacy upgrades removed.
+- Dark Grimoires: Added the Grimoire of Infusion and Grimoire of Knowledge abilities.
+- Added Fel Versatility to Ability Score Improvement, in the style of Eldritch Versatility from TCE.
+- Removed Soulforging. Soulstones and Healthstones are now created by spells.
+- Added the Black Harvest capstone.
+
+### Subclasses
+- Changed to be less reliant on spell casting, like 5e warlocks.
+- Creature-summoning capstones removed due to unnecessary complexity.
+- Demonology got a major rework with the new demon system.
+
+### Affliction
+- Curse Master reworked. No longer allows dual targets but provides ranged casting of *bestow curse* and *remove curse*, as well as giving advantage on saves vs curses
+- Drain Soul replaced with Writhe in Agony.
+- Potent Afflictions replaced with Soul Conduit.
+
+### Demonology
+- Reworked to be functional with or without demonic minions. 
+- Soul Conduit replaced with Dark Pact.
+- Soul Link slightly reworked, moved to 10th level. Replaced with Master Summoner.
+- Demonic Fury removed.
+- We Are Legion moved to 14th level, replacing Grimoire of Supremacy.
+- Master Demonologist added.
+
+### Destruction
+- Pyrophile removed, partially worked into Channel Demonfire.
+- Channel Demonfire can now be used on non-spell attacks.
+- Chaotic Energies added.
+- Havoc can now only be used on any single-target spells that deal damage (even up to 9th), but does not require soul shards.
+- Unending Resolve replaced with Molten Skin.
+- Inferno replaced with Cremation.
+
+### Spells
+- New Spells: Create Healthstone, Create Soulstone, Create Soulwell, Decompose (credit Matt Mercer), Shadow Glide, Touch of Chaos.
+- All spells moved to the Chapter 6 consolidated document.
+
+\pagebreakNum
+
+## Credits
+
+**Provide feedback for this document:** We'd really love your opinion on this material. You can do so by: 
+- Joining the conversation on [Discord](https://discord.com/invite/dKMJmmD). <br /> (Or just messaging an active Contributor there.)
+- Sharing your thoughts with us on [Reddit](https://www.reddit.com/r/wc5e/).
+- Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
+
+<br />**Current core team:** Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
+<br />
+
+<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
+<br />
+
+<br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
+<br />
+
+<br />**Projects we like and want to give thanks to:**
+- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
+- [This Warcraft project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
+- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
+
+<br />**Pg 1 Art:** "Undead Warlock" from [the WoW TGC](https://wow.gamepedia.com/File:Undead_warlock_1920xwide.jpg)
+<br />**Pg 1 Art:** "Shadowmoon Valley" by [Peter Lee](https://wow.gamepedia.com/File:Shadowmoon_Valley_Concept_Art_Peter_Lee_2.jpg)
+<br />**Pg 4 Art:** "Warlock Class Crest" from [World of Warcraft](https://wow.gamepedia.com/File:Warlock_Crest.png)
+<br />**Pg 4 Art:** "The Tomb of Sargeras" by [Dmytro Vernygor](https://www.artstation.com/artwork/31m9A)
+<br />**Pg 5 Art:** "Life Tap" by [Luca Zontini](https://hearthstone.gamepedia.com/File:Life_Tap_full.jpg)
+<br />**Pg 7 Art:** ??? [Pulled from page 93 of the 2.1 HHB]
+<br />**Pg 8 Art:** ??? [Pulled from page 92 of the 2.1 HHB]
+<br />**Pg 9 Art:** ??? [Pulled from the Manual of Monsters book.]
+<br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
+
+\pagebreakNum
+
+<style>
+
+/* BACK PAGE STYLES */
+
+  /* Remove footer from back page, replace pX with last page number */
+  .phb#p21:after { display:none; }
+
+  .phb .back-cover-content {
+    padding-left: 4px;
+    padding-right: 16px;
+  }
+  .phb .back-cover-right {
+      padding-left: 40px;
+  }
+  .phb .back-cover-image {
+    height: 1136px;
+    left: -20px;
+    top: -10px;
+    width: 475px;
+    background-size: 475px 1136px;
+  }
+  .phb .back-cover-diamond {
+    display: block;
+    position: initial;
+    left: initial;
+    top: initial;
+    margin: auto;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+  }
+ .phb .back-cover-logo-container {
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 314px;
+ }
+ .phb .back-cover-logo,
+ .phb .back-cover-logo-link {
+     position: initial;
+     margin: auto;
+     margin-bottom: 8px;
+     left: initial;
+     bottom: initial;
+     right: initial;
+     background-repeat: no-repeat;
+ }
+ 
+ </style>
+ 
+ <img src='https://www.gmbinder.com/images/4UrFsXk.jpg' style="position:absolute; right:-194px; bottom:0px; height:1160px;" />
+ 
+ <div class='back-cover-image'></div>
+ 
+ <div style='margin-top:20px;'></div>
+ 
+ <div class='back-cover-header'>
+ 
+ Warcraft
+ 
+ </div>
+
+ <div style='margin-top:30px;'></div>
+
+ <div class='back-cover-header'>
+ 
+ 5th Edition
+ 
+ </div>
+
+ <div style='margin-top:30px;'></div>
+
+ 
+<div class='back-cover-text'>
+ 
+  *Part of the WC5E Heroes Handbook v3*
+ 
+  This document is a part of an upcoming update (as of writing this) to our *Warcraft 5th Edition Heroes Handbook*; a massive tome of player classes, races, and backgrounds to put a Warcraft spin on core Dungeons & Dragons material.
+
+  We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
+  
+  [Our project on Github](https://github.com/WC5E/Warcraft-5e-Conversion/) <br />
+  [Our community on Reddit](https://www.reddit.com/r/wc5e/) <br />
+  [Our community on Discord](https://discord.com/invite/dKMJmmD)
+  
+</div>
+ 
+<div class='back-cover-diamond' style='top: 679px;'></div>
+ 
+<div style='margin-top:35px;'></div>
+ 
+<div class='back-cover-close'>
+
+  Big love from the team. ❤
+
+   
+</div>
+
+<div class='back-cover-logo-container'>
+ 
+  <div class='back-cover-logo'></div>
+ 
+  <div class='back-cover-logo-link'>
+ 
+  [WWW.GMBINDER.COM](https://www.gmbinder.com)
+ 
+  </div>
+
+</div>
+ 
+ \columnbreak
+ 
+
+<div class='back-cover-right'>
+
+</div>
