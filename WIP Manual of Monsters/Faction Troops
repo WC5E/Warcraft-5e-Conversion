@@ -175,12 +175,7 @@ ___
 \pagebreak
 
 ___
->## Brewmaster 
-<!--
-Without brews CR3 (any brew pushes it to CR4): https://wc5e-cr-calculator.frogvall.com/?0;14;85;5;13;17;10;14;0;0;0;0;0;0;0;0;0;;;;;6;;;;;;;1;;;1;;;1;;;;;13;;;;;;;2;2;1;3;1;0;1 
-All brews CR6:
-https://wc5e-cr-calculator.frogvall.com/?0;16;85;6;15;24;10;21;0;0;0;0;0;0;0;0;0;;;;1;6;;;;;;;1;;;1;;;1;;;;1;13;;;;;;;2;2;1;3;1;0;1; 
--->
+>## Brewmaster <!-- Without brews CR3 (any brew pushes it to CR4): https://wc5e-cr-calculator.frogvall.com/?0;14;85;5;13;17;10;14;0;0;0;0;0;0;0;0;0;;;;;6;;;;;;;1;;;1;;;1;;;;;13;;;;;;;2;2;1;3;1;0;1 All brews CR6: https://wc5e-cr-calculator.frogvall.com/?0;16;85;6;15;24;10;21;0;0;0;0;0;0;0;0;0;;;;1;6;;;;;;;1;;;1;;;1;;;;1;13;;;;;;;2;2;1;3;1;0;1; -->
 >*Medium humanoid (Pandaren), neutral*
 >___
 >- **Armor Class** 14 (studded leather armor)
@@ -212,6 +207,8 @@ https://wc5e-cr-calculator.frogvall.com/?0;16;85;6;15;24;10;21;0;0;0;0;0;0;0;0;0
 >***Multiattack.*** The Brewmaster makes two weapon attacks. It can replace all of them  with its keg smash or breath of fire ability if they are available.  
 >
 >***Quarterstaff.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with both hands.  
+>
+>\columnbreak
 >
 >### Bonus Actions
 >
