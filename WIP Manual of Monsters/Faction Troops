@@ -1,5 +1,5 @@
 ___
->## Militia
+>## Militia <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;22;3;12;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;2;2;1;3; -->
 >*Medium humanoid (Human), neutral*
 >___
 >- **Armor Class** 14 (leather armor, shield)
@@ -22,14 +22,8 @@ ___
 
 \pagebreak
 
-## Militia
-
-https://wc5e-cr-calculator.frogvall.com/?0;14;22;3;12;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;2;2;1;3;
-
-\pagebreak
-
 ___
->## Sentinel
+>## Sentinel <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;55;4;12;10;7;10;0;10;0;10;0;10;0;10;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
 >*Medium humanoid (Night Elf), neutral*
 >___
 >- **Armor Class** 14 (studded leather armor)
@@ -62,14 +56,8 @@ ___
 
 \pagebreak
 
-## Sentinel
-
-https://wc5e-cr-calculator.frogvall.com/?0;14;55;4;12;10;7;10;0;10;0;10;0;10;0;10;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;
-
-\pagebreak
-
 ___
->## Footman
+>## Footman <!-- https://wc5e-cr-calculator.frogvall.com/?0;18;45;4;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;1;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
 >*Medium humanoid (Human), neutral*
 >___
 >- **Armor Class** 18 (half plate armor, shield)
@@ -93,14 +81,8 @@ ___
 
 \pagebreak
 
-## Footman
-
-https://wc5e-cr-calculator.frogvall.com/?0;18;45;4;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;1;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;
-
-\pagebreak
-
 ___
->## 7th Legion Footman
+>## 7th Legion Footman <!-- https://wc5e-cr-calculator.frogvall.com/?1;22;97;5;12;21;7;0;0;0;0;0;0;0;0;0;0;;;;;1;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
 >*Medium humanoid (Human), neutral*
 >___
 >- **Armor Class** 20 (plate armor, shield)
@@ -131,14 +113,8 @@ ___
 
 \pagebreak
 
-## 7th Legion Footman
-
-https://wc5e-cr-calculator.frogvall.com/?1;22;97;5;12;21;7;0;0;0;0;0;0;0;0;0;0;;;;;1;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;
-
-\pagebreak
-
 ___
->## Priest
+>## Priest <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;27;0;13;18;0;0;0;0;0;0;0;0;0;0;0;;;;;1;;;;;;;;;;1;;;;;;;1;10;;;;;;;2;2;1;3; -->
 >*Medium humanoid (Human), any alignment*
 >___
 >- **Armor Class** 13 (Amor of Faith)
@@ -171,14 +147,8 @@ ___
 
 \pagebreak
 
-## Priest
-
-https://wc5e-cr-calculator.frogvall.com/?0;13;27;0;13;18;0;0;0;0;0;0;0;0;0;0;0;;;;;1;;;;;;;;;;1;;;;;;;1;10;;;;;;;2;2;1;3;
-
-\pagebreak
-
 ___
->## Wardancer
+>## Wardancer <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;55;4;12;10;7;10;0;10;0;10;0;10;0;10;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3; -->
 >*Medium humanoid (Pandaren), neutral*
 >___
 >- **Armor Class** 14 (studded leather armor)
@@ -195,15 +165,59 @@ ___
 >- **Challenge** 1 (200 XP)
 >- **Proficiency Bonus** +2
 >___
->***Blurred Movement.*** Attack rolls against the wardancer have disadvantage unless the quickling is incapacitated or restrained.  
+>***Blurred Movement.*** Attack rolls against the wardancer have disadvantage unless the wardancer is incapacitated or restrained.  
 >
 >***Evasion.*** If the wardancer is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.  
 >
 >### Actions
->***Multiattack.*** The sentinel makes two weapon attacks.
+>***Multiattack.*** The wardancer makes two weapon attacks.
 
 \pagebreak
 
-## Wardancer
-
-https://wc5e-cr-calculator.frogvall.com/?0;14;55;4;12;10;7;10;0;10;0;10;0;10;0;10;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;2;2;1;3;
+___
+>## Brewmaster 
+<!--
+Without brews CR3 (any brew pushes it to CR4): https://wc5e-cr-calculator.frogvall.com/?0;14;85;5;13;17;10;14;0;0;0;0;0;0;0;0;0;;;;;6;;;;;;;1;;;1;;;1;;;;;13;;;;;;;2;2;1;3;1;0;1 
+All brews CR6:
+https://wc5e-cr-calculator.frogvall.com/?0;16;85;6;15;24;10;21;0;0;0;0;0;0;0;0;0;;;;1;6;;;;;;;1;;;1;;;1;;;;1;13;;;;;;;2;2;1;3;1;0;1; 
+-->
+>*Medium humanoid (Pandaren), neutral*
+>___
+>- **Armor Class** 14 (studded leather armor)
+>- **Hit Points** 85 (10d10 + 30)
+>- **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|11 (+0)|16 (+3)|10 (+0)|11 (+0)|13 (+1)|
+>___
+>- **Skills** Acrobatics +2, Persuasion +3
+>- **Senses** passive Perception 10
+>- **Languages** Common, Pandaren
+>- **Challenge** 4 (1,100 XP)
+>- **Proficiency Bonus** +2
+>___
+>***Drunken Brawler.*** While intoxicated the brewmasters attacks are made with advantage and attacks against it are made with disadvantage.  
+>Any effect that removes the poisoned condition also ends this effect.  
+>Additionally the brewmaster can't become poisoned by alcohol.  
+>
+>### Actions
+>***Keg Smash (Recharge 4–6).*** The brewmaster breaks it's keg open covering a 15-foot cube directly in front of it in flammable brews. Every creature in the area must succeed on a DC 13 Dexterity saving throw or be covered in the liquid until a creature uses an action to scrape it of.  
+>Creatures covered with the liquid must succeed on a DC 13 Constitution saving throw at the start of their turn or become poisoned until the end of their turn.  
+>
+>***Breath of Fire (Recharge 4–6).*** The brewmaster takes a sip from one of its flasks and spews the contents in a 15-foot wide cone in front of it. The liquid within reacts violently with the surrounding air and spontaneously bursts in to flames.  
+>Every creature in the area must succeed on a DC 13 Dexterity saving throw are take 14 (4d6) fire damage or half as much on a successful save.  
+>If the creature is also covered by the liquid from it's *keg smash* ability it also takes another 5 (1d10) at the start of the creatures turn, until someone takes an action to remove the liquid or extinguish the fire.  
+>
+>***Multiattack.*** The Brewmaster makes two weapon attacks. It can replace all of them  with its keg smash or breath of fire ability if they are available.  
+>
+>***Quarterstaff.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with both hands.  
+>
+>### Bonus Actions
+>
+>***Enhancing Brews.*** The brewmaster drinks out of one of its many flasks and gains one of the following effects until the start of its next turn.  
+>Roll a D20 to determine the effect. After using this ability at least twice the brewmaster becomes automatically intoxicated.  
+>(1-6) +2 bonus to AC and to all saving throws the brewmaster makes.  
+>(7-12) +2 bonus to attack rolls and an extra 7 (2d6) to all damage the brewmaster does on its turn.  
+>(13-18) The brewmaster gains 2d10 + 3.  
+>(19-20) All of the effects above.
