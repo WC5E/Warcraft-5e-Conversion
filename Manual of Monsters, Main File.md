@@ -9699,6 +9699,9 @@ Because of this, they are often a favoured companion for any hunters whose quarr
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+<img src="https://i.imgur.com/a81VyUK.png" class="inkblot inkblot-green" style="bottom: -385px;left: -70px;width: 740px;transform: rotate(-150deg) scaleX(-1);">
+<img src="https://i.imgur.com/kLKYzA0.png" style="position:absolute;bottom: -65px;right: -65px;width: 745px;">
+
 
 \pagebreakNum
 
@@ -10005,6 +10008,8 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <br />**Elderhorn Render** from World of Warcraft
 <br />**Highmountain Scenery** from World of Warcraft
 <br />**Owl Render** from World of Warcraft
+<br />**Ardenweald Moth** by [Natacha Nielsen](https://www.artstation.com/artwork/rAPxKE)
+
 
 \pagebreakNum
 
