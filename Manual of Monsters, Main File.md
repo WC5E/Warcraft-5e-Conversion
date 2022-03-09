@@ -9488,6 +9488,8 @@ ___
 >
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
+Also known as elderhorn, the great **moose** of Azeroth are lumbering beasts recognized by the characteristic shape of their massive antlers. They are favored animals among the Highmountain tauren, and some herds make their home within druidic groves -- where they grow a particular kind of kinship with the grove's residing druids.
+
 \columnbreak
 
 ___
@@ -9519,9 +9521,16 @@ ___
 > 
 > ***Ink Cloud (Recharges after a Short or Long Rest).*** A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
+
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+
+<img src="https://i.imgur.com/PMfzlNn.jpg" style="position:absolute;bottom: 0px;right: 0px;width: 910px;">
+<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute;top: 0px;right:0px;width: 820px;transform: scaleX(-1);">
+<img src="https://i.imgur.com/RUukMlL.png" style="position:absolute;bottom: 5px;right: 45px;width: 435px;">
+
 \pagebreakNum
+
 
 ___
 > ## Owl
@@ -9991,6 +10000,8 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <br />**Tomb Spider** by [Turovec Konstantin](https://hearthstone.fandom.com/wiki/Tomb_Spider)
 <br />**Swift Hawkstrider** by [Tyler Walpole](https://hearthstone.fandom.com/wiki/Battle_Hawkstrider)
 <br />**Hyena Alpha** by [Peter Stapleton](https://hearthstone.fandom.com/wiki/Hyena_Alpha)
+<br />**Elderhorn Render** from World of Warcraft
+<br />**Highmountain Scenery** from World of Warcraft
 
 \pagebreakNum
 
