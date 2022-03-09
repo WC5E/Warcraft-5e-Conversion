@@ -9614,8 +9614,10 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
 
-
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/0hVRLNf.png" class="inkblot inkblot-green" style="bottom: -225px;left: -180px;width: 820px;transform: rotate(330deg) scaleX(-1);">
+<img src="https://i.imgur.com/BecGt0i.png" style="position:absolute;bottom: -65px;left: 35px;width: 350px;">
 
 \pagebreakNum
 
@@ -10002,6 +10004,7 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <br />**Hyena Alpha** by [Peter Stapleton](https://hearthstone.fandom.com/wiki/Hyena_Alpha)
 <br />**Elderhorn Render** from World of Warcraft
 <br />**Highmountain Scenery** from World of Warcraft
+<br />**Owl Render** from World of Warcraft
 
 \pagebreakNum
 
