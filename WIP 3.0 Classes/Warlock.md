@@ -1067,3 +1067,826 @@ ___
 > ***Consuming Shadows.*** You can spend a soul shard and choose up to 5 creatures with in 10 feet of the voidwalker to make a Constitution saving throw. The targets take damage equal to twice your PB, half in cold and half in necrotic, on a failed save, or half damage on a successful save. The voidwalker gains temporary hit points equal to the total amount of damage dealt.
 
 <div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
+# Chapter 6: Spells
+While most spell descriptions are located in the Player's Handbook, some spells are described in other locations, as indicated by the table below.
+
+Symbol|Spell Location
+------|--------------------------
+✦ |In this chapter, under Spell Descriptions
+^EGW^ | Explorer's Guide to Wildemount
+^TCE^ | Tasha's Cauldron of Everything
+^XGE^ |Xanathar's Guide to Everything
+
+> ##### Variant Rule: Xorothian Steed
+> Dungeon Masters might prefer making the creatures summoned by a warlock with the *find steed* and *find greater steed* fiends instead of the other creature types listed in those spells. Additionally, the *find greater steed* spell can summon a felsteed in addition to the other creatures listed.
+
+## Warlock Spell List
+<div style='column-count:2'>
+
+##### Cantrips (0 Level)
+Acid Splash
+<br/> Blade Ward
+<br/> Chill Touch
+<br/> Create Bonfire ^XGE^
+<br/> ✦ Decompose
+<br/> ✦ Diabolism
+<br/> ✦ Fel Flame
+<br/> Friends
+<br/> Fire Bolt
+<br/> Green-Flame Blade ^TCE^
+<br/> Mage Hand
+<br/> Produce Flame
+<br/> Sapping Sting ^EGW^
+<br/> ✦ Shadow Bolt
+<br/> ✦ Shadow Glide
+<br/> Toll the Dead ^XGE^
+<br/> ✦ Touch of Chaos
+
+##### 1st Level
+Alarm
+<br/> Arms of Hadar
+<br/> Bane
+<br/> Cause Fear ^XGE^
+<br/> Chromatic Orb
+<br/> Comprehend Languages
+<br/> ✦ Demon Skin
+<br/> Detect Magic
+<br/> ✦ Drain Life
+<br/> Expeditious Retreat
+<br/> False Life
+<br/> Find Familiar
+<br/> Hellish Rebuke
+<br/> Hex
+<br/> Identify
+<br/> Illusory Script
+
+<br/> Jump
+<br/> Ray of Sickness
+<br/> Shield
+<br/> Sleep
+<br/> Tasha's Caustic Brew ^TCE^
+<br/> Tasha's Hideous Laughter
+<br/> Unseen Servant
+<br/> Witch Bolt
+
+##### 2nd Level
+Aganazzar's Scorcher ^XGE^
+<br/> Alter Self
+<br/> Arcane Lock
+<br/> Cloud of Daggers
+<br/> Continual Flame
+<br/> ✦ Create Healthstone
+<br/> Crown of Madness
+<br/> Darkness
+<br/> Darkvision
+<br/> Dragon's Breath
+<br/> Enthrall
+<br/> Find Steed
+<br/> Flame Blade
+<br/> Heat Metal
+<br/> Hold Person
+<br/> Invisibility
+<br/> Knock
+<br/> Levitate
+<br/> Locate Object
+<br/> Melf's Acid Arrow 
+<br/> Mind Spike ^XGE^
+<br/> Misty Step
+<br/> Phantasmal Force
+<br/> Pyrotechnics ^XGE^
+<br/> Ray of Enfeeblement
+
+\columnbreak
+
+<br/> Scorching Ray
+<br/> Shadow Blade ^XGE^
+<br/> Spider Climb
+<br/> Suggestion
+<br/> Tasha's Mind Whip ^TCE^
+<br/> Web
+
+##### 3rd Level
+Bestow Curse
+<br/> Clairvoyance
+<br/> Counterspell
+<br/> Dispel Magic
+<br/> Elemental Weapon
+<br/> Enemies Abound ^XGE^
+<br/> Fear
+<br/> Fly
+<br/> Gaseous Form
+<br/> Haste
+<br/> Hunger of Hadar
+<br/> Hypnotic Pattern
+<br/> Life Transference ^XGE^
+<br/> Major Image
+<br/> Melf's Minute Meteors
+<br/> Phantom Steed
+<br/> Protection From Energy
+<br/> Remove Curse
+<br/> Sending
+<br/> Speak With Dead
+<br/> Summon Lesser <br/>&nbsp;&nbsp;Demons ^XGE^
+<br/> Summon Shadow-<br/>&nbsp;&nbsp;spawn ^TCE^
+<br/> Summon Undead ^TCE^
+<br/> Tiny Servant ^XGE^
+<br/> Tongues
+<br/> Vampiric Touch
+<br/> Water Breathing
+<br/> Water Walk
+
+##### 4th Level
+Arcane Eye
+<br/> Banishment
+<br/> Blight
+<br/> Charm Monster ^XGE^
+<br/> Compulsion
+<br/> Death Ward
+<br/> Evard's Black Tentacles
+<br/> Find Greater Steed ^XGE^
+<br/> ✦ Fire and Brimstone
+<br/> Greater Invisibility
+<br/> Hallucinatory Terrain
+<br/> Leomund's Secret Chest
+<br/> Locate Creature
+<br/> Mordenkainen's Faithful <br/>&nbsp;&nbsp; Hound
+<br/> Otiluke's Resilient Sphere
+<br/> Phantasmal Killer
+<br/> Shadow of Moil ^XGE^
+<br/> Sickening Radiance ^XGE^
+<br/> Summon Aberration ^TCE^
+<br/> Summon Greater <br/>&nbsp;&nbsp;Demon ^XGE^
+<br/> Vitriolic Sphere ^XGE^
+
+\columnbreak 
+
+<div style='margin-top:-10px;'></div>
+
+##### 5th Level
+Antilife Shell
+<br/> ✦ Create Soulstone
+<br/> Danse Macabre ^XGE^
+<br/> Dispel Evil and Good
+<br/> Dominate Person
+<br/> Enervation ^XGE^
+<br/> Far Step ^XGE^
+<br/> Geas
+<br/> Hold Monster
+<br/> Immolation ^XGE^
+<br/> Insect Plague
+<br/> Modify Memory
+<br/> Negative Energy Flood ^XGE^
+<br/> ✦ Rain of Fire
+<br/> Rary's Telepathic Bond
+<br/> ✦ Ritual of Summoning
+<br/> Scrying
+<br/> Synaptic Static ^XGE^
+<br/> Teleportation Circle
+<br/> Wall of Force
+
+##### 6th Level
+Arcane Gate
+<br/> Circle of Death
+<br/> Contingency
+<br/> ✦ Create Soulwell
+<br/> Create Undead
+<br/> Disintegrate
+<br/> Drawmij's Instant &nbsp;&nbsp;Summons
+<br/> Eyebite
+<br/> Globe of Invulnerability
+<br/> Harm
+<br/> Investiture of Flame ^XGE^
+<br/> Magic Jar
+<br/> Mass Suggestion
+<br/> Mental Prison ^XGE^
+<br/> Otto's Irresistible Dance
+<br/> Planar Ally
+<br/> Scatter ^XGE^
+<br/> ✦ Shadowfury
+<br/> Soul Cage ^XGE^
+<br/> Summon Fiend ^TCE^
+<br/> Tasha's Otherworldy <br/> &nbsp;&nbsp; Guise ^TCE^
+<br/> True Seeing
+<br/> Word of Recall
+
+##### 7th Level
+Delayed Blast Fireball
+<br/> Etherealness
+<br/> Finger of Death
+<br/> Fire Storm
+<br/> Forcecage
+<br/> Mordenkainen's Sword
+<br/> Sequester
+<br/> Teleport
+
+</div>
+
+<div class='footnote'>PART 2 | MAGIC</div>
+
+\pagebreakNum
+<div style='column-count:2'>
+
+<div style='margin-top:-10px;'></div>
+
+##### 8th Level
+Abi-Dalzim's Horrid <br/>&nbsp;&nbsp;Wilting ^XGE^
+<br/> Antimagic Field
+<br/> ✦ Cataclysm
+<br/> Clone
+<br/> Demiplane
+<br/> Dominate Monster
+<br/> Feeblemind
+<br/> Glibness
+<br/> Maddening Darkness ^XGE^
+<br/> Reality Break ^EGW^
+<br/> Telepathy
+
+##### 9th Level
+Blade of Disaster ^TCE^
+<br/> Gate
+<br/> Imprisonment
+<br/> Meteor Swarm
+<br/> Psychic Scream ^XGE^
+<br/> Ravenous Void ^EGW^
+<br/> Weird
+
+</div>
+
+## Spell Descriptions
+
+#### Cataclysm
+*8th-level conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 150 feet
+- **Components:** V, S, M (a piece of charcoal)
+- **Duration:** Instantaneous
+___
+You cause the ground to crack and split, with molten magma and fire spitting up out in a 60-foot radius centered on a point within range. Each creature in the area must make a Dexterity saving throw or take 10d6 fire damage, taking half damage on a success.
+
+A creature who takes fire damage from this spell is set aflame, taking an additional 2d6 fire damage at the beginning of each of their turns. They or another adjacent creature can use their action to put out the flames, taking 1d4 fire damage in the process.
+
+The ground in the area of this spell remains damaged, turning into difficult terrain. It remains hot for 1 minute, and any creature who enters the area for the first time on their turn or starts their turn there takes 1d4 fire damage.
+
+#### Create Healthstone
+*2nd level conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+You create a fist-sized glowing green stone in your hand. A creature can use its action to crush the stone, destroying it and regaining hit points equal to 1d10 + your spellcasting modifier. The stone loses its abilities if not used within 24 hours.
+
+**At Higher Levels:** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d10 for each slot level above 2nd.
+
+\columnbreak
+
+#### Create Soulstone
+*5th level conjuration (ritual)*
+___
+- **Casting Time:** 10 minutes
+- **Range:** Self (30 feet)
+- **Components:** V, S, M (a crystal orb worth 50 gp)
+- **Duration:** 10 days
+___
+You bind the souls of creatures to the world of the living, allowing them to come back from the brink of death. When you cast this spell, select up to six willing creatures within range. If any of the targets would be reduced to 0 hit points during the spell's duration, they are reduced to 1 hit point instead and the material component is consumed. When the spell ends, each creature that been targeted by the spell is alerted that the spell has ended and which creature had been saved. The spell cannot alert or save creatures on another plane of existence than the material component.
+
+If you cast this spell again, the effect of any previously cast create soulstone spell ends. The spell ends prematurely if its material component is ever not on your person. A creature can only benefit from one soulstone at a time.
+
+#### Create Soulwell
+*6th level conjuration*
+___
+- **Casting Time:** 10 minutes
+- **Range:** 5 feet
+- **Components:** V, S
+- **Duration:** 1 minute
+___
+You cause a runed stone altar to appear in an unoccupied space within range. An allied creature can use its action to reach into the liquid that fills the basin to withdraw a glowing green stone. When the spell ends, the altar disappears, but the stones remain until used or 24 hours pass, whichever is first. A creature can crush the stone as an action to regain hit points equal to 4d10 + your spellcasting modifier.
+
+**At Higher Levels:** When you cast this spell using a spell slot of 7th level or higher, the healing increases by 1d10 for each slot level above 6th.
+
+#### Dark Void
+*1st-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (a holy symbol)
+- **Duration:** Instantaneous
+___
+You grasp the fabric around a target within range, pulling necromantic energies from it and creatures of your choice within 5 feet of it. A target must make a Constitution saving throw, taking 2d4 necrotic damage on a failed save, or half as much damage on a successful one.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st
+
+<div class='footnote'>PART 2 | MAGIC</div>
+
+\pagebreakNum
+
+#### Decompose
+*Necromancy cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 1 minute
+___
+You reach out and touch the corpse of a creature. Over the next minute, the corpse begins to rapidly decompose, sprouting fungus and moss as it begins to degrade into compost and mulch. An odd-colored flower or two may also spring from the corpse in this time. Applicable requirements for resurrection are unaffected by this decomposition.
+
+#### Demon Skin
+*1st-level transmutation*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S, M (dried skin of a demon or fiend)
+- **Duration:** 8 hours
+___
+Your skin becomes covered in a layer of fel energy, infusing you with fiendish vigor. Your base Armor Class becomes 8 + your spellcasting ability modifier (minimum AC 10). 
+
+Additionally, your current hit points and hit point maximum each increase by 2. If ending the spell would cause your current hit point total to drop to 0 or lower, it drops to 1 instead.
+
+***At Higher Levels:*** When you cast this spell using a spell slot of 2nd level or higher, the Armor Class granted by the spell increases by 1 and your current hit point total and hit point maximum each increase by 2 for each slot level above 1st.
+
+\columnbreak
+#### Diabolism
+*Necromancy cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** S
+- **Duration:** Up to 1 hour
+___
+This spell channels a small amount of dark energy. You create one of the following magical effects within range:
+- Choose a point within 30 feet. In a 5-foot radius of that point, bright light becomes dim light, and dim light becomes darkness for 1 hour. Any light sources within the area have the light they produce suppressed for the duration.
+- An object up to 1 cubic foot in size or an area up to 1 square foot that you touch lightly decays. Wood rots, glass cracks, flowers wilt. Casting the spell and then continuing to touch the target advances the decay; after 1 minute, the target is destroyed. This spell cannot affect creatures, magical objects, or sturdy materials like metal and stone.
+- You can reanimate a Tiny 0 CR beast for 1 hour. It is undead and obeys all of your commands to the best of it's abilities, though it cannot attack. You cannot use this effect again until the reanimated creature dies, or the effect ends.
+- You instantaneously light a candle, torch, or small campfire. The fire glows your choice of a smoldering red, bright green, or shadowy purple until extinguished.
+- Your fingertip glows green or purple for up to 1 minute. While it glows, you can use your finger to draw glowing lines of the same color on a solid surface that last for 1 hour.
+
+If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+
+#### Drain Life
+*1st-level necromancy*
+___
+- **Casting Time:** 1 Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
+You cause a green stream of energy to trail from the target creature's eyes and mouth and into your hand, forming a continuous stream of energy to bind you two together.
+
+Make a ranged spell attack against that creature. On a hit, the target takes 1d8 necrotic damage, and on each of your subsequent turns for the duration, you can use your bonus action to deal 1d8 necrotic damage to the target automatically. Each time the target takes damage from this spell, you regain a number of hit points equal to half the damage dealt and their maximum hit point total is reduced by the same amount. This reduction lasts until they finish a long rest.
+
+On a miss, you can spend your action on subsequent turns within the spell’s duration to make another ranged spell attack against the same creature. The spell ends if you use your action to do anything else. 
+
+The spell ends if your target is more than 30 feet away from you or has total cover from you at the end of your turn. This spell has no effect on the creature if they are a construct or undead.
+
+
+<div class='footnote'>PART 2 | MAGIC</div>
+
+\pagebreakNum
+
+***At Higher Levels:*** When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d8 for each slot level above 1st. The damage dealt as a bonus action also increases by 1d8 for every two slot levels above 1st.
+
+#### Fel Flame
+*Evocation cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+A green flame skitters across the ground towards a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 fire damage. Fel flame ignores fire resistance, and creatures immune to fire damage are considered to be resistant.
+
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). 
+
+#### Fire and Brimstone
+*4th-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+You form six orbs of fire above your head, which you launch at targets within 20 feet of a point you choose within range. You can direct the orbs to hit one target or several. A target takes 1d10 fire damage for each orb that strikes it, and can attempt a Dexterity saving throw to take half as much damage. Each target only makes one saving throw, regardless of how many orbs it is struck by.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the spell creates one more orb for each spell level above 4th.
+
+#### Mind Flay
+*2nd-level enchantment*
+___
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
+___
+You wreathe the mind of a creature you can see within range. The target must make a Wisdom saving throw. On a failed save, the creature takes 2d6 psychic damage and has disadvantage on all attack rolls and ability checks for the spells duration, and on as successful save, the creature takes half damage but suffers no other effects of the spell.
+
+At the end of each of its turns, the creature can make a Wisdom saving throw, ending the spell on a success.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
+
+#### Rain of Fire
+*5th-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
+You summon a cloud at a point within range, causing flaming raindrops to blanket a 15-foot radius area around it. Each creature entering the area for the first time on their turn, or who starts their turn there, must make a Dexterity saving throw, taking 3d12 fire damage on a failed save, or half as much on a success.
+
+As a bonus action you can move the cloud up to 15 feet to a point you can see. Unattended flammable objects in the area are ignited. 
+
+***At Higher Levels:*** When you cast this spell using a spell slot of 6th level or higher, it deals an additional 1d12 points of fire damage for each spell level above 5th.
+
+#### Ritual of Summoning
+*5th-level conjuration (ritual)*
+___
+- **Casting Time:** 10 minutes
+- **Range:** 10 feet
+- **Components:** V, S, M (a blood sapphire worth 100 gp)
+- **Duration:** 1 hour
+___
+You call forth a summoning portal in an empty space within range. Appearing as a shadowy statue of a cloaked figure, holding open the cloak to reveal a gapping swirl into the twisting nether.
+
+Using 1 minute, you can channel energy into the statue, and call forth the true name of a creature. If the creature is on your plane of existence, a shimmering mirror appears in front of it that only it can see, through the mirror the creature is able to perceive you and your surroundings, but you can not see it. 
+
+A creature can choose to ignore the mirror, in which case it vanishes after 1 minute and a new mirror can't appear in front of that creature again for another 24 hours, or pass through it, in which case it is teleported to the space in front of the summoning stone. 
+
+The ritual of summoning is only able to call creatures to it, a creature can't use the summoning stone to traverse back to their previous location.
+
+#### Shadow Bolt
+*Necromancy cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+You fire a blast of necrotic energy at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 necrotic damage. 
+
+When the spell hits, you can choose to take 1 point of psychic damage to increase the damage dealt to 1d12 necrotic damage.
+
+The spell’s damage dealt increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12). The optional damage taken increases by 2 when you reach 5th level (3), 11th level (5), and 17th level (7).
+
+#### Shadow Glide
+*Conjuration cantrip*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self (5 feet)
+- **Components:** V
+- **Duration:** Instantaneous
+___
+Obscured by shadows, you teleport to an unoccupied space within 5 feet.
+
+<div class='footnote'>PART 2 | MAGIC</div>
+
+\pagebreakNum
+
+#### Shadowfury
+*6th-level enchantment*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
+You extend your arm and draw shadow energy down upon creatures within a 10-foot radius of a point within range. Each creature takes 5d8 psychic damage and must succeed on a Wisdom saving throw or be stunned for the duration of the spell. 
+
+A stunned creature must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
+
+#### Touch of Chaos
+*Evocation cantrip*
+___
+- **Casting time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+You launch a beam of raw chaos energy at a creature or object within range. Make a ranged spell attack against the target. On a hit, roll a d8 to determine the damage type it deals on the table below. Then roll 1d8 for damage.
+
+d8 |Damage Type |d8 |Damage Type
+---|------------|---|-----------
+1  | Acid		| 5  | Lightning
+2  | Cold		| 6 | Poison
+3  | Fire		| 7 | Psychic
+4  | Force		| 8 | Thunder
+
+The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll and damage type roll for each beam.
+
+<div class='footnote'>PART 2 | MAGIC</div>
+
+\pagebreakNum
+
+## Changelog (preview-1)
+
+This release of the document is a patch update from the last class preview. The changelog shown here shows all class changes since the last version of the class (HHB 2.1).
+
+### Class Features 
+- Armour proficiency removed, weapon proficiencies reduced
+- Starting equipment has been changed accordingly
+- New feature Profane Secrets at 1st level
+- Shadow Magic has been renamed to Fel Sorcery. Functionally it acts the same, but ritual casting has been added. 
+- The number of cantrips has reduced from 5 to 4, aligning with the PHB warlock, druid, and bard
+- Life Tap now starts at 1st level. It no longer reduces maximum hit points, but instead deals unresisted damage with a limited number of uses.
+- Fel Study choice delayed to 2nd level.
+- Shadow Embrace has been removed, and split into Demonic Knowledge and Soul Shards. 
+- Demonic Knowledge allows you to build a growing number of known demon types. It is split into two parts; Grimoire of Servitude and Grimoire of Sacrifice, the former for summoning demons and the latter for draining their powers instead. 
+- Soul Shards function similar, but the number of ways they can be used has been increased.
+- New feature Soulforging at 5th level, adding more ways to use soul shards. 
+- Fel Arcanum has been renamed to Nethermancy. Instead of adding a 1/LR spell of 6th - 9th level, the warlock gains one spell known from each level and one LR spell slot of each level. These spell slots can be used to cast any spell the warlock knows.
+
+### Subclasses
+- Subclasses have been completely redesigned. 
+- Expanded spell lists have been rearranged.
+
+### Affliction
+- 2st level: Curse of Agony has been changed to Corruption, which lets the warlock cast Banes with different effects. 
+- 2nd level: New feature Haunt. 
+- 6th level: Nether Ward has been replaced with Curse Master. 
+- 10th level: Unstable Affliction has been folded into Corruption, and replaced with Drain Soul. 
+- 14th level: Seed of Corruption has been replaced with Unstable Afflictions. 
+- 18th level: New feature Potent Affliction. It is split into two parts; Curse of Doom and Seed of Corruption.
+
+### Demonology
+- 2nd level: Fiendish Influence has been replaced with Soul Conduit, which empowers demons from Demonic Knowledge.
+- 2nd level: New feature Sense Demons.
+- 6th level: Wild Imps has been replaced with Soul Link. 
+- 10th level: Demonic Resilience has been replaced with Demonic Fury. 
+- 14th level: Mark of Service has been replaced with Grimoire of Supremacy. 
+- 18th level: New feature We are Legion.
+
+\columnbreak
+
+### Destruction 
+- 2nd level: Ignite has been stepped up and renamed Pyrophile. 
+- 2nd level: New feature Channel Demonfire.
+- 6th level: Havoc has changed its resource mechanics, but is otherwise largely the same. 
+- 10th level: Soul Fire has been replaced with Unending Resolve. 
+- 14th level: Chaos Bolt has been replaced with Flames of Xerrath. 
+- 18th level: New feature Inferno. It's time to crash down some infernals.
+
+### New and Changed Spells
+- Demon Skin has been reworked and is now a 1st level spell to fill the class' Mage Armor niche.
+- Demonfire has been redone as Fire and Brimstone.
+- Diabolism added to the list, credited from [DDB.](https://www.dndbeyond.com/spells/141243-diabolism)
+- Drain Life is now a spell. 
+- Rain of Fire is now a spell.
+- Shadow Bolt now has a longer range. It also has a lower initial damage (d8 down from d10) but can be boosted to deal even more damage (d12).
+- Shadowfury now deals unavoidable damage in addition to its stun effect.
+
+### Removed Spells
+- Eldritch Blast (Shadow Bolt takes its place)
+- Power Word Pain
+- Power Word Kill
+- Puppet (UA spell)
+- Soulwell
+
+### Added Spells 
+- Cantrips: Acid Splash, Produce Flame, Sapping Sting
+- 1st Level: Alarm, Bane, Chromatic Orb, Detect Magic, Dissonant Whispers, Find Familiar, Identify, Jump, Shield, Sleep, Tasha's Caustic Brew
+- 2nd Level: Aganazzar's Scorcher, Alter Self, Arcane Lock, Continual Flame, Darkvision, Dragon's Breath, Flame Blade, Flaming Sphere, Heat Metal, Knock, Levitate, Locate Object, Melf's Acid Arrow, Pyrotechnics, Spider Climb, Suggestion, Tasha's Mind Whip, Web
+- 3rd Level: Animate Dead, Elemental Weapon, Gaseous Form, Haste, Life Transference, Protection From Energy, Sending, Speak With Dead, Stinking Cloud, Summon Shadowspawn, Summon Undead, Water Walk
+- 4th Level: Blight, Compulsion, Confusion, Death Ward, Dimension Door, Dominate Beast, Fire Shield, Greater Invisibility, Leomund's Secret Chest, Locate Creature, Mordenkainen's Faithful Hound, Otiluke's Resilient Sphere, Phantasmal Killer, Summon Aberration, Vitriolic Sphere, Wall of Fire
+- 5th Level: Antilife Shell, Contagion, Dispel Evil and Good, Geas, Insect Plague, Modify Memory, Rary's Telepathic Bond, Teleportation Circle, Wall of Force
+- 6th Level: Disintigrate, Globe of Invulnerability, Harm, Investiture of Flame, Magic Jar, Mass Suggestion, Planar Ally, Summon Fiend, Word of Recall
+- 7th Level: Forcecage, Mordenkainen's Sword, Teleport
+- 8th Level: Antimagic Field, Clone, Reality Break, Telepathy
+- 9th Level: Blade of Disaster, Ravenous Void
+
+\pagebreakNum
+
+
+### Appendix: Demon Companions
+- Demon companions / minions have been rewritten, and now follow the same Might of the Master structure as companions in other classes do. 
+- Many features have been changed. 
+- The Felguard has been added. 
+- All statblocks also have a Demonic Core (for Grimoire of Sacrifice) and a Supremacy Evolution (for Grimoire of Supremacy).
+
+## Changelog (Preview-1.1)
+### Major Changes:
+- Demon progression changed, moved to own column in class table. 
+- Saving Throws changed from Intelligence/Charisma to Constitution/Intelligence.
+- Profane Secret's bonus to Charisma checks now applies even if you don't have skill proficiency.
+- In Grimoire of Servitude, the line "A minion can't attack, but it can take other actions as normal." was removed.
+- Spellstones now only affect one creature and the first saving throw against the spell.
+- Demonology: Redundant revive rule in Soul Conduit removed.
+- Demonology: Pool of energy from Demonic Fury is a static six instead of based on Intelligence.
+- Destruction: Channel Demonfire can now be used on cantrips.
+- Destruction: Slight wording change on how Havoc works.
+- Spells: Summon Aberration, Summon Fiend, Summon Shadowspawn, Summon Undead, and Tasha's Caustic Brew added.
+- Spells: Cataclysm, Diabolism, Rain of Fire, Shadow Bolt, and Shadowfury reworked. 
+- Spells: Demonfire replaced with Fire and Brimstone. Functionally the same, with fixes, but should avoid confusion with the Destruction ability.
+- Demons: Felguard's Pursuit reworked.
+- Demons: Imp's Etherealness replaced with Phase Shift.
+- Added credits backpage.
+
+### Minor Changes:	
+- Class background image changed.
+- Fixed some formatting problems. 
+- Changed some wording in the introduction to the class.
+- Profane Knowledge renamed to Profane Secrets.
+- Dark Knowledge renamed to Demonic Knowledge.
+- Grimoire of Service renamed to Grimoire of Servitude.
+- Multiclassing section added.
+- Quick build expanded. 
+- Tasha's class format added.
+
+## Changelog (Preview-1.2)
+- Life Tap changed to be more flexible. Can be used at any time and on any spell and you choose what level to cast the spell at (and thus, how much damage to take).
+- Soul Shards and Demonic Knowledge (now called Dark Grimoires) swapped levels, from 2nd to 3rd and vice versa.
+- Soul Shards: Removed the Soulburn: Extend, Soulburn: Quicken, and Soulburn: Rebound abilities.
+- Soul Shards: Added some clarification on Casting Circle's wording.
+- Soul Shards: Added the Bolster Life and Borrow Experience abilities. 
+- Dark Grimoires: Renamed from Demonic Knowledge. Now a Pact Boon-like choice.
+- Dark Grimoires: Demonic Minions simplified into a TCE-style format. Demonic Cores and Grimoire of Supremacy upgrades removed.
+- Dark Grimoires: Added the Grimoire of Infusion and Grimoire of Knowledge abilities.
+- Added Fel Versatility to Ability Score Improvement, in the style of Eldritch Versatility from TCE.
+- Removed Soulforging. Soulstones and Healthstones are now created by spells.
+- Added the Black Harvest capstone.
+
+### Subclasses
+- Changed to be less reliant on spell casting, like 5e warlocks.
+- Creature-summoning capstones removed due to unnecessary complexity.
+- Demonology got a major rework with the new demon system.
+
+### Affliction
+- Curse Master reworked. No longer allows dual targets but provides ranged casting of *bestow curse* and *remove curse*, as well as giving advantage on saves vs curses
+- Drain Soul replaced with Writhe in Agony.
+- Potent Afflictions replaced with Soul Conduit.
+
+### Demonology
+- Reworked to be functional with or without demonic minions. 
+- Soul Conduit replaced with Dark Pact.
+- Soul Link slightly reworked, moved to 10th level. Replaced with Master Summoner.
+- Demonic Fury removed.
+- We Are Legion moved to 14th level, replacing Grimoire of Supremacy.
+- Master Demonologist added.
+
+### Destruction
+- Pyrophile removed, partially worked into Channel Demonfire.
+- Channel Demonfire can now be used on non-spell attacks.
+- Chaotic Energies added.
+- Havoc can now only be used on any single-target spells that deal damage (even up to 9th), but does not require soul shards.
+- Unending Resolve replaced with Molten Skin.
+- Inferno replaced with Cremation.
+
+### Spells
+- New Spells: Create Healthstone, Create Soulstone, Create Soulwell, Decompose (credit Matt Mercer), Shadow Glide, Touch of Chaos.
+- All spells moved to the Chapter 6 consolidated document.
+
+\pagebreakNum
+
+## Credits
+
+**Provide feedback for this document:** We'd really love your opinion on this material. You can do so by: 
+- Joining the conversation on [Discord](https://discord.com/invite/dKMJmmD). <br /> (Or just messaging an active Contributor there.)
+- Sharing your thoughts with us on [Reddit](https://www.reddit.com/r/wc5e/).
+- Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
+
+<br />**Current core team:** Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
+<br />
+
+<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
+<br />
+
+<br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
+<br />
+
+<br />**Projects we like and want to give thanks to:**
+- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
+- [This Warcraft project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
+- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
+
+<br />**Pg 1 Art:** "Undead Warlock" from [the WoW TGC](https://wow.gamepedia.com/File:Undead_warlock_1920xwide.jpg)
+<br />**Pg 1 Art:** "Shadowmoon Valley" by [Peter Lee](https://wow.gamepedia.com/File:Shadowmoon_Valley_Concept_Art_Peter_Lee_2.jpg)
+<br />**Pg 4 Art:** "Warlock Class Crest" from [World of Warcraft](https://wow.gamepedia.com/File:Warlock_Crest.png)
+<br />**Pg 4 Art:** "The Tomb of Sargeras" by [Dmytro Vernygor](https://www.artstation.com/artwork/31m9A)
+<br />**Pg 5 Art:** "Life Tap" by [Luca Zontini](https://hearthstone.gamepedia.com/File:Life_Tap_full.jpg)
+<br />**Pg 7 Art:** ??? [Pulled from page 93 of the 2.1 HHB]
+<br />**Pg 8 Art:** ??? [Pulled from page 92 of the 2.1 HHB]
+<br />**Pg 9 Art:** ??? [Pulled from the Manual of Monsters book.]
+<br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
+
+\pagebreakNum
+
+<style>
+
+/* BACK PAGE STYLES */
+
+  /* Remove footer from back page, replace pX with last page number */
+  .phb#p21:after { display:none; }
+
+  .phb .back-cover-content {
+    padding-left: 4px;
+    padding-right: 16px;
+  }
+  .phb .back-cover-right {
+      padding-left: 40px;
+  }
+  .phb .back-cover-image {
+    height: 1136px;
+    left: -20px;
+    top: -10px;
+    width: 475px;
+    background-size: 475px 1136px;
+  }
+  .phb .back-cover-diamond {
+    display: block;
+    position: initial;
+    left: initial;
+    top: initial;
+    margin: auto;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+  }
+ .phb .back-cover-logo-container {
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 314px;
+ }
+ .phb .back-cover-logo,
+ .phb .back-cover-logo-link {
+     position: initial;
+     margin: auto;
+     margin-bottom: 8px;
+     left: initial;
+     bottom: initial;
+     right: initial;
+     background-repeat: no-repeat;
+ }
+ 
+ </style>
+ 
+ <img src='https://www.gmbinder.com/images/4UrFsXk.jpg' style="position:absolute; right:-194px; bottom:0px; height:1160px;" />
+ 
+ <div class='back-cover-image'></div>
+ 
+ <div style='margin-top:20px;'></div>
+ 
+ <div class='back-cover-header'>
+ 
+ Warcraft
+ 
+ </div>
+
+ <div style='margin-top:30px;'></div>
+
+ <div class='back-cover-header'>
+ 
+ 5th Edition
+ 
+ </div>
+
+ <div style='margin-top:30px;'></div>
+
+ 
+<div class='back-cover-text'>
+ 
+  *Part of the WC5E Heroes Handbook v3*
+ 
+  This document is a part of an upcoming update (as of writing this) to our *Warcraft 5th Edition Heroes Handbook*; a massive tome of player classes, races, and backgrounds to put a Warcraft spin on core Dungeons & Dragons material.
+
+  We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
+  
+  [Our project on Github](https://github.com/WC5E/Warcraft-5e-Conversion/) <br />
+  [Our community on Reddit](https://www.reddit.com/r/wc5e/) <br />
+  [Our community on Discord](https://discord.com/invite/dKMJmmD)
+  
+</div>
+ 
+<div class='back-cover-diamond' style='top: 679px;'></div>
+ 
+<div style='margin-top:35px;'></div>
+ 
+<div class='back-cover-close'>
+
+  Big love from the team. ❤
+
+   
+</div>
+
+<div class='back-cover-logo-container'>
+ 
+  <div class='back-cover-logo'></div>
+ 
+  <div class='back-cover-logo-link'>
+ 
+  [WWW.GMBINDER.COM](https://www.gmbinder.com)
+ 
+  </div>
+
+</div>
+ 
+ \columnbreak
+ 
+
+<div class='back-cover-right'>
+
+</div>
