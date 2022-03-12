@@ -795,7 +795,6 @@ Aganazzar's Scorcher ^XGE^
 <br/> Detect Thoughts
 <br/> Dragon's Breath ^XGE^
 <br/> Enlarge/Reduce
-<br/> Flame Arrows
 <br/> Flame Blade
 <br/> Flaming Sphere
 <br/> Flock of Familiars ^LLK^
@@ -840,12 +839,13 @@ Aganazzar's Scorcher ^XGE^
 <br/> Dispel Magic
 <br/> Feign Death
 <br/> Fireball
+<br/> Flame Arrows
 <br/> Fly
 <br/> Galder's Tower ^LLK^
-<br/> Glyph of Warding
 
 \columnbreak
 
+<br/> Glyph of Warding
 <br/> Haste
 <br/> Hypnotic Pattern
 <br/> Intellect Fortress ^TCE^
