@@ -528,27 +528,28 @@ Dozens of languages can be heard across Azeroth, and every tongue has dialects a
 |:------------------|:------------|:-----------|
 |&nbsp; Common      | Humans      | Common     |
 |&nbsp; Darnassian  | Night Elves | Darnassian |
-|&nbsp; Draenei     | Draenei     | Eredic     |
+|&nbsp; Draenei     | Draenei     | Eredun     |
 |&nbsp; Dwarven     | Dwarves     | Dwarvish   |
 |&nbsp; Goblin      | Goblins     | Common     |
 |&nbsp; Gnomish     | Gnomes      | Common     |
 |&nbsp; Gutterspeak | Forsaken    | —          |
-|&nbsp; Mogu        | Pandaren    | Mogu       |
-|&nbsp; Orcish      | Orcs        | Common     |
+|&nbsp; Orcish      | Orcs        | Orcish     |
+|&nbsp; Pandaren    | Pandaren    | Mogu       |
 |&nbsp; Shalassian  | Nightborne  | Darnassian |
-|&nbsp; Taur-ahe    | Taurens     | Taur-ahe   |
+|&nbsp; Taur-ahe    | Tauren      | Taur-ahe   |
 |&nbsp; Thalassian  | High Elves  | Darnassian |
 |&nbsp; Zandali     | Trolls      | Zandali    |
 
 ##### Exotic Languages
 |&nbsp; Language    | Typical Speakers | Script        |
 |:------------------|:-----------------|:--------------|
-|&nbsp; Celestial   | Celestials       | Celestial     |
 |&nbsp; Draconic    | Dragons          | Draconic      |
-|&nbsp; Eredun      | Demons           | Eredic        |
-|&nbsp; Giant       | Ogres            | —             |
+|&nbsp; Eredun      | Demons           | Eredun        |
 |&nbsp; Kalimag     | Elementals       | Kalimag       |
-|&nbsp; Low Common  | Lesser Races     | Common        |
+|&nbsp; Low Common  | Monstrous Races  | Common        |
+|&nbsp; Ogre        | Ogres            | Ogre          |
+|&nbsp; Shath'Yar   | Old Gods         | Shath'Yar     |
+|&nbsp; Titan       | Titan-forged     | Titan         |
 
 <img src='https://www.gmbinder.com/images/1Hhc7zP.jpg' style='position:absolute; top:700px; right:-80px; width:500px' />
 <img src='https://www.gmbinder.com/images/huxbNse.png' style='position:absolute; top:200px; right:0px; width:900px; transform:scaley(-1)' />
@@ -2156,7 +2157,7 @@ Your pandaren character has the following racial traits.
 
 After you use your quaking palm, you can't use it again until you finish a short or long rest.
 
-***Languages.*** You can speak, read, and write, Common and Mogu. Mogu is the language of Pandaria, forced upon the inhabitants of Pandaria by the mogu empire. It is a strange and unfamiliar language to the rest of Azeroth, with a multitude of words meaning one common thing.
+***Languages.*** You can speak, read, and write Common and Pandaren. Pandaren is the language of Pandaria, a descendant of the Mogu language forced upon the inhabitants of Pandaria by the mogu empire. It is a strange and unfamiliar language to the rest of Azeroth, with a multitude of words meaning one common thing.
 
 <img src='https://www.gmbinder.com/images/SvYw20C.jpg' style='position:absolute; top:700px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:0px; right:0px; width:850px; transform:scalex(-1)' />
