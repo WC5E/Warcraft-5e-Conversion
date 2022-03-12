@@ -348,6 +348,7 @@ Animate Dead
 Arcane Eye
 <br> Banishment
 <br> Blight
+<br> ✦ Conjure Undead
 <br> ✦ Death and Decay
 <br> Death Ward
 <br> Divination
@@ -358,7 +359,6 @@ Arcane Eye
 <br> Sickening Radiance ^XGE^
 <br> Staggering Smite
 <br> Stoneskin
-<br> ✦ Summon Undead
 <br> Vitriolic Sphere ^XGE^
 
 ##### 5th Level
@@ -1478,12 +1478,12 @@ Blade of Disaster ^TCE^
 > ##### 4th Level
 > Amplify or Dampen Magic
 > <br/> Arcane Barrage
+> <br/> Conjure Undead
 > <br/> Death and Decay
 > <br/> Divine Shield
 > <br/> Dominate Undead
 > <br/> Fire and Brimstone
 > <br/> Ice Block
-> <br/> Summon Undead
 > <br/> Ursol's Vortex
 > <br/> Void Shift
 >
@@ -2679,7 +2679,7 @@ If cast while outdoors with a clear view of the moon, the spell deals an additio
 
 \columnbreak
 
-#### Summon Undead
+#### Conjure Undead
 *4th-level conjuration*
 ___
 - **Casting Time:** 1 action
