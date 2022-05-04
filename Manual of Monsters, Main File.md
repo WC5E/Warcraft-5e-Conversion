@@ -9789,6 +9789,9 @@ ___
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+<img src="https://i.imgur.com/pRTJEf1.jpg" style="position:absolute; right: -70px; bottom: 0px; width: 700px;">
+<img src='https://i.imgur.com/VdV67Oz.png' style='position:absolute; right:0px; bottom:0px; width:850px' />
+
 \pagebreakNum
 
 
