@@ -9956,8 +9956,13 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
+A **worg** is akin to the many types of wolves found across Kalimdor and the Eastern Kingdoms, though far bigger and far more cunning -- they grow to be as large as 10 feet from snout to tail, and are notoriously hard to tame. Worgs found across Azeroth are typically either native to Northrend or descendants of those brought from Draenor by the Old Horde.
+
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/Sjc9IFl.png" class="inkblot inkblot-green" style="bottom: -175px;left: -10px;width: 760px;transform: rotate(180deg);">
+<img src="https://i.imgur.com/gk2fhj9.png" style="position:absolute; right: 0px; bottom: -50px;width: 700px;">
 
 \pagebreakNum
 
@@ -10014,6 +10019,7 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <br />**Ardenweald Moth** by [Natacha Nielsen](https://www.artstation.com/artwork/rAPxKE)
 <br />**Brood Mother** by [Arthur Gimaldinov](https://www.artstation.com/artwork/2BNKa)
 <br />**Tallstrider Render** from World of Warcraft
+<br /> **Wolf** by [Arthur Bozonnet](https://hearthstone.fandom.com/wiki/Wolf)
 
 
 \pagebreakNum
