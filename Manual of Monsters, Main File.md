@@ -10012,6 +10012,7 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <br />**Highmountain Scenery** from World of Warcraft
 <br />**Owl Render** from World of Warcraft
 <br />**Ardenweald Moth** by [Natacha Nielsen](https://www.artstation.com/artwork/rAPxKE)
+<br />**Brood Mother** by [Arthur Gimaldinov](https://www.artstation.com/artwork/2BNKa)
 
 
 \pagebreakNum
