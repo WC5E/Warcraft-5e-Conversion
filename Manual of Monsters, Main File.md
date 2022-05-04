@@ -9819,6 +9819,13 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
 
+**Tallstriders** are large, flightless birds, native to the plains and savannahs of central Kalimdor. There is a very clear and stubborn pride to the tallstriders, making them near impossible to domesticate and useless as beasts of burden.
+
+Some skilled hunters and beast-handlers have mastered the art of taming a tallstrider, however. For them, the birds' strength and speed make them excellent companions for any sudden skirmish.
+
+
+\columnbreak
+
 ___
 > ## Towering Tallstrider
 >*Large beast, unaligned*
@@ -9842,16 +9849,6 @@ ___
 > ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 8 (1d12 + 2) piercing damage.
 >
 > ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.
-
-
-\columnbreak
-
-<div style="margin-top:16px;"></div>
-
-
-**Tallstriders** are large, flightless birds, native to the plains and savannahs of central Kalimdor. There is a very clear and stubborn pride to the tallstriders, making them near impossible to domesticate and useless as beasts of burden.
-
-Some skilled hunters and beast-handlers have mastered the art of taming a tallstrider, however. For them, the birds' strength and speed make them excellent companions for any sudden skirmish.
 
 ___
 > ## Turtle
@@ -9877,6 +9874,9 @@ ___
 
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/BrDcy46.png" class="inkblot inkblot-green" style="bottom: -295px;left: -130px;width: 850px;transform: rotate(-270deg);">
+<img src="https://i.imgur.com/IrV9Ez8.png" style="position:absolute; left: 50px; bottom: -180px; width: 430px;">
 
 
 \pagebreakNum
