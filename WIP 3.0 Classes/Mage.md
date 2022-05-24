@@ -180,7 +180,7 @@
 
 </style>
 
-<div style='margin-top:555px'></div>
+<div style='margin-top:552px'></div>
 
 ## Mage
 *Always remember that power is a double-edged blade. One side light, the other dark. It calls to you, where you are most desperate; when victory seems worth any sacrifice. There is a price to be paid for such a gift, and many eagerly accept the bargain. Power alone is not to be feared. <br>Fear, instead, those who wield it.*
@@ -398,6 +398,8 @@ You can transform unexpended sorcery points into one spell slot as a bonus actio
 |   4   |   6   |
 |   5   |   7   |
 
+***Converting a Spell Slot to Sorcery Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
+
 ### Magical Study
 *2nd-level mage feature* 
 <div style='margin-top:-4px'></div>
@@ -411,6 +413,8 @@ Your choice grants you features at 3rd level and again at 6th, 10th, and 14th le
 <div style='margin-top:-4px'></div>
 
 At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level. You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+
+\columnbreak
 
 #### Careful Spell
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Intelligence modifier (minimum of one creature). 
@@ -449,6 +453,10 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 >
 > You may also use the Sorcerous Versatility feature found on the same page or Cantrip Formulas from the Wizard class on Pg. 75.
 
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
 ### Ability Score Improvement
 *4th-level mage feature* 
 <div style='margin-top:-4px'></div>
@@ -456,8 +464,6 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2. or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-
-\pagebreakNum
 
 ### Spell Mastery
 *18th-level mage feature* 
@@ -489,6 +495,8 @@ Mages of the arcane are diviners of secrets, balancing the ebb and flow of incre
 
 When you choose this magical study at 2nd level, you learn the *prestidigitation* cantrip. If you already know this cantrip, you learn a different mage cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
+\columnbreak
+
 #### Arcane Charges
 *2nd-level Study of Arcane feature* 
 <div style='margin-top:-4px'></div>
@@ -496,8 +504,6 @@ When you choose this magical study at 2nd level, you learn the *prestidigitation
 You gain the ability to conserve and enhance your mage abilities beyond the norm. Whenever you cast a mage spell of 1st level or higher, gain an arcane charge of the equivalent level up to 5th level. Spells slots higher than 5th give a 5th level arcane charge. These charges last until they are used, replaced by a higher level charge, or after 1 minute has passed.
 
 You may expend an arcane charge to grant yourself one of the following effects. This effect lasts until the end of your next turn.
-
-\columnbreak
 
 - As a bonus action, you can add a bonus equal to the arcane charge's level to Attack and Damage rolls for your next Mage Spell.
 - As a bonus action or reaction, you can add a bonus equal to the arcane charge's level to Saving Throws against Magic or Magical Effects.
@@ -522,6 +528,12 @@ Additionally, you are always under the effects of a *comprehend languages* spell
 
 Whenever you create a spell slot from sorcery points you also gain an arcane charge of equivalent level and you can expend the charge as part of the same bonus action.
 
+<img src='https://www.gmbinder.com/images/08NuEJc.png' style='position:absolute; right:0; bottom:0px; width:556px;' />
+
+<div class='footnote footnote-white'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
 #### Savant
 *10th-level Study of Arcane feature* 
 ___
@@ -535,13 +547,6 @@ ___
 <div style='margin-top:-6px'></div>
 
 You can exert your control over magic to warp time itself. When a creature you can see within 60 feet of you begins their turn, you can use your reaction to allow that creature to take one additional action during its turn. When you do so, you gain one level of exhaustion.
-
-
-<img src='https://www.gmbinder.com/images/08NuEJc.png' style='position:absolute; right:0; bottom:0px; width:556px;' />
-
-<div class='footnote footnote-white'>PART 1 | CLASSES</div>
-
-\pagebreakNum
 
 ### Study of Fire
 While any worthy mage is an unparalleled expert in the use of magic and heavily dedicated to their craft, those who master the forces of fire tend to be a little more audacious than their peers. These mages take pride, even pleasure, in igniting their enemies in wild bursts of flame.
@@ -558,6 +563,8 @@ When you choose this magical study at 2nd level, you learn the *control flames* 
 
 The blazing energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.
 
+\columnbreak
+
 At 10th level, you may choose any number of dice that rolled the highest number possible, you can only reroll each dice once.
 
 #### Cauterize
@@ -567,8 +574,6 @@ At 10th level, you may choose any number of dice that rolled the highest number 
 If you are reduced to 0 hit points, you can use your reaction to draw on the fiery energy that burns within you. You are instead reduced to 1 hit point, and each creature within 10 feet of you takes fire damage equal to half your mage level + your Intelligence modifier.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
-
-\columnbreak
 
 #### Ignite
 *10th-level Study of Fire feature* 
@@ -602,6 +607,12 @@ Frost mages stand apart from their colleagues, in that their chosen school of ma
 
 When you choose this magical study at 2nd level, you learn the *shape water* cantrip. If you already know this cantrip, you learn a different mage cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
+<img src='https://www.gmbinder.com/images/5eknUH4.png' style='position:absolute; left:0; bottom:-40px; width:430px;' />
+
+<div class='footnote footnote-white'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
 #### Fingers of Frost
 *2nd-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
@@ -612,11 +623,7 @@ You gain one of the following features of your choice:
 
 When the barrier is reduced to 0 hit points, each creature within 10 feet of you has their speed reduced by 10 feet until the start of your next turn as the barrier bursts.
 
-<img src='https://www.gmbinder.com/images/5eknUH4.png' style='position:absolute; left:0; bottom:-40px; width:430px;' />
 
-<div class='footnote footnote-white'>PART 1 | CLASSES</div>
-
-\pagebreakNum
 
 While the barrier has 0 hit points, it can't absorb damage, but its magic remains. Whenever you cast a spell of 1st level or higher that deals cold damage, the barrier regains a number of hit points equal to twice the level of the spell.
 
@@ -641,6 +648,8 @@ When a creature has its speed reduced in this way, you can spend one sorcery poi
 
 Beginning at 14th level the creature becomes paralyzed instead of restrained.
 
+\columnbreak
+
 #### Hands of Frost
 *10th-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
@@ -657,8 +666,6 @@ In addition, you can now spend sorcery points to cause the effect of Brain Freez
 - Brain Freeze now applies to cold damage caused by the elemental.
 - It can cast the *sleet storm* spell once per long rest, using your spell save DC (requires your bonus action).
 
-\columnbreak
-
 #### Ring of Frost
 *14th-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
@@ -671,7 +678,19 @@ Additionally creatures passing through the area with non-magical means have thei
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-<div style='margin-top:-12px;'></div>
+<div class='footnote footnote-white'>PART 1 | CLASSES</div>
+
+<img src='https://www.gmbinder.com/images/4bKo7jE.jpg' style='position:absolute; bottom:-250px; right:-173px; width:1000px' />
+
+<img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:185px; left:0px; width:100%; height:100%' />
+
+<img src='https://www.gmbinder.com/images/pbSeYXZ.png' style='position:absolute; top:0px; left:0px; transform:scaleY(-1); width:100%; height:100%' />
+
+
+
+\pagebreakNum
+
+
 
 ___
 > ## Water Elemental
@@ -708,14 +727,6 @@ ___
 > ***Freeze.*** When a creature within reach hits the water elemental with a melee attack, the water elemental can attempt to grapple it.
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
-
-<img src='https://www.gmbinder.com/images/4bKo7jE.jpg' style='position:absolute; bottom:-250px; right:-173px; width:1000px' />
-
-<img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:185px; left:0px; width:100%; height:100%' />
-
-<img src='https://www.gmbinder.com/images/pbSeYXZ.png' style='position:absolute; top:0px; left:0px; transform:scaleY(-1); width:100%; height:100%' />
-
-
 
 \pagebreakNum
 
