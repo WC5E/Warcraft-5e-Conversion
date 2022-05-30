@@ -9991,12 +9991,15 @@ ___
 >
 > ***Horn.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 3) piercing damage.
 
-A **zhevra** resembles a large, striped horse with a horn piercing through its forehead, similar to that of a unicorn. Though they might seem threatening, they are usually very passive beasts; remarkably easy to frighten. They move together in herds, keeping close for their own protection.
+A **zhevra** resembles a large, striped horse with a horn piercing through its forehead, similar to that of a unicorn. Though they might seem threatening, they are usually very passive beasts; remarkably easy to frighten. 
+
+They move together in herds, keeping close for their own protection. Not only do they have to contend with natural predators, such as lions and raptors; cutting one's teeth on zhevras is akin to a rite of passage for new Horde recruits posted setting foot in the Barrens. 
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
-<img src='https://www.gmbinder.com/images/4TyqQuB.png' style='position:absolute; top:600px; right:-75px; width:500px' />
+<img src="https://i.imgur.com/oo9MSsl.jpg" style="position:absolute; top:0px; right:-40px; height: 100%;" />
+<img src="https://i.imgur.com/LvWTTOl.png" style="position:absolute; left: -20px; top:0px; width:880px;transform: scaleX(-1);">
+<img src="https://i.imgur.com/7yFkO89.png" style="position:absolute; top: 540px; left: 55px; width: 700px;">
 
 \pagebreakNum
 
@@ -10019,7 +10022,9 @@ A **zhevra** resembles a large, striped horse with a horn piercing through its f
 <br />**Ardenweald Moth** by [Natacha Nielsen](https://www.artstation.com/artwork/rAPxKE)
 <br />**Brood Mother** by [Arthur Gimaldinov](https://www.artstation.com/artwork/2BNKa)
 <br />**Tallstrider Render** from World of Warcraft
-<br /> **Wolf** by [Arthur Bozonnet](https://hearthstone.fandom.com/wiki/Wolf)
+<br />**Wolf** by [Arthur Bozonnet](https://hearthstone.fandom.com/wiki/Wolf)
+<br />**Zhevra Mount** by [Melissa O'Brien](https://www.deviantart.com/frisket17/art/Warcraft-Zhevra-Mount-133017740)
+<br />**Crossroads** by [Jay Axer](https://www.artstation.com/artwork/q9wKaD)
 
 
 \pagebreakNum
