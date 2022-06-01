@@ -8,6 +8,15 @@
   }
   .phb:after { content: ""; }
 
+/* Temporary Fix for heading issues */
+    .phb p{ line-height: 15px; } 
+    .phb blockquote p{ line-height: 14px; } 
+    .phb h2{ line-height: 26px; } 
+    .phb h3{ line-height: 19px; } 
+    .phb h4{ line-height: 15px; padding-bottom: 3px; } 
+    .phb h5{ line-height: 17px; } 
+    th, td { line-height: 14px; }
+
 
 /* TABLE OF CONTENTS  */
 
@@ -186,7 +195,7 @@
 *Always remember that power is a double-edged blade. One side light, the other dark. It calls to you, where you are most desperate; when victory seems worth any sacrifice. There is a price to be paid for such a gift, and many eagerly accept the bargain. Power alone is not to be feared. <br>Fear, instead, those who wield it.*
 <div style="text-align:Right">
 
-*— Jaina Proudmoore* <br/> &nbsp;</div> 
+*— Jaina Proudmoore* <br/>  </div> 
 
 Clad in a golden robe, a blood elf closes her eyes to shut out the distractions of the battlefields and begins her quiet chant. Fingers weaving in front of her, she completes her spell and launches a bead of fire toward the enemy ranks, where it erupts into an engulfing conflagration.
 
@@ -215,7 +224,7 @@ Wild and enigmatic, varied in form and function, the power of magic draws studen
 Mages' lives are seldom mundane. The closest a mage is likely to come to an ordinary life is working as a sage or lecturer in a library or university, teaching others the secrets of the multiverse. But the lure of knowledge and power calls even the most unadventurous mages out of the safety of their libraries and laboratories and into crumbling ruins and lost cities.
 
 ### Creating a Mage
-Creating a mage character demands a backstory dominat&shy;ed by at least one extraordinary event. How did you first discover your aptitude for magic? Did you have a natural talent, or were you the studious apprentice of another mage? Or perhaps you encountered a magical creature, or an old tome rich in arcane secrets?
+Creating a mage character demands a backstory dominat­ed by at least one extraordinary event. How did you first discover your aptitude for magic? Did you have a natural talent, or were you the studious apprentice of another mage? Or perhaps you encountered a magical creature, or an old tome rich in arcane secrets?
 
 What then drew you forth to adventure? Did you learn of a secret trove of spells and power lost to the ages, or are you seeking knowledge that no book can teach?
 
@@ -230,11 +239,11 @@ What then drew you forth to adventure? Did you learn of a secret trove of spells
 <div class='classTable wide'>
 
 ##### The Mage
-| Level | Proficiency<br/>Bonus | Sorcery<br/>Points | | Features | Cantrips<br/>Known |&nbsp;|1st|&nbsp;|2nd|&nbsp;|3rd|&nbsp;|4th|&nbsp;|5th|&nbsp;| 6th|&nbsp;|7th|&nbsp;|8th|&nbsp;|9th <div style="position: absolute; top:100px; right:113px; width:200px; height:25px">—Spell Slots per Spell Level—</div>|
+| Level | Proficiency<br/>Bonus | Sorcery<br/>Points | | Features | Cantrips<br/>Known | |1st| |2nd| |3rd| |4th| |5th| | 6th| |7th| |8th| |9th <div style="position: absolute; top:100px; right:113px; width:200px; height:25px">—Spell Slots per Spell Level—</div>|
 |:---:|:--:|:-:|-|:----------|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|
 | 1st | +2 | —|| Spellcasting, Magic Sense                              |3||2||—||—||—||—||—||—||—||—|
 | 2nd | +2 | 2|| Font of Magic, Magical Study                           |3||3||—||—||—||—||—||—||—||—|
-| 3rd | +2 | 3|| Metamagic                                              |3||4||2||—||—||—||—||—||—||—|
+| 3rd | +2 | 3|| Metamagic, Cantrip Formulas                                              |3||4||2||—||—||—||—||—||—||—|
 | 4th | +2 | 4|| Ability Score Improvement                              |4||4||3||—||—||—||—||—||—||—|
 | 5th | +3 | 5|| —                                                      |4||4||3||2||—||—||—||—||—||—|
 | 6th | +3 | 6|| Magical Study feature                                  |4||4||3||3||—||—||—||—||—||—|
@@ -261,7 +270,7 @@ If your group uses the optional rule on multiclassing in the *Player's Handbook*
 
 ***Ability Score Minimum.*** As a multiclass character, you must have at least an Intelligence score of 13 to take a level in this class, or to take a level in another class if you are already a mage.
 
-***Proficiencies Gained.*** If mage isn't your initial class, here are the proficiencies you gain when you take your first level as a mage: arcane skill.
+***Proficiencies Gained.*** You do not receive any additional proficiencies when you take a level in mage if it isn't your initial class.
 
 ***Spell Slots.*** Add your levels in the mage class to the appropriate levels from other class to determine your available spell slots.
 
@@ -322,7 +331,7 @@ At 1st level, you know three cantrips of your choice from the mage spell list. Y
 >
 > For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 >
-> ***Replacing the Book.*** You can copy a spell from your own spellbook into another book — for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spell&shy;book, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+> ***Replacing the Book.*** You can copy a spell from your own spellbook into another book — for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spell­book, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
 >
 > If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. The remainder of your spellbook requires you to find new spells to do so, as normal. Many mages keep backup spellbooks in a safe place.
 >
@@ -387,16 +396,17 @@ You have 2 sorcery points, and you gain more as you reach higher levels, as show
 #### Flexible Casting
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
 
-#### Creating Spell Slots
+***Creating Spell Slots***
 You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
 
+##### Creating Spell Slots
 | Spell Slot Level  | Sorcery Point Cost |
 |:-----:|:-----:|
-|   1   |   2   |
-|   2   |   3   |
-|   3   |   5   |
-|   4   |   6   |
-|   5   |   7   |
+| 1st   |   2   |
+| 2nd   |   3   |
+| 3rd   |   5   |
+| 4th   |   6   |
+| 5th   |   7   |
 
 ***Converting a Spell Slot to Sorcery Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
@@ -446,16 +456,22 @@ When you cast a spell, you can spend 1 sorcery point to cast it without any soma
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
-To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, magic missile and scorching ray aren't eligible, but ray of frost and chromatic orb are.
+To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are.
+
+<br/>
 
 > #### Optional Class Features
-> See Tasha's Cauldron of Everything, Pg. 65 for additional Metamagic options. 
->
-> You may also use the Sorcerous Versatility feature found on the same page or Cantrip Formulas from the Wizard class on Pg. 75.
+> Additional Metamagic options can been seen on page 65 of Tasha's Cauldron of Everything.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
 \pagebreakNum
+
+### Cantrip Formulas
+*3rd-level mage feature* 
+<div style='margin-top:-4px'></div>
+
+You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one mage cantrip you know with another cantrip from the mage spell list.
 
 ### Ability Score Improvement
 *4th-level mage feature* 
@@ -463,13 +479,16 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2. or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
+#### Sorcerous Versatility (Optional)
+When you reach a level in this class that grants the Ability Score Improvement feature, you can do replace one of the options you chose for the Metamagic feature with a different Metamagic option available to you, representing the magic within you flowing in new ways.
+
 <div class='footnote'>PART 1 | CLASSES</div>
 
 ### Spell Mastery
 *18th-level mage feature* 
 <div style='margin-top:-4px'></div>
 
-You have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level mage spell and a 2nd-level mage spell that are in your spell&shy;book. 
+You have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level mage spell and a 2nd-level mage spell that are in your spell­book. 
 
 You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
@@ -483,6 +502,8 @@ You gain mastery over two powerful spells and can cast them with little effort. 
 
 When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
+\columnbreak
+
 ## Magical Studies
 Mages are spellcasters who favor magics involving the cardinal elements of the universe. Students gifted with a keen intellect and unwavering discipline may walk the path of the mage. The magic available to mages is both great and dangerous, and thus is revealed only to the most devoted practitioners.
 
@@ -494,8 +515,6 @@ Mages of the arcane are diviners of secrets, balancing the ebb and flow of incre
 <div style='margin-top:-4px'></div>
 
 When you choose this magical study at 2nd level, you learn the *prestidigitation* cantrip. If you already know this cantrip, you learn a different mage cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
-
-\columnbreak
 
 #### Arcane Charges
 *2nd-level Study of Arcane feature* 
@@ -514,6 +533,18 @@ You may expend an arcane charge to grant yourself one of the following effects. 
 
 After rolling initiative, but before the first creature takes its turn, you can switch your result with the result of another creature that you can see. Once you've done so you can't use this feature again until you finish a long rest.
 
+<img src='https://www.gmbinder.com/images/8W9yFbL.jpg' style='position:absolute; bottom:-250px; right:-173px; width:1000px' />
+
+<img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:105px; left:0px; width:100%; height:100%' />
+
+<img src='https://www.gmbinder.com/images/pbSeYXZ.png' style='position:absolute; top:0px; left:0px; transform:scaleY(-1); width:100%; height:100%' />
+
+<img src='https://www.gmbinder.com/images/e4yq01U.png' style='position:absolute; bottom:40px; left:70px; width:285px' />
+
+<div class='footnote footnote-white'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
 #### Arcane Brilliance
 *6th-level Study of Arcane feature* 
 <div style='margin-top:-4px'></div>
@@ -527,12 +558,6 @@ Additionally, you are always under the effects of a *comprehend languages* spell
 <div style='margin-top:-4px'></div>
 
 Whenever you create a spell slot from sorcery points you also gain an arcane charge of equivalent level and you can expend the charge as part of the same bonus action.
-
-<img src='https://www.gmbinder.com/images/08NuEJc.png' style='position:absolute; right:0; bottom:0px; width:556px;' />
-
-<div class='footnote footnote-white'>PART 1 | CLASSES</div>
-
-\pagebreakNum
 
 #### Savant
 *10th-level Study of Arcane feature* 
@@ -563,8 +588,6 @@ When you choose this magical study at 2nd level, you learn the *control flames* 
 
 The blazing energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.
 
-\columnbreak
-
 At 10th level, you may choose any number of dice that rolled the highest number possible, you can only reroll each dice once.
 
 #### Cauterize
@@ -574,6 +597,8 @@ At 10th level, you may choose any number of dice that rolled the highest number 
 If you are reduced to 0 hit points, you can use your reaction to draw on the fiery energy that burns within you. You are instead reduced to 1 hit point, and each creature within 10 feet of you takes fire damage equal to half your mage level + your Intelligence modifier.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
+
+\columnbreak
 
 #### Ignite
 *10th-level Study of Fire feature* 
@@ -607,12 +632,6 @@ Frost mages stand apart from their colleagues, in that their chosen school of ma
 
 When you choose this magical study at 2nd level, you learn the *shape water* cantrip. If you already know this cantrip, you learn a different mage cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
-<img src='https://www.gmbinder.com/images/5eknUH4.png' style='position:absolute; left:0; bottom:-40px; width:430px;' />
-
-<div class='footnote footnote-white'>PART 1 | CLASSES</div>
-
-\pagebreakNum
-
 #### Fingers of Frost
 *2nd-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
@@ -623,12 +642,13 @@ You gain one of the following features of your choice:
 
 When the barrier is reduced to 0 hit points, each creature within 10 feet of you has their speed reduced by 10 feet until the start of your next turn as the barrier bursts.
 
+<div class='footnote'>PART 1 | CLASSES</div>
 
+\pagebreakNum
 
 While the barrier has 0 hit points, it can't absorb damage, but its magic remains. Whenever you cast a spell of 1st level or higher that deals cold damage, the barrier regains a number of hit points equal to twice the level of the spell.
 
-Once you create the barrier, you can't create it again until you finish a long rest. <br/>
-<br/>
+Once you create the barrier, you can't create it again until you finish a long rest.
 
 ***Water Elemental.*** You learn how to conjure a water elemental. It is friendly to you and your companions, and it obeys your commands. See the creature's game statistics in the water elemental stat block.
 
@@ -647,8 +667,6 @@ Whenever a creature would take cold damage from one of your mage spells, its mov
 When a creature has its speed reduced in this way, you can spend one sorcery point: that creature must succeed on a Strength saving throw against your spell save DC or be restrained for 1 minute. If a creature lands a successful hit against the creature the conditions caused by Brain Freeze are removed.
 
 Beginning at 14th level the creature becomes paralyzed instead of restrained.
-
-\columnbreak
 
 #### Hands of Frost
 *10th-level Study of Frost feature* 
@@ -672,25 +690,9 @@ In addition, you can now spend sorcery points to cause the effect of Brain Freez
 
 You can use your action to conjure up a ring of magical runes to invoke the deepest cold around a point you can choose within 60 feet. The ring has a 30-foot-radius and fills a 10-foot tall cylinder with frigid cold. 
 
-Creatures inside the area must succeed on a strength saving throw against your spell save DC or become paralyzed for up to 1 minute or until they take damage. If a creature’s body is fully inside the area the save is made with disadvantage. On a successful save a creature isn't restrained.
+\columnbreak
 
-Additionally creatures passing through the area with non-magical means have their movement speed halved until the end of their next turn after leaving the area. Additionally ranged attacks made through the area are made with disadvantage.
-
-Once you use this feature, you can't use it again until you finish a long rest.
-
-<div class='footnote footnote-white'>PART 1 | CLASSES</div>
-
-<img src='https://www.gmbinder.com/images/4bKo7jE.jpg' style='position:absolute; bottom:-250px; right:-173px; width:1000px' />
-
-<img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:185px; left:0px; width:100%; height:100%' />
-
-<img src='https://www.gmbinder.com/images/pbSeYXZ.png' style='position:absolute; top:0px; left:0px; transform:scaleY(-1); width:100%; height:100%' />
-
-
-
-\pagebreakNum
-
-
+<div style='margin-top:183px'></div>
 
 ___
 > ## Water Elemental
@@ -726,7 +728,16 @@ ___
 > ### Reactions
 > ***Freeze.*** When a creature within reach hits the water elemental with a melee attack, the water elemental can attempt to grapple it.
 
-<div class='footnote footnote-white'>PART 1 | CLASSES</div>
+Creatures inside the area must succeed on a strength saving throw against your spell save DC or become paralyzed for up to 1 minute or until they take damage. If a creature’s body is fully inside the area the save is made with disadvantage. On a successful save a creature isn't restrained.
+
+Additionally creatures passing through the area with non-magical means have their movement speed halved until the end of their next turn after leaving the area. Additionally ranged attacks made through the area are made with disadvantage.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+<img src='https://www.gmbinder.com/images/jIlkFOD.png' style='position:absolute; top:0px; right:0px; width:400px' />
+<img src='https://www.gmbinder.com/images/huxbNse.png' style='position:absolute; top:0px; right:-25px; height:100%' />
+
+<div class='footnote'>PART 1 | CLASSES</div>
 
 \pagebreakNum
 
@@ -744,20 +755,6 @@ These are the changes made to the class since the last update released for the c
 - Additional ribbon feature for first level.
 - 18th and 20th level unchanged (Spell Mastery, Signature Spell)
 
-### Spells 
-- The spell list was revisited and expanded. 
-- The WC5e spells got some updates!
-- Arcane Barrage had its mechanic changed to be more like a big magic missile.
-- Arcane Explosion got a neat extra mechanic preventing affected targets from taking their reaction.
-- Blast Wave was renamed Alextrasza’s Fury and had change to its damage and now stuns affected creatures until the end of their next turn.
-- Blizzard had its action cost for subsequent turns removed.
-- Flurry got a mechanical change, putting it more in line with how it works in World of Warcraft.
-- Freezing Touch now applies "incapacitated and restrained" instead of "incapacitated, can't move, and can't breathe".<br/> Turns out not being able to breathe without being able to hold your breath is very deadly.
-- Glacial Spike had its save changed to DEX.
-- Jaina's Flying Ship can now become a permanent effect.
-- Pyroblast had its damage increased.
-- Spellsteal got reworked ... again.
-
 ### Arcane
 - Completely reworked!
 - Arcane focuses more on combat and off combat utility with a combination of time manipulation, general mastery over spell usage.
@@ -771,24 +768,20 @@ The intention is to capitalize more on crits instead of guaranteed damage and to
 ### Frost
 - Reworked Brain Freeze feature. The movement speed reduction now happens automatically. The restrain is coupled to sorcery points and a single saving throw.
 This should make the feature more reliable and less time consuming.
+- Replaced Spell Sculptor with Ring of Frost. 
+A big AoE to slow down a big area and potentially freezing creatures within.
+
+### Errata
+- Some spelling issues that had to be fixed, small errata, and a change to how Time Warp was worded.
+- Replaced Tasha's Cauldron reprint with sidebar.
+- Added missing ability to turn spell slots to sorcery points.
+- Added Cantrip Formulas feature to 3rd level.
+- Added Sorcerous Versatility as a sub-feature of Ability Score Improvement.
+- Artwork and formatting changes.
 
 \columnbreak
 
 <br/>
-
-- Replaced Spell Sculptor with Ring of Frost. 
-A big AoE to slow down a big area and potentially freezing creatures within.
-
-### Errata 1
-- Some spelling issues that had to be fixed, small errata, and a change to how Time Warp was worded.
-
-### Errata 2
-- Replaced Tasha's Couldorn reprint with sidebar.
-
-### Errata 3
-- Changed *arcane explosion* wording to read like similar spells. 
-- Added "on successful save" wording to *alextrasza’s fury.*
-- Changed *icy touch* to break on any damage or when something spends its action to free the creature.
 
 ## Credits
 
@@ -814,9 +807,9 @@ A big AoE to slow down a big area and potentially freezing creatures within.
 
 <br />**Page 1 Art:** "Human Mage" by [Glenn Rane](https://wow.gamepedia.com/File:ArtHumanMage.jpg)
 <br /> **Page 1 Art:** [Hall of the Guardian loading screen](https://wow.gamepedia.com/File:Hall_of_the_Guardian_loading_screen.jpg)
-<br /> **Page 5 Art:** "Arcane" by [Michael Roberts](https://www.artstation.com/artwork/vvJ5O)
-<br /> **Page 6 Art:** "Lyris, the Wild Mage" by [Will Murai](https://willmurai.artstation.com/projects/Qybxd)
-<br /> **Page 7 Art:** [Hall of the Guardian loading screen](https://wow.gamepedia.com/File:Hall_of_the_Guardian_loading_screen.jpg)
+<br /> **Page 5 Art:** [Mage Crest](https://wowpedia.fandom.com/wiki/Mage?file=Mage_Crest.png) from World of Warcraft
+<br /> **Page 5 Art:** "The High Elf Kingdom of Quel'Thalas" by Peter C. Lee (World of Warcraft: Chronicle Volume 1)
+<br /> **Page 7 Art:** Jaina Proudmoore by James Ryman, from [Hearthstone](https://blizzard.gamespress.com/Hearthstone-Mercenaries---Launch-Press-Kit)
 <br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
 
 \pagebreakNum
@@ -826,7 +819,7 @@ A big AoE to slow down a big area and potentially freezing creatures within.
 /* BACK PAGE STYLES */
 
   /* Remove footer from back page, replace pX with last page number */
-  .phb#p13:after { display:none; }
+  .phb#p21:after { display:none; }
 
   .phb .back-cover-content {
     padding-left: 4px;
@@ -881,15 +874,24 @@ A big AoE to slow down a big area and potentially freezing creatures within.
  
  Warcraft
  
+ </div>
+
+ <div style='margin-top:30px;'></div>
+
+ <div class='back-cover-header'>
+ 
  5th Edition
  
  </div>
+
+ <div style='margin-top:30px;'></div>
+
  
 <div class='back-cover-text'>
  
   *Part of the WC5E Heroes Handbook v3*
  
-  This document is a part-piece of an upcoming update (as of writing this) to our *Warcraft 5th Edition Heroes Handbook*; a massive tome of player classes, races, and backgrounds to put a Warcraft spin on core Dungeons & Dragons material.
+  This document is a part of an upcoming update (as of writing this) to our *Warcraft 5th Edition Heroes Handbook*; a massive tome of player classes, races, and backgrounds to put a Warcraft spin on core Dungeons & Dragons material.
 
   We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
   
