@@ -348,6 +348,7 @@ Animate Dead
 Arcane Eye
 <br> Banishment
 <br> Blight
+<br> ✦ Conjure Undead
 <br> ✦ Death and Decay
 <br> Death Ward
 <br> Divination
@@ -358,7 +359,6 @@ Arcane Eye
 <br> Sickening Radiance ^XGE^
 <br> Staggering Smite
 <br> Stoneskin
-<br> ✦ Summon Undead
 <br> Vitriolic Sphere ^XGE^
 
 ##### 5th Level
@@ -1469,7 +1469,8 @@ Blade of Disaster ^TCE^
 > 
 > <br/> Earthen Spike
 > <br/> Holy Wrath
-> <br/> Mantle of the Fallen Crusader
+> <br/> Mantle of the Fallen 
+> <br/>&nbsp; Crusader
 > <br/> Spellsteal
 > <br/> Starsurge
 >
@@ -1478,12 +1479,12 @@ Blade of Disaster ^TCE^
 > ##### 4th Level
 > Amplify or Dampen Magic
 > <br/> Arcane Barrage
+> <br/> Conjure Undead
 > <br/> Death and Decay
 > <br/> Divine Shield
 > <br/> Dominate Undead
 > <br/> Fire and Brimstone
 > <br/> Ice Block
-> <br/> Summon Undead
 > <br/> Ursol's Vortex
 > <br/> Void Shift
 >
@@ -1787,6 +1788,26 @@ The chained target must make a Strength saving throw at the end of each of its t
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 2nd.
 
+#### Conjure Undead
+*4th-level conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (viscera from a creature killed <br> within the past 24 hours)
+- **Duration:** Concentration, up to 1 hour
+___
+You summon a powerful undead being from the crypts and slaughterhouses of Northrend. You choose the undead’s type, which must be one of challenge rating 5 or lower, such as a revenant or wraith. The undead appears in an unoccupied space you can see within range, and the undead disappears when it drops to 0 hit points or when the spell ends.
+
+Roll initiative for the undead, which has its own turns. When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
+
+If you stop concentrating on the spell before it reaches its full duration, the undead spends the rest of the spell’s duration pursuing and attacking the nearest non-undead to the best of its ability.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.
+
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Corpse Explosion
 *1st-level necromancy*
 ___
@@ -1800,10 +1821,6 @@ The corpse of a recently deceased creature rapidly bloats at your command and er
 A corpse detonated in this way is destroyed and cannot be raised or resurrected by any ability that requires a com&shy;plete corpse. Not all creatures leave a corpse; construts and oozes almost never do, neither do incorporeal undead. 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d6 for each slot level above 1st.
-
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
 
 #### Create Healthstone
 *2nd level conjuration*
@@ -1829,6 +1846,8 @@ You bind the souls of creatures to the world of the living, allowing them to com
 
 If you cast this spell again, the effect of any previously cast create soulstone spell ends. The spell ends prematurely if its material component is ever not on your person. A creature can only benefit from one soulstone at a time.
 
+\columnbreak
+
 #### Create Soulwell
 *6th level conjuration*
 ___
@@ -1840,8 +1859,6 @@ ___
 You cause a runed stone altar to appear in an unoccupied space within range. An allied creature can use its action to reach into the liquid that fills the basin to withdraw a glowing green stone. When the spell ends, the altar disappears, but the stones remain until used or 24 hours pass, whichever is first. A creature can crush the stone as an action to regain hit points equal to 4d10 + your spellcasting modifier.
 
 **At Higher Levels:** When you cast this spell using a spell slot of 7th level or higher, the healing increases by 1d10 for each slot level above 6th.
-
-\columnbreak
 
 #### Cyclone
 *2nd-level conjuration*
@@ -1869,6 +1886,10 @@ You grasp the fabric around a target within range, pulling necromantic energies 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Death and Decay
 *4th-level necromancy*
 ___
@@ -1882,10 +1903,6 @@ You reach out towards a point you can see within range, creating a 20-foot radiu
 Undead creatures in the spell’s area take no damage, and are bolstered by its necrotic power. While standing in the spell’s area, undead creatures add 1d4 to their attack rolls and saving throws, as if under the effect of a bless spell.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
-
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
 
 #### Death Chain
 *5th-level necromancy*
@@ -1911,6 +1928,8 @@ ___
 ___
 Necrotic energy grasps around a Huge or smaller creature you can see that is currently at least 10 feet away from you, and within the spell’s range. The creature must make a successful Strength saving throw or be moved to an empty space within 5 feet of you, and your next attack roll against them this turn is made with advantage.
 
+\columnbreak
+
 #### Deathwyrm's Fury
 *5th-level conjuration*
 ___
@@ -1928,8 +1947,6 @@ The spell fails if there is insufficient room for the dragon to appear (for exam
 ***Frostwyrm.*** The dragon exhales an icy blast at a point within 120 feet. Each creature within 20 feet of that point must make a Dexterity saving throw, taking 5d8 cold damage and 5d8 necrotic damage on a failed save, or half as much damage on a successful one.
 
 ***Vilewyrm*** The dragon exhales acid in a 120-foot line <br>that is 10 feet wide. Each creature in that line must make a Dexterity saving throw, taking 5d8 acid damage and 5d8 necrotic damage on a failed save, or half as much damage on a successful one.
-
-\columnbreak
 
 #### Decompose
 *Necromancy cantrip*
@@ -1955,6 +1972,10 @@ Additionally, your current hit points and hit point maximum each increase by 2. 
 
 ***At Higher Levels:*** When you cast this spell using a spell slot of 2nd level or higher, the Armor Class granted by the spell increases by 1 and your current hit point total and hit point maximum each increase by 2 for each slot level above 1st.
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Diabolism
 *Necromancy cantrip*
 ___
@@ -1968,11 +1989,6 @@ This spell channels a small amount of dark energy. You create one of the followi
 - An object up to 1 cubic foot in size or an area up to 1 square foot that you touch lightly decays. Wood rots, glass cracks, flowers wilt. Casting the spell and then continuing to touch the target advances the decay; after 1 minute, the target is destroyed. This spell cannot affect creatures, magical objects, or sturdy materials like metal and stone.
 - You can reanimate a Tiny 0 CR beast for 1 hour. It is undead and obeys all of your commands to the best of it's abilities, though it cannot attack. You cannot use this effect again until the reanimated creature dies, or the effect ends.
 - You instantaneously light a candle, torch, or small campfire. The fire glows your choice of a smoldering red, bright green, or shadowy purple until extinguished.
-
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
-
 - Your fingertip glows green or purple for up to 1 minute. While it glows, you can use your finger to draw glowing lines of the same color on a solid surface that last for 1 hour.
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
@@ -1989,6 +2005,7 @@ A star of divine energy streaks forward in a 30 feet long and 5 feet wide line f
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the spells healing and damage increases by 1d6 for each slot level above 3rd.
 
+\columnbreak
 
 #### Divine Shield
 *4th-level abjuration*
@@ -2020,6 +2037,10 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 ***At Higher Levels.*** When you cast this spell with a <br> 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a 7th level or higher, the duration is concentration, up to 8 hours.
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Drain Life
 *1st-level necromancy*
 ___
@@ -2047,10 +2068,6 @@ ___
 - **Duration:** Concentration, up to 1 minute
 ___
 You are empowered by the suffering of your victims. Until the spell ends, your weapon attacks deal an extra 1d4 necrotic damage on a hit.
-
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
 
 #### Earthen Spike
 *3rd-level transmutation*
@@ -2090,8 +2107,6 @@ You manifest a burst of elemental force around a creature within range. You choo
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
-\columnbreak
-
 #### Fel Flame
 *Evocation cantrip*
 ___
@@ -2116,6 +2131,10 @@ You form six orbs of fire above your head, which you launch at targets within 20
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the spell creates one more orb for each spell level above 4th.
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Flurry
 *Evocation cantrip*
 ___
@@ -2137,10 +2156,6 @@ ___
 - **Duration:** 1 minute
 ___
 Your fingers become cold to the touch as frost manifests on their surface. Make a melee spell attack against a creature within range. On a hit, the creature is incapacitated and restrained until the spell ends as ice encap&shy;sulates their body. The spell ends for an affected creature if it takes any damage or if someone else uses an action to break the creature out of the ice.
-
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
 
 #### Frostfire Bolt
 *1st-level evocation*
@@ -2166,6 +2181,8 @@ You form a large spike of ice above your head, and launch it at a creature that 
 
 If this damage reduces a creature to 0 hit points, it is reduced to shards of ice, leaving behind everything it was wearing and carrying. The creature can be restored to life only by means of a true resurrection or a wish spell.
 
+\columnbreak
+
 #### Guardian of the King
 *2nd-level abjuration*
 ___
@@ -2187,8 +2204,6 @@ ___
 You summon a cloud at a point within range, blanketing a 15-foot radius area around it in rain. Each friendly creature enters the rain for the first time on their turn, or starts their turn within the rain regains 2d6 hit points. The healing rain extinguishes nonmagical fires within its area of effect.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the healing increases by 1d6 for every two slot levels above 5th.
-
-\columnbreak
 
 #### Holy Prism
 *2nd-level evocation*
@@ -2218,6 +2233,10 @@ You release a burst of radiant energy in a blast. Each creature of your choice w
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Howling Blast
 *2nd-level evocation*
 ___
@@ -2229,10 +2248,6 @@ ___
 An icy gale suddenly erupts around a point of your choice within range. Each creature in a 15-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 cold damage on a failed save, or half as much damage on a successful one. A cold fog hangs in the air afterwards, making the area heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
-
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
 
 #### Ice Block
 *4th-level abjuration*
@@ -2266,6 +2281,8 @@ ___
 ___
 You temporarily freeze your own blood and make your skin as hard as ice. Until the start of your next turn, you have resistance to bludgeoning, piercing, and slashing damage, including against the triggering damage.
 
+\columnbreak
+
 #### Icy Touch
 *1st-level necromancy*
 ___
@@ -2277,8 +2294,6 @@ ___
 You summon icy energy to strike against a creature you can see within range, freezing them with the chill of the grave. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 3d8 cold damage, and it can't regain hit points until the start of your next turn. Until then, the target’s skin grows as pale as ice. If you hit a celestial target, it also has disadvantage on attack rolls against you until the end of your next turn. 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st. 
-
-\columnbreak
 
 #### Invoke Elements
 *Transmutation cantrip*
@@ -2314,6 +2329,10 @@ It has a maximum carrying capacity of 50 tons (limited by the size of the ship i
 
 You can make this effect permanent by casting this spell on the same ship once per week for one year.
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Light of the Protector
 *5th-level evocation*
 ___
@@ -2323,10 +2342,6 @@ ___
 - **Duration:** Instantaneous
 ___
 You feel the warmth of the light within you as a surge of positive energy washes through you, restoring a number of hit points equal to 5d12 + 30. This spell also ends blindness, deafness, and any diseases affecting you.
-
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
 
 #### Lava Burst
 *2nd-level evocation*
@@ -2363,6 +2378,8 @@ ___
 You call upon the element of air and surround a friendly target within range with a field of crackling electricity. Until the spell ends, the target gains a +1 bonus to AC and when a creature hits it with a melee attack, that creature takes 1d4 lightning damage.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
+
+\columnbreak
 
 #### Living Bomb
 *2nd-level evocation*
@@ -2414,6 +2431,10 @@ You attempt to pierce through the mental defenses of a creature you can see with
 
 This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Mind Flay
 *2nd-level enchantment*
 ___
@@ -2427,10 +2448,6 @@ You wreathe the mind of a creature you can see within range. The target must mak
 At the end of each of its turns, the creature can make a Wisdom saving throw, ending the spell on a success.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
-
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
 
 #### Mind Vision
 *1st-level divination*
@@ -2518,15 +2535,15 @@ ___
 ___
 You call forth a summoning portal in an empty space within range. Appearing as a shadowy statue of a cloaked figure, holding open the cloak to reveal a gapping swirl into the twisting nether.
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 Using 1 minute, you can channel energy into the statue, and call forth the true name of a creature. If the creature is on your plane of existence, a shimmering mirror appears in front of it that only it can see, through the mirror the creature is able to perceive you and your surroundings, but you can not see it. 
 
 A creature can choose to ignore the mirror, in which case it vanishes after 1 minute and a new mirror can't appear in front of that creature again for another 24 hours, or pass through it, in which case it is teleported to the space in front of the summoning stone. 
 
 The ritual of summoning is only able to call creatures to it, a creature can't use the summoning stone to traverse back to their previous location.
-
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
 
 #### Shackle Undead
 *2nd-level enchantment*
@@ -2576,8 +2593,6 @@ ___
 ___
 Obscured by shadows, you teleport to an unoccupied space within 5 feet.
 
-\columnbreak
-
 #### Shadowfury
 *6th-level enchantment*
 ___
@@ -2612,6 +2627,10 @@ You release a blast of the sun's wrath against a creature within range. Make a r
 
 This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
+<div class='footnote'>PART 2 | SPELLS </div>
+
+\pagebreakNum
+
 #### Spellsteal
 *3rd-level abjuration*
 ___
@@ -2625,10 +2644,6 @@ Choose a creature that you can see within range. A 1st level spell effect of you
 If the stolen spell requires concentration, you need to concentrate on it. You do not need to provide any additional spellcasting components, if any were required by the stolen spell. Spellsteal has no effect on spells that create or summon creatures, or on spell effects that can’t be removed by *dispel magic*. 
 
 You cannot change the stolen spell from how it was originally cast, unless its description explicitly allows it to be changed after being cast. 
-
-<div class='footnote'>PART 2 | SPELLS </div>
-
-\pagebreakNum
 
 To steal a spell effect of 2nd level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, you successfully steal the spell. 
 
@@ -2675,24 +2690,6 @@ A blast of intense moonlight bursts forward in a line 100 feet long and 5 feet w
 If cast while outdoors with a clear view of the moon, the spell deals an additional 2d6 radiant damage.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
-
-\columnbreak
-
-#### Summon Undead
-*4th-level conjuration*
-___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Components:** V, S, M (viscera from a creature killed <br> within the past 24 hours)
-- **Duration:** Concentration, up to 1 hour
-___
-You summon a powerful undead being from the crypts and slaughterhouses of Northrend. You choose the undead’s type, which must be one of challenge rating 5 or lower, such as a revenant or wraith. The undead appears in an unoccupied space you can see within range, and the undead disappears when it drops to 0 hit points or when the spell ends.
-
-Roll initiative for the undead, which has its own turns. When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
-
-If you stop concentrating on the spell before it reaches its full duration, the undead spends the rest of the spell’s duration pursuing and attacking the nearest non-undead to the best of its ability.
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.
 
 #### Touch of Chaos
 *Evocation cantrip*
@@ -2764,4 +2761,5 @@ You call upon the void to shift the health of you and another creature. Choose a
 ## Changelog
 - Asphyxiate and Freezing Touch no longer suffocate targets.
 - Changed/Rebalanced: Cataclysm, Drain Life, Lunar Strike, Rain of Fire, Starfall, Starfire, Starsurge
+- Summon Undead renamed to Conjure Undead, to avoid confusion with the version from TCE
 - Added: Create Healthstone, Create Soulstone, Create Soulwell, Decompose (Credit Matt Mercer's Critical Role), Diabolism [(Original Idea Credit)](https://www.dndbeyond.com/spells/141243-diabolism), Fire and Brimstone, Shadow Glide, Touch of Chaos
