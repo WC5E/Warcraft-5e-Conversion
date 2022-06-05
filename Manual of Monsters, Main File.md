@@ -8,8 +8,18 @@
     background-image: url('https://www.gmbinder.com/images/RVaHjr8.png');
     background-size: cover;
   }
-  .phb:after { content: ""; }
-
+  .phb:after { 
+    content: "";
+  }
+  /* Workaround fix for the line height displacement that GM Binder is
+    experiencing right now thanks to under the hood Chromium changes */
+  .phb p{ line-height: 15px; } 
+  .phb blockquote p{ line-height: 14px; } 
+  .phb h2{ line-height: 26px; } 
+  .phb h3{ line-height: 19px; } 
+  .phb h4{ line-height: 15px; padding-bottom: 3px; } 
+  .phb h5{ line-height: 17px; } 
+  th, td { line-height: 14px; }
 
 /* FRONT PAGE STYLES */
 
@@ -22,19 +32,16 @@
     right: 0;
     clear: both;
   }
-
   .cover-header-logo {
     display: block;
     width: 700px;
     margin: auto;
   }
-
   .cover-header-divider {
     display: block;
     width: 580px;
     margin: -12px auto -6px;
   }
-
   .cover-header-title {
     display: block;
     width: 700px;
@@ -47,7 +54,6 @@
     text-align: center;
     text-shadow: 2px 2px 4px #000, -2px 2px 4px #000, 2px -2px 4px #000, -2px -2px 4px #000;
   }
-
   .cover-footer-container {
     display: block;
     position: absolute;
@@ -57,7 +63,6 @@
     right: 0;
     clear: both;
   }
-
   .cover-footer-subtitle,
   .cover-footer-version {
     display: block;
@@ -77,6 +82,38 @@
     margin-top: 16px;
     font-size: 20px;
     line-height: 20px;
+  }
+
+
+/* TABLES AND BLOCKS */
+
+  /* Adjust table colors inside noteblocks */
+  .phb blockquote table tr:nth-child(odd) td { 
+    background-color: #FFF0f5; 
+  }
+  .phb hr+section blockquote tr:nth-child(odd) td { 
+    background-color: transparent;
+  }
+  /* Clear internal padding and add gap above for green note blocks*/
+  .phb blockquote {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .phb blockquote { 
+    margin-top: 1em;
+  }
+  /* Clear internal padding in creature statblocks */
+  .phb hr+section blockquote {
+    padding-left: 0px;
+    padding-right: 0px;
+  }  
+  /* Use black tones for statblock backgrounds */
+  .phb blockquote {
+    box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
+  }
+  /* Normalize space above Attributes */
+  .phb hr+section blockquote hr+table {
+    padding-top: 4px;
   }
 
 /* TABLE OF CONTENTS  */
@@ -135,40 +172,7 @@
   }
 
 
-/* TABLES AND BLOCKS */
-
-  /* Adjust tables */
-  table tr:nth-child(odd) td { background-color: #FFF0f5; }
-  .phb hr+section blockquote tr:nth-child(odd) td { background-color: transparent; }
-
-  /* Clear internal padding and add gap above for green note blocks*/
-  .phb blockquote {
-    padding-left: 0px;
-    padding-right: 0px;
-  }
-  .phb blockquote { margin-top: 1em; }
-
-  /* Clear internal padding in creature statblocks */
-  .phb hr+section blockquote {
-    padding-left: 0px;
-    padding-right: 0px;
-  }
-
-  .phb blockquote {
-    box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
-  }
-
-  /* For creature statblocks within range (start and end must be specified),
-     don't show a background. Used for the appendix creatures */
-  .phb:nth-of-type(n+116):nth-of-type(-n+150) hr+section blockquote {
-    background: none;
-    border: none;
-    box-shadow: none;
-    margin-top: 12px;
-    margin-bottom: 12px;
-    padding-top: 6px;
-    padding-bottom: 6px;
-  }
+/* DOUBLE WIDE STATBLOCKS */
 
   /* For double-wide creature statblocks that we want to have anchored to the
   bottom of the page regardless of content flow. */
@@ -180,6 +184,23 @@
     margin-top:1200px;
   }
 
+/* INK BLOT STYLES */
+
+  /* Root style for inkblots. Use alone, or together with
+  one of the inkb lotstyle classes below. Essentially:
+  <img url='{url}' class='inkblot inkblot-blue' />
+  */
+  .inkblot {
+    position: absolute;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+  .inkblot-blue {
+    filter: hue-rotate(190deg) saturate(120%)
+  }
+  .inkblot-green {
+    filter: hue-rotate(120deg)
+  }
 
 /* FOOTER */
 
@@ -188,8 +209,9 @@
     color: #7e735c;
     z-index: 1000;
   }
-  .phb .footnote { color: #7e735c; }
-
+  .phb .footnote { 
+    color: #7e735c;
+  }
   /* On odd pages before the bestiary, have just the page tear */
   .phb:nth-child(odd):nth-of-type(n+2):after {
     content: '';
@@ -199,7 +221,6 @@
     background-repeat: no-repeat, no-repeat;
     background-position: bottom right -10px, bottom;
   }
-
   /* Reversed for alternating pages */
   .phb:nth-child(even):nth-of-type(n+2):after {
     content: '';
@@ -211,9 +232,8 @@
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
   }
-
   /* On odd bestiary pages, have the Monster Manual page tear and lettering */
-  .phb:nth-child(odd):nth-of-type(n+10):nth-of-type(-n+115):after {
+  .phb:nth-child(odd):nth-of-type(n+11):nth-of-type(-n+123):after {
     content: '';
     height: 125px;
     background-image: url(https://gmbinder.com/images/lLWeevR.png), url('https://gmbinder.com/images/YWardeu.png');
@@ -221,9 +241,8 @@
     background-repeat: no-repeat, no-repeat;
     background-position: bottom right -10px, bottom;
   }
-
   /* Reversed for alternating pages */
-  .phb:nth-child(even):nth-of-type(n+10):nth-of-type(-n+115):after {
+  .phb:nth-child(even):nth-of-type(n+11):nth-of-type(-n+123):after {
     content: '';
     height: 125px;
     background-image: url(https://gmbinder.com/images/lLWeevR.png), url('https://gmbinder.com/images/YWardeu.png');
@@ -233,17 +252,14 @@
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
   }
-
   /* The page number position */
   .phb .pageNumber {
     right: 0px;
   }
-
   /* The page number position for alternating pages */
   .phb:nth-child(even) .pageNumber {
     left: 0px;
   }
-
   /* The letter in the Monster Manual page tear */
   .pageLetter {
     position: absolute;
@@ -253,14 +269,12 @@
     z-index: 1000;
     font-size: 135%;
   }
-
   /* Reversed for alternating pages */
   .phb:nth-child(even) .pageLetter {
       left: 15px;
   }
 
-
-/* MONSTER MANUAL LETTER SECTION HEADER */
+/* MONSTER MANUAL SPECIFIC */
 
   /* Adds the surrounding framing for the big, bold monster letter headings */
   .letterheader {
@@ -289,55 +303,43 @@
       height: 163.2px;
   }
 
-  /* Use one in combination with .mmletter to show that letter */
-  .mml-a { background-image: url(https://gmbinder.com/images/fVVv93s.png); }
-  .mml-b { background-image: url(https://gmbinder.com/images/21X6N0B.png); }
-  .mml-c { background-image: url(https://gmbinder.com/images/MvnpOWF.png); }
-  .mml-d { background-image: url(https://gmbinder.com/images/AFbLU4P.png); }
-  .mml-e { background-image: url(https://gmbinder.com/images/28NVNf9.png); }
-  .mml-f { background-image: url(https://gmbinder.com/images/Oyrhmqy.png); }
-  .mml-g { background-image: url(https://gmbinder.com/images/fRyiQn4.png); }
-  .mml-h { background-image: url(https://gmbinder.com/images/N8NamlT.png); }
-  .mml-i { background-image: url(https://gmbinder.com/images/xWI93aa.png); }
-  .mml-j { background-image: url(https://gmbinder.com/images/GgIzsun.png); }
-  .mml-k { background-image: url(https://gmbinder.com/images/OcObsWl.png); }
-  .mml-l { background-image: url(https://gmbinder.com/images/B7AUyR6.png); }
-  .mml-m { background-image: url(https://gmbinder.com/images/q4wXoxt.png); }
-  .mml-n { background-image: url(https://gmbinder.com/images/OJtC4w9.png); }
-  .mml-o { background-image: url(https://gmbinder.com/images/adeRr5d.png); }
-  .mml-p { background-image: url(https://gmbinder.com/images/EEhcrSR.png); }
-  .mml-q { background-image: url(https://gmbinder.com/images/O1AhfzL.png); }
-  .mml-r { background-image: url(https://gmbinder.com/images/w66eIuZ.png); }
-  .mml-s { background-image: url(https://gmbinder.com/images/YEoe0PP.png); }
-  .mml-t { background-image: url(https://gmbinder.com/images/7Bk9D35.png); }
-  .mml-u { background-image: url(https://gmbinder.com/images/uVJZYUg.png); }
-  .mml-v { background-image: url(https://gmbinder.com/images/gKjngey.png); }
-  .mml-w { background-image: url(https://gmbinder.com/images/14WWpsC.png); }
-  .mml-x { background-image: url(https://gmbinder.com/images/ojIYjh0.png); }
-  .mml-y { background-image: url(https://gmbinder.com/images/Gi1ePwY.png); }
-  .mml-z { background-image: url(https://gmbinder.com/images/0ZTFNVs.png); }
+  /* Monster Manual alphabetical chapter letters */
+  .mml-a {background-image: url(https://gmbinder.com/images/fVVv93s.png);}
+  .mml-b {background-image: url(https://gmbinder.com/images/21X6N0B.png);}
+  .mml-c {background-image: url(https://gmbinder.com/images/MvnpOWF.png);}
+  .mml-d {background-image: url(https://gmbinder.com/images/AFbLU4P.png);}
+  .mml-e {background-image: url(https://gmbinder.com/images/28NVNf9.png);}
+  .mml-f {background-image: url(https://gmbinder.com/images/Oyrhmqy.png);}
+  .mml-g {background-image: url(https://gmbinder.com/images/fRyiQn4.png);}
+  .mml-h {background-image: url(https://gmbinder.com/images/N8NamlT.png);}
+  .mml-i {background-image: url(https://gmbinder.com/images/xWI93aa.png);}
+  .mml-j {background-image: url(https://gmbinder.com/images/GgIzsun.png);}
+  .mml-k {background-image: url(https://gmbinder.com/images/OcObsWl.png);}
+  .mml-l {background-image: url(https://gmbinder.com/images/B7AUyR6.png);}
+  .mml-m {background-image: url(https://gmbinder.com/images/q4wXoxt.png);}
+  .mml-n {background-image: url(https://gmbinder.com/images/OJtC4w9.png);}
+  .mml-o {background-image: url(https://gmbinder.com/images/adeRr5d.png);}
+  .mml-p {background-image: url(https://gmbinder.com/images/EEhcrSR.png);}
+  .mml-q {background-image: url(https://gmbinder.com/images/O1AhfzL.png);}
+  .mml-r {background-image: url(https://gmbinder.com/images/w66eIuZ.png);}
+  .mml-s {background-image: url(https://gmbinder.com/images/YEoe0PP.png);}
+  .mml-t {background-image: url(https://gmbinder.com/images/7Bk9D35.png);}
+  .mml-u {background-image: url(https://gmbinder.com/images/uVJZYUg.png);}
+  .mml-v {background-image: url(https://gmbinder.com/images/gKjngey.png);}
+  .mml-w {background-image: url(https://gmbinder.com/images/14WWpsC.png);}
+  .mml-x {background-image: url(https://gmbinder.com/images/ojIYjh0.png);}
+  .mml-y {background-image: url(https://gmbinder.com/images/Gi1ePwY.png);}
+  .mml-z {background-image: url(https://gmbinder.com/images/0ZTFNVs.png);}
+ 
+/* APPENDIX STYLES */
 
-
-/* INK BLOT STYLES */
-
-  /* Root style for inkblots. Use alone, or together with
-  one of the inkb lotstyle classes below. Essentially:
-  <img url='{url}' class='inkblot inkblot-blue' />
-  */
-  .inkblot {
-    position: absolute;
-    mix-blend-mode: multiply;
-    opacity: 0.6;
-  }
-
-  .inkblot-blue {
-    filter: hue-rotate(190deg) saturate(120%)
-  }
-
-  .inkblot-green {
-    filter: hue-rotate(120deg)
-  }
-
+  /* Avoid upscaling first letter on an appendix page */
+  .phb:nth-of-type(n+100):nth-of-type(-n+200) h1+p::first-letter {
+    font-family: BookSanity;
+    font-size: .317cm;
+    text-rendering: optimizeLegibility;
+    float: initial;
+  }  
 </style>
 
 <div class='cover-header-container'>
@@ -358,71 +360,17 @@
     <br />
   </span>
   <span class='cover-footer-version'>
-    Version 1.0 — First release
+    Major Version 3, Book Release 1
   </span>
 </div>
 
 <style> .phb#p1:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/v1OE3Fq.jpg' style='position:absolute; top:-3px; right:-5px; width:810px' />
-<img src='https://www.gmbinder.com/images/3d9m32D.png' style='position:absolute; top:1000px; right:675px; width:100px' />
 
 \pagebreak
 
-## Credits
-*Contributors listed by community usernames.*
-<div style='margin-top:-20px;'></div>
+## Foreword
 
-<br> **Manual of Monsters Leads:** Jih, Tangerine
-<br> **Creature Statistics:** Angery, Arenalor, Auvreannia, 
-<br> <span style="margin-left:12px"></span> Geamros, Jih, Tangerine
-<br> **Text Writing:** Auvreannia, Geamros, Jih, Tangerine
-<br> **Layouting:** Jih, Tangerine
-<br> **Managing Editors:** Jih, Tangerine
-
-<br> **Additional Contribution:** Our Discord Community
-
-<br> **Cover Illustrator:** Zhang Zs
-<br> **Interior Illustrators:** Abe Taraky, Alex Garner, Andrei
-<br><span style="margin-left:12px"></span> Kiselev, Andrew Hou, Anndr, Anthony Avon, Arthur
-<br><span style="margin-left:12px"></span> Bozonnet, Blizzard Cinematics, Blizzard Entertainment,
-<br><span style="margin-left:12px"></span> Chris Deboda, Dan Mumford, Dan Scott, Dmitry Bolotov,
-<br><span style="margin-left:12px"></span> Dmitry Prozorov, Elodie Metivier, Glenn Rane, Grace
-<br><span style="margin-left:12px"></span> Liu, Jakub Kasber, James Ryman, Jimmy Lo, Jorge
-<br><span style="margin-left:12px"></span> Jacinto, Justin Kunz, kikicianjur, Laurel D. Austin,
-<br><span style="margin-left:12px"></span> Lloyd Hoshide, Luke Mancini, Mark Gibbons, Markus
-<br><span style="margin-left:12px"></span> Erdt, Matt Smith, Matthew Mckeown, Maxence Burgel,
-<br><span style="margin-left:12px"></span> Miao Zi, Monica Langlois, Mr. Jack, Noah Warner,
-<br><span style="margin-left:12px"></span> Peter Lee, Phillip Zhang, Raymond Swanland, Ruan
-<br><span style="margin-left:12px"></span> Jia, Sean O'Daniels, Sojin Hwang, Timens, UnidColor,
-<br><span style="margin-left:12px"></span> Wei Wang, Zhang Zs
-
-<br> **Based on the original D&D game created by**
-<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as
-<br><span style="margin-left:12px"></span>Brian Blume, Rob Kuntz, James Ward and Don Kaye.
-
-<br> **Based on the Warcraft franchise by**
-<br><span style="margin-left:12px"></span> © Blizzard Entertainment
-
-<br> **Playtesting provided by**
-
-<br> **Special thanks to**
-<br><span style="margin-left:12px"></span> This entire book was made using GM Binder. It is an
-<br><span style="margin-left:12px"></span> amazing tool for creating authentic-looking homebrew
-<br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons. Without
-<br><span style="margin-left:12px"></span> it, this project would've likely never been considered.
-
-<div style='margin-top:24px'></div>
-<div style="text-align:Center">
-
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='width:150px' />
-
-##### [www.GmBinder.com](https://www.gmbinder.com/)
-</div>
-
-<div style='margin-top:1000px'></div>
-<div style="text-align:Right">
-
-## Foreword </div>
 We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of Dungeons & Dragons. It is a task that has taken us months to do, and it'll likely take many more still. Everyone involved are working this in their spare time, aiming to bring a genuine recreation of *Warcraft* as a D&D 5th Edition tabletop RPG.
 
 This book is made to compliment official D&D 5th edition books, including the **Player's Handbook, Dungeon Master's Guide**, and **Monster Manual**. It has been built on the framework set by those books, and designed to be brought in as any supplement book would. Without any more work than to just use the material presented.
@@ -436,40 +384,114 @@ With each coming update, all changes will be noted in the Changelog — Link is 
 #### [ChangeLog](https://drive.google.com/open?id=1487fO7RPdUbloD7NY6mdCC-yFwsU4yFHOUQ4CBqX9mE)
 </div>
 
-<br> **Heroes Handbook**
-<br><span style="margin-left:12px"></span> Did you know that we have a Heroes Handbook as well
-<br><span style="margin-left:12px"></span> to go alongside the Manual of Monsters? A fully fleshed-
-<br><span style="margin-left:12px"></span> out player book, bringing with it all the races and classes
-<br><span style="margin-left:12px"></span>  from World of Warcraft!
-<div style='margin-top:-5px;'></div>
-<div style="text-align:Center">
+## Project Links
 
-#### [Heroes Handbook](https://www.gmbinder.com/share/-LFhhtssjN-teWCOregn)
+**Other Warcraft 5E books**
+<br><span style="margin-left:12px"></span> We've been working creating both player material and
+<br><span style="margin-left:12px"></span> dungeon master material for playing Warcraft in
+<br><span style="margin-left:12px"></span> D&D 5th Edition. You can check them all out here:
+
+<div style="text-align:center">
+
+#### [Warcraft 5E on GDrive](https://drive.google.com/drive/folders/1kVoAMR8TiO3CXFYcigFN2B6zk62xcnv9)
+
 </div>
 
-<br> **Want to help grow a community?**
+<br> **Want to join our community?**
 <br><span style="margin-left:12px"></span> We're a relatively small group working together on this,
-<br><span style="margin-left:12px"></span> and as such our ability to playtest all of it is limited.
-<br><span style="margin-left:12px"></span> If you want to help the project out and give feedback,
-<br><span style="margin-left:12px"></span> suggest changes and new features for the books, or
-<br><span style="margin-left:12px"></span> simply just join our growing Warcraft RPG community,
-<br><span style="margin-left:12px"></span> we have both an active discord server and a subreddit
-<br><span style="margin-left:12px"></span> dedicated to this project! — Links below!
-<div style='margin-top:-5px;'></div>
+<br><span style="margin-left:12px"></span> and we think it's fun to hear the thoughts and opinions
+<br><span style="margin-left:12px"></span> of people who have played with it. If you want to share
+<br><span style="margin-left:12px"></span> your stories with us, suggest changes, or just join our
+<br><span style="margin-left:12px"></span> Warcraft RPG community, we have both a Discord
+<br><span style="margin-left:12px"></span> server and a subreddit going.
+
+<div style="text-align:center">
+
+#### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:40px"></span> [Subreddit](https://www.reddit.com/r/wc5e/)
+
+</div>
+
+
+\columnbreak
+
+
+## Contributor Credits
+
+*Contributors listed by community usernames.*
+<div style='margin-top:-10px;'></div>
+
+<br> **Original project authors** 
+<br><span style="margin-left:12px"></span> Jih, Tangerine
+
+<br />**Current core team**
+<br><span style="margin-left:12px"></span> Ace Azzermeen, Geamros, Lorestalker Nemzal,
+<br><span style="margin-left:12px"></span> MagusRogue MythMaker, Nagash, Llamadom,
+<br><span style="margin-left:12px"></span> Tangerine, Tyloris
+
+<br />**Inactive & former team members**
+<br><span style="margin-left:12px"></span> 123jrf, ApolloLumina, Artipo, Auvreannia, Christinekn,
+<br><span style="margin-left:12px"></span> ClockWorkTank, Elenus, Jih, Prometheus, Reiga,
+<br><span style="margin-left:12px"></span> Silverblade, Tseims, Wyken
+
+<br />**Big thanks to** 
+<br><span style="margin-left:12px"></span> Everyone at our community Discord and Subreddit,
+<br><span style="margin-left:12px"></span> whose engagement with the material and conversations
+<br><span style="margin-left:12px"></span> with us make this project a ton of fun to work with.
+
+<br> **Based on the original D&D game created by**
+<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as
+<br><span style="margin-left:12px"></span>Brian Blume, Rob Kuntz, James Ward and Don Kaye.
+
+<br> **Based on the Warcraft franchise by**
+<br><span style="margin-left:12px"></span> © Blizzard Entertainment
+
+
+## Other Thanks 
+
+**Other projects we really like and want to give thanks to**
+- [World of Warcraft 5E](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
+- [Champions of Azeroth](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
+- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
+- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! <br /> You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
+
+
+## Made with GM Binder
+
+This entire book was made using GM Binder. It is an amazing tool for creating authentic-looking homebrew material for 5th Edition Dungeons and Dragons.  Without it, this project would've likely never been considered.
+
+
+<div style='margin-top:24px'></div>
 <div style="text-align:Center">
 
-#### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:48px"></span> [Subreddit](https://old.reddit.com/r/wc5e/)
+<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='width:150px' />
+
+##### [www.GmBinder.com](https://www.gmbinder.com/)
+
 </div>
 
-<div style='margin-top:70px'></div>
+\pagebreakNum
 
-<div class='wide'>
+## Legal Stuff
 
-#### Legal Stuff
+In accordance with [statements presented by Blizzard Entertainment](https://www.blizzard.com/en-us/legal/28d5ebbf-c245-4408-8ba9-043dd5f056bf/legal-faq), for use of Blizzard trademarks in the creation of "total conversions", we the providers of the Dungeons & Dragons 5th Edition material presented in here make it all available for free.
+
+There will never be a cost required to access any of it. This project will always remain free.
+
+Depending on viewpoint, this project could be viewed as an "adaption" rather than a "total conversion" of Blizzard Entertainment's intellectual property. 
+
+We have however seen a number of long-lived and still going conversion projects, adopting properties such as *Warcraft* and *Diablo* to other games -- including other tabletop RPG conversions of such. The common denominator between is that they are all creative endeavours and not marketed products.
+
+We understand that our ability to work on this project may be revoked should Blizzard Entertainment find it an infringement of their End User License Agreement.
+
+##### Wizards of the Coast Legal
 DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
-<br> This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.
-<br> All other original material in this work is copyright 2019 by [your legal name or company name] and published under the Community Content Agreement for Dungeon Masters Guild.
-</div>
+
+Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.1 ("SRD5") is granted solely through the use of the Open Gaming License, Version 1.0a.
+
+##### Blizzard Entertainment Legal
+
+©2004 Blizzard Entertainment, Inc. All rights reserved. World of Warcraft, Warcraft and Blizzard Entertainment are trademarks or registered trademarks of Blizzard  Entertainment, Inc. in the U.S. and/or other countries.
+
 
 \pagebreakNum
 
@@ -8219,7 +8241,7 @@ They also appear to be very susceptible to the wolfsbane plant; a small, purple 
 
 \columnbreak
 
-<div style='margin-top:375px;'></div>
+<div style='margin-top:290px;'></div>
 
 ___
 > ## Feral Worgen
@@ -8396,143 +8418,68 @@ ___
 
 <div class='wide'>
 
-# Appendix A: Miscellaneous Creatures
+# Chapter 2: Miscellaneous Creatures
+
 </div>
 
-This appendix contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
+
+This chapter contains statistics for numerous miscellan&shy;eous animals, creatures, and critters. Several creatures in this chapter are magical in nature, some of them even on par so with creatures found in chapter 1, but we chose to bring them all together in this chapter. 
+
+Azeroth is a fantastical world, and even some of its ordinary and everyday critters are larger than life without being monstrous. Massive scorpids, six-legged crocolisks, hawkstriders, and magical moths are all pretty typical sights on these mystical shores.
+
+
+##### SRD Content Included
+
+Some of the statblocks included in this chapter are taken from the Dungeons & Dragons SRD 5.1, following guidelines on copying and modifying SRD content. 
+
+Some of them have been added as is, while others we've adjusted and rebalanced for Warcraft as a campaign setting. We did this because we wanted to have as many setting-appropriate creatures as possible, even ones already printed in the SRD, together in one place. 
+
+> Keep this here for a bit but move it to the book intro later to clear some space.
 
 ___
-> ## Ape <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;19;5;13;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
->___
->- **Armor Class** 12
->- **Hit Points** 19 (3d8 + 6)
->- **Speed** 30 ft., climb 30 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|16 (+3)|14 (+2)|14 (+2)|6 (-2)|12 (+1)|7 (-2)|
->___
->- **Skills** Athletics +5, Perception +3
->- **Senses** passive Perception 13
->- **Languages** —
->- **Challenge** 1/2 (100 XP)
->___
->### Actions
->***Fist.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage.  
->
->***Rock.*** *Ranged Weapon Attack:* +5 to hit, range 25/50 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage.
-
-___
-> ## Ashwing Moth <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;1;2;13;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
-> *Tiny beast, unaligned*
+> ## Ashwing Moth
+>*Tiny beast, unaligned*
 > ___
 > - **Armor Class** 10
 > - **Hit Points** 1 (1d4 - 1)
 > - **Speed** 5 ft., fly 25 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 3 (-4)|10 (+0)| 8 (-1)| 1 (-5)| 6 (-2)| 3 (-4)|
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|3 (-4)|10 (+0)|8 (-1)|1 (-5)|6 (-2)|3 (-4)|
 >___
 > - **Senses** blindsight 30 ft., passive Perception 8
 > - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
+> - **Challenge** 0 (10 XP)
 > ___
 > ***Illumination.*** The moth sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-An **ashwing moth** is a nocturnal creature, best known for its vibrant light. Assassins prize them for it, using it as a decoy or distraction, as well as a subtle light in dark places. An ashwing moth in captivity sheds light for up to 1d8 days.
+An **ashwing moth** is a nocturnal creature, best known for its vibrant light. Assassins prize them for it, using it as a decoy or distraction, as well as a subtle light in dark places. 
+
+The moth cannot survive for long in captivity, however. Those who wish to make regular use of its abilities must either carefully recreate its natural habitat -- as is often done by the Jinyu of Pandaria -- or only seek them out where they already are.
+
+An ashwing moth kept in captivity sheds light for 1d8 days, after which the light fades as it goes dormant.
 
 \columnbreak
-___
-> ## Axebeak <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;21;4;10;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Small beast, unaligned*
-> ___
-> - **Armor Class** 11
-> - **Hit Points** 21 (6d6)
-> - **Speed** 10 ft., fly 50 ft.
->___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |14 (+2)|13 (+1)|10 (+0)| 3 (-4)|10 (+0)|6 (-2)|
->___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/4 (50 XP)
-> ___
->
-> ### Actions
-> ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
-
-**Axebeaks** are jungle birds with multicolored chest plumage. They are named after their brightly colored bills, which are razor sharp and help them crack open thick tropical fruit and chop open the corpses they scavenge.
 
 ___
-> ## Baboon <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;3;1;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
-> *Small beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 3 (1d6)
-> - **Speed** 30 ft., climb 30 ft.
->___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 8 (-1)|14 (+2)|11 (+0)| 4 (-3)|12 (+1)| 6 (-2)|
->___
-> - **Senses** passive Perception 11
-> - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
-> ___
-> ***Pack Tactics.*** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 - 1) piercing damage.
-
-
-<img src="https://www.gmbinder.com/images/BrDcy46.png" class="inkblot inkblot-green" style="bottom:-397px; right:-200px; width:680px; transform: rotate(-4deg) scaleX(-1);">
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
-___
-> ## Badger <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;3;2;13;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
-> ___
-> - **Armor Class** 10
-> - **Hit Points** 3 (1d4 + 1)
-> - **Speed** 20 ft., burrow 5 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 4 (-1)|11 (+0)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
-> ___
-> - **Senses** darkvision 30 ft., passive Perception 11
-> - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
-> ___
-> ***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
-
-___
-> ## Bat <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;1;0;13;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
+> ## Bat
+>*Tiny beast, unaligned*
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 1 (1d4 - 1)
-> - **Speed** 5 ft., fly 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 2 (-4)|15 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 4 (-3)|
-> ___
-> - **Senses** blindsight 60 ft., passive Perception 11
+> - **Speed** 5 ft., fly 30ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|2 (-4)|15 (+2)|8 (-1)|2 (-4)|12 (+1)|4 (-3)|
+>___
+> - **Senses** blindsight 60ft., passive Perception 11
 > - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
+> - **Challenge** 0 (10 XP)
 > ___
 > ***Echolocation.*** The bat can't use its blindsight while deafened.
 >
@@ -8541,19 +8488,18 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage.
 
-\columnbreak
 ___
-> ## Black Bear <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;19;3;13;12;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Black Bear
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 11 (natural armor)
 > - **Hit Points** 19 (3d8 + 6)
 > - **Speed** 40 ft., climb 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|10 (+0)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|10 (+0)|14 (+2)|2 (-4)|12 (+1)|8 (-2)|
+>___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
 > - **Languages** —
@@ -8568,18 +8514,23 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
 
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+
+\pagebreakNum
+
 ___
-> ## Boar <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;3;11;4;3;4;0;4;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Boar
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 11 (natural armor)
-> - **Hit Points** 27 (5d8 + 5)
+> - **Hit Points** 11 (2d8 + 2)
 > - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |13 (+1)|11 (+0)|12 (+1)| 2 (-4)| 9 (-1)| 5 (-3)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|11 (+0)|12 (+1)|2 (-4)|9 (-1)|5 (-3)|
+>___
 > - **Senses** passive Perception 9
 > - **Languages** —
 > - **Challenge** 1/4 (50 XP)
@@ -8591,26 +8542,18 @@ ___
 > ### Actions
 > ***Tusk.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
 
-
-<img src="https://www.gmbinder.com/images/wJZvXi2.png" class="inkblot inkblot-green" style="bottom: -287px;left: -240px;width: 680px;transform: rotate(264deg);">
-<img src="https://www.gmbinder.com/images/VEAtHNK.png" style="position:absolute; bottom:-80px; left:-180px; width:730px; transform:scaleX(-1)">
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 ___
-> ## Brown Bear <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;34;4;11;15;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Brown Bear
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 11 (natural armor)
 > - **Hit Points** 34 (4d10 + 12)
 > - **Speed** 40 ft., climb 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|19 (+4)|10 (+0)|16 (+3)|2 (-4)|13 (+1)|7 (-2)|
+>___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
 > - **Languages** —
@@ -8621,44 +8564,26 @@ ___
 > ### Actions
 > ***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage.
 >
-> ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.
+> ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
 
-___
-> ## Camel <!-- https://wc5e-cr-calculator.frogvall.com/?0;9;15;5;11;2;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; NOTE: Does not apply Str to damage for some reason. -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 9
-> - **Hit Points** 15 (2d10 + 4)
-> - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |16 (+3)| 8 (-1)|14 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
-> ___
-> - **Senses** passive Perception 9
-> - **Languages** —
-> - **Challenge** 1/8 (25 XP)
-> ___
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
 
 \columnbreak
+
 ___
-> ## Carrion Bird <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;11;4;11;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Carrion Bird
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 11 (2d8 + 2)
+> - **Hit Points** 9 (2d6 + 2)
 > - **Speed** 10 ft., fly 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |10 (+0)|15 (+2)|13 (+1)| 2 (-4)|14 (+2)| 4 (-3)|
-> ___
-> - **Skills** Perception +4
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|15 (+2)|13 (+1)|2 (-4)|14 (+2)|4 (-3)|
+>___
+> - **Skills** perception +4
 > - **Senses** passive Perception 14
 > - **Languages** —
 > - **Challenge** 1/4 (50 XP)
@@ -8668,225 +8593,65 @@ ___
 > ***Pack Tactics.*** The carrion bird has advantage on an attack roll against a creature if at least one of the bird's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 > ### Actions
-> ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
+>
+> ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage
 
 A **carrion bird** is a large, carnivorous scavenger bird found across Azeroth. Their wings are broad and their heads often featherless. They stalk their prey from the skies, lurk&shy;ing from a distance, as they wait for it to fall -- whether from exhaustion, or from another hunter.
 
-___
-> ## Cat <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;2;0;11;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 2 (1d4)
-> - **Speed** 40 ft., climb 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 3 (-4)|15 (+2)|10 (+0)| 3 (-4)|12 (+1)| 7 (-2)|
-> ___
-> - **Skills** Perception +3, Stealth +4
-> - **Senses** passive Perception 13
-> - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
-> ___
-> ***Keen Smell.*** The cat has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ### Actions
-> ***Claws.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
-
-<img src="https://www.gmbinder.com/images/BrDcy46.png" class="inkblot inkblot-green" style="bottom:-347px; left:-200px; width:680px; transform: rotate(-4deg);">
-<img src='https://www.gmbinder.com/images/vw9EyU5.png' style='position:absolute; left:-20px; bottom:-130px; transform:scaleX(-1)' />
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+<img src="https://i.imgur.com/QIZvRDl.jpg" style="position: absolute;bottom: -39px;right: -98px;width: 900px;">
+
+<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute; top:-50px; right:0px; width:800px;" />
+
+<img src="https://www.gmbinder.com/images/wJZvXi2.png" class="inkblot inkblot-green" style="top: -327px;right: -240px;width: 680px;transform: rotate(84deg);">
+
+
 \pagebreakNum
+
+
 ___
-> ## Cheetah <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;6;5;6;0;6;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Coyote
+>*Small beast, unaligned*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 27 (5d8 + 5)
-> - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |14 (+2)|15 (+2)|12 (+1)| 2 (-4)| 8 (-1)| 6 (-2)|
-> ___
-> - **Skills** Perception +1, Stealth +6
-> - **Senses** passive Perception 11
-> - **Languages** —
-> - **Challenge** 1/2 (100 XP)
-> ___
-> ***Agile.*** Opportunity attacks against the cheetah are made at disadvantage.
->
-> ***Keen Smell.*** The cheetah has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ***Pounce.*** If the cheetah moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the cheetah can make one bite attack against it as a bonus action.
->
-> ***Sprinter.*** The cheetah can take the Dash action as a bonus action. When the cheetah uses the Dash action, it's speed is tripled instead of doubled.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
->
-> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
-
-\columnbreak
-
-___
-> ## Clefthoof <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;104;7;15;25;21;32;0;25;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Huge beast, unaligned*
-> ___
-> - **Armor Class** 14 (natural armor)
-> - **Hit Points** 104 (11d12 + 33)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |21 (+5)| 8 (-1)|17 (+3)| 4 (-3)|11 (+0)| 6 (-2)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 4 (1,100 XP)
-> ___
-> ***Trampling Charge.*** If the clefthoof moves at least 20 feet straight towards a Large or smaller creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the clefthoof can make one stomp attack against it as a bonus action.
->
-> ### Actions
-> ***Gore.*** *Melee Attack Weapon:* +7 to hit, reach 5 ft., one target. *Hit:* 18 (3d8 + 5) piercing damage, and the target must succeed a DC 15 Dexterity saving throw or be thrown 20 ft. into the air. On a failed save the target falls in a free space within 10 ft. from the clefthoof and suffer 7 (2d6) bludgeoning damage from the fall.
->
-> ***Stomp.*** *Melee Attack Weapon:* +7 to hit, reach 5 ft., one prone creature. *Hit:* 21 (3d10 + 5) bludgeoning damage.
->
-> ***Tremor (Recharge 6).*** The clefthoof stomps with extreme force, causing the ground within 10 ft. from it to become difficult terrain. Each creature in the area must make a DC 15 Dexterity saving throw or take 16 (2d10 + 5) bludgeoning damage and fall prone. A successful save results in half damage and no other effect.
-
-<img src='https://www.gmbinder.com/images/bJD3EKj.jpg' style='position:absolute; left:-0px; bottom:-320px; width:900px; transform:rotate(-15deg)' />
-<img src='https://www.gmbinder.com/images/hIpYyKx.png' style='position:absolute; left:0px; top:-40px; height:100%' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-___
-> ## Cobra <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;30;5;12;14;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 13
-> - **Hit Points** 30 (4d10 + 8)
-> - **Speed** 30 ft., swim 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |11 (+0)|16 (+3)|15 (+2)| 2 (-4)|10 (+0)| 5 (-3)|
-> ___
-> - **Skills** Perception +2, Stealth +5
-> - **Senses** blindsight 10 ft., passive Perception 12
-> - **Languages** —
-> - **Challenge** 1 (200 XP)
-> ___
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 12 Consitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much on successful one.
->
-> ***Spit.*** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one target. *Hit:* The target must make a DC 12 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much on a successful one.
->
-> ***Spray.*** The cobra spits venom in a 15 foot line that is 5 feet wide. Each creature in that line must make a DC 12 Constitution saving throw taking 7 (2d6) acid damage on a failed save, or half as much on a successful one. Targets that fails this save are also considered blinded until the end of their next turn.
-
-A **cobra** is not a mere venomous snake, but an immense serpent with a wide hood or rays capable of spitting deadly venomous acid at their foes. They are typically found deep in the jungle where they can hide in the undergrowth and ambush prey.
-
-\columnbreak
-
-___
-> ## Constrictor Snake <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;13;4;14;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 13 (2d10 + 2)
-> - **Speed** 30 ft., swim 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
-> ___
-> - **Senses** blindsight 10 ft., passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/4 (50 XP)
-> ___
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
->
-> ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
-
-___
-> ## Cougar <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;49;5;14;10;8;10;0;10;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 13
-> - **Hit Points** 49 (9d8 + 9)
-> - **Speed** 50 ft., climb 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |12 (+1)|16 (+3)|12 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
-> ___
-> - **Skills** Perception +3, Stealth +5
-> - **Senses** passive Perception 13
-> - **Languages** —
-> - **Challenge** 1 (200 XP)
-> ___
-> ***Keen Smell.*** The cougar has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ***Pounce.*** If the cougar moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the cougar can make one bite attack against it as a bonus action.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage.
->
-> ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) slashing damage.
-
-<img src="https://www.gmbinder.com/images/Sjc9IFl.png" class="inkblot inkblot-green" style="bottom:-220px; left:-165px; width:680px;">
-<img src='https://www.gmbinder.com/images/WAhSyr2.png' style='position:absolute; left:-30px; bottom:0px; height:400px; transform:scaleX(-1)' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
-___
-> ## Coyote <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;9;3;14;3;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
-> *Small beast, unaligned*
-> ___
-> - **Armor Class** 11
 > - **Hit Points** 9 (2d6 + 2)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |11 (+0)|13 (+1)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|11 (+0)|14 (+2)|12 (+1)|3 (-4)|12 (+1)|6 (-2)|
+>___
 > - **Skills** Perception +3, Stealth +4
 > - **Senses** passive Perception 13
 > - **Languages** —
 > - **Challenge** 1/8 (25 XP)
 > ___
+>
 > ***Keen Hearing and Smell.*** The coyote has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
-> ***Pack Tactics.*** The coyote advantage on an attack roll against a creature if at least one of the coyote's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+> ***Pack Tactics.*** The coyote advantage on an Attack roll against a creature if at least one of the coyotes allies is within 5 ft. of the creature and the ally isn't Incapacitated.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* +4 (1d4 + 2) piercing damage.
 
 ___
-> ## Crab <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;2;0;14;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
+> ## Crab
+>*Tiny beast, unaligned*
 > ___
 > - **Armor Class** 11 (natural armor)
 > - **Hit Points** 2 (1d4)
 > - **Speed** 20 ft., swim 20 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 2 (-4)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|2 (-4)|11 (+0)|10 (+0)|1 (-5)|8 (-1)|2 (-4)|
+>___
 > - **Skills** Stealth +2
 > - **Senses** blindsight 30 ft., passive Perception 9
 > - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
+> - **Challenge** 0 (10 XP)
 > ___
 >
 > ***Amphibious.*** The crab can breathe air and water.
@@ -8894,41 +8659,21 @@ ___
 > ### Actions
 > ***Claw.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage.
 
+
 \columnbreak
-___
-> ## Crane <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;27;4;10;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 27 (6d8)
-> - **Speed** 20 ft., fly 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 7 (-2)|15 (+2)|11 (+0)| 2 (-4)|10 (+0)| 6 (-2)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/4 (50 XP)
-> ___
->
-> ### Actions
-> ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
->
-> ***Sing.*** The crane starts to sing. Each creature within 20 ft. who can hear the crane and has 20 hit points or less fall unconscious for 1 minute. They awaken if they take any damage or if another creature takes an action to rouse them.
 
 ___
-> ## Crocolisk <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;45;4;12;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Crocolisk
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 12 (natural armor)
-> - **Hit Points** 45 (6d10 + 6)
+> - **Hit Points** 19 (3d10 + 3)
 > - **Speed** 20 ft., swim 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|10 (+0)|13 (+1)|2 (-4)|10 (+0)|5 (-3)|
+>___
 > - **Skills** Stealth +2
 > - **Senses** passive Perception 10
 > - **Languages** —
@@ -8937,33 +8682,32 @@ ___
 > ***Hold Breath.*** The crocolisk can hold its breath for 15 minutes.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocolisk can't bite another target.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* +7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
 
+A **crocolisk** is a massive, six-legged reptilian predator. It is an amphibious creature that can be found along most warm, humid shorelines across Azeroth -- or dwelling in its murky swamps, rivers, and marshes. 
 
-<img src='https://www.gmbinder.com/images/YpvK7Ef.png' class='inkblot inkblot-green' style='top:590px; right:100px; width:700px; transform:rotate(230deg)'>
-<img src='https://www.gmbinder.com/images/NwmNxuW.png' style='position:absolute; left:70px; bottom:-260px; width:650px; transform:scaleX(-1) rotate(3deg)' />
+Hunters prize the meat and thick, durable hide of the crocolisk. Some speculate the beast may be related to thediemetradon, as they share a number of characteristics. 
+
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+<img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 531px;left: 20px;width: 770px;transform: rotate(39deg);">
+<img src="https://i.imgur.com/xgTWyy8.png" style="position:absolute;top: 640px;right: -18px;width: 760px;">
+
 \pagebreakNum
 
-> ##### Variant: Frost Wolf
-> Frost wolves are an arctic version of wolves native to Draenor. A number of them followed the orcish Frostwolf clan during the invasions of Azeroth, to whom they have a special bond. It has the same statistics as a dire wolf, except that it gains resistance to cold damage and gains the following trait:
->
-> ***Snow Camouflage.*** The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
-
 ___
-> ## Darkhound <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;49;4;12;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, neutral*
+> ## Darkhound
+>*Medium fiend, chaotic evil*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 49 (9d8 + 9)
+> - **Hit Points** 11 (2d8 + 2)
 > - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |14 (+2)|14 (+2)|12 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|14 (+2)|12 (+1)|3 (-4)|12 (+1)|7 (-2)|
+>___
 > - **Skills** Perception +3
 > - **Senses** darkvision 30 ft., passive Perception 13
 > - **Languages** —
@@ -8976,46 +8720,49 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, plus 2 (1d4) poison damage.
 
-A **darkhound** is a cursed doglike creature found stalking the forests of the world, either by themselves or in small packs. Most consider them to be little more than a nuisance to be rid of, though the dark iron dwarves have found good use in them as patrol animals.
+A **darkhound** is a demonic dog found stalking the forests of the world, either by themselves or in small packs. Despite their dark origin, they are a fairly common presence where they dwell. To farmsteads and small communities, having a pack of darkhounds nearby is a trouble best dealt with quickly -- though the dark iron dwarves have found good use in them as patrol animals.
+
 
 \columnbreak
+
 ___
-> ## Deer <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;4;2;12;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Deer
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 13
 > - **Hit Points** 4 (1d8)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |11 (+0)|16 (+3)|11 (+0)| 2 (-4)|14 (+2)| 5 (-3)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|11 (+0)|16 (+3)|11 (+0)|2 (-4)|14 (+2)|5 (-3)|
+>___
 > - **Senses** passive Perception 12
 > - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
+> - **Challenge** 0 (10 XP)
 > ___
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+>
+> ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage.
 
 ___
-> ## Dire Wolf <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;37;5;12;10;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
+> ## Dire Wolf
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 14 (natural armor)
 > - **Hit Points** 37 (5d10 + 10)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |17 (+3)|15 (+2)|15 (+2)| 4 (-3)|12 (+1)| 8 (-1)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|15 (+2)|15 (+2)|3 (-4)|12 (+1)|7 (-2)|
+>___
 > - **Skills** Perception +3, Stealth +4
 > - **Senses** passive Perception 13
 > - **Languages** —
 > - **Challenge** 1 (200 XP)
-> ___
+>___
 > ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
 > ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -9024,134 +8771,52 @@ ___
 >
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-<img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 646px;left: -105px;width:700px;transform: rotate(70deg) ;">
-<img src='https://www.gmbinder.com/images/nw76d2C.png' style='position:absolute; top:850px; left:-20px; width:400px; transform:scaleX(-1)' />
+A **dire wolf** has much in common with its smaller, more common counterpart; the two look alike, but dire wolves are nearly twice the size. Their massive jaws look like they could snap iron bars, and orcs have long favoured them over other mounts for their cunning and strength.
+
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+<img src="https://i.imgur.com/BsqNNL3.png" style="position:absolute;bottom: -25px;left: -45px;width: 450px;">
+
 \pagebreakNum
 
-___
-> ## Draft Horse <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;13;5;12;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 12 (natural armor)
-> - **Hit Points** 13 (2d10 + 2)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |17 (+3)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/4 (50 XP)
-> ___
->
-> ### Actions
-> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (2d4) bludgeoning damage.
-
-<div style='margin-top:-7px;'></div>
 
 ___
-> ## Dragon Turtle <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;57;5;12;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 57 (6d10 + 24)
-> - **Speed** 30 ft., swim 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |17 (+3)| 8 (-1)|18 (+4)| 4 (-3)|13 (+1)| 6 (-2)|
-> ___
-> - **Senses** passive Perception 11
-> - **Languages** —
-> - **Challenge** 2 (450 XP)
-> ___
->
-> ***Amphibious.*** The dragon turtle can breathe air and water.
->
-> ***Slow and Steady.*** The dragon turtle's speed is not reduced from pushing, dragging, or lifting more than its carrying capacity.
->
-> ***Stable.*** Whenever an effect knocks the turtle prone, it can make a DC 10 Constitution saving throw to avoid being knocked prone. A prone turtle is upside down. To stand up, it must succeed on a DC 10 Dexterity check on its turn and then use all its movement for that turn.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
->
-> ***Shell Defense.*** The turtle withdraws itself into its shell. Until it emerges it gain +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, it is prone, its speed is 0 and can't increase, it has disadvantage on Dexerity saving throws, it can't take reactions, and the only action it can take is a bonus action to emerge from its shell.
-
-\columnbreak
-___
-> ## Eagle <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;3;4;12;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Small beast, unaligned*
+> ## Eagle
+>*Small beast, unaligned*
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 3 (1d6)
 > - **Speed** 10 ft., fly 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 6 (-2)|15 (+2)|10 (+0)| 2 (-4)|14 (+2)| 7 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|15 (+2)|10 (+0)|2 (-4)|14 (+2)|7 (-2)|
+>___
 > - **Skills** perception +4
 > - **Senses** passive Perception 14
 > - **Languages** —
-> - **Challenge** 1/8 (25 XP)
+> - **Challenge** 0 (10 XP)
 > ___
 > ***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 >
 > ### Actions
+>
 > ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
 
-Wild **dragon turtles** are vicious, with sharp jaws and a nasty temper. When domesticated however, they make ideal rides for the pandaren, able to carry heavy loads (a necessity for any pandaren mount) with an even gait that can lull them into any easy sleep.
-
-<img src='https://www.gmbinder.com/images/RoJPOnV.jpg' style='position:absolute; right:-50px; bottom:-10px; width:550px' />
-<img src='https://www.gmbinder.com/images/zeK0PZ5.png' style='position:absolute; top:0px; left:-60px; height:100%' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 ___
-> ## Elekk <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;85;5;13;12;16;12;0;12;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Fox
+>*Small beast, unaligned*
 > ___
-> - **Armor Class** 14 (natural armor)
-> - **Hit Points** 85 (10d10 + 30)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |17 (+3)|11 (+0)|16 (+3)| 3 (-4)|12 (+1)| 6 (-2)|
-> ___
-> - **Senses** passive Perception 11
-> - **Languages** —
-> - **Challenge** 2 (450 XP)
-> ___
-> ***Trampling Charge.*** If the elekk moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the elekk can make one stomp attack against it as a bonus action.
->
-> ### Actions
-> ***Gore.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage.
->
-> ***Stomp.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one prone creature. *Hit:* 16 (3d8 + 3) bludgeoning damage.
-
-The great **elekks** are among the oldest living species on Draenor. These trunked creatures move in herds and while generally peaceful as long as their young and water supply are unthreatened, can use their four tusks to deadly effect. The draenei have been known to use them as beasts of burden, using Light-infused crystals to render them more docile.
-
-\columnbreak
-___
-> ## Fox <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;4;0;13;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;1;;;;;;10;;;;;;;;;;; -->
-> *Small beast, unaligned*
-> ___
-> - **Armor Class** 10
-> - **Hit Points** 4 (1d6 + 2)
+> - **Armor Class** 12
+> - **Hit Points** 9 (2d6 + 2)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |10 (+0)|11 (+0)|12 (+1)| 3 (-4)|13 (+1)| 6 (-2)|
-> ___
-> - **Skills** Perception +3, Stealth +4
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|15 (+2)|12 (+1)|3 (-4)|13 (+1)|6 (-2)|
+>___
+> - **Skills** Perception +3, Stealth  +4
 > - **Senses** passive Perception 13
 > - **Languages** —
 > - **Challenge** 1/8 (25 XP)
@@ -9162,20 +8827,22 @@ ___
 > ***Nimble Escape.*** The fox can take the Disengage or Hide action as a bonus action on each of its turns.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 4 (1d4) piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+
+\columnbreak
 
 ___
-> ## Forest Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;7;4;10;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Small beast, unaligned*
+> ## Forest Spider
+>*Small beast, unaligned*
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 7 (2d6)
 > - **Speed** 20 ft., climb 20 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 8 (-1)|14 (+2)|10 (+0)| 2 (-4)|10 (+0)| 4 (-3)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|14 (+2)|10 (+0)|2 (-4)|10 (+0)|4 (-3)|
+>___
 > - **Skills** Stealth +4
 > - **Senses** darkvision 30 ft., passive Perception 10
 > - **Languages** —
@@ -9188,35 +8855,34 @@ ___
 > ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 2 (1d4) poison damage.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 2 (1d4) poison damage.
+
 
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-<img src='https://www.gmbinder.com/images/kTUe3wi.jpg' style='position:absolute; left:-70px; bottom:-15px; height:40%' />
-<img src='https://www.gmbinder.com/images/qKrtKxo.png' style='position:absolute; left:-140px; bottom:-245px; transform:scaleX(-1) scaleY(-1); height:130%' />
+<img src="https://i.imgur.com/zxp4HSp.png" class="inkblot inkblot-green" style="top: 361px;left: 20px;width: 820px;transform: rotate(39deg);">
+<img src="https://i.imgur.com/DpcTgA2.png" style="position:absolute;bottom: 60px;right: 42px;width: 850px;">
 
-<!-- 
-<img src='https://www.gmbinder.com/images/wJZvXi2.png' class='inkblot inkblot-green' style='top:850px; right:100px; width:700px; transform:rotate(-40deg)'>
-<img src='https://www.gmbinder.com/images/5b3OUol.png' style='position:absolute; top:820px; right:370px; width:500px' /> -->
 
 \pagebreakNum
 
+
 ___
-> ## Frenzyfish <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;1;0;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;1;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
+> ## Frenzyfish
+>*Tiny beast, unaligned*
 > ___
 > - **Armor Class** 13
 > - **Hit Points** 1 (1d4 - 1)
 > - **Speed** swim 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 2 (-4)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
-> ___
-> - **Senses** darkvision 60 ft., passive Perception 8
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|2 (-4)|16 (+3)|9 (-1)|1 (-5)|7 (-2)|2 (-4)|
+>___
+> - **Senses** darkvision 60 ft.
 > - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
+> - **Challenge** 0 (10 XP)
 > ___
 >
 > ***Blood Frenzy.*** The frenzyfish has advantage on melee attacks against any creature that doesn't have all its hit points.
@@ -9224,103 +8890,28 @@ ___
 > ***Water Breathing.*** The frenzyfish can breathe only underwater.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-___
-> ## Frog <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;1;0;10;0;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
-> ___
-> - **Armor Class** 11 (natural armor)
-> - **Hit Points** 1 (1d4 - 1)
-> - **Speed** 20 ft., swim 20 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 1 (-5)|13 (+1)| 8 (-1)| 1 (-5)| 8 (-1)| 3 (-4)|
-> ___
-> - **Skills** Perception +1, Stealth +3
-> - **Senses** passive Perception 11
-> - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
-> ___
-> ***Amphibious.*** The frog can breathe air and water.
->
-> ***Standing Leap.*** The frog's long jump is up to 10 feet and its hight jump is up to 5 feet, with or without a running start.
+The **frenzyfish** are large, swarm-hunting predatory fish that can be far and wide across Azeroth, with different types well-adapted to different climates. Some prefer the warmer climates of southern Kalimdor and Eastern Kingdoms, while others thrive even in the frozen waters of Northrend.
+
 
 \columnbreak
-___
-> ## Giant Ape <!-- https://wc5e-cr-calculator.frogvall.com/?1;12;162;9;10;44;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Huge beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 162 (16d12 + 64)
-> - **Speed** 40 ft., climb 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |23 (+6)|14 (+2)|18 (+4)| 7 (-2)|12 (+1)| 7 (-2)|
-> ___
-> - **Skills** Athletics +9, Perception +4
-> - **Senses** passive Perception 14
-> - **Languages** —
-> - **Challenge** 7 (2,900 XP)
-> ___
->
-> ### Actions
-> ***Multiattack.*** The ape makes two fist attacks.
->
-> ***Fist.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 22 (3d10 + 6) bludgeoning damage.
->
-> ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (7d6 + 6) bludgeoning damage.
 
 ___
-> ## Giant Badger <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;13;3;10;10;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 10
-> - **Hit Points** 13 (2d8 + 4)
-> - **Speed** 30 ft., burrow 10 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |13 (+1)|10 (+0)|15 (+2)| 2 (-4)|12 (+1)| 5 (-3)|
-> ___
-> - **Senses** darkvision 30 ft., passive Perception 11
-> - **Languages** —
-> - **Challenge** 1/2 (100 XP)
-> ___
-> ***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ### Actions
-> ***Multiattack.*** The badger makes two attacks: one with its bite and one with its claws.
->
-> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
->
-> ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 1) slashing damage.
-
-<img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 611px;left: -105px;width:740px;transform: rotate(253deg) ;">
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
-<div style='margin-top:380px;'></div>
-
-___
-> ## Giant Bat <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;55;4;10;18;0;0;0;0;0;0;0;0;0;0;0;;;1;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Giant Bat
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 13
-> - **Hit Points** 55 (10d10)
+> - **Hit Points** 22 (4d10)
 > - **Speed** 10 ft., fly 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|16 (+3)|11 (+0)| 3 (-4)|12 (+1)| 6 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|16 (+3)|11 (+0)|2 (-4)|12 (+1)|6 (-2)|
+>___
 > - **Senses** blindsight 60ft., passive Perception 11
 > - **Languages** —
-> - **Challenge** 2 (450 XP)
+> - **Challenge** 1/4 (50 XP)
 > ___
 >
 > ***Echolocation.*** The bat can't use its blindsight while deafened.
@@ -9328,84 +8919,20 @@ ___
 > ***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 >
 > ### Actions
-> ***Multiattack.*** The bat makes two bite attacks.
->
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8 + 2) piercing damage.
->
-> ***Screech.*** The bat lets out a sonic blast in a 15-foot line that is 5 feet wide. Each creature in that area must make a DC 10 Constitution save or take 9 (2d8) thunder damage, or half as much on a successful save.
-
-The Forsaken make good use of **giant bats** as aerial mounts, using them as scouts and as platforms to drop vials of plague upon their enemies. In the wild, they are most often seen in the Plaguelands, drawn to the carrion stench of the region.
-
-\columnbreak
-___
-> ## Giant Bear <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;162;10;18;33;16;33;0;33;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Huge beast, unaligned*
-> ___
-> - **Armor Class** 16 (natural armor)
-> - **Hit Points** 162 (13d12 + 78)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |25 (+7)|10 (+0)|22 (+6)| 5 (-3)|15 (+2)| 8 (-1)|
-> ___
-> - **Skills** darkvision 30 ft., Perception +5
-> - **Senses** passive Perception 15
-> - **Languages** —
-> - **Challenge** 7 (2,900 XP)
-> ___
->
-> ***Charge.*** If the bear moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the bear can make one bite attack against it as a bonus action.
->
-> ***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ### Actions
-> ***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.
->
-> ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16 (2d8 + 7) piercing damage.
->
-> ***Claws.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 17 (3d6 + 7) slashing damage.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage.
 
 ___
-> ## Giant Beetle <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;4;3;10;3;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Small beast, unaligned*
-> ___
-> - **Armor Class** 13 (natural armor)
-> - **Hit Points** 4 (1d6 + 1)
-> - **Speed** 30 ft., climb 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |13 (+1)|10 (+0)|12 (+1)| 1 (-5)| 6 (-2)| 4 (-3)|
-> ___
-> - **Senses** passive Perception 8
-> - **Languages** —
-> - **Challenge** 1/8 (25 XP)
-> ___
-> **Glide.** For every 5 feet it falls downward, the giant beetle can expend 5 feet of movement to fly 10 feet forward. While it can move, the giant beetle is immune to damage from falling.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
-
-<img src='https://www.gmbinder.com/images/a81VyUK.png' class='inkblot inkblot-green' style='position:absolute; left:-190px; top:-300px; width:600px' />
-<img src='https://www.gmbinder.com/images/HYmNyjb.png' style='position:absolute; left:-190px; top:40px; width:600px; transform:scaleX(-1)' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
-___
-> ## Giant Boar <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;86;5;13;10;7;10;0;10;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Giant Boar
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 12 (natural armor)
-> - **Hit Points** 85 (10d10 + 30)
+> - **Hit Points** 42 (5d10 + 15)
 > - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |17 (+3)|10 (+0)|16 (+3)| 2 (-4)| 7 (-2)| 5 (-3)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|10 (+0)|16 (+3)|2 (-4)|7 (-2)|5 (-3)|
+>___
 > - **Senses** passive Perception 8
 > - **Languages** —
 > - **Challenge** 2 (450 XP)
@@ -9418,50 +8945,31 @@ ___
 > ### Actions
 > ***Tusk.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
-<div style='margin-top:-8px;'></div>
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/R7wbd4k.png" class="inkblot inkblot-green" style="top: 411px;left: 80px;width: 650px;transform: rotate(100deg);">
+<img src="https://i.imgur.com/QUUIyc6.png" style="position:absolute;bottom: 48px;left: 20px;width: 520px;">
+
+
+\pagebreakNum
 
 ___
-> ## Giant Constrictor Snake <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;87;6;16;24;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Huge beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 90 (12d12 + 12)
-> - **Speed** 30 ft., swim 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |19 (+4)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
-> ___
-> - **Skills** Perception +2
-> - **Senses** blindsight 10 ft., passive Perception 12
-> - **Languages** —
-> - **Challenge** 3 (700 XP)
-> ___
->
-> ### Actions
-> ***Multiattack.*** The snake makes one bite attack and one constrict attack.
-> 
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage.
->
-> ***Constrict.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
-
-\columnbreak
-___
-> ## Giant Crab <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;13;3;11;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Giant Crab
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 15 (natural armor)
 > - **Hit Points** 13 (3d8)
 > - **Speed** 30 ft., swim 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |13 (+1)|15 (+2)|11 (+0)| 1 (-5)| 9 (-1)| 3 (-4)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|15 (+2)|11 (+0)|1 (-5)|9 (-1)|3 (-4)|
+>___
 > - **Skills** Stealth +4
 > - **Senses** blindsight 30 ft., passive Perception 9
 > - **Languages** —
-> - **Challenge** 1/4 (50 XP)
+> - **Challenge** 1/8 (25 XP)
 > ___
 >
 > ***Amphibious.*** The crab can breathe air and water.
@@ -9470,49 +8978,20 @@ ___
 > ***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crap has two claws, each of which can grapple only one target.
 
 ___
-> ## Giant Crocolisk <!-- https://wc5e-cr-calculator.frogvall.com/?1;14;123;8;16;35;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Huge beast, unaligned*
-> ___
-> - **Armor Class** 14 (natural armor)
-> - **Hit Points** 123 (13d12 + 39)
-> - **Speed** 30 ft., swim 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |21 (+5)| 9 (-1)|17 (+3)| 2 (-4)|10 (+0)| 7 (-2)|
-> ___
-> - **Skills** Stealth +5
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 5 (1,800 XP)
-> ___
-> ***Hold Breath.*** The crocolisk can hold its breath for 30 minutes.
->
-> ### Actions
-> ***Multiattack.*** The crocolisk makes two attacks: one with its bite and one with its tail.
->
-> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocolisk can't bite another target.
->
-> ***Tail.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target not grappled by the crocolisk. *Hit:* 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-___
-> ## Giant Eagle <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;26;5;10;14;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
+> ## Giant Eagle
 >*Large beast, unaligned*
 > ___
 > - **Armor Class** 13
 > - **Hit Points** 26 (4d10 + 4)
 > - **Speed** 10 ft., fly 80 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |16 (+3)|17 (+3)|13 (+1)| 3 (-4)|14 (+2)|10 (+0)|
-> ___
-> - **Skills** Perception +4
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|17 (+3)|13 (+1)|8 (-1)|14 (+2)|10 (+0)|
+>___
+> - **Skills** perception +4
 > - **Senses** passive Perception 14
-> - **Languages** —
+> - **Languages** understands at least one language but cannot speak
 > - **Challenge** 1 (200 XP)
 > ___
 >
@@ -9523,99 +9002,23 @@ ___
 >
 > ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
 >
-> ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) slashing damage.
+> ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
-___
-> ## Giant Firefly <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;9;4;10;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 9 (2d8)
-> - **Speed** 5 ft., fly 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 7 (-2)|14 (+2)|10 (+0)| 2 (-4)|10 (+0)| 7 (-2)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/4 (50 XP)
-> ___
-> ***Illumination.*** The giant firefly sheds bright dim in a 10-foot radius.
->
-> ***Lambent Blood.*** Any creature that successful hit the giant firefly with a melee attack must make a DC 12 Dexterity saving throw. The creatures that fail the save become unable to use stealth or invisibility for 1d4 hours.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
 \columnbreak
-___
-> ## Giant Frog <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;18;3;11;4;0;4;10;4;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 11
-> - **Hit Points** 18 (4d8)
-> - **Speed** 30 ft., swim 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |12 (+1)|13 (+1)|11 (+0)| 2 (-4)|10 (+0)| 3 (-4)|
-> ___
-> - **Skills** Perception +2, Stealth +3
-> - **Senses** passive Perception 12
-> - **Languages** —
-> - **Challenge** 1/4 (50 XP)
-> ___
-> ***Amphibious.*** The frog can breathe air and water.
->
-> ***Standing Leap.*** The frog's long jump is up to 20 feet and its hight jump is up to 10 feet, with or without a running start.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.
->
-> ***Swallow.*** The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement exiting prone.
-
-<img src='https://www.gmbinder.com/images/AK8n7vX.jpg' style='position:absolute; right:-300px; bottom:-120px; width:800px; transform:scaleX(-1)' />
-<img src='https://www.gmbinder.com/images/mdYK4RX.png' style='position:absolute; right:-60px; bottom:-40px; height:180%' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-___
-> ## Giant Goat <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;45;5;13;6;5;6;0;6;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 11 (natural armor)
-> - **Hit Points** 45 (7d10 + 7)
-> - **Speed** 40 ft., climb 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |17 (+3)|11 (+0)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
-> ___
-> - **Senses** passive Perception 11
-> - **Languages** —
-> - **Challenge** 1/2 (100 XP)
-> ___
-> ***Charge.*** If the goat moves at least 20 feet straight toward a target and the hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
->
-> ***Sure-Footed.*** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
->
-> ### Actions
-> ***Ram.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage.
 
 ___
-> ## Giant Moth <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Giant Moth
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 22 (4d8 + 4)
+> - **Hit Points** 16 (3d8 + 3)
 > - **Speed** 10 ft., fly 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 9 (-1)|14 (+2)|12 (+1)| 3 (-4)|10 (+0)| 4 (-3)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|9 (-1)|14 (+2)|12 (+1)|3 (-4)|10 (+0)|4 (-3)|
+>___
 > - **Senses** blindsight 30 ft., passive Perception 10
 > - **Languages** —
 > - **Challenge** 1/2 (100 XP)
@@ -9627,22 +9030,21 @@ ___
 >
 > ***Pulverulent Wings (1/day).*** A cloud of thick powder disperses out from the moth in a 15-foot radius. Each creature in that area must make a DC 12 Constitution saving throw, or be blinded until the end of the moth's next turn on a failed save.
 
-\columnbreak
 ___
-> ## Giant Owl <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;19;3;12;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Giant Owl
+>*Large beast, neutral*
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 19 (3d10 + 3)
 > - **Speed** 5 ft., fly 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |13 (+1)|15 (+2)|12 (+1)| 3 (-4)|13 (+1)|10 (+0)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|15 (+2)|12 (+1)|8 (-1)|13 (+1)|10 (+0)|
+>___
 > - **Skills** Perception +5, Stealth +4
 > - **Senses** darkvision 120 ft., passive Perception 15
-> - **Languages** —
+> - **Languages** Giant Owl, understands one other language but can't speak it
 > - **Challenge** 1/4 (50 XP)
 > ___
 >
@@ -9651,22 +9053,23 @@ ___
 > ***Keen Hearing and Sight.*** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 >
 > ### Actions
-> ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (2d4 + 1) slashing damage.
+> ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (2d6 + 1) slashing damage.
 
-<div style='margin-top:35px;'></div>
+
+\pagebreakNum
 
 ___
-> ## Giant Scorpid <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;52;4;12;37;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Giant Scorpid
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 15 (natural armor)
 > - **Hit Points** 52 (7d10 + 14)
 > - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|13 (+1)|15 (+2)| 4 (-3)| 9 (-1)| 3 (-4)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|13 (+1)|15 (+2)|4 (-3)|9 (-1)|3 (-4)|
+>___
 > - **Senses** blindsight 60 ft., passive Perception 9
 > - **Languages** —
 > - **Challenge** 3 (700 XP)
@@ -9677,29 +9080,26 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
 >
-> ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much on a successful one.
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
+> ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much on a successful one.
 
 ___
-> ## Giant Shark <!-- https://wc5e-cr-calculator.frogvall.com/?1;13;126;9;12;22;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;1;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Huge beast, unaligned*
+> ## Giant Shark
+>*Huge beast, unaligned*
 > ___
 > - **Armor Class** 13 (natural armor)
 > - **Hit Points** 126 (11d12 + 55)
-> - **Speed** 0 ft., swim 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |23 (+6)|11 (+0)|21 (+5)| 1 (-5)|10 (+0)| 5 (-3)|
-> ___
+> - **Speed** 0 ft., swim 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|23 (+6)|11 (+0)|21 (+5)|1 (-5)|10 (+0)|5 (-3)|
+>___
 > - **Skills** Perception +3
 > - **Senses** blindsight 60 ft., passive Perception 13
-> - **Languages** —
-> - **Challenge** 6 (2,300 XP)
+> - **Languages** –
+> - **Challenge** 5 (1,800 XP)
 > ___
+>
 > ***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 >
 > ***Water Breathing.*** The shark can breathe only underwater.
@@ -9708,18 +9108,34 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 22 (3d10 + 6) piercing damage.
 
 \columnbreak
+
+
+> I want a note here about Giant creatures and Azeroth here, if there is anything that could work. And a page tear with something suitably cool. Basically a half page tear fitting the last page and a half of statblocks.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/ssCX3kD.jpg" style="position: absolute;top: 0;right: -205px;width: 840px;">
+
+<img src="https://i.imgur.com/7drSEMn.png" style="position:absolute;top: 0;right: 0px;width: 870px;">
+
+
+
+
+\pagebreakNum
+
 ___
-> ## Giant Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;26;5;12;14;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;1;;;;; -->
-> *Large beast, unaligned*
+> ## Giant Spider
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 14 (natural armor)
 > - **Hit Points** 26 (4d10 + 4)
 > - **Speed** 30 ft., climb 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |14 (+2)|16 (+3)|12 (+1)| 2 (-4)|11 (+0)| 4 (-3)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|16 (+3)|12 (+1)|2 (-4)|11 (+0)|4 (-3)|
+>___
 > - **Skills** Stealth +7
 > - **Senses** blindsight 10 ft., darkvision 60 ft., <br>passive Perception 10
 > - **Languages** —
@@ -9732,81 +9148,33 @@ ___
 > ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 3 (1d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 >
-> ***Web (Recharge 5-6).*** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one creature. *Hit:* The target is then restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+> ***Web (Recharge 5-6}.*** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one creature. *Hit:* The target is then restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 
-> ##### Variant: Giant Deathweb Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;26;5;12;0;9;26;9;15;9;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;1 -->
-> A deathweb spider has a challenge rating of 2 (450 XP). It has the same statistics as a giant spider except that it replaces the giant spider's bite with the following actions. Additionally, the spider's web deals 9 (2d8) acid damage to a creature restrained by it at the beginning of the creatures turn.
+
+\columnbreak
+
+
+> ##### Variant: Giant Deathweb Spider
+> A deathweb spider has a challenge rating of 2 (450 XP). It has the same statistics as a giant spider except that it has Constitution 14, 37 (5d10 + 10) hit points, and replaces the giant spider's bite action option with the following actions. Additionally, the spider's web deals 9 (2d8) acid damage to a creature restrained by it at the beginning of the creatures turn.
 >
 > ***Infected Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8 + 3) piercing damage plus 3 (1d6) acid damage.
 >
 > ***Burning Acid (Recharge after a Short or Long rest).*** The spider spews forth a burning hot acid. Each creature in a 10-foot cone must make a DC 12 Dexterity saving throw, taking 13 (3d8) fire damage on a failed save, or half as much on a success.
 
-<img src='https://www.gmbinder.com/images/g2ck2is.jpg' style='position:absolute; left:-100px; bottom:-25px; width:550px; transform:scaleX(-1)' />
-<img src='https://www.gmbinder.com/images/61ldIkX.png' style='position:absolute; left:-30px; bottom:0px; height:110%' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 ___
-> ## Giant Stag <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;42;5;14;11;7;22;0;11;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Huge beast, unaligned*
-> ___
-> - **Armor Class** 14 (natural armor)
-> - **Hit Points** 42 (5d12 + 10)
-> - **Speed** 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |19 (+4)|16 (+3)|14 (+2)| 7 (-2)|14 (+2)|10 (+0)|
-> ___
-> - **Skills** Perception +4
-> - **Senses** passive Perception 14
-> - **Languages** —
-> - **Challenge** 2 (450 XP)
-> ___
-> ***Charge.*** If the stag moves at least 20 feet straight toward a target and the hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
->
-> ### Actions
-> ***Ram.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
->
-> ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one prone creature. *Hit:* 22 (4d8 + 4) bludgeoning damage.
-
-___
-> ## Giant Wasp
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 13 (3d8)
-> - **Speed** 5 ft., fly 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |10 (+0)|14 (+2)|10 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1 (200 XP)
-> ___
->
-> ### Actions
-> ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much on a successful one. If the poison damage reduce the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
-
-\columnbreak
-___
-> ## Giraffe <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;34;5;15;7;9;7;0;7;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Huge beast, unaligned*
+> ## Giraffe
+>*Huge beast, unaligned*
 > ___
 > - **Armor Class** 11
 > - **Hit Points** 34 (4d12 + 8)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |16 (+3)|12 (+1)|14 (+2)| 2 (-4)|13 (+1)| 7 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|12 (+1)|14 (+2)|2 (-4)|13 (+1)|7 (-2)|
+>___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
 > - **Languages** —
@@ -9815,188 +9183,62 @@ ___
 >
 > ***Keen Sight.*** The giraffe has advantage on Wisdom (Perception) checks that rely on sight.
 >
-> ***Charge.*** If the giraffe moves at least 20 ft. straight toward a target and then hits it with a hooves attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+> ***Charge.*** If the giraffe moves at least 20 ft. straight toward a target and then hits it with a hooves attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 >
 > ### Actions
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage.
 
-___
-> ## Goat <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;9;3;11;3;2;3;0;3;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 10
-> - **Hit Points** 9 (2d8)
-> - **Speed** 40 ft., climb 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |12 (+1)|10 (+0)|11 (+0)| 2 (-4)|10 (+0)| 5 (-3)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/8 (25 XP)
-> ___
-> ***Charge.*** If the goat moves at least 20 feet straight toward a target and the hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
->
-> ***Sure-Footed.*** the goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
->
-> ### Actions
-> ***Ram.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) bludgeoning damage.
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/YmzkuLc.jpg" style="position: absolute;bottom: -60px;right: -10px;width: 900px;">
+
+<img src="https://i.imgur.com/NO1EQoX.png" style="position:absolute;top: -20px;right:0px;width:800px;transform: scale(-1);">
 
 \pagebreakNum
-___
-> ## Gorilla <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;34;5;11;16;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 13
-> - **Hit Points** 34 (4d10 + 12)
-> - **Speed** 30 ft., climb 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |17 (+3)|16 (+3)|16 (+3)| 5 (-3)|12 (+1)| 7 (-2)|
-> ___
-> - **Skills** Athletics +5, Perception +3
-> - **Senses** passive Perception 13
-> - **Languages** —
-> - **Challenge** 2 (450 XP)
-> ___
-> ### Actions
-> ***Multiattack.*** The gorilla makes two fist attacks.
->
-> ***Fist.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
->
-> ***Rock.*** *Ranged Weapon Attack:* +5 to hit, range 25/20 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage.
+
 
 ___
-> ## Grizzly Bear <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;95;8;18;23;10;23;0;23;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 95 (10d10 + 40)
-> - **Speed** 40 ft., climb 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |22 (+5)|10 (+0)|18 (+4)| 2 (-4)|13 (+1)| 8 (-1)|
-> ___
-> - **Skills** Perception +3
-> - **Senses** passive Perception 13
-> - **Languages** —
-> - **Challenge** 4 (1,100 XP)
-> ___
->
-> ***Charge.*** If the bear moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the bear can make one bite attack against it as a bonus action.
->
-> ***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ### Actions
-> ***Multiattack***. The bear makes two attacks: one with its bite and one with its claws.
->
-> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 6) piercing damage.
->
-> ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
-
-___
-> ## Hawk <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;1;5;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
-> ___
-> - **Armor Class** 13
-> - **Hit Points** 1 (1d4 - 1)
-> - **Speed** 10 ft., fly 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 5 (-3)|16 (+3)| 8 (-1)| 2 (-4)|14 (+2)| 6 (-2)|
-> ___
-> - **Skills** Perception +4
-> - **Senses** passive Perception 14
-> - **Languages** —
-> - **Challenge** 1/8 (25 XP)
-> ___
-> ***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
->
-> ### Actions
-> ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
-
-___
-> ## Hawkstrider <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;27;3;10;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Hawkstrider
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 27 (5d10)
-> - **Speed** 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |12 (+1)|15 (+2)|10 (+0)| 3 (-4)|11 (+0)| 7 (-2)|
-> ___
+> - **Hit Points** 11 (2d10)
+> - **Speed** 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|15 (+2)|10 (+0)|3 (-4)|11 (+0)|7 (-2)|
+>___
 > - **Skills** Athletics +3, Acrobatics +4, Perception +2
 > - **Senses** passive Perception 12
 > - **Languages** —
 > - **Challenge** 1/4 (50 XP)
 > ___
-> ***Running Leap.*** With a 10-foot running start, the hawkstrider can jump up to 20 feet.
->
 > ***Swift Stride.*** The hawkstrider can use a bonus action to take the Dash action.
 >
 > ### Actions
-> ***Beak.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
-
-**Grizzly bears** from the eponymous Grizzly Hills in Northrend are particularly large and dangerous, perhaps owing to their sharing a home with the Twin Bear gods Ursoc and Ursol.
-
-<br/>
-
-<div style='margin-top:-15px;'></div>
+> ***Beak.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 3) piercing damage.
+>
+> ***Shriek (Recharge 6).*** The hawkstrider emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a hawkstrider must succeed on a DC 13 Constitution saving throw or be incapaci&shy;tated until the end of the hawkstriders's next turn.
 
 A **hawkstrider** is a large, flightless bird, indigenous to the forests of Quel'Thalas. Known for their bright, vibrant plumage and uncanny intelligence, these graceful creatures have long been a symbol of Silvermoon.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-___
-> ## Helboar <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;75;4;10;9;17;9;10;9;10;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;;;;; -->
-> *Medium monstrosity, unaligned*
-> ___
-> - **Armor Class** 13 (natural armor)
-> - **Hit Points** 75 (10d8 + 30)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|11 (+0)|16 (+3)| 2 (-4)| 8 (-1)| 6 (-2)|
-> ___
-> - **Senses** passive Perception 9
-> - **Languages** —
-> - **Challenge** 2 (450 XP)
-> ___
-> ***Charge.*** If the helboar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.
->
-> ***Relentless (Recharges after a Short or Long Rest).*** If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
->
-> ***Spiked Skin.*** When a creature within 5 feet of the helboar hits it with a melee attack, the creature takes 3 (1d6) piercing damage.
->
-> ### Actions
-> ***Tusk.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.
->
-> ### Reactions
-> ***Burning Spikes.*** When the helboar damages a creature with its spiked skin, it can use its reaction to deal an additional 7 (2d6) fire damage.
-
-Despite their name, **helboars** are not demons or part of the Burning Legion. As beasts who have been exposed to the energies of the Twisting Nether for long periods of time, simple boars have mutated into this spiked variety, capable of superheating their own skin as a defense mechanism.
 
 \columnbreak
+
 ___
-> ## Hunter Shark <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;45;6;10;13;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;1;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Hunter Shark
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 12 (natural armor)
 > - **Hit Points** 45 (6d10 + 12)
 > - **Speed** 0 ft., swim 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |18 (+4)|13 (+1)|15 (+2)| 1 (-5)|10 (+0)| 4 (-3)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|13 (+1)|15 (+2)|1 (-5)|10 (+0)|4 (-3)|
+>___
 > - **Skills** Perception +2
 > - **Senses** blindsight 30 ft., passive Perception 12
 > - **Languages** –
@@ -10010,24 +9252,18 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
 
-<img src='https://www.gmbinder.com/images/tiU4RnD.png' class='inkblot inkblot-green' style='position:absolute; right:-400px; bottom:-500px; width:1050px; transform:rotate(-90deg) scaleX(-1)' />
-<img src='https://www.gmbinder.com/images/K1I3oar.png' style='position:absolute; right:0px; bottom:50px; width:400px; transform:scaleX(-1)' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
 ___
-> ## Hyena <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;3;10;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Hyena
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 22 (4d8 + 4)
+> - **Hit Points** 16 (3d8 + 3)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |13 (+1)|14 (+2)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|14 (+2)|12 (+1)|2 (-4)|12 (+1)|5 (-3)|
+>___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
 > - **Languages** —
@@ -10039,23 +9275,31 @@ ___
 > ### Actions
 > ***Multiattack***. The hyena makes two attacks: one with its bite and one with its claws.
 >
-> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/Sjc9IFl.png" class="inkblot inkblot-green" style="bottom: -170px;left: -80px;width: 800px;transform: rotate(190deg);">
+<img src="https://i.imgur.com/2Q5o3SA.png" style="position:absolute;bottom: -12px;left: 0px;width: 490px;">
+
+
+\pagebreakNum
+
 ___
-> ## Hyena Matriarch <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;33;4;10;12;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;1;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Hyena Matriarch
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 13
-> - **Hit Points** 33 (6d8 + 6)
+> - **Hit Points** 27 (5d8 + 5)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|16 (+3)|13 (+1)| 4 (-3)|12 (+1)| 7 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|16 (+3)|13 (+1)|4 (-3)|12 (+1)|7 (-2)|
+>___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
 > - **Languages** —
@@ -10073,30 +9317,29 @@ ___
 >
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 >
-> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage.
 
-**Hyenas** are a regular menace in the barren areas of Kalimdor. Centaurs are known to keep them as pets, vulpera and pygmies use them as mounts, and they are seen skulking around the desolate locations of the world, searching for rotting corpses to scavenge.
+Hyenas are scavengers who thrive in the most barren reaches of Kalimdor and Zandalar &mdash; from Desolace and the Barrens, out across the dunes of Tanaris and Vol'dun. 
 
-<img src='https://www.gmbinder.com/images/0hVRLNf.png' class='inkblot inkblot-green' style='top:550px; left:-80px; width:700px; transform:rotate(128deg)'>
-<img src='https://www.gmbinder.com/images/QsIMjKG.png' style='position:absolute; top:630px; left:-20px; width:450px; transform:scaleX(-1)' />
+Azerothian hyenas keep keep together in large clans, with most following the call of their **matriarch**; the clan's strongest and most cunning female member, whose rallying cry can quickly rouse her kin to action.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-\pagebreakNum
+\columnbreak
+
 ___
-> ## Lion <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;26;5;10;6;7;7;0;7;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Lion
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 26 (4d10 + 4)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |17 (+3)|15 (+2)|13 (+1)| 3 (-4)|12 (+1)| 8 (-1)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|15 (+2)|13 (+1)|3 (-4)|12 (+1)|8 (-1)|
+>___
 > - **Skills** Perception +3, Stealth +6
-> - **Senses** passive Perception 13
+> - **Senses** passive Perception 10
 > - **Languages** —
 > - **Challenge** 1 (200 XP)
 > ___
@@ -10114,21 +9357,28 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://www.gmbinder.com/images/CRqcfac.png" class="inkblot inkblot-green" style="top: 600px;right: 20px;width: 740px;transform: rotate(-135deg);">
+<img src="https://i.imgur.com/RRwI4sS.png" style="position:absolute; bottom:0; right:0px; width:540px;">
+
+\pagebreakNum
+
 ___
-> ## Lion Pridemane <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;52;5;10;19;7;19;0;19;0;0;0;0;0;0;0;;;;;3;;;;;;;1;;;1;;;1;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Lion Pridemane
+>*Large beast, unaligned*
 > ___
-> - **Armor Class** 12
+> - **Armor Class** 13
 > - **Hit Points** 52 (7d10 + 14)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |17 (+3)|15 (+2)|14 (+2)| 3 (-4)|13 (+1)|10 (+0)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|15 (+2)|14 (+2)|3 (-4)|13 (+1)|10 (+0)|
+>___
 > - **Skills** Perception +3, Stealth +6
-> - **Senses** passive Perception 13
+> - **Senses** passive Perception 10
 > - **Languages** —
 > - **Challenge** 3 (700 XP)
 > ___
@@ -10148,81 +9398,48 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 >
-> ***Terrifying Roar.*** Each creature within 30 ft. of the lion that can hear it must succeed on a DC 12 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lion's Terrifying Roar for the next 24 hours.
+> ***Terrifying Roar.*** Each creature within 30 ft. of the lion that can hear it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lion's Terrifying Roar for the next 24 hours.
 
-A **lion** is a common sight across central Kalimdor. These fierce predators stalk the tall grass in small packs -- their prides -- and have been known to even hunt travellers.
+Lions roam far and wide across central Kalimdor, stalking the tall grass in small packs -- their prides. They are not at all shy for what prey they hunt, and have at times been known to even stalk unwary travellers. 
 
-More commonplace across Azeroth is the **mountain lion**, found both along the lush plains of Mulgore and up the grassy foothills of Hillsbrad.
-
-<img src='https://www.gmbinder.com/images/0hVRLNf.png' class='inkblot inkblot-green' style='top:650px; left:-190px; width:700px; transform:rotate(59deg)'>
-<img src='https://www.gmbinder.com/images/Iwx7CAh.png' style='position:absolute; left:0px; bottom:-0px; width:400px; transform:scaleX(-1)' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
-___
-> ## Mammoth <!-- https://wc5e-cr-calculator.frogvall.com/?1;13;126;10;18;25;29;50;0;25;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Huge beast, unaligned*
-> ___
-> - **Armor Class** 13 (natural armor)
-> - **Hit Points** 126 (11d12 + 55)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |24 (+7)| 9 (-1)|21 (+5)| 3 (-4)|11 (+0)| 6 (-2)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 6 (2,300 XP)
-> ___
-> ***Trampling Charge.*** If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
->
-> ### Actions
-> ***Gore.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 25 (4d8 + 7) piercing damage and the target must succeed a DC 14 Dexerity saving throw or be knocked prone.
->
-> ***Stomp.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one prone creature. *Hit:* 29 (4d10 + 7) bludgeoning damage.
->
-> ***Swing. (Recharge 6)*** The mammoth swing its gore hitting all the creatures in front of it. All the creatures in a 10 ft. cone from the mammoth must make a DC 16 Dexerity, being knocked prone and taking 25 (4d8 + 7) slashing damage and or half as much on a successful one.
+Chief among them is the **pridemane**; the pride's leading male, who towers high above the rest with its imposing stature and massive mane.
 
 \columnbreak
-___
-> ## Mastiff <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;5;3;11;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 5 (1d8 + 1)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |13 (+1)|14 (+2)|12 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
-> ___
-> - **Skills** Perception +3
-> - **Senses** passive Perception 13
-> - **Languages** —
-> - **Challenge** 1/8 (25 XP)
-> ___
-> ***Keen Hearing and Smell.*** The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 ___
-> ## Mountain Lion <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;5;6;6;0;6;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Lizard
+>*Tiny beast, unaligned*
+> ___
+> - **Armor Class** 10
+> - **Hit Points** 2 (1d4)
+> - **Speed** 20 ft., climb 20 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|2 (-4)|11 (+0)|10 (+0)|1 (-5)|8 (-1)|3 (-4)|
+>___
+> - **Senses** darkvision 30 ft., passive Perception 9
+> - **Languages** —
+> - **Challenge** 0 (10 XP)
+> ___
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+
+___
+> ## Mountain Lion
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 12
-> - **Hit Points** 22 (4d8 + 4)
+> - **Hit Points** 18 (4d8)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |14 (+2)|15 (+2)|12 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|15 (+2)|11 (+0)|3 (-4)|12 (+1)|7 (-1)|
+>___
 > - **Skills** Perception +3, Stealth +4
-> - **Senses** passive Perception 13
+> - **Senses** passive Perception 10
 > - **Languages** —
 > - **Challenge** 1/2 (100 XP)
 > ___
@@ -10236,22 +9453,26 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
 
-<img src='https://www.gmbinder.com/images/GGjXuom.png' style='position:absolute; left:-50px; bottom:-30px; width:500px; transform:scaleX(-1)' />
+More commonplace across Azeroth than lions is the **mountain lion**, found both along the lush plains of Mulgore and up the grassy foothills of Hillsbrad.
+
+
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
 \pagebreakNum
+
+
 ___
-> ## Moose <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;30;5;13;7;7;8;0;8;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Moose
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 13 (natural armor)
 > - **Hit Points** 30 (4d10 + 8)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |16 (+3)|10 (+0)|15 (+2)| 2 (-4)|10 (+0)| 6 (-2)|
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|10 (+0)|15 (+2)|2 (-4)|10 (+0)|6 (-2)|
 >___
 > - **Senses** passive Perception 10
 > - **Languages** —
@@ -10267,46 +9488,66 @@ ___
 >
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-___
-> ## Mule <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;11;2;10;2;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 10
-> - **Hit Points** 11 (2d8 + 2)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |14 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/8 (25 XP)
-> ___
-> ***Beast of Burden.*** The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
->
-> ***Sure-Footed.*** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
->
-> ### Actions
-> ***Hooves.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+Also known as elderhorn, the great **moose** of Azeroth are lumbering beasts recognized by the characteristic shape of their massive antlers. They are favored animals among the Highmountain tauren, and some herds make their home within druidic groves -- where they grow a particular kind of kinship with the grove's residing druids.
 
 \columnbreak
+
 ___
-> ## Owl <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;1;3;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
+> ## Octopus
+>*Small beast, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 3 (1d6)
+> - **Speed** 5 ft., swim 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|4 (-3)|15 (+2)|11 (+0)|3 (-4)|10 (+0)|4 (-3)|
+>___
+> - **Skills** Perception +2, Stealth +4
+> - **Senses** darkvision 30 ft., passive Perception 12
+> - **Languages** —
+> - **Challenge** 0 (10 XP)
+> ___
+> 
+> ***Hold Breath.*** While out of water, the octopus can hold its breath for 30 minutes.
+>
+> ***Underwater Camouflage.*** The octopus has advantage on Dexterity (Stealth) checks made while underwater.
+> 
+> ***Water Breathing.*** The octopus can breathe only underwater.
+>
+> ### Actions
+> ***Tentacles.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.
+> 
+> ***Ink Cloud (Recharges after a Short or Long Rest).*** A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+
+<img src="https://i.imgur.com/PMfzlNn.jpg" style="position:absolute;bottom: 0px;right: 0px;width: 910px;">
+<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute;top: 0px;right:0px;width: 820px;transform: scaleX(-1);">
+<img src="https://i.imgur.com/RUukMlL.png" style="position:absolute;bottom: 5px;right: 45px;width: 435px;">
+
+\pagebreakNum
+
+
+___
+> ## Owl
+>*Tiny beast, unaligned*
 > ___
 > - **Armor Class** 11
 > - **Hit Points** 1 (1d4 - 1)
 > - **Speed** 5 ft., fly 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 3 (-4)|13 (+1)| 8 (-1)| 2 (-4)|12 (+1)| 7 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|3 (-4)|13 (+1)|8 (-1)|2 (-4)|12 (+1)|7 (-2)|
+>___
 > - **Skills** Perception +3, Stealth +3
 > - **Senses** darkvision 120 ft., passive Perception 13
 > - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
+> - **Challenge** 0 (10 XP)
 > ___
 >
 > ***Flyby.*** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
@@ -10316,74 +9557,27 @@ ___
 > ### Actions
 > ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 
-___
-> ## Panther <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;11;4;12;4;5;5;0;5;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 11 (2d8 + 2)
-> - **Speed** 50 ft., climb 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |14 (+2)|15 (+2)|12 (+1)| 3 (-4)|14 (+2)| 7 (-2)|
-> ___
-> - **Skills** Perception +4, Stealth +6
-> - **Senses** passive Perception 14
-> - **Languages** —
-> - **Challenge** 1/4 (50 XP)
-> ___
-> ***Keen Smell.*** The panther has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ***Pounce.*** If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
->
-> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+\columnbreak
 
-\pagebreakNum
-___
-> ## Poisonous Snake <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;2;5;10;3;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
-> ___
-> - **Armor Class** 13
-> - **Hit Points** 2 (1d4)
-> - **Speed** 30 ft., swim 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 2 (-4)|16 (+3)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
-> ___
-> - **Senses** blindsight 10 ft., passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/8 (25 XP)
-> ___
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 2 (1d4) poison damage on a failed save, or half as much damage on a successful one.
 
 ___
-> ## Polar Bear <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;42;7;10;21;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Polar Bear
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 12 (natural armor)
 > - **Hit Points** 42 (5d10 + 15)
-> - **Speed** 40 ft., swim 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |20 (+5)|10 (+0)|16 (+3)|2 (-4)|13 (+1)|7 (-2)|
-> ___
+> - **Speed** 40 ft., climb 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|10 (+0)|16 (+3)|2 (-4)|13 (+1)|7 (-2)|
+>___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
 > - **Languages** —
 > - **Challenge** 2 (450 XP)
 > ___
-> 
-> ***Snow Camouflage.*** The bear has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 >
 > ***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
 >
@@ -10394,87 +9588,18 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 
-\columnbreak
 ___
-> ## Pony <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;11;4;10;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 10
-> - **Hit Points** 11 (2d8 + 2)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|10 (+0)|13 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/8 (25 XP)
-> ___
->
-> ### Actions
-> ***Hooves.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (2d4) bludgeoning damage.
-
-___
-> ## Rat <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;1;0;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
-> ___
-> - **Armor Class** 10
-> - **Hit Points** 1 (1d4 - 1)
-> - **Speed** 20 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 2 (-4)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 4 (-3)|
-> ___
-> - **Senses** darkvision 30 ft., passive Perception 10
-> - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
-> ___
-> ***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
-
-<img src='https://www.gmbinder.com/images/S50qiwA.png' style='position:absolute; right:50px; bottom:-60px; width:300px' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-___
-> ## Raven <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;1;4;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 1 (1d4 - 1)
-> - **Speed** 10 ft., fly 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 2 (-4)|14 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 6 (-2)|
-> ___
-> - **Skills** Perception + 3
-> - **Senses** passive Perception 13
-> - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
-> ___
-> ***Mimicry.*** The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
->
-> ### Actions
-> ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
-
-___
-> ## Reef Shark <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;10;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Reef Shark
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 12 (natural armor)
 > - **Hit Points** 22 (4d8 + 4)
 > - **Speed** 0 ft., swim 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |14 (+2)|13 (+1)|13 (+1)| 1 (-5)|10 (+0)| 4 (-3)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|13 (+1)|13 (+1)|1 (-5)|10 (+0)|4 (-3)|
+>___
 > - **Skills** Perception +2
 > - **Senses** blindsight 30 ft., passive Perception 12
 > - **Languages** –
@@ -10488,177 +9613,73 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
-\columnbreak
-___
-> ## Rhino <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;37;7;12;14;9;14;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 12 (natural armor)
-> - **Hit Points** 37 (6d10 + 12)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |21 (+5)| 8 (-1)|15 (+2)| 2 (-4)|12 (+1)| 6 (-2)|
-> ___
-> - **Senses** passive Perception 11
-> - **Languages** —
-> - **Challenge** 2 (450 XP)
-> ___
-> ***Charge.*** If the rhino moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.
->
-> ### Actions
-> ***Gore.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
-
-___
-> ## Riding Horse
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 11 (natural armor)
-> - **Hit Points** 13 (2d10 + 2)
-> - **Speed** 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |16 (+3)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/4 (50 XP)
-> ___
->
-> ### Actions
-> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (2d4) bludgeoning damage.
-
-<img src='https://www.gmbinder.com/images/zxp4HSp.png' class='inkblot inkblot-green' style='position:absolute; right:-330px; bottom:-500px; width:900px; transform:rotate(70deg)' />
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+<img src="https://i.imgur.com/0hVRLNf.png" class="inkblot inkblot-green" style="bottom: -225px;left: -180px;width: 820px;transform: rotate(330deg) scaleX(-1);">
+<img src="https://i.imgur.com/BecGt0i.png" style="position:absolute;bottom: -65px;left: 35px;width: 350px;">
+
 \pagebreakNum
 
-___
-> ## Riverbeast <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;93;4;12;12;7;12;0;12;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
->*Large beast, unaligned*
-> ___
-> - **Armor Class** 11 (natural armor)
-> - **Hit Points** 76 (9d10 + 27)
-> - **Speed** 40 ft., swim 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |17 (+3)| 8 (-1)|16 (+3)| 2 (-4)|11 (+0)| 5 (-3)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1 (200 XP)
-> ___
-> ***Charge.*** If the riverbeast moves at least 20 feet straight toward a target and then hits it with a bite attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.
->
-> ***Hold Breath.*** The riverbeast can hold its breath for 15 minutes.
->
-> ***Underwater Camouflage.*** The riverbeast has advantage on Dexterity (Stealth) checks made while underwater.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage.
->
-> ***Tail.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) bludgeoning damage.
 
-\columnbreak
 ___
-> ## Scorpid <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;13;3;12;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Small beast, unaligned*
+> ## Scorpid
+>*Small beast, unaligned*
 > ___
 > - **Armor Class** 12 (natural armor)
 > - **Hit Points** 13 (3d6 + 3)
 > - **Speed** 20 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 8 (-1)|13 (+1)|12 (+1)| 1 (-5)| 8 (-1)| 2 (-4)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|13 (+1)|12 (+1)|1 (-5)|8 (-1)|2 (-4)|
+>___
 > - **Senses** blindsight 60 ft., passive Perception 9
 > - **Languages** —
 > - **Challenge** 1/4 (50 XP)
 > ___
 >
 > ### Actions
-> ***Sting.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much on a successful one.
+> ***Sting.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much on a successful one.
 
-**Riverbeasts** are great aquatic beasts of Draenor, possessing a rocky plates, a club-like tail, and long lower tusks. While they appear docile at a distance, they are known to be one of the most easily provoked and deadly animals on the planet. Azeroth possess its own variety of riverbeast, though their skin is smooth and they lack the prominent tails of their cousins.
+A **scorpid** is a quick and vicious predator, commonly found in dry and arid parts of Azeroth -- from the Barrens to Tanaris, and from the Badlands to the Burning Steppes. 
 
-<br/>
+They are kin to scorpions, though scorpids are far larger and far, far deadlier. it is said that the venom of an adult scorpid's stinger holds enough venom to kill beasts a hundred times its size.
 
-<div style='margin-top:-15px;'></div>
-
-A **scorpid** is a gigantic creature similar to scorpions, averaging up to 3 feet long. Hunting and killing scorpid is considered a rite of passage by the orcs.
-
-<img src='https://www.gmbinder.com/images/3Hs53Ab.png' style='position:absolute; bottom:0px; left:0px; width:100%' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
 ___
-> ## Shoveltusk <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;90;4;12;9;7;9;0;9;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Sea Horse
+>*Tiny beast, unaligned*
 > ___
-> - **Armor Class** 11 (natural armor)
-> - **Hit Points** 90 (12d10 + 24)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|10 (+0)|14 (+2)| 2 (-4)|11 (+0)| 6 (-2)|
-> ___
+> - **Armor Class** 11
+> - **Hit Points** 1 (1d4-1)
+> - **Speed** 0 ft., swim 20 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|1 (-5)|12 (+1)|8 (-1)|1 (-5)|10 (+0)|2 (-4)|
+>___
 > - **Senses** passive Perception 10
 > - **Languages** —
-> - **Challenge** 1 (200 XP)
-> ___
-> ***Charge.*** If the shoveltusk moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.
->
-> ### Actions
-> ***Tusk.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.
->
-> ***Ram.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage and the target must succeed a DC 12 Strength saving throw or be knocked prone.
-
-___
-> ## Silverback Gorilla <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;119;7;12;24;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 14
-> - **Hit Points** 119 (14d10 + 42)
-> - **Speed** 30 ft., climb 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |21 (+5)|18 (+4)|17 (+3)| 6 (-2)|12 (+1)| 7 (-2)|
-> ___
-> - **Skills** Athletics +7, Perception +3
-> - **Senses** passive Perception 13
-> - **Languages** —
-> - **Challenge** 4 (1,100 XP)
+> - **Challenge** 0 (10 XP)
 > ___
 >
-> ### Actions
-> ***Multiattack.*** The gorilla makes two fist attacks.
->
-> ***Fist.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage.
->
-> ***Rock.*** *Ranged Weapon Attack:* +7 to hit, range 25/20 ft., one target. *Hit:* 10 (2d4 + 5) bludgeoning damage.
+> ***Water Breathing.*** The sea horse can breathe only underwater.
 
 \columnbreak
+
 ___
-> ## Skywisp Moth <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;3;3;10;3;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Small beast, unaligned*
+> ## Skywisp Moth
+>*Small beast, unaligned*
 > ___
 > - **Armor Class** 11
 > - **Hit Points** 3 (1d6)
 > - **Speed** 10 ft., 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 5 (-3)|12 (+1)|10 (+0)| 3 (-4)|11 (+0)| 4 (-3)|
-> ___
-> - **Senses** blindsight 30 ft., passive Perception 10
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|5 (-3)|12 (+1)|10 (+0)|3 (-4)|11 (+0)|4 (-3)|
+>___
+> - **Senses** blindsight 30 ft., passive Perception
 > - **Languages** —
 > - **Challenge** 1/8 (25 XP)
 > ___
@@ -10669,40 +9690,37 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
 >
-> ***Pulverulent Wings (1/day).*** A cloud of thick powder disperses out from the moth in a 5-foot radius. Each creature in that area must make on a DC 10 Constitution saving throw, or be blinded until the end of the moth's next turn on a failed save.
-
-**Shoveltusks** are moose-like beasts of the wintry continent Northrend, living in its southeastern areas. Their tusks are used to dig up roots and their great antlers are used to establish their dominance among rival mates. They are known to be fiercely territorial of their feeding grounds.
-
-<br/>
-
-<div style='margin-top:-15px;'></div>
+> ***Pulverulent Wings (1/day).*** A cloud of thick powder disperses out from the moth in a 5-foot radius. Each creature in that area must make on a DC 11 Constitution saving throw, or be blinded until the end of the moth's next turn on a failed save.
 
 A **skywisp moth** is considered a docile, insignificant beast to most. Among arcane practicioners, however, they have a notorious reputation for their curiosity and their uncanny ability to interfere with spells cast in their vicinity.
 
 Because of this, they are often a favoured companion for any hunters whose quarry is a dangerous spellcaster.
 
-<img src='https://www.gmbinder.com/images/zxp4HSp.png' class='inkblot inkblot-green' style='position:absolute; right:-250px; bottom:-430px; width:800px; transform:rotate(10deg)' />
-<img src='https://www.gmbinder.com/images/XVND495.png' style='position:absolute; right:20px; bottom:20px;' />
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+<img src="https://i.imgur.com/a81VyUK.png" class="inkblot inkblot-green" style="bottom: -385px;left: -70px;width: 740px;transform: rotate(-150deg) scaleX(-1);">
+<img src="https://i.imgur.com/kLKYzA0.png" style="position:absolute;bottom: -65px;right: -65px;width: 745px;">
+
+
 \pagebreakNum
+
 ___
-> ## Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;1;0;10;3;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Tiny beast, unaligned*
+> ## Spider
+>*Tiny beast, unaligned*
 > ___
 > - **Armor Class** 12
 > - **Hit Points** 1 (1d4-1)
 > - **Speed** 20 ft., climb 20 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 2 (-4)|14 (+2)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|2 (-4)|14 (+2)|8 (-1)|1 (-5)|10 (+0)|2 (-4)|
+>___
 > - **Skills** Stealth +4
 > - **Senses** darkvision 30 ft., passive Perception 10
 > - **Languages** —
-> - **Challenge** 0 (0 or 10 XP)
+> - **Challenge** 0 (10 XP)
 > ___
 > ***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
@@ -10711,22 +9729,20 @@ ___
 > ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
-
-<div style='margin-top:-18px;'></div>
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 
 ___
-> ## Stag <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;13;4;10;12;0;5;0;5;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Stag
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 10
 > - **Hit Points** 13 (2d10 + 2)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|10 (+0)|12 (+1)| 2 (-4)|10 (+0)| 6 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|10 (+0)|12 (+1)|2 (-4)|10 (+0)|6 (-2)|
+>___
 > - **Senses** passive Perception 10
 > - **Languages** —
 > - **Challenge** 1/4 (50 XP)
@@ -10735,296 +9751,63 @@ ___
 > ***Charge.*** If the stag moves at least 20 feet straight toward a target and then hits it with a ram on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, the target must succeed on a DC 13 Strength saving throw or be knocked prone.
 >
 > ### Actions
-> ***Ram.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage.
+> ***Ram.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage.
 >
-> ***Hooves.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one prone creature. *Hit:* 7 (2d4 + 2) bludgeoning damage.
+> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-\columnbreak
-___
-> ## Stormcrow <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;26;5;10;13;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 13
-> - **Hit Points** 26 (4d10 + 4)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |16 (+3)|17 (+3)|13 (+1)| 4 (-3)|13 (+1)| 7 (-2)|
-> ___
-> - **Skills** Perception +3
-> - **Senses** passive Perception 13
-> - **Languages** —
-> - **Challenge** 1 (200 XP)
-> ___
->
-> ### Actions
-> ***Multiattack.*** The stormcrow makes two attacks: one with its beak and one with its talons.
->
-> ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
->
-> ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) slashing damage.
-
-<div style='margin-top:-15px;'></div>
-
-___
-> ## Swarm of Bats <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;10;5;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium swarm of tiny beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 22 (5d8)
-> - **Speed** 0 ft., fly 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 5 (-3)|15 (+2)|10 (+0)| 2 (-4)|12 (+1)| 4 (-3)|
-> ___
-> - **Damage Resistances** bludgeoning, piercing, slashing
-> - **Condition Immunities** charmed, frightened, paralyzed, pretrified, prone, restrained, stunned
-> - **Senses** blindsight 60 ft., passive Perception 11
-> - **Languages** —
-> - **Challenge** 1/2 (100 XP)
-> ___
-> ***Echolocation.*** The swarm can't use its blindsight while deafened.
->
-> ***Keen Hearing.*** The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
->
-> ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-<img src='https://www.gmbinder.com/images/RVaHjr8.png' style='position:absolute; top:0px; right:0px; width:900px' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
-___
-> ## Swarm of Insects <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;3;10;10;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium swarm of tiny beast, unaligned*
-> ___
-> - **Armor Class** 12 (natural armor)
-> - **Hit Points** 22 (5d8)
-> - **Speed** 20 ft., climb 20 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 3 (-4)|13 (+1)|10 (+0)| 1 (-5)| 7 (-2)| 1 (-5)|
-> ___
-> - **Damage Resistances** bludgeoning, piercing, slashing
-> - **Condition Immunities** charmed, frightened, paralyzed, pretrified, prone, restrained, stunned
-> - **Senses** blindsight 10 ft., passive Perception 8
-> - **Languages** —
-> - **Challenge** 1 (100 XP)
-> ___
-> ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insects. The swarm can't regain hit points or gain temporary hit points.
->
-> ### Actions
-> ***Bites.*** *Melee Weapon Attack:* +3 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 \columnbreak
 
 ___
-> ## Swarm of Poisonous Snakes <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;36;6;10;21;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium swarm of tiny beast, unaligned*
-> ___
-> - **Armor Class** 14
-> - **Hit Points** 36 (8d8)
-> - **Speed** 30 ft., swim 20 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 8 (-1)|18 (+4)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
-> ___
-> - **Damage Resistances** bludgeoning, piercing, slashing
-> - **Condition Immunities** charmed, frightened, paralyzed, pretrified, prone, restrained, stunned
-> - **Senses** blindsight 10 ft., passive Perception 10
-> - **Languages** —
-> - **Challenge** 3 (700 XP)
-> ___
-> ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
->
-> ### Actions
-> ***Bites.*** *Melee Weapon Attack:* +6 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
-
-<img src='https://www.gmbinder.com/images/FuTr9HE.jpg' style='position:absolute; bottom:0px; right:0px; width:100%' />
-<img src='https://www.gmbinder.com/images/IVAoFBN.png' style='position:absolute; top:0px; left:0px; height:105%' />
-
-\pagebreakNum
-
-<div style='margin-top:-18px;'></div>
-
-___
-> ## Swarm of Rats <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;24;2;10;7;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium swarm of tiny beast, unaligned*
-> ___
-> - **Armor Class** 10
-> - **Hit Points** 24 (7d8 - 7)
-> - **Speed** 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 9 (-1)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 3 (-4)|
-> ___
-> - **Damage Resistances** bludgeoning, piercing, slashing
-> - **Condition Immunities** charmed, frightened, paralyzed, pretrified, prone, restrained, stunned
-> - **Senses** darkvision 30 ft., passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/2 (100 XP)
-> ___
-> ***Keen Smell.*** The swarm has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
->
-> ### Actions
-> ***Bites.*** *Melee Weapon Attack:* +2 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
-
-<div style='margin-top:-13px;'></div>
-
-___
-> ## Swarm of Ravens <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;24;4;10;7;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium swarm of tiny beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 24 (7d8 - 7)
-> - **Speed** 10 ft., fly 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 6 (-2)|14 (+2)| 8 (-1)| 3 (-4)|12 (+1)| 6 (-2)|
-> ___
-> - **Skills** Perception +5
-> - **Damage Resistances** bludgeoning, piercing, slashing
-> - **Condition Immunities** charmed, frightened, paralyzed, pretrified, prone, restrained, stunned
-> - **Senses** passive Perception 15
-> - **Languages** —
-> - **Challenge** 1/2 (100 XP)
-> ___
-> ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
->
-> ### Actions
-> ***Beaks.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
-
-\columnbreak
-
-<div style='margin-top:-18px;'></div>
-
-___
-> ## Swarm of Frenzyfish <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;28;0;10;14;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;1;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium swarm, unaligned*
+> ## Swarm of Frenzyfish
+>*Medium swarm, unaligned*
 > ___
 > - **Armor Class** 13
 > - **Hit Points** 28 (8d8 - 8)
-> - **Speed** 0 ft., swim 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> | 7 (-2)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
-> ___
+> - **Speed** swim 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|16 (+3)|9 (-1)|1 (-5)|7 (-2)|2 (-4)|
+>___
 > - **Damage Resistances** bludgeoning, piercing, slashing
 > - **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
-> - **Senses** darkvision 60 ft., passive Perception 8
+> - **Senses** darkvision 60 ft.
 > - **Languages** —
 > - **Challenge** 1 (200 XP)
 > ___
 >
-> ***Blood Frenzy.*** The swarm has advantage on melee attacks against any creature that doesn't have all its hit points.
+> ***Blood Frenzy.*** The quipper has advantage on melee attacks against any creature that doesn't have all its hit points.
 >
 > ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny frenzyfish. The swarm can't regain hit points or gain temporary hit points.
 >
 > ***Water Breathing.*** The swarm can breathe only underwater.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
-<img src='https://www.gmbinder.com/images/R7wbd4k.png' class='inkblot inkblot-green' style='position:absolute; left:560px; top:350px; width:600px; transform:rotate(-110deg)' />
-<img src='https://www.gmbinder.com/images/Igm702h.png' style='position:absolute; right:-80px; top:700px; width:500px' />
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+<img src="https://i.imgur.com/pRTJEf1.jpg" style="position:absolute; right: -70px; bottom: 0px; width: 700px;">
+<img src='https://i.imgur.com/VdV67Oz.png' style='position:absolute; right:0px; bottom:0px; width:880px' />
 
 \pagebreakNum
 
+
+
 ___
-> ## Talbuk <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;5;10;6;3;8;0;8;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Tallstrider
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 11
-> - **Hit Points** 27 (5d8 + 5)
-> - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |16 (+3)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 6 (-2)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1/2 (100 XP)
-> ___
-> ***Charge.*** If the talbuk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.
->
-> ### Actions
-> ***Ram.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage.
->
-> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
-
-\columnbreak
-___
-> ## Talbuk Patriarch <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;11;4;10;6;7;8;0;8;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 90 (12d10 + 24)
-> - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |19 (+4)|14 (+2)|15 (+2)| 4 (-3)|14 (+2)| 6 (-2)|
-> ___
-> - **Skills** Perception +4
-> - **Senses** passive Perception 14
-> - **Languages** —
-> - **Challenge** 3 (700 XP)
-> ___
-> ***Charge.*** If the talbuk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 17 (5d6) slashing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
->
-> ***Protector.*** If a creature makes an attack against one of the talbuk's allies, the talbuk has advantage on attack rolls against that creature until the end of its next turn.
->
-> ### Actions
-> ***Multiattack.*** The talbuk makes two hooves attacks.
->
-> ***Ram.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
->
-> ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
->
-> ### Reactions
-> ***Shield.*** When a creature makes an attack against one of the talbuk's allies, the talbuk grants a +2 bonus to the wearer's AC if it is within 5 feet of the wearer.
-
-
-**Talbuks** are one of the few remaining species of the world Argus. When the draenei fled their homeworld, they brought with them these stag-like creatures, who went on to populate worlds where the draenei had sought refuge such as Draenor and Azeroth. They primarily serve as food and occasionally mounts for the people of the Exodar.
-
-They tend to form groups of multiple does and calves under the protection of a single patriarch, who is fiercely protective of his herd.
-
-<img src='https://www.gmbinder.com/images/0hVRLNf.png' class='inkblot inkblot-green' style='position:absolute; left:-200px; bottom:-380px; width:900px; transform:rotate(135deg)' />
-<img src='https://www.gmbinder.com/images/9lKAbcp.png' style='position:absolute; left:-50px; bottom:0px; width:500px' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-___
-> ## Tallstrider <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;18;3;12;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 11
-> - **Hit Points** 18 (4d8)
+> - **Hit Points** 9 (2d8)
 > - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |12 (+1)|13 (+1)|10 (+0)| 1 (-5)|10 (+0)| 6 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|13 (+1)|10 (+0)|4 (-3)|10 (+0)|6 (-2)|
+>___
 > - **Skills** Athletics +3
 > - **Senses** passive Perception 10
 > - **Languages** —
@@ -11036,46 +9819,25 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
 
-___
-> ## Tiger
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 37 (5d10 + 10)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |17 (+3)|15 (+2)|14 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
-> ___
-> - **Skills** Perception +3, Stealth +6
-> - **Senses** darkvision 60 Ft., passive Perception 13
-> - **Languages** —
-> - **Challenge** 1 (200 XP)
-> ___
->
-> ***Keen Smell.*** The tiger has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ***Pounce.*** If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* (1d10 + 3) piercing damage.
->
-> ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* (1d8 + 3) slashing damage.
+**Tallstriders** are large, flightless birds, native to the plains and savannahs of central Kalimdor. There is a very clear and stubborn pride to the tallstriders, making them near impossible to domesticate and useless as beasts of burden.
+
+Some skilled hunters and beast-handlers have mastered the art of taming a tallstrider, however. For them, the birds' strength and speed make them excellent companions for any sudden skirmish.
+
 
 \columnbreak
+
 ___
-> ## Towering Tallstrider <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;32;4;13;15;0;9;0;9;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
-> *Large beast, unaligned*
+> ## Towering Tallstrider
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 13
-> - **Hit Points** 52 (8d10 + 8)
+> - **Hit Points** 22 (4d10)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |14 (+2)|16 (+3)|12 (+1)| 1 (-5)|11 (+0)| 6 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|16 (+3)|10 (+0)|4 (-3)|11 (+0)|6 (-2)|
+>___
 > - **Skills** Athletics +4, Perception +2
 > - **Senses** passive Perception 12
 > - **Languages** —
@@ -11084,33 +9846,23 @@ ___
 > ***Trampling Charge.*** If the tallstrider moves at least 20 feet straight toward a creature and then hits it with a beak attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the tallstrider can make another attack with its claws against it as a bonus action.
 >
 > ### Actions
-> ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+> ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 8 (1d12 + 2) piercing damage.
 >
 > ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.
 
-**Tallstriders** are large, flightless birds, native to the plains and savannahs of central Kalimdor. There is a very clear and stubborn pride to the tallstriders, making them near impossible to domesticate and useless as beasts of burden.
-
-Some skilled hunters and beast-handlers have mastered the art of taming a tallstrider, however. For them, the birds' strength and speed make them excellent companions for any sudden skirmish.
-
-<img src='https://www.gmbinder.com/images/zWLhayK.png' style='position:absolute; right:-30px; top:660px; transform:scaleX(-1)' />
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 ___
-> ## Turtle <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;30;4;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Turtle
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 16 (natural armor)
 > - **Hit Points** 30 (4d8 + 12)
-> - **Speed** 20 ft., swim 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|10 (+0)|16 (+3)| 4 (-3)|11 (+0)| 6 (-2)|
-> ___
-> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Speed** 10 ft., swim 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|10 (+0)|16 (+3)|4 (-3)|11 (+0)|6 (-2)|
+>___
+> - **Senses** darkvision 60 ft
 > - **Languages** —
 > - **Challenge** 1/2 (100 XP)
 > ___
@@ -11118,69 +9870,53 @@ ___
 > ***Amphibious.*** The turtle can breathe air and water.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/BrDcy46.png" class="inkblot inkblot-green" style="bottom: -295px;left: -130px;width: 850px;transform: rotate(-270deg);">
+<img src="https://i.imgur.com/IrV9Ez8.png" style="position:absolute; left: 50px; bottom: -180px; width: 430px;">
+
+
+\pagebreakNum
+
 
 ___
-> ## Warhorse <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;45;4;12;7;7;7;0;7;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Weasel
+>*Tiny beast, unaligned*
 > ___
-> - **Armor Class** 11
-> - **Hit Points** 45 (7d10 + 7)
-> - **Speed** 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |18 (+4)|12 (+1)|13 (+1)| 2 (-4)|12 (+1)| 7 (-2)|
-> ___
-> - **Senses** passive Perception 11
+> - **Armor Class** 13
+> - **Hit Points** 1 (1d4-1)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|3 (-4)|16 (+3)|8 (-1)|2 (-4)|12 (+1)|3 (-4)|
+>___
+> - *Skills** Perception +3, Stealth +5
+> - **Senses** passive Perception 13
 > - **Languages** —
-> - **Challenge** 1/2 (100 XP)
+> - **Challenge** 0 (10 XP)
 > ___
-> ***Trampling Charge.*** If the warhorse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the warhorse can make another attack with its hooves against it as a bonus action.
+>
+> ***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
 > ### Actions
-> ***Hooves.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d6) bludgeoning damage.
-
-\columnbreak
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
 ___
-> ## Whale
-> *Huge beast, unaligned*
-> ___
-> - **Armor Class** 12 (natural armor)
-> - **Hit Points** 90 (12d12 + 12)
-> - **Speed** Swim 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |19 (+4)|10 (+0)|13 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
-> ___
-> - **Skills** Perception +3
-> - **Senses** blindsight 120 Ft., passive Perception 13
-> - **Languages** —
-> - **Challenge** 3 (700 XP)
-> ___
-> ***Echolocation.*** The whale can't use its blindsight while deafened.
->
-> ***Hold Breath.*** The whale can hold its breath for 30 minutes
-> 
-> ***Keen Hearing.*** The whale has advantage on Wisdom (Perception) checks that rely on hearing.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* (5d6 + 4) piercing damage.
-
-___
-> ## Wolf <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;16;3;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
+> ## Wolf
+>*Medium beast, unaligned*
 > ___
 > - **Armor Class** 13 (natural armor)
-> - **Hit Points** 16 (3d8 + 3)
+> - **Hit Points** 11 (2d8 + 2)
 > - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |12 (+1)|15 (+2)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|15 (+2)|12 (+1)|3 (-4)|12 (+1)|6 (-2)|
+>___
 > - **Skills** Perception +3, Stealth +4
 > - **Senses** passive Perception 13
 > - **Languages** —
@@ -11192,74 +9928,57 @@ ___
 > ***Pack Tactics.*** The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
-<img src='https://www.gmbinder.com/images/BrDcy46.png' class='inkblot inkblot-green' style='position:absolute; left:-100px; bottom:-260px; width:600px; transform:rotate(-3deg)' />
-<img src='https://www.gmbinder.com/images/IEF29zI.png' style='position:absolute; left:-40px; bottom:50px; transform:scaleX(-1)' />
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
+\columnbreak
 
 ___
-> ## Worg <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;26;4;12;9;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
+> ## Worg
+>*Large monstrosity, neutral evil*
 > ___
-> - **Armor Class** 14 (natural armor)
+> - **Armor Class** 13 (natural armor)
 > - **Hit Points** 26 (4d10 + 4)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |15 (+2)|15 (+2)|13 (+1)| 4 (-3)|11 (+0)| 8 (-1)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|13 (+1)|13 (+1)|7 (-2)|11 (+0)|8 (-1)|
+>___
 > - **Skills** Perception +4
 > - **Senses** darkvision 60 ft., passive Perception 14
-> - **Languages** —
+> - **Languages** Worg, understands one other language but can't speak it
 > - **Challenge** 1/2 (100 XP)
 > ___
 >
 > ***Keen Hearing and Smell.*** The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+A **worg** is akin to the many types of wolves found across Kalimdor and the Eastern Kingdoms, though far bigger and far more cunning -- they grow to be as large as 10 feet from snout to tail, and are notoriously hard to tame. Worgs found across Azeroth are typically either native to Northrend or descendants of those brought from Draenor by the Old Horde.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/Sjc9IFl.png" class="inkblot inkblot-green" style="bottom: -175px;left: -10px;width: 760px;transform: rotate(180deg);">
+<img src="https://i.imgur.com/gk2fhj9.png" style="position:absolute; right: 0px; bottom: -50px;width: 700px;">
+
+\pagebreakNum
+
 
 ___
-> ## Yak <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;42;6;14;9;11;9;0;9;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 11 (natural armor)
-> - **Hit Points** 42 (5d10 + 15)
-> - **Speed** 40 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |18 (+4)| 8 (-1)|16 (+3)| 2 (-4)|11 (+0)| 6 (-2)|
-> ___
-> - **Senses** passive Perception 10
-> - **Languages** —
-> - **Challenge** 1 (200 XP)
-> ___
-> ***Trampling Charge.*** If the yak moves at least 20 feet straight toward a creature and then hits it with a ram attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the yak can make another attack with its hooves against it as a bonus action.
->
-> ### Actions
-> ***Ram.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10 + 4) bludgeoning damage.
->
-> ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one prone creature. *Hit:* 11 (2d6 + 4) bludgeoning damage.
-
-\columnbreak
-___
-> ## Zhevra <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;13;3;13;15;0;8;0;8;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
-> *Large beast, unaligned*
+> ## Zhevra
+>*Large beast, unaligned*
 > ___
 > - **Armor Class** 11
-> - **Hit Points** 32 (5d10 + 5)
+> - **Hit Points** 13 (2d10 + 2)
 > - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |16 (+3)|12 (+1)|13 (+1)| 2 (-4)|12 (+1)| 7 (-2)|
-> ___
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|12 (+1)|13 (+1)|2 (-4)|12 (+1)|7 (-2)|
+>___
 > - **Senses** passive Perception 11
 > - **Languages** —
 > - **Challenge** 1/2 (100 XP)
@@ -11268,42 +9987,156 @@ ___
 > ***Trampling Charge.*** If the zhevra moves at least 20 feet straight toward a creature and then hits it with a horn attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the zhevra can make one attack with its hooves against it as a bonus action.
 >
 > ### Actions
-> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (2d4) piercing damage.
+> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d4 + 3) piercing damage.
 >
-> ***Horn.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 4 (1d8) piercing damage.
+> ***Horn.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 3) piercing damage.
 
-A **zhevra** resembles a large, striped horse with a horn piercing through its forehead, similar to that of a unicorn. Though they might seem threatening, they are usually very passive beasts; remarkably easy to frighten. They move together in herds, keeping close for their own protection.
+A **zhevra** resembles a large, striped horse with a horn piercing through its forehead, similar to that of a unicorn. Though they might seem threatening, they are usually very passive beasts; remarkably easy to frighten. 
+
+They move together in herds, keeping close for their own protection. Not only do they have to contend with natural predators, such as lions and raptors; cutting one's teeth on zhevras is akin to a rite of passage for new Horde recruits posted setting foot in the Barrens. 
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-<img src='https://www.gmbinder.com/images/CRqcfac.png' class='inkblot inkblot-green' style='top:550px; right:-220px; width:700px'>
-<img src='https://www.gmbinder.com/images/4TyqQuB.png' style='position:absolute; top:600px; right:-75px; width:500px' />
+<img src="https://i.imgur.com/oo9MSsl.jpg" style="position:absolute; top:0px; right:-40px; height: 100%;" />
+<img src="https://i.imgur.com/LvWTTOl.png" style="position:absolute; left: -20px; top:0px; width:880px;transform: scaleX(-1);">
+<img src="https://i.imgur.com/7yFkO89.png" style="position:absolute; top: 540px; left: 55px; width: 700px;">
 
 \pagebreakNum
 
-<div style='margin-top:20px;'></div>
-<div class='back-cover-header'>
+## Appendix A Art Credits
+
+<div style='margin-top:-14px;'></div>
+
+<br />**Dwarf Hunter with Bear** by [Miao Zi](https://www.reddit.com/r/Art/comments/5db5gv/dwarf_hunter_with_bear_by_miao_zi_2560_1600_2015/)
+<br />**River Crocolisk** by [Daren Bader](https://hearthstone.fandom.com/wiki/River_Crocolisk)
+<br />**Phase Hound** by [Lars Grant-West](https://wowpedia.fandom.com/wiki/Phase_Hound_(Blood_of_Gladiators))
+<br />**Fox Render** from World of Warcraft
+<br />**Frenzyfish Renders** from World of Warcraft
+<br />**Wasteland Scorpid** by [Mauricio Herrera](https://hearthstone.fandom.com/wiki/Wasteland_Scorpid)
+<br />**Tomb Spider** by [Turovec Konstantin](https://hearthstone.fandom.com/wiki/Tomb_Spider)
+<br />**Swift Hawkstrider** by [Tyler Walpole](https://hearthstone.fandom.com/wiki/Battle_Hawkstrider)
+<br />**Hyena Alpha** by [Peter Stapleton](https://hearthstone.fandom.com/wiki/Hyena_Alpha)
+<br />**Elderhorn Render** from World of Warcraft
+<br />**Highmountain Scenery** from World of Warcraft
+<br />**Owl Render** from World of Warcraft
+<br />**Ardenweald Moth** by [Natacha Nielsen](https://www.artstation.com/artwork/rAPxKE)
+<br />**Brood Mother** by [Arthur Gimaldinov](https://www.artstation.com/artwork/2BNKa)
+<br />**Tallstrider Render** from World of Warcraft
+<br />**Wolf** by [Arthur Bozonnet](https://hearthstone.fandom.com/wiki/Wolf)
+<br />**Zhevra Mount** by [Melissa O'Brien](https://www.deviantart.com/frisket17/art/Warcraft-Zhevra-Mount-133017740)
+<br />**Crossroads** by [Jay Axer](https://www.artstation.com/artwork/q9wKaD)
+
+
+\pagebreakNum
+
+
+<style>
+
+/* BACK PAGE STYLES */
+
+  /* Remove footer from back page, replace pX with last page number */
+  .phb#p13:after { display:none; }
+
+  .phb .back-cover-content {
+    padding-left: 4px;
+    padding-right: 16px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
+  }
+  .phb .back-cover-right {
+      padding-left: 40px;
+  }
+  .phb .back-cover-image {
+    height: 1136px;
+    left: -20px;
+    top: -10px;
+    width: 475px;
+    background-size: 475px 1136px;
+  }
+  .phb .back-cover-diamond {
+    display: block;
+    position: initial;
+    left: initial;
+    top: initial;
+    margin: auto;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+  }
+ .phb .back-cover-logo-container {
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 314px;
+ }
+ .phb .back-cover-logo,
+ .phb .back-cover-logo-link {
+     position: initial;
+     margin: auto;
+     margin-bottom: 8px;
+     left: initial;
+     bottom: initial;
+     right: initial;
+     background-repeat: no-repeat;
+ }
  
-Thanks for Reading
-</div>
+ </style>
+ 
+ <img src='https://www.gmbinder.com/images/03TEaX0.jpg' style='position:absolute; top:0px; right:-300px; width:860px' />
+ 
+ <div class='back-cover-image'></div>
+ 
+ <div style='margin-top:20px;'></div>
+ 
+ <div class='back-cover-header'>
+ 
+ Warcraft
+ 
+ 5th Edition
+ 
+ </div>
  
 <div class='back-cover-text'>
-
-This has been a project made by a group of people who have loved the Warcraft franchise for many years at this point, and wanted to bring it back to Dungeons and Dragons for everyone to enjoy.
-
-This has been a blast for us to make, and we thoroughly enjoy making it and improving upon it. We hope this will bring joy to many D&D tables around the world. Best of luck to all the parties of humans and orcs, try not to chop each other up too much <3
+ 
+  *WC5E Manual of Monsters v3*
+ 
+  This document is part of the third major revision of our *Warcraft 5th Edition* project; a collection of player classes, races, backgrou&shy;nds, creature statblocks, and more to put a Warcraft spin on core Dungeons & Dragons material.
+  
+  We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
+  
+  [Our project on Github](https://github.com/WC5E/Warcraft-5e-Conversion/) <br />
+  [Our community on Reddit](https://www.reddit.com/r/wc5e/) <br />
+  [Our community on Discord](https://discord.com/invite/dKMJmmD)
+  
 </div>
  
 <div class='back-cover-diamond' style='top: 679px;'></div>
-<div style='margin-top:155px;'></div>
+ 
+<div style='margin-top:35px;'></div>
+ 
 <div class='back-cover-close'>
 
-Did you know this was all made using GmBinder? I can't stretch enough how fantastic a tool it is for creating homebrew material for 5th edition D&D.
+  Big love from the team. ❤
 
-[Go check them out!](https://www.gmbinder.com/)
+   
 </div>
-<div class='back-cover-logo'></div>
 
-<style> .phb#p129:after { display:none; } </style>
-<img src='https://www.gmbinder.com/images/03TEaX0.jpg' style='position:absolute; top:0px; right:-300px; width:860px' />
-<img src='https://www.gmbinder.com/images/53AaufH.png' style='position:absolute; top:0px; right:-100px; width:900px' />
+<div class='back-cover-logo-container'>
+ 
+  <div class='back-cover-logo'></div>
+ 
+  <div class='back-cover-logo-link'>
+ 
+  [WWW.GMBINDER.COM](https://www.gmbinder.com)
+ 
+  </div>
+
+</div>
+ 
+ \columnbreak
+ 
+
+<div class='back-cover-right'>
+
+</div>
