@@ -10396,6 +10396,32 @@ ___
 \columnbreak
 
 ___
+> ## Orca
+> *Large beast, unaligned*
+> ___
+> - **Armor Class** 12 (natural armor)
+> - **Hit Points** 90 (12d12 + 12)
+> - **Speed** Swim 60 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |19 (+4)|10 (+0)|13 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
+> ___
+> - **Skills** Perception +3
+> - **Senses** blindsight 120 Ft., passive Perception 13
+> - **Languages** —
+> - **Challenge** 3 (700 XP)
+> ___
+> ***Echolocation.*** The orca can't use its blindsight while deafened.
+>
+> ***Hold Breath.*** The orca can hold its breath for 30 minutes
+> 
+> ***Keen Hearing.*** The orca has advantage on Wisdom (Perception) checks that rely on hearing.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 21 (5d6 + 4) piercing damage.
+
+___
 > ## Owl <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;1;3;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
 > ___
@@ -10419,6 +10445,13 @@ ___
 >
 > ### Actions
 > ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/0hVRLNf.png" class="inkblot inkblot-green" style="bottom: -225px;left: -180px;width: 820px;transform: rotate(330deg) scaleX(-1);">
+<img src="https://i.imgur.com/BecGt0i.png" style="position:absolute;bottom: -65px;left: 35px;width: 350px;">
+
+\pagebreakNum
 
 ___
 > ## Panther <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;11;4;12;4;5;5;0;5;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10446,15 +10479,6 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://i.imgur.com/0hVRLNf.png" class="inkblot inkblot-green" style="bottom: -225px;left: -180px;width: 820px;transform: rotate(330deg) scaleX(-1);">
-<img src="https://i.imgur.com/BecGt0i.png" style="position:absolute;bottom: -65px;left: 35px;width: 350px;">
-
-\pagebreakNum
-
-
 ___
 > ## Poisonous Snake <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;2;5;10;3;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
@@ -10474,6 +10498,9 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 2 (1d4) poison damage on a failed save, or half as much damage on a successful one.
+
+
+\columnbreak
 
 ___
 > ## Polar Bear <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;42;7;10;21;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10504,8 +10531,6 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 
-\columnbreak
-
 ___
 > ## Pony <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;11;4;10;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Medium beast, unaligned*
@@ -10525,6 +10550,12 @@ ___
 >
 > ### Actions
 > ***Hooves.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (2d4) bludgeoning damage.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 
 ___
 > ## Rat <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;1;0;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10547,11 +10578,6 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
-
 ___
 > ## Raven <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;1;4;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
@@ -10573,6 +10599,9 @@ ___
 >
 > ### Actions
 > ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+
+
+\columnbreak
 
 ___
 > ## Reef Shark <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;10;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
@@ -10599,8 +10628,6 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
-\columnbreak
-
 ___
 > ## Rhino <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;37;7;12;14;9;14;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Large beast, unaligned*
@@ -10622,6 +10649,11 @@ ___
 > ### Actions
 > ***Gore.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 ___
 > ## Riding Horse
 > *Large beast, unaligned*
@@ -10641,12 +10673,6 @@ ___
 >
 > ### Actions
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (2d4) bludgeoning damage.
-
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 
 ___
 > ## Riverbeast <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;93;4;12;12;7;12;0;12;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10675,9 +10701,11 @@ ___
 >
 > ***Tail.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) bludgeoning damage.
 
-**Riverbeasts** are great aquatic beasts of Draenor, possessing a rocky plates, a club-like tail, and long lower tusks. While they appear docile at a distance, they are known to be one of the most easily provoked and deadly animals on the planet. Azeroth possess its own variety of riverbeast, though their skin is smooth and they lack the prominent tails of their cousins.
 
 \columnbreak
+
+
+**Riverbeasts** are great aquatic beasts of Draenor, possessing a rocky plates, a club-like tail, and long lower tusks. While they appear docile at a distance, they are known to be one of the most easily provoked and deadly animals on the planet. Azeroth possess its own variety of riverbeast, though their skin is smooth and they lack the prominent tails of their cousins.
 
 ___
 > ## Scorpid <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;13;3;12;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10703,6 +10731,11 @@ A **scorpid** is a quick and vicious predator, commonly found in dry and arid pa
 
 They are kin to scorpions, though scorpids are far larger and far, far deadlier. it is said that the venom of an adult scorpid's stinger holds enough venom to kill beasts a hundred times its size.
 
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 ___
 > ## Sea Horse
 >*Tiny beast, unaligned*
@@ -10721,12 +10754,6 @@ ___
 > ___
 >
 > ***Water Breathing.*** The sea horse can breathe only underwater.
-
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 
 ___
 > ## Shoveltusk <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;90;4;12;9;7;9;0;9;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -11310,33 +11337,6 @@ ___
 
 \pagebreakNum
 
-
-
-___
-> ## Whale
-> *Huge beast, unaligned*
-> ___
-> - **Armor Class** 12 (natural armor)
-> - **Hit Points** 90 (12d12 + 12)
-> - **Speed** Swim 60 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |19 (+4)|10 (+0)|13 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
-> ___
-> - **Skills** Perception +3
-> - **Senses** blindsight 120 Ft., passive Perception 13
-> - **Languages** —
-> - **Challenge** 3 (700 XP)
-> ___
-> ***Echolocation.*** The whale can't use its blindsight while deafened.
->
-> ***Hold Breath.*** The whale can hold its breath for 30 minutes
-> 
-> ***Keen Hearing.*** The whale has advantage on Wisdom (Perception) checks that rely on hearing.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* (5d6 + 4) piercing damage.
 
 ___
 > ## Wolf <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;16;3;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
