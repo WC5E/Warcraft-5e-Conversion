@@ -9142,8 +9142,6 @@ ___
 > ### Actions
 > ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
 
-\columnbreak
-
 ___
 > ## Elekk <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;85;5;13;12;16;12;0;12;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Large beast, unaligned*
@@ -9167,11 +9165,11 @@ ___
 >
 > ***Stomp.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one prone creature. *Hit:* 16 (3d8 + 3) bludgeoning damage.
 
+\columnbreak
+
 The great **elekks** are among the oldest living species on Draenor. These trunked creatures move in herds and while generally peaceful as long as their young and water supply are unthreatened, can use their four tusks to deadly effect. The draenei have been known to use them as beasts of burden, using Light-infused crystals to render them more docile.
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
 
 ___
 > ## Fox <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;4;0;13;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;1;;;;;;10;;;;;;;;;;; -->
@@ -9197,6 +9195,8 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 4 (1d4) piercing damage.
+
+\pagebreakNum
 
 ___
 > ## Forest Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;7;4;10;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9224,9 +9224,6 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 2 (1d4) poison damage.
 
-
-\columnbreak
-
 ___
 > ## Frenzyfish <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;1;0;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;1;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
@@ -9251,14 +9248,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://i.imgur.com/zxp4HSp.png" class="inkblot inkblot-green" style="top: 361px;left: 20px;width: 820px;transform: rotate(39deg);">
-<img src="https://i.imgur.com/DpcTgA2.png" style="position:absolute;bottom: 60px;right: 42px;width: 850px;">
-
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Frog <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;1;0;10;0;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9309,11 +9299,13 @@ ___
 >
 > ***Screech.*** The bat lets out a sonic blast in a 15-foot line that is 5 feet wide. Each creature in that area must make a DC 10 Constitution save or take 9 (2d8) thunder damage, or half as much on a successful save.
 
-
-\columnbreak
-
-
 The Forsaken make good use of **giant bats** as aerial mounts, using them as scouts and as platforms to drop vials of plague upon their enemies. In the wild, they are most often seen in the Plaguelands, drawn to the carrion stench of the region.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+
+\pagebreakNum
 
 ___
 > ## Giant Bear <!-- https://wc5e-cr-calculator.frogvall.com/?1;16;162;10;18;33;16;33;0;33;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9345,10 +9337,7 @@ ___
 > ***Claws.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 17 (3d6 + 7) slashing damage.
 
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
+\columnbreak
 
 
 ___
@@ -9397,7 +9386,9 @@ ___
 > ***Tusk.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
 
-\columnbreak
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
 
 ___
 > ## Giant Constrictor Snake <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;87;6;16;24;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9448,10 +9439,7 @@ ___
 > ***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crap has two claws, each of which can grapple only one target.
 
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
+\columnbreak
 
 ___
 > ## Giant Crocolisk <!-- https://wc5e-cr-calculator.frogvall.com/?1;14;123;8;16;35;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9478,6 +9466,17 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocolisk can't bite another target.
 >
 > ***Tail.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target not grappled by the crocolisk. *Hit:* 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 531px;left: 20px;width: 770px;transform: rotate(39deg);">
+<img src="https://i.imgur.com/xgTWyy8.png" style="position:absolute;top: 640px;right: -18px;width: 760px;">
+
+\pagebreakNum
+
+
+
 
 \columnbreak
 
@@ -9531,14 +9530,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 531px;left: 20px;width: 770px;transform: rotate(39deg);">
-<img src="https://i.imgur.com/xgTWyy8.png" style="position:absolute;top: 640px;right: -18px;width: 760px;">
-
-\pagebreakNum
-
+\columnbreak
 
 ___
 > ## Giant Frog <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;18;3;11;4;0;4;10;4;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9565,6 +9557,16 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.
 >
 > ***Swallow.*** The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement exiting prone.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+
+
+\pagebreakNum
+
+
+
 
 
 \columnbreak
@@ -9618,11 +9620,7 @@ ___
 >
 > ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (7d6 + 6) bludgeoning damage.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
+\columnbreak
 
 ___
 > ## Giant Moth <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9671,6 +9669,14 @@ ___
 >
 > ### Actions
 > ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (2d4 + 1) slashing damage.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
+
+
 
 
 \columnbreak
@@ -9723,11 +9729,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 22 (3d10 + 6) piercing damage.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
+\columnbreak
 
 ___
 > ## Giant Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;26;5;12;14;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;1;;;;; -->
@@ -9757,16 +9759,20 @@ ___
 >
 > ***Web (Recharge 5-6).*** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one creature. *Hit:* The target is then restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 
-
-\columnbreak
-
-
 > ##### Variant: Giant Deathweb Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;26;5;12;0;9;26;9;15;9;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;1 -->
 > A deathweb spider has a challenge rating of 2 (450 XP). It has the same statistics as a giant spider except that it replaces the giant spider's bite with the following actions. Additionally, the spider's web deals 9 (2d8) acid damage to a creature restrained by it at the beginning of the creatures turn.
 >
 > ***Infected Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8 + 3) piercing damage plus 3 (1d6) acid damage.
 >
 > ***Burning Acid (Recharge after a Short or Long rest).*** The spider spews forth a burning hot acid. Each creature in a 10-foot cone must make a DC 12 Dexterity saving throw, taking 13 (3d8) fire damage on a failed save, or half as much on a success.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
+
+
 
 ___
 > ## Giant Stag <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;42;5;14;11;7;22;0;11;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9792,16 +9798,6 @@ ___
 >
 > ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one prone creature. *Hit:* 22 (4d8 + 4) bludgeoning damage.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://i.imgur.com/YmzkuLc.jpg" style="position: absolute;bottom: -60px;right: -10px;width: 900px;">
-
-<img src="https://i.imgur.com/NO1EQoX.png" style="position:absolute;top: -20px;right:0px;width:800px;transform: scale(-1);">
-
-\pagebreakNum
-
-
 ___
 > ## Giant Wasp
 > *Medium beast, unaligned*
@@ -9821,6 +9817,8 @@ ___
 >
 > ### Actions
 > ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much on a successful one. If the poison damage reduce the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+
+\columnbreak
 
 ___
 > ## Giraffe <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;34;5;15;7;9;7;0;7;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9848,7 +9846,17 @@ ___
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage.
 
 
-\columnbreak
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/YmzkuLc.jpg" style="position: absolute;bottom: -60px;right: -10px;width: 900px;">
+
+<img src="https://i.imgur.com/NO1EQoX.png" style="position:absolute;top: -20px;right:0px;width:800px;transform: scale(-1);">
+
+\pagebreakNum
+
+
+
+
 
 ___
 > ## Goat <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;9;3;11;3;2;3;0;3;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9872,6 +9880,9 @@ ___
 >
 > ### Actions
 > ***Ram.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) bludgeoning damage.
+
+
+\columnbreak
 
 ___
 > ## Gorilla <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;34;5;11;16;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9897,7 +9908,37 @@ ___
 >
 > ***Rock.*** *Ranged Weapon Attack:* +5 to hit, range 25/20 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage.
 
+
+___
+> ## Gorilla Elder <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;119;7;12;24;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
+> *Large beast, unaligned*
+> ___
+> - **Armor Class** 14
+> - **Hit Points** 119 (14d10 + 42)
+> - **Speed** 30 ft., climb 30 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |21 (+5)|18 (+4)|17 (+3)| 6 (-2)|12 (+1)| 7 (-2)|
+> ___
+> - **Skills** Athletics +7, Perception +3
+> - **Senses** passive Perception 13
+> - **Languages** —
+> - **Challenge** 4 (1,100 XP)
+> ___
+>
+> ### Actions
+> ***Multiattack.*** The gorilla makes two fist attacks.
+>
+> ***Fist.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage.
+>
+> ***Rock.*** *Ranged Weapon Attack:* +7 to hit, range 25/20 ft., one target. *Hit:* 10 (2d4 + 5) bludgeoning damage.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
 \pagebreakNum
+
 
 ___
 > ## Grizzly Bear <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;95;8;18;23;10;23;0;23;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10784,31 +10825,6 @@ ___
 \columnbreak
 
 ___
-> ## Silverback Gorilla <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;119;7;12;24;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Large beast, unaligned*
-> ___
-> - **Armor Class** 14
-> - **Hit Points** 119 (14d10 + 42)
-> - **Speed** 30 ft., climb 30 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |21 (+5)|18 (+4)|17 (+3)| 6 (-2)|12 (+1)| 7 (-2)|
-> ___
-> - **Skills** Athletics +7, Perception +3
-> - **Senses** passive Perception 13
-> - **Languages** —
-> - **Challenge** 4 (1,100 XP)
-> ___
->
-> ### Actions
-> ***Multiattack.*** The gorilla makes two fist attacks.
->
-> ***Fist.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage.
->
-> ***Rock.*** *Ranged Weapon Attack:* +7 to hit, range 25/20 ft., one target. *Hit:* 10 (2d4 + 5) bludgeoning damage.
-
-___
 > ## Skywisp Moth <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;3;3;10;3;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Small beast, unaligned*
 > ___
@@ -11195,12 +11211,6 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
 
-**Tallstriders** are large, flightless birds, native to the plains and savannahs of central Kalimdor. There is a very clear and stubborn pride to the tallstriders, making them near impossible to domesticate and useless as beasts of burden.
-
-Some skilled hunters and beast-handlers have mastered the art of taming a tallstrider, however. For them, the birds' strength and speed make them excellent companions for any sudden skirmish.
-
-\columnbreak
-
 ___
 > ## Tiger
 > *Large beast, unaligned*
@@ -11229,10 +11239,7 @@ ___
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* (1d8 + 3) slashing damage.
 
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
+\columnbreak
 
 ___
 > ## Towering Tallstrider <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;32;4;13;15;0;9;0;9;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
@@ -11258,6 +11265,19 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.
 
+**Tallstriders** are large, flightless birds, native to the plains and savannahs of central Kalimdor. There is a very clear and stubborn pride to the tallstriders, making them near impossible to domesticate and useless as beasts of burden.
+
+Some skilled hunters and beast-handlers have mastered the art of taming a tallstrider. For them, the birds' strength and speed make them excellent skirmish companions.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/BrDcy46.png" class="inkblot inkblot-green" style="bottom: -325px;left: -15px;width: 840px;transform: rotate(-195deg);">
+<img src="https://i.imgur.com/IrV9Ez8.png" style="position:absolute;right: 10px;bottom: -190px;width: 370px;/* transform: scaleX(-1); */">
+
+\pagebreakNum
+
+
 ___
 > ## Turtle <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;30;4;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Medium beast, unaligned*
@@ -11279,9 +11299,6 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
-
-
-\columnbreak
 
 ___
 > ## Warhorse <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;45;4;12;7;7;7;0;7;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -11305,6 +11322,8 @@ ___
 > ***Hooves.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d6) bludgeoning damage.
 
 
+\columnbreak
+
 ___
 > ## Weasel
 >*Tiny beast, unaligned*
@@ -11327,16 +11346,6 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
-
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://i.imgur.com/BrDcy46.png" class="inkblot inkblot-green" style="bottom: -295px;left: -130px;width: 850px;transform: rotate(-270deg);">
-<img src="https://i.imgur.com/IrV9Ez8.png" style="position:absolute; left: 50px; bottom: -180px; width: 430px;">
-
-
-\pagebreakNum
-
 
 ___
 > ## Wolf <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;16;3;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
@@ -11364,7 +11373,11 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 
 ___
 > ## Worg <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;26;4;12;9;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -11391,13 +11404,8 @@ ___
 
 A **worg** is akin to the many types of wolves found across Kalimdor and the Eastern Kingdoms, though far bigger and far more cunning -- they grow to be as large as 10 feet from snout to tail, and are notoriously hard to tame. Worgs found across Azeroth are typically either native to Northrend or descendants of those brought from Draenor by the Old Horde.
 
+\columnbreak
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://i.imgur.com/Sjc9IFl.png" class="inkblot inkblot-green" style="bottom: -175px;left: -10px;width: 760px;transform: rotate(180deg);">
-<img src="https://i.imgur.com/gk2fhj9.png" style="position:absolute; right: 0px; bottom: -50px;width: 700px;">
-
-\pagebreakNum
 
 ___
 > ## Yak <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;42;6;14;9;11;9;0;9;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -11421,6 +11429,14 @@ ___
 > ***Ram.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10 + 4) bludgeoning damage.
 >
 > ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one prone creature. *Hit:* 11 (2d6 + 4) bludgeoning damage.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/Sjc9IFl.png" class="inkblot inkblot-green" style="bottom: -175px;left: -10px;width: 760px;transform: rotate(180deg);">
+<img src="https://i.imgur.com/gk2fhj9.png" style="position:absolute; right: 0px; bottom: -50px;width: 700px;">
+
+\pagebreakNum
 
 
 ___
