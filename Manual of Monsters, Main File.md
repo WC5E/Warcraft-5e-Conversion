@@ -9855,9 +9855,6 @@ ___
 \pagebreakNum
 
 
-
-
-
 ___
 > ## Goat <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;9;3;11;3;2;3;0;3;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Medium beast, unaligned*
@@ -10087,6 +10084,12 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
 
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+
+\pagebreakNum
+
 ___
 > ## Hyena <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;3;10;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
 > *Medium beast, unaligned*
@@ -10114,11 +10117,12 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) slashing damage.
 
+Hyenas are scavengers who thrive in the most barren reaches of Kalimdor and Zandalar &mdash; from Desolace and the Barrens, out across the dunes of Tanaris and Vol'dun. 
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+Azerothian hyenas keep keep together in large clans, with most following the call of their **matriarch**; the clan's strongest and most cunning female member, whose rallying cry can quickly rouse her kin to action.
 
 
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Hyena Matriarch <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;33;4;10;12;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;1;;10;;;;;;;;;;; -->
@@ -10151,12 +10155,13 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
 
-Hyenas are scavengers who thrive in the most barren reaches of Kalimdor and Zandalar &mdash; from Desolace and the Barrens, out across the dunes of Tanaris and Vol'dun. 
 
-Azerothian hyenas keep keep together in large clans, with most following the call of their **matriarch**; the clan's strongest and most cunning female member, whose rallying cry can quickly rouse her kin to action.
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
+<img src="https://www.gmbinder.com/images/CRqcfac.png" class="inkblot inkblot-green" style="top: 600px;right: 20px;width: 740px;transform: rotate(-135deg);">
+<img src="https://i.imgur.com/RRwI4sS.png" style="position:absolute; bottom:0; right:0px; width:540px;">
 
-\columnbreak
+\pagebreakNum
 
 ___
 > ## Lion <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;26;5;10;6;7;7;0;7;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
@@ -10190,12 +10195,8 @@ ___
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+\columnbreak
 
-<img src="https://www.gmbinder.com/images/CRqcfac.png" class="inkblot inkblot-green" style="top: 600px;right: 20px;width: 740px;transform: rotate(-135deg);">
-<img src="https://i.imgur.com/RRwI4sS.png" style="position:absolute; bottom:0; right:0px; width:540px;">
-
-\pagebreakNum
 
 ___
 > ## Lion Pridemane <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;52;5;10;19;7;19;0;19;0;0;0;0;0;0;0;;;;;3;;;;;;;1;;;1;;;1;;;;;10;;;;;;;;;;; -->
@@ -10236,7 +10237,11 @@ Lions roam far and wide across central Kalimdor, stalking the tall grass in smal
 
 Chief among them is the **pridemane**; the pride's leading male, who towers high above the rest with its imposing stature and massive mane.
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 ___
 > ## Lizard
 >*Tiny beast, unaligned*
@@ -10256,10 +10261,6 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
 
 ___
 > ## Mammoth <!-- https://wc5e-cr-calculator.frogvall.com/?1;13;126;10;18;25;29;50;0;25;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10311,37 +10312,35 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
-___
-> ## Mountain Lion <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;5;6;6;0;6;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
-> *Medium beast, unaligned*
-> ___
-> - **Armor Class** 12
-> - **Hit Points** 22 (4d8 + 4)
-> - **Speed** 50 ft.
-> ___
-> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-> |14 (+2)|15 (+2)|12 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
-> ___
-> - **Skills** Perception +3, Stealth +4
-> - **Senses** passive Perception 13
-> - **Languages** —
-> - **Challenge** 1/2 (100 XP)
-> ___
->
-> ***Keen Smell.*** The lion has advantage on Wisdom (Perception) checks that rely on smell.
->
-> ***Pounce.*** If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.
->
-> ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
->
-> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
-
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
 \pagebreakNum
+
+___
+> ## Monkey <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;19;5;13;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
+> *Medium beast, unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 19 (3d8 + 6)
+>- **Speed** 30 ft., climb 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|14 (+2)|14 (+2)|6 (-2)|12 (+1)|7 (-2)|
+>___
+>- **Skills** Athletics +5, Perception +3
+>- **Senses** passive Perception 13
+>- **Languages** —
+>- **Challenge** 1/2 (100 XP)
+>___
+>### Actions
+>***Fist.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage.  
+>
+>***Rock.*** *Ranged Weapon Attack:* +5 to hit, range 25/50 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage.
+
+
+\columnbreak
 
 ___
 > ## Moose <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;30;5;13;7;7;8;0;8;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;;;;; -->
@@ -10371,7 +10370,15 @@ ___
 
 Also known as elderhorn, the great **moose** of Azeroth are lumbering beasts recognized by the characteristic shape of their massive antlers. They are favored animals among the Highmountain tauren, and some herds make their home within druidic groves -- where they grow a particular kind of kinship with the grove's residing druids.
 
-\columnbreak
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/PMfzlNn.jpg" style="position:absolute;bottom: 0px;right: 0px;width: 910px;">
+<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute;top: 0px;right:0px;width: 820px;transform: scaleX(-1);">
+<img src="https://i.imgur.com/RUukMlL.png" style="position:absolute;bottom: 5px;right: 45px;width: 435px;">
+
+\pagebreakNum
 
 ___
 > ## Mule <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;11;2;10;2;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10396,14 +10403,34 @@ ___
 > ### Actions
 > ***Hooves.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
 
+___
+> ## Mountain Lion <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;5;6;6;0;6;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
+> *Medium beast, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 22 (4d8 + 4)
+> - **Speed** 50 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |14 (+2)|15 (+2)|12 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
+> ___
+> - **Skills** Perception +3, Stealth +4
+> - **Senses** passive Perception 13
+> - **Languages** —
+> - **Challenge** 1/2 (100 XP)
+> ___
+>
+> ***Keen Smell.*** The lion has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ***Pounce.*** If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.
+>
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+>
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://i.imgur.com/PMfzlNn.jpg" style="position:absolute;bottom: 0px;right: 0px;width: 910px;">
-<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute;top: 0px;right:0px;width: 820px;transform: scaleX(-1);">
-<img src="https://i.imgur.com/RUukMlL.png" style="position:absolute;bottom: 5px;right: 45px;width: 435px;">
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Octopus <!-- https://wc5e-cr-calculator.frogvall.com/?v2;0;12;3;4;10;1;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;;1;0;1;3;;is1;;is2;;is3; -->
@@ -10434,7 +10461,9 @@ ___
 > 
 > ***Ink Cloud (Recharges after a Short or Long Rest).*** A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
-\columnbreak
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
 
 ___
 > ## Orca
@@ -10462,6 +10491,9 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 21 (5d6 + 4) piercing damage.
 
+
+\columnbreak
+
 ___
 > ## Owl <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;1;3;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
@@ -10486,13 +10518,6 @@ ___
 >
 > ### Actions
 > ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://i.imgur.com/0hVRLNf.png" class="inkblot inkblot-green" style="bottom: -225px;left: -180px;width: 820px;transform: rotate(330deg) scaleX(-1);">
-<img src="https://i.imgur.com/BecGt0i.png" style="position:absolute;bottom: -65px;left: 35px;width: 350px;">
-
-\pagebreakNum
 
 ___
 > ## Panther <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;11;4;12;4;5;5;0;5;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10520,6 +10545,15 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
 
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/0hVRLNf.png" class="inkblot inkblot-green" style="bottom: -225px;left: -180px;width: 820px;transform: rotate(330deg) scaleX(-1);">
+<img src="https://i.imgur.com/BecGt0i.png" style="position:absolute;bottom: -65px;left: 35px;width: 350px;">
+
+\pagebreakNum
+
+
+
 ___
 > ## Poisonous Snake <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;2;5;10;3;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
@@ -10539,9 +10573,6 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 2 (1d4) poison damage on a failed save, or half as much damage on a successful one.
-
-
-\columnbreak
 
 ___
 > ## Polar Bear <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;42;7;10;21;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10572,6 +10603,9 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 
+
+\columnbreak
+
 ___
 > ## Pony <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;11;4;10;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Medium beast, unaligned*
@@ -10591,12 +10625,6 @@ ___
 >
 > ### Actions
 > ***Hooves.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (2d4) bludgeoning damage.
-
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 
 ___
 > ## Rat <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;1;0;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10619,6 +10647,13 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
+
 ___
 > ## Raven <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;1;4;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
@@ -10640,9 +10675,6 @@ ___
 >
 > ### Actions
 > ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
-
-
-\columnbreak
 
 ___
 > ## Reef Shark <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;10;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
@@ -10669,6 +10701,8 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
+\columnbreak
+
 ___
 > ## Rhino <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;37;7;12;14;9;14;0;14;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Large beast, unaligned*
@@ -10690,11 +10724,6 @@ ___
 > ### Actions
 > ***Gore.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 ___
 > ## Riding Horse
 > *Large beast, unaligned*
@@ -10714,6 +10743,12 @@ ___
 >
 > ### Actions
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (2d4) bludgeoning damage.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 
 ___
 > ## Riverbeast <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;93;4;12;12;7;12;0;12;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10743,10 +10778,10 @@ ___
 > ***Tail.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) bludgeoning damage.
 
 
-\columnbreak
-
-
 **Riverbeasts** are great aquatic beasts of Draenor, possessing a rocky plates, a club-like tail, and long lower tusks. While they appear docile at a distance, they are known to be one of the most easily provoked and deadly animals on the planet. Azeroth possess its own variety of riverbeast, though their skin is smooth and they lack the prominent tails of their cousins.
+
+
+\columnbreak
 
 ___
 > ## Scorpid <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;13;3;12;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10772,11 +10807,6 @@ A **scorpid** is a quick and vicious predator, commonly found in dry and arid pa
 
 They are kin to scorpions, though scorpids are far larger and far, far deadlier. it is said that the venom of an adult scorpid's stinger holds enough venom to kill beasts a hundred times its size.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 ___
 > ## Sea Horse
 >*Tiny beast, unaligned*
@@ -10795,6 +10825,13 @@ ___
 > ___
 >
 > ***Water Breathing.*** The sea horse can breathe only underwater.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
+
 
 ___
 > ## Shoveltusk <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;90;4;12;9;7;9;0;9;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -10937,14 +10974,6 @@ ___
 >
 > ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) slashing damage.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://i.imgur.com/pRTJEf1.jpg" style="position:absolute; right: -70px; bottom: 0px; width: 700px;">
-<img src='https://i.imgur.com/VdV67Oz.png' style='position:absolute; right:0px; bottom:0px; width:880px' />
-
-\pagebreakNum
-
 ___
 > ## Swarm of Bats <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;10;5;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Medium swarm of tiny beast, unaligned*
@@ -10973,7 +11002,13 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/pRTJEf1.jpg" style="position:absolute; right: -70px; bottom: 0px; width: 700px;">
+<img src='https://i.imgur.com/VdV67Oz.png' style='position:absolute; right:0px; bottom:0px; width:880px' />
+
+\pagebreakNum
 
 ___
 > ## Swarm of Frenzyfish <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;28;0;10;14;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;1;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -11003,10 +11038,7 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Swarm of Insects <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;3;10;10;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -11029,10 +11061,12 @@ ___
 > ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insects. The swarm can't regain hit points or gain temporary hit points.
 >
 > ### Actions
-> ***Bites.*** *Melee Weapon Attack:* +3 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 
-\columnbreak
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
 
 ___
 > ## Swarm of Poisonous Snakes <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;36;6;10;21;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -11057,10 +11091,7 @@ ___
 > ### Actions
 > ***Bites.*** *Melee Weapon Attack:* +6 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
+\columnbreak
 
 ___
 > ## Swarm of Rats <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;24;2;10;7;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -11087,8 +11118,10 @@ ___
 > ### Actions
 > ***Bites.*** *Melee Weapon Attack:* +2 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-\columnbreak
+
+\pagebreakNum
 
 ___
 > ## Swarm of Ravens <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;24;4;10;7;0;0;0;0;0;0;0;0;0;0;0;1;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -11114,12 +11147,6 @@ ___
 > ### Actions
 > ***Beaks.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-
-
-\pagebreakNum
 
 ___
 > ## Talbuk <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;27;5;10;6;3;8;0;8;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
