@@ -91,6 +91,17 @@
   .phb blockquote table tr:nth-child(odd) td { 
     background-color: #FFF0f5; 
   }
+  
+  /* Adjust statblock margins */
+  .phb hr+section blockquote {
+    margin-top: 10px;
+    margin-bottom: 12px;
+  }
+  /* Adjust space between statblock and text */
+  .phb hr+section+p {
+    margin-top: 20px;
+  }
+  /* Don't backdrop colour stats on statblocks*/
   .phb hr+section blockquote tr:nth-child(odd) td { 
     background-color: transparent;
   }
@@ -8432,9 +8443,7 @@ Azeroth is a fantastical world, and even some of its ordinary and everyday critt
 
 Some of the statblocks included in this chapter are taken from the Dungeons & Dragons SRD 5.1, following guidelines on copying and modifying SRD content. 
 
-Some of them have been added as is, while others we've adjusted and rebalanced for Warcraft as a campaign setting. We did this because we wanted to have as many setting-appropriate creatures as possible, even ones already printed in the SRD, together in one place. 
-
-> Keep this here for a bit but move it to the book intro later to clear some space.
+Some are added as-is while others have been adjusted. We did this because we wanted to collect as many setting-appropriate creatures as possible in one place, including ones already printed in the SRD.
 
 ___
 > ## Ashwing Moth <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;1;2;13;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;; -->
@@ -8482,8 +8491,6 @@ ___
 >
 > ### Actions
 > ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
-
-**Axebeaks** are jungle birds with multicolored chest plumage. They are named after their brightly colored bills, which are razor sharp and help them crack open thick tropical fruit and chop open the corpses they scavenge.
 
 ___
 > ## Baboon <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;3;1;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
@@ -8753,6 +8760,7 @@ ___
 
 
 \columnbreak
+
 
 ___
 > ## Clefthoof <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;104;7;15;25;21;32;0;25;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
