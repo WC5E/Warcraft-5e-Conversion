@@ -112,6 +112,7 @@
   }
   .phb blockquote { 
     margin-top: 1em;
+    margin-bottom: 1.4em;
   }
   /* Clear internal padding in creature statblocks */
   .phb hr+section blockquote {
@@ -8692,20 +8693,6 @@ ___
 > ### Actions
 > ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
 
-A **carrion bird** is a large, carnivorous scavenger bird found across Azeroth. Their wings are broad and their heads often featherless. They stalk their prey from the skies, lurk&shy;ing from a distance, as they wait for it to fall -- whether from exhaustion, or from another hunter.
-
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://i.imgur.com/QIZvRDl.jpg" style="position: absolute;bottom: -39px;right: -98px;width: 900px;">
-
-<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute; top:-50px; right:0px; width:800px;" />
-
-<img src="https://www.gmbinder.com/images/wJZvXi2.png" class="inkblot inkblot-green" style="top: -327px;right: -240px;width: 680px;transform: rotate(84deg);">
-
-
-\pagebreakNum
-
 ___
 > ## Cat <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;2;0;11;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
@@ -8727,6 +8714,19 @@ ___
 >
 > ### Actions
 > ***Claws.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
+
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/QIZvRDl.jpg" style="position: absolute;bottom: -110px;right: 0;width: 800px;transform: scaleX(-1);">
+
+<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute;top: 0;right: -70px;width: 900px;transform: scaleX(-1);">
+
+<img src="https://www.gmbinder.com/images/wJZvXi2.png" class="inkblot inkblot-green" style="top: -327px;right: -240px;width: 680px;transform: rotate(84deg);">
+
+
+\pagebreakNum
 
 ___
 > ## Cheetah <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;6;5;6;0;6;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -8787,6 +8787,9 @@ ___
 >
 > ***Tremor (Recharge 6).*** The clefthoof stomps with extreme force, causing the ground within 10 ft. from it to become difficult terrain. Each creature in the area must make a DC 15 Dexterity saving throw or take 16 (2d10 + 5) bludgeoning damage and fall prone. A successful save results in half damage and no other effect.
 
+The **clefthoof** is a large and hairy beast, whose namesake hooves quake the ground as it moves. It wards off attackers with hardened ridges along its back, and with a massive horn set atop its snout. 
+
+It is native to Draenor, where it keeps together in large herds for protection, migrating with the seasons between Nagrand and Gorgrond. These great migrations are the source of tremors and dust storms alike, for the sheer size of the clefthooves and their herds alike. 
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
@@ -8818,12 +8821,6 @@ ___
 >
 > ***Spray.*** The cobra spits venom in a 15 foot line that is 5 feet wide. Each creature in that line must make a DC 12 Constitution saving throw taking 7 (2d6) acid damage on a failed save, or half as much on a successful one. Targets that fails this save are also considered blinded until the end of their next turn.
 
-A **cobra** is not a mere venomous snake, but an immense serpent with a wide hood or rays capable of spitting deadly venomous acid at their foes. They are typically found deep in the jungle where they can hide in the undergrowth and ambush prey.
-
-
-\columnbreak
-
-
 ___
 > ## Constrictor Snake <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;13;4;14;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Large beast, unaligned*
@@ -8845,6 +8842,8 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 >
 > ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
+
+\columnbreak
 
 ___
 > ## Cougar <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;49;5;14;10;8;10;0;10;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -8872,11 +8871,6 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) slashing damage.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
 ___
 > ## Coyote <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;9;3;14;3;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
 > *Small beast, unaligned*
@@ -8901,6 +8895,13 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
 
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
+
 ___
 > ## Crab <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;2;0;14;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
@@ -8924,8 +8925,6 @@ ___
 > ### Actions
 > ***Claw.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage.
 
-\columnbreak
-
 ___
 > ## Crane <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;27;4;10;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Medium beast, unaligned*
@@ -8948,10 +8947,12 @@ ___
 >
 > ***Sing.*** The crane starts to sing. Each creature within 20 ft. who can hear the crane and has 20 hit points or less fall unconscious for 1 minute. They awaken if they take any damage or if another creature takes an action to rouse them.
 
+The **crane** is a large bird native to Pandaria, sometimes migrating to other lush woodlands elsewhere on Azeroth. It keeps itself with an air of majesty, and is a treasured friend to the pandaren people -- who believe them to be a gift from Chi-Ji, one of the August Celestials. 
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+Its call is like a soothing lullaby for weary travellers, and its surprisingly light feathers are often used to adorn garments and imbue them with the crane spirit.
 
-\pagebreakNum
+
+\columnbreak
 
 ___
 > ## Crocolisk <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;45;4;12;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -8978,6 +8979,12 @@ ___
 A **crocolisk** is a massive, six-legged reptilian predator. It is an amphibious creature that can be found along most warm, humid shorelines across Azeroth -- or dwelling in its murky swamps, rivers, and marshes. 
 
 Hunters prize the meat and thick, durable hide of the crocolisk. Some speculate the beast may be related to thediemetradon, as they share a number of characteristics. 
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 
 
 
@@ -9007,7 +9014,9 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, plus 2 (1d4) poison damage.
 
-A **darkhound** is a demonic dog found stalking the forests of the world, either by themselves or in small packs. Despite their dark origin, they are a fairly common presence where they dwell. To farmsteads and small communities, having a pack of darkhounds nearby is a trouble best dealt with quickly -- though the dark iron dwarves have found good use in them as patrol animals.
+A **darkhound** is a demonic dog found stalking dark forests, either by itself or in small packs, and is a fairly common sight considering its dark origins. To farmsteads and small communities, having a pack of darkhounds nearby is a trouble best dealt with quickly -- though the dark iron dwarves have found good use in them as patrol animals.
+
+\columnbreak
 
 ___
 > ## Deer <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;4;2;12;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9028,14 +9037,6 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://i.imgur.com/BsqNNL3.png" style="position:absolute;bottom: -25px;left: -45px;width: 495px;">
-
-
-\pagebreakNum
-
 
 ___
 > ## Dire Wolf <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;37;5;12;10;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
@@ -9064,15 +9065,13 @@ ___
 
 A **dire wolf** has much in common with its smaller, more common counterpart; the two look alike, but dire wolves are nearly twice the size. Their massive jaws look like they could snap iron bars, and orcs have long favoured them over other mounts for their cunning and strength.
 
-> ##### Variant: Frost Wolf
-> Frost wolves are an arctic version of wolves native to Draenor. A number of them followed the orcish Frostwolf clan during the invasions of Azeroth, to whom they have a special bond. It has the same statistics as a dire wolf, except that it gains resistance to cold damage and gains the following trait:
->
-> ***Snow Camouflage.*** The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 
-Wild **dragon turtles** are vicious, with sharp jaws and a nasty temper. When domesticated however, they make ideal rides for the pandaren, able to carry heavy loads (a necessity for any pandaren mount) with an even gait that can lull them into any easy sleep.
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://i.imgur.com/BsqNNL3.png" style="position:absolute;bottom: -15px; left:-60px; width: 465px;">
 
 
-\columnbreak
+\pagebreakNum
 
 ___
 > ## Draft Horse <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;13;5;12;5;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9122,11 +9121,16 @@ ___
 >
 > ***Shell Defense.*** The turtle withdraws itself into its shell. Until it emerges it gain +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, it is prone, its speed is 0 and can't increase, it has disadvantage on Dexerity saving throws, it can't take reactions, and the only action it can take is a bonus action to emerge from its shell.
 
+\columnbreak
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-\pagebreakNum
+> ##### Variant: Frost Wolf
+> Frost wolves are an arctic version of wolves native to Draenor. A number of them followed the orcish Frostwolf clan during the invasions of Azeroth, to whom they have a special bond. It has the same statistics as a dire wolf, except that it gains resistance to cold damage and gains the following trait:
+>
+> ***Snow Camouflage.*** The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 
+
+Wild **dragon turtles** are vicious, with sharp jaws and a nasty temper. When domesticated however, they make ideal rides for the pandaren, able to carry heavy loads (a necessity for any pandaren mount) with an even gait that can lull them into any easy sleep.
 
 ___
 > ## Eagle <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;3;4;12;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9149,6 +9153,12 @@ ___
 >
 > ### Actions
 > ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 
 ___
 > ## Elekk <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;85;5;13;12;16;12;0;12;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9173,11 +9183,11 @@ ___
 >
 > ***Stomp.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one prone creature. *Hit:* 16 (3d8 + 3) bludgeoning damage.
 
-\columnbreak
 
 The great **elekks** are among the oldest living species on Draenor. These trunked creatures move in herds and while generally peaceful as long as their young and water supply are unthreatened, can use their four tusks to deadly effect. The draenei have been known to use them as beasts of burden, using Light-infused crystals to render them more docile.
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\columnbreak
 
 ___
 > ## Fox <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;4;0;13;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;1;;;;;;10;;;;;;;;;;; -->
@@ -9203,8 +9213,6 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 4 (1d4) piercing damage.
-
-\pagebreakNum
 
 ___
 > ## Forest Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;7;4;10;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9232,6 +9240,11 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 2 (1d4) poison damage.
 
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 ___
 > ## Frenzyfish <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;1;0;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;1;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
@@ -9256,8 +9269,6 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
-\columnbreak
-
 ___
 > ## Frog <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;1;0;10;0;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
@@ -9278,6 +9289,10 @@ ___
 > ***Amphibious.*** The frog can breathe air and water.
 >
 > ***Standing Leap.*** The frog's long jump is up to 10 feet and its hight jump is up to 5 feet, with or without a running start.
+
+
+\columnbreak
+
 
 ___
 > ## Giant Bat <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;55;4;10;18;0;0;0;0;0;0;0;0;0;0;0;;;1;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9344,10 +9359,6 @@ ___
 >
 > ***Claws.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 17 (3d6 + 7) slashing damage.
 
-
-\columnbreak
-
-
 ___
 > ## Giant Beetle <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;4;3;10;3;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Small beast, unaligned*
@@ -9368,6 +9379,10 @@ ___
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
+
+
+\columnbreak
+
 
 ___
 > ## Giant Boar <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;86;5;13;10;7;10;0;10;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;;;;; -->
@@ -9392,11 +9407,6 @@ ___
 >
 > ### Actions
 > ***Tusk.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
-
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
 
 ___
 > ## Giant Constrictor Snake <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;87;6;16;24;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9423,6 +9433,12 @@ ___
 >
 > ***Constrict.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
+
 ___
 > ## Giant Crab <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;13;3;11;4;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Medium beast, unaligned*
@@ -9445,9 +9461,6 @@ ___
 >
 > ### Actions
 > ***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crap has two claws, each of which can grapple only one target.
-
-
-\columnbreak
 
 ___
 > ## Giant Crocolisk <!-- https://wc5e-cr-calculator.frogvall.com/?1;14;123;8;16;35;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9474,16 +9487,6 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocolisk can't bite another target.
 >
 > ***Tail.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target not grappled by the crocolisk. *Hit:* 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
-
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 531px;left: 20px;width: 770px;transform: rotate(39deg);">
-<img src="https://i.imgur.com/xgTWyy8.png" style="position:absolute;top: 640px;right: -18px;width: 760px;">
-
-\pagebreakNum
-
-
 
 
 \columnbreak
@@ -9538,7 +9541,13 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+<img src="https://www.gmbinder.com/images/tiU4RnD.png" class="inkblot inkblot-green" style="top: 531px;left: 20px;width: 770px;transform: rotate(39deg);">
+<img src="https://i.imgur.com/xgTWyy8.png" style="position:absolute;top: 640px;right: -18px;width: 760px;">
+
+\pagebreakNum
 
 ___
 > ## Giant Frog <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;18;3;11;4;0;4;10;4;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9566,19 +9575,7 @@ ___
 >
 > ***Swallow.*** The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement exiting prone.
 
-
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-
-
-\pagebreakNum
-
-
-
-
-
 \columnbreak
-
 
 ___
 > ## Giant Goat <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;45;5;13;6;5;6;0;6;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9628,7 +9625,10 @@ ___
 >
 > ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (7d6 + 6) bludgeoning damage.
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
 
 ___
 > ## Giant Moth <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;4;12;6;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9679,15 +9679,8 @@ ___
 > ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (2d4 + 1) slashing damage.
 
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
-
-
-
-
 \columnbreak
+
 
 ___
 > ## Giant Scorpid <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;52;4;12;37;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;1;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9737,7 +9730,11 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 22 (3d10 + 6) piercing damage.
 
-\columnbreak
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 
 ___
 > ## Giant Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;14;26;5;12;14;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;1;;;;; -->
@@ -9775,11 +9772,7 @@ ___
 > ***Burning Acid (Recharge after a Short or Long rest).*** The spider spews forth a burning hot acid. Each creature in a 10-foot cone must make a DC 12 Dexterity saving throw, taking 13 (3d8) fire damage on a failed save, or half as much on a success.
 
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-\pagebreakNum
-
-
+\columnbreak
 
 
 ___
@@ -9826,7 +9819,12 @@ ___
 > ### Actions
 > ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much on a successful one. If the poison damage reduce the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-\columnbreak
+
+
+<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
+
+\pagebreakNum
+
 
 ___
 > ## Giraffe <!-- https://wc5e-cr-calculator.frogvall.com/?0;11;34;5;15;7;9;7;0;7;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9854,15 +9852,6 @@ ___
 > ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage.
 
 
-<div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
-
-<img src="https://i.imgur.com/YmzkuLc.jpg" style="position: absolute;bottom: -60px;right: -10px;width: 900px;">
-
-<img src="https://i.imgur.com/NO1EQoX.png" style="position:absolute;top: -20px;right:0px;width:800px;transform: scale(-1);">
-
-\pagebreakNum
-
-
 ___
 > ## Goat <!-- https://wc5e-cr-calculator.frogvall.com/?0;10;9;3;11;3;2;3;0;3;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Medium beast, unaligned*
@@ -9888,6 +9877,7 @@ ___
 
 
 \columnbreak
+
 
 ___
 > ## Gorilla <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;34;5;11;16;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9940,10 +9930,14 @@ ___
 > ***Rock.*** *Ranged Weapon Attack:* +7 to hit, range 25/20 ft., one target. *Hit:* 10 (2d4 + 5) bludgeoning damage.
 
 
+
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
 \pagebreakNum
 
+
+
+\columnbreak
 
 ___
 > ## Grizzly Bear <!-- https://wc5e-cr-calculator.frogvall.com/?0;15;95;8;18;23;10;23;0;23;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
@@ -9974,6 +9968,9 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
 
+
+\columnbreak
+
 ___
 > ## Hawk <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;1;5;10;1;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Tiny beast, unaligned*
@@ -9996,8 +9993,6 @@ ___
 > ### Actions
 > ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 
-
-\columnbreak
 
 
 ___
@@ -10067,6 +10062,7 @@ ___
 Despite their name, **helboars** are not demons per se. As beasts who have been exposed to the energies of the Twisting Nether for long periods of time, simple boars have mutated into this spiked variety, capable of superheating their own skin as a defense mechanism.
 
 \columnbreak
+
 ___
 > ## Hunter Shark <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;45;6;10;13;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;1;;;;;;1;;;;;;;;10;;;;;;;;;;; -->
 > *Large beast, unaligned*
@@ -10093,10 +10089,11 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
 
 
+
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-
 \pagebreakNum
+
 
 ___
 > ## Hyena <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;22;3;10;7;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;;;10;;;;;;;;;;; -->
@@ -10125,12 +10122,9 @@ ___
 >
 > ***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) slashing damage.
 
-Hyenas are scavengers who thrive in the most barren reaches of Kalimdor and Zandalar &mdash; from Desolace and the Barrens, out across the dunes of Tanaris and Vol'dun. 
-
-Azerothian hyenas keep keep together in large clans, with most following the call of their **matriarch**; the clan's strongest and most cunning female member, whose rallying cry can quickly rouse her kin to action.
-
 
 \columnbreak
+
 
 ___
 > ## Hyena Matriarch <!-- https://wc5e-cr-calculator.frogvall.com/?0;13;33;4;10;12;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;1;;;1;;10;;;;;;;;;;; -->
@@ -10162,6 +10156,12 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 >
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
+
+
+Hyenas are scavengers who thrive in the most barren reaches of Kalimdor and Zandalar &mdash; from Desolace and the Barrens, out across the dunes of Tanaris and Vol'dun. 
+
+Azerothian hyenas keep keep together in large clans, with most following the call of their **matriarch**; the clan's strongest and most cunning female member, whose rallying cry can quickly rouse her kin to action.
+
 
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
@@ -10382,9 +10382,9 @@ Also known as elderhorn, the great **moose** of Azeroth are lumbering beasts rec
 
 <div class='footnote'>APP. A: MISCELLANEOUS CREATURES </div>
 
-<img src="https://i.imgur.com/PMfzlNn.jpg" style="position:absolute;bottom: 0px;right: 0px;width: 910px;">
-<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute;top: 0px;right:0px;width: 820px;transform: scaleX(-1);">
-<img src="https://i.imgur.com/RUukMlL.png" style="position:absolute;bottom: 5px;right: 45px;width: 435px;">
+<img src="https://i.imgur.com/PMfzlNn.jpg" style="position:absolute;bottom: 0px;right: 0px;width: 910px; transform: scaleX(-1);">
+<img src="https://i.imgur.com/MVDaLa2.png" style="position:absolute;top: 0px;right:0px;width: 820px;">
+<img src="https://i.imgur.com/RUukMlL.png" style="position:absolute;bottom: 5px;left: 45px;width: 415px; transform: scaleX(-1);">
 
 \pagebreakNum
 
