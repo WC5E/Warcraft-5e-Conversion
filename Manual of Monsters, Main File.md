@@ -91,11 +91,15 @@
   .phb blockquote table tr:nth-child(odd) td { 
     background-color: #FFF0f5; 
   }
-  
   /* Adjust statblock margins */
   .phb hr+section blockquote {
     margin-top: 10px;
     margin-bottom: 12px;
+  }
+  /* HOTFIX: Chromium column-break handling */
+  .phb hr+hr+section blockquote {
+    column-fill: balance;
+    padding-bottom: 15px;
   }
   /* Adjust space between statblock and text */
   .phb hr+section+p {
