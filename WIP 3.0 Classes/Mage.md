@@ -416,7 +416,7 @@ You can transform unexpended sorcery points into one spell slot as a bonus actio
 
 You choose a magical study, shaping your practice of magic through one of three areas: Arcane, Fire or Frost, all detailed at the end of the class description.
 
-Your choice grants you features at 3rd level and again at 6th, 10th, and 14th level.
+Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 ### Metamagic
 *3rd-level mage feature* 
