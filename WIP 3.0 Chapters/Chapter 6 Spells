@@ -1755,9 +1755,9 @@ ___
 ___
 You cause the ground to crack and split, with molten magma and fire spitting up out in a 60-foot radius centered on a point within range. Each creature in the area must make a Dexterity saving throw or take 10d6 fire damage, taking half damage on a success.
 
-A creature who takes fire damage from this spell is set aflame, taking an additional 2d6 fire damage at the beginning of each of their turns. They or another adjacent creature can use their action to put out the flames, taking 1d4 fire damage in the process.
+A creature who takes fire damage from the initial damage of this spell is set aflame, taking an additional 2d6 fire damage at the beginning of each of their turns. They or another adjacent creature can use their action to put out the flames, taking 1d4 fire damage in the process.
 
-The ground in the area of this spell remains damaged, turning into difficult terrain. It remains hot for 1 minute, and any creature who enters the area for the first time on their turn or starts their turn there takes 1d4 fire damage.
+The ground in the area of this spell remains damaged, turning into difficult terrain. It remains hot for 1 minute, and any creature who enters the area for the first time on their turn or starts their turn there takes 1d6 fire damage.
 
 \columnbreak
 
@@ -1882,7 +1882,7 @@ ___
 - **Components:** V, S, M (a holy symbol)
 - **Duration:** Instantaneous
 ___
-You grasp the fabric around a target within range, pulling necromantic energies from it and creatures of your choice within 5 feet of it. A target must make a Constitution saving throw, taking 2d4 necrotic damage on a failed save, or half as much damage on a successful one.
+You pull on the veil separating reality and the realm the void realm, creating small fissures where its maddening energies leak through. A creature within range and creatures of your choice within 5 feet of it, must succeed on a Wisdom saving throw or take 2d4 psychic damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
 
@@ -2124,12 +2124,12 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
-- **Components:** V, S
+- **Components:** V, S, M (a humanoid skull blackened by fire)
 - **Duration:** Instantaneous
 ___
-You form six orbs of fire above your head, which you launch at targets within 20 feet of a point you choose within range. You can direct the orbs to hit one target or several. A target takes 1d10 fire damage for each orb that strikes it, and can attempt a Dexterity saving throw to take half as much damage. Each target only makes one saving throw, regardless of how many orbs it is struck by.
+An eruption of fiery doom blasts out from a point you choose within range, sending six streaks of flames slithering towards targets within 30 feet of it. You can direct the snaking fires to hit one target or several. A target takes 1d10 fire damage for each flame that strikes it, and can attempt a Dexterity saving throw to take half as much damage. Each target only makes one saving throw, regardless of how many flames it is struck by.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the spell creates one more orb for each spell level above 4th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the spell creates one more streak of flame for each spell level above 4th.
 
 <div class='footnote'>PART 2 | SPELLS </div>
 
@@ -2389,9 +2389,9 @@ ___
 - **Components:** V, S, M (a flammable liquid)
 - **Duration:**  Concentration, up to 1 minute
 ___
-You manipulate the mana flowing through a creature within range, making it burn from the inside with a roaring fire. The target must make a Constitution saving throw. On a failed save it takes 1d10 fire damage, or half as much on a successful one. At the start of each of your turns for the spells duration, the target must make another Constitution saving throw as it takes the damage again
+You manipulate the mana flowing through a creature within range, making it burn from the inside with a roaring fire. The target must make a Constitution saving throw, taking 1d10 fire damage on a failed save. On a successful saving throw, the target takes half as much damage and the spell ends. At the start of each of your turns for as long as the the spell persists, the target must repeat the saving throw, with the same effects for success or failure.
 
-When the spell ends the target and each creature within 10 feet of it must succeed on a Dexterity saving throw or take 2d6 fire damage.
+When the spell ends the target and each creature within 10 feet of it must succeed on a Dexterity saving throw, taking 2d6 fire damage on a failed save or half as much on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage of the explosion increases by 1d6 for each slot level above 2nd.
 
@@ -2476,14 +2476,14 @@ You clasp your hands together, conjuring a ball of dripping magma, launching it 
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet
-- **Components:** V, S
+- **Components:** V, S. M (a chunk of sulfur and a chunk of iron)
 - **Duration:** Concentration, up to 1 minute
 ___
-A rain of small meteorites fall from the sky, exploding on impact. You cause them to fall at a point within range and in a 15-foot radius area around it. Each creature entering the area for the first time on their turn, or who starts their turn there, must make a Dexterity saving throw, taking 2d6 bludgeoning damage and 3d6 fire damage on a failed save, or half as much on a success.
+A rain of small meteorites fall from the sky, exploding on impact. You cause them to fall in a cylinder 30-foot-tall cylinder with a 15-foot radius centered on a point within range. Each creature entering the area for the first time on their turn, or who starts their turn there, must make a Dexterity saving throw, taking 3d6 bludgeoning damage and 3d6 fire damage on a failed save, or half as much on a success.
 
-As a bonus action you can move the cloud up to 15 feet to a point you can see. Unattended flammable objects in the area are ignited.
+As a bonus action you can move the cylinder up to 15 feet to a point you can see. Unattended flammable objects in the area are ignited, and metals begin to melt.
 
-***At Higher Levels:*** When you cast this spell using a spell slot of 6th level or higher, it deals an additional 1d12 points of fire damage for each spell level above 5th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 2d6 fire damage per spell level above 5th.
 
 #### Reincarnation
 *5th-level necromancy*
@@ -2675,7 +2675,7 @@ A flash of light streaks down upon a creature of your choice within range. Make 
 
 If cast while outdoors with a clear view of the moon, the spell deals an additional 1d6 radiant damage.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d12 for every two slot levels above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for every spell level above 1st.
 
 #### Starsurge
 *3rd-level evocation*
@@ -2758,8 +2758,11 @@ You call upon the void to shift the health of you and another creature. Choose a
 
 \pagebreakNum
 
-## Changelog
+## Changelog 3.1
 - Asphyxiate and Freezing Touch no longer suffocate targets.
 - Changed/Rebalanced: Cataclysm, Drain Life, Lunar Strike, Rain of Fire, Starfall, Starfire, Starsurge
 - Summon Undead renamed to Conjure Undead, to avoid confusion with the version from TCE
 - Added: Create Healthstone, Create Soulstone, Create Soulwell, Decompose (Credit Matt Mercer's Critical Role), Diabolism [(Original Idea Credit)](https://www.dndbeyond.com/spells/141243-diabolism), Fire and Brimstone, Shadow Glide, Touch of Chaos
+
+## Changelog 3.1.1
+- Changed/Rebalanced: Rain of Fire, Fire and Brimstone, Starfire, Dark Void, Living Bomb, Cataclysm
