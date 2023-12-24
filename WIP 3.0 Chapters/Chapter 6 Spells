@@ -1755,7 +1755,7 @@ ___
 ___
 You cause the ground to crack and split, with molten magma and fire spitting up out in a 60-foot radius centered on a point within range. Each creature in the area must make a Dexterity saving throw or take 10d6 fire damage, taking half damage on a success.
 
-A creature who takes fire damage from the initial damage of this spell is set aflame, taking an additional 2d6 fire damage at the beginning of each of their turns. They or another adjacent creature can use their action to put out the flames, taking 1d4 fire damage in the process.
+A creature who takes fire damage from the initial damage of this spell is set aflame, taking an additional 2d6 fire damage at the beginning of each of their turns. They or another adjacent creature can use their action to put out the flames, taking 1d6 fire damage in the process.
 
 The ground in the area of this spell remains damaged, turning into difficult terrain. It remains hot for 1 minute, and any creature who enters the area for the first time on their turn or starts their turn there takes 1d6 fire damage.
 
