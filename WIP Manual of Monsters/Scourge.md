@@ -615,7 +615,7 @@ ___
 > - **Challenge** 2 (450 XP) <!-- Proficiency Bonus +2 -->
 > ___
 >
-> ***Focused Mind*** The necrolyte advantage on Constitution saving throws that it make to maintain its concentration on a spell.
+> ***Focused Mind.*** The necrolyte advantage on Constitution saving throws that it make to maintain its concentration on a spell.
 >
 > ***Innate Spellcasting.*** The necrolyte's innate spellcasting ability is Intelligence. It can innately cast the following spells (spell save DC 13), requiring no material components:
 > <br/> At will: *disguise self, false life*
