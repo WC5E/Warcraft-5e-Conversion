@@ -832,7 +832,7 @@ ___
 > 
 > ***Deadly Plague.*** Poison damage that the plague-dog deals ignores resistance and immunity to poison damage. It can inflict the poisoned condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the plague of undeath.
 >
-> ***Immutable Form.*** The abomination is immune to any spell or effect that would alter its form.
+> ***Immutable Form.*** The Plague-dog is immune to any spell or effect that would alter its form.
 > 
 > ### Actions
 > ***Multiattack.*** The plague-dog makes two attacks: one bite or chomp and one claw attack.
