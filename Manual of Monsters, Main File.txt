@@ -5570,7 +5570,7 @@ ___
 >
 > ***Slam.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 27 (4d10 + 5) bludgeoning damage.
 >
-> ***Massive Crash (Recharges 4-6).*** The naga slams the ground creating an earth tremor around it. Each creature other than the naga in a 10-foot radius centered on the naga must make a Dexterity saving throw. On a failed save, a creature takes 31 (7d8) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone.<!-- https://wc5e-cr-calculator.frogvall.com/?1;17;178;9;13;62;0;45;0;45;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;; -->
+> ***Massive Crash (Recharges 4-6).*** The naga slams the ground creating an earth tremor around it. Each creature other than the naga in a 10-foot radius centered on the naga must make a DC 17 Dexterity saving throw. On a failed save, a creature takes 31 (7d8) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone.<!-- https://wc5e-cr-calculator.frogvall.com/?v2;1;17;17d12+68;9;17;2*31;18+27;18+27;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;1;;;;;;;;;;1;0;1;3;;is1;;is2;;is3; -->
 
 <div class="pageLetter">N</div>
 <div class='footnote'>NAGA </div>
