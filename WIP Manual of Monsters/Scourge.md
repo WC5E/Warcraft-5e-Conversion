@@ -832,12 +832,12 @@ ___
 > 
 > ***Deadly Plague.*** Poison damage that the plague-dog deals ignores resistance and immunity to poison damage. It can inflict the poisoned condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the plague of undeath.
 >
-> ***Immutable Form.*** The abomination is immune to any spell or effect that would alter its form.
+> ***Immutable Form.*** The Plague-dog is immune to any spell or effect that would alter its form.
 > 
 > ### Actions
-> ***Multiattack.*** The plague-dog makes two attacks: one bite or chomp and one claw attack.
+> ***Multiattack.*** The plague-dog makes two attacks: one bite and one claw attack.
 >
-> ***Bite.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20 (2d12 + 7) piercing and 13 (2d12) poison damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Dexterity saving throw or be swallowed ny the plague-dog. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the worm, and takes 21 (6d6) poison damage at the start of each of the plague dog's turns. A plague dog can have only one creature swallowed at a time.
+> ***Bite.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20 (2d12 + 7) piercing and 13 (2d12) poison damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Dexterity saving throw or be swallowed by the plague-dog. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the worm, and takes 21 (6d6) poison damage at the start of each of the plague dog's turns. A plague dog can have only one creature swallowed at a time.
 > If the plague dog takes 30 damage or more on a single turn from the swallowed creature, the plague-dog must succeed on a DC 14 Constitution saving throw or the creature successfully cuts its way through the dog and falls prone in a space within 5 feet of the plague-dog. If the plague-dog dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
 >
 > ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 20 (3d8 + 7) slashing damage.
