@@ -1,0 +1,379 @@
+{
+	"_meta": {
+		"sources": [
+			{
+			"json": "WC5E MoM",
+			"abbreviation": "WC5E MoM",
+			"full": "WC5E Manual of Monsters",
+			"color": "#c4ccc8",
+			"authors": [
+				"WC5E Team"
+				],
+				"convertedBy": [
+					"WC5E Team",
+					""
+				],
+				"version": "xxx",
+				"url": "https://github.com/WC5E/Warcraft-5e-Conversion",
+				"targetSchema": "1.0.0"
+		}
+		],
+		"dateAdded": "xxx",
+		"dateLastModified": "xxx",
+		"_dateLastModifiedHash": "xxx"
+	},
+	"book": [
+		{
+			"name": "WC5E Manual of Monsters",
+			"id": "WC5E MoM",
+			"source": "WC5E MoM",
+			"cover": {
+				"type": "external",
+				"url": "xxx"
+			},
+			"group": "homebrew",
+			"author": "WC5E Team",
+			"published": "2023-01-12",
+			"contents": [
+				{
+					"name": "Contents"
+				},
+				{
+					"name": "Beasts of the Land",
+					"headers": [
+						"Basilisks",
+						"Dinosaurs",
+						"Dragon Hawks",
+						"Kodos",
+						"Mana Wyrms",
+						"Owlbeasts",
+						"Ravagers",
+						"Sabercats",
+						"Wind Serpents"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 1
+					}
+				},
+				{
+					"name": "Plant Creatures",
+					"headers": [
+						"Ancients",
+						"Bog Beasts",
+						"Lashers",
+						"Treants"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 2
+					}
+				},
+				{
+					"name": "xxx",
+					"headers": [
+						"xxx",
+						"xxx",
+						"xxx"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": "x"
+					}
+				},
+				{
+					"name": "Outro"
+				}
+			]
+		}
+	],
+	"bookData": [
+		{
+			"id": "WC5E MoM",
+			"source": "WC5E MoM",
+			"data": [
+				{
+					"type": "entries",
+					"name": "Contents",
+					"entries": [					
+						"Waking up to a goblin ambush, a human reaches for the pistol she always keeps at her side. She leaps to her feet and begins to fire, blasting the nearest goblin away before he can strike.",
+						{
+							"type": "list",
+							"name": "Creature List",
+							"entries": [					
+								"Waking up to a goblin ambush, a human reaches for the pistol she always keeps at her side. She leaps to her feet and begins to fire, blasting the nearest goblin away before he can strike."
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Beasts of the Land",
+					"entries": [					
+						"This sections contains beasts from around the Eastern Kingdoms and Kalimdor.",
+						{
+							"type": "entries",
+							"name": "Basilisks",
+							"entries": [
+								"Sometimes, travelers find carved stone statues of people or wildlife that look remarkably lifelike. Sometimes these statues are whole. Other times, the parts that are missing appear to have been bitten off. Seasoned explorers regard such relics as a warning, knowing that the basilisk responsible is likely to still be close by.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Territorial Creatures",
+											"entries": [
+												"",
+												"Although basilisks are powerful creatures, and fierce combatants, they rarely exhibit a deliberately cruel or violent intent. Basilisks live as solitary predators, sometimes in small colonies, and keep a watchful eye on the borders of their territory. From their domain, they prefer to hunt those who choose to trespass, leaving behind petrified chunks of whatever remains."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Gaze of Stone",
+											"entries": [
+												"",
+												"As far as predators go, basilisks are often slow and ponderous creatures, as they rarely need to chase their prey. Meeting a basilisk's supernatural gaze can be enough to rapidly transform their prey into stone -- which the basilisk then breaks apart with its strong jaws, perfectly capable of tearing down the stone for nutrition."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "A Fondness for Crystals",
+											"entries": [
+												"",
+												"Though many scholars have examined the basilisk's inherent attraction to crystals, there is no agreement as to why the lumbering beasts exhibit such fondness for them.",
+												"They exhibit great fondness for crystalline structures and are capable of sensing them from a great distance, which they will gladly traverse -- in groups or by their lonesome -- to retrieve their coveted prize. Basilisks have such an insatiable hunger for such crystals, it is not uncommon to find colonies that have begun to sprout crystal formations across their rocky hides, as a side-effect of their gluttonous diet.",
+												"In Stranglethorn Vale, especially, some colonies have taken to forming their nests from these same crystals, making for an attractive gamble for any adventurers daring enough to come face to face with the terrifying beasts."
+											]
+										},
+										"{@note List of Basilisks}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+														"{@creature Basilisk|WC5E MoM}",
+														"{@creature Basilisk|WC5E MoM}"
+													]
+													 
+											
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Dinosaurs",
+							"entries": [
+								"Dinosaurs are among the oldest reptiles in the world, ancient in every sense of the word. Their presence can inspire both awe and dread into any adventurer fortunate -- or unfortunate -- enough to cross their path. They roam far and wide across Azeroth; all the way from remote mountain valleys, to humid jungles, and to rugged barren plains.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Feared and Revered",
+											"entries": [
+												"",
+												"Some of Azeroth's denizens, trolls in particular, revere dinosaurs. Several of the primal Loa take the appearance of a dinosaur, such as the devilsaur Loa Rezan and the direhorn Loa Torcali. For the Zandalar tribe, it is a rite of passage to venture away from home, into the wilds, in order to steal or subdue a beast. Any beast would do for such trials, but a wild dinosaur is a prized claim."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Giants Among Beasts",
+											"entries": [
+												"",
+												"Dinosaurs come in many sizes and shapes, some absolutely tremendous, featuring a wide variety of markings and colorations. They primarily split into two groups: savage, territorial predators, and docile yet still undeniably dangerous herbivores."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Ankylodon",
+									"entries": [
+										"The ankylodon is a broad, low-slung dinosaur, native to Zandalar. It is kept up by its powerful limbs, and almost every part of its body, save for the belly, is decked with hardened plates. Long spikes protrude from these plates; <br>a characteristic appearance that has flocks of ankylodons sometimes referred to as \"thornhides\". It is a herbivore, preferring to graze on ferns and low shrubs, shearing them off with its beak-like upper jaw."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Brutosaur",
+									"entries": [
+										"Brutosaurs are enormous, even among dinosaurs. They have small heads and incredibly long necks, relative to the rest of their body, and move along at a lumbering pace with their pillar-like legs. Despite their imposing stature, brutosaurs are known to be very docile unless threatened. They are omnivores, yet most appear to have an exclusively herbivorous diet, rarely ever hunting meat of their own volition."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Devilsaur",
+									"entries": [
+										"This giant lizard stands tall on its two powerful hind legs, with two stunted forelimbs stretched out before it. The devilsaur takes its name from its utterly savage attacks, as it tackles its prey down with immense force before tearing it limb from limb. Despite its ferocity, the devilsaur's massive size has many hunters seeking the beast out for its hide, which is both supple and extraordinarily tough. Devilsaurs may grow well above thirty feet, weighing in at almost sixteen tons.",
+										"Female devilsaurs tend to be smaller and lighter, though they are even more aggressive than their male counterpart. During mating seasons, once the nest has been made and her eggs have been laid, she will leave it to the male who fathered the clutch to protect them until they hatch."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Diemetradon",
+									"entries": [
+										"The diemetradon is one of the strongest predators in the Un'Goro Crater is recognized for the two enormous, jagged crests protruding from its back. Its legs are squat and strong, for which it is far from the fastest dinosaur, though its body is decked in plate-like scales able to withstand tremendous force. When a diemetradon fights or hunts, it is known to simply lumber dead ahead against its target; rushing in to pin them down against a tree or in a swamp.",
+										"It is said that the diemetradon's howl is deafening, like a thundering boom capable of drowning out most other sounds around it."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Direhorn",
+									"entries": [
+										"Direhorns are three-horned saurian titans known to populate many islands throughout the South Seas. They are especially prominent on Zandalar, the Isle of Giants and the Isle of Thunder. They may seem like gentle giants at first, though they are among the toughest and strongest animals to walk on Azeroth. Even juvenile direhorns have been known to wreak utter havoc on unsuspecting victims."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Pterrordax",
+									"entries": [
+										"Tall as a horse and weighing up to 1,500 pounds, the pterrordax's keen senses guides it along as it soars through the air in search for fresh meat. Its claw-tipped wings are utterly tremendous, and its beaklike snout is lined with razor-sharp teeth. The pterrordax prefers to hunt alone, swooping down on unsuspecting prey from above to batter it to death with its wings before proceeding to tear flesh from bone. It is a solitary hunter, and adventurers' accounts of multiple have mainly been during mating season: a two-week period during early springtime.",
+										"If their breeding grounds are threatened, otherwise lone pterrordax are quick to band together in large flights to fend off attackers. Afterwards, they disband just as quickly.",
+										"A pterrordax's pigmentation ranges from bright mossy greens to deep emerald hues, with brightly shining eyes. Closely related to the pterrordax is the even more terrifying pterrorwing also known as Skyscreamer. It is massive in comparison, and stands out for the large sail on its snout."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Raptor",
+									"entries": [
+										"The raptor is a large, aggressive dinosaur, known far and wide for its strength and immense speed. Out in the open, it is near impossible to outrun its leaping stride, and once it has caught up to its prey it pounces; driving its hooked talons in deep.",
+										"Even among dinosaurs, raptors are exceptionally intelligent. Their packs act closer to colonies, with established hierarchies and and breeding grounds that could be mistaken for settlements when viewed from afar. They are very visually striking creatures, decked in scales and feathers ranging from bright blue and white, to striking red and orange, to deep black, purple, and green.",
+										{
+											"type": "entries",
+											"name": "Falcosaurs.",
+											"entries": [
+												"{@i Far away cousins.}",
+												"Falcosaurs are an invasive and predatory dinosaur species that can be found on the coastlines of the Broken Isles. They look like feathered raptors with a huge beak and have a primal need to hunt that develops at a young age. While falcosaurs are predatory, they are actually omnivores and eat fruits as well as berries in large quantities."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Sabertusk",
+									"entries": [
+										"Little is known about the enigmatic sabertusk, other than its nativity to Zandalar and occasional sightings on other, smaller islands nearby.  Though unwary adventurers have occasionally mistaken it for other land-dwelling reptiles, the sabertusk is visibly striking for the long and heavy tusks protruding from its maw. Its legs are long and its tail is narrow, with tall and coarse spikes running the length of its spine; all the way up to a prominent horn on its snout."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Saurid",
+									"entries": [
+										"Saurid are small bipedal dinosaurs native to Zandalar, known for their nimble grace and venomous bite. The Zandalari trolls consider the saurid to be vermin, no better than rats, as they frequently steal food, poison waters, and prey on children and on the wounded.",
+										"However, when Zandalar renewed their alliance with the mogu at the Isle of Thunder, they brought the saurid with them to train. There, the tiny critters proved an immensely valuable weapon in the trolls' arsenal, let out loose in the wilds to hunt in the night."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Threshadon",
+									"entries": [
+										"The threshadon is a marine dinosaur, whose compact body is driven by a set of powerful flippers. Much like a brutosaur, its neck accounts for a third of its total length, and is able to flex and twist in whichever direction it needs to dig around muddy lake-beds and pull branches from riversides.",
+										"Though they are herbivores first and foremost, grazing threshadon herds are notorious for how fast they tear through and and all plant life within reach before migrating on to new grounds. When a herd has found a grazing spot, the threshadons defend it aggressively. Any other creatures they encounter are attacked on sight. When it fights, the threshadon uses its long neck to lunge at its target, dealing devastating blows with rows of long, jagged teeth. Its jaws are strong enough to crush armor and snap bones, and it is not unusual for it to consume it kills whole."
+									]
+								},
+
+								"{@note List of Dinosaurs}",
+								{	
+									"type": "list",
+									"style": "list-no-bullets",
+									"columns": 3,
+									"items": [					
+										"{@creature Ankylodon|WC5E MoM}",
+										"{@creature Brutosaur|WC5E MoM}",
+										"{@creature Devilsaur|WC5E MoM}",
+										"{@creature Devilsaur King|WC5E MoM}",
+										"{@creature Diemetradon|WC5E MoM}",
+										"{@creature Direhorn|WC5E MoM}",
+										"{@creature Pterrordax|WC5E MoM}",
+										"{@creature Pterrorwing|WC5E MoM}",	
+										"{@creature Raptor|WC5E MoM}",										
+										"{@creature Raptor Matriarch|WC5E MoM}"
+										
+									]	
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"monster": [
+		{
+			"name": "Basilisk",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 52,
+				"formula": "8d8 + 16"
+			},
+			"speed": {
+				"walk": 20
+			},
+			"str": 16,
+			"dex": 8,
+			"con": 15,
+			"int": 2,
+			"wis": 8,
+			"cha": 7,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 9,
+			"cr": "3",
+			"trait": [
+				{
+					"name": "Petrifying Gaze",
+					"entries": [
+						"If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a {@dc 12} Constitution saving throw if the basilisk isn't {@condition incapacitated}. On a failed save, the creature magically begins to turn to stone and is {@condition restrained}. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is {@condition petrified} until freed by the {@spell greater restoration} spell or other magic.",
+						"nbsp;&nbsp;&nbsp; A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again.  If it looks at the basilisk in the meantime, it must immediately make the save.",
+						"nbsp;&nbsp;&nbsp; If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. *Hit* 10 ({@damage 2d6 + 3}) piercing damage plus 7 ({@damage 2d6}) poison damage."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"I",
+				"P"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"conditionInflict": [
+				"petrified",
+				"restrained"
+			],
+			"savingThrowForced": [
+				"constitution"
+			]
+		}
+	]		
+}
