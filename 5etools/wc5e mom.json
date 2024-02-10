@@ -717,7 +717,7 @@
 							"name": "Thunder Lizards",
 							"entries": [
 								"Few who scout a thunder lizard approaching dare engage the beast in an open skirmish. The thick-skinned beasts bears a striking resemblance to kodos and many have speculated that the two are related in one way or another.",
-								"But that is where the similarities between the creatures end; as the monstrous thunder lizard is easily aggravated, persistent in hunting down whoever would provoke it, and capable of exhaling a breath of lightning."
+								"But that is where the similarities between the creatures end; as the monstrous thunder lizard is easily aggravated, persistent in hunting down whoever would provoke it, and capable of exhaling a breath of lightning.",
 								{
 									"type": "entries",
 									"name": "",
@@ -756,14 +756,13 @@
 										"name": "",
 										"entries": [
 											{},
-											"{@note List of Kodos}",
+											"{@note List of Thunder Lizards}",
 											{	
 												"type": "list",
 												"style": "list-no-bullets",
 												"columns": 3,
 												"items": [					
-													"{@creature Kodo|WC5E MoM}",
-													"{@creature Ancient Kodo|WC5E MoM}",
+													"{@creature Thunder Lizard|WC5E MoM}",
 													""
 												]
 											}
