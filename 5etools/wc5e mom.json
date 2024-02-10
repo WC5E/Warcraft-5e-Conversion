@@ -46,7 +46,6 @@
 						"Dragon Hawks",
 						"Kodos",
 						"Mana Wyrms",
-						"Owlbeasts",
 						"Ravagers",
 						"Sabercats",
 						"Wind Serpents"
@@ -67,6 +66,18 @@
 					"ordinal": {
 						"type": "chapter",
 						"identifier": 2
+					}
+				},
+				{
+					"name": "Sentient Creatures",
+					"headers": [
+						"xxx",
+						"Owlbeasts",
+						"xxx"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": "3"
 					}
 				},
 				{
@@ -93,7 +104,7 @@
 			"source": "WC5E MoM",
 			"data": [
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Contents",
 					"entries": [					
 						"Waking up to a goblin ambush, a human reaches for the pistol she always keeps at her side. She leaps to her feet and begins to fire, blasting the nearest goblin away before he can strike.",
@@ -110,7 +121,7 @@
 					"type": "section",
 					"name": "Beasts of the Land",
 					"entries": [					
-						"This sections contains beasts from around the Eastern Kingdoms and Kalimdor.",
+						"This sections contains beasts from around Azeroth and beyond.",
 						{
 							"type": "entries",
 							"name": "Basilisks",
@@ -153,7 +164,7 @@
 											"columns": 3,
 											"items": [					
 														"{@creature Basilisk|WC5E MoM}",
-														"{@creature Basilisk|WC5E MoM}"
+														""
 													]
 													 
 											
@@ -242,11 +253,68 @@
 										"The raptor is a large, aggressive dinosaur, known far and wide for its strength and immense speed. Out in the open, it is near impossible to outrun its leaping stride, and once it has caught up to its prey it pounces; driving its hooked talons in deep.",
 										"Even among dinosaurs, raptors are exceptionally intelligent. Their packs act closer to colonies, with established hierarchies and and breeding grounds that could be mistaken for settlements when viewed from afar. They are very visually striking creatures, decked in scales and feathers ranging from bright blue and white, to striking red and orange, to deep black, purple, and green.",
 										{
-											"type": "entries",
+											"type": "inset",
 											"name": "Falcosaurs.",
 											"entries": [
-												"{@i Far away cousins.}",
-												"Falcosaurs are an invasive and predatory dinosaur species that can be found on the coastlines of the Broken Isles. They look like feathered raptors with a huge beak and have a primal need to hunt that develops at a young age. While falcosaurs are predatory, they are actually omnivores and eat fruits as well as berries in large quantities."
+												"Falcosaurs are an invasive and predatory dinosaur species that can be found on the coastlines of the Broken Isles. They look like feathered raptors with a huge beak and have a primal need to hunt that develops at a young age. While falcosaurs are predatory, they are actually omnivores and eat fruits as well as berries in large quantities.",
+												{
+													"type": "list",
+													"items": [
+														{
+															"type": "entries",
+															"name": "Bloodgazer.",
+															"entries": [
+																"",
+																"While the colors they sport make them look fierce and intimidating, the bloodgazer falcosaurs are predisposed to eating fruit and berries."
+															]
+														},
+														{
+															"type": "entries",
+															"name": "Direbeak.",
+															"entries": [
+																"Direbeak falcosaurs are the heartiest of the bunch. Their sense of smell however, is not as good as that of other falcosaur species, which had led them to prefer pungent meals and are often found feasting on carrion that has been in the sun for days. Their shimmering hides have adapted to confuse and disorient prey.",
+																"A falcosaur of the direbeak tribe has its {@b {@i Keen Hearing and Smell}} trait replaced by:",
+																{													
+																	"type": "entries",
+																	"name": "Shimmering Hide.",
+																	"entries": [
+																		"When a creature attacks the falcosaur, it gets momentarilly disoriented. The attacker has disadvantage on the attack roll."
+																	]
+																}
+															]
+														},
+														{
+															"type": "entries",
+															"name": "Sharptalon.",
+															"entries": [
+																"The viridian sharptalon falcosaurs have a diet which subsist mainly on small nuts and berries, their claws are used mostly for defense. Their viridian hide allow for them to blend into magical forests and non-magical forests alike.",
+																"A falcosaur of the sharptalon tribe has the additional trait:",
+																{													
+																	"type": "entries",
+																	"name": "Veridian Hide.",
+																	"entries": [
+																		"The sharptalon falcosaur has advantage on hiding in forests and woodlands."
+																	]
+																}
+															]
+														},
+														{
+															"type": "entries",
+															"name": "Snowfeather.",
+															"entries": [
+																"Snowfeather falcosaur are the most predatory of all known falcosaur species while being particularly fond of large prey. Their hide and fur allow them to hide in fog and fog banks.",
+																"A falcosaur of the snowfeather tribe has the additional trait:",
+																{													
+																	"type": "entries",
+																	"name": "Snowfeather Hide.",
+																	"entries": [
+																		"The snowfeather falcosaur has advantage on hiding in fog or snow."
+																	]
+																}
+															]
+														}
+													]
+												}
 											]
 										}
 									]
@@ -294,6 +362,646 @@
 										
 									]	
 								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Dragonhawks",
+							"entries": [
+								"Travelers entering the enchanted forests of Quel'Thalas might catch a glimpse of the mystical dragonhawk gliding above the trees. An unusual warmth hangs in the air, as the majestic beast vanishes out of sight.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Bred for War",
+											"entries": [
+												"",
+												"The elves of Quel'Thalas have a long standing tradition domesticating dragonhawks. They are vicious flying predators, swift and deft, able to crack bones and pierce hides with their long talons, and the elves have long mastered training them for use as aerial mounts. Majestic and magnificent creatures, dragonhawks and their elven riders make for an impressive sight."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Wild Legends",
+											"entries": [
+												"",
+												"Few wild dragonhawks still exist. Most of the beasts found in Quel'Thalas, if not all, are kept by the elves. Wild ones are near-mythical beings that few ever witness, as they stay clear of their tamed kin and have become masters of avoiding detection. These dragonhawks are formidable hunters and among the deadliest predators found on the Eastern Kingdoms."
+											]
+										},
+										"{@note List of Dragon Hawks}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+														"{@creature Young Dragonhawk|WC5E MoM}",
+														"{@creature Dragonhawk|WC5E MoM}",
+														""
+													]
+													 
+											
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Kodos",
+							"entries": [
+								"A kodo is a giant reptile, known for its thick hide and characteristics horns. Large and lumbering, these grazing beasts roam together in herds, their steps like rolling thunder across the plains of Kalimdor. Though their strength is immense, they are peaceful creatures whose horns serve <br> more to defend than to fight.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Herd Animals",
+											"entries": [
+												"",
+												"Kodos are pack animals, and show a clear line of authority in their herds. The head of the pack leads the way, while the rest keep close guard of the weak and young as to not leave <br> anyone behind. Most kodo herds number in a dozen at <br> the most, though some have been sighted in groups as large as fifty beasts. It is rare for a kodo to wander <br> alone, though some elderly beasts have been seen taking <br> to a life of solitude."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Tauren Culture",
+											"entries": [
+												"",
+												"Among the tauren, the kodos have a strong cultural presence as a symbol of vigor and power. Long have they hunted and tamed these imposing beasts, revering these acts important rites of passage for young tauren warriors. And for the size and brawn of the tauren themselves, few beasts can carry them as well as a kodo."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Pack Beasts",
+											"entries": [
+												"",
+												"Kodos are formidable pack beasts, long elevated as such by the tauren and since ingrained in the Horde as a whole. They can carry even immense loads for long periods of time without any trouble."
+											]
+										}
+									]
+								},
+								{
+										"type": "entries",
+										"name": "",
+										"entries": [
+											{},
+											"{@note List of Kodos}",
+											{	
+												"type": "list",
+												"style": "list-no-bullets",
+												"columns": 3,
+												"items": [					
+													"{@creature Kodo|WC5E MoM}",
+													"{@creature Ancient Kodo|WC5E MoM}",
+													""
+												]
+											}
+										]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Mana Wyrms",
+							"entries": [
+								"Manifesting near pockets of arcane energy, mana wyrms are, as the name implies, serpent-like creatures that shimmer with arcane energy.",
+								"Their bodies are translucent, hovering above the ground as though they are swimming through the air. More a nuisance than a threat, they rarely pose much concern for seasoned adventurers who happen by them.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Unstable Temperament",
+											"entries": [
+												"",
+												"The temperament of a mana wyrm hangs solely on how long it's been since it last fed. Though they are considered fairly harmless, an agitated wyrm can very quickly turn aggressive. If threatened, they are known to explode in a flash of arcane energy."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Arcane Sense",
+											"entries": [
+												"",
+												"A mana wyrms can sense the presence of arcane energy around it, and will gravitate toward its source. If the source is a creature and the wyrm is hungry, it may attempt to attack the creature accordingly."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Arcane Wyrm",
+									"entries": [
+										"An arcane wyrm is in many ways similar to a mana wyrm, though it is much, much larger, slowly snaking their way through the air near arcane fonts.",
+										"Some have attributed their existence to them simply being left to feed on too much energy, though their temperament is still calm and even so long as they are not directly threatened."
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Mana Wyrms}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Mana Wyrm|WC5E MoM}",
+												"{@creature Arcane Wyrm|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Ravagers",
+							"entries": [
+								"Native to the world of Draenor, these quadrupedal beings roam across their surrounding land in search of food to fill their insatiable appetite, ready to hound down and tear apart any creature made of flesh.",
+								"Ravagers resemble giant insectiods, equipped with ragged teeth and a voracious lust for meat. Their bodies are covered in hard chitin, which combined with their impressive speed make them amicable fighters.",
+								{
+									"type": "quote",
+									"entries": [
+										"Ravagers reproduce quickly and eat anything like crickets. They're also homicidal and roughly the size of horses. Not like crickets."
+									],
+									"by": "A resting Adventurer in the Spires of Arrak"
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Ferocious Carnivores",
+											"entries": [
+												"",
+												"Being such fierce predators, ravagers hunt together in swarms. They hide behind rocks and within crevices, waiting for their quarry to come within reach. Then, as soon as the moment comes, lunge out from hiding and rush into the fray with overwhelming force."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Swarm Mentality",
+											"entries": [
+												"",
+												"Perhaps not too surprising, given their insect-like appearance, are the ever-growing ravager colonies. Though their hive mind is not as intrinsically linked as some others, it still binds the colony together as a large, fiercely protective swarm."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Migrated Creatures",
+											"entries": [
+												"",
+												"Ravagers are native to the world of Draenor, with no true equal on Azeroth -- save for one small colony, locked away on the Exodar with the fleeing Draenei.",
+												"The ship's subsequent crash off the northern coast of Kalimdor saw this particular group of ravagers released into the wild. Most were stopped in their tracks, though some may yet have escaped to flee deeper into the thickets, or across the waters to the mainland."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Ravager Brood Mother",
+									"entries": [
+										"At the heart of a ravager colony sits its queen; the brood mother. She grants the colony life, by laying the eggs that hatch into the ravager larva. For her vital part in keeping the colony alive, other ravagers in the colony will go to extreme lengths to ensure her safety."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ravager Wasp",
+									"entries": [
+										"Following the birth of a ravager larva, the creature quickly cocoons itself in order to grow further. From the cocoon, the ravager emerges as a slender wasp with a ferocious sting. The ravager wasp gorges itself on its prey, feeding until its wings can no longer support the weight of its body. Then, its wings are shed; as the wasp undergoes one final metamorphosis into a full-grown, four-legged ravager."
+									]
+								},
+								{
+									"type": "inset",
+									"name": "Ravagers on alternate Draenor",
+									"entries": [
+										"The ravagers of alternate Draenor were never exposed to the powers of fel, their bodies were not malformed. These creatures have evolved into large monsters more resembling four-legged spiders, their wings have grown with them giving all ravagers a flying speed equal to their normal speed."									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Ravagers}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Ravager|WC5E MoM}",
+												"{@creature Ravager Broodmother|WC5E MoM}",
+												"{@creature Ravager Wasp|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Sabercats",
+							"entries": [
+								"Sabercats are cunning felines, native to the northern <br/> reaches of Kalimdor. These magnificent beasts have <br/> been the companions of many adventurers -- and the demise of many more. They are intelligent creatures; <br/> very loyal when properly domesticated, while still <br/> remaining aggressive and territorial in the wilds.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Stalkers of Azeroth",
+											"entries": [
+												"",
+												"Favoured as they are among travellers, sabercats have come to live far and wide across Azeroth. Still, the majority of their kind keep to Kalimdor, where they populate dense forests and icy wastes alike. They are quick to adapt to their given habitat, sprouting pelts able to blend their surroundings.",
+												"Many species of sabercats exist, each one distinct and differing remarkably in how it would approach outsiders. The most common types of sabercats are the dreadsabers, the frostsabers, and the nightsabers."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Supreme Predators",
+											"entries": [
+												"",
+												"As far as predators go, basilisks are often slow and ponderous creatures, as they rarely need to chase their prey. Meeting a basilisk's supernatural gaze can be enough to rapidly transform their prey into stone -- which the basilisk then breaks apart with its strong jaws, perfectly capable of tearing down the stone for nutrition.",
+												"They are also pack animals, rarely ever hunting alone. Even when one does spot a prowling sabercat, it is likely that another is about to pounce from behind."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fierce Companion",
+											"entries": [
+												"",
+												"Whether raised from a cub or tamed in the wild, the beasts become loyal to a fault once properly bonded. Night elves have bred and trained sabercats for thousands of years, even utilizing them as mounts in their armies."
+											]
+										}
+									]
+								},
+								{
+										"type": "entries",
+										"name": "Manasaber",
+										"entries": [
+											"Manasabers are a type of sabercat found residing within the borders of Suramar. The well of power, radiating from inside the city, has infused them with mana and trans&shy;formed them into magical beings.",
+											"Most manasabers are domesticated animals, having lived in such close proximity to the elves of Suramar -- who in turn take great care to train them well."
+										]	
+								},
+								{
+									"type": "variant",
+									"name": "Sabercat Armor",
+									"entries": [
+										"An armored sabercat has an AC based on the type of {@item barding|phb} worn. The sabercat's AC includes its Dexterity modifier, where applicable.",
+										"Barding doesn't alter the sabercat's challenge rating.",
+										{
+											"type": "table",
+											"caption": "",
+											"colLabels": [
+												"AC",
+												"Barding",
+												"AC",
+												"Barding",
+												""
+											],
+											"colStyles": [
+												"col-1 text-center",
+												"col-2 text-left",
+												"col-1 text-center",
+												"col-2",
+												"col-6"
+											],	
+											"rows": [
+												[
+													"13",
+													"Leather",
+													"17",
+													"Chain mail"
+												],
+												[
+													"14",
+													"Studded leather",
+													"18",
+													"Splint"
+												],
+												[
+													"15",
+													"Ring mail",
+													"19",
+													"Plate"
+												],
+												[
+													"16",
+													"Scale Mail"
+												]
+											]
+										}
+									]
+								},
+								"{@note List of Sabercats}",
+								{	
+									"type": "list",
+									"style": "list-no-bullets",
+									"columns": 3,
+									"items": [					
+										"{@creature Young Sabercat|WC5E MoM}",
+										"{@creature Sabercat|WC5E MoM}",
+										"{@creature Manasaber|WC5E MoM}",
+										""
+									]						
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Wind Serpents",
+							"entries": [
+								"Slithering across in the plains of Mulgore, flying through the frosty trees of Winterspring, or prowling beneath the burning sand of Tanaris. Wind serpents are adaptable beasts who can be found in all corners of Azeroth. The serpentine creatures rarely pay any attention to those who wander by, but once hungry -- or aggravated -- they quickly turn hostile; ready to strike with their venomous bite and innate power to spew elemental fury.",
+								"A wind serpent combines the bright-scaled body and head of a snake with the leathery wings of a drake, as well as the feathers of a brightly colored bird.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Spiritual Creatures",
+											"entries": [
+												"",
+												"The serpentine beasts are formidable hunters; predators who utilize the environment to ambush their prey for a moment's advantage. Crawling among tree branches, stalk within fissures, or flying silently out from dark nooks towards their desired target."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Unseen Hunters",
+											"entries": [
+												"",
+												"They attack with lightning speed and swiftly retreat once the blow has been dealt, stalking for the next opportunity to strike. Perceptive adventurers might catch a glimpse of their colorful scales glinting, as a warning of their presence -- and potential quarry."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Adapted Species",
+											"entries": [
+												"",
+												"Wind serpents can be found in the far reaches of the world. They nest in hard-to-reach places where they may safely retire. The different subspecies of wind serpents have adapted and adjusted to the environ&shy;ment around them, changing elemental bond -- and color with it --  to better survive their harsh surroundings."
+											]
+										}
+									]	
+								},
+								{
+									"type": "variant",
+									"name": "Adapted Wind Serpents",
+									"entries": [
+										"Wind serpents are found throughout Azeroth and have adapted differently to their climate.",
+										"You can change a wind serpent's *lightning breath* and *shocking spit* attacks to deal cold or poison damage instead of lightning by making the following changes to the attacks:",
+										{													
+											"type": "entries",
+											"name": "Breath Attack.",
+											"entries": [
+												"The breath attack becomes a cone of a size equal to half the line's length, and requires a Constitution saving throw to resist."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Spit.",
+											"entries": [
+												"The spit attack requires a Constitution saving throw to resist."
+											]
+										}
+									
+									]							
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Wind Serpents}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Wind Serpent|WC5E MoM}",
+												"{@creature Wind Serpent Stinglash|WC5E MoM}",
+												"{@creature Wind Serpent Dreadfang|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Plant Creatures",
+					"entries": [					
+						"This sections contains plant based lifeforms from around Azeroth and beyond.",
+						{
+							"type": "entries",
+							"name": "Basilisks",
+							"entries": [
+								"Sometimes, travelers find carved stone statues of people or wildlife that look remarkably lifelike. Sometimes these statues are whole. Other times, the parts that are missing appear to have been bitten off. Seasoned explorers regard such relics as a warning, knowing that the basilisk responsible is likely to still be close by.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Territorial Creatures",
+											"entries": [
+												"",
+												"Although basilisks are powerful creatures, and fierce combatants, they rarely exhibit a deliberately cruel or violent intent. Basilisks live as solitary predators, sometimes in small colonies, and keep a watchful eye on the borders of their territory. From their domain, they prefer to hunt those who choose to trespass, leaving behind petrified chunks of whatever remains."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Gaze of Stone",
+											"entries": [
+												"",
+												"As far as predators go, basilisks are often slow and ponderous creatures, as they rarely need to chase their prey. Meeting a basilisk's supernatural gaze can be enough to rapidly transform their prey into stone -- which the basilisk then breaks apart with its strong jaws, perfectly capable of tearing down the stone for nutrition."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "A Fondness for Crystals",
+											"entries": [
+												"",
+												"Though many scholars have examined the basilisk's inherent attraction to crystals, there is no agreement as to why the lumbering beasts exhibit such fondness for them.",
+												"They exhibit great fondness for crystalline structures and are capable of sensing them from a great distance, which they will gladly traverse -- in groups or by their lonesome -- to retrieve their coveted prize. Basilisks have such an insatiable hunger for such crystals, it is not uncommon to find colonies that have begun to sprout crystal formations across their rocky hides, as a side-effect of their gluttonous diet.",
+												"In Stranglethorn Vale, especially, some colonies have taken to forming their nests from these same crystals, making for an attractive gamble for any adventurers daring enough to come face to face with the terrifying beasts."
+											]
+										},
+										"{@note List of Basilisks}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+														"{@creature Basilisk|WC5E MoM}",
+														""
+													]
+													 
+											
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Sentient Creatures",
+					"entries": [					
+						"This sections contains sentient creatures that aren't part of major factions from around Azeroth and beyond.",
+						{
+							"type": "entries",
+							"name": "xxx",
+							"entries": [
+								"The owlbeasts are serene and powerful creatures, inhabiting many forested regions across Azeroth. They resemble a cross between a bear and an owl, <br>suited with the antlers of a great stag and the massive, ooked beak of a bird of prey.",
+								"With their lumbering build and remarkably strong claws, they might seem like fearsome predators. However, their looks betray them for the gentle creatures they really are -- at least when they are left well alone.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Forest Settlements",
+											"entries": [
+												"",
+												"Owlbeasts keep to dense forests, finding shelter to build nests between rocks and inside caves. They are social creatures at heart, living harmoni&shy;ously with their fellows in small colonies, not keeping to any apparent structure of leadership.",
+												"From time to time, their choice of settlement may bring them into close contact with another race. For the most part, this is not a problem, as the creatures have been seen thriving in the company of night elves and tauren.",
+												"Other times, it may force them to fight for their claim or move on to somewhere else. Once first provoked, they are quick to enrage -- at which point all hope for reason may well be lost."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Peaceful Creatures",
+											"entries": [
+												"",
+												"Travellers with the care to show respect are seldom hard-pressed to find aid from these gentle giants; whether they're seeking help, or a safe passage out of the woods. Still, if one does opt to disregard the owlbeasts or meet them with hostile intent, they are rarely ever shy to respond in kind."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Children of Elune",
+											"entries": [
+												"",
+												"The goddess Elune first created the Owlbeasts in ages past, joining the strength of the bear with the wisdom of the owl, to serve as guardians for the demigod Cenarius. Though blessed by the moon, some have fallen stray from their path, lost and confused without the guidance of their goddess."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Corruptible Minds",
+											"entries": [
+												"",
+												"Owlbeasts are, as with most wild beings on Azeroth, susceptible to corruption. Whether by fel energies or nightmarish whispers, it only takes so much to tip the scales and turn these docile beings into ferocious monsters. Such flocks are eventually sought out by druids seeking to intervene, though there is no telling what chaos they might have wrought in the meantime."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Moonkin",
+									"entries": [
+										"Though all owlbeasts are children of Elune, few keep their blessing closer to heart than the graceful moonkin. The two may seem near indistinguishable at first, but the moonkin's heightened mind leaves it more than capable of coherent dialogue and rational thought.",
+										"Bound to their groves and keeping in druidic circles, to whom they act as guardians, they boast a formidable breadth of magical power."
+									]	
+								},
+								{
+								"type": "entries",
+								"name": "",
+								"entries": [
+										{},
+										"{@note List of Owlbeast}",
+										{	
+										"type": "list",
+										"style": "list-no-bullets",
+										"columns": 3,
+										"items": [					
+												"{@creature Owlbeast|WC5E MoM}",
+												"{@creature Moonkin|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Owlbeasts",
+							"entries": [
+								"The owlbeasts are serene and powerful creatures, inhabiting many forested regions across Azeroth. They resemble a cross between a bear and an owl, <br>suited with the antlers of a great stag and the massive, ooked beak of a bird of prey.",
+								"With their lumbering build and remarkably strong claws, they might seem like fearsome predators. However, their looks betray them for the gentle creatures they really are -- at least when they are left well alone.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Forest Settlements",
+											"entries": [
+												"",
+												"Owlbeasts keep to dense forests, finding shelter to build nests between rocks and inside caves. They are social creatures at heart, living harmoni&shy;ously with their fellows in small colonies, not keeping to any apparent structure of leadership.",
+												"From time to time, their choice of settlement may bring them into close contact with another race. For the most part, this is not a problem, as the creatures have been seen thriving in the company of night elves and tauren.",
+												"Other times, it may force them to fight for their claim or move on to somewhere else. Once first provoked, they are quick to enrage -- at which point all hope for reason may well be lost."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Peaceful Creatures",
+											"entries": [
+												"",
+												"Travellers with the care to show respect are seldom hard-pressed to find aid from these gentle giants; whether they're seeking help, or a safe passage out of the woods. Still, if one does opt to disregard the owlbeasts or meet them with hostile intent, they are rarely ever shy to respond in kind."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Children of Elune",
+											"entries": [
+												"",
+												"The goddess Elune first created the Owlbeasts in ages past, joining the strength of the bear with the wisdom of the owl, to serve as guardians for the demigod Cenarius. Though blessed by the moon, some have fallen stray from their path, lost and confused without the guidance of their goddess."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Corruptible Minds",
+											"entries": [
+												"",
+												"Owlbeasts are, as with most wild beings on Azeroth, susceptible to corruption. Whether by fel energies or nightmarish whispers, it only takes so much to tip the scales and turn these docile beings into ferocious monsters. Such flocks are eventually sought out by druids seeking to intervene, though there is no telling what chaos they might have wrought in the meantime."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Moonkin",
+									"entries": [
+										"Though all owlbeasts are children of Elune, few keep their blessing closer to heart than the graceful moonkin. The two may seem near indistinguishable at first, but the moonkin's heightened mind leaves it more than capable of coherent dialogue and rational thought.",
+										"Bound to their groves and keeping in druidic circles, to whom they act as guardians, they boast a formidable breadth of magical power."
+									]	
+								},
+								{
+								"type": "entries",
+								"name": "",
+								"entries": [
+										{},
+										"{@note List of Owlbeast}",
+										{	
+										"type": "list",
+										"style": "list-no-bullets",
+										"columns": 3,
+										"items": [					
+												"{@creature Owlbeast|WC5E MoM}",
+												"{@creature Moonkin|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
 							]
 						}
 					]
