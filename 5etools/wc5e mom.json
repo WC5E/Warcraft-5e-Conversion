@@ -48,6 +48,7 @@
 						"Mana Wyrms",
 						"Ravagers",
 						"Sabercats",
+						"Thunder Lizards",
 						"Wind Serpents"
 					],
 					"ordinal": {
@@ -410,7 +411,7 @@
 							"type": "entries",
 							"name": "Kodos",
 							"entries": [
-								"A kodo is a giant reptile, known for its thick hide and characteristics horns. Large and lumbering, these grazing beasts roam together in herds, their steps like rolling thunder across the plains of Kalimdor. Though their strength is immense, they are peaceful creatures whose horns serve <br> more to defend than to fight.",
+								"A kodo is a giant reptile, known for its thick hide and characteristics horns. Large and lumbering, these grazing beasts roam together in herds, their steps like rolling thunder across the plains of Kalimdor. Though their strength is immense, they are peaceful creatures whose horns serve more to defend than to fight.",
 								{
 									"type": "entries",
 									"name": "",
@@ -420,7 +421,7 @@
 											"name": "Herd Animals",
 											"entries": [
 												"",
-												"Kodos are pack animals, and show a clear line of authority in their herds. The head of the pack leads the way, while the rest keep close guard of the weak and young as to not leave <br> anyone behind. Most kodo herds number in a dozen at <br> the most, though some have been sighted in groups as large as fifty beasts. It is rare for a kodo to wander <br> alone, though some elderly beasts have been seen taking <br> to a life of solitude."
+												"Kodos are pack animals, and show a clear line of authority in their herds. The head of the pack leads the way, while the rest keep close guard of the weak and young as to not leave anyone behind. Most kodo herds number in a dozen at the most, though some have been sighted in groups as large as fifty beasts. It is rare for a kodo to wander alone, though some elderly beasts have been seen taking to a life of solitude."
 											]
 										},
 										{
@@ -713,6 +714,65 @@
 						},
 						{
 							"type": "entries",
+							"name": "Thunder Lizards",
+							"entries": [
+								"Few who scout a thunder lizard approaching dare engage the beast in an open skirmish. The thick-skinned beasts bears a striking resemblance to kodos and many have speculated that the two are related in one way or another.",
+								"But that is where the similarities between the creatures end; as the monstrous thunder lizard is easily aggravated, persistent in hunting down whoever would provoke it, and capable of exhaling a breath of lightning."
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Creature of Myth",
+											"entries": [
+												"",
+												"Thunder lizards are considered mystical creatures and a rare sight by many. They are only made rarer by their aggressive nature, as failing to take necessary precautions before attempting to approach a thunder lizard may quickly spell doom.",
+												"Among the tauren, legends claim thunder lizards to be formed from ancient kodo spirits; bound to the sky and storm and brought back as thundering monsters."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Grassland Scavengers",
+											"entries": [
+												"",
+												"The lumbering creatures roam the vast plains of Kalimdor in search of prey. Thunder lizards are carnivorous, and will often eat their prey whole: dissolving both the creature and everything it carried in the process. Thankfully, magical items are usually left behind without being too much worse for wear.",
+												"ary scouts who have witnessed the great thunder lizards and lived, often note that they leave ordinary kodos unharmed -- rather seeking food elsewhere."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Lone Wanderers",
+											"entries": [
+												"",
+												"Thunder lizards are rarely found in large numbers, preferring to either hunt alone or follow a pack of kodos as some form of guardian.",
+												"They move vast distances in their tireless hunt, and tales have been told of thunder lizards even wandering their way through open settlements. They rarely cause any trouble, however, so long as they are not provoked."
+											]
+										}
+									]
+								},
+								{
+										"type": "entries",
+										"name": "",
+										"entries": [
+											{},
+											"{@note List of Kodos}",
+											{	
+												"type": "list",
+												"style": "list-no-bullets",
+												"columns": 3,
+												"items": [					
+													"{@creature Kodo|WC5E MoM}",
+													"{@creature Ancient Kodo|WC5E MoM}",
+													""
+												]
+											}
+										]
+								}
+							]
+						},
+						{
+							"type": "entries",
 							"name": "Wind Serpents",
 							"entries": [
 								"Slithering across in the plains of Mulgore, flying through the frosty trees of Winterspring, or prowling beneath the burning sand of Tanaris. Wind serpents are adaptable beasts who can be found in all corners of Azeroth. The serpentine creatures rarely pay any attention to those who wander by, but once hungry -- or aggravated -- they quickly turn hostile; ready to strike with their venomous bite and innate power to spew elemental fury.",
@@ -800,53 +860,407 @@
 						"This sections contains plant based lifeforms from around Azeroth and beyond.",
 						{
 							"type": "entries",
-							"name": "Basilisks",
+							"name": "Ancients",
 							"entries": [
-								"Sometimes, travelers find carved stone statues of people or wildlife that look remarkably lifelike. Sometimes these statues are whole. Other times, the parts that are missing appear to have been bitten off. Seasoned explorers regard such relics as a warning, knowing that the basilisk responsible is likely to still be close by.",
+								"The Ancients are massive, leaf-covered trees given life. With an unparalleled wisdom and insight into the world around them, they act asguardians of the forests where they dwell -- such as those of northern Kalimdor, where their shared bonds with the night elves have kept the two races in a long-lasting symbiosis.",
 								{
 									"type": "entries",
 									"name": "",
 									"entries": [
 										{
 											"type": "entries",
-											"name": "Territorial Creatures",
+											"name": "Staunch Defenders.",
 											"entries": [
 												"",
-												"Although basilisks are powerful creatures, and fierce combatants, they rarely exhibit a deliberately cruel or violent intent. Basilisks live as solitary predators, sometimes in small colonies, and keep a watchful eye on the borders of their territory. From their domain, they prefer to hunt those who choose to trespass, leaving behind petrified chunks of whatever remains."
+												"An ancient is grown from an acorn, like so many other trees, though the acorn itself is far rarer and far more powerful. It takes years upon years for an ancient to grow to its full size, where it stays for thousands of years without feeling the wear of old age.",
+												"The ancients who have allied themselves with the honorable night elves stand guard of their cities, and of their border territories. They can burrow their rooted feet into the soil beneath, becoming indistinguishable from a normal tree if they stand perfectly still. This allows both for other creatures to take shelter between its leaves, such as a squirrel with its own acorns, and for the ancient to keep quiet watch over the wilds.",
+												"Due to their immense lifespan and often slow, lumbering presence, an ancient sees time differently from mortal races. Often times, years may become akin to hours, minutes, or even seconds."
 											]
 										},
 										{
 											"type": "entries",
-											"name": "Gaze of Stone",
+											"name": "Plantlike Creatures",
 											"entries": [
 												"",
-												"As far as predators go, basilisks are often slow and ponderous creatures, as they rarely need to chase their prey. Meeting a basilisk's supernatural gaze can be enough to rapidly transform their prey into stone -- which the basilisk then breaks apart with its strong jaws, perfectly capable of tearing down the stone for nutrition."
+												"An ancient doesn't require food or sleep. Instead, it draws nourishment from the soil and can carry on for weeks without a fresh supply of water."
 											]
-										},
-										{
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Ancient Protector",
+									"entries": [
+										"Most often when the acorn of an ancient sprouts, it grows to become an ancient protector. These hulking trees make up most of the ancients, and are critical in safeguarding night elven civic areas and groves."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ancient of Lore",
+									"entries": [
+										"Some ancients grow to become enlightened beings of the forest, wise beyond belief and capable of establishing meaningful contact with the free-spirited dryads. These ancient have a close connection to night elven druids and priests, taking on a role as instructors in the ways of magic and the secrets of nature."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ancient of War",
+									"entries": [
+										"The toughest of ancients grow into ancients of war; mighty plants often found defending night elven settle&shy;ments or supporting Alliance forces in battle. Embodied in these ancient guardians are the spirits of courage and determination, which they wield to call upon the forest itself to rise in order to turn the tide of battle in favour of them and their allies."
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Tree of Life",
+									"entries": [
+										"A tree of life is a sapling born from the world tree Nordrassil, these ancients have suffered great losses in recent wars, and those who remain have returned to the forest to spread their seeds and replenish their numbers undisturbed.",
+										"A tree of life has a challenge rating of 10 (5,900 XP). It has the same statistics as an ancient of lore, and gains the following additional traits:",
+										{													
 											"type": "entries",
-											"name": "A Fondness for Crystals",
+											"name": "Nature's Blessing.",
 											"entries": [
-												"",
-												"Though many scholars have examined the basilisk's inherent attraction to crystals, there is no agreement as to why the lumbering beasts exhibit such fondness for them.",
-												"They exhibit great fondness for crystalline structures and are capable of sensing them from a great distance, which they will gladly traverse -- in groups or by their lonesome -- to retrieve their coveted prize. Basilisks have such an insatiable hunger for such crystals, it is not uncommon to find colonies that have begun to sprout crystal formations across their rocky hides, as a side-effect of their gluttonous diet.",
-												"In Stranglethorn Vale, especially, some colonies have taken to forming their nests from these same crystals, making for an attractive gamble for any adventurers daring enough to come face to face with the terrifying beasts."
+												"The tree add its Wisdom modifier to its Armor Class (AC 19)."
 											]
 										},
-										"{@note List of Basilisks}",
+										{													
+											"type": "entries",
+											"name": "Rooted Tranquility.",
+											"entries": [
+												"While the tree have taken root, each plant of the tree's choice within 60 feet of it regains 20 hit points at the start of its turn. If the plant takes fire damage, this trait doesn't function at the start of the plant's next turn. A plant dies if it starts its turn with 0 hit points."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Spellcasting.",
+											"entries": [
+												"The tree has the following additional spells prepared.",
+												{
+													"type": "list",
+													"items": [
+														"4th level: {@i {@spell guardian of nature|xge}, {@spell grasping vine}}",
+														"5th level: {@i {@spell commune with nature}}",
+														"6th level: {@i {@spell druid grove|xge}, {@spell sunbeam}}"
+													]
+												},
+												"The tree has the following additional action option.",
+												{													
+													"type": "entries",
+													"name": "Summon Wisps (1/Day).",
+													"entries": [
+														"The tree calls forth ten wisps that appear in empty spaces within 60 feet of it. These wisps act as allies of the tree. The wisps remains for 1 day or until they die."
+													]
+												}
+											]
+										}
+									]							
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Ancients}",
 										{	
 											"type": "list",
 											"style": "list-no-bullets",
 											"columns": 3,
 											"items": [					
-														"{@creature Basilisk|WC5E MoM}",
-														""
-													]
-													 
-											
+												"{@creature Ancient Protector|WC5E MoM}",
+												"{@creature Ancient of Lore|WC5E MoM}",
+												"{@creature Ancient of War|WC5E MoM}",
+												""
+											]
 										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Bog Beasts",
+							"entries": [
+								"A bog beast is a massive, shambling monster made of plants, roots, and flesh. Inhabiting bogs and swamps, they hide away beneath the water surface, disguising them&shy;selves as thick, waterlogged lumps of vegetation. There they wait patiently for any unaware critters to venture too close -- or better yet, unaware adventurers.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Creatures of Mystery",
+											"entries": [
+												"",
+												"Bog beasts are frightful crea&shy;tures, and notoriously elusive. They are adept at avoiding the gaze of scholars attempting to study them; and for many who have tried, only moss-riddled remains have been found. Their aggressive, territorial nature makes them a considerable danger to any unfortunate enough to cross paths with them."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Plants Anatomy",
+											"entries": [
+												"",
+												"Thick roots stretch across the entirety of the bog beast's form, as if to conceal what hides under&shy;neath. It is speculated that they have no real need for sustenance apart from the waters they dwell in, and some have been observed spending months still in the murky depths -- only barely grasping the surface to draw breath."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Naturally Powerful",
+											"entries": [
+												"",
+												"Explorers who have encountered a bog beast and lived to tell the tale, describe them as immen&shy;sely powerful and resilient to harm. Their massive limbs can quickly overwhelm their enemies, crushing opponents with their fists or with whatever nearby objects they can throw."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Timberling",
+									"entries": [
+										"A timberling is by many considered the child of bog beasts, very similar and yet considerably smaller at a height comparable to that of a dwarf. As far as bog beasts go, timberlings are fairly peaceful creatures that live in harmony with the land. However, any disruption to their habitat will quickly drive them into an unnatural frenzy."
 									]
-								}
+								},
+								{
+									"type": "entries",
+									"name": "Thistleshrub",
+									"entries": [
+										"Thistleshrubs, unlike most bog beasts, do not dwell in swamps or marshes. Instead they prefer arid climates, and bear a resemblance to a large mass of withered vines cov&shy;ered in sharp briars. They are known to be very hostile, and will certainly attack anyone foolish enough to approach; sporadically lashing out with whip-like thorns at anything that comes near."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Swampwalker",
+									"entries": [
+										"These hulking masses are rarely ever witnessed outside of dense swamps, and blend perfectly into their chosen habitat with their dark green and brown colors.",
+										"They are both the most territorial and the most cunning among bog beasts, and have been witnessed deliberately attempting to lure travellers farther into their lair in order to spring a trap. Their natural camouflage allows them to move through their territory entirely unseen, and have left adventurers wary even of rippling water and rustling leaves when venturing through swamps."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tar Creeper",
+									"entries": [
+										"Cherishing humid air and temperatures, the tar creeper is by far the most abnormal of all bog beasts for its viscous, tar-like appearance. Not to mention the most dangerous.",
+										"Though they might seem slow, these massive beasts can cut through tar like a fish through water; lunging forth to trap their prey and drag it back down below."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Bog Beasts}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Timberling|WC5E MoM}",
+												"{@creature Thistleshrub|WC5E MoM}",
+												"{@creature Swampwalker|WC5E MoM}",
+												"{@creature Tar Creeper|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Lashers",
+							"entries": [
+								"Lashers are a family of large, slithering flora, known for their long, appendage-like tendrils and found across most of Azeroth. Though most lashers are not predatory, they will defend themselves if threatened.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Sentient Plants",
+											"entries": [
+												"",
+												"Their existence is the result of nature magic, seeped down into the ground and left to spread. There, it has given the plants enough will to uproot themselves and roam around. For some lashers, this awakening has been deliberate and fairly harmless. For others, it has transformed the plants into vile monstrosities."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Widely Adapted",
+											"entries": [
+												"",
+												"A lasher spitter is a large, carnivorous plant. It produces a strong acid within its stalk, which it then spits out with impressive accuracy through the large maw situated between its petals. The acid is strong enough to dissolve flesh, for easier consumption."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fast Learners",
+											"entries": [
+												"",
+												"Though they appear driven by little more than instinct, fully mature lashers have shown themselves to be remarkably intelligent. Even capable of laying traps, forming decorations, and conveying messages with simple gestures."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Lasher Spitter",
+									"entries": [
+										"A lasher spitter is a large, carnivorous plant. It produces a strong acid within its stalk, which it then spits out with impressive accuracy through the large maw situated between its petals. The acid is strong enough to dissolve flesh, for easier consumption."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Barbed Orchid",
+									"entries": [
+										"A barbed orchid stands out from other lashers for its large, vibrant flower-head, centre of which some describe as resembling an owlbeast's beak. Their long tendrils are covered with barbs, which they strike out at prey and intruders alike."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Bloodpetal Flayer",
+									"entries": [
+										"At a glance, most would take the bloodpetal flayer for little more than a very colorful lasher. Looks are sure to betray, however; as these lashers are unmatched for their ferocity, and for the potency of the vile toxin kept in their sharp thorns."
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Mature Lasher",
+									"entries": [
+										"When lashers reach maturity, some learn to channel the powers of the moon in their favor.",
+										"A mature lashers has the same statistics as a lasher spitter, except that it has a Wisdom score of 12, and replaces the spitter's action options with the following action option:",
+										{													
+											"type": "entries",
+											"name": "Dream Lash.",
+											"entries": [
+												"{@i Ranged Spell Attack:} +3 to hit, range 15/30 ft., one target. *Hit:* 5 (1d10) radiant damage."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Rooted Tranquility.",
+											"entries": [
+												"While the tree have taken root, each plant of the tree's choice within 60 feet of it regains 20 hit points at the start of its turn. If the plant takes fire damage, this trait doesn't function at the start of the plant's next turn. A plant dies if it starts its turn with 0 hit points."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Spellcasting.",
+											"entries": [
+												"The tree has the following additional spells prepared.",
+												{
+													"type": "list",
+													"items": [
+														"4th level: {@i {@spell guardian of nature|xge}, {@spell grasping vine}}",
+														"5th level: {@i {@spell commune with nature}}",
+														"6th level: {@i {@spell druid grove|xge}, {@spell sunbeam}}"
+													]
+												},
+												"The tree has the following additional action option.",
+												{													
+													"type": "entries",
+													"name": "Summon Wisps (1/Day).",
+													"entries": [
+														"The tree calls forth ten wisps that appear in empty spaces within 60 feet of it. These wisps act as allies of the tree. The wisps remains for 1 day or until they die."
+													]
+												}
+											]
+										}
+									]							
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Lashers}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Lasher|WC5E MoM}",
+												"{@creature Lasher Spitter|WC5E MoM}",
+												"{@creature Barbed Orchid|WC5E MoM}",
+												"{@creature Bloodpetal Flayer|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Treants",
+							"entries": [
+								"Few would gaze upon the stout treants and assume them to be wise or strong, but these awakened trees have been imbued by the spirits of the forests in which they dwell. In times of peace, they act as keepers and tenders. In times of war, they rise to defend their groves with fervor.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Saplings of Ancients",
+											"entries": [
+												"",
+												"The treants begin their lives as sapling sprouds of the ancients, carrying many of the same qualities as the tree from which they came -- be it be it boldness, tenderness, or a great force of will. Like the forest around them, treants never cease to grow. Instead, they rise taller and taller, century by century passing by, until the time is right for one to rise into the annals as an ancient protector."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Guardians of Nature",
+											"entries": [
+												"",
+												"Like the ancients, treants live to serve the forces of nature. Should someone dare to bring harm to their domain, it is they who wander the woods in search the perpetrators. If confronted, the treants respond by slashing wildly with their barbed claws.",
+												"Their task of safe-guarding nature have granted them favor among druids and woodland creatures alike. It is rare to see a treant wandering alone, as they are often accompanied by sprouts and other critters."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Corrupted and Unpredictable",
+											"entries": [
+												"",
+												"During the Third War, as the Burning Legion once more invaded Azeroth, numerous forests were set ablaze -- most notably, the forests of Ashenvale and Quel'Thalas.",
+												"With the destruction of their groves, the treants who delved within were driven to the brink of insanity, their hollow shells quickly gripped by the Legion's influence.",
+												"Though the invasion was since quelled, many groves are still saturated with demonic corruption; the treants within ready to lash out at any who would dare appproach. Adventurers who have taken upon them to visit these ancient sites, have borne witness to withered shambles lurking between dead trees and fallen ruins."
+											]
+										}
+									]	
+								},
+								{
+									"type": "variant",
+									"name": "Treant Wildcaller",
+									"entries": [
+										"Although all treants can manipulate the forest to some degree, wildcallers can harness the full might of the wilderness. A treant wildcaller has a challenge rating of 3 (700 XP). It has 45 (7d8 + 14) hit points and the following trait.",
+										{													
+											"type": "entries",
+											"name": "Spellcasting.",
+											"entries": [
+												"The treant is a 4th-level spellcaster. its spellcasting ability is Wisdom (save DC 11, +3 to hit with spell attacks). The treant has the following druid spells prepared:",
+												{
+													"type": "list",
+													"items": [
+														"Cantrips (at will): {@i {@spell druidcraft}, {@spell solar wrath|WC5e Spells}, {@spell thorn whip}}",
+														"1st level (4 slots): {@i {@spell cure wounds}, {@spell faerie fire}, {@spell sleep}}",
+														"2nd level (3 slots): {@i {@spell barkskin}, {@spell spike growth}}"
+													]
+												}
+											]
+										}
+									]							
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Treants}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Treant|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
 							]
 						}
 					]
@@ -1052,8 +1466,8 @@
 					"name": "Petrifying Gaze",
 					"entries": [
 						"If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a {@dc 12} Constitution saving throw if the basilisk isn't {@condition incapacitated}. On a failed save, the creature magically begins to turn to stone and is {@condition restrained}. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is {@condition petrified} until freed by the {@spell greater restoration} spell or other magic.",
-						"nbsp;&nbsp;&nbsp; A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again.  If it looks at the basilisk in the meantime, it must immediately make the save.",
-						"nbsp;&nbsp;&nbsp; If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze."
+						"A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again.  If it looks at the basilisk in the meantime, it must immediately make the save.",
+						"If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze."
 					]
 				}
 			],
