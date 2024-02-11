@@ -72,9 +72,18 @@
 				{
 					"name": "Sentient Creatures",
 					"headers": [
-						"xxx",
+						"Centaurs",
+						"Furbolg",
+						"Gnolls",
+						"Grell",
+						"Haripies",
+						"Kobolds",
+						"Makura",
+						"Murlocs",
 						"Owlbeasts",
-						"xxx"
+						"Quilboars",
+						"Troggs",
+						"Yetis"
 					],
 					"ordinal": {
 						"type": "chapter",
@@ -774,6 +783,13 @@
 							"type": "entries",
 							"name": "Wind Serpents",
 							"entries": [
+								{
+									"type": "quote",
+									"entries": [
+										"The Thunderhawk is a rare beast of the Barrens, and its death can portend great fortune, or great doom. The pain you felt from hunting it is the pang all feel who make great gains at great costs. The sting you felt is the pain of regreat."
+									],
+									"by": "Jorn Skyseer"
+								},
 								"Slithering across in the plains of Mulgore, flying through the frosty trees of Winterspring, or prowling beneath the burning sand of Tanaris. Wind serpents are adaptable beasts who can be found in all corners of Azeroth. The serpentine creatures rarely pay any attention to those who wander by, but once hungry -- or aggravated -- they quickly turn hostile; ready to strike with their venomous bite and innate power to spew elemental fury.",
 								"A wind serpent combines the bright-scaled body and head of a snake with the leathery wings of a drake, as well as the feathers of a brightly colored bird.",
 								{
@@ -1271,56 +1287,78 @@
 						"This sections contains sentient creatures that aren't part of major factions from around Azeroth and beyond.",
 						{
 							"type": "entries",
-							"name": "xxx",
+							"name": "Centaurs",
 							"entries": [
-								"The owlbeasts are serene and powerful creatures, inhabiting many forested regions across Azeroth. They resemble a cross between a bear and an owl, <br>suited with the antlers of a great stag and the massive, ooked beak of a bird of prey.",
-								"With their lumbering build and remarkably strong claws, they might seem like fearsome predators. However, their looks betray them for the gentle creatures they really are -- at least when they are left well alone.",
+								"Abundant across the plains of central and southern Kalimdor, the centaur are a race of half-horse humanoids, appearing as a human's torso, arms, and head extending from the neck of an equine body. Full-grown centaurs stand over seven feet tall, hooves to head, and weigh over a ton.",
 								{
 									"type": "entries",
 									"name": "",
 									"entries": [
 										{
 											"type": "entries",
-											"name": "Forest Settlements",
+											"name": "Nomadic Culture",
 											"entries": [
 												"",
-												"Owlbeasts keep to dense forests, finding shelter to build nests between rocks and inside caves. They are social creatures at heart, living harmoni&shy;ously with their fellows in small colonies, not keeping to any apparent structure of leadership.",
-												"From time to time, their choice of settlement may bring them into close contact with another race. For the most part, this is not a problem, as the creatures have been seen thriving in the company of night elves and tauren.",
-												"Other times, it may force them to fight for their claim or move on to somewhere else. Once first provoked, they are quick to enrage -- at which point all hope for reason may well be lost."
+												"They keep in small nomadic tribes, roaming the broad regions they consider their territory, with regular spots by which they settle their tents to hunt and forage. Each tribe is lorded by its khan, who'll more often than not keep open conflict with both neighboring tribes and races alike.",
+												"While on their warpath, travelling from place to place, centaurs often claim prisoners during their raids. Usually, these prisoners are tortured, driven to exhaustion, and eventually eaten."
 											]
 										},
 										{
 											"type": "entries",
-											"name": "Peaceful Creatures",
+											"name": "Cycle of Conflict",
 											"entries": [
 												"",
-												"Travellers with the care to show respect are seldom hard-pressed to find aid from these gentle giants; whether they're seeking help, or a safe passage out of the woods. Still, if one does opt to disregard the owlbeasts or meet them with hostile intent, they are rarely ever shy to respond in kind."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Children of Elune",
-											"entries": [
-												"",
-												"The goddess Elune first created the Owlbeasts in ages past, joining the strength of the bear with the wisdom of the owl, to serve as guardians for the demigod Cenarius. Though blessed by the moon, some have fallen stray from their path, lost and confused without the guidance of their goddess."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Corruptible Minds",
-											"entries": [
-												"",
-												"Owlbeasts are, as with most wild beings on Azeroth, susceptible to corruption. Whether by fel energies or nightmarish whispers, it only takes so much to tip the scales and turn these docile beings into ferocious monsters. Such flocks are eventually sought out by druids seeking to intervene, though there is no telling what chaos they might have wrought in the meantime."
+												"Though many attempts have been made, either between tribes or at the behest of tauren settlements in a tribe's warpath, the centaur have never been ones for diplomacy.",
+												"Both the Horde and the Alliance have done their part to feed this inter-tribal conflict, seeing it as a necessary act to keep scattered clans, especially in regions such as the Barrens or Desolace, from banding together and becoming a more dangerous foe."
 											]
 										}
 									]	
 								},
 								{
 									"type": "entries",
-									"name": "Moonkin",
+									"name": "Centaur Earthcaller",
 									"entries": [
-										"Though all owlbeasts are children of Elune, few keep their blessing closer to heart than the graceful moonkin. The two may seem near indistinguishable at first, but the moonkin's heightened mind leaves it more than capable of coherent dialogue and rational thought.",
-										"Bound to their groves and keeping in druidic circles, to whom they act as guardians, they boast a formidable breadth of magical power."
+										"Though centaurs follow a shamanistic faith, their rites and rituals are unique; given their heritage as children of the elemental princess Theradras. Earth Callers are commonly female centaurs, acting as shamans of their tribes as they wield the power to rain elemental earth upon their foes."
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Centaur Khan",
+									"entries": [
+										"At the heart of each centaur tribe is the khan, who acts as a leader both for their great intelligence and their unmatched ferocity. Rage and savagery are key to the centaur khans, allowing them to lead their tribe into battle as a fearless commander without equal."
+									]	
+								},
+								{
+									"type": "inset",
+									"name": "The Children of Zaetar",
+									"entries": [
+										"The centaur are the progeny of Zaetar, a Keeper of the Grove and son of Cenarius; Lord of the forest and Demigod of the Groves. Though Zaetar was no lesser than his brother, Remulos, he often felt himself living in the shadow of his brother's presence and accomplishments.",
+										"When Cenarius sent his son Zaetar out to investigate the re-emergence of the elemental princess Theradras, daughter of Therazane the Stonemother, Zaetar saw himself enchanted by Theradras' beauty.",
+										"The two became mates, in secrecy, and out of their forbidden union the centaur were born. Zaetar realized his deed upon seeing the centaurs, who in turn saw the disgust in their father's eyes and brutally murdered him. Therazane chastised them for the deed, for which the centaurs promised to honor Zaetar's memory to please their beloved mother.",
+										"Theradras entombed her lover's spirit within her own lair, which the centaur gave the name Maraudon and grew to be regarded as a sacred place."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Centaur Names and Languages",
+									"entries": [
+										"The centaur speak Low Common, and often learn phrases from the languages of their enemies; including Common, Orcish, Goblin, and Taur-ahe. A few centaurs  even go as far as to learn the entirety of these languages, with fewer still adopting this second language as their primary language.",
+										"Their names are short and sharp, while tribes draw their name from the first khan to lead them -- such as khan Gelk of the Gelkis. The ending of a tribe's name sits at the whim of its first khan, it is speculated that they draw these from other languages spoken by the tribe's founding members."
+										{
+											"type": "entries",
+											"name": "Centaur Names:",
+											"entries": [
+												"Ablik, Arug, Blizh, Drothar, Feth, Jamrek, Kerrak, Kromzar, Magra, Sherik, Shodo, Warug"
+											]
+										},
+										{
+
+											"type": "entries",
+											"name": "Tribe Names:",
+											"entries": [
+												"Galak, Jhenek, Kolkar, Krenek, Okrim, Wethek, Worrak"
+											]
+										}
 									]	
 								},
 								{
@@ -1334,8 +1372,9 @@
 										"style": "list-no-bullets",
 										"columns": 3,
 										"items": [					
-												"{@creature Owlbeast|WC5E MoM}",
-												"{@creature Moonkin|WC5E MoM}",
+												"{@creature Centaur|WC5E MoM}",
+												"{@creature Centaur Earthcaller|WC5E MoM}",
+												"{@creature Centaur Khan|WC5E MoM}",
 												""
 											]
 										}
