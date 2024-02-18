@@ -5,7 +5,7 @@
 			"json": "WC5E MoM",
 			"abbreviation": "WC5E MoM",
 			"full": "WC5E Manual of Monsters",
-			"color": "#c4ccc8",
+			"color": "c4ccc8",
 			"authors": [
 				"WC5E Team"
 				],
@@ -20,7 +20,7 @@
 		],
 		"dateAdded": "xxx",
 		"dateLastModified": "xxx",
-		"_dateLastModifiedHash": "xxx"
+		"_dateLastModifiedHash": "xxxxxxxxxx"
 	},
 	"book": [
 		{
@@ -70,15 +70,19 @@
 					}
 				},
 				{
-					"name": "Sentient Creatures",
+					"name": "Primitive Societies",
 					"headers": [
 						"Centaurs",
 						"Furbolg",
 						"Gnolls",
+						{
+							"header":"Gnoll King Hogger",
+							"depth": 1
+						},
 						"Grell",
-						"Haripies",
+						"Harpies",
 						"Kobolds",
-						"Makura",
+						"Makrura",
 						"Murlocs",
 						"Owlbeasts",
 						"Quilboars",
@@ -346,6 +350,13 @@
 								},
 								{
 									"type": "entries",
+									"name": "Stegodon",
+									"entries": [
+										"Stegodons are large herbivorous dinosaurs, whose massive bodies are heaved along on legs the size of tree trunks. They are notorious for their short temper and alarmingly aggressive turns, often attacking trespassers on sight as they patrol their territories. An enormous horn extends from the stegodon's snout, and spike-like plates run like a jagged fin across the length of its spine, over a back decked in hardened scales. Most stegodons have skin in dark shades of green, though some grow paler and grittier hues."
+									]
+								},
+								{
+									"type": "entries",
 									"name": "Threshadon",
 									"entries": [
 										"The threshadon is a marine dinosaur, whose compact body is driven by a set of powerful flippers. Much like a brutosaur, its neck accounts for a third of its total length, and is able to flex and twist in whichever direction it needs to dig around muddy lake-beds and pull branches from riversides.",
@@ -366,9 +377,14 @@
 										"{@creature Diemetradon|WC5E MoM}",
 										"{@creature Direhorn|WC5E MoM}",
 										"{@creature Pterrordax|WC5E MoM}",
-										"{@creature Pterrorwing|WC5E MoM}",	
-										"{@creature Raptor|WC5E MoM}",										
-										"{@creature Raptor Matriarch|WC5E MoM}"
+										"{@creature Pterrorwing|WC5E MoM}",
+										"{@creature Raptor|WC5E MoM}",
+										"{@creature Raptor Matriarch|WC5E MoM}",
+										"{@creature Sabertusk|WC5E MoM}",
+										"{@creature Saurid|WC5E MoM}",
+										"{@creature Stegodon|WC5E MoM}",
+										"{@creature Threshadon|WC5E MoM}",
+										""
 										
 									]	
 								}
@@ -616,7 +632,7 @@
 							"type": "entries",
 							"name": "Sabercats",
 							"entries": [
-								"Sabercats are cunning felines, native to the northern <br/> reaches of Kalimdor. These magnificent beasts have <br/> been the companions of many adventurers -- and the demise of many more. They are intelligent creatures; <br/> very loyal when properly domesticated, while still <br/> remaining aggressive and territorial in the wilds.",
+								"Sabercats are cunning felines, native to the northern reaches of Kalimdor. These magnificent beasts have been the companions of many adventurers -- and the demise of many more. They are intelligent creatures; very loyal when properly domesticated, while still remaining aggressive and territorial in the wilds.",
 								{
 									"type": "entries",
 									"name": "",
@@ -1282,9 +1298,9 @@
 				},
 				{
 					"type": "section",
-					"name": "Sentient Creatures",
+					"name": "Primitive Societies",
 					"entries": [					
-						"This sections contains sentient creatures that aren't part of major factions from around Azeroth and beyond.",
+						"This sections contains Primitive Societies that aren't part of major factions from around Azeroth and beyond.",
 						{
 							"type": "entries",
 							"name": "Centaurs",
@@ -1343,7 +1359,7 @@
 									"name": "Centaur Names and Languages",
 									"entries": [
 										"The centaur speak Low Common, and often learn phrases from the languages of their enemies; including Common, Orcish, Goblin, and Taur-ahe. A few centaurs  even go as far as to learn the entirety of these languages, with fewer still adopting this second language as their primary language.",
-										"Their names are short and sharp, while tribes draw their name from the first khan to lead them -- such as khan Gelk of the Gelkis. The ending of a tribe's name sits at the whim of its first khan, it is speculated that they draw these from other languages spoken by the tribe's founding members."
+										"Their names are short and sharp, while tribes draw their name from the first khan to lead them -- such as khan Gelk of the Gelkis. The ending of a tribe's name sits at the whim of its first khan, it is speculated that they draw these from other languages spoken by the tribe's founding members.",
 										{
 											"type": "entries",
 											"name": "Centaur Names:",
@@ -1375,6 +1391,709 @@
 												"{@creature Centaur|WC5E MoM}",
 												"{@creature Centaur Earthcaller|WC5E MoM}",
 												"{@creature Centaur Khan|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Furbolg",
+							"entries": [
+								"Furbolgs are large, kind-hearted creatures. Resembling humanoid bears, they form tribal settlements in caves, forest thickets, and other defensible locations. Though they have care little for conflict, they appear particularly susceptible to corruption.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Peaceful Nature",
+											"entries": [
+												"",
+												"Furbolgs are a peaceful race, wishing to live for themselves with as little outside interference as they can. They keep a close tie to nature and worship the ancient bear twins; Ursoc and Ursol.",
+												"Their tribes can grow exceptionally large, though they are masters at staying secluded from the world around. A furbolg tribe is its family, and tension within is rare. Most tribes are led by its wisest, oldest shaman."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Corrupted Kin",
+											"entries": [
+												"",
+												"Perhaps leading to their secluded nature, furbolgs have been shown to be easily manipulated by outside forces. As the lands around have blighted, tribes have been transformed into vicious, hateful packs.",
+												"Many such tribes lost their ways to the Burning Legion's invading forces, as well as to the corrupting influence of the Old Gods. Turned away from their kin and onto a bloody path of war."
+											]
+										}
+									]
+								},	
+								{
+									"type": "entries",
+									"name": "Furbolg Names and Languages",
+									"entries": [
+										"",
+										"Furbolgs have their own language, Furbolg, whose sayings are usually intended literally. A few also speak Darnassian or Common. Their names are comprised of short utterings, each of which has meaning in their own tongue.",
+										{
+											"type": "entries",
+											"name": "Furbolg Names:",
+											"entries": [
+												"Ak, Adak, Dal, Grazle, Krolg, Oota, Rann"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Tribe Names:",
+											"entries": [
+												"Barkskin, Blackwood, Deadwood, Frostpaw, Gnarlpine, Redfang, Timbermaw, Thistlefur"
+											]
+										}
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Furbolg Shaman",
+									"entries": [
+										"Some furbolgs devote themselves to becoming a shaman for their tribe. A furbolg shaman has a challenge rating of 3 (700 XP) and gains the Spellcasting trait.",
+										{													
+											"type": "entries",
+											"name": "Spellcasting.",
+											"entries": [
+												"The furbolg is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:",
+												{
+													"type": "list",
+													"items": [
+														"Cantrips (at will): {@i {@spell gust|xge}, {@spell produce flame}}",
+														"1st level (4 slots): {@i {@spell chromatic orb}, {@spell cure wounds}, {@spell fog cloud}, {@spell thunderwave}}",
+														"2nd level (2 slots): {@i {@spell heat metal}, {@spell lesser restoration}}"
+													]
+												}
+											]
+										}
+									]							
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Furbolgs}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Furbolg|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gnolls",
+							"entries": [
+								"Gnolls are feral humanoids, resembling bipedal hyenas. They are known to attack frontier settlements and unsuspect&shy;ing hamlets without warning, rushing their way through to grab whatever they can escape with.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Rampant Scavengers",
+											"entries": [
+												"",
+												"Gnolls are notorious for how they hunt. Even those fortunate enough to spot a pack settling their camp might only have hours at best to prepare, before the gnolls come charging in to plunder.",
+												"In their wake, they leave little more than razed buildings, burnt crops, and gnawed remains. The easier their target, the better. If they perceive no threat to the pack after the raid has been done, they might stick around in one location for longer. If they fear retaliation from armed guards, like a nearby garrison, the pack will abandon what they must in order to move on as soon as they can."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Hungering Nomads",
+											"entries": [
+												"",
+												"Gnolls are not known for leaving anything lasting. Their weapons and armour are all scavenged from their victims, alongside trophies sewn into their patchwork clothing -- ears, teeth, scalps, and more.",
+												"To a gnoll, meat is meat. Once they've gone for the kill, they will gnaw the bones to the marrow. Though they are intelligent beasts, they won't go shy of cannibalizing rival packs and outcasts if they are hungry enough. Even if one of their own die in a fight, they'll try to drag the corpse away in order to eat it later."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Gnoll Brute",
+									"entries": [
+										"Gnolls are known for their immense strength, though some of them show it better than the rest. A gnoll brute is hardly intelligent, but it is guaranteed to be ferocious without equal."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Gnoll Mystic",
+									"entries": [
+										"Some gnolls are sensitive to the elemental forces coursing through the world. Though the powers they wield would be considered novice for true mages, these gnolls are both feared and respected by their pack; elevated to the title of mystics and regarded as wise beyond compare."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Gnoll Pack Lord",
+									"entries": [
+										"The alpha of a gnoll pack is its pack lord. Keeping a steel-jawed hold on any gnoll following it, the pack lord claims first pick from the pack's raids, and many have been witnessed wearing ornate decor in the form of piercing and grotesque trophies."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Gnoll Names and Languages",
+									"entries": [
+										"Gnolls speak Low Common and Gnoll; presumably a guttural offshoot of the former. Their names are often just descriptions, aiming to intimidate. A pack lord chooses the name for its pack in a similar fashion.",
+										{
+											"type": "entries",
+											"name": "Gnoll Names:",
+											"entries": [
+												"Dirtpaw, Cackler, Blackfang, White-Eye, Snarlface, Loose-Tooth, Yowler"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Pack Names:",
+											"entries": [
+												"Riverpaw, Mudtail, Ashfang, Bloodeyes, Road-Robbers, Rotclaws, Grimepack"
+											]
+										}
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Furbolg Shaman",
+									"entries": [
+										"Some furbolgs devote themselves to becoming a shaman for their tribe. A furbolg shaman has a challenge rating of 3 (700 XP) and gains the Spellcasting trait.",
+										{													
+											"type": "entries",
+											"name": "Spellcasting.",
+											"entries": [
+												"The furbolg is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:",
+												{
+													"type": "list",
+													"items": [
+														"Cantrips (at will): {@i {@spell gust|xge}, {@spell produce flame}}",
+														"1st level (4 slots): {@i {@spell chromatic orb}, {@spell cure wounds}, {@spell fog cloud}, {@spell thunderwave}}",
+														"2nd level (2 slots): {@i {@spell heat metal}, {@spell lesser restoration}}"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Gnolls}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Gnoll|WC5E MoM}",
+												"{@creature Gnoll Mystic|WC5E MoM}",
+												"{@creature Gnoll Pack Lord|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gnoll King Hogger",
+							"entries": [
+								"Ask any person in Elwynn forest, from the simplest farmer to a soldier of the king's guard, and they can tell you stories of the Gnoll King and his horrific riverpaws. This notorious gnoll is unlike any other. As the leader of the Riverpaw clan he has transformed the ragtag gnolls into an organized clan wreaking havoc through the forests of Elwynn.",
+								{
+									"type": "quote",
+									"entries": [
+										"A huge gnoll, Hogger, is prowling the woods in southern Elwynn. He has overpowered all attempts at his captuere.",
+										"The Stormwind Army has placed a generous bounty on the gnoll. To earn the reward, bounty hunters should bring proof of Hogger's demise to Marshal Dughann in Goldshire."
+									],
+									"by": "Westbrook Wanted Poster"
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "The Gnoll King",
+											"entries": [
+												"",
+												"Hogger has crowned himself the {@b king} of gnolls, a title well deserved for the beast. He is a formidable foe on his own, and any adventurer seeking to take him down is advised to be well prepared. It is solely for his prowess in controlling other gnolls, making them work in unison, that he enjoys his status."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Cheap Tactics",
+											"entries": [
+												"",
+												"The mad gnoll will stop at nothing to achieve his goals, and is not beneath utilizing dirty tricks to gain an advantage in doing so. Hogger is not a creature of honor and won't let notions of a fair fight get in his way. After all, there are no real laws of engagement for a gnoll; all that matters is that his quarry dies in the end."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Unknown Alliances",
+											"entries": [
+												"",
+												"Although many of their supplies are considered plundered goods, the Riverpaw clan have access to high quality steel tools, arms, and armor. All of it suggests that the gnolls -- or Hogger himself -- have an understanding with some unknown ally, one capable of escorting such tools to them in the dead of night. It is unknown, however, who such allies would even be."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Public Enemy No. 1",
+											"entries": [
+												"",
+												"Through Elwynn forest and other nearby regions, the Riverpaw clan have gained a notorious reputation. With their supply of quality weaponry they are able to strike at small-and-large settlements alike.",
+												"Ever since the gnoll king took charge, the Riverpaws have become a thorn in the side of the Kingdom of Storm&shy;wind. Far and wide trough Stormwind's settlements, posters can be found offering rewards for their heads."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Hogger's Lair",
+									"entries": [
+										"Hogger is a notorious villain. Even when he is captured and put under lock-and-key, the gnoll king is still capable of rallying the creatures around him. Hogger's lair reeks of death, as the carcasses of previous meals are scattered across the floor and decorated on spikes.",
+										"Through his life, Hogger has had two different lairs, both of which are described in further detail below:",
+										{
+											"type": "entries",
+											"name": "Hogger Hill.",
+											"entries": [
+												"In the southwestern thickets of Elwynn forest, unlucky travelers may stumble upon Hogger Hill.",
+												"A hill of insignificant proportions, it has become home to the Riverpaws; a clan of gnolls ruled with an iron fist and grim temper by Hogger himself. Adventures are unlikely to ever find Hogger alone, as his clan is never far away and willing to rush to his aid in the event that a fight breaks out."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Stockades",
+											"entries": [
+												"Rumors claim that hogger was once caught by Alliance troops and locked away in Stormwind's stock&shy;ades. His loyal Riverpaw's would use the cover of night to sneak into Stormwind, tearing apart the guards keeping watch over the prison. From the depths of the stockades, he would turn the other prisoners to his side, claiming its torch-lit tunnels as his domain."
+											]
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Gnoll King Hogger",
+											"source": "WC5e MoM",
+											"style": "inset"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Grell",
+							"entries": [
+								"A grell is a small, long-armed forest spirit with pointed ears and an accentuated brow. Though they are uncannily similar to imps, a grell is very large by comparison and lack any other features typical for a demon.",
+								"Among explorers, researchers, and naturalists, it is speculated that the similarities between grells and imps are not coincidental, and that the first imps were in fact grells fallen to corruption during the first invasion of the Burning Legion. Such theories are widespread, but have never been confirmed nor denied.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Wild Presence",
+											"entries": [
+												"",
+												"Most grells have skin in shades of green, orange, or brown, mimicking the wilderness where they dwell. Their arms and legs are covered in dense fur, and their hands and feet are all fitted with sharp claws. It is common for grells to fashion themselves simple clothes, as well as other adornments -- such as ear and nose-rings.",
+												"Some have speculated as to whether these adornments serve a purpose, such as magical foci for casting spells, or if they are just for decoration."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fiendish Personality",
+											"entries": [
+												"",
+												"It is said that the grell exist as an embodiment of the wild, uncanny side of nature, and their personality shows this notion all too well. A grell on its own poses no particular danger, but a gang of grells working together can be a real threat to settlements and communities in their vicinity.",
+												"Grells who commit to keeping in a pack like this have been witnessed actively searching for travellers to ambush, overwhelm, and steal from. Though their diet mainly consists of moss, tubers, and mushrooms, it is not unheard of for a grell pack to hunt wild game."
+											]
+										}										
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Grells}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Grell|WC5E MoM}",
+												"{@creature Vile Grell|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Harpies",
+							"entries": [
+								"Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. They are vicious predators, well-known for luring adventures back to their craggy lairs and a certain death.",
+								"A harpy combines the body, arms, and head of a night elf with the legs and wings of a hunting bird. Its wicked talons can rip flesh from bone, and its graceful wings lets it soar silently through the air as it hunts for its next kill. It is said that in the eyes of every harpy shines the evil dwelling in their heart.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Noxious Nests",
+											"entries": [
+												"",
+												"Harpies nest in high-perched, hard-to-reach places, from which they can terrorize their surroundings. A flock of harpies left unchecked may leave destruction in their wake; killing anything they encounter, leaving only their noxious odor in their wake. This stench, a mixture of rotting flesh and mottled feathers, makes it easy to discern the whereabouts of an active nest."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Precious Collectors",
+											"entries": [
+												"",
+												"These winged humanoids place great value in shiny baubles, ornate trinkets, rare gems, and ores, using them to adorn themselves and their nests. They may be willing to barter and negotiate with travellers and settlements, if there is a chance for them to claim a pretty prize from the ordeal. Whatever calm such trade may instill is never more than a temporary measure, before the harpies take wing to pillage once again."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beguiling Creatures",
+											"entries": [
+												"",
+												"Harpies resembles malformed night elves, decked in feathers and given wings. Though they are a repulsive presence, they could be considered quite beautiful from afar -- and only become more beautiful as they grow older, with a strikingly vibrant plumage.",
+												"They are incapable of producing male children, as their eggs always hatch females. To this end, their survival relies on their ability to beguile and entrap males from other races, keeping them around until the end of their mating season before killing them off for food."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Harpy Witch",
+									"entries": [
+										"Some harpies are capable of wielding the forces of nature at their will. These harpy witches are powerful individuals within their nest, with the most powerful exploiting their powers to rise to a near regal status. Keeping any semblance of control in a nest of harpies is a formidable task, driving those who try to extreme measures."
+									]	
+								},
+								{
+									"type": "variant",
+									"name": "Beguiling Harpy",
+									"entries": [
+										"Some harpies can have a special ability that allows them to charm humanoids.",
+										{													
+											"type": "entries",
+											"name": "Innate Spellcasting (2/day).",
+											"entries": [
+												"The harpy's can innately cast {@i {@spell charm person}}, requiring no material or somatic components. Its spellcasting modifier is Wisdom."
+											]
+										}
+									]
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"You feign to tell me the laws of nature? I speak for the winds and the wilds, child. Do not presume to lecture ME. And yet, I see wisdom in your choices, and I see kindness in you."
+									],
+									"by": "Aviana, Mother of Harpies"
+								},
+								{
+								"type": "entries",
+								"name": "",
+								"entries": [
+										{},
+										"{@note List of Harpies}",
+										{	
+										"type": "list",
+										"style": "list-no-bullets",
+										"columns": 3,
+										"items": [					
+												"{@creature Harpy|WC5E MoM}",
+												"{@creature Harpy Witch|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Kobolds",
+							"entries": [
+								"Diminutive, rat-like, and subterranean, kobolds can be found dwelling in sprawling caverns and abandoned mines across Kalimdor and the Eastern Kingdoms alike. Even throughout Northrend one can find their aptly named cousins; the snobolds. As far back as the first human settlements in the Eastern Kingdoms, kobolds have been a persistent, and annoying, presence.",
+								"Kobolds average at four feet tall, with coarse skin, sharp claws, a pronounced snout, and a spindly tail. Educated guesses have pinned them as a distant offshoot from the troggs, though this has never been proven.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Skittish Creatures",
+											"entries": [
+												"",
+												"Adventurers who have seen a kobold, especially a kobold away from its pack and lair, can testify for their cowardice. Kobolds are not particularly intelligent, and many consider them more of a nuisance than real danger -- at least in smaller numbers."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Massive Flocks",
+											"entries": [
+												"",
+												"Kobolds are not only known to bear a resemblance to vermin; they breed like vermin as well. Wherever one kobold can be found, hundreds more are likely not too far behind. While kobolds are rarely threatening in smaller numbers, a pack numbering in dozens, even hundreds, can pose a threat even to seasoned adventurers if one were to try and evict them.",
+												"They have no concept of marriage. Rather, they form a loose structure of packs and clans based on their lineages, with young individuals opting to migrate between nests and warrens in search of mates outside of their own family.",
+												"Famously, a kobold can become very protective of its keepsakes, and they prefer to keep a distance from other races in order to keep themselves safe."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Candle-Hoarders",
+											"entries": [
+												"",
+												"Despite living deep underground, populating self-made caverns and abandoned mines -- sometimes even chasing miners away if the pack is large enough -- kobolds do not see well in the dark. They rely on candles to traverse whichever caverns they call home.",
+												"These candles are usually made by the kobolds themselves, twining wicks from their hairs and pulling wax from their ears, though in desperation a kobold may contemplate stealing candles from other nearby settlements. Once a candle has been acquired, it is placed atop the kobold's head and left to burn there."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Legends of the Darkness",
+											"entries": [
+												"",
+												"Kobold legends speak of a dark, devouring presence dwelling in the deep places of the world, giving reason to the creatures' candle obsession.",
+												"To the same end, some kobold packs have been seen keeping rats as pets, as the critters do not fear the dark&shy;ness themselves. A well-trained rat can keep the kobold company and help out with digging, while a not so well-trained rat can make for a good dinner."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Kobold Names and Languages",
+									"entries": [
+										"Kobolds typically speak Low Common, and often adopt other wide-spoken languages in the regions they dwell. The latter is especially prevalent across the Eastern Kingdoms, where most kobold packs and clans have learned Common over their long history of interacting with humans.",
+										"Kobold names and clan names are a descriptive amal&shy;gamation of everyday words. Kobold name usually has two parts; a short, easily vocalized first name, and a descriptive surname. Kobold surnames are personal and not inherited, but rather like a title that sums up their character, appear&shy;ance, or a well-known possession of theirs.",
+										"Their clan names often refer to common traits passed down through that clan's lineage, or to quirks unique to their society, though they can be hard to distinguish from the names the kobolds give themselves.",
+										{
+											"type": "entries",
+											"name": "Kobold Names:",
+											"entries": [
+												"Bukk, Feb, Feez, Gik, Kubb, Mlepp, Naal, Slag, Znaz, Zniv"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Kobold Surnames:",
+											"entries": [
+												"Fatcandle, Flintdagger, Goldtooth, Halfcandle, Luckybristles, Onetooth, Skullhat"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Clan Names:",
+											"entries": [
+												"Bluewax, Boulderslide, Gravelsnout, Mudwhisker, Skywhisker, Windshear"
+											]
+										}
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Candles in the Dark",
+									"entries": [
+										"Kobold legends speak of a devouring presence, hiding in the darkness, giving to them their over&shy;whelming fear of the dark.",
+										"A kobold without a lit candle, who is standing in dim light or darkness, must succeed on a DC 12 Wisdom saving throw or be frightened for 1 minute. The kobold can repeat the saving throw at the end of each its turns, also ending the effect if it manages to light a candle again.",
+										"On a successful save, if another creature was responsible for the loss of candlelight, the kobold deals an extra 4 (1d6) damage when it hits that creature with a melee attack."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Kobolds}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Kobold Geomancer|WC5E MoM}",
+												"{@creature Kobold Taskmaster|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Makrura",
+							"entries": [
+								"A makrura is a large aquatic creature found living in small colonies along Azeroth's numerous coastlines and deep oceans. They resemble enormous crayfish, some near six feet tall, to which some call them {@i lobster men}.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Aggressive and Hostile",
+											"entries": [
+												"",
+												"Makruras within the confines of their colony are immediately hostile toward intruders, and will attack anyone who dare approach. With their massive claws, they pinch and pin their target down, before subsequently tearing it into tiny pieces."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Wrecked Colonies",
+											"entries": [
+												"",
+												"With their homes often situated in turbulent waters or along contested shorelines, it is not uncommon for a colony to seek seclusion by taking shelter inside wrecked ships or underwater caverns."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Savory Prey",
+											"entries": [
+												"",
+												"Makrura meat is a delicacy, tried and tested, for many races both above and beneath the ocean. Some towns and villages may try to turn a nearby colony into a hunting opportunity, though the most prominent enemy of the makrura are murlocs and naga."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Makrura Tidecaller",
+											"entries": [
+												"",
+												"Some Makrura have an innate affinity for water magic, able to summon its powers at will. These notorious mystics are known as tidecallers; often wise sages in their colonies, they bring forth the tides both to heal and to harm."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Makrura}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Makrura|WC5E MoM}",
+												"{@creature Makrura Tidecaller|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Murlocs",
+							"entries": [
+								"From a distance, the degenerate and fishlike murlocs might not seem like much of a threat, but the small creatures are rarely cornered alone. They rarely venture far from their waters, and never too far from their tribe. Though they might seem humorous for their ways, behind their blank expressions hides a murderous mind.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Strange Territories",
+											"entries": [
+												"",
+												"Murlocs populate coastlines, lakeshores and swamps, and prefer to keep within their territory. A murloc tribe on the move is often one looking for a new place to settle -- and settled they certainly have, in nearly every corner of Azeroth.",
+												"They build their chaotic villages out of mud-and-twig huts, resembling structures more suited for life underwater than life along the shore. There's no orderly pattern to where a murloc would build its home, though the tribe's oracle and strongest fighters tend to claim the best spots."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Questionable Intelligence",
+											"entries": [
+												"",
+												"Most would argue that murlocs are not very intelligent, considering their simple lives and near-indecipherable language.",
+												"Still, they are ferocious hunters and zealous in their faith. There does not appear to be any singular belief to which the murlocs keep. Instead, they follow the whim of what signs they read from the elements, and occasionally the will of other aquatic entities -- including naga."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Pack Hunters",
+											"entries": [
+												"",
+												"Though murlocs are not particularly brave, they will attempt to hunt foes that they can outnumber. In doing so, they lead just a few murlocs ahead to trick their quarry into giving chase, often into murky waters if they can. There, the brunt of the tribe's hunters lay in wait, leaping into the fray like a swarm of hungry fish."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Murloc Tidehunter",
+									"entries": [
+										"While most murlocs know to wield a blade or a spear, some select few have harnessed an aptitude for bringing finer tools to the hunt. The tidehunters weave and keep their own nets, sharing techniques for heavy weights and barbed hooks within their hunting parties. A group of tidehunters on the prowl can be a serious threat to anyone foolish enough to pass through their territory."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Murloc Oracle",
+									"entries": [
+										"A few select murlocs are elevated above the rest of their tribe, born to a strong will and a natural affinity for magic. These murlocs, known as oracles, are adept spellcasters. They are masters of the elements and can use them to control the environment around their enemies."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Murloc Names and Languages",
+									"entries": [
+										"The murlocs' native tongue is Nerglish; a strange, aquatic language in similar lieu to Low Common, which they share with a handful of other creatures.",
+										"Their names, just like their language, are wet and soft-sounding. They don't keep individual surnames, but rather take to their name of their tribe -- which in turn recalls the tribe's deeds, appearance, history, or tradition.",
+										{
+											"type": "entries",
+											"name": "Male Names:",
+											"entries": [
+												"Ashmol, Loshof, Molgoo, Shlesh"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Female Names:",
+											"entries": [
+												"Malash, Orgloom, Seeshen, Shyresh"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Tribe Names:",
+											"entries": [
+												"Blindlight, Bluegill, Greymist, Slatspittle"
+											]
+										}
+									]
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"I know the murlocs sound like they're just gurgling, but they're speaking a real language. Ggmmmlmrmrgmg means murloc, for example."
+									],
+									"by": "Nat Pagle's Field Guide to Aquatic Life"
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Murlocs}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Murloc|WC5E MoM}",
+												"{@creature Murloc Tidehunter|WC5E MoM}",
+												"{@creature Murloc Oracle|WC5E MoM}",
 												""
 											]
 										}
@@ -1449,6 +2168,300 @@
 										"items": [					
 												"{@creature Owlbeast|WC5E MoM}",
 												"{@creature Moonkin|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Quilboars",
+							"entries": [
+								"A ferocious, suicidally brave race, quilboars are renowned for their stubby, pig-like appearance. Rows of sharp spines run down their hunched backs, and stubby tusks protrude from their mouth. They adorn their skin with tribal markings and tattoos, and their devotion to their tribe may seem almost alien to most other races.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Sacred Settlements",
+											"entries": [
+												"",
+												"Quilboars live in the protective shade of enormous bramble roots, so large that they choke the land of all other life. These thorny landscapes, believed to have first grown from the blood of the ancient guardian Agamaggan, are considered sacred to the quilboars.",
+												"Should the land become too barren for even them, they are quick to tear down and move on. Once a tribe finds a new place to settle, its mighty thornweavers seed and grow forth new roots for them to live in."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Hostile Colonies",
+											"entries": [
+												"",
+												"Within their thorny settlements, a quilboar tribe can grow impressively large. Loyalty to the tribe is paramount for its survival, to which they train their young quickly to meet any outsiders with hostility."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Ancient Powers",
+											"entries": [
+												"",
+												"Quilboars practice a crude form of shamanism, with the blessing of Agamaggan. These shamans, known as thornweavers, are kept in high regard by their tribes as the voice of their ancient guardian.",
+												"They revere Agamaggan, the great boar, as their creator. By making offerings in his name, a tribe's fighters can summon forth terrifying strength as they descend upon their foes."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Quilboar Packmaster",
+									"entries": [
+										"With their natural bond to the great boar, some quilboars have have made it their lives to raise and fight alongside such creatures. A packmaster rarely walks alone, always taking one or more boars in its company."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Quilboar Thornweaver",
+									"entries": [
+										"The thornweavers are vital to a quilboar tribe's survival, as these wise shamans bring forth the thorny brambles in which the tribe makes its home. Even the tribe's chieftain knows well to respect the word of a thornweaver. By their bond, they are the voice of Agamaggan."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Quilboar Chieftain",
+									"entries": [
+										"At the head of the quilboar tribe sits its chieftain. In most cases, the rise of a tribe's chieftain came at the demise of its last. They surround themselves with their thornweavers for guidance, and sometimes wield a host of battleguards at their side."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Quilboar Names and Languages",
+									"entries": [
+										"The quilboar language is a rough, sharp-spoken tongue that relies on a mixture of guttural sounds and sharp squeals. There is little room for eloquence in their vocabulary, though it is by no means primitive.",
+										"Their names follow a mixture of native descriptions and short words, and their names lead descriptive, evocative titles -- for which rough translations in other languages often become the most widely known.",
+										{
+											"type": "entries",
+											"name": "Quilboar Names:",
+											"entries": [
+												"Aggem, Jargba, Gukk'rok, Hagg, Kuz, Mok, Nak, Roogug, Snokh, Trok"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Clan Names:",
+											"entries": [
+												"Blacksnout, Briarback, Bristleback, Foultusk, Razorfen, Razormane"
+											]
+										}
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Quilboar Battleguard",
+									"entries": [
+										"A quilboar battleguard has a challenge rating of 4 (1,100 XP). It has the same statistics as a quilboar chieftain, except it gains the following special abilities and loses the Leadership action.",
+										{													
+											"type": "entries",
+											"name": "Charge",
+											"entries": [
+												"If the quilboar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 5 (2d4) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Relentless (Recharges after a Short or Long rest)",
+											"entries": [
+												"If the quilboar takes 12 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Quilboar}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Quilboar Packmaster|WC5E MoM}",
+												"{@creature Quilboar Thornweaver|WC5E MoM}",
+												"{@creature Quilboar Chieftain|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Troggs",
+							"entries": [
+								"Troggs are savage creatures with long, muscular arms that look as though they were carved from stone. They grow thick, coarse beards in colors resembling granite and chalk, and it is not rare to see minerals growing on their bodies. Their slouched posture and burly proportions have many characterizing them as apelike troglodytes.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Primitive and fierce",
+											"entries": [
+												"",
+												"Troggs are best known for their stature, ferocity, and smell -- said to resemble a mixture of mold, mange, and sour monkey. Living together in tight-knit tribes and clans, their main driving force is an imposing psyche and impressive force of will, though they are not known to be intelligent beyond being sentient. Less so than even an ogre would be considered. They follow the leadership of whoever can prove themselves the biggest and strongest, with aspiring trogg chieftains often going to great lengths to prove their viciousness. Troggs are known to eat whatever they can get their hands on; including rocks, or even occasionally other troggs."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Underground creatures",
+											"entries": [
+												"",
+												"With most of their existence spent underground, troggs are not fond of sunlight. Wher&shy;ever troggs dwell, a deep network of intertwining tunnels is likely to be somewhere nearby. They do most of their digging by hand, using their jagged claws, and occasionally shape weapons and other tools out of the rocks they excavate. Like the troggs themselves, a trogg dwelling is ill-reputed for is repulsive smell."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Titanic origins",
+											"entries": [
+												"",
+												"After the titanic Keepers had ended their war with the Old Gods, their next goal was to shape a new generation of titan-forged creatures, using the Titan complex of Ulduar. Their initial designs, however, proved too complex; yielding a race of stone-skinned monsters.",
+												"Though the Keepers sought to rectify their mistakes, they did not want to destroy their defect creations -- who they chosen to call *troggs*. Rather, the titanic Keeper *Ironaya* constructed Uldaman; a Titan vault that would keep the troggs in stasis, with herself as its designated warden.",
+												"Over the years, a few small groups managed to break free from Uldaman. Some of these scattered themselves out across the surface of Azeroth, while others burrowed their way deeper down to dwell in the subterranean caverns of *Deepholm*. The rest stayed as they were, asleep beneath the earth, until a dwarven excavation managed to unearth the titanic vault. Once the seal of Uldaman was broken, the troggs awoke; quickly overpowering the dwarves as they swarmed to the surface.",
+												"There, the troggs burrowed their way through every peak and valley across Khaz Modan, including the subterranean gnomish city of Gnomeregan. To this day, trogg tribes can be found in every corner of the Khaz Modan -- with distant cousins scattered far and wide across Azeroth."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Progenitor race",
+											"entries": [
+												"",
+												"Though the troggs were considered a failed experiment by the titanic Keepers, who sought to flourish new life on Azeroth, their failure became the blueprint for future revised designs.",
+												"Ultimately, the Titans formed the *earthen*; a race of stone-carved beings formed to bring order the deep reaches of the world during the ordering of Azeroth.",
+												"Theories have also been floated, mainly by the prominent dwarven explorer Brann Bronzebeard, that the *kobolds* are themselves an evolved offshoot from an early group of troggs. Likely one that earlier broke free from the titanic vault of Uldaman, however, there has been no conclusive evidence of this, only theories based on their resemblance."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Trogg Names and Languages",
+									"entries": [
+										"Troggs do not possess any discernible language of their own, and tend to resort to violence rather than negotiation when faced with a threat. Still, those who do communicate do so in a mixture of grunts and what Common they know.",
+										"Their names draw from the same roots as the dwarven language, especially with its hard consonants and guttural sounds. Some troggs, usually tribe leaders, choose names in Common to best describe themselves. It is unclear whether these names are direct translations, or deliberate choices to intimidate other races.",
+										"Trogg tribes are usually in Common, and often draw from their way of being or directly from whichever place they claim as their home.",
+										{
+											"type": "entries",
+											"name": "Trogg Names:",
+											"entries": [
+												"Argh, Agrok, Bruggor, Gorgash, Grimlok, Morloch, Murdaloc, Raggosh, Revelosh"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Clan Names:",
+											"entries": [
+												" Bonegnasher, Caverndeep, Gravelflint, Irondeep, Rockjaw, Scrapbone, Stonevault"
+											]
+										}
+									]
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"Among the troggs, the biggest and strongest becomes chieftain. All through thier display of power, intimidation, and sometimes what might as werll be considered psychological warfare."
+									],
+									"by": "The Exploreres League's treatise on Troggs"
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Troggs}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Trogg|WC5E MoM}",
+												"{@creature Trogg Ambusher|WC5E MoM}",
+												"{@creature Trogg Shaman|WC5E MoM}",
+												"{@creature Trogg Chieftain|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Yeti",
+							"entries": [
+								"Yetis -- also known as Wendigos -- are hulking monstrosities that roam remote forests and snowy mountains. They exhibit a territorial ferocity rarely seen in other creatures, and make for terrifying and powerful foes. Especially with how they are willing to hunt any and all that would happen to wander too close to their den.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Territorial Beings",
+											"entries": [
+												"",
+												"The territorial nature of a yeti is common knowledge for any settlement near its hunting ground. When venturing outside, one must be sure to keep clear of any sign of the creature's trail; easily noticeable for the massive, clawed depressions and bloody carnage it leaves behind in the snow.",
+												"Yetis possess a desire for blood that cannot be quenched. They often continue to hunt even when they are not hungry, dragging any un-eaten scraps back to their lair as a snack for later. As such, a yeti found roaming is seldom one left without purpose: it is almost guaranteed to be out looking for easy prey."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Horrific Dens",
+											"entries": [
+												"",
+												"Yetis make their dens in caverns and under isolated overhangs, usually recognized by an entrance strewn across with bones and half-eaten corpses. The cold climate of their habitat keeps the smell at bay, though the sight is as unmistakable as it is terrifying.",
+												"This can, however, mean untold riches for strong-hearted adventurers. If anything manages to survive the yeti's frenzy, it is left strewn under the snow across its den -- like a treasure for any who would dare to collect it."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Solitary Hunters",
+											"entries": [
+												"",
+												" It is not a lack of intelligence, but an assertion of pride and dominance that drives the yeti to wander alone. If they first do decide to join together, whether to survive or simply for sport, they will first fight tooth and claw to establish a leader."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Abominable Yeti",
+									"entries": [
+										"Abominable yetis are menacing creatures, towering above their kin with the posture of enormous apes. They make their dens high in the mountains, in places so remote that no one would dare to venture close. They care little for keeping a large perimeter and hunt only to survive. They are, however, far more aggressive in their hunt; willing to venture much farther from their den for food.",
+										"The greatest evidence of their existence are their primal roars; as loud as they are terrifying, echoing through the mountains. Little else is known of the abominable yeti, as few have encountered one and since lived to tell their tale."
+									]
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"We heard the cries in the middle of the night. Then this morning, sure enough, the herd was missing two rams. Those dastardly beasts have been preying on our livelihood. With Ironforge's troops already spread thin, there is no to keep the yetis at bay."
+									],
+									"by": "Rudra Amberstill"
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Yeti}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Yeti|WC5E MoM}",
+												"{@creature Abominable Yeti|WC5E MoM}",
 												""
 											]
 										}
