@@ -76,7 +76,7 @@
 						"Furbolg",
 						"Gnolls",
 						{
-							"header":"Gnoll King Hogger",
+							"header": "Gnoll King Hogger",
 							"depth": 1
 						},
 						"Grell",
@@ -91,7 +91,42 @@
 					],
 					"ordinal": {
 						"type": "chapter",
-						"identifier": "3"
+						"identifier": 3
+					}
+				},
+				{
+					"name": "Friends & Foes",
+					"headers": [
+						"Elves",
+						{
+							"header": "Blood",
+							"depth": 1
+						},
+						{
+							"header": "Night",
+							"depth": 1
+						},
+						"Dwarves",
+						{
+							"header": "Dark Iron",
+							"depth": 1
+						},
+						"Gnomes",
+						{
+							"header": "Leper",
+							"depth": 1
+						},
+						"Nagas",
+						"Ogres",
+						"Satyrs",
+						"Trolls",
+						"Wretched",
+						"Worgen"
+
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 4
 					}
 				},
 				{
@@ -975,7 +1010,7 @@
 												"The tree has the following additional action option.",
 												{													
 													"type": "entries",
-													"name": "Summon Wisps (1/Day).",
+													"name": "Summon {@creature Wisp}s (1/Day).",
 													"entries": [
 														"The tree calls forth ten wisps that appear in empty spaces within 60 feet of it. These wisps act as allies of the tree. The wisps remains for 1 day or until they die."
 													]
@@ -2294,7 +2329,7 @@
 											]
 										}
 									]	
-								}		
+								}
 							]
 						},
 						{
@@ -2470,7 +2505,326 @@
 							]
 						}
 					]
-				}
+				},
+				{
+					"type": "section",
+					"name": "Friends & Foes",
+					"entries": [					
+						"This sections contains creature that can be attributed to races of major factions but also those that are generally hostile to the Alliance and Horde.",
+						{
+							"type": "section",
+							"name": "Elves",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Blood",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Wretched",
+											"entries": [
+												"Poor souls who failed to control their addiction to magic, and thus gorged on arcane power to the point of deformity — that is the story of the wretched.",
+												"These frail-bodied denizens of Quel'thalas are recogni&shy;sable for their gaunt, emaciated appearance, pale skin, and claw-like hands. Strange crystalling growths have spurred across their skin, giving them an eerie glow in darkness. They are a danger both to themselves and to others, with their violent and unpredictable nature.",
+												{
+													"type": "entries",
+													"name": "Insane Elves",
+													"entries": [
+														"",
+														"The wretched are obsessed with magic, willing to go to extreme lengths for any scrap of magic that they can drain; whether from enchanted items, arcane fonts, or even errant spellcasters. Their fixation goes to the brink of insanity, and often far beyond it.",
+														"Attempting to bargain with wretched for safe passage through their domain is rarely a peaceful affair, as their unpredictable nature makes them all too easy to anger."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Pest of Quel'thalas",
+													"entries": [
+														"",
+														"Being denizens of Quel'thalas themselves, the wretched elves rarely leave the confines of their magical kingdom. Instead, they have opted to scatter through the forest, taking up residence in ruins still left behind by the undead Scourge. There, they huddle together in small packs, letting their addiction take its toll.",
+														"For the most part, in the eyes of Silvermoon, the wretched are little more than a pest upon the land. Their violent nature have left few wretched able to gather a force large enough to spur any proper conflicts, though they would pose a true threat to their elven kin should such a leader arise."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Wretched Names",
+											"entries": [
+												"Despite their addled presence and disownment by their kin, the wretches are still blood elves. As such, they still know to speak Thalassian. Few among them, however, seem to show any signs of remembering Common.",
+												"Their overindulgence have lead many wretched into insanity, with some forgetting their names entirely. Others simply choose to take one a new one, casting aside any remnants of their old identity.",
+												"The wretched use the same naming conventions as high and blood elves, but opt for descriptive and often profound titles in place of typical elven surnames — such as {@i the Reckless} or {@i the Hungerer}."
+											]
+										},
+										{
+											"type": "variant",
+											"name": "Magic Absorption",
+											"entries": [
+												"Wretched have an insatiable craving for magic and will go to extreme lengths to obtain and consume it. Some wretched are able to devour the essence of a magic item and be empowered by it.",
+												"A wretched devourer has a challenge rating of 1/2 (100 XP) and gains the following action option.",
+												{													
+													"type": "entries",
+													"name": "Devour Magic (Recharge 6)",
+													"entries": [
+														"The wretched chooses one creature within 60 feet of it, the target must succeed on a DC 11 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the wretched's next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.",
+														"If the wretched successfully devours the magic of an item, it regains the use of one of its *once per day* innate spellcasting spells."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [	
+												{},
+												"{@note List of Wretched}",
+												{	
+													"type": "list",
+													"style": "list-no-bullets",
+													"columns": 3,
+													"items": [					
+														"{@creature Wretched|WC5E MoM}",
+														""
+													]
+												}
+											]	
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Night",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Wisp",
+											"entries": [
+												"Wisps are the disembodied spirits of deceased night elves, made one with the forest in their passing. Unlike other ghosts who wander the world in anguish, wisps use their spiritual being to bridge a connection ever closer to the forests where they delve.",
+												"Though silent for all but a soft, quiet humming, wisps are able to communicate with the living. Acting together in unison with the tree-like ancients, they act as guardians and caretakers -- often flourishing around druidic groves.",
+												{
+													"type": "variant",
+													"name": "Will of the Forest",
+													"entries": [
+														"Five wisps within 30 feet of each other are able to cast powerful spells. Each of the five must use its action and movement on three consecutive turns to call upon the powers of Elune and must maintain concentration while doing so (as if concentrating on a spell). When all five have finished their third turn of the ritual, the wisps gain the Spellcasting trait and can cast one spell in total at a target or point within 120 feet, no matter the spells normal range.",
+														{													
+															"type": "entries",
+															"name": "Summon Wisps (1/Day).",
+															"entries": [
+																"The tree calls forth ten wisps that appear in empty spaces within 60 feet of it. These wisps act as allies of the tree. The wisps remains for 1 day or until they die.",
+																"1/ritual: {@i {@spell banishment}, {@spell charm monster}, {@spell confusion}, {@spell dispel magic}, {@spell spike growth}, {@spell wind wall}}"
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [	
+												{},
+												"{@note List of Wisps}",
+												{	
+													"type": "list",
+													"style": "list-no-bullets",
+													"columns": 3,
+													"items": [					
+														"{@creature Wisp|WC5E MoM}",
+														""
+													]
+												}
+											]	
+										}
+									]
+								}			
+							]
+						},
+						{
+							"type": "section",
+							"name": "Dwarves",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Dark Iron",
+									"entries": [
+										"Known for their fiery tempers and fierce determination, the Dark Iron clan of dwarves has a history of strife with the other dwarven clans, as well as within their own ranks. Twisted by the influence of Ragnaros the Firelord, they are a greedy, cruel, and despotic kind.",
+										"Most dark iron dwarves have hair as red as fire or black as coal, trickling with ember flakes, and skin the color of ash. Though their clothes are drab and dark, their ornate style and lavish jewelry is a prominent display of status.",
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [							
+												{
+													"type": "entries",
+													"name": "Legacy of Thaurissan",
+													"entries": [
+														"",
+														"In ages past, the Dark Iron clan cut out their own from the Bronzebeard clan of Ironforge and the Wildhammer clan of Grim Batol. Sworn to revenge on his dwarven king, the Sorcerer-Thane Thaurissan and his wife Modgud led their clansfolk to the southern borders of Khaz Modan, into the far-reaching stretches of the Redridge Mountains.",
+														"There, founding the city of Thaurissan, the clan let their hatred seethe and and their forces swell, before they ultimately led a two-pronged assault on both Ironforge and Grim Batol. Thaurissan himself was routed by the Bronzebeards at Ironforge and his wife saw her end to the Wildhammers at Grim Batol. The Dark Iron clan fled back to their home in the Redridge Mountains, where they were ultimately cornered by their dwarven kin -- intent to wipe Thaurissan's legacy from the continent."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Rise of the Firelord",
+													"entries": [
+														"",
+														"To avoid a seemingly inevitable defeat, Thaurissan attempted to summon forth and ancient power that had been left sleeping beneath the earth. What he brought forth was the Firelord, Ragnaros, once locked away by the Titans when the world was still young.",
+														"The towering elemental Lord rose forth, unleashed from his prison, in an apocalyptic rebirth that shattered the Redridge Mountains. At the center of the devastation, a volcano rose forth to spew ash and molten rock across the land. This volcano became known as Blackrock Mountain. The smoldering crater of destruction to its north became known as the Searing Gorge, while the lifeless reaches to its south became the Burning Steppes.",
+														"Though Sorcerer-Thane Thaurissan himself was killed in the eruption, both the legacy of his name and the legacy of his surviving clansfolk have lived on. Enslaved by the Ragnaros the Firelord and his elemental hordes."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Shadowforge City",
+													"entries": [
+														"",
+														"For decades after, the Dark Iron clan lived in servitude to their elemental master. Not as thralls in chains, but as devoted warriors under the Firelord's scalding banner. Following in the footsteps the Sorcerer-Thane's legacy was the son of him and his wife Modgud; Dagran Thaurissan, crowned emperor of the Dark Iron clan and their new home beneath Blackrock Mountain: Shadowforge City."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Born in Flames",
+													"entries": [
+														"",
+														"Like other dwarves, dark iron dwarves have a strong constitution. Adding to their formidable stamina is an incredible affinity to fire -- a gift granted to them by their long servitude to Ragnaros the Firelord.",
+														"Though fire can still harm them, the soot-stained skin of a dark iron dwarf shields them well from the smoldering fires at the heart of Blackrock Mountain."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Conflicted Kin",
+													"entries": [
+														"",
+														"The dark iron dwarves have long nurtured conflict with the other dwarven clans. A failed coup in Ironforge ignited the War of the Three Hammers, which in turn became the catalyst that ultimately brought forth Ragnaros. Worse still, the dwarves remain as split within their own ranks as they are with the other clans.",
+														"Open conflicts between independent groups and splintered factions is a common occurrence within the blackened halls beneath the mountain."
+													]
+												}
+											]	
+										},
+										{
+											"type": "entries",
+											"name": "Dark Iron Sorcerer",
+											"entries": [	
+												"For those among the dark iron dwarves who lack the strength to train as warriors, a few hold the privilege to instead pursue the study of magic. Sorcerers within the Dark Iron clan have unlocked the power to harness their inner fire, and even yield some control of the mountain's elemental forces from their master. This power seats them at the heart of clan."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Dark Iron Overseer",
+											"entries": [	
+												"The Dark Iron Overseers keep the daily operations of the clan's numerous prospects -- both within Blackrock Mountain and out across the surrounding landscape. The Searing Gorge, in particular, has proven beyond valuable for its mithril and truesilver.",
+												"As the tireless work of the dark iron work drudges on, the overseers stand with hateful smiles on their faces, cracking the whips that drive their labouring thralls forward."
+											]	
+										},
+										{
+											"type": "entries",
+											"name": "Dark Iron Herald",
+											"entries": [	
+												"Heralds stand at the pinnacle of dark iron society. They are the voice of their kin, the mouth through which the Firelord enacts his will upon the dwarves. Their presence brings forth the fiery temper that has become the clan's legacy; driving dwarves around them to fanatical extremes. To this end, they have been bestowed with the power to weave devastating spells and conjure forth the Firelord's minions to their own aid."												
+											]	
+										},
+										{
+											"type": "entries",
+											"name": "Dark Iron Hound",
+											"entries": [	
+												"A dark iron hounds is smaller, one headed, core hound. They are often seen accompanying the dark iron dwarves who dwell within Blackrock Mountain.",
+												"These hounds are often used as mounts by the dark iron dwarves that keep them, though they do not take well to others."
+											]	
+										},
+										"{@note List of Dark Iron}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Dark Iron Dwarf|WC5E MoM}",
+												"{@creature Dark Iron Sorcerer|WC5E MoM}",
+												"{@creature Dark Iron Overseer|WC5E MoM}",
+												"{@creature Dark Iron Herald|WC5E MoM}",
+												"{@creature Dark Iron Hound|WC5E MoM}",
+												""
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Gnomes",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Leper Gnome",
+											"entries": [
+												"Beneath the snow capped mountains of Dun Morogh lay the halls of Gnomeregan. Once the gnomish capitol, the city's irradiated halls now only swarm with troggs and crazed, addled gnomes. These gnomes, permeating with radiation, have become known as leper gnomes. Their skin has turned a sickly green, dotted with abscesses that burst at the smallest stress or strain.",
+												{
+													"type": "entries",
+													"name": "A Necessary Sacrifice",
+													"entries": [
+														"",
+														"When the gnomish capitol of Gnomeregan was invaded by troggs, a desperate decision was made when the High Tinker ordered all radioactive waste from the city's numerous machines unleashed.",
+														"Vented through the city in a noxious green gas, and flooded through the pipes in rivers of green goop, the attempt to cull their invaders ultimately killed off more gnomes than troggs -- and left the city a radioactive wasteland, riddled with danger.",
+														"Worse yet, as the city's ruins were later explored, it became clear how many had survived the ordeal; all of them mutated and driven mad by the city's green haze."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Hostile Insanity",
+													"entries": [
+														"",
+														"Fractious at best, the leper gnomes have continued their life in Gnomeregan as though all is as it once was. Their minds warped by toxic fumes, most leper gnomes do not seem to grasp the reality of their situation. Most dangerous are the few that do.",
+														"Still sharing the city with their trogg invaders, leper gnomes are known to be extremely paranoid and prone to immediate hostility toward any who would come looking for them. After all, anyone they don't know could suddenly turn out to be in tow with the troggs."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Mutated Creatures",
+													"entries": [
+														"",
+														"Once the radiation takes hold in a creature, as witnessed with the leper gnomes, it slowly warps into something else; gradually tearing it apart until little more is left than a mindless puddle of toxic sludge. With the time the leper gnomes have spent below the earth, in Gnomeregan, some unfortunate few have already twisted and devolved into monstrous aberrations."
+													]
+												}
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Radiation Disease",
+											"entries": [
+												"When an uninfected creature comes into contact with a source of radiation — such as contaminated water, being bitten by an infected creature, or for every hour spent in a high-radiation area — the creature must succeed on a DC 11 a Constitution saving throw or contract the radiation disease.",
+												"It takes 1d4 days for the disease to manifest. As it does, the creature's skin takes on a sickly green tint and abscesses start to spread across its surface. At the end of that period, the creature gains advantage on saving throws against poison and resistance against poison damage. However, the creature also has disadvantage on all Strength and Dexterity ability checks, as well as weapon attack rolls.",
+												"Once a creature has carried the radiation disease for more than two weeks, its skin turns completely green. It no longer suffers from disadvantage on ability checks or weapon attacks, but it gains an {@table indefinite madness|DMG} as described in the {@book Dungeon Master's Guide|DMG|8|Going Mad}.",
+												"The radiation symptoms can be cured by a spell, such as {@spell lesser restoration}. Once the disease has manifested, a more potent spell such as {@spell greater restoration} or {@spell heal} is required."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Leper Gnomes}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [
+												"{@creature Leper Gnome|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}
+							]
+						},
+						{	"type": "entries",
+							"name": "dfghdfgh",
+							"entries": []
+						}	
+					]	
+				}			
 			]
 		}
 	],
