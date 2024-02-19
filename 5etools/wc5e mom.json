@@ -2510,7 +2510,7 @@
 					"type": "section",
 					"name": "Friends & Foes",
 					"entries": [					
-						"This sections contains creature that can be attributed to races of major factions but also those that are generally hostile to the Alliance and Horde.",
+						"This sections contains living creatures that can be attributed to races of major factions but also those that are generally hostile to the Alliance and Horde.",
 						{
 							"type": "section",
 							"name": "Elves",
@@ -2819,9 +2819,148 @@
 								}
 							]
 						},
-						{	"type": "entries",
-							"name": "dfghdfgh",
-							"entries": []
+						{	"type": "section",
+							"name": "Nagas",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [
+												"The naga are former Highborne night elves, transformed into a race of horrifying sea serpents.",
+												"During the Great Sundering, when the Kaldorei city of Zin-Azshari was destroyed, the Kaldorei Queen Azshara and many of her Highborne followers fell into the depths of the Great Sea. Unwilling to face death, Azshara forged a pact with an Old God, N'Zoth, which saw her and her followers twisted into serpentine aberrations.",
+												"Most naga who remain belong to either of two groups: those who followed the betrayer, Illidan Stormrage, to find a new home on the shattered world of Outland; and those still loyal to Queen Azshara and her plan to reclaim the surface of Azeroth.",
+												{
+													"type": "entries",
+													"name": "Mystical Culture",
+													"entries": [
+														"",
+														"Naga culture is a complex, multi&shy;faceted affair. The distinction between male and female naga saturates everything from their appearance to their perceived place in society.",
+														"Male naga are large and muscular creatures, some of them growing to be veritable behemoths with the strength to tear down walls with their bare hands. Most serve as soldiers and guardians, while some hold power as cruel taskmasters or as warlords on the battlefield.",
+														"Female naga are more delicate, though ruthlessly cunning and intellectually superior. They are natural spellcasters, and hone their skills to perfection in order to sunder their foes. Naga society is inherently matriarchal, favouring female leaders in zealous homage to their Highborne queen."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Azshara's Followers",
+													"entries": [
+														"",
+														"The naga revere their Queen, the mighty Azshara. To them, she is a living demigod in both power and stature, and all they do is by her design.",
+														"Factions of naga work tirelessly in their bid for power, seeking the Queen's blessing. To this end, there are few limits to how far they will go to earn her favour -- even at the cost of their own lives."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Naga Myrmidon",
+											"entries": [
+											"The myrmidons, with their navy blue skin and fearsome tridents, are among the strongest among naga warriors. They are feared by all who dwell near the sea; though most prominently by the makrura.",
+											"They are often the most fanatical in their loyalty to the Queen. So much so that some would never take to their orders with anything other than utmost obedience."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Naga Siren",
+											"entries": [
+											"Naga sirens are female naga who possess potent arcane spellcasting, capable of incapacitating their foes. While not as physical strong as their myrmidon, they are just as fearsome.",
+											"Many gather to sing and practice their arcane arts at the Shrines of Azshara, perfecting and improving their insidious craft."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Naga War Lord",
+											"entries": [
+											"Naga war lords are male naga warriors with shells and stone-like carapace fused to their skin, entirely covering their head and most of their upper body.",
+											"Their right arm has taken on the appearance of a large hermit crab, though it is unknown whether this is an inherent mutation or a deliberate choice."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Naga Brute",
+											"entries": [
+											"Naga brutes are massive, lumbering beasts, strong enough to stand as siege weapons for the naga army. Some carry rank and title, while others act like little more than beasts.",
+											"Whichever is the case for a particular brute, they are not avoid of intelligence. They follow given orders to the best of their abilities, and know well enough to strategize their way around an obvious trap when they see one."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Naga Names and Languages",
+											"entries": [
+											"In addition to speaking Common, the Naga have derived their own language from their Kaldorei roots -- Nazja.",
+											"Since the time of the Great Sundering, the language has grown to a distinctly sharp, wheezing character; well-suited for keeping conversation under the sea.",
+											{
+												"type": "entries",
+												"name": "Male Names:",
+												"entries": [
+													"Atoph, Drazj, Heth'jatar, Kriellith, Nazjak, Naz'jaran, Skesessh, Zan'zarak"
+												]
+											},
+											{
+												"type": "entries",
+												"name": "Female Names:",
+												"entries": [
+													"Athiasa, Asrasi, Chazjia, Fyashi, Kazsi, Scyalla, Najesha, Zhiasi"
+												]
+											},
+											{
+												"type": "entries",
+												"name": "Tribe Names:",
+												"entries": [
+													"Bloodstrike, Darksquall, Murkwail, Stormbow, Slitherfin, Stormscale, Wrathtail"
+												]
+											}
+											]
+										}
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Naga Sorceress",
+									"entries": [
+										"Female naga are primarily spellcasters, and consider&shy;ably powerful ones at that for how they wield the turbulent powers of the sea. Naga sorceresses are novice spellcasters, as apprentices of a sea witches and sirens.",
+										"A naga sorceress has the same statistics as a naga, save for Intelligence 14, Charisma 12, and the following additional trait:",
+										{													
+											"type": "entries",
+											"name": "Innate Spellcasting.",
+											"entries": [
+												"The furbolg is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:",
+												{
+													"type": "list",
+													"items": [
+														"Cantrips (at will): {@i {@spell blade ward}, {@spell ray of frost}}",
+														"1/day each: {@i {@spell armor of agathys}, {@spell ice knife|xge}}"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Leper Nagas}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [
+												"{@creature Naga|WC5E MoM}",
+												"{@creature Naga Myrmidon|WC5E MoM}",
+												"{@creature Naga Siren|WC5E MoM}",
+												"{@creature Naga War Lord|WC5E MoM}",
+												"{@creature Naga Brute|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}
+							]
 						}	
 					]	
 				}			
