@@ -5652,7 +5652,7 @@ ___
 > <br>    ***Spellcasting.*** The ogre is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The ogre has the following priest spells prepared:
 > <div style='margin-top:-15px;'></div>
 >
-> <br> Cantrips (at will): *✦ mind blast, resistance,<br>&nbsp;&nbsp;&nbsp; ✦ shadow bolt, virtue*
+> <br> Cantrips (at will): *✦ mind blast, resistance,<br>&nbsp;&nbsp;&nbsp; ✦ shadow bolt, spare the dying*
 > <br> 1st level (4 slots): *cause fear, ✦ dark void,<br>&nbsp;&nbsp;&nbsp; healing word, shield of faith*
 > <br> 2nd level (3 slots): *lesser restoration, ✦ mind flay, <br>&nbsp;&nbsp;&nbsp; silence*
 > <br> 3rd level (3 slots): *dispel magic, hunger of hadar,<br>&nbsp;&nbsp;&nbsp; speak with dead*
