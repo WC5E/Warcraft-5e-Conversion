@@ -7695,7 +7695,7 @@ There is no definitive way to say what stands behind a dire troll's immense stat
 > ***Innate Spellcasting.*** The troll's spellcasting ability is Wisdom (spell save DC 15). The troll can innately cast the following spells, requiring no material components:
 > <div style='margin-top:0px;'></div>
 >
-> 2/day each: *bestow curse, confusion, puppet, slow*
+> 2/day each: *bestow curse, command, confusion, slow*
 > <br> 1/day each: *stoneskin, synaptic static*
 
 ---
