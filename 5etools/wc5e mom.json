@@ -97,15 +97,6 @@
 				{
 					"name": "Friends & Foes",
 					"headers": [
-						"Elves",
-						{
-							"header": "Blood",
-							"depth": 1
-						},
-						{
-							"header": "Night",
-							"depth": 1
-						},
 						"Dwarves",
 						{
 							"header": "Dark Iron",
@@ -116,13 +107,24 @@
 							"header": "Leper",
 							"depth": 1
 						},
+						"Elves",
+						{
+							"header": "Blood",
+							"depth": 1
+						},
+						{
+							"header": "Night",
+							"depth": 1
+						},
 						"Nagas",
 						"Ogres",
 						"Satyrs",
 						"Trolls",
-						"Wretched",
-						"Worgen"
-
+						"Worgen",
+						{
+							"header": "Feral",
+							"depth": 1
+						}
 					],
 					"ordinal": {
 						"type": "chapter",
@@ -2513,6 +2515,115 @@
 						"This sections contains living creatures that can be attributed to races of major factions but also those that are generally hostile to the Alliance and Horde.",
 						{
 							"type": "section",
+							"name": "Dwarves",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Dark Iron",
+									"entries": [
+										"Known for their fiery tempers and fierce determination, the Dark Iron clan of dwarves has a history of strife with the other dwarven clans, as well as within their own ranks. Twisted by the influence of Ragnaros the Firelord, they are a greedy, cruel, and despotic kind.",
+										"Most dark iron dwarves have hair as red as fire or black as coal, trickling with ember flakes, and skin the color of ash. Though their clothes are drab and dark, their ornate style and lavish jewelry is a prominent display of status.",
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [							
+												{
+													"type": "entries",
+													"name": "Legacy of Thaurissan",
+													"entries": [
+														"",
+														"In ages past, the Dark Iron clan cut out their own from the Bronzebeard clan of Ironforge and the Wildhammer clan of Grim Batol. Sworn to revenge on his dwarven king, the Sorcerer-Thane Thaurissan and his wife Modgud led their clansfolk to the southern borders of Khaz Modan, into the far-reaching stretches of the Redridge Mountains.",
+														"There, founding the city of Thaurissan, the clan let their hatred seethe and and their forces swell, before they ultimately led a two-pronged assault on both Ironforge and Grim Batol. Thaurissan himself was routed by the Bronzebeards at Ironforge and his wife saw her end to the Wildhammers at Grim Batol. The Dark Iron clan fled back to their home in the Redridge Mountains, where they were ultimately cornered by their dwarven kin -- intent to wipe Thaurissan's legacy from the continent."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Rise of the Firelord",
+													"entries": [
+														"",
+														"To avoid a seemingly inevitable defeat, Thaurissan attempted to summon forth and ancient power that had been left sleeping beneath the earth. What he brought forth was the Firelord, Ragnaros, once locked away by the Titans when the world was still young.",
+														"The towering elemental Lord rose forth, unleashed from his prison, in an apocalyptic rebirth that shattered the Redridge Mountains. At the center of the devastation, a volcano rose forth to spew ash and molten rock across the land. This volcano became known as Blackrock Mountain. The smoldering crater of destruction to its north became known as the Searing Gorge, while the lifeless reaches to its south became the Burning Steppes.",
+														"Though Sorcerer-Thane Thaurissan himself was killed in the eruption, both the legacy of his name and the legacy of his surviving clansfolk have lived on. Enslaved by the Ragnaros the Firelord and his elemental hordes."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Shadowforge City",
+													"entries": [
+														"",
+														"For decades after, the Dark Iron clan lived in servitude to their elemental master. Not as thralls in chains, but as devoted warriors under the Firelord's scalding banner. Following in the footsteps the Sorcerer-Thane's legacy was the son of him and his wife Modgud; Dagran Thaurissan, crowned emperor of the Dark Iron clan and their new home beneath Blackrock Mountain: Shadowforge City."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Born in Flames",
+													"entries": [
+														"",
+														"Like other dwarves, dark iron dwarves have a strong constitution. Adding to their formidable stamina is an incredible affinity to fire -- a gift granted to them by their long servitude to Ragnaros the Firelord.",
+														"Though fire can still harm them, the soot-stained skin of a dark iron dwarf shields them well from the smoldering fires at the heart of Blackrock Mountain."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Conflicted Kin",
+													"entries": [
+														"",
+														"The dark iron dwarves have long nurtured conflict with the other dwarven clans. A failed coup in Ironforge ignited the War of the Three Hammers, which in turn became the catalyst that ultimately brought forth Ragnaros. Worse still, the dwarves remain as split within their own ranks as they are with the other clans.",
+														"Open conflicts between independent groups and splintered factions is a common occurrence within the blackened halls beneath the mountain."
+													]
+												}
+											]	
+										},
+										{
+											"type": "entries",
+											"name": "Dark Iron Sorcerer",
+											"entries": [	
+												"For those among the dark iron dwarves who lack the strength to train as warriors, a few hold the privilege to instead pursue the study of magic. Sorcerers within the Dark Iron clan have unlocked the power to harness their inner fire, and even yield some control of the mountain's elemental forces from their master. This power seats them at the heart of clan."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Dark Iron Overseer",
+											"entries": [	
+												"The Dark Iron Overseers keep the daily operations of the clan's numerous prospects -- both within Blackrock Mountain and out across the surrounding landscape. The Searing Gorge, in particular, has proven beyond valuable for its mithril and truesilver.",
+												"As the tireless work of the dark iron work drudges on, the overseers stand with hateful smiles on their faces, cracking the whips that drive their labouring thralls forward."
+											]	
+										},
+										{
+											"type": "entries",
+											"name": "Dark Iron Herald",
+											"entries": [	
+												"Heralds stand at the pinnacle of dark iron society. They are the voice of their kin, the mouth through which the Firelord enacts his will upon the dwarves. Their presence brings forth the fiery temper that has become the clan's legacy; driving dwarves around them to fanatical extremes. To this end, they have been bestowed with the power to weave devastating spells and conjure forth the Firelord's minions to their own aid."												
+											]	
+										},
+										{
+											"type": "entries",
+											"name": "Dark Iron Hound",
+											"entries": [	
+												"A dark iron hounds is smaller, one headed, core hound. They are often seen accompanying the dark iron dwarves who dwell within Blackrock Mountain.",
+												"These hounds are often used as mounts by the dark iron dwarves that keep them, though they do not take well to others."
+											]	
+										},
+										"{@note List of Dark Iron}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Dark Iron Dwarf|WC5E MoM}",
+												"{@creature Dark Iron Sorcerer|WC5E MoM}",
+												"{@creature Dark Iron Overseer|WC5E MoM}",
+												"{@creature Dark Iron Herald|WC5E MoM}",
+												"{@creature Dark Iron Hound|WC5E MoM}",
+												""
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
 							"name": "Elves",
 							"entries": [
 								{
@@ -2639,115 +2750,6 @@
 						},
 						{
 							"type": "section",
-							"name": "Dwarves",
-							"entries": [
-								{
-									"type": "entries",
-									"name": "Dark Iron",
-									"entries": [
-										"Known for their fiery tempers and fierce determination, the Dark Iron clan of dwarves has a history of strife with the other dwarven clans, as well as within their own ranks. Twisted by the influence of Ragnaros the Firelord, they are a greedy, cruel, and despotic kind.",
-										"Most dark iron dwarves have hair as red as fire or black as coal, trickling with ember flakes, and skin the color of ash. Though their clothes are drab and dark, their ornate style and lavish jewelry is a prominent display of status.",
-										{
-											"type": "entries",
-											"name": "",
-											"entries": [							
-												{
-													"type": "entries",
-													"name": "Legacy of Thaurissan",
-													"entries": [
-														"",
-														"In ages past, the Dark Iron clan cut out their own from the Bronzebeard clan of Ironforge and the Wildhammer clan of Grim Batol. Sworn to revenge on his dwarven king, the Sorcerer-Thane Thaurissan and his wife Modgud led their clansfolk to the southern borders of Khaz Modan, into the far-reaching stretches of the Redridge Mountains.",
-														"There, founding the city of Thaurissan, the clan let their hatred seethe and and their forces swell, before they ultimately led a two-pronged assault on both Ironforge and Grim Batol. Thaurissan himself was routed by the Bronzebeards at Ironforge and his wife saw her end to the Wildhammers at Grim Batol. The Dark Iron clan fled back to their home in the Redridge Mountains, where they were ultimately cornered by their dwarven kin -- intent to wipe Thaurissan's legacy from the continent."
-													]
-												},
-												{
-													"type": "entries",
-													"name": "Rise of the Firelord",
-													"entries": [
-														"",
-														"To avoid a seemingly inevitable defeat, Thaurissan attempted to summon forth and ancient power that had been left sleeping beneath the earth. What he brought forth was the Firelord, Ragnaros, once locked away by the Titans when the world was still young.",
-														"The towering elemental Lord rose forth, unleashed from his prison, in an apocalyptic rebirth that shattered the Redridge Mountains. At the center of the devastation, a volcano rose forth to spew ash and molten rock across the land. This volcano became known as Blackrock Mountain. The smoldering crater of destruction to its north became known as the Searing Gorge, while the lifeless reaches to its south became the Burning Steppes.",
-														"Though Sorcerer-Thane Thaurissan himself was killed in the eruption, both the legacy of his name and the legacy of his surviving clansfolk have lived on. Enslaved by the Ragnaros the Firelord and his elemental hordes."
-													]
-												},
-												{
-													"type": "entries",
-													"name": "Shadowforge City",
-													"entries": [
-														"",
-														"For decades after, the Dark Iron clan lived in servitude to their elemental master. Not as thralls in chains, but as devoted warriors under the Firelord's scalding banner. Following in the footsteps the Sorcerer-Thane's legacy was the son of him and his wife Modgud; Dagran Thaurissan, crowned emperor of the Dark Iron clan and their new home beneath Blackrock Mountain: Shadowforge City."
-													]
-												},
-												{
-													"type": "entries",
-													"name": "Born in Flames",
-													"entries": [
-														"",
-														"Like other dwarves, dark iron dwarves have a strong constitution. Adding to their formidable stamina is an incredible affinity to fire -- a gift granted to them by their long servitude to Ragnaros the Firelord.",
-														"Though fire can still harm them, the soot-stained skin of a dark iron dwarf shields them well from the smoldering fires at the heart of Blackrock Mountain."
-													]
-												},
-												{
-													"type": "entries",
-													"name": "Conflicted Kin",
-													"entries": [
-														"",
-														"The dark iron dwarves have long nurtured conflict with the other dwarven clans. A failed coup in Ironforge ignited the War of the Three Hammers, which in turn became the catalyst that ultimately brought forth Ragnaros. Worse still, the dwarves remain as split within their own ranks as they are with the other clans.",
-														"Open conflicts between independent groups and splintered factions is a common occurrence within the blackened halls beneath the mountain."
-													]
-												}
-											]	
-										},
-										{
-											"type": "entries",
-											"name": "Dark Iron Sorcerer",
-											"entries": [	
-												"For those among the dark iron dwarves who lack the strength to train as warriors, a few hold the privilege to instead pursue the study of magic. Sorcerers within the Dark Iron clan have unlocked the power to harness their inner fire, and even yield some control of the mountain's elemental forces from their master. This power seats them at the heart of clan."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Dark Iron Overseer",
-											"entries": [	
-												"The Dark Iron Overseers keep the daily operations of the clan's numerous prospects -- both within Blackrock Mountain and out across the surrounding landscape. The Searing Gorge, in particular, has proven beyond valuable for its mithril and truesilver.",
-												"As the tireless work of the dark iron work drudges on, the overseers stand with hateful smiles on their faces, cracking the whips that drive their labouring thralls forward."
-											]	
-										},
-										{
-											"type": "entries",
-											"name": "Dark Iron Herald",
-											"entries": [	
-												"Heralds stand at the pinnacle of dark iron society. They are the voice of their kin, the mouth through which the Firelord enacts his will upon the dwarves. Their presence brings forth the fiery temper that has become the clan's legacy; driving dwarves around them to fanatical extremes. To this end, they have been bestowed with the power to weave devastating spells and conjure forth the Firelord's minions to their own aid."												
-											]	
-										},
-										{
-											"type": "entries",
-											"name": "Dark Iron Hound",
-											"entries": [	
-												"A dark iron hounds is smaller, one headed, core hound. They are often seen accompanying the dark iron dwarves who dwell within Blackrock Mountain.",
-												"These hounds are often used as mounts by the dark iron dwarves that keep them, though they do not take well to others."
-											]	
-										},
-										"{@note List of Dark Iron}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [					
-												"{@creature Dark Iron Dwarf|WC5E MoM}",
-												"{@creature Dark Iron Sorcerer|WC5E MoM}",
-												"{@creature Dark Iron Overseer|WC5E MoM}",
-												"{@creature Dark Iron Herald|WC5E MoM}",
-												"{@creature Dark Iron Hound|WC5E MoM}",
-												""
-											]
-										}
-									]
-								}
-							]
-						},
-						{
-							"type": "section",
 							"name": "Gnomes",
 							"entries": [
 								{
@@ -2819,7 +2821,8 @@
 								}
 							]
 						},
-						{	"type": "section",
+						{	
+							"type": "section",
 							"name": "Nagas",
 							"entries": [
 								{
@@ -2925,7 +2928,7 @@
 										"A naga sorceress has the same statistics as a naga, save for Intelligence 14, Charisma 12, and the following additional trait:",
 										{													
 											"type": "entries",
-											"name": "Innate Spellcasting.",
+											"name": "Innate Spellcasting",
 											"entries": [
 												"The furbolg is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:",
 												{
@@ -2944,7 +2947,7 @@
 									"name": "",
 									"entries": [	
 										{},
-										"{@note List of Leper Nagas}",
+										"{@note List of Nagas}",
 										{	
 											"type": "list",
 											"style": "list-no-bullets",
@@ -2961,7 +2964,480 @@
 									]	
 								}
 							]
-						}	
+						},
+						{	
+							"type": "section",
+							"name": "Ogres",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [
+												"Ogres are large, brutish humanoids of immense strength. Though native to the crumbling world of Draenor, many ogres have since settled as independent clans on Azeroth. The average adult ogre stands between 9 and 10 feet tall, weighing in at almost a thousand pounds.",
+												"As far as the ogre is concerned, size is paramount. They eschew any attempt to cover themselves up, keeping their clothing simple, while brandishing fearsome warpaints.",
+												{
+													"type": "entries",
+													"name": "Distant Settlements",
+													"entries": [
+														"",
+														"Following the Horde's second failure to invade Azeroth, the ogre clans that had come with them from Draenor quickly dispersed.",
+														"Each clean headed in their own direction. Some sought to return back home, while most were content to stake a claim in this new world. Since then, ogres have settled across the world; from the hills of Arathi and the Cape of Stranglethorn, to the lush reaches of Feralas."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Clan Culture",
+													"entries": [
+														"",
+														"Within ogre clans, it is the strongest that stand in highest regard. An immense show of force is the fastest way to rise, though also the fastest way to fall at the hands of any enemies made along the way.",
+														"Still, for as highly as the ogres regard their strength, the powerful and keen-minded ogre magi are often the real presence of power within their clan. Whether acting as the right hand of an ogre lord, or as the clan leader directly, they are the ones pulling the strings."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Brutish Combatants",
+													"entries": [
+														"",
+														"For an ogre, the best solution is often the simplest one. When engaged in a fight, it is not uncommon for the ogre to risk even deadly harm if thinks it can push through and come out on top by sheer virtue of strength.",
+														"They are vicious opponents, strong enough to rend limb from limb with their bare hands, and crush skulls with their spiked clubs and stone-hewn mauls."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Ogre Magi",
+											"entries": [
+											"The ogre magi, with its two heads, holds an intelligence far exceeding the rest of its kin. Borne of the same magic that they wield, it was not uncommon for the Horde -- in its second invasion of Azeroth -- to force this transformation in order to bolster its rank of spellcasters.",
+											"Although the two heads are not always in agreement, they are paramount to the ogre's magical aptitude. A living proof that having two heads can be better than having one."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Ogre Lord",
+											"entries": [
+											"Ogre lords are massive, hulking figures, towering above their clan in both size and status. While they have no aptitude for magic and little thought for intricate plans, their imposing presence precedes them well enough to keep the rest of their clan in check.",
+											"Many might try to challenge an ogre lord's power over the course of its heavy-handed rule, though for most of them this confrontation doesn't end well."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Ogre Names and Languages",
+											"entries": [
+											"Historically, ogres have long held their own tongue, though their dispersion across Azeroth have turned many clans to broken forms of Common -- and sometimes Orcish.",
+											"Ogre is a very coarse language, largely consisting of short, throaty sounds. Its written form has long been kept solely to the upper echelons of ogre society.",
+											"For many ogres, the closest remnant of their language is in their names. Some ogres carry simple, descriptive titles for names, though many still use names with clear meaning in their own tongue.",
+											"Most prominent are the names of the **ogre magi**. Their two heads have each a mind of their own, and with it their own name. The full name of the magi is a combination of the two: the smartest head first and the other thereafter.",
+												{
+													"type": "entries",
+													"name": "Male Names:",
+													"entries": [
+														"Chokk, Drak, Garg, Hok'kran, Krol, Mug"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Female Names:",
+													"entries": [
+														"Agra, Baki, Brakka, Nakki, Mruka, Ugra'ka"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Tribe Names:",
+													"entries": [
+														"Bloodcrush, Boulderfist, Dustgorge, Splinterstone, Stonemaul, Warmaul"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Ogre Priest",
+									"entries": [
+										"A few ogre magi supplement their dark powers with healing spells to aid their allies. They are regarded as spiritual leaders and record-keepers for their tribe. An ogre priest has Intelligence 11 and Wisdom 14, as well as the following trait:",
+										{													
+											"type": "entries",
+											"name": "Spellcasting",
+											"entries": [
+												"The ogre is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The ogre has the following priest spells prepared:",
+												{
+													"type": "list",
+													"items": [
+														"Cantrips (at will): {@i {@spell mind blast|WC5e Spells}, {@spell blade ward}, {@spell shadow bolt|WC5e Spells}, {@spell spare the dying}}",
+														"1st level (4 slots): {@i {@spell cause fear}, {@spell dark void|WC5e Spells}, {@spell healing word}, {@spell shield of faith}},",
+														"2nd level (3 slots): {@i {@spell lesser restoration}, {@spell mind flay|WC5e Spells}, {@spell silence}},",
+														"3rd level (3 slots): {@i {@spell dispel magic}, {@spell hunger of hadar}, {@spell speak with dead}},",
+														"4th level (3 slots): {@i {@spell death ward}, {@spell void shift|WC5e Spells}},",
+														"5th level (1 slot): {@i {@spell shadow crash|WC5e Spells}}"
+													]
+												},
+												"{@i The orgre casts shield of faith on itself before combat.}"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Ogres}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [
+												"{@creature Ogre|WC5E MoM}",
+												"{@creature Ogre Magi|WC5E MoM}",
+												"{@creature Ogre Lord|WC5E MoM}"
+											]
+										}
+									]	
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Satyrs",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [
+												"An ancient curse borne by a highborne sorcerer brought forth the first satyr -- and with it, others would soon follow. These demonic beings were once night elves of the Kaldorei Empire, but little of that heritage remains in their twisted forms. Now there is only anger and hatred.",
+												{
+													"type": "entries",
+													"name": "Cursed Affliction",
+													"entries": [
+														"",
+														"During the War of the Ancients, the Highborne sorcerer Xavius was tasked with opening a portal that would connect Azeroth to the Twisting Nether. His failture to do so brought upon him the wrath of Sargeras, who tore him asunder and tortured his spirit.",
+														"As pain and anguish shattered Xavius' mind, the Lord of the Burning Legion still saw use in the sorcerer; and set to forge a new, demonic form for his servant.",														
+														"In the form of a satyr, Xavius was sent back to Azeroth to spread his curse through the Kaldorei Empire. Like himself, all who he affected were turned to misshapen beasts, capable of pasing their curse onto others in turn. Scores of night elves, and some other races as well, fell to Xavius' dark influence."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Created, Not Born",
+													"entries": [
+														"",
+														"Although both male and female satyrs exist, they have never been able to reproduce. All satyrs in existence were formed from their affliction, some thousands of years old. Though the ages have made them rare, they still pose an imminent threat to any unfortunate enough to encounter them."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Burning Hatred",
+													"entries": [
+														"",
+														"Satyrs are creatures of malice; their veins run a smoldering red as the anguish visited on Xavius is bestowed upon them in turn. They find an indescribable glee in visiting their pain upon others, beast or humanoid -- though none as much as their old elven kin.",
+														"Should a satyr cross paths with an outsider, it is not unlikely for it to try and manipulate them, even corrupt them if possible."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Tainted Magic",
+													"entries": [
+														"",
+														"Wherever the satyrs walk, their demonic presence slowly seeps magic from the land. Life withers away, as if touched by the fel itself, while the satyr drains its power for its own nefarous needs.",
+														"All the power they drain is stored in their hooves. A peprceptive traveller may be able to distinguish the weak from the strong among satyrs, solely by examining its step -- as if the ground has been scorched by brimstone."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Frightful Fighters",
+													"entries": [
+														"",
+														"Satyrs are not known for forming organized armies with strategies or plans. They live in small and remote sects, tending to their sinister schemes.",
+														"When a sentry sounds the alarm, every satyr is quick to join into the fray without any care for their own life. They act like a true horde of demons; one with no commander, and no orders to follow."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Satyr Trickster",
+											"entries": [
+											"Certain satyrs show a penchant for laying painful traps and ambushing their targets. These tricksters revere and mimic their Lord, Xavius, for his sinister deeds. When the call to battle sounds, they take the subtle approach -- by sneaking up on their enemies to pick off any target they can waylay."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Satyr Hellcaller",
+											"entries": [
+											"Satyrs who revel in the arts of fel and shadow magic alike, are known as hellcallers. These warlocks are by far more imposing than the common satyr, as their thirst for magic has bolstered their form just as much as it has tempered their apetite for destruction."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										{},
+										"{@note List of Satyr}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [
+												"{@creature Satyr Trickster|WC5E MoM}",
+												"{@creature Satyr Hellcaller|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Trolls",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [
+												"Trolls have made their mark upon the world over milennia, as ancient divides among their kin have brought forth a wide foray of tribes. Today, trolls can be found far and wide across Azeroth, each tribe unuque in its own appearance, customs, and way of life.",
+												{
+													"type": "entries",
+													"name": "Rulers of the Ancient World",
+													"entries": [
+														"",
+														"When the world was still one, before the Great Sundering, the troll race flourished under the rule of the powerful Zandalari empire; able to match even the mighty Mogu dynasti.",
+														"The Zandalari relied heavily on its intricate caste system, under which each troll had its given place in life. As time went on, many of these castes grew into a people of their own, parting from the Zandalari to cut their own path in life. From this, two other empires grew forth to rival the Zandalari -- the Amani and the Gurubashi.",
+														"Other, smaller tribes tried to escape conflict by settling farther away, though many were made to heel by the three empires. Although animosity between the three was great, Azeroth had a host of other threats that would often draw a common enemy between them."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Progenitors of the Elves",
+													"entries": [
+														"",
+														"Eventually, a colony of dark trolls split free from the Amani empire, ventured forth discover the heart of the continent -- and with it, the cosmic Well of Eternity. By the influence of the well, they were transformed into the Kaldorei, night elves.",
+														"At the base of the well, they forged for themselves a new empire. One with which they systematically dismantled the trolls around them, leaving once great empires in ruin.",
+														"Ultimately, however, the elves' reckless use of magic lured the demonic Burning Legion to the world. With it, the War of the Ancients began, by the end of which the Well of Eternity imploded in a shockwave that shattered the land and split the continents as they have been ever since.",
+														"Great chunks of the remaining Amani and Gurubashi empires were lost, but plenty of land remained for the trolls to rebuild their  cities and reclaim their territories."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Racial Differences",
+													"entries": [
+														"",
+														"The troll race is considered one of the most numerous, yet thoroughly divided. As each tribe has split its own course and claimed its own land, a troll's appearance can alone tell who they are."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Tribal Devotion",
+													"entries": [
+														"",
+														"Trolls have always been a tribal race, isolating themselves and starting anew. A troll’s tribe is its family, and many will go to extreme lengths to protect it as such. They owe loyalty to no-one but their own."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Outside Hostility",
+													"entries": [
+														"",
+														"Trolls settle in remote and isolated areas, places where they can stake their claim and turn the land into their own. The ferocity with which they defend their borders is legendary, to say the least, as they will retaliate swiftly and with force if threatened."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Loa's Guidance",
+													"entries": [
+														"",
+														"Loa is the name trolls have given their animalistic spirit gods. Countless Loa exist, many of them weak and shapeless beings that only trolls can sense, while others take the form of majestic animals. Most troll tribes and empires have their own Loas, manifested as though given shape by the trolls in their worship."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Regeneration",
+													"entries": [
+														"",
+														"Smashing a troll's bones and slashing through its rubbery hide will only serve to anger it, as a troll's wounds close at an extraordinary speed. Only through acid or fire can one arrest their regeneration.",
+														"The ability for trolls to regenerate themselves is nothing short of legendary. It can only restore so much, however; as once a troll heart pumps its last, there is no natural way for it to recover."
+													]
+												},								
+												{
+													"type": "quote",
+													"entries": [
+														"Oh my - as I suspected. Your ancestry dates back to the dawn of the world. Great were the ancient empires of the trolls. I see a spark in your eyes, a powerful will - you wish to be great again, yes?"
+													],
+													"by": "Lorewalker Cho"
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Troll Berserker",
+											"entries": [
+											"To survive a tribe, one must be powerful. For a troll, being powerful means being stronger than one's enemy.",
+											"Berserkers are the embodiment of this; with their brutish strength, they hurl their weapons at their targets as they cry for blood. Fearless, they hurl themselves into the fray to attack with reckless abandon."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Troll Headhunter",
+											"entries": [
+											"Headhunters are the trackers and hunters of a tribe, using a combination of spear and bolas to bring down their prey.",
+											"They make formidable fighters, keen to take trophies from their fallen opponent to display as adornments. These trophies are usually severed fingers or ears, as well as the odd trinket that their quarry might have worn."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Troll Witch Doctor",
+											"entries": [
+											"A troll witch doctor holds status as a spiritual leader for its tribe, often acting as a close advisor to its chieftain. They are the eyes that see things which others cannot, and the ones who commune with the Loas on behalf of the tribe.",
+											"As cunning as they are intelligent, the wield great magical prowess in their practice of voodoo and alchemy. They know few limits for creating magical concoctions, both to cure ailments and to spur horrors."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Dire Troll",
+											"entries": [
+											"These enormous trolls tower above the rest of their kin, as they wield their immense strength to hurl boulders and enemies alike through the air, as well as to pummel them into the ground with almost bestial ferocity.",
+											"There is no definitive way to say what stands behind a dire troll's immense stature. Some are elevated through magical or alchemical means, while others have simply evolved to stand larger than life. Whatever the case might be, they are revered as proud and honorable souls among the trolls."
+											]
+										}
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Dire Troll Caster",
+									"entries": [
+										"Some dire trolls possess innate magical powers in their blood. These trolls are known as *Warcasters*, or *Warmothers* if the troll in question is female. They have a Wisdom of 17 (+3), and gain the Innate Spellcasting trait as follows.",
+										{													
+											"type": "entries",
+											"name": "Innate Spellcasting",
+											"entries": [
+												"The troll's spellcasting ability is Wisdom (spell save DC 15). The troll can innately cast the following spells, requiring no material components:",
+												{
+													"type": "list",
+													"items": [
+														"2/day each: {@i {@spell bestow curse}, {@spell confusion}, {@spell command}, {@spell slow}}",
+														"1/day each: {@i {@spell stoneskin}, {@spell synaptic static|xge}}"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [	
+										"{@note List of Trolls}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [
+												"{@creature Troll Berserker|WC5E MoM}",
+												"{@creature Troll Headhunter|WC5E MoM}",
+												"{@creature Troll Witch Doctor|WC5E MoM}",
+												"{@creature Dire Troll|WC5E MoM}"
+											]
+										}
+									]	
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Worgen",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Feral",
+									"entries": [
+										"The curse of the worgen can transform even the most civilized person into a ravenous, primal beast. Filled with rage, it gradually loses all vestiges of its former life, as it slowly turns into a mindless hunter. These feral beings bear a closer semblence to monstrous wolves than to intelligent humanoids. However, upon a closer inspection, their eyes betray the mind still trapped within.",
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [							
+												{
+													"type": "entries",
+													"name": "Ancient Curse",
+													"entries": [
+														"",
+														"The worgen curse began with a sect of night elves, who tried to tame the powers of the ancient Godrinn. Instead, they were transformed into feral beasts, and subsequently locked away in the Emerald Dream. They were alter brought forth by the Archmage Arugal -- who himself sought a weapon against the Scourge.",
+														"Though the worgen were successful in keeping the damned at bay, they did not differ between the living and dead; leaving the curse to quickly seep through Gilneas."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Pack Animals",
+													"entries": [
+														"",
+														"Feral worgen have but a shred of humanity left, locked away in a beast that cannot be reasoned or communicated with. Like wolves, they keep to forested areas and gather  in large packs, headed by their strongest -- the alpha."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Humanoid Cubs",
+													"entries": [
+														"",
+														"Worgen do not give birth to lupine humanoids, but rather to a humanoid of their original race. Although the mother might care for its child, this is often not shared by the rest of its pack."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Resistance to Undeath",
+													"entries": [
+														"",
+														"The curse of the worgen draws its power from the Emerald Dream, and the light of the goddess Elune. For this, raising a worgen into undeath is by far more difficult than it is with most other humanoids."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Feral Weaknesses",
+													"entries": [
+														"",
+														"As vicious as they are, these feral beasts are hardly intimidated and rarely back down if the pack keeps together. They do, however, have a strong dislike for open fires, and avoid areas lit by open flames whenever possible -- so long as the hunger for flesh does not force them to push through.",
+														"They also appear to be very susceptible to the wolfsbane plant; a small, purple flower commonly found across the kingdom of Gilneas. If this seemingly harmless plant comes in contact with a worgen's wounds, it prevents the beast from recuperating."
+													]
+												}
+											]	
+										},
+										{
+											"type": "inset",
+											"name": "Player Characters as Feral Worgen",
+											"entries": [	
+												"A humanoid bit by a worgen must succeed on a DC 12 Constitution saving throw or be cursed. The curse has no effect on undead beings, such as the forsaken. A character bit begins to show the effects of the curse after 1d4 days, at which point the character is transformed into a feral worgen. It gains a Strength of 15 if their score isn't already higher, and their alignment changes to Chaotic Evil.",
+												"The cursed character also gains the following indefinite madness, {@i \"I hunger for the taste of blood and will kill anyone to taste it once more.\"}",
+												"The character remains a feral worgen until a {@spell greater restoration} spell or more powerful magic rids the character of their indefinite madness, at which point alignment returns to what it was before being bit, and the character gains the {@i Two Forms} feature and the {@i Worgen Form Traits} of the Worgen race."
+											]
+										},
+										"{@note List of Worgen}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Feral Worgen|WC5E MoM}",
+												""
+											]
+										}
+									]
+								}
+							]
+						}
 					]	
 				}			
 			]
