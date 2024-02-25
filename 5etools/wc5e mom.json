@@ -36,7 +36,7 @@
 			"published": "2023-01-12",
 			"contents": [
 				{
-					"name": "Contents"
+					"name": "PH Contents"
 				},
 				{
 					"name": "Assorted Beasts",
@@ -220,11 +220,11 @@
 					"headers": [
 						"Aqir",
 						{
-							"header": "Nerubians of Azjol-Nerub",
+							"header": "PH Nerubians of Azjol-Nerub",
 							"depth": 1
 						},
 						{
-							"header": "Qiraji of Ahn'Qiraj",
+							"header": "PH Qiraji of Ahn'Qiraj",
 							"depth": 1
 						},
 						{
@@ -232,7 +232,7 @@
 							"depth": 1
 						},
 						{
-							"header": "Mantid of Manti'vess",
+							"header": "PH Mantid of Manti'vess",
 							"depth": 1
 						},
 						"N'raqi - Faceless Ones"
@@ -251,21 +251,6 @@
 						"type": "chapter",
 						"identifier": 9
 					}
-				},
-				{
-					"name": "xxx",
-					"headers": [
-						"xxx",
-						"xxx",
-						"xxx"
-					],
-					"ordinal": {
-						"type": "chapter",
-						"identifier": "x"
-					}
-				},
-				{
-					"name": "Outro"
 				}
 			]
 		}
@@ -279,14 +264,7 @@
 					"type": "section",
 					"name": "Contents",
 					"entries": [					
-						"Waking up to a goblin ambush, a human reaches for the pistol she always keeps at her side. She leaps to her feet and begins to fire, blasting the nearest goblin away before he can strike.",
-						{
-							"type": "list",
-							"name": "Creature List",
-							"entries": [					
-								"Waking up to a goblin ambush, a human reaches for the pistol she always keeps at her side. She leaps to her feet and begins to fire, blasting the nearest goblin away before he can strike."
-							]
-						}
+						"Waking up to a goblin ambush, a human reaches for the pistol she always keeps at her side. She leaps to her feet and begins to fire, blasting the nearest goblin away before he can strike."
 					]
 				},
 				{
@@ -5475,13 +5453,13 @@
 									"type": "entries",
 									"name": "",
 									"entries": [
-										"{@note List of Enchanted Constructs}",
+										"{@note List of Mantid}",
 										{	
 											"type": "list",
 											"style": "list-no-bullets",
 											"columns": 3,
 											"items": [					
-												"{@creature Arcane Golem|WC5E MoM}",
+												"PH",
 												""
 											]
 										}					 
