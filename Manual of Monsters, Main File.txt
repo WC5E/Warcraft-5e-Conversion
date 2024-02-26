@@ -4698,7 +4698,7 @@ Still sharing the city with their trogg invaders, leper gnomes are known to be e
 
 <div style='margin-top:27px;'></div>
 
-> ##### Radiation Disease
+> ##### Radiation Sickness
 > When an uninfected creature comes into contact with a source of radiation — such as contaminated water, being bitten by an infected creature, or for every hour spent in a high-radiation area — the creature must succeed on a DC 11 a Constitution saving throw or contract the radiation disease.
 >
 > It takes 1d4 days for the disease to manifest. As it does, the creature's skin takes on a sickly green tint and abscesses start to spread across its surface. At the end of that period, the creature gains advantage on saving throws against poison and resistance against poison damage. However, the creature also has disadvantage on all Strength and Dexterity ability checks, as well as weapon attack rolls.
