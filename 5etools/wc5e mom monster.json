@@ -277,7 +277,7 @@
 				{
 					"name": "Stench",
 					"entries": [
-						"Any creature that starts its turn within 10 feet of the abomination must succeed on a {@dc 14} Con&shy;stitution saving throw or be {@condition poisoned} until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all abominations for 1 minute."
+						"Any creature that starts its turn within 10 feet of the abomination must succeed on a {@dc 14} Constitution saving throw or be {@condition poisoned} until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all abominations for 1 minute."
 					]
 				}
 			],
@@ -421,7 +421,7 @@
 				{
 					"name": "Whirlwind {@recharge 4}",
 					"entries": [
-						"Each creature in the elemental's space must make a {@dc 13} Strength saving throw. On a failure, a target takes 15 ({@damage 3d8 + 2}) bludgeoning damage and is flung up to 20 feet away from the elemental in a random direction and knocked {@condition prone}. If a thrown target strikes an object, such as a wall or floor, the target takes 3 ({@dice 1d6}) blud&shy;geoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a {@dc 13} Dexterity saving throw or take the same damage and be knocked {@condition prone}.",
+						"Each creature in the elemental's space must make a {@dc 13} Strength saving throw. On a failure, a target takes 15 ({@damage 3d8 + 2}) bludgeoning damage and is flung up to 20 feet away from the elemental in a random direction and knocked {@condition prone}. If a thrown target strikes an object, such as a wall or floor, the target takes 3 ({@dice 1d6}) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a {@dc 13} Dexterity saving throw or take the same damage and be knocked {@condition prone}.",
 						"If the save is successful, the target takes half the damage and isn't flung away or knocked {@condition prone}."
 					]
 				}
@@ -1058,13 +1058,13 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"While the ancient remains motion&shy;less, it is indistinguishable from a normal tree."
+						"While the ancient remains motionless, it is indistinguishable from a normal tree."
 					]
 				},
 				{
 					"name": "Resilient Nature",
 					"entries": [
-						"Unless the ancient of war is incapa&shy;citated, it and plant creatures of its choice within 60 feet of it have advantage on saving throws against being {@condition charmed} or {@condition frightened}."
+						"Unless the ancient of war is incapacitated, it and plant creatures of its choice within 60 feet of it have advantage on saving throws against being {@condition charmed} or {@condition frightened}."
 					]
 				},
 				{
@@ -1471,7 +1471,7 @@
 				{
 					"name": "Arcane Form",
 					"entries": [
-						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. When the elemental enters the area of an *{@spell antimagic field}* spell for the first time on a turn or starts its turn there, it must succeed on a Constitution saving throw against the spell save DC of its spellcaster, or be {@condition stunned} until the start of its next turn."
+						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. When the elemental enters the area of an {@spell antimagic field} spell for the first time on a turn or starts its turn there, it must succeed on a Constitution saving throw against the spell save DC of its spellcaster, or be {@condition stunned} until the start of its next turn."
 					]
 				},
 				{
@@ -1771,7 +1771,7 @@
 				{
 					"name": "Nullify (Recharge after a Long Rest)",
 					"entries": [
-						"The nullifier attempts to dispel all magical effects within 30 feet of it, as if it had cast the *{@spell dispel magic}* as a 3rd-level spell on everything within range."
+						"The nullifier attempts to dispel all magical effects within 30 feet of it, as if it had cast the {@spell dispel magic} as a 3rd-level spell on everything within range."
 					]
 				}
 			],
@@ -1971,7 +1971,7 @@
 					"name": "Bite",
 					"entries": [
 						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}1 piercing damage.",
-						"An **ashwing moth** is a nocturnal creature, best known for its vibrant light. Assassins prize them for it, using it as a decoy or distraction, as well as a subtle light in dark places. An ashwing moth in captivity sheds light for up to {@dice 1d8} days."
+						"An {@b ashwing moth} is a nocturnal creature, best known for its vibrant light. Assassins prize them for it, using it as a decoy or distraction, as well as a subtle light in dark places. An ashwing moth in captivity sheds light for up to {@dice 1d8} days."
 					]
 				}
 			],
@@ -2277,7 +2277,7 @@
 					"name": "Possession (1/Day)",
 					"entries": [
 						"One humanoid that the banshee can see within 5 feet of it must succeed on a {@dc 15} Charisma saving throw or be possessed by the banshee; the banshee then disappears, and the target is {@condition incapacitated} and loses control of its body. The banshee now controls the body but doesn't deprive the target of awareness. The banshee can't be targeted by any attack, spell, or other effect except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being {@condition charmed} and {@condition frightened}. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.",
-						"nbsp;&nbsp;&nbsp; The possession lasts until the body drops to 0 hit points, the banshee ends it as a bonus action, or the banshee is turned or forced out by an effect like the *dispel evil and good* spell. When the possession ends, the banshee reappears in an unoccupied space within 5 feet of the body."
+						"The possession lasts until the body drops to 0 hit points, the banshee ends it as a bonus action, or the banshee is turned or forced out by an effect like the {@spell dispel evil and good} spell. When the possession ends, the banshee reappears in an unoccupied space within 5 feet of the body."
 					]
 				}
 			],
@@ -2369,7 +2369,7 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"While the lasher remains motion&shy;less, it is indistinguishable from an ordinary orchid."
+						"While the lasher remains motionless, it is indistinguishable from an ordinary orchid."
 					]
 				}
 			],
@@ -2461,8 +2461,8 @@
 					"name": "Petrifying Gaze",
 					"entries": [
 						"If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a {@dc 12} Constitution saving throw if the basilisk isn't {@condition incapacitated}. On a failed save, the creature magically begins to turn to stone and is {@condition restrained}. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is {@condition petrified} until freed by the {@spell greater restoration} spell or other magic.",
-						"nbsp;&nbsp;&nbsp; A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again.  If it looks at the basilisk in the meantime, it must immediately make the save.",
-						"nbsp;&nbsp;&nbsp; If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze."
+						"A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again.  If it looks at the basilisk in the meantime, it must immediately make the save.",
+						"If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze."
 					]
 				}
 			],
@@ -2470,7 +2470,7 @@
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. *Hit* 10 ({@damage 2d6 + 3}) piercing damage plus 7 ({@damage 2d6}) poison damage."
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@i Hit} 10 ({@damage 2d6 + 3}) piercing damage plus 7 ({@damage 2d6}) poison damage."
 					]
 				}
 			],
@@ -2692,7 +2692,7 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"While the lasher remains motion&shy;less, it is indistinguishable from an ordinary flower."
+						"While the lasher remains motionless, it is indistinguishable from an ordinary flower."
 					]
 				}
 			],
@@ -3146,7 +3146,7 @@
 			],
 			"fluff": {
 				"entries": [
-					"A {@b carrion bird} is a large, carnivorous scavenger bird found across Azeroth. Their wings are broad and their heads often featherless. They stalk their prey from the skies, lurk&shy;ing from a distance, as they wait for it to fall -- whether from exhaustion, or from another hunter."
+					"A {@b carrion bird} is a large, carnivorous scavenger bird found across Azeroth. Their wings are broad and their heads often featherless. They stalk their prey from the skies, lurking from a distance, as they wait for it to fall -- whether from exhaustion, or from another hunter."
 				]
 			}
 		},
@@ -3978,7 +3978,7 @@
 				{
 					"name": "Molten Core",
 					"entries": [
-						"A creature that touches the core hound or hits it with a melee attack while within 5 feet of it takes 4 ({@damage 1d8}) fire damage. In addition, any non&shy;magical weapon that hits the core hound melts. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition that hits the core hound is destroyed after dealing damage."
+						"A creature that touches the core hound or hits it with a melee attack while within 5 feet of it takes 4 ({@damage 1d8}) fire damage. In addition, any nonmagical weapon that hits the core hound melts. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition that hits the core hound is destroyed after dealing damage."
 					]
 				},
 				{
@@ -5544,7 +5544,7 @@
 					"name": "Maim",
 					"entries": [
 						"One {@condition grappled} creature takes 59 ({@damage 8d12 + 7}) piercing damage. If this reduces the creature to 0 hp, the devilsaur swallows it and the grapple ends. While swallowed, the creature is {@condition blinded} and {@condition restrained}, it has total cover against attacks and other effects outside the devilsaur king, and it takes 21 ({@damage 6d6}) acid damage at the start of each of the devilsaur king's turns.",
-						"If the devil&shy;saur king takes 45 damage or more on a single turn from creatures inside it, it must succeed on a {@dc 15} Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall {@condition prone} in a space within 10 feet of it. If the devilsaur king dies, a swallowed creature is no longer {@condition restrained} by it and can escape from the corpse using 15 feet of movement, exiting {@condition prone}."
+						"If the devilsaur king takes 45 damage or more on a single turn from creatures inside it, it must succeed on a {@dc 15} Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall {@condition prone} in a space within 10 feet of it. If the devilsaur king dies, a swallowed creature is no longer {@condition restrained} by it and can escape from the corpse using 15 feet of movement, exiting {@condition prone}."
 					]
 				},
 				{
@@ -5670,7 +5670,7 @@
 				{
 					"name": "Silencing Howl (1/Day)",
 					"entries": [
-						"The diemetradon casts *silence*, centered on itself."
+						"The diemetradon casts {@spell silence}, centered on itself."
 					]
 				}
 			],
@@ -5761,7 +5761,7 @@
 				{
 					"name": "Berserk",
 					"entries": [
-						"Whenever the troll starts its turn with 60 hit points or fewer, it must make a {@dc 11} Wisdom save. On a failed save, the troll goes berserk. On each of its turns while berserk, the troll attacks the nearest crea&shy;ture it can see. If no creature is near enough to move and attack, the troll attacks an object, with preference for an object smaller than itself. Once the troll goes berserk, it continues to dos so until its killed or regains all its hit points."
+						"Whenever the troll starts its turn with 60 hit points or fewer, it must make a {@dc 11} Wisdom save. On a failed save, the troll goes berserk. On each of its turns while berserk, the troll attacks the nearest creature it can see. If no creature is near enough to move and attack, the troll attacks an object, with preference for an object smaller than itself. Once the troll goes berserk, it continues to dos so until its killed or regains all its hit points."
 					]
 				},
 				{
@@ -6315,7 +6315,7 @@
 				{
 					"name": "Gust",
 					"entries": [
-						"One target must make a {@dc 11} Strength saving throw. On a failure, the target takes 7 ({@dice 2d6}) bludgeo&shy;ning damage and is flung up to 20 feet directly away from the elemental and knocked {@condition prone}. If the saving throw is successful, the target only takes half damage and isn't flung away or knocked {@condition prone}."
+						"One target must make a {@dc 11} Strength saving throw. On a failure, the target takes 7 ({@dice 2d6}) bludgeoning damage and is flung up to 20 feet directly away from the elemental and knocked {@condition prone}. If the saving throw is successful, the target only takes half damage and isn't flung away or knocked {@condition prone}."
 					]
 				},
 				{
@@ -6901,7 +6901,7 @@
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d4 + 2}) piercing damage. If the target is a creature, it must succeed on a {@dc 12} Constitu&shy;tion saving throw against disease or become {@condition poisoned} until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 3 ({@dice 1d6}) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured. A swarm of insect's crawl out of a creature {@dice 1d4} rounds after it died if it was diseased upon its death."
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d4 + 2}) piercing damage. If the target is a creature, it must succeed on a {@dc 12} Constitution saving throw against disease or become {@condition poisoned} until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 3 ({@dice 1d6}) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured. A swarm of insect's crawl out of a creature {@dice 1d4} rounds after it died if it was diseased upon its death."
 					]
 				}
 			],
@@ -7675,10 +7675,8 @@
 						"bludgeoning",
 						"piercing"
 					],
-					"preNote": "slash&shy"
-				},
-				{
-					"special": "ing from nonmagical attacks that aren't adamantine"
+					"note": "slashing from nonmagical attacks that aren't adamantine",
+					"cond": true
 				}
 			],
 			"immune": [
@@ -10983,7 +10981,7 @@
 				{
 					"name": "Stench",
 					"entries": [
-						"Any creature that starts its turn within 10 feet of the abomination must succeed on a {@dc 14} Con&shy;stitution saving throw or be {@condition poisoned} until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all abominations for 1 minute."
+						"Any creature that starts its turn within 10 feet of the abomination must succeed on a {@dc 14} Constitution saving throw or be {@condition poisoned} until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all abominations for 1 minute."
 					]
 				}
 			],
@@ -11312,7 +11310,7 @@
 				{
 					"name": "Incapacitating Screech {@recharge}",
 					"entries": [
-						"The harpy emits a horrific screech. Each creature within 15 feet of it that can hear it and that isn't a harpy must succeed on a {@dc 11} Constitution saving throw or be incapaci&shy;tated until the end of the harpy's next turn."
+						"The harpy emits a horrific screech. Each creature within 15 feet of it that can hear it and that isn't a harpy must succeed on a {@dc 11} Constitution saving throw or be incapacitated until the end of the harpy's next turn."
 					]
 				}
 			],
@@ -11474,7 +11472,7 @@
 				{
 					"name": "Incapacitating Screech {@recharge}",
 					"entries": [
-						"The harpy emits a horrific screech. Each creature within 15 feet of it that can hear it and that isn't a harpy must succeed on a {@dc 11} Constitution saving throw or be incapaci&shy;tated until the end of the harpy's next turn."
+						"The harpy emits a horrific screech. Each creature within 15 feet of it that can hear it and that isn't a harpy must succeed on a {@dc 11} Constitution saving throw or be incapacitated until the end of the harpy's next turn."
 					]
 				}
 			],
@@ -12928,7 +12926,7 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"While the lasher remains motion&shy;less, it is indistinguishable from an ordinary plant."
+						"While the lasher remains motionless, it is indistinguishable from an ordinary plant."
 					]
 				}
 			],
@@ -13005,7 +13003,7 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"While the lasher remains motion&shy;less, it is indistinguishable from an ordinary plant."
+						"While the lasher remains motionless, it is indistinguishable from an ordinary plant."
 					]
 				}
 			],
@@ -17114,7 +17112,7 @@
 				{
 					"name": "Quills",
 					"entries": [
-						"In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* {@hit 4} to hit, range 10 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. {@i Melee Weapon Attack:} {@hit 4} to hit, range 10 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
 					]
 				}
 			],
@@ -17243,7 +17241,7 @@
 				{
 					"name": "Quills",
 					"entries": [
-						"In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* {@hit 4} to hit, range 10 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. {@i Melee Weapon Attack:} {@hit 4} to hit, range 10 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
 					]
 				}
 			],
@@ -17375,7 +17373,7 @@
 				{
 					"name": "Quills",
 					"entries": [
-						"In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* {@hit 4} to hit, range 10 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. {@i Melee Weapon Attack:} {@hit 4} to hit, range 10 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
 					]
 				}
 			],
@@ -17498,7 +17496,7 @@
 				{
 					"name": "Quills",
 					"entries": [
-						"In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* {@hit 4} to hit, range 10 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. {@i Melee Weapon Attack:} {@hit 4} to hit, range 10 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
 					]
 				}
 			],
@@ -17644,7 +17642,7 @@
 				{
 					"name": "Quills",
 					"entries": [
-						"In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. *Melee Weapon Attack:* {@hit 4} to hit, range 10 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"In response to being hit by a melee attack, the quilboar can spew quills back at the attacker. {@i Melee Weapon Attack:} {@hit 4} to hit, range 10 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
 					]
 				}
 			],
@@ -18338,7 +18336,7 @@
 			]
 		},
 		{
-			"name": "Ravager Brood Mother <!-- https://wc5e-cr-calculator.frogvall.com/?0;16;105;6;12;22;0;22;0;22;0;0;0;0;0;0;0;;;;;4;;;;;;;;;;1;;;;;;;;10;;;;;; -->",
+			"name": "Ravager Brood Mother",
 			"source": "WC5E MoM",
 			"page": 0,
 			"size": [
@@ -18947,13 +18945,13 @@
 				{
 					"name": "Tentacles",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) bludgeoning damage, plus 13 ({@damage 3d8}) psychic damage. If the target is a crea&shy;ture, it is {@condition grappled} (escape {@dc 16}). Until the grapple ends, the zoatroid shares space with it, the target is {@condition blinded}, and the zoatroid can't use its tentacles on another target without ending the grapple."
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) bludgeoning damage, plus 13 ({@damage 3d8}) psychic damage. If the target is a creature, it is {@condition grappled} (escape {@dc 16}). Until the grapple ends, the zoatroid shares space with it, the target is {@condition blinded}, and the zoatroid can't use its tentacles on another target without ending the grapple."
 					]
 				},
 				{
 					"name": "Dominate {@recharge}",
 					"entries": [
-						"One humanoid {@condition grappled} by the zoatroid must succeed on a {@dc 13} Wisdom saving throw or be dominated by the zoatroid: the dominated target goes on the zoatroids initiative, it controls the target using its action. The *Dominate* deprives the target of its vision but not its awareness. The royal zoatroid can be targeted by attacks, spells, and other effects but any attack roll that misses the zoatroid automatically hits its dominated target.",
+						"One humanoid {@condition grappled} by the zoatroid must succeed on a {@dc 13} Wisdom saving throw or be dominated by the zoatroid: the dominated target goes on the zoatroids initiative, it controls the target using its action. The {@i Dominate} deprives the target of its vision but not its awareness. The royal zoatroid can be targeted by attacks, spells, and other effects but any attack roll that misses the zoatroid automatically hits its dominated target.",
 						"The domination lasts until the target drops to 0 hit points, the zoatroid ends it as a bonus action, or a creature uses their action to attempt a grapple check contested by the zoatroid."
 					]
 				},
@@ -19924,13 +19922,13 @@
 				{
 					"name": "Wisdom Drain",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}7 ({@damage 2d4 + 2}) necrotic damage, and the target's Wisdom score is reduced by {@dice 1d4}. If the target's Wisdom score is reduced to 0, it is para&shy;lyzed until it regains at least one point of Wisdom."
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}7 ({@damage 2d4 + 2}) necrotic damage, and the target's Wisdom score is reduced by {@dice 1d4}. If the target's Wisdom score is reduced to 0, it is paralyzed until it regains at least one point of Wisdom."
 					]
 				},
 				{
 					"name": "Invisibility (Recharges after a Short or Long Rest)",
 					"entries": [
-						"The shade magically turns {@condition invisible} until it attacks, or until its {@status concentration} is broken, up to 1 hour (as if con&shy;centrating on a spell)"
+						"The shade magically turns {@condition invisible} until it attacks, or until its {@status concentration} is broken, up to 1 hour (as if concentrating on a spell)"
 					]
 				}
 			],
@@ -21223,7 +21221,7 @@
 				{
 					"name": "Arcane Interference",
 					"entries": [
-						"When a spell is cast within a 10-foot radius of the moth, roll a {@dice d20}. On a roll of 1, the spell is interrupted as if by the *counterspell* spell."
+						"When a spell is cast within a 10-foot radius of the moth, roll a {@dice d20}. On a roll of 1, the spell is interrupted as if by the {@spell counterspell} spell."
 					]
 				}
 			],
@@ -21363,7 +21361,7 @@
 					"name": "Horrifying Wail",
 					"entries": [
 						"Each non-undead creature within 60 feet of the spectre that can hear it must succeed on a {@dc 12} Wisdom saving throw or be {@condition frightened} for 1 minute. A {@condition frightened} creature can repeat the saving throw at the end of each of its turns, ending the {@condition frightened} condition on itself on a success.",
-						"nbsp;&nbsp;&nbsp; If a target's saving throw is successful or the effect ends for it, the target is immune to this spectre's Horrifying Wail for the next 24 hours."
+						"If a target's saving throw is successful or the effect ends for it, the target is immune to this spectre's Horrifying Wail for the next 24 hours."
 					]
 				}
 			],
@@ -21392,7 +21390,7 @@
 			]
 		},
 		{
-			"name": "Spider <!-- https://wc5e-cr-calculator.frogvall.com/?0;12;1;0;10;3;0;0;0;0;0;0;0;0;0;0;0;;;;;3;;;;;;;;;;1;;;;;;;;10;;;;;;;;;;; -->",
+			"name": "Spider",
 			"source": "WC5E MoM",
 			"page": 0,
 			"size": [
@@ -21775,7 +21773,7 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) slashing damage. If the target is Large or smaller, it is either {@condition grappled} (escape {@dc 13}) or pushed up to 10 feet away. Until the grapple ends, the target is {@condition restrained}, and the swamp&shy;walker can only make one claw attack."
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) slashing damage. If the target is Large or smaller, it is either {@condition grappled} (escape {@dc 13}) or pushed up to 10 feet away. Until the grapple ends, the target is {@condition restrained}, and the swampwalker can only make one claw attack."
 					]
 				}
 			],
@@ -22580,7 +22578,8 @@
 				{
 					"resist": [
 						"bludgeoning",
-						"piercing and slashing"
+						"piercing",
+						"slashing"
 					],
 					"note": "from nonmagical attacks",
 					"cond": true
@@ -22738,7 +22737,7 @@
 				{
 					"name": "Water Awareness",
 					"entries": [
-						"The thistleshrub can sense the pre&shy;sence of water reservoirs up to 5 miles away, as well as water within a creature's body. It knows the general direction they're in but no their exact location."
+						"The thistleshrub can sense the presence of water reservoirs up to 5 miles away, as well as water within a creature's body. It knows the general direction they're in but no their exact location."
 					]
 				}
 			],
@@ -22752,7 +22751,7 @@
 				{
 					"name": "Thorny Claw",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d8 + 3}) piercing damage. If the target is Large or smaller, it is either {@condition grappled} (escape {@dc 14}) or pushed up to 10 feet away. Until the grapple ends, the target is {@condition restrained}, and the thistle&shy;shrub can only make one claw attack."
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d8 + 3}) piercing damage. If the target is Large or smaller, it is either {@condition grappled} (escape {@dc 14}) or pushed up to 10 feet away. Until the grapple ends, the target is {@condition restrained}, and the thistleshrub can only make one claw attack."
 					]
 				},
 				{
@@ -22929,7 +22928,7 @@
 				{
 					"name": "Gore",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 10 ft., one target. *Hit* 24 ({@damage 4d8 + 6}) piercing damage."
+						"{@atk mw} {@hit 9} to hit, reach 10 ft., one target. {@i Hit} 24 ({@damage 4d8 + 6}) piercing damage."
 					]
 				},
 				{
@@ -22943,7 +22942,7 @@
 				{
 					"name": "Lightning Breath {@recharge 5}",
 					"entries": [
-						"The lizard exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a {@dc 16} Dexter&shy;ity saving throw, taking 39 ({@damage 6d12}) lightning damage on a failed save, or half as much damage on a success."
+						"The lizard exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a {@dc 16} Dexterity saving throw, taking 39 ({@damage 6d12}) lightning damage on a failed save, or half as much damage on a success."
 					]
 				}
 			],
@@ -24119,7 +24118,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell lava burst|WC5E Spells}",
-								"{@spell maximilian's earthen grasp|XGE} *"
+								"{@spell maximilian's earthen grasp|XGE}"
 							]
 						},
 						"3": {
@@ -24973,7 +24972,7 @@
 				{
 					"name": "Whelm {@recharge 4}",
 					"entries": [
-						"Each creature in the elemen&shy;tal's space must make a {@dc 15} Strength saving throw. On a failure, a target takes 13 ({@damage 2d8 + 4}) bludgeoning damage. If it is Large or smaller, it is also {@condition grappled} (escape {@dc 14}). Until this grapple ends, the target is {@condition restrained} and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.",
+						"Each creature in the elemental's space must make a {@dc 15} Strength saving throw. On a failure, a target takes 13 ({@damage 2d8 + 4}) bludgeoning damage. If it is Large or smaller, it is also {@condition grappled} (escape {@dc 14}). Until this grapple ends, the target is {@condition restrained} and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.",
 						"The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target {@condition grappled} by it takes 13 ({@damage 2d8 + 4}) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a {@dc 14} Strength and succeeding."
 					]
 				}
@@ -25573,7 +25572,7 @@
 					"name": "Renew {@recharge 5}",
 					"entries": [
 						"One plant that the wisp can see within 5 feet of it is renewed by the wisp; the wisp disappears. The wisp can't be targeted by any attack, spell, or other effect while renewing a plant. The renewed plant regains 10 hit points at the start of its turn. If the plant takes fire damage, the renew doesn't function at the start of its next turn. The plant dies if it starts its turn with 0 hit points.",
-						"The renew lasts until the renewed plant drops to 0 hit points, the wisp ends it as a bonus action. When the plant takes damage, the wisp must pass a Concen&shy;tration saving throw (as if {@status concentration||concentrating} on a spell) or be pushed out of the plant."
+						"The renew lasts until the renewed plant drops to 0 hit points, the wisp ends it as a bonus action. When the plant takes damage, the wisp must pass a Concentration saving throw (as if {@status concentration||concentrating} on a spell) or be pushed out of the plant."
 					]
 				}
 			],
@@ -25780,7 +25779,7 @@
 			"size": [
 				"M"
 			],
-			"type": "undea_d",
+			"type": "undead",
 			"alignment": [
 				"L",
 				"E"
@@ -25822,11 +25821,8 @@
 						"piercing",
 						"slashing"
 					],
-					"note": "from non&shy",
+					"note": "from nonmagical attacks and weapons that aren't silvered",
 					"cond": true
-				},
-				{
-					"special": "magical attacks and weapons that aren't silvered"
 				}
 			],
 			"immune": [
@@ -26517,7 +26513,7 @@
 				{
 					"name": "Tentacles",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) bludgeoning damage, plus 13 ({@damage 3d8}) psychic damage. If the target is a crea&shy;ture, it is {@condition grappled} (escape {@dc 16}). Until the grapple ends, the zoatroid shares space with it, the target is {@condition blinded}, and the zoatroid can't use its tentacles on another target without ending the grapple."
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) bludgeoning damage, plus 13 ({@damage 3d8}) psychic damage. If the target is a creature, it is {@condition grappled} (escape {@dc 16}). Until the grapple ends, the zoatroid shares space with it, the target is {@condition blinded}, and the zoatroid can't use its tentacles on another target without ending the grapple."
 					]
 				},
 				{
