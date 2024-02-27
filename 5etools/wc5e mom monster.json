@@ -800,7 +800,7 @@
 							"spells": [
 								"{@spell dancing lights}",
 								"{@spell druidcraft}",
-								"{@spell solar wrath|WC5E MoM}",
+								"{@spell solar wrath|WC5E Spells}",
 								"{@spell thorn whip}"
 							]
 						},
@@ -810,7 +810,7 @@
 								"{@spell detect magic}",
 								"{@spell detect poison and disease}",
 								"{@spell faerie fire}",
-								"{@spell starfire|WC5E MoM}"
+								"{@spell starfire|WC5E Spells}"
 							]
 						},
 						"2": {
@@ -827,7 +827,7 @@
 								"{@spell dispel magic}",
 								"{@spell plant growth}",
 								"{@spell protection from energy}",
-								"{@spell starsurge|WC5E MoM}"
+								"{@spell starsurge|WC5E Spells}"
 							]
 						},
 						"4": {
@@ -847,7 +847,7 @@
 						"6": {
 							"slots": 1,
 							"spells": [
-								"{@spell starfall|WC5E MoM}",
+								"{@spell starfall|WC5E Spells}",
 								"{@spell wall of thorns}"
 							]
 						}
@@ -1327,7 +1327,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell flurry|WC5E MoM}",
+								"{@spell flurry|WC5E Spells}",
 								"{@spell frostbite|XGE}",
 								"{@spell ray of frost}"
 							]
@@ -1336,7 +1336,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell armor of Agathys}",
-								"{@spell frostfire bolt|WC5E MoM}",
+								"{@spell frostfire bolt|WC5E Spells}",
 								"{@spell ice knife|XGE}"
 							]
 						},
@@ -1603,7 +1603,7 @@
 							"{@spell dispel magic}"
 						],
 						"1e": [
-							"{@spell arcane explosion|WC5E MoM}",
+							"{@spell arcane explosion|WC5E Spells}",
 							"{@spell wall of force}"
 						]
 					},
@@ -3377,7 +3377,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell lightning blast|WC5E MoM}",
+								"{@spell lightning blast|WC5E Spells}",
 								"{@spell mending}",
 								"{@spell mold earth|XGE}"
 							]
@@ -3394,7 +3394,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell lava burst|WC5E MoM}",
+								"{@spell lava burst|WC5E Spells}",
 								"{@spell maximilian's earthen grasp|XGE}"
 							]
 						},
@@ -3402,8 +3402,8 @@
 							"slots": 2,
 							"spells": [
 								"{@spell call lightning}",
-								"{@spell chain heal|WC5E MoM}",
-								"{@spell earthen spike|WC5E MoM}"
+								"{@spell chain heal|WC5E Spells}",
+								"{@spell earthen spike|WC5E Spells}"
 							]
 						}
 					},
@@ -10579,7 +10579,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell lightning blast|WC5E MoM}",
+								"{@spell lightning blast|WC5E Spells}",
 								"{@spell gust|XGE}"
 							]
 						},
@@ -10597,7 +10597,7 @@
 							"spells": [
 								"{@spell dust devil|XGE}",
 								"{@spell heat metal}",
-								"{@spell lava burst|WC5E MoM}"
+								"{@spell lava burst|WC5E Spells}"
 							]
 						}
 					},
@@ -11099,7 +11099,7 @@
 						"The grell's innate spellcasting ability is Charisma (spell save {@dc 11}, {@hit 3} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell solar wrath|WC5E MoM}",
+						"{@spell solar wrath|WC5E Spells}",
 						"{@spell minor illusion}"
 					],
 					"daily": {
@@ -11413,7 +11413,7 @@
 						"0": {
 							"spells": [
 								"{@spell gust|XGE}",
-								"{@spell lightning blast|WC5E MoM}",
+								"{@spell lightning blast|WC5E Spells}",
 								"{@spell thunderclap|XGE}"
 							]
 						},
@@ -14458,7 +14458,7 @@
 							"spells": [
 								"{@spell druidcraft}",
 								"{@spell resistance}",
-								"{@spell solar wrath|WC5E MoM}"
+								"{@spell solar wrath|WC5E Spells}"
 							]
 						},
 						"1": {
@@ -14467,14 +14467,14 @@
 								"{@spell healing word}",
 								"{@spell entangle}",
 								"{@spell faerie fire}",
-								"{@spell starfire|WC5E MoM}"
+								"{@spell starfire|WC5E Spells}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
 								"{@spell barkskin}",
-								"{@spell cyclone|WC5E MoM}",
+								"{@spell cyclone|WC5E Spells}",
 								"{@spell moonbeam}"
 							]
 						},
@@ -15533,8 +15533,8 @@
 						"0": {
 							"spells": [
 								"{@spell shape water|XGE}",
-								"{@spell flurry|WC5E MoM}",
-								"{@spell lightning blast|WC5E MoM}"
+								"{@spell flurry|WC5E Spells}",
+								"{@spell lightning blast|WC5E Spells}"
 							]
 						},
 						"1": {
@@ -15557,14 +15557,14 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell blizzard|WC5E MoM}",
+								"{@spell blizzard|WC5E Spells}",
 								"{@spell tidal wave|XGE}"
 							]
 						},
 						"4": {
 							"slots": 1,
 							"spells": [
-								"{@spell amplify or dampen magic|WC5E MoM}",
+								"{@spell amplify or dampen magic|WC5E Spells}",
 								"{@spell control water}"
 							]
 						}
@@ -16165,7 +16165,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell arcane blast|WC5E MoM}",
+								"{@spell arcane blast|WC5E Spells}",
 								"{@spell blade ward}",
 								"{@spell create bonfire|XGE}",
 								"{@spell fire bolt}"
@@ -16190,7 +16190,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell arcane explosion|WC5E MoM}",
+								"{@spell arcane explosion|WC5E Spells}",
 								"{@spell glyph of warding}",
 								"{@spell haste}",
 								"{@spell slow}"
@@ -16199,7 +16199,7 @@
 						"4": {
 							"slots": 1,
 							"spells": [
-								"{@spell arcane barrage|WC5E MoM}"
+								"{@spell arcane barrage|WC5E Spells}"
 							]
 						}
 					},
@@ -16306,9 +16306,9 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell mind blast|WC5E MoM}",
+								"{@spell mind blast|WC5E Spells}",
 								"{@spell resistance}",
-								"{@spell shadow bolt|WC5E MoM}",
+								"{@spell shadow bolt|WC5E Spells}",
 								"{@spell spare the dying}"
 							]
 						},
@@ -16316,7 +16316,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell cause fear|XGE}",
-								"{@spell dark void|WC5E MoM}",
+								"{@spell dark void|WC5E Spells}",
 								"{@spell healing word}",
 								"{@spell shield of faith}"
 							]
@@ -16325,7 +16325,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell lesser restoration}",
-								"{@spell mind flay|WC5E MoM}",
+								"{@spell mind flay|WC5E Spells}",
 								"{@spell silence}"
 							]
 						},
@@ -16341,13 +16341,13 @@
 							"slots": 3,
 							"spells": [
 								"{@spell death ward}",
-								"{@spell void shift|WC5E MoM}"
+								"{@spell void shift|WC5E Spells}"
 							]
 						},
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell shadow crash|WC5E MoM}"
+								"{@spell shadow crash|WC5E Spells}"
 							]
 						}
 					},
@@ -19363,10 +19363,10 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell fel flame|WC5E MoM}",
+								"{@spell fel flame|WC5E Spells}",
 								"{@spell green-flame blade|TCE}",
 								"{@spell mage hand}",
-								"{@spell shadow bolt|WC5E MoM}"
+								"{@spell shadow bolt|WC5E Spells}"
 							]
 						},
 						"3": {
@@ -21024,8 +21024,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The skeleton is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 12}, {@hit 4} to hit with spell attacks). It requires no vocal component to cast its spells. The skeleton has the following mage spells prepared:",
-						"div style='margin-top:-12px;'></div>"
+						"The skeleton is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 12}, {@hit 4} to hit with spell attacks). It requires no vocal component to cast its spells. The skeleton has the following mage spells prepared:"
 					],
 					"spells": {
 						"0": {
@@ -23537,7 +23536,7 @@
 							"spells": [
 								"{@spell dancing lights}",
 								"{@spell druidcraft}",
-								"{@spell solar wrath|WC5E MoM}",
+								"{@spell solar wrath|WC5E Spells}",
 								"{@spell thorn whip}"
 							]
 						},
@@ -23547,7 +23546,7 @@
 								"{@spell detect magic}",
 								"{@spell detect poison and disease}",
 								"{@spell faerie fire}",
-								"{@spell starfire|WC5E MoM}"
+								"{@spell starfire|WC5E Spells}"
 							]
 						},
 						"2": {
@@ -23564,7 +23563,7 @@
 								"{@spell dispel magic}",
 								"{@spell plant growth}",
 								"{@spell protection from energy}",
-								"{@spell starsurge|WC5E MoM}"
+								"{@spell starsurge|WC5E Spells}"
 							]
 						},
 						"4": {
@@ -23589,7 +23588,7 @@
 							"spells": [
 								"{@spell druid grove|XGE}",
 								"{@spell sunbeam}",
-								"{@spell starfall|WC5E MoM}",
+								"{@spell starfall|WC5E Spells}",
 								"{@spell wall of thorns}"
 							]
 						}
@@ -24111,7 +24110,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell earth tremor|XGE}",
-								"{@spell elemental shock|WC5E MoM}",
+								"{@spell elemental shock|WC5E Spells}",
 								"{@spell chromatic orb}",
 								"{@spell absorb elements|XGE}"
 							]
@@ -24119,7 +24118,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell lava burst|WC5E MoM}",
+								"{@spell lava burst|WC5E Spells}",
 								"{@spell maximilian's earthen grasp|XGE} *"
 							]
 						},
@@ -24697,7 +24696,7 @@
 						"The grell's innate spellcasting ability is Charisma (spell save {@dc 11}, {@hit 3} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell solar wrath|WC5E MoM}",
+						"{@spell solar wrath|WC5E Spells}",
 						"{@spell minor illusion}"
 					],
 					"daily": {
