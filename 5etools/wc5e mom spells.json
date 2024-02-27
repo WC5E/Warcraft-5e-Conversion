@@ -3,8 +3,8 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "WC5E MoM",
-				"abbreviation": "WC5E MoM",
+				"json": "WC5E Spells",
+				"abbreviation": "WC5E Spells",
 				"full": "WC5E Manual of Monsters",
 				"url": "https://github.com/WC5E/Warcraft-5e-Conversion",
 				"authors": [
@@ -22,7 +22,7 @@
 	"spell": [
 		{
 			"name": "Amplify or Dampen Magic",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 4,
 			"school": "A",
@@ -75,7 +75,7 @@
 		},
 		{
 			"name": "Arcane Barrage",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 4,
 			"school": "V",
@@ -125,7 +125,7 @@
 		},
 		{
 			"name": "Arcane Blast",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 0,
 			"school": "V",
@@ -177,7 +177,7 @@
 		},
 		{
 			"name": "Arcane Explosion",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 3,
 			"school": "V",
@@ -224,7 +224,7 @@
 		},
 		{
 			"name": "Blizzard",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 3,
 			"school": "V",
@@ -278,7 +278,7 @@
 		},
 		{
 			"name": "Chain Heal",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 3,
 			"school": "V",
@@ -323,7 +323,7 @@
 		},
 		{
 			"name": "Cyclone",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 2,
 			"school": "C",
@@ -374,7 +374,7 @@
 		},
 		{
 			"name": "Dark Void",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 1,
 			"school": "V",
@@ -425,7 +425,7 @@
 		},
 		{
 			"name": "Earthen Spike",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 3,
 			"school": "T",
@@ -482,7 +482,7 @@
 		},
 		{
 			"name": "Elemental Shock",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 1,
 			"school": "V",
@@ -527,7 +527,7 @@
 		},
 		{
 			"name": "Fel Flame",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 0,
 			"school": "V",
@@ -578,7 +578,7 @@
 		},
 		{
 			"name": "Flurry",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 0,
 			"school": "V",
@@ -629,7 +629,7 @@
 		},
 		{
 			"name": "Frostfire Bolt",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 1,
 			"school": "V",
@@ -678,7 +678,7 @@
 		},
 		{
 			"name": "Lava Burst",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 2,
 			"school": "V",
@@ -726,7 +726,7 @@
 		},
 		{
 			"name": "Lightning Blast",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 0,
 			"school": "V",
@@ -767,7 +767,7 @@
 		},
 		{
 			"name": "Living Bomb",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 2,
 			"school": "V",
@@ -822,7 +822,7 @@
 		},
 		{
 			"name": "Mind Blast",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 0,
 			"school": "V",
@@ -874,7 +874,7 @@
 		},
 		{
 			"name": "Mind Flay",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 2,
 			"school": "E",
@@ -929,7 +929,7 @@
 		},
 		{
 			"name": "Shadow Bolt",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 0,
 			"school": "N",
@@ -972,7 +972,7 @@
 		},
 		{
 			"name": "Shadow Crash",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 5,
 			"school": "N",
@@ -1024,7 +1024,7 @@
 		},
 		{
 			"name": "Solar Wrath",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 0,
 			"school": "V",
@@ -1076,7 +1076,7 @@
 		},
 		{
 			"name": "Starfall",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 6,
 			"school": "V",
@@ -1132,7 +1132,7 @@
 		},
 		{
 			"name": "Starfire",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 1,
 			"school": "V",
@@ -1183,7 +1183,7 @@
 		},
 		{
 			"name": "Starsurge",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 3,
 			"school": "V",
@@ -1280,7 +1280,7 @@
 		},
 		{
 			"name": "Void Shift",
-			"source": "WC5E MoM",
+			"source": "WC5E Spells",
 			"page": 0,
 			"level": 3,
 			"school": "N",
