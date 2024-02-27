@@ -8145,7 +8145,7 @@ ___
 > ***Innate Spellcasting.*** The wretched's spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material component
 >
 > At will: *blade ward, minor illusion*
-> <br> 1/day each: *detect magic, magic missiles, shield*
+> <br> 1/day each: *detect magic, magic missile, shield*
 >
 > ***Magic Resistance.*** The wretched has advantage on saving throws against spells and other magical effects
 >
