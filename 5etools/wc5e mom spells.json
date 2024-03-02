@@ -5,19 +5,22 @@
 			{
 				"json": "WC5E Spells",
 				"abbreviation": "WC5E Spells",
-				"full": "WC5E Manual of Monsters",
-				"url": "https://github.com/WC5E/Warcraft-5e-Conversion",
+				"full": "WC5E Spells",
+				"color": "272828",
 				"authors": [
 					"WC5E Team"
 				],
 				"convertedBy": [
 					"WC5E Team",
 					"Ace"
-				]
+				],
+				"version": "3.1",
+				"url": "https://github.com/WC5E/Warcraft-5e-Conversion",
+				"targetSchema": "1.0.0"
 			}
 		],
-		"dateAdded": 1709047291,
-		"dateLastModified": 1709047291
+		"dateAdded": 1709388850,
+		"dateLastModified": 1709388850
 	},
 	"spell": [
 		{
@@ -223,6 +226,94 @@
 			]
 		},
 		{
+			"name": "Army of the Dead",
+			"source": "WC5E Spells",
+			"page": 0,
+			"level": 5,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "brain matter from a humanoid killed within the past 24 hours"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"You voice profane words, and summon an army of the dead to kill and consume everything in its path. A horde of shambling corpses appears around you, and disappears when it drops to 0 hit points or when the spell ends.",
+				"Roll initiative for the horde, which has its own turns. You cannot control the horde. It spends its turns pursing and attacking the nearest nonundead to the best of its ability. It will use its Slams action to attack and grapple creatures before moving to occupy its victims' spaces and engulf them on the next turn with its Flesh-Eating Compulsion feature. If no creatures are within its reach, the horde will use its full movement to approach any nonundead creatures it can see or hear. If no such creatures are evident, it will mindlessly follow you until targets present themselves.",
+				"When you first cast this spell, you can designate any number of creatures that you can see to be ignored by the shambling horde, and which will be unaffected by its Flesh-Eating Compulsion feature. If you stop {@status concentration||concentrating} on the spell before it reaches its full duration, the horde remains for {@dice 1d6} rounds if it still has hit points, and no longer ignores these creatures."
+			],
+			"miscTags": [
+				"SGT"
+			]
+		},
+		{
+			"name": "Asphyxiate",
+			"source": "WC5E Spells",
+			"page": 0,
+			"level": 3,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"Shadowy tendrils extend from you and swirl around the throat of a creature you can see within range. The target must make a successful Constitution saving throw or be {@condition restrained} and {@condition incapacitated} for the spells duration. While {@condition restrained} in this way, the target is unable to speak. At the end of each of its turns, the target can make another Constitution saving throw. On a success, the spell ends on the target."
+			],
+			"conditionInflict": [
+				"incapacitated",
+				"restrained"
+			],
+			"savingThrow": [
+				"constitution"
+			],
+			"miscTags": [
+				"SGT"
+			]
+		},
+		{
 			"name": "Blizzard",
 			"source": "WC5E Spells",
 			"page": 0,
@@ -318,6 +409,57 @@
 			],
 			"miscTags": [
 				"HL",
+				"SGT"
+			]
+		},
+		{
+			"name": "Corpse Explosion",
+			"source": "WC5E Spells",
+			"page": 0,
+			"level": 1,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 120
+				}
+			},
+			"components": {
+				"s": true,
+				"m": "a corpse, which the spell destroys"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"The corpse of a recently deceased creature rapidly bloats at your command and erupts in a gruesome explosion. You target the corpse of a creature that's been dead for no longer than 1 minute that you can see within range. Each creature within 5 feet of that corpse must make a Dexterity saving throw. A target takes {@damage 2d6} necrotic damage on a failed save, or half as much damage on a successful one. The radius of the explosion increases by 5 feet for every size category of the corpse above Medium.",
+				"A corpse detonated in this way is destroyed and cannot be raised or resurrected by any ability that requires a com&shy;plete corpse. Not all creatures leave a corpse; construts and oozes almost never do, neither do incorporeal undead."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 2nd level or higher, the damage increases by {@dice 2d6} for each slot level above 1st."
+					]
+				}
+			],
+			"damageInflict": [
+				"necrotic"
+			],
+			"savingThrow": [
+				"dexterity"
+			],
+			"miscTags": [
 				"SGT"
 			]
 		},
@@ -421,6 +563,168 @@
 			],
 			"miscTags": [
 				"HL"
+			]
+		},
+		{
+			"name": "Death and Decay",
+			"source": "WC5E Spells",
+			"page": 0,
+			"level": 4,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"You reach out towards a point you can see within range, creating a 20-foot radius sphere filled with festering, necro&shy;tic energy that withers and decays everything within it. When a creature enters the blighted area for the first time on a turn or starts its turn there, it must make a Constitu&shy;tion saving throw. On a failed save, the creature takes {@damage 4d8} necrotic damage. In addition, until the beginning of its next turn, the creature subtracts {@dice 1d4} from all of its attack rolls and saving throws, as if under the effect of the bane spell. On a successful save, the creature takes half as much damage, and suffers no additional effects.",
+				"Undead creatures in the spell's area take no damage, and are bolstered by its necrotic power. While standing in the spell's area, undead creatures add {@dice 1d4} to their attack rolls and saving throws, as if under the effect of a bless spell."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 5th level or higher, the damage increases by {@dice 1d8} for each slot level above 4th."
+					]
+				}
+			],
+			"damageInflict": [
+				"necrotic"
+			],
+			"miscTags": [
+				"SGT"
+			]
+		},
+		{
+			"name": "Diabolism",
+			"source": "WC5E Spells",
+			"page": 0,
+			"level": 0,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1,
+						"upTo": true
+					}
+				}
+			],
+			"entries": [
+				"This spell channels a small amount of dark energy. You create one of the following magical effects within range:",
+				{
+					"type": "list",
+					"items": [
+						"Choose a point within 30 feet. In a 5-foot radius of that point, bright light becomes dim light, and dim light becomes darkness for 1 hour. Any light sources within the area have the light they produce suppressed for the duration.",
+						"An object up to 1 cubic foot in size or an area up to 1 square foot that you touch lightly decays. Wood rots, glass cracks, flowers wilt. Casting the spell and then continuing to touch the target advances the decay; after 1 minute, the target is destroyed. This spell cannot affect creatures, magical objects, or sturdy materials like metal and stone.",
+						"You can reanimate a Tiny 0 CR beast for 1 hour. It is undead and obeys all of your commands to the best of it's abilities, though it cannot attack. You cannot use this effect again until the reanimated creature dies, or the effect ends.",
+						"You instantaneously light a candle, torch, or small campfire. The fire glows your choice of a smoldering red, bright green, or shadowy purple until extinguished.",
+						"Your fingertip glows green or purple for up to 1 minute. While it glows, you can use your finger to draw glowing lines of the same color on a solid surface that last for 1 hour."
+					]
+				},
+				"If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action."
+			],
+			"miscTags": [
+				"LGT",
+				"OBJ"
+			]
+		},
+		{
+			"name": "Drain Life",
+			"source": "WC5E Spells",
+			"page": 0,
+			"level": 1,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"You cause a green stream of energy to trail from the target creature's eyes and mouth and into your hand, forming a continuous stream of energy to bind you two together.",
+				"Make a ranged spell attack against that creature. On a hit, the target takes {@damage 1d8} necrotic damage, and on each of your subsequent turns for the duration, you can use your bonus action to deal {@damage 1d8} necrotic damage to the target automatically. Each time the target takes damage from this spell, you regain a number of hit points equal to half the damage dealt and their maximum hit point total is reduced by the same amount. This reduction lasts until they finish a long rest.",
+				"On a miss, you can spend your action on subsequent turns within the spell's duration to make another ranged spell attack against the same creature. The spell ends if you use your action to do anything else.",
+				"The spell ends if your target is more than 30 feet away from you or has total cover from you at the end of your turn. This spell has no effect on the creature if they are a construct or undead."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels:",
+					"entries": [
+						"When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by {@dice 1d8} for each slot level above 1st. The damage dealt as a bonus action also increases by {@dice 1d8} for every two slot levels above 1st."
+					]
+				}
+			],
+			"damageInflict": [
+				"necrotic"
+			],
+			"spellAttack": [
+				"R"
+			],
+			"miscTags": [
+				"HL",
+				"UBA"
 			]
 		},
 		{
@@ -674,6 +978,138 @@
 			],
 			"spellAttack": [
 				"R"
+			]
+		},
+		{
+			"name": "Glacial Spike",
+			"source": "WC5E Spells",
+			"page": 0,
+			"level": 7,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 120
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"You form a large spike of ice above your head, and launch it at a creature that you can see within range, causing it to shatter across their body. The target must make a Dexterity saving throw. It takes {@damage 8d8 + 40} cold damage on a failed save, or half as much damage on a successful one.",
+				"If this damage reduces a creature to 0 hit points, it is reduced to shards of ice, leaving behind everything it was wearing and carrying. The creature can be restored to life only by means of a true resurrection or a wish spell."
+			],
+			"damageInflict": [
+				"cold"
+			],
+			"savingThrow": [
+				"dexterity"
+			],
+			"miscTags": [
+				"HL",
+				"SGT"
+			]
+		},
+		{
+			"name": "Ice Block",
+			"source": "WC5E Spells",
+			"page": 0,
+			"level": 4,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "reaction",
+					"condition": "when you take damage"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"Ice rapidly materializes around you, protecting you from harm. You gain 40 temporary hit points and immunity to cold damage for the spells duration. While the spell is active you can't move and take any actions or reactions. The spell remains until the temporary hit points have been expended or for the spell's duration."
+			],
+			"miscTags": [
+				"THP"
+			]
+		},
+		{
+			"name": "Ice Nova",
+			"source": "WC5E Spells",
+			"page": 0,
+			"level": 8,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 120
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "glass dust and water"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"Frigid cold rapidly expands in a 15-foot-radius centered on a point you you can see within range. Each creature in the cold must succeed on a Dexterity saving throw. On a failed save, a creature takes {@damage 10d6} cold damage and is {@condition restrained} for 1 minute as ice encases the lower part of their legs. On a successful save, it takes half as much damage and isn't {@condition restrained} by this spell.",
+				"A creature {@condition restrained} by the ice can use its action to make a Strength check against your spell save DC. On a success, it frees itself. Alternatively, the ice can be broken by dealing a total of 40 hit points worth of damage to it. It has an armor class of 10."
+			],
+			"damageInflict": [
+				"cold"
+			],
+			"conditionInflict": [
+				"restrained"
+			],
+			"savingThrow": [
+				"dexterity"
+			],
+			"abilityCheck": [
+				"strength"
+			],
+			"miscTags": [
+				"SGT"
 			]
 		},
 		{

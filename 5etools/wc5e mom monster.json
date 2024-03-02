@@ -19,9 +19,10 @@
 				"targetSchema": "1.0.0"
 			}
 		],
-		"dateAdded": 1709378032,
-		"dateLastModified": 1709378032
+		"dateAdded": 1709388767,
+		"dateLastModified": 1709388767
 	},
+	
 	"monster": [
 		{
 			"name": "Abominable Yeti",
@@ -5843,7 +5844,7 @@
 					"name": "Wraith Walk",
 					"entries": [
 						"The Deathcharger and its rider magically enter the Ethereal Plane from the Material Plane, or vice versa.",
-						"Greater Steed Variant: Deathknights can summon a deathcharger via the ***find greater steed*** spell. When a deathcharger is summoned through the spell it loses the extra attack from ***trampleing charge*** when a target is {@condition prone}, also its ***wraith walk*** ability can only be used 3 times per long rest and only lasts until the start of its next turn."
+						"Greater Steed Variant: Deathknights can summon a deathcharger via the {@spell find greater steed} spell. When a deathcharger is summoned through the spell it loses the extra attack from {b {@i trampleing charge}} when a target is {@condition prone}, also its {@b {@i wraith walk}} ability can only be used 3 times per long rest and only lasts until the start of its next turn."
 					]
 				}
 			],
@@ -5853,62 +5854,28 @@
 			"languageTags": [
 				"CS"
 			],
-			"damageTags": [
-				"B",
-				"N"
-			],
 			"miscTags": [
 				"MW"
 			],
 			"conditionInflict": [
 				"prone"
 			],
-			"savingThrowForced": [
-				"strength"
-			]
-		},
-		{
-			"name": "Deer",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				13
-			],
-			"hp": {
-				"average": 4,
-				"formula": "1d8"
-			},
-			"speed": {
-				"walk": 50
-			},
-			"str": 11,
-			"dex": 16,
-			"con": 11,
-			"int": 2,
-			"wis": 14,
-			"cha": 5,
-			"passive": 12,
-			"cr": "0",
-			"action": [
+			"variant": [
 				{
-					"name": "Bite",
+					"name": "Greater Steed",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}1 piercing damage."
-					]
+						"The Deathcharger and its rider magically enter the Ethereal Plane from the Material Plane, or vice versa.",
+						"Greater Steed Variant: Deathknights can summon a deathcharger via the {@spell find greater steed} spell. When a deathcharger is summoned through the spell it loses the extra attack from {b {@i trampleing charge}} when a target is {@condition prone}, also its {@b {@i wraith walk}} ability can only be used 3 times per long rest and only lasts until the start of its next turn."
+					],
+					"type": "variant"
 				}
 			],
 			"damageTags": [
-				"P"
+				"B",
+				"N"
 			],
-			"miscTags": [
-				"MW"
+			"savingThrowForced": [
+				"strength"
 			]
 		},
 		{
@@ -6516,6 +6483,175 @@
 			],
 			"savingThrowForced": [
 				"strength"
+			]
+		},
+		{
+			"name": "Doomskull",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"T"
+			],
+			"type": "undead",
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				15
+			],
+			"hp": {
+				"average": 54,
+				"formula": "12d4 + 24"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 40,
+					"condition": "(hover)"
+				},
+				"canHover": true
+			},
+			"str": 1,
+			"dex": 17,
+			"con": 14,
+			"int": 16,
+			"wis": 10,
+			"cha": 11,
+			"skill": {
+				"arcana": "+5",
+				"perception": "+2"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 12,
+			"resist": [
+				"necrotic",
+				"piercing"
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"paralyzed",
+				"poisoned",
+				"prone"
+			],
+			"languages": [
+				"common"
+			],
+			"cr": "4",
+			"spellcasting": [
+				{
+					"name": "Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The doomskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It requires no somatic or material components to cast its spells. The doomskull has the following mage and warlock spells prepared:"
+					],
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell mage hand}",
+								"{@spell shadow bolt|WC5E Spells}"
+							]
+						},
+						"1": {
+							"slots": 3,
+							"spells": [
+								"{@spell hex}",
+								"{@spell magic missile}",
+								"{@spell shield}"
+							]
+						},
+						"2": {
+							"slots": 2,
+							"spells": [
+								"{@spell blur}",
+								"{@spell phantasmal force}",
+								"{@spell ray of enfeeblement}"
+							]
+						},
+						"3": {
+							"slots": 1,
+							"spells": [
+								"{@spell bestow curse}",
+								"{@spell enemies abound|XGE}"
+							]
+						}
+					},
+					"ability": "int"
+				}
+			],
+			"trait": [
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The doomskull has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Swift caster",
+					"entries": [
+						"The doomskull can use a bonus action to cast a cantrip, even if it casts a spell using its action."
+					]
+				},
+				{
+					"name": "Vacant Size",
+					"entries": [
+						"The doomskull can occupy another creature's space and vice versa."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 0 ft., one target. {@h}5 ({@damage 1d4 + 3}) bludgeoning damage."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Curse of Doom",
+					"entries": [
+						"When the doomskull is reduced to 0 hit points from taking damage caused by another creature, it utters some incomprehensible words to curse the creature with doom. The creature has to make a {@dc 13} Wisdom saving throw or gain one level of {@condition exhaustion} and become cursed. While cursed the creature cannot reduce its {@condition exhaustion} level. Undead and constructs are immune to the curse."
+					]
+				}
+			],
+			"traitTags": [
+				"Magic Resistance"
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"B"
+			],
+			"damageTagsSpell": [
+				"N",
+				"O",
+				"Y"
+			],
+			"spellcastingTags": [
+				"CL"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"conditionInflict": [
+				"exhaustion"
+			],
+			"savingThrowForced": [
+				"wisdom"
+			],
+			"savingThrowForcedSpell": [
+				"constitution",
+				"intelligence",
+				"wisdom"
 			]
 		},
 		{
@@ -7989,6 +8125,795 @@
 			}
 		},
 		{
+			"name": "Frostbrood Dragon",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": "dragon",
+			"alignment": [
+				"L",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 17,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 172,
+				"formula": "15d12 + 75"
+			},
+			"speed": {
+				"walk": 40,
+				"fly": 80
+			},
+			"str": 22,
+			"dex": 11,
+			"con": 21,
+			"int": 22,
+			"wis": 15,
+			"cha": 18,
+			"save": {
+				"dex": "+6",
+				"con": "+11",
+				"int": "+12",
+				"cha": "+10"
+			},
+			"skill": {
+				"arcana": "+17",
+				"perception": "+8"
+			},
+			"senses": [
+				"blindsight 10 ft.",
+				"darkvision 60 ft."
+			],
+			"passive": 18,
+			"resist": [
+				"necrotic"
+			],
+			"immune": [
+				"cold",
+				"force",
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"paralyzed",
+				"poisoned"
+			],
+			"languages": [
+				"Common",
+				"Draconic"
+			],
+			"cr": "17",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The dragon's innate spellcasting ability is Intelligence (spell save {@dc 20}, {@hit 12} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
+					],
+					"will": [
+						"{@spell diabolism|WC5E Spells}",
+						"{@spell flurry|WC5E Spells}",
+						"{@spell shape water|XGE}",
+						"{@spell sleet storm}"
+					],
+					"daily": {
+						"3e": [
+							"{@spell blizzard|WC5E Spells}",
+							"{@spell dispel magic}",
+							"{@spell fog cloud}",
+							"{@spell ray of enfeeblement}"
+						],
+						"1e": [
+							"{@spell shadow of moil|XGE}",
+							"{@spell wall of ice}"
+						]
+					},
+					"ability": "int"
+				}
+			],
+			"trait": [
+				{
+					"name": "Frost Aura",
+					"entries": [
+						"A creature who ends their turn within 15 feet of the dragon or strikes it with a melee attack takes 13 ({@damage 3d8}) cold damage."
+					]
+				},
+				{
+					"name": "Ice Walk",
+					"entries": [
+						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/Day)",
+					"entries": [
+						"If the dragon fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				{
+					"name": "Magical Ice",
+					"entries": [
+						"Creatures killed by a frostbrood dragon's cold become a frozen statue until they thaw.",
+						"Ice made by frost wyrms is magical and will not melt without magical assistance."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The dragon can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 12} to hit, reach 10 ft., one target. {@h}17 ({@damage 2d10 + 6}) piercing damage plus 13 ({@damage 3d8}) cold damage."
+					]
+				},
+				{
+					"name": "Claw",
+					"entries": [
+						"{@atk mw} {@hit 12} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d6 + 6}) slashing damage."
+					]
+				},
+				{
+					"name": "Tail Sweep",
+					"entries": [
+						"{@atk mw} {@hit 12} to hit, reach 15 ft., all targets in reach. {@h}15 ({@damage 2d8 + 6}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Frightful Presence",
+					"entries": [
+						"Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a {@dc 18} Wisdom saving throw or become {@condition frightened} for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours."
+					]
+				},
+				{
+					"name": "Frost Breath {@recharge 5}",
+					"entries": [
+						"The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a {@dc 18} Dexterity saving throw, taking 36 ({@damage 8d8}) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute. If they fail their save by 5 or more, they are also entombed in ice.",
+						"While entombed, they have total cover and are {@condition restrained} and {@condition incapacitated}. At the beginning of their turn, they take 13 ({@damage 3d8}) cold damage and can attempt a {@dc 18} Strength check, breaking free from the ice on a success. The ice can be attacked and destroyed (AC 10; hp equal to cold damage taken by the breath weapon; vulnerability to fire damage; immunity to cold, poison, and psychic damage)."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Icy Grip",
+					"entries": [
+						"Each creature within 40 feet of the dragon must make a {@dc 20} Strength saving throw or be pulled to the closest unoccupied space next to the dragon."
+					]
+				},
+				{
+					"name": "Sleet Storm",
+					"entries": [
+						"The dragon casts *sleet storm*."
+					]
+				},
+				{
+					"name": "Ice Tomb (Costs 2 Actions)",
+					"entries": [
+						"A creature the dragon can see within 60 feet must make a {@dc 20} Dexterity saving throw or become entombed in ice, as if they were affected by Frost Breath (30 hit points). On a successful save, they instead have their speed halved and cannot take reactions until the dragon's next turn."
+					]
+				},
+				{
+					"name": "Wing Attack (Costs 2 Actions)",
+					"entries": [
+						"The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a {@dc 20} Dexterity saving throw or take 13 ({@damage 2d6 + 6}) bludgeoning damage and be knocked {@condition prone}. The dragon can then fly up to half its flying speed."
+					]
+				}
+			],
+			"traitTags": [
+				"Legendary Resistances"
+			],
+			"senseTags": [
+				"B",
+				"D"
+			],
+			"actionTags": [
+				"Breath Weapon",
+				"Frightful Presence",
+				"Multiattack"
+			],
+			"languageTags": [
+				"C",
+				"DR"
+			],
+			"damageTags": [
+				"B",
+				"C",
+				"P",
+				"S"
+			],
+			"damageTagsSpell": [
+				"C",
+				"N"
+			],
+			"spellcastingTags": [
+				"I"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH"
+			],
+			"conditionInflict": [
+				"frightened",
+				"prone"
+			],
+			"conditionInflictSpell": [
+				"prone"
+			],
+			"savingThrowForced": [
+				"dexterity",
+				"strength",
+				"wisdom"
+			],
+			"savingThrowForcedSpell": [
+				"constitution",
+				"dexterity"
+			]
+		},
+		{
+			"name": "Frostbrood Drake",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "dragon",
+			"alignment": [
+				"L",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 127,
+				"formula": "15d10 + 45"
+			},
+			"speed": {
+				"walk": 40,
+				"fly": 80
+			},
+			"str": 18,
+			"dex": 11,
+			"con": 17,
+			"int": 18,
+			"wis": 13,
+			"cha": 16,
+			"save": {
+				"dex": "+4",
+				"con": "+7",
+				"int": "+8",
+				"cha": "+7"
+			},
+			"skill": {
+				"arcana": "+11",
+				"perception": "+5"
+			},
+			"senses": [
+				"blindsight 10 ft.",
+				"darkvision 60 ft."
+			],
+			"passive": 15,
+			"resist": [
+				"necrotic"
+			],
+			"immune": [
+				"cold",
+				"force",
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"paralyzed",
+				"poisoned"
+			],
+			"languages": [
+				"Common",
+				"Draconic"
+			],
+			"cr": "9",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The drake's innate spellcasting ability is Intelligence (spell save {@dc 16}, {@hit 8} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
+					],
+					"will": [
+						"{@spell diabolism|WC5E Spells}",
+						"{@spell flurry|WC5E Spells}",
+						"{@spell shape water|XGE}"
+					],
+					"daily": {
+						"3e": [
+							"{@spell blizzard|WC5E Spells}",
+							"{@spell dispel magic}",
+							"{@spell fog cloud}",
+							"{@spell ray of enfeeblement}",
+							"{@spell sleet storm}"
+						]
+					},
+					"ability": "int"
+				}
+			],
+			"trait": [
+				{
+					"name": "Frost Aura",
+					"entries": [
+						"A creature who ends their turn within 10 feet of the drake or strikes it with a melee attack takes 9 ({@damage 2d8}) cold damage."
+					]
+				},
+				{
+					"name": "Ice Walk",
+					"entries": [
+						"The drake can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The drake makes two attacks: one with its bite and one with its claws."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 10 ft., one target. {@h}15 ({@damage 2d10 + 4}) piercing damage plus 9 ({@damage 2d8}) cold damage."
+					]
+				},
+				{
+					"name": "Claw",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing damage."
+					]
+				},
+				{
+					"name": "Frost Breath {@recharge 5}",
+					"entries": [
+						"The drake exhales an icy blast in a 30-foot cone. Each creature in that area must make a {@dc 16} Dexterity saving throw, taking 31 ({@damage 7d8}) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute. If they fail their save by 5 or more, they are also entombed in ice.",
+						"While entombed, they have total cover and are {@condition restrained} and {@condition incapacitated}. At the beginning of their turn, they take 9 ({@damage 2d8}) cold damage and can attempt a {@dc 16} Strength check, breaking free from the ice on a success. The ice can be attacked and destroyed (AC 10; hp equal to cold damage taken by the breath weapon; vulnerability to fire damage; immunity to cold, poison, and psychic damage)."
+					]
+				}
+			],
+			"senseTags": [
+				"B",
+				"D"
+			],
+			"actionTags": [
+				"Breath Weapon",
+				"Multiattack"
+			],
+			"languageTags": [
+				"C",
+				"DR"
+			],
+			"damageTags": [
+				"C",
+				"P",
+				"S"
+			],
+			"damageTagsSpell": [
+				"C"
+			],
+			"spellcastingTags": [
+				"I"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH"
+			],
+			"conditionInflictSpell": [
+				"prone"
+			],
+			"savingThrowForced": [
+				"dexterity"
+			],
+			"savingThrowForcedSpell": [
+				"constitution",
+				"dexterity"
+			]
+		},
+		{
+			"name": "Frostbrood Whelp",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"S"
+			],
+			"type": "undead",
+			"alignment": [
+				"L",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 31,
+				"formula": "7d6 + 7"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": 60
+			},
+			"str": 14,
+			"dex": 11,
+			"con": 13,
+			"int": 14,
+			"wis": 11,
+			"cha": 14,
+			"save": {
+				"dex": "+2",
+				"con": "+3",
+				"int": "+4",
+				"cha": "+4"
+			},
+			"skill": {
+				"arcana": "+6",
+				"perception": "+2"
+			},
+			"senses": [
+				"blindsight 10 ft.",
+				"darkvision 60 ft."
+			],
+			"passive": 12,
+			"resist": [
+				"necrotic"
+			],
+			"immune": [
+				"cold",
+				"force",
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"paralyzed",
+				"poisoned"
+			],
+			"languages": [
+				"Common",
+				"Draconic"
+			],
+			"cr": "3",
+			"trait": [
+				{
+					"name": "Frost Aura",
+					"entries": [
+						"A creature who ends their turn within 5 feet of the whelp or strikes it with a melee attack takes 4 ({@damage 1d8}) cold damage."
+					]
+				},
+				{
+					"name": "Magical Ice",
+					"entries": [
+						"Creatures killed by a frostbrood dragon's cold become a frozen statue until they thaw.",
+						"Ice made by frost wyrms is magical and will not melt without magical assistance."
+					]
+				},
+				{
+					"name": "Ice Walk",
+					"entries": [
+						"The whelp can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d10 + 2}) piercing damage plus 4 ({@damage 1d8}) cold damage."
+					]
+				},
+				{
+					"name": "Frost Breath {@recharge 5}",
+					"entries": [
+						"The whelp exhales an icy blast in a 15-foot cone. Each creature in that area must make a {@dc 13} Dexterity saving throw, taking 18 ({@damage 4d8}) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute."
+					]
+				}
+			],
+			"senseTags": [
+				"B",
+				"D"
+			],
+			"actionTags": [
+				"Breath Weapon"
+			],
+			"languageTags": [
+				"C",
+				"DR"
+			],
+			"damageTags": [
+				"C",
+				"P"
+			],
+			"miscTags": [
+				"AOE",
+				"MW"
+			],
+			"savingThrowForced": [
+				"dexterity"
+			]
+		},
+		{
+			"name": "Frostbrood Wyrm",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"G"
+			],
+			"type": "dragon",
+			"alignment": [
+				"L",
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 18,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 350,
+				"formula": "20d20 + 140"
+			},
+			"speed": {
+				"walk": 40,
+				"fly": 80
+			},
+			"str": 26,
+			"dex": 11,
+			"con": 25,
+			"int": 26,
+			"wis": 17,
+			"cha": 20,
+			"save": {
+				"dex": "+7",
+				"con": "+14",
+				"int": "+15",
+				"cha": "+12"
+			},
+			"skill": {
+				"arcana": "+22",
+				"perception": "+10"
+			},
+			"senses": [
+				"blindsight 10 ft.",
+				"darkvision 60 ft."
+			],
+			"passive": 20,
+			"resist": [
+				"necrotic"
+			],
+			"immune": [
+				"cold",
+				"force",
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"paralyzed",
+				"poisoned"
+			],
+			"languages": [
+				"Common",
+				"Draconic"
+			],
+			"cr": "23",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The wyrm's innate spellcasting ability is Intelligence (spell save {@dc 23}, {@hit 15} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
+					],
+					"will": [
+						"{@spell diabolism|WC5E Spells}",
+						"{@spell flurry|WC5E Spells}",
+						"{@spell shape water|XGE}",
+						"{@spell sleet storm}"
+					],
+					"daily": {
+						"3e": [
+							"{@spell blizzard|WC5E Spells}",
+							"{@spell dispel magic}",
+							"{@spell fog cloud}",
+							"{@spell ray of enfeeblement}",
+							"{@spell wall of ice}"
+						],
+						"1e": [
+							"{@spell antimagic field}",
+							"{@spell shadow of moil|XGE}",
+							"{@spell ice nova|WC5E Spells}"
+						]
+					},
+					"ability": "int"
+				}
+			],
+			"trait": [
+				{
+					"name": "Frost Aura",
+					"entries": [
+						"A creature who ends their turn within 20 feet of the wyrm or strikes it with a melee attack takes 18 ({@damage 4d8}) cold damage."
+					]
+				},
+				{
+					"name": "Ice Walk",
+					"entries": [
+						"The wyrm can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/Day)",
+					"entries": [
+						"If the wyrm fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				{
+					"name": "Magical Ice",
+					"entries": [
+						"Creatures killed by a frostbrood dragon's cold become a frozen statue until they thaw.",
+						"Ice made by frost wyrms is magical and will not melt without magical assistance."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The wyrm can use its Frightful Presence. It then makes two attacks: one with its bite and one with its claws."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 15} to hit, reach 15 ft., one target. {@h}19 ({@damage 2d10 + 8}) piercing damage plus 18 ({@damage 4d8}) cold damage."
+					]
+				},
+				{
+					"name": "Claw",
+					"entries": [
+						"{@atk mw} {@hit 15} to hit, reach 10 ft., one target. {@h}15 ({@damage 2d6 + 8}) slashing damage."
+					]
+				},
+				{
+					"name": "Tail Sweep",
+					"entries": [
+						"{@atk mw} {@hit 15} to hit, reach 20 ft., all targets in reach. {@h}17 ({@damage 2d8 + 8}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Frightful Presence",
+					"entries": [
+						"Each creature of the wyrm's choice that is within 120 feet of the wyrm and aware of it must succeed on a {@dc 20} Wisdom saving throw or become {@condition frightened} for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the wyrm's Frightful Presence for the next 24 hours."
+					]
+				},
+				{
+					"name": "Frost Breath {@recharge 5}",
+					"entries": [
+						"The wyrm exhales an icy blast in a 90-foot cone. Each creature in that area must make a {@dc 22} Dexterity saving throw, taking 52 ({@damage 12d8}) cold damage on a failed save, or half as much damage on a successful one. A creature who fails their saving throw has their movement speed halved and can't take reactions for 1 minute. If they fail their save by 5 or more, they are also entombed in ice.",
+						"While entombed, they have total cover and are {@condition restrained} and {@condition incapacitated}. At the beginning of their turn, they take 18 ({@damage 4d8}) cold damage and can attempt a {@dc 22} Strength check, breaking free from the ice on a success. The ice can be attacked and destroyed (AC 10; hp equal to cold damage taken by the breath weapon; vulnerability to fire damage; immunity to cold, poison, and psychic damage)."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Icy Grip",
+					"entries": [
+						"Each creature within 60 feet of the wyrm must make a {@dc 23} Strength saving throw or be pulled to the closest unoccupied space next to the dragon."
+					]
+				},
+				{
+					"name": "Sleet Storm",
+					"entries": [
+						"The wyrm casts *sleet storm*."
+					]
+				},
+				{
+					"name": "Ice Tomb (Costs 2 Actions)",
+					"entries": [
+						"A creature the wyrm can see within 60 feet must make a {@dc 23} Dexterity saving throw or become entombed in ice, as if they were affected by Frost Breath (50 hit points). On a successful save, they instead have their speed halved and cannot take reactions until the dragon's next turn."
+					]
+				},
+				{
+					"name": "Wing Attack (Costs 2 Actions)",
+					"entries": [
+						"The wyrm beats its wings. Each creature within 15 feet of the wyrm must succeed on a {@dc 23} Dexterity saving throw or take 15 ({@damage 2d6 + 8}) bludgeoning damage and be knocked {@condition prone}. The wyrm can then fly up to half its flying speed."
+					]
+				},
+				{
+					"name": "Breath Weapon (Costs 3 Actions)",
+					"entries": [
+						"The wyrm uses its breath weapon, if it is available."
+					]
+				}
+			],
+			"traitTags": [
+				"Legendary Resistances"
+			],
+			"senseTags": [
+				"B",
+				"D"
+			],
+			"actionTags": [
+				"Breath Weapon",
+				"Frightful Presence",
+				"Multiattack"
+			],
+			"languageTags": [
+				"C",
+				"DR"
+			],
+			"damageTags": [
+				"B",
+				"C",
+				"P",
+				"S"
+			],
+			"damageTagsSpell": [
+				"C",
+				"N"
+			],
+			"spellcastingTags": [
+				"I"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH"
+			],
+			"conditionInflict": [
+				"frightened",
+				"prone"
+			],
+			"conditionInflictSpell": [
+				"prone",
+				"restrained"
+			],
+			"savingThrowForced": [
+				"dexterity",
+				"strength",
+				"wisdom"
+			],
+			"savingThrowForcedSpell": [
+				"constitution",
+				"dexterity"
+			]
+		},
+		{
 			"name": "Furbolg",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -8411,6 +9336,101 @@
 			],
 			"damageTags": [
 				"P"
+			],
+			"miscTags": [
+				"MW"
+			]
+		},
+		{
+			"name": "Geist",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": "undead",
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"average": 31,
+				"formula": "7d8 + 0"
+			},
+			"speed": {
+				"walk": 35
+			},
+			"str": 10,
+			"dex": 14,
+			"con": 10,
+			"int": 6,
+			"wis": 10,
+			"cha": 5,
+			"skill": {
+				"acrobatics": "+4"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"poisoned"
+			],
+			"languages": [
+				"the languages it knew in life."
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Hangman's Rope",
+					"entries": [
+						"The geist has disadvantage on ability checks to contest or escape a grapple."
+					]
+				},
+				{
+					"name": "One Eyed",
+					"entries": [
+						"The geist has disadvantage on perception checks that rely on sight."
+					]
+				},
+				{
+					"name": "Standing Leap",
+					"entries": [
+						"The geist's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start. If the geist jumps atleast 15 feet towards a creature, it has advantage on its next attack against the creature until the end of its turn."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The geist makes three claw attacks."
+					]
+				},
+				{
+					"name": "Claw",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) slashing damage."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"LF"
+			],
+			"damageTags": [
+				"S"
 			],
 			"miscTags": [
 				"MW"
@@ -11587,6 +12607,188 @@
 			]
 		},
 		{
+			"name": "Grand Necrolyte",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"any"
+				]
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				12,
+				{
+					"ac": 15,
+					"condition": "with {@spell mage armor}",
+					"braces": true
+				}
+			],
+			"hp": {
+				"formula": "17d8 + 34 + 1d4 + 4",
+				"average": 118
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 8,
+			"dex": 14,
+			"con": 14,
+			"int": 20,
+			"wis": 13,
+			"cha": 13,
+			"save": {
+				"int": "+8",
+				"wis": "+4",
+				"cha": "+4"
+			},
+			"skill": {
+				"arcana": "+8"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 11,
+			"resist": [
+				"necrotic",
+				"poison"
+			],
+			"languages": [
+				"common"
+			],
+			"cr": "8",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The necrolyte's innate spellcasting ability is Intelligence. It can innately cast the following spells (spell save {@dc 16}), requiring no material components:"
+					],
+					"will": [
+						"{@spell disguise self}",
+						"{@spell false life}",
+						"{@spell mage armor} (self only)"
+					],
+					"daily": {
+						"1": [
+							"{@spell animate dead}"
+						]
+					},
+					"ability": "int"
+				},
+				{
+					"name": "Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The necrolyte is a 11th-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 16}, {@hit 8} to hit with spell attacks). The necrolyte regains its expended spell slots when it finishes a short or long rest, and knows the following priest and warlock spells:"
+					],
+					"daily": {
+						"1": [
+							"{@spell create Undead}"
+						]
+					},
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell chill touch}",
+								"{@spell diabolism|WC5E Spells}",
+								"{@spell mind blast|WC5E Spells}",
+								"{@spell resistance}",
+								"{@spell sapping sting|EGW}",
+								"{@spell toll the dead|XGE}"
+							]
+						},
+						"5": {
+							"spells": [
+								"{@spell blindness/deafness}",
+								"{@spell danse macabre|XGE}",
+								"{@spell dark void|WC5E Spells}",
+								"{@spell drain life|WC5E Spells}",
+								"{@spell enervation|XGE}",
+								"{@spell fear}",
+								"{@spell guiding bolt} (necrotic damage)",
+								"{@spell hunger of hadar}",
+								"{@spell ray of enfeeblement}",
+								"{@spell speak with dead}",
+								"{@spell vampiric touch}",
+								"{@spell void shift|WC5E Spells}"
+							],
+							"slots": 3,
+							"lower": 1
+						}
+					},
+					"footerEntries": [
+						"creatures under the necrolyte's command don't have to be willing."
+					],
+					"ability": "int"
+				}
+			],
+			"trait": [
+				{
+					"name": "Corpse Shield",
+					"entries": [
+						"As long as there is a undead creature under the command of the necrolyte within 60 feet of it that it can see, it can split up to half of the damage it takes among its undead minions."
+					]
+				},
+				{
+					"name": "Focused Mind",
+					"entries": [
+						"The necrolyte advantage on Constitution saving throws that it make to maintain its {@status concentration} on a spell."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Dagger",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. *Hit:*, 4 ({@damage 1d4 + 2}) slashing damage."
+					]
+				}
+			],
+			"attachedItems": [
+				"dagger|phb"
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"S"
+			],
+			"damageTagsSpell": [
+				"A",
+				"C",
+				"N",
+				"R"
+			],
+			"spellcastingTags": [
+				"CL",
+				"I"
+			],
+			"miscTags": [
+				"MLW",
+				"MW"
+			],
+			"conditionInflictSpell": [
+				"blinded",
+				"deafened",
+				"frightened",
+				"incapacitated",
+				"prone"
+			],
+			"savingThrowForcedSpell": [
+				"constitution",
+				"dexterity",
+				"wisdom"
+			]
+		},
+		{
 			"name": "Greater Abomination",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -13945,6 +15147,301 @@
 			],
 			"savingThrowForced": [
 				"constitution"
+			]
+		},
+		{
+			"name": "Lich",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "undead",
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 97,
+				"formula": "13d10 + 26"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 11,
+			"dex": 14,
+			"con": 14,
+			"int": 20,
+			"wis": 16,
+			"cha": 15,
+			"save": {
+				"con": "+7",
+				"int": "+9",
+				"wis": "+8"
+			},
+			"skill": {
+				"arcana": "+14",
+				"insight": "+8",
+				"perception": "+8"
+			},
+			"senses": [
+				"truesight 120 ft."
+			],
+			"passive": 18,
+			"resist": [
+				"cold",
+				"necrotic",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone"
+			],
+			"languages": [
+				"the languages it knew in life."
+			],
+			"cr": "14",
+			"spellcasting": [
+				{
+					"name": "Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The lich is a 14th-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 18}, {@hit 10} to hit with spell attacks). The lich has the following death knight and mage spells prepared:"
+					],
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell chill touch}",
+								"{@spell sapping sting|EGW}",
+								"{@spell frostbite|XGE}",
+								"{@spell flurry|WC5E Spells}",
+								"{@spell prestidigitation}"
+							]
+						},
+						"1": {
+							"slots": 4,
+							"spells": [
+								"{@spell cause fear|XGE}",
+								"{@spell corpse explosion|WC5E Spells}",
+								"{@spell drain life|WC5E Spells}",
+								"{@spell false life}"
+							]
+						},
+						"2": {
+							"slots": 3,
+							"spells": [
+								"{@spell blindness/deafness}",
+								"{@spell crown of madness}",
+								"{@spell ray of enfeeblement}"
+							]
+						},
+						"3": {
+							"slots": 3,
+							"spells": [
+								"{@spell animate dead}",
+								"{@spell asphyxiate|WC5E Spells}",
+								"{@spell blizzard|WC5E Spells}",
+								"{@spell counterspell}",
+								"{@spell speak with dead}",
+								"{@spell summon undead|TCE}"
+							]
+						},
+						"4": {
+							"slots": 3,
+							"spells": [
+								"{@spell ice block|WC5E Spells}",
+								"{@spell death and decay|WC5E Spells}",
+								"{@spell blight}"
+							]
+						},
+						"5": {
+							"slots": 2,
+							"spells": [
+								"{@spell army of the dead|WC5E Spells}",
+								"{@spell cone of cold}",
+								"{@spell danse macabre|XGE}",
+								"{@spell enervation|XGE}"
+							]
+						},
+						"6": {
+							"slots": 1,
+							"spells": [
+								"{@spell} *",
+								"{@spell create undead}",
+								"{@spell investiture of ice|XGE}",
+								"{@spell wall of ice}"
+							]
+						},
+						"7": {
+							"slots": 1,
+							"spells": [
+								"{@spell finger of death}",
+								"{@spell glacial spike|WC5E Spells}"
+							]
+						}
+					},
+					"ability": "int"
+				}
+			],
+			"trait": [
+				{
+					"name": "Innate Levitation",
+					"entries": [
+						"The lich hovers above any surface but doesn't fly. It isn't affected by difficult terrain and can move over liquids turning them solid along its path."
+					]
+				},
+				{
+					"name": "Ice Shield",
+					"entries": [
+						"The lich has a magical ward that has 48 (half its hp) hit points. Whenever the lich takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, the lich takes any remaining damage. When the lich casts spell that deals cold damage of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. Additionally a creature that touches the ice shield takes 11 ({@damage 2d10}) cold damage."
+					]
+				},
+				{
+					"name": "Immutable Form",
+					"entries": [
+						"The lich is immune to any spell or effect that would alter its form."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/Day)",
+					"entries": [
+						"If the lich fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				{
+					"name": "Master of Undeath",
+					"entries": [
+						"The lich has control over any undead created by the scourge within 500 feet that aren't under the command of someone else."
+					]
+				},
+				{
+					"name": "Rejuvenation",
+					"entries": [
+						"If it has a phylactery, a destroyed lich gains a new body in {@dice 1d10} days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery."
+					]
+				},
+				{
+					"name": "Turn Resistance",
+					"entries": [
+						"The lich has advantage on saving throws against any effect that turns undead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The lich makes one attack with its claws and one with its chains."
+					]
+				},
+				{
+					"name": "Claw",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}12 ({@dice 2d8 + 3}) piercing and {@dice 2d8} (9) cold damage."
+					]
+				},
+				{
+					"name": "Undying Chains",
+					"entries": [
+						"Melee Spell Attack. {@hit 10} to hit, reach 15 ft., one creature. {@h}13 ({@damage 3d8}) cold damage, and the target is {@condition grappled} (escape {@dc 18}). Until this grapple ends, the target is {@condition restrained} and has disadvantage on all saving throws, and the lich can't chain another target."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Cantrip",
+					"entries": [
+						"The lich casts one of its cantrips."
+					]
+				},
+				{
+					"name": "Claw (Costs 2 Actions)",
+					"entries": [
+						"The lich makes a Claw attack."
+					]
+				},
+				{
+					"name": "Disrupt Life (Costs 3 Actions)",
+					"entries": [
+						"Each creature within 30 feet of the lich must make a {@dc 18} Constitution saving throw, taking 21 ({@damage 6d6}) necrotic damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			],
+			"traitTags": [
+				"Immutable Form",
+				"Legendary Resistances",
+				"Rejuvenation",
+				"Turn Resistance"
+			],
+			"senseTags": [
+				"U"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"LF"
+			],
+			"damageTags": [
+				"C",
+				"N"
+			],
+			"damageTagsSpell": [
+				"C",
+				"N"
+			],
+			"spellcastingTags": [
+				"O"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH"
+			],
+			"conditionInflict": [
+				"grappled",
+				"restrained"
+			],
+			"conditionInflictSpell": [
+				"blinded",
+				"charmed",
+				"deafened",
+				"frightened",
+				"incapacitated",
+				"prone",
+				"restrained"
+			],
+			"savingThrowForced": [
+				"constitution"
+			],
+			"savingThrowForcedSpell": [
+				"constitution",
+				"dexterity",
+				"wisdom"
 			]
 		},
 		{
@@ -16602,6 +18099,149 @@
 			]
 		},
 		{
+			"name": "Necrolyte",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"any"
+				]
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"formula": "13d8 + 26 + 1d4 + 4",
+				"average": 92
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 8,
+			"dex": 14,
+			"con": 14,
+			"int": 16,
+			"wis": 11,
+			"cha": 13,
+			"skill": {
+				"arcana": "+5"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"languages": [
+				"common"
+			],
+			"cr": "2",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The necrolyte's innate spellcasting ability is Intelligence. It can innately cast the following spells (spell save {@dc 13}), requiring no material components:"
+					],
+					"will": [
+						"{@spell disguise self}",
+						"{@spell false life}"
+					],
+					"daily": {
+						"1": [
+							"{@spell animate dead}"
+						]
+					},
+					"ability": "int"
+				},
+				{
+					"name": "Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The necrolyte is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 13}, {@hit 5} to hit with spell attacks). The necrolyte regains its expended spell slots when it finishes a short or long rest, and knows the following priest and warlock spells:"
+					],
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell chill touch}",
+								"{@spell diabolism|WC5E Spells}",
+								"{@spell mind blast|WC5E Spells}",
+								"{@spell resistance}",
+								"{@spell sapping sting|EGW}",
+								"{@spell toll the dead|XGE}"
+							]
+						},
+						"3": {
+							"lower": 1,
+							"slots": 2,
+							"spells": [
+								"{@spell blindness/deafness}",
+								"{@spell dark void|WC5E Spells}",
+								"{@spell drain life|WC5E Spells}",
+								"{@spell fear}",
+								"{@spell ray of enfeeblement}",
+								"{@spell speak with dead}"
+							]
+						}
+					},
+					"ability": "int"
+				}
+			],
+			"trait": [
+				{
+					"name": "Focused Mind",
+					"entries": [
+						"The necrolyte advantage on Constitution saving throws that it make to maintain its {@status concentration} on a spell."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Dagger",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. *Hit:*, 4 ({@damage 1d4 + 2}) slashing damage."
+					]
+				}
+			],
+			"attachedItems": [
+				"dagger|phb"
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"S"
+			],
+			"damageTagsSpell": [
+				"N",
+				"Y"
+			],
+			"spellcastingTags": [
+				"CL",
+				"I"
+			],
+			"miscTags": [
+				"MLW",
+				"MW"
+			],
+			"conditionInflictSpell": [
+				"blinded",
+				"deafened",
+				"frightened",
+				"prone"
+			],
+			"savingThrowForcedSpell": [
+				"constitution",
+				"wisdom"
+			]
+		},
+		{
 			"name": "Ogre",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -17339,6 +18979,259 @@
 			],
 			"savingThrowForced": [
 				"strength"
+			]
+		},
+		{
+			"name": "Plague Eruptor",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "undead",
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 102,
+				"formula": "12d10 + 24"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 17,
+			"dex": 14,
+			"con": 16,
+			"int": 6,
+			"wis": 10,
+			"cha": 5,
+			"skill": {},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"poisoned"
+			],
+			"languages": [
+				"the languages it knew in life but can't speak."
+			],
+			"cr": "7",
+			"trait": [
+				{
+					"name": "Leaking Pustules",
+					"entries": [
+						"A creature that touches the plague eruptor or hits it with a melee attack while within 5 feet of it takes 10 ({@damage 3d6}) poison damage."
+					]
+				},
+				{
+					"name": "Deadly Plague",
+					"entries": [
+						"Poison damage that the plague eruptor deals ignores resistance and immunity to poison damage. It can inflict the {@condition poisoned} condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the plague of undeath."
+					]
+				},
+				{
+					"name": "Plague Eruption",
+					"entries": [
+						"When the plague eruptor dies, it explodes, and each creature within 15 feet of it must make a {@dc 16} Constitution saving throw, taking 35 ({@damage 10d6}) poison damage and become infected with the plague of undeath on a failed save. A successful save results in half damage and no other effect. A humanoid creature killed by this damage rises as a zombie after 1 minute."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The plague eruptor makes two slam attacks and uses its vile gas ability."
+					]
+				},
+				{
+					"name": "Slam",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d8 + 3}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Vile Gas",
+					"entries": [
+						"The plague eruptor expels a poisonous cloud in 10-feet radius around it. Each creature in the area must make a {@dc 15} Constitution saving throw. On a failed save, a creature takes 12 ({@damage 2d8 + 3}) poison damage. On a successful save, the creature takes half as much damage."
+					]
+				},
+				{
+					"name": "Vile Gas Eruption {@recharge}",
+					"entries": [
+						"One of the plague eruptors pustules explodes into a cloud of poison that covers a 15-foot cube. Each creature in the area must make a {@dc 16} Constitution saving throw. On a failed save, a creature takes 18 ({@damage 4d8}) poison damage and is {@condition poisoned} for 1 minute. On a successful save, the creature takes half as much damage and isn't {@condition poisoned}. A {@condition poisoned} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"CS",
+				"LF"
+			],
+			"damageTags": [
+				"B",
+				"I"
+			],
+			"miscTags": [
+				"AOE",
+				"MW"
+			],
+			"conditionInflict": [
+				"poisoned"
+			],
+			"savingThrowForced": [
+				"constitution"
+			]
+		},
+		{
+			"name": "Plague-dog",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "construct",
+				"tags": [
+					"undead"
+				]
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 13,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 105,
+				"formula": "10d12 + 40"
+			},
+			"speed": {
+				"walk": 50
+			},
+			"str": 25,
+			"dex": 10,
+			"con": 19,
+			"int": 2,
+			"wis": 12,
+			"cha": 9,
+			"skill": {
+				"perception": "+4"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 14,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from non magical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"frightened",
+				"petrified",
+				"poisoned"
+			],
+			"languages": [
+				"understands the languages of its creator but can't speak"
+			],
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Deadly Plague",
+					"entries": [
+						"Poison damage that the plague-dog deals ignores resistance and immunity to poison damage. It can inflict the {@condition poisoned} condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the {@disease plague of undeath}."
+					]
+				},
+				{
+					"name": "Immutable Form",
+					"entries": [
+						"The Plague-dog is immune to any spell or effect that would alter its form."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The plague-dog makes two attacks: one bite and one claw attack."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 10} to hit, reach 10 ft., one target. {@h}20 ({@dice 2d12 + 7}) piercing and 13 ({@damage 2d12}) poison damage. If the target is a Large or smaller creature, it must succeed on a {@dc 17} Dexterity saving throw or be swallowed by the plague-dog. A swallowed creature is {@condition blinded} and {@condition restrained}, has total cover against attacks and other effects outside the worm, and takes 21 ({@damage 6d6}) poison damage at the start of each of the plague dog's turns. A plague dog can have only one creature swallowed at a time.",
+						"If the plague dog takes 30 damage or more on a single turn from the swallowed creature, the plague-dog must succeed on a {@dc 14} Constitution saving throw or the creature successfully cuts its way through the dog and falls {@condition prone} in a space within 5 feet of the plague-dog. If the plague-dog dies, a swallowed creature is no longer {@condition restrained} by it and can escape from the corpse by using 15 feet of movement, exiting {@condition prone}."
+					]
+				},
+				{
+					"name": "Claw",
+					"entries": [
+						"{@atk mw} {@hit 10} to hit, reach 5 ft., one target. {@h}20 ({@damage 3d8 + 7}) slashing damage."
+					]
+				}
+			],
+			"traitTags": [
+				"Immutable Form"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack",
+				"Swallow"
+			],
+			"languageTags": [
+				"CS"
+			],
+			"damageTags": [
+				"I",
+				"S"
+			],
+			"miscTags": [
+				"MW",
+				"RCH"
+			],
+			"conditionInflict": [
+				"blinded",
+				"restrained"
+			],
+			"savingThrowForced": [
+				"constitution",
+				"dexterity"
 			]
 		},
 		{
