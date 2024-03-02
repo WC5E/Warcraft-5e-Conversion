@@ -5013,12 +5013,19 @@
 								},
 								{
 									"type": "entries",
+									"name": "Bone Golem",
+									"entries": [
+										"Nothing is left to waste in the Scourge. A creation from the dark Scholomance, the bone golems are pieced together from remnants of skeletons too misshapen to use elsewhere, grafted with a pair of immense metal scythes. They are built solely to kill, and are deployed sparingly by their masters, perhaps owing to their unreliability, or tendency to rust."
+									]
+								},
+								{
+									"type": "entries",
 									"name": "Bone Wraith",
 									"entries": [
-										"Among the most distressing and intimidating of the Lich King's minions is the gigantic bone wraith, a skeletal guard of immense size and haunting appearance. Looking almost angelic with wings of bone, it is crafted from the much-suffering remnants of many bodies, all pushed together into a shape not remotely humanoid. They drift legless above the ground, with four skulls at the centre of a torso, and freakish arms wielding an axe made of yet more bone. The souls of these dead have been amalgamated together into something far lesser than the sum of its parts, able only to proclaim loyal battlecries in the name of its master.",
+										"Among the most distressing and intimidating of the Lich King’s minions is the gigantic bone wraith, a skeletal guard of immense size and haunting appearance. Looking almost angelic with wings of bone, it is crafted from the much-suffering remnants of many bodies, all pushed together into a shape not remotely humanoid. They drift legless above the ground, with four skulls at the centre of a torso, and freakish arms wielding an axe made of yet more bone. The souls of these dead have been amalgamated together into something far lesser than the sum of its parts, able only to proclaim loyal battlecries in the name of its master.",
 										{													
 											"type": "entries",
-											"name": "Bone Storm!.",
+											"name": "Bone Storm!",
 											"entries": [
 												"The signature strength of these creatures is their ability to spin their many-limbed bodies at extreme, rapid speed, flailing their spiny wing-like protrusions out alongside their bony weapon. A guttural call will invariably accompany this assault, placing the bone storm into a legend among those who survive it."
 											]
@@ -5027,9 +5034,31 @@
 								},
 								{
 									"type": "entries",
+									"name": "Crypt Fiend",
+									"entries": [
+										"When the Lich King invaded the ancient spider kingdom of Azjol-Nerub, he was not content to allow its denizens peaceful deaths - the powerful and cunning nerubians were transformed into an army of undead spiders, forced to use their tunnels, structures and natural abilities to bolster the Scourge's already impressive army.",
+										"The conquered Spider Kingdom was given back to its people, but its people will never know freedom again."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Crypt Lord",
+									"entries": [
+										"The gigantic beetles that comprise the ruling castes of the Spider Kingdom of Azjol-Nerub were the final rulers of the dead empire, and it was by their design that the Scourge successfully consumed them. Now, the so-called Crypt Lords occupy a position of command among their undead brethren, allowed sentience but not free will."
+										{													
+											"type": "entries",
+											"name": "King me",
+											"entries": [
+												"Crypt Lords represent not only the vast ruling power of the nerubian race, but also their raw destructive power. Enormous scything claws, armoured shells around gossamer wings, effortless forming of tunnels and quakes, and the spawning of swarms of beetles and locusts from their bodies are the key weapons of these flying behemoths. "
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
 									"name": "Death Knight",
 									"entries": [
-										"As the ruler of the damned, the Lich King naturally needed an elite caste of knights. These undead knights are granted immense power over death magic, cruel rune-inscribed blades that drain the lives of their foes, and command over appreciable portions of the Scourge's armies. Intelligent and retaining their living personalities, albeit warped and broken into servitude, Death Knights became the feared top level of the Lich King's armies, elites that acted as royal guard to the Lich King.",
+										"As the ruler of the damned, the Lich King naturally needed an elite caste of knights. These undead knights are granted immense power over death magic, cruel rune-inscribed blades that drain the lives of their foes, and command over appreciable portions of the Scourge’s armies. Intelligent and retaining their living personalities, albeit warped and broken into servitude, Death Knights became the feared top level of the Lich King's armies, elites that acted as royal guard to the Lich King.",
 										{													
 											"type": "entries",
 											"name": "Wartime Progenitors",
@@ -5076,9 +5105,44 @@
 								},
 								{
 									"type": "entries",
+									"name": "Eruptor",
+									"entries": [
+										"Living bombs of the Scourge, plague eruptors are the horrendously mutated corpses of those unfortunate enough to have fallen under the eye of the Scourge's engineers. Bloated beyond recognition with the plague of undeath, these zombies have experienced massive growth, becoming immensely strong and extremely aggressive. Their skin becomes crusted with festering boils, each of which threatens to burst at any moment, spewing plague ooze around them. Their bodies are unstable, and rather than fall apart upon defeat, their bodies erupt into a chemical stew, further spreading the misery of their brief existence."
+									]
+								},
+								{
+									"type": "entries",
 									"name": "Flesh Giant",
 									"entries": [
-										"In the icy land of Northrend, undeath is the fate for all who fall under the gaze of the Lich King. No creature best demonstrates the Lich King's dominion over the land than his transformation of the gods' own creations, the giants. These honourable creatures have been broken down into their base parts, which are matched up and then re-attached to construct a parody of a giant, an abomination on a massive scale. Their blood replaced with ichor, their guts filled with the plague of undeath, and their very spinal fluid transforming into a vicious acid, these giants have been unmade as a symbol of the Lich King’s total disregard for the ancient powers that have ruled Northrend for aeons."
+										"In the icy land of Northrend, undeath is the fate for all who fall under the gaze of the Lich King. No creature best demonstrates the Lich King's dominion over the land than his transformation of the gods' own creations, the giants. These honourable creatures have been broken down into their base parts, which are matched up and then re-attached to construct a parody of a giant, an abomination on a massive scale. Their blood replaced with ichor, their guts filled with the plague of undeath, and their very spinal fluid transforming into a vicious acid, these giants have been unmade as a symbol of the Lich King's total disregard for the ancient powers that have ruled Northrend for aeons."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Frost Wyrm",
+									"entries": [
+										"Among the most notorious and cruel of the Scourge's creations, the favourite pets of the Lich King are the undead frost wyrms; immense dragons raised from agonising death into eternal servitude, emptied of their free wills and humiliated into acting as living siege weapons. Usually raised from slain blue dragons, who make their home in regions of Northrend, frost wyrms are skeletal monsters that constantly release freezing air, with wings like hurricanes and breath of death. Mostly robbed of their minds, those who live in consciousness exist in a state of constant agony, for they are among the few undead that retain their sense of selves and become fully, horrifyingly aware that they are slaves.",
+										{													
+											"type": "entries",
+											"name": "Frozen Waste",
+											"entries": [
+												"Their bodies have been wasted away by years of decomposition, leaving these undead dragons little more than skeleton and sinew held together by magic. Their wings are often empty of membrane, yet their flight is unhindered, and their powers of shapeshifting have disappeared along with their mastery over their flight’s domain. Their essence as dragons has been replaced fully with the Lich King's frozen heart."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Frostbrood",
+											"entries": [
+												"The Scourge's most powerful brood of frost wyrms falls under the Frostbrood, a false family comprised of many undead blue dragons. The so-called broodmother, though of course she is unable to breed, is Sindragosa, the former consort of the Blue Aspect, Malygos. Experiencing only rage and sorrow, Sindragosa commands her “brood” with hate and malice, resenting them as she does herself."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Siege Destruction",
+											"entries": [
+												"Frost wyrms are not plentiful, but naturally their arrival to any battle surely heralds its end; even one may end a battle or a siege effortlessly, freezing entire buildings with their breath and decimating troops."
+											]
+										}
 									]
 								},
 								{
@@ -5106,6 +5170,41 @@
 								},
 								{
 									"type": "entries",
+									"name": "Lich",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"The largest misconception the living have of the Scourge is our penchant for what is considered 'evil.' For the sake of demoralization we allow this error to perpetuate, and indeed spread it on our own."
+											],
+											"by": "the Decree of the Scourge, by the archlich Kel'thuzad."
+										},
+										"The highest and mightiest servants of the Lich King, the apex of ascension into undeath that so very few may strive to reach. These immensely powerful creatures originate from the Scourge's greatest necromancers, transformed through despicable ritual into immortal beings. No longer recognisable from their living form, their bodies appear symbolic of their power; grand, flowing cloaks topped by skeletal bodies, horned and tusked skulls capped with royal headdresses. Lest their role be forgotten, however, they are also wrapped in chains, which gently orbit around them. No longer bound by the joke of mortality, Liches have reached the end goal of the Scourge's goals; ascension.",
+										{													
+											"type": "entries",
+											"name": "Masters of Death",
+											"entries": [
+												"Life and death bends to the will of a Lich, and little else besides may resist their hypnotic intellect. At their bony fingers rests magic that may curdle the blood of their enemies, or create and empower new and disgusting forms of undead. Each lich is expected to be a master of necromancy, and each lich is expected to command this mastery with unerring proficiency."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Seductive Reasoning",
+											"entries": [
+												"Aside from their considerable magical ability and powers of exhumation, the most dangerous tool of a lich is their vast intellect and cunning. They have doubtless spent many long hours carefully stating and re-stating their reasonings for effectively betraying their own kind, and subsequently many of a lich's greatest victories will be through reason and logical discussion, rather than combat and murder. It is for good reason that the leaders and founder of the Cult of the Damned are all liches, but unlike much of the Cult, their devotion is not blind."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Chains of Kel'thuzad",
+											"entries": [
+												"The first of the modern liches, Kel'thuzad, codified much of their later methodology. Through his cunning and manipulation, the Scourge was built, and other liches follow his example. A major example is their command over the lesser minds of mortals, wrapping them in chains and dominating their thoughts. Other methods include the formation of religious dogma to drive communities under the Scourge's banner with relatively little bloodshed. Well, little unnecessary bloodshed."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
 									"name": "Necrolyte",
 									"entries": [
 										"Following on from the very earliest known necromancers, necrolytes represent the low-tier clergy of the Cult of the Damned, or put another way, are the average working man's necromancer. In any cloister of the Scourge's armies, there must be many hands constantly shifting and raising the corpses of the dead, and taking on this vital, albeit menial, task are the necrolytes. Practitioners of the religions that have grown out of the Scourge, they decry the Light, the elements, the ancestors or whatever other beliefs they may have previously held, instead making sermons on their new lord, the Lich King, and his greater servants."
@@ -5116,6 +5215,49 @@
 									"name": "Grand Necrolyte",
 									"entries": [
 										"Greater necromancers occupying a far higher rank in their cults, grand necrolytes act as spiritual leaders among the still-livin worshippers of the Scourge's decree. They experience no doubts and have no questions about their chosen path, showing a piety that might make a paladin blush. Granted powers over life and death that dwarf those of other necromancers, these dark clerics often lead or perform the most skilful of rituals to create the more powerful creatures."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Plague Dog",
+									"entries": [
+										"Stitched from the multitudinous corpses of dogs found across Azeroth, the plague dogs are a particularly cruel breed of abomination seemingly created purely to see what happens. Crafted by the endlessly inventive mind of Kel’thuzad in the laboratories of Naxxramas, these patchwork things act as immense guard dogs, protecting against intruders. A side effect of their creation is an immense, uncontrollable appetite, and one that must be sated to allow for any meaningful control of the beasts."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Unforgiven",
+									"entries": [
+										"A mysterious rank of ghostly warriors, spawned from the corpses of those insolent few who managed to draw the particular ire of the Scourge’s dark masters. These densely armoured wraiths revive feeling only regret and horror at what they have become, and are commanded to express these regrets through might and magic, standing as commanders of lesser undead. Their curse lends them no rest, and not even the comfort of sunlight may reach them."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Val'kyr",
+									"entries": [
+										"A hero battling the Scourge is struck down. Poisons fill their body, their vision darkens, and their heart swells as the final thing they see is a beautiful angel, a ghostly  warrior woman on feathered wings, reaching out for them.",
+										"But joy becomes horror, as the angelic Val'kyr pulls at their departing soul, chaining it to the world of the living and raising them instantly into undeath, now bound to her, and to the Lich King. With beats of her wings, she drifts into the sky, joining her sisters in coralling their many followers into the service of their false Death God.",
+										{													
+											"type": "entries",
+											"name": "Vrykul Legend",
+											"entries": [
+												"The val'kyr of vrykul legend are angelic battlemaidens devoted to bringing the souls of honourably slain warriors into the Great Beyond. The val'kyr of the Scourge are the souls of vrykul women devoted to the Lich King, ascended through undeath into a form befitting servants of their death god."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Life and Death",
+											"entries": [
+												"Able to pass freely through the veil between life and the Shadowlands, val'kyr have unique and staggering power over life and death, almost matching that of the Lich King. To raise an army of sentient, intelligent undead instantly is no issue, nor is returning the souls of the dead to the world of the living."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Death in Glorious Battle",
+											"entries": [
+												"The val'kyr were once the most loyal priests of the Lich King, their death god. Following this and their ancient beliefs, they grant the reward of undeath to vrykul who die gloriously in the name of the Lich King. For the failures, fate sees them transformed into mindless slaves."
+											]
+										}
 									]
 								},
 								{
