@@ -19014,7 +19014,6 @@
 			"int": 6,
 			"wis": 10,
 			"cha": 5,
-			"skill": {},
 			"senses": [
 				"darkvision 60 ft."
 			],
@@ -19045,7 +19044,7 @@
 				{
 					"name": "Plague Eruption",
 					"entries": [
-						"When the plague eruptor dies, it explodes, and each creature within 15 feet of it must make a {@dc 16} Constitution saving throw, taking 35 ({@damage 10d6}) poison damage and become infected with the plague of undeath on a failed save. A successful save results in half damage and no other effect. A humanoid creature killed by this damage rises as a zombie after 1 minute."
+						"When the plague eruptor dies, it explodes, and each creature within 15 feet of it must make a {@dc 15} Constitution saving throw, taking 35 ({@damage 10d6}) poison damage and become infected with the plague of undeath on a failed save. A successful save results in half damage and no other effect. A humanoid creature killed by this damage rises as a zombie after 1 minute."
 					]
 				}
 			],
@@ -19059,7 +19058,7 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d8 + 3}) bludgeoning damage."
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d8 + 3}) bludgeoning damage."
 					]
 				},
 				{
@@ -19071,7 +19070,7 @@
 				{
 					"name": "Vile Gas Eruption {@recharge}",
 					"entries": [
-						"One of the plague eruptors pustules explodes into a cloud of poison that covers a 15-foot cube. Each creature in the area must make a {@dc 16} Constitution saving throw. On a failed save, a creature takes 18 ({@damage 4d8}) poison damage and is {@condition poisoned} for 1 minute. On a successful save, the creature takes half as much damage and isn't {@condition poisoned}. A {@condition poisoned} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"One of the plague eruptors pustules explodes into a cloud of poison that covers a 15-foot cube. Each creature in the area must make a {@dc 15} Constitution saving throw. On a failed save, a creature takes 18 ({@damage 4d8}) poison damage and is {@condition poisoned} for 1 minute. On a successful save, the creature takes half as much damage and isn't {@condition poisoned}. A {@condition poisoned} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 					]
 				}
 			],

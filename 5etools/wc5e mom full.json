@@ -5022,7 +5022,7 @@
 									"type": "entries",
 									"name": "Bone Wraith",
 									"entries": [
-										"Among the most distressing and intimidating of the Lich King’s minions is the gigantic bone wraith, a skeletal guard of immense size and haunting appearance. Looking almost angelic with wings of bone, it is crafted from the much-suffering remnants of many bodies, all pushed together into a shape not remotely humanoid. They drift legless above the ground, with four skulls at the centre of a torso, and freakish arms wielding an axe made of yet more bone. The souls of these dead have been amalgamated together into something far lesser than the sum of its parts, able only to proclaim loyal battlecries in the name of its master.",
+										"Among the most distressing and intimidating of the Lich Kin's minions is the gigantic bone wraith, a skeletal guard of immense size and haunting appearance. Looking almost angelic with wings of bone, it is crafted from the much-suffering remnants of many bodies, all pushed together into a shape not remotely humanoid. They drift legless above the ground, with four skulls at the centre of a torso, and freakish arms wielding an axe made of yet more bone. The souls of these dead have been amalgamated together into something far lesser than the sum of its parts, able only to proclaim loyal battlecries in the name of its master.",
 										{													
 											"type": "entries",
 											"name": "Bone Storm!",
@@ -5044,7 +5044,7 @@
 									"type": "entries",
 									"name": "Crypt Lord",
 									"entries": [
-										"The gigantic beetles that comprise the ruling castes of the Spider Kingdom of Azjol-Nerub were the final rulers of the dead empire, and it was by their design that the Scourge successfully consumed them. Now, the so-called Crypt Lords occupy a position of command among their undead brethren, allowed sentience but not free will."
+										"The gigantic beetles that comprise the ruling castes of the Spider Kingdom of Azjol-Nerub were the final rulers of the dead empire, and it was by their design that the Scourge successfully consumed them. Now, the so-called Crypt Lords occupy a position of command among their undead brethren, allowed sentience but not free will.",
 										{													
 											"type": "entries",
 											"name": "King me",
@@ -5058,7 +5058,7 @@
 									"type": "entries",
 									"name": "Death Knight",
 									"entries": [
-										"As the ruler of the damned, the Lich King naturally needed an elite caste of knights. These undead knights are granted immense power over death magic, cruel rune-inscribed blades that drain the lives of their foes, and command over appreciable portions of the Scourge’s armies. Intelligent and retaining their living personalities, albeit warped and broken into servitude, Death Knights became the feared top level of the Lich King's armies, elites that acted as royal guard to the Lich King.",
+										"As the ruler of the damned, the Lich King naturally needed an elite caste of knights. These undead knights are granted immense power over death magic, cruel rune-inscribed blades that drain the lives of their foes, and command over appreciable portions of the Scourge's armies. Intelligent and retaining their living personalities, albeit warped and broken into servitude, Death Knights became the feared top level of the Lich King's armies, elites that acted as royal guard to the Lich King.",
 										{													
 											"type": "entries",
 											"name": "Wartime Progenitors",
@@ -5228,7 +5228,7 @@
 									"type": "entries",
 									"name": "Unforgiven",
 									"entries": [
-										"A mysterious rank of ghostly warriors, spawned from the corpses of those insolent few who managed to draw the particular ire of the Scourge’s dark masters. These densely armoured wraiths revive feeling only regret and horror at what they have become, and are commanded to express these regrets through might and magic, standing as commanders of lesser undead. Their curse lends them no rest, and not even the comfort of sunlight may reach them."
+										"A mysterious rank of ghostly warriors, spawned from the corpses of those insolent few who managed to draw the particular ire of the Scourge's dark masters. These densely armoured wraiths revive feeling only regret and horror at what they have become, and are commanded to express these regrets through might and magic, standing as commanders of lesser undead. Their curse lends them no rest, and not even the comfort of sunlight may reach them."
 									]
 								},
 								{
@@ -24927,7 +24927,6 @@
 			"int": 6,
 			"wis": 10,
 			"cha": 5,
-			"skill": {},
 			"senses": [
 				"darkvision 60 ft."
 			],
@@ -24952,13 +24951,13 @@
 				{
 					"name": "Deadly Plague",
 					"entries": [
-						"Poison damage that the plague eruptor deals ignores resistance and immunity to poison damage. It can inflict the {@condition poisoned} condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the plague of undeath."
+						"Poison damage that the plague eruptor deals ignores resistance and immunity to poison damage. It can inflict the {@condition poisoned} condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the {@disease plague of undeath}."
 					]
 				},
 				{
 					"name": "Plague Eruption",
 					"entries": [
-						"When the plague eruptor dies, it explodes, and each creature within 15 feet of it must make a {@dc 16} Constitution saving throw, taking 35 ({@damage 10d6}) poison damage and become infected with the plague of undeath on a failed save. A successful save results in half damage and no other effect. A humanoid creature killed by this damage rises as a zombie after 1 minute."
+						"When the plague eruptor dies, it explodes, and each creature within 15 feet of it must make a {@dc 15} Constitution saving throw, taking 35 ({@damage 10d6}) poison damage and become infected with the {@disease plague of undeath|WC5E MoM} on a failed save. A successful save results in half damage and no other effect. A humanoid creature killed by this damage rises as a zombie after 1 minute."
 					]
 				}
 			],
@@ -24972,7 +24971,7 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d8 + 3}) bludgeoning damage."
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d8 + 3}) bludgeoning damage."
 					]
 				},
 				{
@@ -24984,7 +24983,7 @@
 				{
 					"name": "Vile Gas Eruption {@recharge}",
 					"entries": [
-						"One of the plague eruptors pustules explodes into a cloud of poison that covers a 15-foot cube. Each creature in the area must make a {@dc 16} Constitution saving throw. On a failed save, a creature takes 18 ({@damage 4d8}) poison damage and is {@condition poisoned} for 1 minute. On a successful save, the creature takes half as much damage and isn't {@condition poisoned}. A {@condition poisoned} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"One of the plague eruptors pustules explodes into a cloud of poison that covers a 15-foot cube. Each creature in the area must make a {@dc 15} Constitution saving throw. On a failed save, a creature takes 18 ({@damage 4d8}) poison damage and is {@condition poisoned} for 1 minute. On a successful save, the creature takes half as much damage and isn't {@condition poisoned}. A {@condition poisoned} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 					]
 				}
 			],
@@ -25086,7 +25085,7 @@
 				{
 					"name": "Deadly Plague",
 					"entries": [
-						"Poison damage that the plague-dog deals ignores resistance and immunity to poison damage. It can inflict the {@condition poisoned} condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the {@disease plague of undeath}."
+						"Poison damage that the plague-dog deals ignores resistance and immunity to poison damage. It can inflict the {@condition poisoned} condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the {@disease plague of undeath|WC5E MoM}."
 					]
 				},
 				{
