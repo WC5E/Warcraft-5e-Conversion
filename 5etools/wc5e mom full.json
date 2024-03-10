@@ -126,19 +126,6 @@
 					}
 				},
 				{
-					"name": "Plant Creatures",
-					"headers": [
-						"Ancients",
-						"Bog Beasts",
-						"Lashers",
-						"Treants"
-					],
-					"ordinal": {
-						"type": "chapter",
-						"identifier": 2
-					}
-				},
-				{
 					"name": "Primitive Societies",
 					"headers": [
 						"Centaurs",
@@ -197,6 +184,19 @@
 					}
 				},
 				{
+					"name": "Plant Creatures",
+					"headers": [
+						"Ancients",
+						"Bog Beasts",
+						"Lashers",
+						"Treants"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 2
+					}
+				},
+				{
 					"name": "Elementals & Primordials",
 					"headers": [
 						"Elementals",
@@ -232,6 +232,53 @@
 					}
 				},
 				{
+					"name": "The Bruning Legion",
+					"headers": [
+						"Aranasi",
+						"Doomguards",
+						"Fel Reaver",
+						"Imp",
+						"Infernal",
+						"Mo'arg",
+						"Infernal",
+						"Inquisitor",
+						"Dread Lord",
+						"Observer",
+						"Pit Lord",
+						"Shivarra",
+						"Succubi",
+						"Corrupted Wildlife",
+						{
+							"header": "Felbat",
+							"depth": 1
+						},
+						{
+							"header": "Felhound",
+							"depth": 1
+						},
+						{
+							"header": "Felhound",
+							"depth": 1
+						},
+						{
+							"header": "Felsteed",
+							"depth": 1
+						},
+						{
+							"header": "Ur'zul",
+							"depth": 1
+						},
+						{
+							"header": "Vilefiends",
+							"depth": 1
+						}
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 8
+					}
+				},
+				{
 					"name": "Minions of the Old Gods",
 					"headers": [
 						"Aqir",
@@ -255,7 +302,7 @@
 					],
 					"ordinal": {
 						"type": "chapter",
-						"identifier": 8
+						"identifier": 9
 					}
 				},
 				{
@@ -421,7 +468,6 @@
 							"type": "entries",
 							"name": "D",
 							"entries": [
-								"",
 								{	
 									"type": "list",
 									"style": "list-no-bullets",
@@ -516,6 +562,30 @@
 												"Dinosaurs come in many sizes and shapes, some absolutely tremendous, featuring a wide variety of markings and colorations. They primarily split into two groups: savage, territorial predators, and docile yet still undeniably dangerous herbivores."
 											]
 										}
+									]	
+								},
+								{	
+									"type": "list",
+									"style": "list-no-bullets",
+									"columns": 3,
+									"items": [					
+										"{@creature Ankylodon|WC5E MoM}",
+										"{@creature Brutosaur|WC5E MoM}",
+										"{@creature Devilsaur|WC5E MoM}",
+										"{@creature Devilsaur King|WC5E MoM}",
+										"{@creature Diemetradon|WC5E MoM}",
+										"{@creature Direhorn|WC5E MoM}",
+										"{@creature Pterrordax|WC5E MoM}",
+										"{@creature Pterrorwing|WC5E MoM}",
+										"{@creature Raptor|WC5E MoM}",
+										"{@creature Raptor Ravager|WC5E MoM}",
+										"{@creature Raptor Matriarch|WC5E MoM}",
+										"{@creature Sabertusk|WC5E MoM}",
+										"{@creature Saurid|WC5E MoM}",
+										"{@creature Stegodon|WC5E MoM}",
+										"{@creature Threshadon|WC5E MoM}",
+										""
+										
 									]	
 								},
 								{
@@ -674,32 +744,6 @@
 										"The threshadon is a marine dinosaur, whose compact body is driven by a set of powerful flippers. Much like a brutosaur, its neck accounts for a third of its total length, and is able to flex and twist in whichever direction it needs to dig around muddy lake-beds and pull branches from riversides.",
 										"Though they are herbivores first and foremost, grazing threshadon herds are notorious for how fast they tear through and and all plant life within reach before migrating on to new grounds. When a herd has found a grazing spot, the threshadons defend it aggressively. Any other creatures they encounter are attacked on sight. When it fights, the threshadon uses its long neck to lunge at its target, dealing devastating blows with rows of long, jagged teeth. Its jaws are strong enough to crush armor and snap bones, and it is not unusual for it to consume it kills whole."
 									]
-								},
-
-								"{@note List of Dinosaurs}",
-								{	
-									"type": "list",
-									"style": "list-no-bullets",
-									"columns": 3,
-									"items": [					
-										"{@creature Ankylodon|WC5E MoM}",
-										"{@creature Brutosaur|WC5E MoM}",
-										"{@creature Devilsaur|WC5E MoM}",
-										"{@creature Devilsaur King|WC5E MoM}",
-										"{@creature Diemetradon|WC5E MoM}",
-										"{@creature Direhorn|WC5E MoM}",
-										"{@creature Pterrordax|WC5E MoM}",
-										"{@creature Pterrorwing|WC5E MoM}",
-										"{@creature Raptor|WC5E MoM}",
-										"{@creature Raptor Ravager|WC5E MoM}",
-										"{@creature Raptor Matriarch|WC5E MoM}",
-										"{@creature Sabertusk|WC5E MoM}",
-										"{@creature Saurid|WC5E MoM}",
-										"{@creature Stegodon|WC5E MoM}",
-										"{@creature Threshadon|WC5E MoM}",
-										""
-										
-									]	
 								}
 							]
 						},
@@ -1463,427 +1507,6 @@
 				},
 				{
 					"type": "section",
-					"name": "Plant Creatures",
-					"entries": [					
-						"{@b Plants} in this context are vegetable creatures, not ordinary flora. Most of them are ambulatory, and some are carnivorous. The quintessential plants are the ancients and treants. Fungal creatures such as sporelings and the mandragora also fall into this category.",
-						{
-							"type": "entries",
-							"name": "Ancients",
-							"entries": [
-								"The Ancients are massive, leaf-covered trees given life. With an unparalleled wisdom and insight into the world around them, they act asguardians of the forests where they dwell -- such as those of northern Kalimdor, where their shared bonds with the night elves have kept the two races in a long-lasting symbiosis.",
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [
-										{
-											"type": "entries",
-											"name": "Staunch Defenders.",
-											"entries": [
-												"",
-												"An ancient is grown from an acorn, like so many other trees, though the acorn itself is far rarer and far more powerful. It takes years upon years for an ancient to grow to its full size, where it stays for thousands of years without feeling the wear of old age.",
-												"The ancients who have allied themselves with the honorable night elves stand guard of their cities, and of their border territories. They can burrow their rooted feet into the soil beneath, becoming indistinguishable from a normal tree if they stand perfectly still. This allows both for other creatures to take shelter between its leaves, such as a squirrel with its own acorns, and for the ancient to keep quiet watch over the wilds.",
-												"Due to their immense lifespan and often slow, lumbering presence, an ancient sees time differently from mortal races. Often times, years may become akin to hours, minutes, or even seconds."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Plantlike Creatures",
-											"entries": [
-												"",
-												"An ancient doesn't require food or sleep. Instead, it draws nourishment from the soil and can carry on for weeks without a fresh supply of water."
-											]
-										}
-									]	
-								},
-								{
-									"type": "entries",
-									"name": "Ancient Protector",
-									"entries": [
-										"Most often when the acorn of an ancient sprouts, it grows to become an ancient protector. These hulking trees make up most of the ancients, and are critical in safeguarding night elven civic areas and groves."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Ancient of Lore",
-									"entries": [
-										"Some ancients grow to become enlightened beings of the forest, wise beyond belief and capable of establishing meaningful contact with the free-spirited dryads. These ancient have a close connection to night elven druids and priests, taking on a role as instructors in the ways of magic and the secrets of nature."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Ancient of War",
-									"entries": [
-										"The toughest of ancients grow into ancients of war; mighty plants often found defending night elven settlements or supporting Alliance forces in battle. Embodied in these ancient guardians are the spirits of courage and determination, which they wield to call upon the forest itself to rise in order to turn the tide of battle in favour of them and their allies."
-									]
-								},
-								{
-									"type": "variant",
-									"name": "Tree of Life",
-									"entries": [
-										"A tree of life is a sapling born from the world tree Nordrassil, these ancients have suffered great losses in recent wars, and those who remain have returned to the forest to spread their seeds and replenish their numbers undisturbed.",
-										"A tree of life has a challenge rating of 10 (5,900 XP). It has the same statistics as an ancient of lore, and gains the following additional traits:",
-										{													
-											"type": "entries",
-											"name": "Nature's Blessing.",
-											"entries": [
-												"The tree add its Wisdom modifier to its Armor Class (AC 19)."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Rooted Tranquility.",
-											"entries": [
-												"While the tree have taken root, each plant of the tree's choice within 60 feet of it regains 20 hit points at the start of its turn. If the plant takes fire damage, this trait doesn't function at the start of the plant's next turn. A plant dies if it starts its turn with 0 hit points."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Spellcasting.",
-											"entries": [
-												"The tree has the following additional spells prepared.",
-												{
-													"type": "list",
-													"items": [
-														"4th level: {@i {@spell guardian of nature|xge}, {@spell grasping vine}}",
-														"5th level: {@i {@spell commune with nature}}",
-														"6th level: {@i {@spell druid grove|xge}, {@spell sunbeam}}"
-													]
-												}
-											]
-										},
-										{
-											"type": "entries",
-											"name": "",
-											"entries": [
-												"The tree has the following additional action option.",
-												{													
-													"type": "entries",
-													"name": "Summon {@creature Wisp|WC5E MoM|Wisps} (1/Day).",
-													"entries": [
-														"The tree calls forth ten wisps that appear in empty spaces within 60 feet of it. These wisps act as allies of the tree. The wisps remains for 1 day or until they die."
-													]
-												}
-											]
-										}
-									]							
-								},
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [					
-										{},
-										"{@note List of Ancients}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [					
-												"{@creature Ancient Protector|WC5E MoM}",
-												"{@creature Ancient of Lore|WC5E MoM}",
-												"{@creature Ancient of War|WC5E MoM}",
-												"{@creature Tree of Life|WC5E MoM}",
-												""
-											]
-										}
-									]	
-								}		
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Bog Beasts",
-							"entries": [
-								"A bog beast is a massive, shambling monster made of plants, roots, and flesh. Inhabiting bogs and swamps, they hide away beneath the water surface, disguising themselves as thick, waterlogged lumps of vegetation. There they wait patiently for any unaware critters to venture too close -- or better yet, unaware adventurers.",
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [
-										{
-											"type": "entries",
-											"name": "Creatures of Mystery",
-											"entries": [
-												"",
-												"Bog beasts are frightful creatures, and notoriously elusive. They are adept at avoiding the gaze of scholars attempting to study them; and for many who have tried, only moss-riddled remains have been found. Their aggressive, territorial nature makes them a considerable danger to any unfortunate enough to cross paths with them."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Plants Anatomy",
-											"entries": [
-												"",
-												"Thick roots stretch across the entirety of the bog beast's form, as if to conceal what hides underneath. It is speculated that they have no real need for sustenance apart from the waters they dwell in, and some have been observed spending months still in the murky depths -- only barely grasping the surface to draw breath."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Naturally Powerful",
-											"entries": [
-												"",
-												"Explorers who have encountered a bog beast and lived to tell the tale, describe them as immensely powerful and resilient to harm. Their massive limbs can quickly overwhelm their enemies, crushing opponents with their fists or with whatever nearby objects they can throw."
-											]
-										}
-									]	
-								},
-								{
-									"type": "entries",
-									"name": "Timberling",
-									"entries": [
-										"A timberling is by many considered the child of bog beasts, very similar and yet considerably smaller at a height comparable to that of a dwarf. As far as bog beasts go, timberlings are fairly peaceful creatures that live in harmony with the land. However, any disruption to their habitat will quickly drive them into an unnatural frenzy."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Thistleshrub",
-									"entries": [
-										"Thistleshrubs, unlike most bog beasts, do not dwell in swamps or marshes. Instead they prefer arid climates, and bear a resemblance to a large mass of withered vines covered in sharp briars. They are known to be very hostile, and will certainly attack anyone foolish enough to approach; sporadically lashing out with whip-like thorns at anything that comes near."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Swampwalker",
-									"entries": [
-										"These hulking masses are rarely ever witnessed outside of dense swamps, and blend perfectly into their chosen habitat with their dark green and brown colors.",
-										"They are both the most territorial and the most cunning among bog beasts, and have been witnessed deliberately attempting to lure travellers farther into their lair in order to spring a trap. Their natural camouflage allows them to move through their territory entirely unseen, and have left adventurers wary even of rippling water and rustling leaves when venturing through swamps."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Tar Creeper",
-									"entries": [
-										"Cherishing humid air and temperatures, the tar creeper is by far the most abnormal of all bog beasts for its viscous, tar-like appearance. Not to mention the most dangerous.",
-										"Though they might seem slow, these massive beasts can cut through tar like a fish through water; lunging forth to trap their prey and drag it back down below."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [					
-										{},
-										"{@note List of Bog Beasts}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [					
-												"{@creature Timberling|WC5E MoM}",
-												"{@creature Thistleshrub|WC5E MoM}",
-												"{@creature Swampwalker|WC5E MoM}",
-												"{@creature Tar Creeper|WC5E MoM}",
-												""
-											]
-										}
-									]	
-								}		
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Lashers",
-							"entries": [
-								"Lashers are a family of large, slithering flora, known for their long, appendage-like tendrils and found across most of Azeroth. Though most lashers are not predatory, they will defend themselves if threatened.",
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [
-										{
-											"type": "entries",
-											"name": "Sentient Plants",
-											"entries": [
-												"",
-												"Their existence is the result of nature magic, seeped down into the ground and left to spread. There, it has given the plants enough will to uproot themselves and roam around. For some lashers, this awakening has been deliberate and fairly harmless. For others, it has transformed the plants into vile monstrosities."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Widely Adapted",
-											"entries": [
-												"",
-												"A lasher spitter is a large, carnivorous plant. It produces a strong acid within its stalk, which it then spits out with impressive accuracy through the large maw situated between its petals. The acid is strong enough to dissolve flesh, for easier consumption."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Fast Learners",
-											"entries": [
-												"",
-												"Though they appear driven by little more than instinct, fully mature lashers have shown themselves to be remarkably intelligent. Even capable of laying traps, forming decorations, and conveying messages with simple gestures."
-											]
-										}
-									]	
-								},
-								{
-									"type": "entries",
-									"name": "Lasher Spitter",
-									"entries": [
-										"A lasher spitter is a large, carnivorous plant. It produces a strong acid within its stalk, which it then spits out with impressive accuracy through the large maw situated between its petals. The acid is strong enough to dissolve flesh, for easier consumption."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Barbed Orchid",
-									"entries": [
-										"A barbed orchid stands out from other lashers for its large, vibrant flower-head, centre of which some describe as resembling an owlbeast's beak. Their long tendrils are covered with barbs, which they strike out at prey and intruders alike."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Bloodpetal Flayer",
-									"entries": [
-										"At a glance, most would take the bloodpetal flayer for little more than a very colorful lasher. Looks are sure to betray, however; as these lashers are unmatched for their ferocity, and for the potency of the vile toxin kept in their sharp thorns."
-									]
-								},
-								{
-									"type": "variant",
-									"name": "Mature Lasher",
-									"entries": [
-										"When lashers reach maturity, some learn to channel the powers of the moon in their favor.",
-										"A mature lashers has the same statistics as a lasher spitter, except that it has a Wisdom score of 12, and replaces the spitter's action options with the following action option:",
-										{													
-											"type": "entries",
-											"name": "Dream Lash.",
-											"entries": [
-												"{@i Ranged Spell Attack:} +3 to hit, range 15/30 ft., one target. {@i Hit:} 5 (1d10) radiant damage."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Rooted Tranquility.",
-											"entries": [
-												"While the tree have taken root, each plant of the tree's choice within 60 feet of it regains 20 hit points at the start of its turn. If the plant takes fire damage, this trait doesn't function at the start of the plant's next turn. A plant dies if it starts its turn with 0 hit points."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Spellcasting.",
-											"entries": [
-												"The tree has the following additional spells prepared.",
-												{
-													"type": "list",
-													"items": [
-														"4th level: {@i {@spell guardian of nature|xge}, {@spell grasping vine}}",
-														"5th level: {@i {@spell commune with nature}}",
-														"6th level: {@i {@spell druid grove|xge}, {@spell sunbeam}}"
-													]
-												},
-												"The tree has the following additional action option.",
-												{													
-													"type": "entries",
-													"name": "Summon Wisps (1/Day).",
-													"entries": [
-														"The tree calls forth ten wisps that appear in empty spaces within 60 feet of it. These wisps act as allies of the tree. The wisps remains for 1 day or until they die."
-													]
-												}
-											]
-										}
-									]							
-								},
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [					
-										{},
-										"{@note List of Lashers}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [					
-												"{@creature Lasher|WC5E MoM}",
-												"{@creature Lasher Spitter|WC5E MoM}",
-												"{@creature Barbed Orchid|WC5E MoM}",
-												"{@creature Bloodpetal Flayer|WC5E MoM}",
-												"{@creature Mature Lasher|WC5E MoM}",
-												""
-											]
-										}
-									]	
-								}		
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Treants",
-							"entries": [
-								"Few would gaze upon the stout treants and assume them to be wise or strong, but these awakened trees have been imbued by the spirits of the forests in which they dwell. In times of peace, they act as keepers and tenders. In times of war, they rise to defend their groves with fervor.",
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [
-										{
-											"type": "entries",
-											"name": "Saplings of Ancients",
-											"entries": [
-												"",
-												"The treants begin their lives as sapling sprouds of the ancients, carrying many of the same qualities as the tree from which they came -- be it be it boldness, tenderness, or a great force of will. Like the forest around them, treants never cease to grow. Instead, they rise taller and taller, century by century passing by, until the time is right for one to rise into the annals as an ancient protector."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Guardians of Nature",
-											"entries": [
-												"",
-												"Like the ancients, treants live to serve the forces of nature. Should someone dare to bring harm to their domain, it is they who wander the woods in search the perpetrators. If confronted, the treants respond by slashing wildly with their barbed claws.",
-												"Their task of safe-guarding nature have granted them favor among druids and woodland creatures alike. It is rare to see a treant wandering alone, as they are often accompanied by sprouts and other critters."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Corrupted and Unpredictable",
-											"entries": [
-												"",
-												"During the Third War, as the Burning Legion once more invaded Azeroth, numerous forests were set ablaze -- most notably, the forests of Ashenvale and Quel'Thalas.",
-												"With the destruction of their groves, the treants who delved within were driven to the brink of insanity, their hollow shells quickly gripped by the Legion's influence.",
-												"Though the invasion was since quelled, many groves are still saturated with demonic corruption; the treants within ready to lash out at any who would dare appproach. Adventurers who have taken upon them to visit these ancient sites, have borne witness to withered shambles lurking between dead trees and fallen ruins."
-											]
-										}
-									]	
-								},
-								{
-									"type": "variant",
-									"name": "Treant Wildcaller",
-									"entries": [
-										"Although all treants can manipulate the forest to some degree, wildcallers can harness the full might of the wilderness. A treant wildcaller has a challenge rating of 3 (700 XP). It has 45 (7d8 + 14) hit points and the following trait.",
-										{													
-											"type": "entries",
-											"name": "Spellcasting.",
-											"entries": [
-												"The treant is a 4th-level spellcaster. its spellcasting ability is Wisdom (save DC 11, +3 to hit with spell attacks). The treant has the following druid spells prepared:",
-												{
-													"type": "list",
-													"items": [
-														"Cantrips (at will): {@i {@spell druidcraft}, {@spell solar wrath|WC5E Spells}, {@spell thorn whip}}",
-														"1st level (4 slots): {@i {@spell cure wounds}, {@spell faerie fire}, {@spell sleep}}",
-														"2nd level (3 slots): {@i {@spell barkskin}, {@spell spike growth}}"
-													]
-												}
-											]
-										}
-									]							
-								},
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [					
-										{},
-										"{@note List of Treants}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [					
-												"{@creature Treant|WC5E MoM}",
-												"{@creature Treant Wildcaller|WC5E MoM}",
-												""
-											]
-										}
-									]	
-								}		
-							]
-						}
-					]
-				},
-				{
-					"type": "section",
 					"name": "Primitive Societies",
 					"entries": [					
 						"This sections contains Primitive Societies that aren't part of major factions from around Azeroth and beyond.",
@@ -2341,6 +1964,24 @@
 									]	
 								},
 								{
+								"type": "entries",
+								"name": "",
+								"entries": [
+										{},
+										"{@note List of Harpies}",
+										{	
+										"type": "list",
+										"style": "list-no-bullets",
+										"columns": 3,
+										"items": [					
+												"{@creature Harpy|WC5E MoM}",
+												"{@creature Harpy Witch|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								},
+								{
 									"type": "entries",
 									"name": "Harpy Witch",
 									"entries": [
@@ -2367,24 +2008,6 @@
 										"You feign to tell me the laws of nature? I speak for the winds and the wilds, child. Do not presume to lecture ME. And yet, I see wisdom in your choices, and I see kindness in you."
 									],
 									"by": "Aviana, Mother of Harpies"
-								},
-								{
-								"type": "entries",
-								"name": "",
-								"entries": [
-										{},
-										"{@note List of Harpies}",
-										{	
-										"type": "list",
-										"style": "list-no-bullets",
-										"columns": 3,
-										"items": [					
-												"{@creature Harpy|WC5E MoM}",
-												"{@creature Harpy Witch|WC5E MoM}",
-												""
-											]
-										}
-									]	
 								}		
 							]
 						},
@@ -3102,6 +2725,19 @@
 												}
 											]	
 										},
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Dark Iron Dwarf|WC5E MoM}",
+												"{@creature Dark Iron Sorcerer|WC5E MoM}",
+												"{@creature Dark Iron Overseer|WC5E MoM}",
+												"{@creature Dark Iron Herald|WC5E MoM}",
+												"{@creature Dark Iron Hound|WC5E MoM}",
+												""
+											]
+										},
 										{
 											"type": "entries",
 											"name": "Dark Iron Sorcerer",
@@ -3131,20 +2767,6 @@
 												"A dark iron hounds is smaller, one headed, core hound. They are often seen accompanying the dark iron dwarves who dwell within Blackrock Mountain.",
 												"These hounds are often used as mounts by the dark iron dwarves that keep them, though they do not take well to others."
 											]	
-										},
-										"{@note List of Dark Iron}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [					
-												"{@creature Dark Iron Dwarf|WC5E MoM}",
-												"{@creature Dark Iron Sorcerer|WC5E MoM}",
-												"{@creature Dark Iron Overseer|WC5E MoM}",
-												"{@creature Dark Iron Herald|WC5E MoM}",
-												"{@creature Dark Iron Hound|WC5E MoM}",
-												""
-											]
 										}
 									]
 								}
@@ -3490,6 +3112,26 @@
 										},
 										{
 											"type": "entries",
+											"name": "",
+											"entries": [	
+												{},
+												"{@note List of Ogres}",
+												{	
+													"type": "list",
+													"style": "list-no-bullets",
+													"columns": 3,
+													"items": [
+														"{@creature Ogre|WC5E MoM}",
+														"{@creature Ogre Magi|WC5E MoM}",
+														"{@creature Ogre Lord|WC5E MoM}",
+														"{@creature Ogre Priest|WC5E MoM}",
+														""
+													]
+												}
+											]	
+										},
+										{
+											"type": "entries",
 											"name": "Ogre Magi",
 											"entries": [
 											"The ogre magi, with its two heads, holds an intelligence far exceeding the rest of its kin. Borne of the same magic that they wield, it was not uncommon for the Horde -- in its second invasion of Azeroth -- to force this transformation in order to bolster its rank of spellcasters.",
@@ -3562,26 +3204,6 @@
 											]
 										}
 									]
-								},
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [	
-										{},
-										"{@note List of Ogres}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [
-												"{@creature Ogre|WC5E MoM}",
-												"{@creature Ogre Magi|WC5E MoM}",
-												"{@creature Ogre Lord|WC5E MoM}",
-												"{@creature Ogre Priest|WC5E MoM}",
-												""
-											]
-										}
-									]	
 								}
 							]
 						},
@@ -3647,6 +3269,24 @@
 										},
 										{
 											"type": "entries",
+											"name": "",
+											"entries": [	
+												{},
+												"{@note List of Satyr}",
+												{	
+													"type": "list",
+													"style": "list-no-bullets",
+													"columns": 3,
+													"items": [
+														"{@creature Satyr Trickster|WC5E MoM}",
+														"{@creature Satyr Hellcaller|WC5E MoM}",
+														""
+													]
+												}
+											]	
+										},
+										{
+											"type": "entries",
 											"name": "Satyr Trickster",
 											"entries": [
 											"Certain satyrs show a penchant for laying painful traps and ambushing their targets. These tricksters revere and mimic their Lord, Xavius, for his sinister deeds. When the call to battle sounds, they take the subtle approach -- by sneaking up on their enemies to pick off any target they can waylay."
@@ -3660,24 +3300,6 @@
 											]
 										}
 									]
-								},
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [	
-										{},
-										"{@note List of Satyr}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [
-												"{@creature Satyr Trickster|WC5E MoM}",
-												"{@creature Satyr Hellcaller|WC5E MoM}",
-												""
-											]
-										}
-									]	
 								}
 							]
 						},
@@ -3767,6 +3389,24 @@
 										},
 										{
 											"type": "entries",
+											"name": "",
+											"entries": [	
+												"{@note List of Trolls}",
+												{	
+													"type": "list",
+													"style": "list-no-bullets",
+													"columns": 3,
+													"items": [
+														"{@creature Troll Berserker|WC5E MoM}",
+														"{@creature Troll Headhunter|WC5E MoM}",
+														"{@creature Troll Witch Doctor|WC5E MoM}",
+														"{@creature Dire Troll|WC5E MoM}"
+													]
+												}
+											]	
+										},
+										{
+											"type": "entries",
 											"name": "Troll Berserker",
 											"entries": [
 											"To survive a tribe, one must be powerful. For a troll, being powerful means being stronger than one's enemy.",
@@ -3819,24 +3459,6 @@
 											]
 										}
 									]
-								},
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [	
-										"{@note List of Trolls}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [
-												"{@creature Troll Berserker|WC5E MoM}",
-												"{@creature Troll Headhunter|WC5E MoM}",
-												"{@creature Troll Witch Doctor|WC5E MoM}",
-												"{@creature Dire Troll|WC5E MoM}"
-											]
-										}
-									]	
 								}
 							]
 						},
@@ -3924,6 +3546,426 @@
 				},
 				{
 					"type": "section",
+					"name": "Plant Creatures",
+					"entries": [					
+						"{@b Plants} in this context are vegetable creatures, not ordinary flora. Most of them are ambulatory, and some are carnivorous. The quintessential plants are the ancients and treants. Fungal creatures such as sporelings and the mandragora also fall into this category.",
+						{
+							"type": "entries",
+							"name": "Ancients",
+							"entries": [
+								"The Ancients are massive, leaf-covered trees given life. With an unparalleled wisdom and insight into the world around them, they act asguardians of the forests where they dwell -- such as those of northern Kalimdor, where their shared bonds with the night elves have kept the two races in a long-lasting symbiosis.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Staunch Defenders.",
+											"entries": [
+												"",
+												"An ancient is grown from an acorn, like so many other trees, though the acorn itself is far rarer and far more powerful. It takes years upon years for an ancient to grow to its full size, where it stays for thousands of years without feeling the wear of old age.",
+												"The ancients who have allied themselves with the honorable night elves stand guard of their cities, and of their border territories. They can burrow their rooted feet into the soil beneath, becoming indistinguishable from a normal tree if they stand perfectly still. This allows both for other creatures to take shelter between its leaves, such as a squirrel with its own acorns, and for the ancient to keep quiet watch over the wilds.",
+												"Due to their immense lifespan and often slow, lumbering presence, an ancient sees time differently from mortal races. Often times, years may become akin to hours, minutes, or even seconds."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Plantlike Creatures",
+											"entries": [
+												"",
+												"An ancient doesn't require food or sleep. Instead, it draws nourishment from the soil and can carry on for weeks without a fresh supply of water."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Ancient Protector|WC5E MoM}",
+												"{@creature Ancient of Lore|WC5E MoM}",
+												"{@creature Ancient of War|WC5E MoM}",
+												"{@creature Tree of Life|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Ancient Protector",
+									"entries": [
+										"Most often when the acorn of an ancient sprouts, it grows to become an ancient protector. These hulking trees make up most of the ancients, and are critical in safeguarding night elven civic areas and groves."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ancient of Lore",
+									"entries": [
+										"Some ancients grow to become enlightened beings of the forest, wise beyond belief and capable of establishing meaningful contact with the free-spirited dryads. These ancient have a close connection to night elven druids and priests, taking on a role as instructors in the ways of magic and the secrets of nature."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ancient of War",
+									"entries": [
+										"The toughest of ancients grow into ancients of war; mighty plants often found defending night elven settlements or supporting Alliance forces in battle. Embodied in these ancient guardians are the spirits of courage and determination, which they wield to call upon the forest itself to rise in order to turn the tide of battle in favour of them and their allies."
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Tree of Life",
+									"entries": [
+										"A tree of life is a sapling born from the world tree Nordrassil, these ancients have suffered great losses in recent wars, and those who remain have returned to the forest to spread their seeds and replenish their numbers undisturbed.",
+										"A tree of life has a challenge rating of 10 (5,900 XP). It has the same statistics as an ancient of lore, and gains the following additional traits:",
+										{													
+											"type": "entries",
+											"name": "Nature's Blessing.",
+											"entries": [
+												"The tree add its Wisdom modifier to its Armor Class (AC 19)."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Rooted Tranquility.",
+											"entries": [
+												"While the tree have taken root, each plant of the tree's choice within 60 feet of it regains 20 hit points at the start of its turn. If the plant takes fire damage, this trait doesn't function at the start of the plant's next turn. A plant dies if it starts its turn with 0 hit points."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Spellcasting.",
+											"entries": [
+												"The tree has the following additional spells prepared.",
+												{
+													"type": "list",
+													"items": [
+														"4th level: {@i {@spell guardian of nature|xge}, {@spell grasping vine}}",
+														"5th level: {@i {@spell commune with nature}}",
+														"6th level: {@i {@spell druid grove|xge}, {@spell sunbeam}}"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [
+												"The tree has the following additional action option.",
+												{													
+													"type": "entries",
+													"name": "Summon {@creature Wisp|WC5E MoM|Wisps} (1/Day).",
+													"entries": [
+														"The tree calls forth ten wisps that appear in empty spaces within 60 feet of it. These wisps act as allies of the tree. The wisps remains for 1 day or until they die."
+													]
+												}
+											]
+										}
+									]							
+								}	
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Bog Beasts",
+							"entries": [
+								"A bog beast is a massive, shambling monster made of plants, roots, and flesh. Inhabiting bogs and swamps, they hide away beneath the water surface, disguising themselves as thick, waterlogged lumps of vegetation. There they wait patiently for any unaware critters to venture too close -- or better yet, unaware adventurers.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Creatures of Mystery",
+											"entries": [
+												"",
+												"Bog beasts are frightful creatures, and notoriously elusive. They are adept at avoiding the gaze of scholars attempting to study them; and for many who have tried, only moss-riddled remains have been found. Their aggressive, territorial nature makes them a considerable danger to any unfortunate enough to cross paths with them."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Plants Anatomy",
+											"entries": [
+												"",
+												"Thick roots stretch across the entirety of the bog beast's form, as if to conceal what hides underneath. It is speculated that they have no real need for sustenance apart from the waters they dwell in, and some have been observed spending months still in the murky depths -- only barely grasping the surface to draw breath."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Naturally Powerful",
+											"entries": [
+												"",
+												"Explorers who have encountered a bog beast and lived to tell the tale, describe them as immensely powerful and resilient to harm. Their massive limbs can quickly overwhelm their enemies, crushing opponents with their fists or with whatever nearby objects they can throw."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Bog Beasts}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Timberling|WC5E MoM}",
+												"{@creature Thistleshrub|WC5E MoM}",
+												"{@creature Swampwalker|WC5E MoM}",
+												"{@creature Tar Creeper|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Timberling",
+									"entries": [
+										"A timberling is by many considered the child of bog beasts, very similar and yet considerably smaller at a height comparable to that of a dwarf. As far as bog beasts go, timberlings are fairly peaceful creatures that live in harmony with the land. However, any disruption to their habitat will quickly drive them into an unnatural frenzy."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Thistleshrub",
+									"entries": [
+										"Thistleshrubs, unlike most bog beasts, do not dwell in swamps or marshes. Instead they prefer arid climates, and bear a resemblance to a large mass of withered vines covered in sharp briars. They are known to be very hostile, and will certainly attack anyone foolish enough to approach; sporadically lashing out with whip-like thorns at anything that comes near."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Swampwalker",
+									"entries": [
+										"These hulking masses are rarely ever witnessed outside of dense swamps, and blend perfectly into their chosen habitat with their dark green and brown colors.",
+										"They are both the most territorial and the most cunning among bog beasts, and have been witnessed deliberately attempting to lure travellers farther into their lair in order to spring a trap. Their natural camouflage allows them to move through their territory entirely unseen, and have left adventurers wary even of rippling water and rustling leaves when venturing through swamps."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tar Creeper",
+									"entries": [
+										"Cherishing humid air and temperatures, the tar creeper is by far the most abnormal of all bog beasts for its viscous, tar-like appearance. Not to mention the most dangerous.",
+										"Though they might seem slow, these massive beasts can cut through tar like a fish through water; lunging forth to trap their prey and drag it back down below."
+									]
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Lashers",
+							"entries": [
+								"Lashers are a family of large, slithering flora, known for their long, appendage-like tendrils and found across most of Azeroth. Though most lashers are not predatory, they will defend themselves if threatened.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Sentient Plants",
+											"entries": [
+												"",
+												"Their existence is the result of nature magic, seeped down into the ground and left to spread. There, it has given the plants enough will to uproot themselves and roam around. For some lashers, this awakening has been deliberate and fairly harmless. For others, it has transformed the plants into vile monstrosities."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Widely Adapted",
+											"entries": [
+												"",
+												"A lasher spitter is a large, carnivorous plant. It produces a strong acid within its stalk, which it then spits out with impressive accuracy through the large maw situated between its petals. The acid is strong enough to dissolve flesh, for easier consumption."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fast Learners",
+											"entries": [
+												"",
+												"Though they appear driven by little more than instinct, fully mature lashers have shown themselves to be remarkably intelligent. Even capable of laying traps, forming decorations, and conveying messages with simple gestures."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Lashers}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Lasher|WC5E MoM}",
+												"{@creature Lasher Spitter|WC5E MoM}",
+												"{@creature Barbed Orchid|WC5E MoM}",
+												"{@creature Bloodpetal Flayer|WC5E MoM}",
+												"{@creature Mature Lasher|WC5E MoM}",
+												""
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Lasher Spitter",
+									"entries": [
+										"A lasher spitter is a large, carnivorous plant. It produces a strong acid within its stalk, which it then spits out with impressive accuracy through the large maw situated between its petals. The acid is strong enough to dissolve flesh, for easier consumption."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Barbed Orchid",
+									"entries": [
+										"A barbed orchid stands out from other lashers for its large, vibrant flower-head, centre of which some describe as resembling an owlbeast's beak. Their long tendrils are covered with barbs, which they strike out at prey and intruders alike."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Bloodpetal Flayer",
+									"entries": [
+										"At a glance, most would take the bloodpetal flayer for little more than a very colorful lasher. Looks are sure to betray, however; as these lashers are unmatched for their ferocity, and for the potency of the vile toxin kept in their sharp thorns."
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Mature Lasher",
+									"entries": [
+										"When lashers reach maturity, some learn to channel the powers of the moon in their favor.",
+										"A mature lashers has the same statistics as a lasher spitter, except that it has a Wisdom score of 12, and replaces the spitter's action options with the following action option:",
+										{													
+											"type": "entries",
+											"name": "Dream Lash.",
+											"entries": [
+												"{@i Ranged Spell Attack:} +3 to hit, range 15/30 ft., one target. {@i Hit:} 5 (1d10) radiant damage."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Rooted Tranquility.",
+											"entries": [
+												"While the tree have taken root, each plant of the tree's choice within 60 feet of it regains 20 hit points at the start of its turn. If the plant takes fire damage, this trait doesn't function at the start of the plant's next turn. A plant dies if it starts its turn with 0 hit points."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Spellcasting.",
+											"entries": [
+												"The tree has the following additional spells prepared.",
+												{
+													"type": "list",
+													"items": [
+														"4th level: {@i {@spell guardian of nature|xge}, {@spell grasping vine}}",
+														"5th level: {@i {@spell commune with nature}}",
+														"6th level: {@i {@spell druid grove|xge}, {@spell sunbeam}}"
+													]
+												},
+												"The tree has the following additional action option.",
+												{													
+													"type": "entries",
+													"name": "Summon Wisps (1/Day).",
+													"entries": [
+														"The tree calls forth ten wisps that appear in empty spaces within 60 feet of it. These wisps act as allies of the tree. The wisps remains for 1 day or until they die."
+													]
+												}
+											]
+										}
+									]							
+								}		
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Treants",
+							"entries": [
+								"Few would gaze upon the stout treants and assume them to be wise or strong, but these awakened trees have been imbued by the spirits of the forests in which they dwell. In times of peace, they act as keepers and tenders. In times of war, they rise to defend their groves with fervor.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Saplings of Ancients",
+											"entries": [
+												"",
+												"The treants begin their lives as sapling sprouds of the ancients, carrying many of the same qualities as the tree from which they came -- be it be it boldness, tenderness, or a great force of will. Like the forest around them, treants never cease to grow. Instead, they rise taller and taller, century by century passing by, until the time is right for one to rise into the annals as an ancient protector."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Guardians of Nature",
+											"entries": [
+												"",
+												"Like the ancients, treants live to serve the forces of nature. Should someone dare to bring harm to their domain, it is they who wander the woods in search the perpetrators. If confronted, the treants respond by slashing wildly with their barbed claws.",
+												"Their task of safe-guarding nature have granted them favor among druids and woodland creatures alike. It is rare to see a treant wandering alone, as they are often accompanied by sprouts and other critters."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Corrupted and Unpredictable",
+											"entries": [
+												"",
+												"During the Third War, as the Burning Legion once more invaded Azeroth, numerous forests were set ablaze -- most notably, the forests of Ashenvale and Quel'Thalas.",
+												"With the destruction of their groves, the treants who delved within were driven to the brink of insanity, their hollow shells quickly gripped by the Legion's influence.",
+												"Though the invasion was since quelled, many groves are still saturated with demonic corruption; the treants within ready to lash out at any who would dare appproach. Adventurers who have taken upon them to visit these ancient sites, have borne witness to withered shambles lurking between dead trees and fallen ruins."
+											]
+										}
+									]	
+								},
+								{
+									"type": "variant",
+									"name": "Treant Wildcaller",
+									"entries": [
+										"Although all treants can manipulate the forest to some degree, wildcallers can harness the full might of the wilderness. A treant wildcaller has a challenge rating of 3 (700 XP). It has 45 (7d8 + 14) hit points and the following trait.",
+										{													
+											"type": "entries",
+											"name": "Spellcasting.",
+											"entries": [
+												"The treant is a 4th-level spellcaster. its spellcasting ability is Wisdom (save DC 11, +3 to hit with spell attacks). The treant has the following druid spells prepared:",
+												{
+													"type": "list",
+													"items": [
+														"Cantrips (at will): {@i {@spell druidcraft}, {@spell solar wrath|WC5E Spells}, {@spell thorn whip}}",
+														"1st level (4 slots): {@i {@spell cure wounds}, {@spell faerie fire}, {@spell sleep}}",
+														"2nd level (3 slots): {@i {@spell barkskin}, {@spell spike growth}}"
+													]
+												}
+											]
+										}
+									]							
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Treants}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Treant|WC5E MoM}",
+												"{@creature Treant Wildcaller|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								}		
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
 					"name": "Elemetals & Primordials",
 					"entries": [					
 						"This sections contains cratures who are the manifestation of primal forces such as the elements air, each, fire, and water but also those represent the cosmisc forces such as death and deacay, discorder and fel, light and holy, life and nature, order and arcane, shadow and void.",
@@ -3969,6 +4011,31 @@
 											"entries": [
 												"",
 												"An elemental doesn't require air, food, drink, or sleep."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Elementals}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Air Elemental|WC5E MoM}",
+												"{@creature Earth Elemental|WC5E MoM}",
+												"{@creature Fire Elemental|WC5E MoM}",
+												"{@creature Ice Elemental|WC5E MoM}",
+												"{@creature Water Elemental|WC5E MoM}",
+												"{@creature Core Hound|WC5E MoM}",
+												"{@creature Dust Devil|WC5E MoM}",
+												"{@creature Shale Spider|WC5E MoM}",
+												"{@creature Lava Spider|WC5E MoM}",
+												""
 											]
 										}
 									]	
@@ -4156,31 +4223,6 @@
 										}
 										
 									]							
-								},
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [					
-										{},
-										"{@note List of Elementals}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [					
-												"{@creature Air Elemental|WC5E MoM}",
-												"{@creature Earth Elemental|WC5E MoM}",
-												"{@creature Fire Elemental|WC5E MoM}",
-												"{@creature Ice Elemental|WC5E MoM}",
-												"{@creature Water Elemental|WC5E MoM}",
-												"{@creature Core Hound|WC5E MoM}",
-												"{@creature Dust Devil|WC5E MoM}",
-												"{@creature Shale Spider|WC5E MoM}",
-												"{@creature Lava Spider|WC5E MoM}",
-												""
-											]
-										}
-									]	
 								}		
 							]
 						},
@@ -4250,14 +4292,6 @@
 										}
 									]
 								},
-								{
-									"type": "entries",
-									"name": "Arcane Golem",
-									"entries": [
-										"Arcane golems are hulking constructs, powered by their crystallized arcane core, that are commonly employed as peacekeepers and defenders. Deep grooves are often carved into their outer shell, allowing the energies from their crystal to surge over them in colorful patterns.",
-										"They are highly favoured among blood elves, both for their sturdy build and for their magical resilience. In Quel'thalas, they vigilantly patrol the streets within the city and beyond."
-									]
-								},
 								{		
 									"type": "entries",
 									"name": "",
@@ -4272,6 +4306,14 @@
 												""
 											]
 										}					 
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Arcane Golem",
+									"entries": [
+										"Arcane golems are hulking constructs, powered by their crystallized arcane core, that are commonly employed as peacekeepers and defenders. Deep grooves are often carved into their outer shell, allowing the energies from their crystal to surge over them in colorful patterns.",
+										"They are highly favoured among blood elves, both for their sturdy build and for their magical resilience. In Quel'thalas, they vigilantly patrol the streets within the city and beyond."
 									]
 								}
 							]
@@ -4312,6 +4354,22 @@
 												"A mechanical creature doesn't require air, food, drink, or sleep."
 											]
 										}
+									]	
+								},
+								"{@note List of Mechanized Constructs}",
+								{	
+									"type": "list",
+									"style": "list-no-bullets",
+									"columns": 3,
+									"items": [					
+										"{@creature Harvest Golem|WC5E MoM}",
+										"{@creature Alarm-o-bot|WC5E MoM}",
+										"{@creature Bombling|WC5E MoM}",
+										"{@creature Crowd Pummeler|WC5E MoM}",
+										"{@creature Arcane Nullifier|WC5E MoM}",
+										"{@creature Mechano-tank|WC5E MoM}",
+										"{@creature Shredder|WC5E MoM}",
+										""
 									]	
 								},
 								{
@@ -4537,22 +4595,6 @@
  										"While piloted, the shredder's Intelligence, Wisdom, and Charisma scores are exchanged with those of the pilot. A piloted shredder uses the initiative of its pilot. The pilot must use its action, reaction, and movement to use the machines action options or force it to move to a new location. While a creature is crewing the shredder, it is considered to have three-quarters cover against any attack made against it from the ground.",
 										"Taking control of an {@b autopiloted} shredder requires a successful DC 14 Tinker's Tool Intelligence check. On a successful save, the creature takes control of the shredder until the end of the creature's next turn. At which point the shredder’s  failsafe mechanisms return, requiring a new save to temporarily take control of it."
 									]
-								},
-								"{@note List of Mechanized Constructs}",
-								{	
-									"type": "list",
-									"style": "list-no-bullets",
-									"columns": 3,
-									"items": [					
-										"{@creature Harvest Golem|WC5E MoM}",
-										"{@creature Alarm-o-bot|WC5E MoM}",
-										"{@creature Bombling|WC5E MoM}",
-										"{@creature Crowd Pummeler|WC5E MoM}",
-										"{@creature Arcane Nullifier|WC5E MoM}",
-										"{@creature Mechano-tank|WC5E MoM}",
-										"{@creature Shredder|WC5E MoM}",
-										""
-									]	
 								}
 							]
 						}
@@ -4621,6 +4663,31 @@
 											]
 										}
 									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Spirits & Ghosts}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Ghost Knight|WC5E MoM}",
+												"{@creature Ghost Spy|WC5E MoM}",
+												"{@creature Ghost Witch Doctor|WC5E MoM}",
+												"{@creature Apparition|WC5E MoM}",
+												"{@creature Banshee|WC5E MoM}",
+												"{@creature Shade|WC5E MoM}",
+												"{@creature Spectre|WC5E MoM}",
+												"{@creature Wisp|WC5E MoM}",
+												"{@creature Wraith|WC5E MoM}",
+												""
+											]
+										}
+									]	
 								},
 								{
 									"type": "entries",
@@ -4812,32 +4879,7 @@
 											]	
 										}
 									]
-								},
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [					
-										{},
-										"{@note List of Spirits & Ghosts}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [					
-												"{@creature Ghost Knight|WC5E MoM}",
-												"{@creature Ghost Spy|WC5E MoM}",
-												"{@creature Ghost Witch Doctor|WC5E MoM}",
-												"{@creature Apparition|WC5E MoM}",
-												"{@creature Banshee|WC5E MoM}",
-												"{@creature Shade|WC5E MoM}",
-												"{@creature Spectre|WC5E MoM}",
-												"{@creature Wisp|WC5E MoM}",
-												"{@creature Wraith|WC5E MoM}",
-												""
-											]
-										}
-									]	
-								}		
+								}	
 							]
 						},
 						{
@@ -4978,6 +5020,44 @@
 												"Since then, through the tireless machinations of the Scourge, a massive citadel has been erected around the Icecrown glacier upon which the Frozen Throne resides.",
 												"Its spiked walls and towering spires can be seen from every far-reaching corner of Northrend, as a warning to any who would set foot on its shores.",
 												"At the peak of the tallest spire, the Lich King dwells on his throne, projecting his iron will across Azeroth."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Scourge Minions}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [
+												"{@creature Scourge Risen Knight|WC5E MoM}",
+												"{@creature Abomination|WC5E MoM}",
+												"{@creature Greater Abomination|WC5E MoM}",
+												"{@creature Gargoyle|WC5E MoM}",
+												"{@creature Ghoul|WC5E MoM}",
+												"{@creature Zombie|WC5E MoM}",
+												"{@creature Bone Golem|WC5E MoM}",
+												"{@creature Bone Wraith|WC5E MoM}",
+												"{@creature Death Knight|WC5E MoM}",
+												"{@creature Deathcharger|WC5E MoM}",
+												"{@creature Flesh Giant|WC5E MoM}",
+												"{@creature Doomskull|WC5E MoM}",
+												"{@creature Geist|WC5E MoM}",
+												"{@creature Necrolyte |WC5E MoM}",
+												"{@creature Grand Necrolyte|WC5E MoM}",
+												"{@creature Plague Eruptor|WC5E MoM}",
+												"{@creature Lich|WC5E MoM}",
+												"{@creature Plague-dog|WC5E MoM}",
+												"{@creature Frostbrood Whelp|WC5E MoM}",
+												"{@creature Frostbrood Drake |WC5E MoM}",
+												"{@creature Frostbrood Dragon|WC5E MoM}",
+												"{@creature Frostbrood Wyrm|WC5E MoM}",
+												""
 											]
 										}
 									]	
@@ -5356,6 +5436,105 @@
 											]	
 										}
 									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Bruning Legion",
+							"entries": [
+								"PH",
+								{
+									"type": "entries",
+									"name": "Aranasi",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Spider Queens",
+											"entries": [
+												"",
+												"As female aranasi mature, they undergo a transformation. Becoming significantly more intelligent, they stand up on two of their many legs, with the others splayed behind them like wings, and typically take the role of commanders among the Legion, gaining lofty royal titles and choosing consorts."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Silk Road",
+											"entries": [
+												"",
+												"Aranasi broodmothers command dangerous and tricky magic, moulding captured territories into their own silken palaces via their race's webbing. Stepping into such a parlour can be extraordinarily dangerous, as any and all nearby aranasi, from the old to the newly-hatched, will come to the aid of their queen."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Crown Prince Menethil",
+											"entries": [
+												"",
+												"Although the Lich King and the Scourge had been given form to prelude the Burning Legion, Ner'zhul's true ambition was his own salvation: to break free from the shackles of his demonic masters.",
+												"To this end, the Lich King sought a champion to carry out his will. He had already envisioned the crown piece of Lordaeron, Arthas Menethil, supplanting him in his rule of the damned. The prince was a capable warrior; a paladin of the Silver Hand, seasoned from numerous skirmishes with errant orc clans across the human kingdoms.",
+												"This new undead threat, however, was not one Arthas could bring to an end. It drove the prince to desperation; to the purging of his own homeland; to a vengeful crusade across Northrend; and ultimately to his doom."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Runeblade",
+											"entries": [
+												"",
+												"Buried away in a frozen vault, Arthas drew forth an ancient runeblade -- Frostmourne. He had been told the blade would be the means to his long-sought ends, and by its powers he carved his way through the undead hordes with a might which none around him had seen before.",
+												"However, the blade would ultimately cost the crown prince his soul. Through it, the Lich King exerted his will upon Arthas, binding him as a champion of the Scourge."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Fall of Lordaeron",
+											"entries": [
+												"",
+												"Upon his return to Lordaeron, Arthas ultimately drove his kingdom to ruin. Thereafter, the kingdoms of Quel'thalas and Dalaran fell just the same. From their ashes, with the aid of Kel'thuzad -- reborn a Lich -- Arthas saw the Burning Legion summoned forth.",
+												"Though the invasion of the Legion was ultimately a failure, and the lands of Dalaran and Quel'thalas reclaimed, Lordaeron was  forever enveloped in undeath. The final piece of the Lich King's plan, with which the Scourge would truly take foot, was to bring Arthas to his side."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Doomguards",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"I remember well the sting of defeat at the conclusion of the Third War. I have waited far too long for my revenge. Now the shadow of the Legion falls over this world. It is only a matter of time until all of your failed creation... is undone."
+											],
+											"by": "Supreme Lord Kazzak"
+										},
+										"The fearsome ered'ruin race are among the most recognisable, and most feared, of the Burning Legion's infinite army. These hulking, great masses of muscle match perfectly the image of demons across all worlds; piercing horns, enormous wings, hooves, great flaming swords, and an unstoppable desire for murder and destruction. Believed to be among the earliest of the Legion's forces, doomguards have a deadly mastery over destructive magic and raw martial strength, and their sheer love of chaos makes them the ideal demonic warriors. Often individual doomguards act as lieutenants under greater demons, or command lesser troops on the battlefield. An army of many doomguards is a force unto itself, and many of the Legion's greatest victories have been at the hands of these fearsome creatures.",
+										"Their immense strength and violent nature makes them unstoppable in combat, and their brutish appearance hides an insidious intelligence tempered by the fires of eternal war."
+										{
+											"type": "entries",
+											"name": "Doom Bringers",
+											"entries": [
+												"",
+												"Some of these fearsome demons ascend to even greater degrees of raw strength and power, becoming respected commanders and generals in command of enormous armies of demons. Doomlords such as these have left scars across entire worlds, and even in defeat they have been known as exceptionally persistent."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Demonic Overlords",
+											"entries": [
+												"",
+												"Aranasi broodmothers command dangerous and tricky magic, moulding captured territories into their own silken palaces via their race's webbing. Stepping into such a parlour can be extraordinarily dangerous, as any and all nearby aranasi, from the old to the newly-hatched, will come to the aid of their queen."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Terrible Fiends",
+											"entries": [
+												"",
+												"Some demons, similar in appearance and power to the ered'ruin, have been sighted among Legion forces. These terrorguards have a similar profile, but their appearance is somehow more monstrous, with crowns of many horns circling their heads, and flame-belching, toothy maws in place of their torsos, accompanied by ever-staring eyes. Their relationship to the doomguards is unknown, but they well-earn their name, as they beget terror wherever they go."
+											]
+										},
+										{
+											
+										}
+									]	
 								},
 								{
 									"type": "entries",
@@ -5394,7 +5573,382 @@
 											]
 										}
 									]	
-								}		
+								},
+								{
+									"type": "entries",
+									"name": "Abomination",
+									"entries": [
+										"Twisted, mutilated creatures comprised of flesh from a multitude of corpses, Abominations are not risen like most undead. Instead, they are created, loosely stitched together. These putrid constructs resemble enormous mounds of flesh, given limbs and a vague semblance of form.",
+										"They are fearless, and take joy in cleaving flesh from bone with rusted cleavers. As though their creators saw it only fit to arm the beasts with weapons as bizarre as their excess of arms."
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Greater Abomination",
+									"entries": [
+										"A greater abomination has a challenge rating of 9 (5,000 XP). It has the statistics of an abomination except that it has 161 (17d10 + 68) hit points, Armor Class (AC 17), +8 to hit with its weapon attacks, and gains the following action options.",
+										{													
+											"type": "entries",
+											"name": "Engorge.",
+											"entries": [
+												"The abomination makes one cleaver attack and places a grappled target in its ribcage. The target becomes restrained, and can use its action to break free by succeeding on a DC 17 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 14 (4d6) bludgeoning damage at the start of each of the abominations turns. An abomination can have only one creature restrained within its ribcage."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Cannibalize.",
+											"entries": [
+												"The abomination cannibalize the corpse of creature that has been dead for less than 24 hours. Each creature of the abomination's choice that is within 120 feet and can see it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the abomination's Cannibalize for the next 24 hours."
+											]
+										}
+									]							
+								},
+								{
+									"type": "entries",
+									"name": "Bone Golem",
+									"entries": [
+										"Nothing is left to waste in the Scourge. A creation from the dark Scholomance, the bone golems are pieced together from remnants of skeletons too misshapen to use elsewhere, grafted with a pair of immense metal scythes. They are built solely to kill, and are deployed sparingly by their masters, perhaps owing to their unreliability, or tendency to rust."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Bone Wraith",
+									"entries": [
+										"Among the most distressing and intimidating of the Lich Kin's minions is the gigantic bone wraith, a skeletal guard of immense size and haunting appearance. Looking almost angelic with wings of bone, it is crafted from the much-suffering remnants of many bodies, all pushed together into a shape not remotely humanoid. They drift legless above the ground, with four skulls at the centre of a torso, and freakish arms wielding an axe made of yet more bone. The souls of these dead have been amalgamated together into something far lesser than the sum of its parts, able only to proclaim loyal battlecries in the name of its master.",
+										{													
+											"type": "entries",
+											"name": "Bone Storm!",
+											"entries": [
+												"The signature strength of these creatures is their ability to spin their many-limbed bodies at extreme, rapid speed, flailing their spiny wing-like protrusions out alongside their bony weapon. A guttural call will invariably accompany this assault, placing the bone storm into a legend among those who survive it."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Crypt Fiend",
+									"entries": [
+										"When the Lich King invaded the ancient spider kingdom of Azjol-Nerub, he was not content to allow its denizens peaceful deaths - the powerful and cunning nerubians were transformed into an army of undead spiders, forced to use their tunnels, structures and natural abilities to bolster the Scourge's already impressive army.",
+										"The conquered Spider Kingdom was given back to its people, but its people will never know freedom again."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Crypt Lord",
+									"entries": [
+										"The gigantic beetles that comprise the ruling castes of the Spider Kingdom of Azjol-Nerub were the final rulers of the dead empire, and it was by their design that the Scourge successfully consumed them. Now, the so-called Crypt Lords occupy a position of command among their undead brethren, allowed sentience but not free will.",
+										{													
+											"type": "entries",
+											"name": "King me",
+											"entries": [
+												"Crypt Lords represent not only the vast ruling power of the nerubian race, but also their raw destructive power. Enormous scything claws, armoured shells around gossamer wings, effortless forming of tunnels and quakes, and the spawning of swarms of beetles and locusts from their bodies are the key weapons of these flying behemoths. "
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Death Knight",
+									"entries": [
+										"As the ruler of the damned, the Lich King naturally needed an elite caste of knights. These undead knights are granted immense power over death magic, cruel rune-inscribed blades that drain the lives of their foes, and command over appreciable portions of the Scourge's armies. Intelligent and retaining their living personalities, albeit warped and broken into servitude, Death Knights became the feared top level of the Lich King's armies, elites that acted as royal guard to the Lich King.",
+										{													
+											"type": "entries",
+											"name": "Wartime Progenitors",
+											"entries": [
+												"The creation of orcish Death Knights by the original Horde preceded the undead champions of the Scourge, but there is little relation. The Lich King took a particular effort to take the concept and work it further, changing them from a mismatching of orcish spirit to human corpse, into a powerful new brand of undead far greater than any before it."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Faded Light",
+											"entries": [
+												"The second generation of Death Knights were created during the fall of Lordaeron at the hands of the first in their ranks, Prince Arthas Menethil. Following him, others were raised from the corpses of previously pious and loyal paladins, their powers warped and reversed  - healing became harm, protection became degradation, and resurrection became the raising of loyal undead. Wielding cursed runeblades and riding the skeletal remains of their loyal steeds, these knights marked the new age of the modern Scourge."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Fallen Heroes",
+											"entries": [
+												"The third generation, spawned exclusively to destroy champions of the Light, were far more industrial; hordes of corpses were raised, placed in identical armour, and put through intense trials. Relatively few survived, and those left became a new army of lesser elites, less powerful but more reliable than the previous generation - at least, until thousands of them broke free from their master's command, and swore to destroy him."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Deathcharger",
+									"entries": [
+										"A true Scourge invasion is headed by the iconic sight of a knight sat atop a skeletal horse, decked in armour and finery, mutated through dark magic to sport vicious horns and cruel, eyeless sockets. Expected to be as dangerous as they are unfalteringly obedient, these dread horses are an eternal symbol of the Scourge's military might."
+									]
+								},
+								{
+									"type": "variant",
+									"name": "Greater Steed Variant: Deathcharger",
+									"entries": [
+										"Deathknights can summon a deathcharger via the {@spell find greater steed} spell. When a deathcharger is summoned through the spell it loses the extra attack from {@i trampleing charge} when a target is prone, also its {@i wraith walk} ability can only be used 3 times per long rest and only lasts until the start of its next turn."
+									]							
+								},
+								{
+									"type": "entries",
+									"name": "Doomskull",
+									"entries": [
+										"Robbed of their bodies and their free will, but not their wit, a laughing doomskull is often what remains of necromancers who served the Scourge in life, but demonstrated no reason to be overly-rewarded upon their ascension into undeath. Perhaps transformed into mere skulls as punishment for hubris, or for insolence before their masters, doomskulls are nevertheless permitted to retain their significant magical power. Still intelligent and free-speaking, doomskulls miss no opportunity to make their displeasure heard, and though they lack any form of ambulation, they nevertheless endeavour to fill in as much space as they can through sheer force of personality."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Eruptor",
+									"entries": [
+										"Living bombs of the Scourge, plague eruptors are the horrendously mutated corpses of those unfortunate enough to have fallen under the eye of the Scourge's engineers. Bloated beyond recognition with the plague of undeath, these zombies have experienced massive growth, becoming immensely strong and extremely aggressive. Their skin becomes crusted with festering boils, each of which threatens to burst at any moment, spewing plague ooze around them. Their bodies are unstable, and rather than fall apart upon defeat, their bodies erupt into a chemical stew, further spreading the misery of their brief existence."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Flesh Giant",
+									"entries": [
+										"In the icy land of Northrend, undeath is the fate for all who fall under the gaze of the Lich King. No creature best demonstrates the Lich King's dominion over the land than his transformation of the gods' own creations, the giants. These honourable creatures have been broken down into their base parts, which are matched up and then re-attached to construct a parody of a giant, an abomination on a massive scale. Their blood replaced with ichor, their guts filled with the plague of undeath, and their very spinal fluid transforming into a vicious acid, these giants have been unmade as a symbol of the Lich King's total disregard for the ancient powers that have ruled Northrend for aeons."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Frost Wyrm",
+									"entries": [
+										"Among the most notorious and cruel of the Scourge's creations, the favourite pets of the Lich King are the undead frost wyrms; immense dragons raised from agonising death into eternal servitude, emptied of their free wills and humiliated into acting as living siege weapons. Usually raised from slain blue dragons, who make their home in regions of Northrend, frost wyrms are skeletal monsters that constantly release freezing air, with wings like hurricanes and breath of death. Mostly robbed of their minds, those who live in consciousness exist in a state of constant agony, for they are among the few undead that retain their sense of selves and become fully, horrifyingly aware that they are slaves.",
+										{													
+											"type": "entries",
+											"name": "Frozen Waste",
+											"entries": [
+												"Their bodies have been wasted away by years of decomposition, leaving these undead dragons little more than skeleton and sinew held together by magic. Their wings are often empty of membrane, yet their flight is unhindered, and their powers of shapeshifting have disappeared along with their mastery over their flight’s domain. Their essence as dragons has been replaced fully with the Lich King's frozen heart."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Frostbrood",
+											"entries": [
+												"The Scourge's most powerful brood of frost wyrms falls under the Frostbrood, a false family comprised of many undead blue dragons. The so-called broodmother, though of course she is unable to breed, is Sindragosa, the former consort of the Blue Aspect, Malygos. Experiencing only rage and sorrow, Sindragosa commands her “brood” with hate and malice, resenting them as she does herself."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Siege Destruction",
+											"entries": [
+												"Frost wyrms are not plentiful, but naturally their arrival to any battle surely heralds its end; even one may end a battle or a siege effortlessly, freezing entire buildings with their breath and decimating troops."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Gargoyle",
+									"entries": [
+										"Unlike most creatures of the Undead Scourge, Gargoyles are not undead. These strange, wiry flyers are known for their rough, crystalline hides keep them well protected.",
+										"Native to Northrend, gargoyles were brought to Lordaeron at Arthas' command as scouts in the army of the Scourge. Chaotic by nature, they have proven effective in their task and a frightful aerial combatant."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Geist",
+									"entries": [
+										"The abandoned corpses of punished criminals are a particularly replenishable source of corpses for the Scourge's necromancers, who are always in need of new supply. The hooded corpses of hanged thieves in particular are flooded with such regret and vitriol that they are most easily raised as geists. Still tied to their nooses and gazing through their hoods with single, mutated eyes, geists scramble on all fours like animals, speaking an incomprehensible mumbling language and often travelling in groups. Their frail bodies hide surprising strength, able to leap great distances and claw at their targets in ambush."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ghoul",
+									"entries": [
+										"Ravenous cannibals that leave only havoc and devoured corpses behind them. Ghouls are the lumbering remains of once innocent humans, transformed into hollow-eyes terrors with an insatiable hunger for flesh.",
+										"They are the Scourge's prime tool for spreading panic; a mindless vanguard to swarm through settlements, breaking chaos before the rest of the Scourge arrive. Feasting on the living and dead alike as they do."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Lich",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"The largest misconception the living have of the Scourge is our penchant for what is considered 'evil.' For the sake of demoralization we allow this error to perpetuate, and indeed spread it on our own."
+											],
+											"by": "the Decree of the Scourge, by the archlich Kel'thuzad."
+										},
+										"The highest and mightiest servants of the Lich King, the apex of ascension into undeath that so very few may strive to reach. These immensely powerful creatures originate from the Scourge's greatest necromancers, transformed through despicable ritual into immortal beings. No longer recognisable from their living form, their bodies appear symbolic of their power; grand, flowing cloaks topped by skeletal bodies, horned and tusked skulls capped with royal headdresses. Lest their role be forgotten, however, they are also wrapped in chains, which gently orbit around them. No longer bound by the joke of mortality, Liches have reached the end goal of the Scourge's goals; ascension.",
+										{													
+											"type": "entries",
+											"name": "Masters of Death",
+											"entries": [
+												"Life and death bends to the will of a Lich, and little else besides may resist their hypnotic intellect. At their bony fingers rests magic that may curdle the blood of their enemies, or create and empower new and disgusting forms of undead. Each lich is expected to be a master of necromancy, and each lich is expected to command this mastery with unerring proficiency."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Seductive Reasoning",
+											"entries": [
+												"Aside from their considerable magical ability and powers of exhumation, the most dangerous tool of a lich is their vast intellect and cunning. They have doubtless spent many long hours carefully stating and re-stating their reasonings for effectively betraying their own kind, and subsequently many of a lich's greatest victories will be through reason and logical discussion, rather than combat and murder. It is for good reason that the leaders and founder of the Cult of the Damned are all liches, but unlike much of the Cult, their devotion is not blind."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Chains of Kel'thuzad",
+											"entries": [
+												"The first of the modern liches, Kel'thuzad, codified much of their later methodology. Through his cunning and manipulation, the Scourge was built, and other liches follow his example. A major example is their command over the lesser minds of mortals, wrapping them in chains and dominating their thoughts. Other methods include the formation of religious dogma to drive communities under the Scourge's banner with relatively little bloodshed. Well, little unnecessary bloodshed."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Necrolyte",
+									"entries": [
+										"Following on from the very earliest known necromancers, necrolytes represent the low-tier clergy of the Cult of the Damned, or put another way, are the average working man's necromancer. In any cloister of the Scourge's armies, there must be many hands constantly shifting and raising the corpses of the dead, and taking on this vital, albeit menial, task are the necrolytes. Practitioners of the religions that have grown out of the Scourge, they decry the Light, the elements, the ancestors or whatever other beliefs they may have previously held, instead making sermons on their new lord, the Lich King, and his greater servants."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Grand Necrolyte",
+									"entries": [
+										"Greater necromancers occupying a far higher rank in their cults, grand necrolytes act as spiritual leaders among the still-livin worshippers of the Scourge's decree. They experience no doubts and have no questions about their chosen path, showing a piety that might make a paladin blush. Granted powers over life and death that dwarf those of other necromancers, these dark clerics often lead or perform the most skilful of rituals to create the more powerful creatures."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Plague Dog",
+									"entries": [
+										"Stitched from the multitudinous corpses of dogs found across Azeroth, the plague dogs are a particularly cruel breed of abomination seemingly created purely to see what happens. Crafted by the endlessly inventive mind of Kel’thuzad in the laboratories of Naxxramas, these patchwork things act as immense guard dogs, protecting against intruders. A side effect of their creation is an immense, uncontrollable appetite, and one that must be sated to allow for any meaningful control of the beasts."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Unforgiven",
+									"entries": [
+										"A mysterious rank of ghostly warriors, spawned from the corpses of those insolent few who managed to draw the particular ire of the Scourge's dark masters. These densely armoured wraiths revive feeling only regret and horror at what they have become, and are commanded to express these regrets through might and magic, standing as commanders of lesser undead. Their curse lends them no rest, and not even the comfort of sunlight may reach them."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Val'kyr",
+									"entries": [
+										"A hero battling the Scourge is struck down. Poisons fill their body, their vision darkens, and their heart swells as the final thing they see is a beautiful angel, a ghostly  warrior woman on feathered wings, reaching out for them.",
+										"But joy becomes horror, as the angelic Val'kyr pulls at their departing soul, chaining it to the world of the living and raising them instantly into undeath, now bound to her, and to the Lich King. With beats of her wings, she drifts into the sky, joining her sisters in coralling their many followers into the service of their false Death God.",
+										{													
+											"type": "entries",
+											"name": "Vrykul Legend",
+											"entries": [
+												"The val'kyr of vrykul legend are angelic battlemaidens devoted to bringing the souls of honourably slain warriors into the Great Beyond. The val'kyr of the Scourge are the souls of vrykul women devoted to the Lich King, ascended through undeath into a form befitting servants of their death god."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Life and Death",
+											"entries": [
+												"Able to pass freely through the veil between life and the Shadowlands, val'kyr have unique and staggering power over life and death, almost matching that of the Lich King. To raise an army of sentient, intelligent undead instantly is no issue, nor is returning the souls of the dead to the world of the living."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Death in Glorious Battle",
+											"entries": [
+												"The val'kyr were once the most loyal priests of the Lich King, their death god. Following this and their ancient beliefs, they grant the reward of undeath to vrykul who die gloriously in the name of the Lich King. For the failures, fate sees them transformed into mindless slaves."
+											]
+										}
+									]
+								},
+								{
+									"type": "inset",
+									"name": "Scourge Risen Template",
+									"entries": [
+										"A creature risen by the scourge is any Huge or smaller creature brought back to life by vile necromantic energies. A creature that was never flesh and blood to begin with (such as a construct) can't be risen under the scourge's control. The following characteristics change or are added to a creature that becomes a scourge risen creature.",
+										{
+											
+											"type": "entries",
+											"name": "Retained Characteristics",
+											"entries": [
+												"",
+												"The risen retain its Armor Class, hit points, Hit Dice, Strength, Dexterity, Constitution, vulnerabilities, resistances, and immunities."
+											]	
+										},
+										{
+											
+											"type": "entries",
+											"name": "Lost Characteristics",
+											"entries": [
+												"",
+												"The risen loses its original saving throw and skill bonuses, special senses and special traits. It loses any action that isn't multiattack or a melee weapon that deals bludgeoning, piercing, or slashing damage. If it has an action or a melee weapon attack that deals some other type of damage, it loses the ability to deal damage of that type, unless the damage comes from a piece of equipment, such as a magic item."
+											]	
+										},
+										{
+											
+											"type": "entries",
+											"name": "Type",
+											"entries": [
+												"",
+												"The risen's type is undead, and it loses any tags."
+											]	
+										},
+										{
+											
+											"type": "entries",
+											"name": "Alignment",
+											"entries": [
+												"",
+												"The risen is neutral evil."
+											]	
+										},
+										{
+											
+											"type": "entries",
+											"name": "Ability Scores",
+											"entries": [
+												"",
+												"The risen's ability scores change as follows: Int 3 (-4), Wis 6 (-2), Cha 5 (-3)."
+											]	
+										},
+										{
+											
+											"type": "entries",
+											"name": "Senses",
+											"entries": [
+												"",
+												"The risen has darkvision with a radius of 60 ft."
+											]	
+										},
+										{
+											
+											"type": "entries",
+											"name": "Damage Immunities",
+											"entries": [
+												"",
+												"The risen gains immunity to poison damage."
+											]	
+										},
+										{
+											
+											"type": "entries",
+											"name": "Condition Immunities",
+											"entries": [
+												"",
+												"poisoned."
+											]	
+										},
+										{
+											
+											"type": "entries",
+											"name": "Languages",
+											"entries": [
+												"",
+												"The risen understands all languages it knew in life, but cannot speak."
+											]	
+										},
+										{
+											
+											"type": "entries",
+											"name": "Attacks",
+											"entries": [
+												"",
+												"If the risen has no means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to 1d4 + the risen's Strength modifier, increasing by 1d4 for each size larger than Medium."
+											]	
+										}
+									]
+								}
 							]
 						},
 						{
@@ -5455,6 +6009,29 @@
 											"tag": "disease",
 											"name": "Plague of Undeath",
 											"style": "inset"
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Plagued Creatures}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [
+												"{@creature Plaguebear|WC5E MoM}",
+												"{@creature Plagued Proto-Whelp|WC5E MoM}",
+												"{@creature Plagued Proto-Drake|WC5E MoM}",
+												"{@creature Plagued Proto-Dragon|WC5E MoM}",
+												"{@creature Plagued Dragonwhelp|WC5E MoM}",
+												"{@creature Plagued Drake|WC5E MoM}",
+												"{@creature Plagued Dragon|WC5E MoM}",
+												""
+											]
 										}
 									]	
 								},
@@ -5532,29 +6109,6 @@
 											]
 										}
 									]
-								},
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [					
-										{},
-										"{@note List of Plagued Creatures}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [
-												"{@creature Plaguebear|WC5E MoM}",
-												"{@creature Plagued Proto-Whelp|WC5E MoM}",
-												"{@creature Plagued Proto-Drake|WC5E MoM}",
-												"{@creature Plagued Proto-Dragon|WC5E MoM}",
-												"{@creature Plagued Dragonwhelp|WC5E MoM}",
-												"{@creature Plagued Drake|WC5E MoM}",
-												"{@creature Plagued Dragon|WC5E MoM}",
-												""
-											]
-										}
-									]	
 								}		
 							]
 						}
@@ -5658,21 +6212,6 @@
 												"Adventurers daring enough to delve into the heart of a silithid hive, hoping to kill its colossi and hamper the colony as a whole, will soon find it replaced. Before long, another colossi will have taken over before long; acting as a surrogate until a new one can rise from the hive's young."
 											]
 										},
-										{
-											"type": "variant",
-											"name": "Hive Controller",
-											"entries": [
-												"The strongest of a hive's colossi exerts direct command over other silithids in the hive. Usually this is either the hive lord, closest of the queen's consorts, or the hive queen herself.",
-												"The Hive Controller can be distinguished by its see-through cranium, leaving its brain visible. It has the following additional trait.",
-												{													
-													"type": "entries",
-													"name": "Leadership (Recharges after a Short or Long Rest)",
-													"entries": [
-														"For 1 minute, the silithid can send a telepathic command whenever a nonhostile creature that it can see within 60 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can receive the command. A creature can benefit from only one Leadership die at a time. This effect ends if the silithid is incapacitated."
-													]
-												}
-											]							
-										},
 										{				
 											"type": "entries",
 											"name": "",
@@ -5693,6 +6232,21 @@
 													]
 												}					 
 											]
+										},
+										{
+											"type": "variant",
+											"name": "Hive Controller",
+											"entries": [
+												"The strongest of a hive's colossi exerts direct command over other silithids in the hive. Usually this is either the hive lord, closest of the queen's consorts, or the hive queen herself.",
+												"The Hive Controller can be distinguished by its see-through cranium, leaving its brain visible. It has the following additional trait.",
+												{													
+													"type": "entries",
+													"name": "Leadership (Recharges after a Short or Long Rest)",
+													"entries": [
+														"For 1 minute, the silithid can send a telepathic command whenever a nonhostile creature that it can see within 60 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can receive the command. A creature can benefit from only one Leadership die at a time. This effect ends if the silithid is incapacitated."
+													]
+												}
+											]							
 										}
 									]
 								},
@@ -5783,6 +6337,17 @@
 										}
 									]	
 								},
+								"{@note List of Faceless Ones}",
+								{	
+									"type": "list",
+									"style": "list-no-bullets",
+									"columns": 3,
+									"items": [					
+										"{@creature Zoatroid|WC5E MoM}",
+										"{@creature Royal Zoatroid|WC5E MoM}",
+										""
+									]	
+								},
 								{
 									"type": "entries",
 									"name": "Zoatroid",
@@ -5813,17 +6378,6 @@
 											]
 										}
 									]							
-								},
-								"{@note List of Faceless Ones}",
-								{	
-									"type": "list",
-									"style": "list-no-bullets",
-									"columns": 3,
-									"items": [					
-										"{@creature Zoatroid|WC5E MoM}",
-										"{@creature Royal Zoatroid|WC5E MoM}",
-										""
-									]	
 								}
 							]
 						}
@@ -13919,7 +14473,7 @@
 				{
 					"name": "Standing Leap",
 					"entries": [
-						"The frog's long jump is up to 10 feet and its hight jump is up to 5 feet, with or without a running start."
+						"The frog's long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start."
 					]
 				}
 			],
@@ -22866,7 +23420,7 @@
 				{
 					"name": "Hooves",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning damage."
+						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4 + 2}) bludgeoning damage."
 					]
 				}
 			],
@@ -26296,7 +26850,7 @@
 				{
 					"name": "Hooves",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 2d4}) bludgeoning damage."
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 2d4 + 2}) bludgeoning damage."
 					]
 				}
 			],
@@ -28017,7 +28571,7 @@
 			"wis": 12,
 			"cha": 6,
 			"skill": {
-				"perception": "+ 3"
+				"perception": "+3"
 			},
 			"passive": 13,
 			"cr": "0",
@@ -30912,7 +31466,7 @@
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 0} to hit, reach 5 ft., one creature. {@h}1 piercing damage, and the target must succeed on a {@dc 9} Constitution saving throw or take 2 ({@damage 1d4}) poison damage."
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}1 piercing damage, and the target must succeed on a {@dc 9} Constitution saving throw or take 2 ({@damage 1d4}) poison damage."
 					]
 				}
 			],
@@ -31303,6 +31857,7 @@
 			"conditionImmune": [
 				"charmed",
 				"frightened",
+				"grappled",
 				"paralyzed",
 				"pretrified",
 				"prone",
@@ -31488,6 +32043,7 @@
 			"conditionImmune": [
 				"charmed",
 				"frightened",
+				"grappled",
 				"paralyzed",
 				"pretrified",
 				"prone",
@@ -31567,6 +32123,7 @@
 			"conditionImmune": [
 				"charmed",
 				"frightened",
+				"grappled",
 				"paralyzed",
 				"pretrified",
 				"prone",
@@ -31646,6 +32203,7 @@
 			"conditionImmune": [
 				"charmed",
 				"frightened",
+				"grappled",
 				"paralyzed",
 				"pretrified",
 				"prone",
@@ -31731,6 +32289,7 @@
 			"conditionImmune": [
 				"charmed",
 				"frightened",
+				"grappled",
 				"paralyzed",
 				"pretrified",
 				"prone",
@@ -32931,7 +33490,7 @@
 			]
 		},
 		{
-			"name": "Tree of Life",
+			"name": "Ancient Tree of Life",
 			"source": "WC5E MoM",
 			"page": 0,
 			"size": [
@@ -34224,7 +34783,7 @@
 				{
 					"name": "Raise Dead {@recharge 5}",
 					"entries": [
-						"The unforgiven animates a non-undead, non-construct corpse within 60 ft. A ghoul appears in the space of the corpse and the corpse is destroyed. The ghoul then rolls for initiative acting on its turn as normal."
+						"The unforgiven animates a non-undead, non-construct corpse within 60 ft. A {@creature ghoul|WC5E MoM} appears in the space of the corpse and the corpse is destroyed. The {@creature ghoul|WC5E MoM} then rolls for initiative acting on its turn as normal."
 					]
 				}
 			],
@@ -34459,7 +35018,7 @@
 			],
 			"conditionImmune": [
 				"exhaustion",
-				"poison"
+				"poisoned"
 			],
 			"cr": "1/2",
 			"action": [
@@ -35765,7 +36324,7 @@
 				{
 					"name": "Roar",
 					"entries": [
-						"The yeti emits a roar. Each creature within 30 feet of the yeti and able to hear the roar must make a DC10 Wisdom saving throw, being Frightened for 1 minute on a fail. A Frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful saving throw, the creature is immune to the roar of all yetis for 1 day."
+						"The yeti emits a roar. Each creature within 30 feet of the yeti and able to hear the roar must make a DC 10 Wisdom saving throw, being {@condition Frightened} for 1 minute on a fail. A {@condition Frightened} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful saving throw, the creature is immune to the roar of all yetis for 1 day."
 					]
 				}
 			],
@@ -36220,7 +36779,7 @@
 				{
 					"name": "Undead Fortitude",
 					"entries": [
-						"If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 +the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+						"If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead."
 					]
 				}
 			],
