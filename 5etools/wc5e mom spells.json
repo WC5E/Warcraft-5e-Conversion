@@ -1,12 +1,12 @@
 {
-	"siteVersion": "1.200.0",
+	"siteVersion": "1.201.1",
 	"_meta": {
 		"sources": [
 			{
 				"json": "WC5E Spells",
 				"abbreviation": "WC5E Spells",
 				"full": "WC5E Spells",
-				"color": "272828",
+				"color": "c4ccc8",
 				"authors": [
 					"WC5E Team"
 				],
@@ -19,8 +19,8 @@
 				"targetSchema": "1.0.0"
 			}
 		],
-		"dateAdded": 1709388850,
-		"dateLastModified": 1709388850
+		"dateAdded": 1710602003,
+		"dateLastModified": 1710602003
 	},
 	"spell": [
 		{
@@ -1508,6 +1508,53 @@
 			"miscTags": [
 				"LGT",
 				"SCL"
+			]
+		},
+		{
+			"name": "Spellsteal",
+			"source": "WC5E Spells",
+			"page": 0,
+			"level": 3,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"Choose a creature that you can see within range. A 1st level spell effect of your choosing that affects the target is transferred to you. For its remaining duration, the spell's effect is applied to you as if you had cast it yourself.",
+				"If the stolen spell requires {@status concentration}, you need to concentrate on it. You do not need to provide any additional spellcasting components, if any were required by the stolen spell. Spellsteal has no effect on spells that create or summon creatures, or on spell effects that can't be removed by dispel magic.",
+				"You cannot change the stolen spell from how it was originally cast, unless its description explicitly allows it to be changed after being cast.",
+				"To steal a spell effect of 2nd level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, you successfully steal the spell."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 4th level or higher, the spell level where you automatically succeed the check increases by one for each slot level above 3rd."
+					]
+				}
+			],
+			"miscTags": [
+				"SGT"
 			]
 		},
 		{
