@@ -234,19 +234,83 @@
 				{
 					"name": "The Bruning Legion",
 					"headers": [
-						"Aranasi",
-						"Doomguards",
-						"Fel Reaver",
-						"Imp",
-						"Infernal",
-						"Mo'arg",
-						"Infernal",
-						"Inquisitor",
-						"Dread Lord",
-						"Observer",
-						"Pit Lord",
-						"Shivarra",
-						"Succubi",
+						"Demons",
+						{
+							"header": "Aranasi",
+							"depth": 1
+						},
+						{
+							"header": "Doomguards",
+							"depth": 1
+						},
+						{
+							"header": "Felguard",
+							"depth": 1
+						},
+						{
+							"header": "Fel Lord",
+							"depth": 1
+						},
+						{
+							"header": "Fel Reavers",
+							"depth": 1
+						},
+						{
+							"header": "Guardian Eye",
+							"depth": 1
+						},
+						{
+							"header": "Inquisitors",
+							"depth": 1
+						},
+						{
+							"header": "Imp",
+							"depth": 1
+						},
+						{
+							"header": "Imp Mother",
+							"depth": 1
+						},
+						{
+							"header": "Infernal",
+							"depth": 1
+						},
+						{
+							"header": "Mo'arg",
+							"depth": 1
+						},
+						{
+							"header": "Observers",
+							"depth": 1
+						},
+						{
+							"header": "Pit Lords",
+							"depth": 1
+						},
+						{
+							"header": "Dreadlord",
+							"depth": 1
+						},
+						{
+							"header": "Observer",
+							"depth": 1
+						},
+						{
+							"header": "Pit Lord",
+							"depth": 1
+						},
+						{
+							"header": "Shivarra",
+							"depth": 1
+						},
+						{
+							"header": "Succubi",
+							"depth": 1
+						},
+						{
+							"header": "Wrathguard",
+							"depth": 1
+						},
 						"Corrupted Wildlife",
 						{
 							"header": "Felbat",
@@ -257,11 +321,11 @@
 							"depth": 1
 						},
 						{
-							"header": "Felhound",
+							"header": "Felsteed",
 							"depth": 1
 						},
 						{
-							"header": "Felsteed",
+							"header": "Helboar",
 							"depth": 1
 						},
 						{
@@ -869,18 +933,10 @@
 									"style": "list-no-bullets",
 									"columns": 3,
 									"items": [					
-										"{@creature Helboar|WC5E MoM}",
 										"{@creature Hunter Shark|WC5E MoM}",
 										"{@creature Hyena|WC5E MoM}",
 										"{@creature Hyena Matriarch|WC5E MoM}",
 										""
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Helboars",
-									"entries": [
-										"Despite their name, helboars are not demons or part of the Burning Legion. As beasts who have been exposed to the energies of the Twisting Nether for long periods of time, simple boars have mutated into this spiked variety, capable of superheating their own skin as a defense mechanism."
 									]
 								},
 								{
@@ -5439,518 +5495,7 @@
 								}
 							]
 						},
-						{
-							"type": "entries",
-							"name": "The Bruning Legion",
-							"entries": [
-								"PH",
-								{
-									"type": "entries",
-									"name": "Aranasi",
-									"entries": [
-										{
-											"type": "entries",
-											"name": "Spider Queens",
-											"entries": [
-												"",
-												"As female aranasi mature, they undergo a transformation. Becoming significantly more intelligent, they stand up on two of their many legs, with the others splayed behind them like wings, and typically take the role of commanders among the Legion, gaining lofty royal titles and choosing consorts."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "The Silk Road",
-											"entries": [
-												"",
-												"Aranasi broodmothers command dangerous and tricky magic, moulding captured territories into their own silken palaces via their race's webbing. Stepping into such a parlour can be extraordinarily dangerous, as any and all nearby aranasi, from the old to the newly-hatched, will come to the aid of their queen."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Crown Prince Menethil",
-											"entries": [
-												"",
-												"Although the Lich King and the Scourge had been given form to prelude the Burning Legion, Ner'zhul's true ambition was his own salvation: to break free from the shackles of his demonic masters.",
-												"To this end, the Lich King sought a champion to carry out his will. He had already envisioned the crown piece of Lordaeron, Arthas Menethil, supplanting him in his rule of the damned. The prince was a capable warrior; a paladin of the Silver Hand, seasoned from numerous skirmishes with errant orc clans across the human kingdoms.",
-												"This new undead threat, however, was not one Arthas could bring to an end. It drove the prince to desperation; to the purging of his own homeland; to a vengeful crusade across Northrend; and ultimately to his doom."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "The Runeblade",
-											"entries": [
-												"",
-												"Buried away in a frozen vault, Arthas drew forth an ancient runeblade -- Frostmourne. He had been told the blade would be the means to his long-sought ends, and by its powers he carved his way through the undead hordes with a might which none around him had seen before.",
-												"However, the blade would ultimately cost the crown prince his soul. Through it, the Lich King exerted his will upon Arthas, binding him as a champion of the Scourge."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "The Fall of Lordaeron",
-											"entries": [
-												"",
-												"Upon his return to Lordaeron, Arthas ultimately drove his kingdom to ruin. Thereafter, the kingdoms of Quel'thalas and Dalaran fell just the same. From their ashes, with the aid of Kel'thuzad -- reborn a Lich -- Arthas saw the Burning Legion summoned forth.",
-												"Though the invasion of the Legion was ultimately a failure, and the lands of Dalaran and Quel'thalas reclaimed, Lordaeron was  forever enveloped in undeath. The final piece of the Lich King's plan, with which the Scourge would truly take foot, was to bring Arthas to his side."
-											]
-										}
-									]	
-								},
-								{
-									"type": "entries",
-									"name": "Doomguards",
-									"entries": [
-										{
-											"type": "quote",
-											"entries": [
-												"I remember well the sting of defeat at the conclusion of the Third War. I have waited far too long for my revenge. Now the shadow of the Legion falls over this world. It is only a matter of time until all of your failed creation... is undone."
-											],
-											"by": "Supreme Lord Kazzak"
-										},
-										"The fearsome ered'ruin race are among the most recognisable, and most feared, of the Burning Legion's infinite army. These hulking, great masses of muscle match perfectly the image of demons across all worlds; piercing horns, enormous wings, hooves, great flaming swords, and an unstoppable desire for murder and destruction. Believed to be among the earliest of the Legion's forces, doomguards have a deadly mastery over destructive magic and raw martial strength, and their sheer love of chaos makes them the ideal demonic warriors. Often individual doomguards act as lieutenants under greater demons, or command lesser troops on the battlefield. An army of many doomguards is a force unto itself, and many of the Legion's greatest victories have been at the hands of these fearsome creatures.",
-										"Their immense strength and violent nature makes them unstoppable in combat, and their brutish appearance hides an insidious intelligence tempered by the fires of eternal war."
-										{
-											"type": "entries",
-											"name": "Doom Bringers",
-											"entries": [
-												"",
-												"Some of these fearsome demons ascend to even greater degrees of raw strength and power, becoming respected commanders and generals in command of enormous armies of demons. Doomlords such as these have left scars across entire worlds, and even in defeat they have been known as exceptionally persistent."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Demonic Overlords",
-											"entries": [
-												"",
-												"Aranasi broodmothers command dangerous and tricky magic, moulding captured territories into their own silken palaces via their race's webbing. Stepping into such a parlour can be extraordinarily dangerous, as any and all nearby aranasi, from the old to the newly-hatched, will come to the aid of their queen."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Terrible Fiends",
-											"entries": [
-												"",
-												"Some demons, similar in appearance and power to the ered'ruin, have been sighted among Legion forces. These terrorguards have a similar profile, but their appearance is somehow more monstrous, with crowns of many horns circling their heads, and flame-belching, toothy maws in place of their torsos, accompanied by ever-staring eyes. Their relationship to the doomguards is unknown, but they well-earn their name, as they beget terror wherever they go."
-											]
-										},
-										{
-											
-										}
-									]	
-								},
-								{
-									"type": "entries",
-									"name": "",
-									"entries": [					
-										{},
-										"{@note List of Scourge Minions}",
-										{	
-											"type": "list",
-											"style": "list-no-bullets",
-											"columns": 3,
-											"items": [
-												"{@creature Scourge Risen Knight|WC5E MoM}",
-												"{@creature Abomination|WC5E MoM}",
-												"{@creature Greater Abomination|WC5E MoM}",
-												"{@creature Gargoyle|WC5E MoM}",
-												"{@creature Ghoul|WC5E MoM}",
-												"{@creature Zombie|WC5E MoM}",
-												"{@creature Bone Golem|WC5E MoM}",
-												"{@creature Bone Wraith|WC5E MoM}",
-												"{@creature Death Knight|WC5E MoM}",
-												"{@creature Deathcharger|WC5E MoM}",
-												"{@creature Flesh Giant|WC5E MoM}",
-												"{@creature Doomskull|WC5E MoM}",
-												"{@creature Geist|WC5E MoM}",
-												"{@creature Necrolyte |WC5E MoM}",
-												"{@creature Grand Necrolyte|WC5E MoM}",
-												"{@creature Plague Eruptor|WC5E MoM}",
-												"{@creature Lich|WC5E MoM}",
-												"{@creature Plague-dog|WC5E MoM}",
-												"{@creature Frostbrood Whelp|WC5E MoM}",
-												"{@creature Frostbrood Drake |WC5E MoM}",
-												"{@creature Frostbrood Dragon|WC5E MoM}",
-												"{@creature Frostbrood Wyrm|WC5E MoM}",
-												""
-											]
-										}
-									]	
-								},
-								{
-									"type": "entries",
-									"name": "Abomination",
-									"entries": [
-										"Twisted, mutilated creatures comprised of flesh from a multitude of corpses, Abominations are not risen like most undead. Instead, they are created, loosely stitched together. These putrid constructs resemble enormous mounds of flesh, given limbs and a vague semblance of form.",
-										"They are fearless, and take joy in cleaving flesh from bone with rusted cleavers. As though their creators saw it only fit to arm the beasts with weapons as bizarre as their excess of arms."
-									]
-								},
-								{
-									"type": "variant",
-									"name": "Greater Abomination",
-									"entries": [
-										"A greater abomination has a challenge rating of 9 (5,000 XP). It has the statistics of an abomination except that it has 161 (17d10 + 68) hit points, Armor Class (AC 17), +8 to hit with its weapon attacks, and gains the following action options.",
-										{													
-											"type": "entries",
-											"name": "Engorge.",
-											"entries": [
-												"The abomination makes one cleaver attack and places a grappled target in its ribcage. The target becomes restrained, and can use its action to break free by succeeding on a DC 17 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 14 (4d6) bludgeoning damage at the start of each of the abominations turns. An abomination can have only one creature restrained within its ribcage."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Cannibalize.",
-											"entries": [
-												"The abomination cannibalize the corpse of creature that has been dead for less than 24 hours. Each creature of the abomination's choice that is within 120 feet and can see it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the abomination's Cannibalize for the next 24 hours."
-											]
-										}
-									]							
-								},
-								{
-									"type": "entries",
-									"name": "Bone Golem",
-									"entries": [
-										"Nothing is left to waste in the Scourge. A creation from the dark Scholomance, the bone golems are pieced together from remnants of skeletons too misshapen to use elsewhere, grafted with a pair of immense metal scythes. They are built solely to kill, and are deployed sparingly by their masters, perhaps owing to their unreliability, or tendency to rust."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Bone Wraith",
-									"entries": [
-										"Among the most distressing and intimidating of the Lich Kin's minions is the gigantic bone wraith, a skeletal guard of immense size and haunting appearance. Looking almost angelic with wings of bone, it is crafted from the much-suffering remnants of many bodies, all pushed together into a shape not remotely humanoid. They drift legless above the ground, with four skulls at the centre of a torso, and freakish arms wielding an axe made of yet more bone. The souls of these dead have been amalgamated together into something far lesser than the sum of its parts, able only to proclaim loyal battlecries in the name of its master.",
-										{													
-											"type": "entries",
-											"name": "Bone Storm!",
-											"entries": [
-												"The signature strength of these creatures is their ability to spin their many-limbed bodies at extreme, rapid speed, flailing their spiny wing-like protrusions out alongside their bony weapon. A guttural call will invariably accompany this assault, placing the bone storm into a legend among those who survive it."
-											]
-										}
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Crypt Fiend",
-									"entries": [
-										"When the Lich King invaded the ancient spider kingdom of Azjol-Nerub, he was not content to allow its denizens peaceful deaths - the powerful and cunning nerubians were transformed into an army of undead spiders, forced to use their tunnels, structures and natural abilities to bolster the Scourge's already impressive army.",
-										"The conquered Spider Kingdom was given back to its people, but its people will never know freedom again."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Crypt Lord",
-									"entries": [
-										"The gigantic beetles that comprise the ruling castes of the Spider Kingdom of Azjol-Nerub were the final rulers of the dead empire, and it was by their design that the Scourge successfully consumed them. Now, the so-called Crypt Lords occupy a position of command among their undead brethren, allowed sentience but not free will.",
-										{													
-											"type": "entries",
-											"name": "King me",
-											"entries": [
-												"Crypt Lords represent not only the vast ruling power of the nerubian race, but also their raw destructive power. Enormous scything claws, armoured shells around gossamer wings, effortless forming of tunnels and quakes, and the spawning of swarms of beetles and locusts from their bodies are the key weapons of these flying behemoths. "
-											]
-										}
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Death Knight",
-									"entries": [
-										"As the ruler of the damned, the Lich King naturally needed an elite caste of knights. These undead knights are granted immense power over death magic, cruel rune-inscribed blades that drain the lives of their foes, and command over appreciable portions of the Scourge's armies. Intelligent and retaining their living personalities, albeit warped and broken into servitude, Death Knights became the feared top level of the Lich King's armies, elites that acted as royal guard to the Lich King.",
-										{													
-											"type": "entries",
-											"name": "Wartime Progenitors",
-											"entries": [
-												"The creation of orcish Death Knights by the original Horde preceded the undead champions of the Scourge, but there is little relation. The Lich King took a particular effort to take the concept and work it further, changing them from a mismatching of orcish spirit to human corpse, into a powerful new brand of undead far greater than any before it."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Faded Light",
-											"entries": [
-												"The second generation of Death Knights were created during the fall of Lordaeron at the hands of the first in their ranks, Prince Arthas Menethil. Following him, others were raised from the corpses of previously pious and loyal paladins, their powers warped and reversed  - healing became harm, protection became degradation, and resurrection became the raising of loyal undead. Wielding cursed runeblades and riding the skeletal remains of their loyal steeds, these knights marked the new age of the modern Scourge."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Fallen Heroes",
-											"entries": [
-												"The third generation, spawned exclusively to destroy champions of the Light, were far more industrial; hordes of corpses were raised, placed in identical armour, and put through intense trials. Relatively few survived, and those left became a new army of lesser elites, less powerful but more reliable than the previous generation - at least, until thousands of them broke free from their master's command, and swore to destroy him."
-											]
-										}
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Deathcharger",
-									"entries": [
-										"A true Scourge invasion is headed by the iconic sight of a knight sat atop a skeletal horse, decked in armour and finery, mutated through dark magic to sport vicious horns and cruel, eyeless sockets. Expected to be as dangerous as they are unfalteringly obedient, these dread horses are an eternal symbol of the Scourge's military might."
-									]
-								},
-								{
-									"type": "variant",
-									"name": "Greater Steed Variant: Deathcharger",
-									"entries": [
-										"Deathknights can summon a deathcharger via the {@spell find greater steed} spell. When a deathcharger is summoned through the spell it loses the extra attack from {@i trampleing charge} when a target is prone, also its {@i wraith walk} ability can only be used 3 times per long rest and only lasts until the start of its next turn."
-									]							
-								},
-								{
-									"type": "entries",
-									"name": "Doomskull",
-									"entries": [
-										"Robbed of their bodies and their free will, but not their wit, a laughing doomskull is often what remains of necromancers who served the Scourge in life, but demonstrated no reason to be overly-rewarded upon their ascension into undeath. Perhaps transformed into mere skulls as punishment for hubris, or for insolence before their masters, doomskulls are nevertheless permitted to retain their significant magical power. Still intelligent and free-speaking, doomskulls miss no opportunity to make their displeasure heard, and though they lack any form of ambulation, they nevertheless endeavour to fill in as much space as they can through sheer force of personality."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Eruptor",
-									"entries": [
-										"Living bombs of the Scourge, plague eruptors are the horrendously mutated corpses of those unfortunate enough to have fallen under the eye of the Scourge's engineers. Bloated beyond recognition with the plague of undeath, these zombies have experienced massive growth, becoming immensely strong and extremely aggressive. Their skin becomes crusted with festering boils, each of which threatens to burst at any moment, spewing plague ooze around them. Their bodies are unstable, and rather than fall apart upon defeat, their bodies erupt into a chemical stew, further spreading the misery of their brief existence."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Flesh Giant",
-									"entries": [
-										"In the icy land of Northrend, undeath is the fate for all who fall under the gaze of the Lich King. No creature best demonstrates the Lich King's dominion over the land than his transformation of the gods' own creations, the giants. These honourable creatures have been broken down into their base parts, which are matched up and then re-attached to construct a parody of a giant, an abomination on a massive scale. Their blood replaced with ichor, their guts filled with the plague of undeath, and their very spinal fluid transforming into a vicious acid, these giants have been unmade as a symbol of the Lich King's total disregard for the ancient powers that have ruled Northrend for aeons."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Frost Wyrm",
-									"entries": [
-										"Among the most notorious and cruel of the Scourge's creations, the favourite pets of the Lich King are the undead frost wyrms; immense dragons raised from agonising death into eternal servitude, emptied of their free wills and humiliated into acting as living siege weapons. Usually raised from slain blue dragons, who make their home in regions of Northrend, frost wyrms are skeletal monsters that constantly release freezing air, with wings like hurricanes and breath of death. Mostly robbed of their minds, those who live in consciousness exist in a state of constant agony, for they are among the few undead that retain their sense of selves and become fully, horrifyingly aware that they are slaves.",
-										{													
-											"type": "entries",
-											"name": "Frozen Waste",
-											"entries": [
-												"Their bodies have been wasted away by years of decomposition, leaving these undead dragons little more than skeleton and sinew held together by magic. Their wings are often empty of membrane, yet their flight is unhindered, and their powers of shapeshifting have disappeared along with their mastery over their flight’s domain. Their essence as dragons has been replaced fully with the Lich King's frozen heart."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Frostbrood",
-											"entries": [
-												"The Scourge's most powerful brood of frost wyrms falls under the Frostbrood, a false family comprised of many undead blue dragons. The so-called broodmother, though of course she is unable to breed, is Sindragosa, the former consort of the Blue Aspect, Malygos. Experiencing only rage and sorrow, Sindragosa commands her “brood” with hate and malice, resenting them as she does herself."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Siege Destruction",
-											"entries": [
-												"Frost wyrms are not plentiful, but naturally their arrival to any battle surely heralds its end; even one may end a battle or a siege effortlessly, freezing entire buildings with their breath and decimating troops."
-											]
-										}
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Gargoyle",
-									"entries": [
-										"Unlike most creatures of the Undead Scourge, Gargoyles are not undead. These strange, wiry flyers are known for their rough, crystalline hides keep them well protected.",
-										"Native to Northrend, gargoyles were brought to Lordaeron at Arthas' command as scouts in the army of the Scourge. Chaotic by nature, they have proven effective in their task and a frightful aerial combatant."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Geist",
-									"entries": [
-										"The abandoned corpses of punished criminals are a particularly replenishable source of corpses for the Scourge's necromancers, who are always in need of new supply. The hooded corpses of hanged thieves in particular are flooded with such regret and vitriol that they are most easily raised as geists. Still tied to their nooses and gazing through their hoods with single, mutated eyes, geists scramble on all fours like animals, speaking an incomprehensible mumbling language and often travelling in groups. Their frail bodies hide surprising strength, able to leap great distances and claw at their targets in ambush."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Ghoul",
-									"entries": [
-										"Ravenous cannibals that leave only havoc and devoured corpses behind them. Ghouls are the lumbering remains of once innocent humans, transformed into hollow-eyes terrors with an insatiable hunger for flesh.",
-										"They are the Scourge's prime tool for spreading panic; a mindless vanguard to swarm through settlements, breaking chaos before the rest of the Scourge arrive. Feasting on the living and dead alike as they do."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Lich",
-									"entries": [
-										{
-											"type": "quote",
-											"entries": [
-												"The largest misconception the living have of the Scourge is our penchant for what is considered 'evil.' For the sake of demoralization we allow this error to perpetuate, and indeed spread it on our own."
-											],
-											"by": "the Decree of the Scourge, by the archlich Kel'thuzad."
-										},
-										"The highest and mightiest servants of the Lich King, the apex of ascension into undeath that so very few may strive to reach. These immensely powerful creatures originate from the Scourge's greatest necromancers, transformed through despicable ritual into immortal beings. No longer recognisable from their living form, their bodies appear symbolic of their power; grand, flowing cloaks topped by skeletal bodies, horned and tusked skulls capped with royal headdresses. Lest their role be forgotten, however, they are also wrapped in chains, which gently orbit around them. No longer bound by the joke of mortality, Liches have reached the end goal of the Scourge's goals; ascension.",
-										{													
-											"type": "entries",
-											"name": "Masters of Death",
-											"entries": [
-												"Life and death bends to the will of a Lich, and little else besides may resist their hypnotic intellect. At their bony fingers rests magic that may curdle the blood of their enemies, or create and empower new and disgusting forms of undead. Each lich is expected to be a master of necromancy, and each lich is expected to command this mastery with unerring proficiency."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Seductive Reasoning",
-											"entries": [
-												"Aside from their considerable magical ability and powers of exhumation, the most dangerous tool of a lich is their vast intellect and cunning. They have doubtless spent many long hours carefully stating and re-stating their reasonings for effectively betraying their own kind, and subsequently many of a lich's greatest victories will be through reason and logical discussion, rather than combat and murder. It is for good reason that the leaders and founder of the Cult of the Damned are all liches, but unlike much of the Cult, their devotion is not blind."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Chains of Kel'thuzad",
-											"entries": [
-												"The first of the modern liches, Kel'thuzad, codified much of their later methodology. Through his cunning and manipulation, the Scourge was built, and other liches follow his example. A major example is their command over the lesser minds of mortals, wrapping them in chains and dominating their thoughts. Other methods include the formation of religious dogma to drive communities under the Scourge's banner with relatively little bloodshed. Well, little unnecessary bloodshed."
-											]
-										}
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Necrolyte",
-									"entries": [
-										"Following on from the very earliest known necromancers, necrolytes represent the low-tier clergy of the Cult of the Damned, or put another way, are the average working man's necromancer. In any cloister of the Scourge's armies, there must be many hands constantly shifting and raising the corpses of the dead, and taking on this vital, albeit menial, task are the necrolytes. Practitioners of the religions that have grown out of the Scourge, they decry the Light, the elements, the ancestors or whatever other beliefs they may have previously held, instead making sermons on their new lord, the Lich King, and his greater servants."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Grand Necrolyte",
-									"entries": [
-										"Greater necromancers occupying a far higher rank in their cults, grand necrolytes act as spiritual leaders among the still-livin worshippers of the Scourge's decree. They experience no doubts and have no questions about their chosen path, showing a piety that might make a paladin blush. Granted powers over life and death that dwarf those of other necromancers, these dark clerics often lead or perform the most skilful of rituals to create the more powerful creatures."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Plague Dog",
-									"entries": [
-										"Stitched from the multitudinous corpses of dogs found across Azeroth, the plague dogs are a particularly cruel breed of abomination seemingly created purely to see what happens. Crafted by the endlessly inventive mind of Kel’thuzad in the laboratories of Naxxramas, these patchwork things act as immense guard dogs, protecting against intruders. A side effect of their creation is an immense, uncontrollable appetite, and one that must be sated to allow for any meaningful control of the beasts."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Unforgiven",
-									"entries": [
-										"A mysterious rank of ghostly warriors, spawned from the corpses of those insolent few who managed to draw the particular ire of the Scourge's dark masters. These densely armoured wraiths revive feeling only regret and horror at what they have become, and are commanded to express these regrets through might and magic, standing as commanders of lesser undead. Their curse lends them no rest, and not even the comfort of sunlight may reach them."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Val'kyr",
-									"entries": [
-										"A hero battling the Scourge is struck down. Poisons fill their body, their vision darkens, and their heart swells as the final thing they see is a beautiful angel, a ghostly  warrior woman on feathered wings, reaching out for them.",
-										"But joy becomes horror, as the angelic Val'kyr pulls at their departing soul, chaining it to the world of the living and raising them instantly into undeath, now bound to her, and to the Lich King. With beats of her wings, she drifts into the sky, joining her sisters in coralling their many followers into the service of their false Death God.",
-										{													
-											"type": "entries",
-											"name": "Vrykul Legend",
-											"entries": [
-												"The val'kyr of vrykul legend are angelic battlemaidens devoted to bringing the souls of honourably slain warriors into the Great Beyond. The val'kyr of the Scourge are the souls of vrykul women devoted to the Lich King, ascended through undeath into a form befitting servants of their death god."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Life and Death",
-											"entries": [
-												"Able to pass freely through the veil between life and the Shadowlands, val'kyr have unique and staggering power over life and death, almost matching that of the Lich King. To raise an army of sentient, intelligent undead instantly is no issue, nor is returning the souls of the dead to the world of the living."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Death in Glorious Battle",
-											"entries": [
-												"The val'kyr were once the most loyal priests of the Lich King, their death god. Following this and their ancient beliefs, they grant the reward of undeath to vrykul who die gloriously in the name of the Lich King. For the failures, fate sees them transformed into mindless slaves."
-											]
-										}
-									]
-								},
-								{
-									"type": "inset",
-									"name": "Scourge Risen Template",
-									"entries": [
-										"A creature risen by the scourge is any Huge or smaller creature brought back to life by vile necromantic energies. A creature that was never flesh and blood to begin with (such as a construct) can't be risen under the scourge's control. The following characteristics change or are added to a creature that becomes a scourge risen creature.",
-										{
-											
-											"type": "entries",
-											"name": "Retained Characteristics",
-											"entries": [
-												"",
-												"The risen retain its Armor Class, hit points, Hit Dice, Strength, Dexterity, Constitution, vulnerabilities, resistances, and immunities."
-											]	
-										},
-										{
-											
-											"type": "entries",
-											"name": "Lost Characteristics",
-											"entries": [
-												"",
-												"The risen loses its original saving throw and skill bonuses, special senses and special traits. It loses any action that isn't multiattack or a melee weapon that deals bludgeoning, piercing, or slashing damage. If it has an action or a melee weapon attack that deals some other type of damage, it loses the ability to deal damage of that type, unless the damage comes from a piece of equipment, such as a magic item."
-											]	
-										},
-										{
-											
-											"type": "entries",
-											"name": "Type",
-											"entries": [
-												"",
-												"The risen's type is undead, and it loses any tags."
-											]	
-										},
-										{
-											
-											"type": "entries",
-											"name": "Alignment",
-											"entries": [
-												"",
-												"The risen is neutral evil."
-											]	
-										},
-										{
-											
-											"type": "entries",
-											"name": "Ability Scores",
-											"entries": [
-												"",
-												"The risen's ability scores change as follows: Int 3 (-4), Wis 6 (-2), Cha 5 (-3)."
-											]	
-										},
-										{
-											
-											"type": "entries",
-											"name": "Senses",
-											"entries": [
-												"",
-												"The risen has darkvision with a radius of 60 ft."
-											]	
-										},
-										{
-											
-											"type": "entries",
-											"name": "Damage Immunities",
-											"entries": [
-												"",
-												"The risen gains immunity to poison damage."
-											]	
-										},
-										{
-											
-											"type": "entries",
-											"name": "Condition Immunities",
-											"entries": [
-												"",
-												"poisoned."
-											]	
-										},
-										{
-											
-											"type": "entries",
-											"name": "Languages",
-											"entries": [
-												"",
-												"The risen understands all languages it knew in life, but cannot speak."
-											]	
-										},
-										{
-											
-											"type": "entries",
-											"name": "Attacks",
-											"entries": [
-												"",
-												"If the risen has no means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to 1d4 + the risen's Strength modifier, increasing by 1d4 for each size larger than Medium."
-											]	
-										}
-									]
-								}
-							]
-						},
+
 						{
 							"type": "entries",
 							"name": "The Plague",
@@ -6116,304 +5661,573 @@
 				},
 				{
 					"type": "section",
-					"name": "Minions of the Old Gods",
-					"entries": [					
-						"This sections contains minions of the Old Gods.",
+					"name": "The Bruning Legion",
+					"entries": [
+						"PH",
 						{
 							"type": "entries",
-							"name": "Aquir",
+							"name": "Demons",
 							"entries": [
-								"PH",
 								{
-									"type": "entries",
-									"name": "Nerubians of Azjol-Nerub",
-									"entries": [
-										{
-											"type": "entries",
-											"name": "PH",
-											"entries": [
-												"",
-												"PH"
-											]
-										},
-										{
-											"type": "entries",
-											"name": "PH",
-											"entries": [
-												"",
-												"PH"
-											]
-										}
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Qiraji of Ahn'Qiraj",
-									"entries": [
-										{
-											"type": "entries",
-											"name": "PH",
-											"entries": [
-												"",
-												"PH"
-											]
-										},
-										{
-											"type": "entries",
-											"name": "PH",
-											"entries": [
-												"",
-												"PH"
-											]
-										}
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Silithids",
-									"entries": [
-										"Silithids are frightful insectoids, living in large colonies excavated beneath scorching sands. Although their individual strength is questionable at best, a colony's collective hive-mind can send signals and pain surging through the hive to alert its members of intruders.",
-										"They range dramatically in size. Beginning their life as small insignificant larva, they grow into the swarms of monstrosities that make up their flock. Whatever their size may be, they all resemble massive insects -- if those insects were grotesquely mutated and thirsting for flesh.",
-										{
-											"type": "entries",
-											"name": "Spawns of Qiraji",
-											"entries": [
-												"",
-												"As the kingdom of the aqir was left in ruins, those who remained split in two and ventured in opposite directions. One grouped traveled far south, where they found and ransacked a titan research station near Uldum. Turning the facility into a hive, they renamed themselves the qiraji -- and their new home, Ahn'Qiraj.",
-												"But their new hive held a dark secret: it was the prison of C'Thun, one of the Old Gods who had ruled primordial Azeroth. Just as the aqir before them had served him, the qiraji quickly bowed down to his will.",
-												"The facility was transformed from a prison into a seat of power, one from which the qiraji grew over milennia into an army; one capable of exacting the Old God's revenge. The key to Cthun's plan was the creation of the silithid: a race of insectoid creatures born from the qiraji, one with which Ahn'Qiraj would be poised to as a new empire."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Bestial Drones",
-											"entries": [
-												"",
-												"Unlike the qiraji, silithids aren't sentient beings. They are slavering beasts at most, linked together in a hive-mind that spans the entirety of southern Kalimdor.",
-												"C'Thun created them to be mindless servants of the qiraji; minions that would be eternally loyal to their masters -- and in turn to C'Thun himself."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Collective Hive-Mind",
-											"entries": [
-												"",
-												"Although silithids might seem to be acting on their own accord, their actions are all the exertion of their hive collective. This, however, does not make them any less dangerous.",
-												"A hive of silithids are controlled by one or more colossi, whose masive -- sometimes exposed -- brain keeps a tidy order of all other members of its hive, directing them.",
-												"The colossi in turn are controlled by the qiraji, whose dominance over the race is absolute. Hives typically possess a strange crystalline prism, hidden deep within its core, through which the qiraji communicate with them."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Adaptable Hive",
-											"entries": [
-												"",
-												"No other creature can adapt to changes in their environment as quickly as the silithid.",
-												"Adventurers daring enough to delve into the heart of a silithid hive, hoping to kill its colossi and hamper the colony as a whole, will soon find it replaced. Before long, another colossi will have taken over before long; acting as a surrogate until a new one can rise from the hive's young."
-											]
-										},
-										{				
-											"type": "entries",
-											"name": "",
-											"entries": [
-												"{@note List of Silithids}",
-												{	
-													"type": "list",
-													"style": "list-no-bullets",
-													"columns": 3,
-													"items": [					
-														"{@creature Silithid Larva|WC5E MoM}",
-														"{@creature Silithid Worker|WC5E MoM}",
-														"{@creature Silithid Wasp|WC5E MoM}",
-														"{@creature Silithid Reaver|WC5E MoM}",
-														"{@creature Silithid Colossus|WC5E MoM}",
-														"{@creature Hive Controller|WC5E MoM}",
-														""
-													]
-												}					 
-											]
-										},
-										{
-											"type": "variant",
-											"name": "Hive Controller",
-											"entries": [
-												"The strongest of a hive's colossi exerts direct command over other silithids in the hive. Usually this is either the hive lord, closest of the queen's consorts, or the hive queen herself.",
-												"The Hive Controller can be distinguished by its see-through cranium, leaving its brain visible. It has the following additional trait.",
-												{													
-													"type": "entries",
-													"name": "Leadership (Recharges after a Short or Long Rest)",
-													"entries": [
-														"For 1 minute, the silithid can send a telepathic command whenever a nonhostile creature that it can see within 60 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can receive the command. A creature can benefit from only one Leadership die at a time. This effect ends if the silithid is incapacitated."
-													]
-												}
-											]							
-										}
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Mantid of Manti'vess",
-									"entries": [
-										{
-											"type": "entries",
-											"name": "PH",
-											"entries": [
-												"",
-												"PH"
-											]
-										},
-										{
-											"type": "entries",
-											"name": "PH",
-											"entries": [
-												"",
-												"PH"
-											]
-										}
-									]
-								},
-								{		
 									"type": "entries",
 									"name": "",
-									"entries": [
-										"{@note List of Mantid}",
+									"entries": [					
+										{},
 										{	
 											"type": "list",
 											"style": "list-no-bullets",
 											"columns": 3,
-											"items": [					
-												"PH",
+											"items": [
+												"{@creature Aranasi Spiderling|WC5E MoM}",
+												"{@creature Aranasi|WC5E MoM}",
+												"{@creature Aranasi Broodmother|WC5E MoM}",
+												"{@creature Doomguard|WC5E MoM}",
+												"{@creature Terrorguard|WC5E MoM}",
+												"{@creature Doomlord|WC5E MoM}",
+												"{@creature Fel Reaver|WC5E MoM}",
+												"{@creature Imp|WC5E MoM}",
+												"{@creature Infernal|WC5E MoM}",
+												"{@creature Abyssal|WC5E MoM}",
+												"{@creature Felguard|WC5E MoM}",
+												"{@creature Gan'arg|WC5E MoM}",
+												"{@creature Mo'arg Brute|WC5E MoM}",
+												"{@creature Eye of Kilrogg|WC5E MoM}",
+												"{@creature Inquisitor|WC5E MoM}",
+												"{@creature Fel Lord|WC5E MoM}",
+												"{@creature Dread Lord|WC5E MoM}",
+												"{@creature Observer|WC5E MoM}",
+												"{@creature Pit Lord|WC5E MoM}",
 												""
 											]
-										}					 
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Aranasi",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Spider Queens",
+											"entries": [
+												"",
+												"As female aranasi mature, they undergo a transformation. Becoming significantly more intelligent, they stand up on two of their many legs, with the others splayed behind them like wings, and typically take the role of commanders among the Legion, gaining lofty royal titles and choosing consorts."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Silk Road",
+											"entries": [
+												"",
+												"Aranasi broodmothers command dangerous and tricky magic, moulding captured territories into their own silken palaces via their race's webbing. Stepping into such a parlour can be extraordinarily dangerous, as any and all nearby aranasi, from the old to the newly-hatched, will come to the aid of their queen."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Crown Prince Menethil",
+											"entries": [
+												"",
+												"Although the Lich King and the Scourge had been given form to prelude the Burning Legion, Ner'zhul's true ambition was his own salvation: to break free from the shackles of his demonic masters.",
+												"To this end, the Lich King sought a champion to carry out his will. He had already envisioned the crown piece of Lordaeron, Arthas Menethil, supplanting him in his rule of the damned. The prince was a capable warrior; a paladin of the Silver Hand, seasoned from numerous skirmishes with errant orc clans across the human kingdoms.",
+												"This new undead threat, however, was not one Arthas could bring to an end. It drove the prince to desperation; to the purging of his own homeland; to a vengeful crusade across Northrend; and ultimately to his doom."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Runeblade",
+											"entries": [
+												"",
+												"Buried away in a frozen vault, Arthas drew forth an ancient runeblade -- Frostmourne. He had been told the blade would be the means to his long-sought ends, and by its powers he carved his way through the undead hordes with a might which none around him had seen before.",
+												"However, the blade would ultimately cost the crown prince his soul. Through it, the Lich King exerted his will upon Arthas, binding him as a champion of the Scourge."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Fall of Lordaeron",
+											"entries": [
+												"",
+												"Upon his return to Lordaeron, Arthas ultimately drove his kingdom to ruin. Thereafter, the kingdoms of Quel'thalas and Dalaran fell just the same. From their ashes, with the aid of Kel'thuzad -- reborn a Lich -- Arthas saw the Burning Legion summoned forth.",
+												"Though the invasion of the Legion was ultimately a failure, and the lands of Dalaran and Quel'thalas reclaimed, Lordaeron was  forever enveloped in undeath. The final piece of the Lich King's plan, with which the Scourge would truly take foot, was to bring Arthas to his side."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Doomguards",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"I remember well the sting of defeat at the conclusion of the Third War. I have waited far too long for my revenge. Now the shadow of the Legion falls over this world. It is only a matter of time until all of your failed creation... is undone."
+											],
+											"by": "Supreme Lord Kazzak"
+										},
+										"The fearsome ered'ruin race are among the most recognisable, and most feared, of the Burning Legion's infinite army. These hulking, great masses of muscle match perfectly the image of demons across all worlds; piercing horns, enormous wings, hooves, great flaming swords, and an unstoppable desire for murder and destruction. Believed to be among the earliest of the Legion's forces, doomguards have a deadly mastery over destructive magic and raw martial strength, and their sheer love of chaos makes them the ideal demonic warriors. Often individual doomguards act as lieutenants under greater demons, or command lesser troops on the battlefield. An army of many doomguards is a force unto itself, and many of the Legion's greatest victories have been at the hands of these fearsome creatures.",
+										"Their immense strength and violent nature makes them unstoppable in combat, and their brutish appearance hides an insidious intelligence tempered by the fires of eternal war.",
+										{
+											"type": "entries",
+											"name": "Doom Bringers",
+											"entries": [
+												"",
+												"Some of these fearsome demons ascend to even greater degrees of raw strength and power, becoming respected commanders and generals in command of enormous armies of demons. Doomlords such as these have left scars across entire worlds, and even in defeat they have been known as exceptionally persistent."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Demonic Overlords",
+											"entries": [
+												"",
+												"Aranasi broodmothers command dangerous and tricky magic, moulding captured territories into their own silken palaces via their race's webbing. Stepping into such a parlour can be extraordinarily dangerous, as any and all nearby aranasi, from the old to the newly-hatched, will come to the aid of their queen."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Terrible Fiends",
+											"entries": [
+												"",
+												"Some demons, similar in appearance and power to the ered'ruin, have been sighted among Legion forces. These terrorguards have a similar profile, but their appearance is somehow more monstrous, with crowns of many horns circling their heads, and flame-belching, toothy maws in place of their torsos, accompanied by ever-staring eyes. Their relationship to the doomguards is unknown, but they well-earn their name, as they beget terror wherever they go."
+											]
+										},
+										{
+											"type": "variant",
+											"name": "Terrorguard",
+											"entries": [
+												"Some doomguards have a gigantic mouth in their stomach, which can belch flames. They gain the following attack.",
+												{													
+													"type": "entries",
+													"name": "Belching Gutmouth.",
+													"entries": [
+														"The doomguard belches fire from the giant mouth in its stomach. All creatures in a 20-foot cone must make a DC 16 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much on a successful one."
+													]
+												}
+											]							
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Dreadlords",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"I'm always on the winning side."
+											],
+											"by": "Varimathras"
+										},
+										"The dreaded infiltrators of the demon army, and arguably the most valuable and respected species among the Burning Legion, the Nathrezim race are perhaps second only to the Eredar themselves in the eyes of their dark master. It is hard to overstate the impact that the Dreadlords have had on the entire Great Dark, as their insidious efforts have led them to have a hand in almost every major event since before the Burning Legion was even created.",
+										"Pale skin, dark eyes, and vicious fangs mark the faces of evil. They are vampiric demons with a natural skill for manipulation, cruelty and espionage, far more likely to use their powers to turn others to evil than to do something as crass and direct as combat - though their prowess in combat is legendary. Acting as high commanders and infiltrators for the Legion, many are seen ordering grand armies into new and confusing positions using information about their foes that they themselves have gathered. Their ability to change their shape and addle or even control the minds of mortals has led to intense distrust and confusion among their enemies, which suits the dreadlords perfectly.",
+										{
+											"type": "entries",
+											"name": "Vampiric Desires",
+											"entries": [
+												"",
+												"The nathrezim are well known for their thirst for blood, hungering constantly for the vital fluid. this hunger fuels them in combat, and they will drain the lives of their victims until there is nothing left. Even their minions, children of the night such as insects or bats, will thirst for blood, never to be satisfied."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Master Infiltrators",
+											"entries": [
+												"",
+												"It is said that, at any time, in any place, someone you know may be a dreadlord in disguise. Their sheer skill for gathering information, manipulation and espionage is their greatest strength, and has led the Legion to countless victories. There are no lines they will not cross to further their master's goals, stealing knowledge and power from every world and every realm, even the land of the dead. Some dreadlord spies have gone years, or decades, unmasked."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Makers of Villains",
+											"entries": [
+												"",
+												"Ironically, their greatest impact on history may be their ability to influence the creation of even greater threats, and not always on purpose. They have had a hand in the creation of some of Azeroth's greatest threats, making ripples and waves far beyond the scope of comprehension. In hushed tones, it is said that they even had a hand in the corruption of the Dark Titan Sargeras - though none would dare claim this as fact."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Eye of Kilrogg",
+									"entries": [
+										"The Eye of Kilrogg is a summoned entity named for the original inventor of the spell, the orc Kilrogg, who tore his eye from his head in order to gain foresight. Fragile, flying and often invisible eyes that are spawned en masse in order to perform significant reconnaissance tasks for workers of demonic magic. This basic principle is practised extensively by the Burning Legion, particularly by the demonic inquisitors, who lack natural eyes, and seek instead to craft their own. "
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Felguard",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Yes... we leave destruction in our wake."
+											],
+											"by": "Fel Lord Zakuun"
+										},
+										"Numbered in the millions, the felguard comprise the shock troops of the Burning Legion, deployed to innumerable degrees to overwhelm their foes with a combination of martial discipline and sheer numbers. Uncomplicated, these demons are bred solely for combat, and are expected to live and die for pure war. They do so with gusto, charging their foes, isolating them and using their immense strength to obliterate them. And should a felguard fall in battle - no matter. Where one falls, another shall take its place. And another... and another...",
+										{
+											"type": "entries",
+											"name": "Doom Bringers",
+											"entries": [
+												"",
+												"Some of these fearsome demons ascend to even greater degrees of raw strength and power, becoming respected commanders and generals in command of enormous armies of demons. Doomlords such as these have left scars across entire worlds, and even in defeat they have been known as exceptionally persistent."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Fel Lord",
+									"entries": [
+										"Among the endless Fel Guard troops, there are few high ranked demons. They exist as shock troops to live and die rapidly.",
+										"The exception is the small number of immensely powerful, elite demon commanders known as Fel Lords, theorised to be mutated fel guards, who demonstrate the cunning, strength and brutality necessary to rule great swathes of demon soldiers, to the point that some exceptional individuals far outrank even Dreadlords.",
+										"Impressively intelligent and far more capable warriors than their fel guard kin, fel lords stand tall and proud above their lessers, wielding immense axes and polearms with ferocity, leaving destruction in their wake. They enforce the will of their high commanders, acting as torturers, commanders, houndmasters and bounty hunters of the highest class."
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Fel Reaver",
+									"entries": [
+										"A burning, blasted landscape, torn by demonic war. A final bastion of defenders, walled off and impenetrable by Legion forces. No demon on the land or the air can penetrate it. Infernal siege has failed, and all magic has fallen flat.",
+										"Suddenly, the ground rumbles. It shakes, once, then again, repeatedly, regularly. Footsteps.",
+										"The war machine of the Legion, the final step of any Legion invasion, the Fel Reaver is without a doubt one of the most feared and loathed sights to ever grace the Great Dark. Twisted metal formed into the vague shape of an immense man, and empowered by an engine forged by Fel fire, following careful and innovative design by the chiefest of Legion engineers, the rel reaver was designed solely to destroy. Designed to blast and to stamp and to smash, to scorch the earth and pollute the air, to turn all attempts at resistance into failure.",
+										"All who see the fel reaver despair, for it audible siren heralds the end of days.",
+										{
+											"type": "entries",
+											"name": "Hellfire Engine",
+											"entries": [
+												"",
+												"The fel reaver is a mechanical marvel, the biggest of its kind anywhere. This has been made possible only through the endless innovation of the Legion's chief engineers, who have found countless ways to construct engines that utilise the chaotic core of Fel fire. As such these enormous machines have never been known to wind down or run out of power; they simply never stop. Worlds blasted and defeated may yet be patrolled by fel reavers endlessly, stomped flat by their feet, until the day the planet withers away."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Herald of Bereavement",
+											"entries": [
+												"",
+												"The wailing klaxon of a fel reaver, sounded repeatedly as it engages a foe, is perhaps the single most feared sound ever heard during an encounter with the Burning Legion. It can be heard for seemingly miles around, and the shrill and metallic sound strikes an instant and instinctive fear response in any that hear it. Worse yet is the reavers’ seeming penchant for surprising stealth; though they are truly enormous, loud and heavy, they possess the uncanny ability to appear, just from behind a hill or around a cliff, entirely unexpected, suddenly releasing the deathly howling siren."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Future Model Pending",
+											"entries": [
+												"",
+												"No engineer is content to leave work stagnating, and the Legion is no different. Between invasions, surviving heroes have noticed a disturbing tendency for fel reavers to become more dangerous, larger, sleek and better-armed. Some may possess properties different to the standard Fel fire, or are loaded with earthquake machines, or vast armouries of apocalyptic weaponry. One thing is certain; the fel reaver is constantly being innovated upon, and a victory against one may prove impossible on another."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Guardian Eye",
+									"entries": [
+										"An inquisitor demon's blank, eyeless face is often the last thing a mortal ever sees of them, but it is never the first. Though they are without eyes on their face, inquisitor demons possess swarms of independent, floating eyes, each one capable of seeing secrets and truths across immense distances. Through their eyes an inquisitor may project cruel spells, and even their voices, but each eye is a piece of the demon, and the loss of an eye can do them grievous harm."
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Inquisitors",
+									"entries": [
+										"In the deepest, lightless chambers of the Burning Legion's war-torn worlds, far beyond the sight of any mortal, the victims of Legion cruelty face the blank gaze of the inquisitors.",
+										"Drifting slowly, these mysterious demons exhibit unending malice, and find great joy in uncovering secrets, preferably painfully.",
+										"The face of cruelty is wrapped within a simple cloak, and seems to be comprised entirely of white bone, without skin or lips, locked in an eternal inhuman grin, Completely blind, lacking eyes of any sort on its totally blank face, inquisitors conjure up hordes of floating eyeballs, which they will send careening across the cosmos in search of vital knowledge that will help the Burning Legion. Their immense magical powers are augmented by their control over their eyes, which at any moment may swarm a target and overwhelm them with demonic force.",
+										"The highly intelligent inquisitors perform most of their work in administrative capacity, aiding commanders as an eye in the sky, or transferring information across the vast network of Legion worlds. When forced to fight, they prefer to weaken and subdue an enemy, rather than outright kill a potential new source of inside information."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Imp",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Ohhh, sure! Send the little guy!"
+											],
+											"by": "most Imp's"
+										},
+										"The fodder of the Legion, the lowest in the hierarchy. Weak, expendable, too numerous to count, and able to be spawned on an almost industrial scale, fiery imps make up an appreciable portion of the Legion's invasion tactics, often being deployed in swarms at areas and allowed to go hog wild. Imps have an innate, gleeful love for destruction, and when uncontrolled will happily use their fire magic to burn anything around them with zero hesitation. Their tiny, pathetic bodies contain an unbearable amount of pure energetic enthusiasm, and their love for burning is perhaps only matched for their love of talking, which makes them extremely unpopular among the other rank and file of the Legion. It is a favourite pastime of any demon commander to order a squad of imps to charge to their deaths, knowing that whether or not they destroy anything, the universe will benefit from fewer imps.",
+										{													
+											"type": "entries",
+											"name": "Devilish Familiars",
+											"entries": [
+												"Imps are an extremely common sight among warlocks, even outside of the Legion's command, as they are easy to summon and control, are obedient, and easy to replace. As such they are often used as assistants or familiars by summoners with a need for an extra pair of hands, but little concern with what happens to them."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Speculative Origins",
+											"entries": [
+												"Legend among imps is that they came from a world full of creatures like themselves who had a fondness for mischief and fun, but which spawned as spirits of nature. The truth of it is unknown, and demon lords will forbid any talk of such things, but it is nevertheless a comforting thought for imps everywhere, that they may have once come from somewhere."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Fel Imps",
+											"entries": [
+												"Some imps are far larger than others, and burn with brighter flames of sickly green Fel. Whether this is a natural development or a mutation caused by experimentation by uncaring masters is unknown, but these rare Fel imps are seldom a welcome sight, as their fiery magic can be far more powerful."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Imp Mothers",
+									"entries": [
+										"Of mysterious origin, and deployed to an unknown capacity, are the dreadful imp mothers. The facts are simple, but few - they are spherical, corpulent female demons seen doing exactly one thing, and that is spawning imps in droves, in clutches of hundreds of tiny chittering bodies, while bathing in pits of Fel-fueled lava. Beyond that, little is known for sure, even by advanced modern demonologists. What is known is that they are deceptively intelligent, and extremely powerful casters of demonic rituals. In their capacity to spawn imps, they are unmatched, and in wartime they have been seen taking position as sub-commanders, strategists, and even infiltrators. Despite their appearance, they are surprisingly versatile.",
+										{													
+											"type": "entries",
+											"name": "Imperious Importance",
+											"entries": [
+												"Imp mothers have been seen spawning imps in large numbers apparently independent of any breeding, indicating several possibilities; imps are spawned asexually, or crafted from Fel lava in some way, or possibly summoned through an imp mother's body from somewhere else entirely. However, her relationship to imps is as unclear as the means of creation; is she a female imp, grown to grotesque size? Is she an unrelated demon, mutated to have an endless imp portal in her stomach? The truth is unknown."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Surprising Infilrators",
+											"entries": [
+												"Some imp mothers have shown the surprising ability to shift shape, manipulate and even seduce at the level of a succubus, surprising even hard-boiled adventurers. This demonstrates more than anything the strategic and social intelligence of these spheroid monsters, and shows that looks can be deceiving."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Infernal",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"We never paid any heed to the ancient prophecies. Like fools we clung to the old hatreds, and fought as we had for generations. Until the day the sky rained fire... and a new enemy came among us. We stand now, upon the brink of destruction... for the Reign of Chaos has come at last."
+											],
+											"by": "Old Sholar"
+										},
+										"A cloudy sky, casting shadow over a battlefield. An army of demons swarms, held back bravely by the world's defenders. Suddenly, an assault that no warrior can hold back - breaching through the cloud cover far above, streaking from the sky with a burning, flaming trail of sick green fire, falls a meteor. It slams into the earth, shattering bones and burning skin and armour away with its impact. The defending soldiers, wounded but not yet broken, watch in horror as the burning boulder cracks, moves, and unfolds. Crags become shoulders, arms and legs. Flames give it a vaguely humanoid shape, capped by hideous green eyes in a skull-like face. An infernal has landed among them, a construct of pure destruction, and its sole purpose is to break them.",
+										{													
+											"type": "entries",
+											"name": "Infernal Constructs",
+											"entries": [
+												"Ever-burning, the Legion's infernals are crafted on their own worlds out of flaming cores and black rock. They are thoughtless, having no desires or needs, and follow only one instruction - destroy. They are among the Legion's most deadly and feared weapons, and their summoning invariably precedes doom and terror."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Blazing Invasion",
+											"entries": [
+												"Infernals are sometimes deployed en masse by summoners, and predictably, the arrival of hundreds of blazing meteors alone can cause untold damage. As they awaken, the infernals will often do the job of breaking a siege, tearing defenses open and burning away any opposition."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Immolation and Destruction",
+											"entries": [
+												"Little can harm their rocky form, and their Fel cores break magic cast upon them. Their constantly burning bodies set alight anyone foolish enough to go close, and their sheer strength will smash any survivors."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Mo'arg",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Anger... Hate... These are tools I can use."
+											],
+											"by": "The Maker"
+										},
+										"A deadly combination of brains and brawn, the mo'arg are a varsatile race of demons that have fulfilled several roles in the Burning Legion across history. The vast, vast majority act as Felguard foot soldiers, unrecognisable from their non-conscripted kin. Others are born stunted and weak. Those few remaining take on positions befitting their strength and intelligence, often ending up as commanders or high-ranking engineers. Aside from the felguard army, mo'arg are seldom content to appear generic, often modifying themselves or setting out specifically to gather scars and unique weaponry, and in general the higher-functioning mo'arg tend to be much more individualistic than other demons.",
+										{													
+											"type": "entries",
+											"name": "Stunted Brethren",
+											"entries": [
+												"There are a subset of diminutive, sickly mo'arg which lack the brainpower or muscle to serve the Legion in the same ways as their kin. These stunted mo'arg, called gan'arg, act instead as assistant engineers and technicians on Legion-run worlds, seldom seeing combat. They are treated poorly and are given no reason to have ambition, and as such their lives are brief and utilitarian."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Mechanical Marvels",
+											"entries": [
+												"Some mo'arg prefer intellectual endeavours, and act as some of the best engineers of the Legion's war machine. These mo'arg see fit to sever parts of their own bodies and replace them with mechanical upgrades, no two alike; common replacements include grabbing arms, cutting blades, or dangerous weaponry."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Brutish Strength",
+											"entries": [
+												"Other mo'arg prefer to employ their natural hulking strength in the Legion's endless conquest, wielding massive swords, clubs or axes, donning thick armour and simply wading through  their foes' defences. These brutes do not lack intellect, but their preference for stomping, smashing and breaking suits their colossal bodies perfectly."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Observers",
+									"entries": [
+										"The watchful beholders of the Legion, these floating, tentacular eyeballs are a familiar sight to many adventurers, though none are quite sure why. Often employed for security, as overseers or as directors, they will shoot magical beams of varying types at intruders using eyes of frost, flame, or shadow. These gazers' insatiable appetites often get the better of them, and even their tiny spawn will never pass up an opportunity to incinerate and consume a passing creature."
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Pit Lords",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Yes... yes! I can feel his burning eyes upon me, he is close...so close. And then your world will be unmade, your lives as nothing!"
+											],
+											"by": "Mannoroth the Destructor"
+										},
+										"The annihilan are perhaps the most fearsome, dangerous and destructive of all of the demonic races. Known as Pit Lords, these colossal creatures act as high commanders of the Legion's invasion forces, and are rarely content to command anywhere other than in the field of battle.",
+										"Built like mountains, their reptilian tails and four cawed legs give rise to immensely powerful upper bodies, protected by armour as thick as doors. Their barrel-like arms typically wield swords or polearms the length of buildings, capable of shattering the ground beneath them. Their gigantic wings are worthless for flight, as they are simply too heavy, but are like a shield of steel, while their backs, from head to tail, are lit by a blazing mane of emerald flames. Their faces, tusked and filled with nests of tiny razor-sharp teeth, spew flame with every breath.",
+										"Pit lords use little magic or cunning, preferring instead to end battles decisively using their brute strength and fearsome tactics to overcome an enemy. Their command over their inferiors is unquestioned, and failure is punished by death. They respect nothing but strength, and seek nothing but total destruction.",
+										{													
+											"type": "entries",
+											"name": "Unrelenting Power",
+											"entries": [
+												"Pit lords do not give up. Ever. Unless it is completely killed, nothing will stop its slaughter. There have been pit lords with their hands removed, who have simply replaced them with weapons. Pit lords imprisoned will literally never stop raging and heaving at their bonds. Refusal to obey them will result in extreme rage, while those given orders will put the entire being into reaching their goal, no cost too small."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Legacy of Death",
+											"entries": [
+												"Even death does not stop a pit lord's malice. Their bodies are loaded with overwhelming power, and upon their death all of it is unleashed at once in a catastrophic explosion. Even afterwards, their blood has a hideous corruptive potency that will never go away; drinking the blood of a pit lord is enough to permanently transform a creature unregognisably, while the blood is also able to deeply corrupt the land around it until it too is unrecognisable. This blood has been seen raising the dead, and even congealing into living globules. The death of a pit lord is n ongoing catastrophe that may take decades to be cleared."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Bloody Enslavement",
+											"entries": [
+												"The blood of a pit lord's most famous property is also its worst; when consumed, a creature will be bound to the demon. Enslaved, unable to resist its will, and overwhelmed with bloodlust, creatures so enslaved will be under command until the moment of the demon's death. This was first seen when the demon Mannoroth's blood was consumed by the orcish race, turning their brown skin green."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Shivarra",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Business... or pleasure?"
+											],
+											"by": "Mother Shahraz"
+										},
+										"Exotic, many-armed women approaching a young, enterprising adventurer may not necessarily be unwelcome, but a shivarra will have no intention beyond warping a foe into a loyal servant of Sargeras, and failing that, cutting them to pieces with countless bladed weapons. Equally deadly and beautiful, he shivarra comprise some of the Legion's most devout and loyal followers, who follow the Legion's goals with an almost religious zeal. To them nothing is more offensive than slights against their master or his Burning Crusade, and subsequently the shivarra often take on a supporting role in the demon army's ranks as charismatic leaders, performing an almost motherly role by ensuring that the demons believe the right beliefs, and ensuring that failure to do so is punished horribly."
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Succubi",
+									"entries": [
+										"Succubi are some of the best-known demons even outside of the circles of demons and warlocks, and the reasons should be obvious; taking the form of an exceptionally attractive woman with relatively minimal demonic features, a succubus will act as the eyes and ears of the Burning Legion, working variously as anything from an infiltrator to a torturer. The name of their game is information, and using their powers of transformation and beguilement, succubi will infiltrate, commiserate and exterminate. It takes a strong will to overcome the wiles of a succubus, and many a warlock - often young men - will try to summon a succubus expecting submissive fealty, and will find themselves flayed and broken, while the demon quietly leaves with any useful knowledge she can find.",
+										{													
+											"type": "entries",
+											"name": "Enchanting Beauty",
+											"entries": [
+												"Famously, a succubus has immense powers of seduction. Even without magic, these demons are charming, and combined with their shape changing, illusions and mind-altering powers, it is rare that their needs are unmatched."
+											]
+										},
+										{													
+											"type": "entries",
+											"name": "Hideous Torture",
+											"entries": [
+												"Without ever missing a beat, a succubus can go from seductive charm to cruel violence. Utilising a barbed whip, poison or shadowy magic, a succubus has a trained and intimate knowledge of how to cause as much pain as she possibly can."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Wrathguard",
+									"entries": [
+										"Any army requires elite, special troops to burst through enemy ranks and decimate them. This role is filled nicely by the wrathguard, sometimes called honour guard by demonologists. Towering, and shockingly fast for their size, the strategy of any wrathguard is to blitz their foes with endless strikes, shredding them before any hint of resistance. They are said to be unstoppable killing machines, concerned only with ripping and tearing, until they are done.",
+										"There is a point of contention among demonologists regarding the origin of this race - some claim them to be pure demons, born of the Twisting Nether, while others claim them to be post-mortal demons, mutated offshoots of powerful eredar. The truth, as with nearly all demonic races, is unknown, and likely always will be."
 									]
 								}
 							]
 						},
 						{
 							"type": "entries",
-							"name": "N'raqi - Faceless Ones",
-							"entries": [
-								"The n'raqi -- or more commonly known -- the faceless ones are a monstrous kin, brought forth from the organic matter that seeped away from the Old Gods in primordial times, before the Titans brought about the ordering of Azeroth. Cunning and intelligent, they serve their eldritch masters with fanatical devotion. Tales of their unspeakable deeds paint them as unstoppable juggernauts.",
+							"name": "Corrupted Wildlife",
+							"entries": [	
 								{
 									"type": "entries",
 									"name": "",
-									"entries": [
-										{
-											"type": "entries",
-											"name": "Spawn of the Old Gods",
-											"entries": [
-												"",
-												"The faceless ones are the creation of the Old Gods, in the most literal sense of the word. They are shaped from the Old Gods' own flesh and blood; trickled from their eternal prisons through the core of the planet, like bile through the gutters.",
-												"Some of these aberrations are unique, while others are so uniform as to be virtually identical. They are all loyal to the gods that spawned them forth, unwavering in their devotion to the will of their creators."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Unexpected Allies",
-											"entries": [
-												"",
-												"These eldritch horrors are powerful, but not innumerable. What they lack in either is quickly recouped by corrupting other beings that happen in their path. Even a faceless one on its own is almost guaranteed to never truly be alone.",
-												"The faceless ones keep a few valuable allies, such as the Naga, while simultaneously seeding hatred and distrust even among the most loyal of factions."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Corrupting Presence",
-											"entries": [
-												"",
-												"Faceless ones carry the stain of the Old Gods with the, wherever they go, and their presence alone can change things for the worse. Life is tainted in their wake, slowly twisted around as friends become foes and alliances dissolve into bitter hatred.",
-												"Whether by instilling paranoia or asserting dominance directly, the faceless ones will always seek to divide and conquer."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Return of the Black Empire",
-											"entries": [
-												"",
-												"The Old Gods once ruled over Azeroth, in a time long before mortal races saw the light of day. Locked away by the Titans, they have long ever since to return to power -- an end to which their faceless servants are the means by which they act.",
-												"Long have they sown the seeds of corruption, turning the denizens of the world against one another, so that they can break free and seize control once more."
+									"entries": [					
+										{},
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [
+												"{@creature Felbat|WC5E MoM}",
+												"{@creature Felhound|WC5E MoM}",
+												"{@creature Fel Stalker|WC5E MoM}",
+												"{@creature Felsteed|WC5E MoM}",
+												"{@creature Helboars|WC5E MoM}",
+												"{@creature Ur'zul|WC5E MoM}",
+												"{@creature Vilefiend|WC5E MoM}",
+												""
 											]
 										}
-									]	
-								},
-								"{@note List of Faceless Ones}",
-								{	
-									"type": "list",
-									"style": "list-no-bullets",
-									"columns": 3,
-									"items": [					
-										"{@creature Zoatroid|WC5E MoM}",
-										"{@creature Royal Zoatroid|WC5E MoM}",
-										""
 									]	
 								},
 								{
 									"type": "entries",
-									"name": "Zoatroid",
+									"name": "Felbat",
 									"entries": [
-										"Many would see the small, squid-like zoatroid as utterly inconsequential. Nowhere near as dangerous as the towering n'raqi. Fools are those who underestimate them, as these merciless critters hunt to gain complete of their victims -- which they do by latching onto the face of a suitable target in order to bore into its mind.",
-										"Zoatroids have found a second home among the Naga, saiding their serpentine allies by infiltrating and corrupting their enemies. Some zoatroids are only able to seize control of a creature's body, while others are able to claim both body and mind as their own."
+										"On some demon-infested world long ago, a species of bat-like creatures was mutated beyond recognition into the disgusting felbats, which now act as a combination of mounts, spies and aerial assault for the Burning Legion. Their massive bodies are surprisingly agile in the air, where they can safely stay out of harm's way while they assault the ground with corruptive globs of mucus. The horrendous, high-pitched screams of a swarm of felbats has caused many defenders against the Legion running for their lives."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Felhound",
+									"entries": [
+										"The bloodhounds of the Legion, though their resemblance to canines is superficial. If their scaly bodies, eyeless faces, long and toothy maws, hoofed feet and strange, almost flower-like tentacular feelers extending from their shoulders can be ignored, then their behaviour can be called canine - their intense desire to chase and hunt down their targets, and an inbuilt obedience to domineering masters. Felhounds of all kinds are blind, and see through an innate ability to sense magic, for which they hunger constantly. When commanded, they will weaken their spellcasting prey by devouring the very magic used against them, and then will use their splayed tentacles to drain the mana and life of whatever creature is unfortunate enough to cross them.",
+										{													
+											"type": "entries",
+											"name": "Felstalker.",
+											"entries": [
+												"Less common than felhounds, but more dangerous, felstalkers lack the tentacles of their demonic cousins."
+											]
+										}
+									]	
+								},	
+								{
+									"type": "entries",
+									"name": "Felsteed",
+									"entries": [
+										"Even warlocks have the need for steeds, and no mere horse would be fitting for masters of such power. For this reason the felsteed was created from the native creatures of Azeroth, warped and corrupted into obedient minions like the others. No longer able to be called a horse, the felsteed is a warped demonic creature with flame in its blood, and hate and pain in its eyes.",
+										{													
+											"type": "entries",
+											"name": "Dreadsteeds of Xoroth",
+											"entries": [
+												"The felsteed is but a shallow copy of the true steed of demonic masters; the dreadsteed from the Legion world, Xoroth. Flaming hooves, curved horns and fiery breath crown the demon horse, not merely corrupted from nature but born purely of the Fel. A significantly more difficult and complicated ritual is required by warlocks to even see one of these horses."
+											]
+										}
 									]	
 								},
 								{
-									"type": "variant",
-									"name": "Royal Zoatroid",
+									"type": "entries",
+									"name": "Helboars",
 									"entries": [
-										"A royal zoatroid has a challenge rating of 6 (2,300 XP). It has the same statistics as a zoatroid except that it adds its Wisdom modifier to its Armor Class (AC 17) and gains the following additional trait:",
-										{													
-											"type": "entries",
-											"name": "Magic Resistance",
-											"entries": [
-												"The zoatroid has advantage on saves against spells and other magical effects."
-											]
-										},
-										"The royal zoatroid has the following action option in place of the zoatroid's Enslave:",
-										{													
-											"type": "entries",
-											"name": "Dominate (Recharge 6)",
-											"entries": [
-												"One humanoid grappled by the zoatroid must succeed on a DC 13 Wisdom saving throw or be dominated by the zoatroid: the dominated target goes on the zoatroids initiative, it controls the target using its action. The {@i Dominate} deprives the target of its vision but not its awareness. The royal zoatroid can be targeted by attacks, spells, and other effects but any attack roll that misses the zoatroid automatically hits its dominated target.", 
-												"The domination lasts until the target drops to 0 hit points, the zoatroid ends it as a bonus action, or a creature uses their action to attempt a grapple check contested by the zoatroid."
-											]
-										}
-									]							
-								}
-							]
-						}
-					]
-				},
-				{
-					"type": "section",
-					"name": "Aberrations",
-					"entries": [					
-						"This sections contains creatures of unknown origins",
-						{
-							"type": "entries",
-							"name": "{@creature Fleshbeast}",
-							"entries": [
-								"Though the exact origin of these monstrous aberrations is unknown, the theories are many. Some even go so far as to claim them a product of the Twisting Nether itself, pulled from there onto other worlds.",
+										"Despite their name, helboars are not demons or part of the Burning Legion. As beasts who have been exposed to the energies of the Twisting Nether for long periods of time, simple boars have mutated into this spiked variety, capable of superheating their own skin as a defense mechanism."
+									]
+								},
 								{
 									"type": "entries",
-									"name": "",
+									"name": "Ur'zul",
 									"entries": [
-										{
-											"type": "entries",
-											"name": "Nightmare Made Flesh",
-											"entries": [
-												"",
-												"Slavering, hungering monstrosities, the best way to describe the terrifying fleshbeasts are plainly as creatures of nightmare. Their presence has been witnessed both on Azeroth and beyond, as they appear to tail along on magical experiments that try to exploit the powers of the Twisting Nether, using them as rifts through which they can travel between worlds."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Parasitic Brood",
-											"entries": [
-												"",
-												"Fleshbeasts are decidedly mindless, acting entirely on instinct. They hunt by flocking together in large swarms, overpowering their prey and consuming it, sometimes while it is still alive. Even after the fleshbeast has had its fill, most of the victim will still be left behind intact -- a perfect nesting ground for their wormlike spawn, who will later devour the remains as they hatch.",
-												"Other predators attempting to scavenge remains left behind by a fleshbeast will most likely be infected as well, and later devoured by the hatchlings."
-											]
-										}
+										"Wandering the broken streets and canyons of Argus, the Legion homeworld, one might see perhaps their most hideous and disturbing creation - the ur'zul. Disgusting amalgamations of flesh and souls, originally crafted from the countless millions of eredar souls claimed during the planet's original corruption by the Legion, ur'zul take the form of hound-like monsters with countless faces locked in expressions of horrifying, ceaseless agony, positioned above a nightmarish toothy mouth.  Ur'zul have none of the sympathy or love that these souls once felt; the creatures exist only to spread their suffering."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Vilefiend",
+									"entries": [
+										"Smart and aggressive, vilefiends are animalistic demons known to roam freely in groups, actively hunting mortals. Spiny and protected by a natural armour, their long limbs and rows of teeth are only their secondary weapons; first and foremost they are corrosive, spewing their acidic blood and bile at their prey in the hopes of dissolving them into sludge. Their bite can be crippling, and can corrode away even the toughest of metal. When damaged enough their blood vessels will burst, with high-pressure acid blood spewing generously."
 									]
 								}
 							]
@@ -25505,7 +25319,7 @@
 				{
 					"name": "Deadly Plague",
 					"entries": [
-						"Poison damage that the plague eruptor deals ignores resistance and immunity to poison damage. It can inflict the {@condition poisoned} condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the {@disease plague of undeath}."
+						"Poison damage that the plague eruptor deals ignores resistance and immunity to poison damage. It can inflict the {@condition poisoned} condition even on creatures normally immune to it. When it deals a critical hit, the target is infected with the {@disease plague of undeath|WC5E MoM}."
 					]
 				},
 				{
