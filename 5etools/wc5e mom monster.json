@@ -19,8 +19,8 @@
 				"targetSchema": "1.0.0"
 			}
 		],
-		"dateAdded": 1710602445,
-		"dateLastModified": 1710602445
+		"dateAdded": 1710698884,
+		"dateLastModified": 1710698884
 	},
 	"monster": [
 		{
@@ -5805,55 +5805,55 @@
 							]
 						},
 						"1": {
-							"slots": 4,
 							"spells": [
 								"{@spell burning hands}",
 								"{@spell hellish rebuke}",
 								"{@spell magnify gravity|EGW}"
-							]
+							],
+							"slots": 4
 						},
 						"2": {
-							"slots": 3,
 							"spells": [
 								"{@spell aganazzar's scorcher|XGE}",
 								"{@spell continual flame}",
 								"{@spell flaming sphere}",
 								"{@spell hold person}",
 								"{@spell living bomb|WC5E MoM}"
-							]
+							],
+							"slots": 3
 						},
 						"3": {
-							"slots": 3,
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell fireball}",
 								"{@spell slow}"
-							]
+							],
+							"slots": 3
 						},
 						"4": {
-							"slots": 3,
 							"spells": [
 								"{@spell confusion}",
 								"{@spell fire shield}",
 								"{@spell wall of fire}"
-							]
+							],
+							"slots": 3
 						},
 						"5": {
-							"slots": 2,
 							"spells": [
 								"{@spell dominate person}",
 								"{@spell immolation|XGE}"
-							]
+							],
+							"slots": 2
 						},
 						"6": {
-							"slots": 1,
 							"spells": [
 								"{@spell investiture of flame|XGE}"
-							]
+							],
+							"slots": 1
 						}
 					},
 					"footerEntries": [
-						"The dwarf casts fire shield on itself before combat."
+						"{@i The dwarf casts {@spell fire shield} on itself before combat.}"
 					],
 					"ability": "int"
 				}
@@ -8670,6 +8670,736 @@
 					"The great {@b elekks} are among the oldest living species on Draenor. These trunked creatures move in herds and while generally peaceful as long as their young and water supply are unthreatened, can use their four tusks to deadly effect. The draenei have been known to use them as beasts of burden, using Light-infused crystals to render them more docile."
 				]
 			}
+		},
+		{
+			"name": "Eredar Brute",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "fiend(demon)",
+			"alignment": [
+				"C",
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 85,
+				"formula": "10d10 + 30"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 18,
+			"dex": 11,
+			"con": 17,
+			"int": 14,
+			"wis": 13,
+			"cha": 17,
+			"save": {
+				"str": "+7",
+				"wis": "+4"
+			},
+			"skill": {
+				"athletics": "+7"
+			},
+			"senses": [
+				"senses"
+			],
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "damage from nonmagical weapons",
+					"cond": true
+				},
+				"fire"
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened"
+			],
+			"languages": [
+				"Common",
+				"Eredun"
+			],
+			"cr": "6",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The eredar's innate spellcasting ability is Charisma (spell save {@dc 14}, +6 to spell attacks). It can innately cast the following spells, requiring no components:"
+					],
+					"will": [
+						"{@spell detect magic}"
+					],
+					"daily": {
+						"1": [
+							"{@spell cause fear|XGE}",
+							"{@spell hold person}"
+						]
+					},
+					"ability": "cha"
+				}
+			],
+			"trait": [
+				{
+					"name": "Dread Crush",
+					"entries": [
+						"If the eredar brute moves at least 20 feet in a straight line toward a creature, it can use its bonus action to leap up to 10 feet toward a direction and make a burning claws attack against a creature in range. If it hits, the creature must succeed against a {@dc 17} Constitution saving throw or that creature is {@condition stunned} until the start of the eredar brute's next turn."
+					]
+				},
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The eredar brute has advantage on saving throws against spells and other magical effects."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The eredar brute makes two Burning Claw attacks."
+					]
+				},
+				{
+					"name": "Burning Claws",
+					"entries": [
+						"{@atk mw} +X to hit, 10 feet, one target: 13 ({@damage 2d8 + 4}) slashing damage plus 4 ({@damage 1d8}) fire damage."
+					]
+				},
+				{
+					"name": "Overpowering Flurries {@recharge 5}",
+					"entries": [
+						"The Eredar Brute uses its Multiattack, but on a hit, it deals the fire damage of its Burning Claw to all creatures within 5 feet of the creature it hit.",
+						"Reaction"
+					]
+				},
+				{
+					"name": "Enrage",
+					"entries": [
+						"When the eredar brute suffers from a critical hit, or falls below half its hit point maximum, it can enrage as a reaction, gaining 20 temporary hit points. While it possesses these temporary hit points, its movement speed increases by 10 feet and it deals additional fire damage with weapon attacks equal to its Charisma modifier."
+					]
+				}
+			],
+			"traitTags": [
+				"Magic Resistance"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"F",
+				"S"
+			],
+			"spellcastingTags": [
+				"I"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"conditionInflict": [
+				"stunned"
+			],
+			"conditionInflictSpell": [
+				"frightened",
+				"paralyzed"
+			],
+			"savingThrowForced": [
+				"constitution"
+			],
+			"savingThrowForcedSpell": [
+				"wisdom"
+			]
+		},
+		{
+			"name": "Eredar Doommaiden",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "fiend",
+				"tags": [
+					"demon"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				14
+			],
+			"hp": {
+				"average": 119,
+				"formula": "14d10 + 42"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": 60
+			},
+			"str": 13,
+			"dex": 18,
+			"con": 16,
+			"int": 14,
+			"wis": 15,
+			"cha": 16,
+			"save": {
+				"dex": "+7",
+				"int": "+5"
+			},
+			"skill": {
+				"acrobatics": "+7"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"> - languages common",
+				"eredun"
+			],
+			"resist": [
+				"fire",
+				"necrotic",
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened"
+			],
+			"cr": "8",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The eredar's innate spellcasting ability is Charisma (spell save {@dc 16}, +8 to spell attacks). It can innately cast the following spells, requiring no components:"
+					],
+					"will": [
+						"{@spell detect magic}",
+						"{@spell disguise self}",
+						"{@spell false life}"
+					],
+					"daily": {
+						"1": [
+							"{@spell hex}",
+							"{@spell misty step}",
+							"{@spell shield}"
+						]
+					},
+					"ability": "cha"
+				}
+			],
+			"trait": [
+				{
+					"name": "Dive Attack",
+					"entries": [
+						"If the doommaiden is flying and dives at least 30 feet straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 3 ({@damage 1d6}) damage to the target"
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Doommaiden makes two melee attacks. It can replace one of these attacks with her Fel Bulwark action."
+					]
+				},
+				{
+					"name": "Fel Bulwark",
+					"entries": [
+						"One fiend within 30 feet of the doommaiden is bolsters. That creature gains 20 temporary hit points, and while it has these hit points, the creature gains a bonus to saving throws equal to the doommaiden's Charisma modifier."
+					]
+				},
+				{
+					"name": "Felclaws",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}13 ({@damage 2d8 + 4}) slashing damage, and 4 ({@damage 1d8}) necrotic damage. The doomaiden can alternatively choose not do the slashing damage to instead grapple the creature (escape DC XX)."
+					]
+				},
+				{
+					"name": "Shadow Rend",
+					"entries": [
+						"{@atk ms} {@hit 7} to hit, reach 5 ft., one creature. {@h}The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on all ability checks, and whenever that creature takes damage, they take an additional {@damage 1d8} necrotic damage."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Fel Backdraft {@recharge 5}",
+					"entries": [
+						"When the eredar doommaiden is hit, it can use it reaction to force all creatures within 10 feet of it to make a {@dc 15} Dexterity saving throw, or be knocked back 5 feet and knocked {@condition prone}. It can then move up to half its fly speed."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"N",
+				"S"
+			],
+			"damageTagsSpell": [
+				"N"
+			],
+			"spellcastingTags": [
+				"I"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"savingThrowForced": [
+				"dexterity"
+			]
+		},
+		{
+			"name": "Eredar Lord",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "fiend",
+				"tags": [
+					"demon"
+				]
+			},
+			"alignment": [
+				"L",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 17,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 263,
+				"formula": "25d12 + 100"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 21,
+			"dex": 12,
+			"con": 19,
+			"int": 20,
+			"wis": 17,
+			"cha": 19,
+			"save": {
+				"str": "+10",
+				"wis": "+8",
+				"int": "+10",
+				"cha": "+9"
+			},
+			"skill": {
+				"arcana": "+10",
+				"deception": "+9",
+				"perception": "+8",
+				"intimidation": "+9"
+			},
+			"senses": [
+				"darkvision 120 feet"
+			],
+			"passive": 18,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "damage from nonmagical weapons",
+					"cond": true
+				},
+				"necrotic"
+			],
+			"immune": [
+				"fire",
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhausted",
+				"frightened",
+				"poisoned"
+			],
+			"languages": [
+				"Common",
+				"Eredun"
+			],
+			"cr": "15",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The eredar's innate spellcasting ability is Charisma (spell save {@dc 16}, +8 to spell attacks). It can innately cast the following spells, requiring no components:"
+					],
+					"will": [
+						"{@spell detect magic}",
+						"{@spell disguise self}"
+					],
+					"daily": {
+						"1": [
+							"{@spell feeblemind}",
+							"{@spell finger of death}",
+							"{@spell fire storm}"
+						]
+					},
+					"ability": "cha"
+				},
+				{
+					"name": "Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The eredar is a 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 18}, {@hit 10} to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:"
+					],
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell diabolism|WC5E Spells}",
+								"{@spell fel flame|WC5E Spells}",
+								"{@spell fire bolt}",
+								"{@spell mage hand}",
+								"{@spell sapping sting|EGW}",
+								"{@spell shadow bolt|WC5E Spells}"
+							]
+						},
+						"5": {
+							"spells": [
+								"{@spell bane}",
+								"{@spell banishment}",
+								"{@spell counterspell}",
+								"{@spell crown of madness}",
+								"{@spell darkness}",
+								"{@spell dimension door}",
+								"{@spell dispel magic}",
+								"{@spell enervation|XGE}",
+								"{@spell fly}",
+								"{@spell rain of fire|TEB:SV}",
+								"{@spell sleep}"
+							],
+							"slots": 4,
+							"lower": 1
+						}
+					},
+					"ability": "int"
+				}
+			],
+			"trait": [
+				{
+					"name": "Dread Presence",
+					"entries": [
+						"Demon's within 30 feet of the eredar lord gain a bonus to their Intelligence, Wisdom, and Charisma saving throws equal to the eredar lord's Charisma modifier. In addition, non-fiend creatures within 30 feet of the eredar lord gain a penalty to saving throws against being {@condition charmed} or {@condition frightened} equal to the eredar lord's Charisma modifier."
+					]
+				},
+				{
+					"name": "Legendary Resistance",
+					"entries": [
+						"If the eredar lord would fail a saving throw, they can choose to succeed instead."
+					]
+				},
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The eredar lord has advantage on saving throws against spells and other magical effects."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Creature Name makes Number and type of attacks"
+					]
+				},
+				{
+					"name": "Felclaw",
+					"entries": [
+						"{@atk mw} {@hit 10} to hit, reach 10 ft., one target. {@h}15 ({@damage 3d6 + 5}) slashing damage and 9 ({@damage 2d8}) fire damage, If the target is a Medium or smaller creature, the creature is {@condition grappled} (escape {@dc 18}). Until the grapple ends, the eredar can't use this claw on another target. The eredar has two claws."
+					]
+				},
+				{
+					"name": "Summon Infernal (Recharge on a Long Rest)",
+					"entries": [
+						"The eredar lord calls down an meteor from the sky to a space it can see within 60 feet. All creatures within 15 feet of this space must succeed on a {@dc 19} Dexterity saving throw, taking 45 ({@damage 10d8}) fire damage on a failed save, or half as much on a success.",
+						"In addition, an *infernal* appears in the same space. It rolls its own initiative, is friendly to the eredar lord and its allies. This infernal last for 1 minute or until the eredar lord is dropped to 0 hit points."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Felclaw",
+					"entries": [
+						"The eredar lord makes one felclaw attack"
+					]
+				},
+				{
+					"name": "Command Demons (Cost 2 Actions)",
+					"entries": [
+						"The eredar lord commands all demons within 15 feet of it to attack using their reaction."
+					]
+				},
+				{
+					"name": "Cantrip (Cost 2 Actions)",
+					"entries": [
+						"The eredar cast one of its cantrips."
+					]
+				}
+			],
+			"traitTags": [
+				"Legendary Resistances",
+				"Magic Resistance"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"F",
+				"S"
+			],
+			"damageTagsSpell": [
+				"F",
+				"N",
+				"O",
+				"Y"
+			],
+			"spellcastingTags": [
+				"CL",
+				"I"
+			],
+			"miscTags": [
+				"MW",
+				"RCH"
+			],
+			"conditionInflict": [
+				"grappled"
+			],
+			"savingThrowForced": [
+				"dexterity"
+			],
+			"savingThrowForcedSpell": [
+				"charisma",
+				"constitution",
+				"dexterity",
+				"intelligence",
+				"wisdom"
+			]
+		},
+		{
+			"name": "Eredar Warlock",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "fiend",
+				"tags": [
+					"demon"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				12,
+				{
+					"ac": 16,
+					"condition": "with {@spell demon skin|WC5E Spells}",
+					"braces": true
+				}
+			],
+			"hp": {
+				"formula": "15d10 + 30",
+				"average": 113
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 13,
+			"dex": 14,
+			"con": 15,
+			"int": 19,
+			"wis": 14,
+			"cha": 18,
+			"save": {
+				"int": "+8",
+				"wis": "+6"
+			},
+			"skill": {
+				"arcana": "+8",
+				"history": "+8"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 12,
+			"resist": [
+				"fire",
+				"necrotic",
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened"
+			],
+			"languages": [
+				"common",
+				"eredun"
+			],
+			"cr": "9",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The eredar's innate spellcasting ability is Charisma (spell save {@dc 16}, +8 to spell attacks). It can innately cast the following spells, requiring no components:"
+					],
+					"will": [
+						"{@spell demon skin|WC5E Spells}",
+						"{@spell detect magic}",
+						"{@spell disguise self}"
+					],
+					"daily": {
+						"1": [
+							"{@spell contagion}",
+							"{@spell summon greater demon|XGE}"
+						]
+					},
+					"ability": "cha"
+				},
+				{
+					"name": "Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The eredar is a 14th-level spellcaster. Its spellcasting modifier is Intelligence (spell save {@dc 16} , {@hit 8} to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It has the following warlock spells prepared:"
+					],
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell chill touch}",
+								"{@spell diabolism|WC5E Spells}",
+								"{@spell fel flame|WC5E Spells}",
+								"{@spell mage hand}",
+								"{@spell shadow bolt|WC5E Spells}"
+							]
+						},
+						"5": {
+							"spells": [
+								"{@spell bane}",
+								"{@spell bestow curse}",
+								"{@spell blight}",
+								"{@spell cause fear|XGE}",
+								"{@spell compulsion}",
+								"{@spell dominate person}",
+								"{@spell drain life|WC5E Spells}",
+								"{@spell hex}",
+								"{@spell hold person}",
+								"{@spell hunger of Hadar}",
+								"{@spell ray of sickness}"
+							],
+							"slots": 3,
+							"lower": 1
+						}
+					},
+					"ability": "int"
+				}
+			],
+			"trait": [
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The eredar warlock has advantage on saving throws against spells and other magical effects"
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Dagger",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, 10 feet, one target: 6 ({@damage 2d4 + 1}) piercing damage.",
+						"Reaction"
+					]
+				},
+				{
+					"name": "Power Drain {@recharge 5}",
+					"entries": [
+						"When the eredar warlock succeeds on a saving throw against a spell, it can use its reaction to force the caster of the spell to make a Charisma saving throw against its spell DC. On a failed save, the eredar warlock regains one expended spell slot, and the caster can't cast spells other than cantrips for 1 minute."
+					]
+				}
+			],
+			"attachedItems": [
+				"dagger|phb"
+			],
+			"traitTags": [
+				"Magic Resistance"
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"P"
+			],
+			"damageTagsSpell": [
+				"A",
+				"C",
+				"I",
+				"N"
+			],
+			"spellcastingTags": [
+				"CL",
+				"I"
+			],
+			"miscTags": [
+				"MLW",
+				"MW"
+			],
+			"conditionInflictSpell": [
+				"blinded",
+				"poisoned",
+				"stunned"
+			],
+			"savingThrowForcedSpell": [
+				"charisma",
+				"constitution",
+				"dexterity",
+				"wisdom"
+			]
 		},
 		{
 			"name": "Eye of Kilrogg",
@@ -18264,7 +18994,7 @@
 						"6": {
 							"slots": 1,
 							"spells": [
-								"{@spell} *",
+								"{@spell circle of death}",
 								"{@spell create undead}",
 								"{@spell investiture of ice|XGE}",
 								"{@spell wall of ice}"
@@ -33091,6 +33821,127 @@
 			],
 			"savingThrowForced": [
 				"constitution"
+			]
+		},
+		{
+			"name": "Wrathguard",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "fiend",
+				"tags": [
+					"demon"
+				]
+			},
+			"alignment": [
+				"L",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 18,
+					"from": [
+						"{@item plate armor|PHB|plate}"
+					]
+				}
+			],
+			"hp": {
+				"average": 98,
+				"formula": "14d10 + 28"
+			},
+			"speed": {
+				"walk": 35
+			},
+			"str": 18,
+			"dex": 15,
+			"con": 14,
+			"int": 15,
+			"wis": 12,
+			"cha": 13,
+			"save": {
+				"str": "+8",
+				"cha": "+5"
+			},
+			"skill": {
+				"athletics": "+8",
+				"intimidation": "+5",
+				"perception": "+5"
+			},
+			"senses": [
+				"darkvision 120 ft."
+			],
+			"passive": 15,
+			"resist": [
+				"fire",
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened"
+			],
+			"languages": [
+				"Common",
+				"Eredun"
+			],
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Indomitable (2/Day)",
+					"entries": [
+						"The wrathguard rerolls a failed saving throw."
+					]
+				},
+				{
+					"name": "Legion Strike",
+					"entries": [
+						"Once on each of its turns when the wrathguard makes a longsword attack, it can make another attack against a different creature that is within 5 feet of both the first creature and the wrathguard."
+					]
+				},
+				{
+					"name": "Magic Weapons",
+					"entries": [
+						"The wrathguard's weapon attacks are magical."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The wrathguard makes three longsword attacks."
+					]
+				},
+				{
+					"name": "Longsword",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) slashing damage."
+					]
+				}
+			],
+			"attachedItems": [
+				"longsword|phb"
+			],
+			"traitTags": [
+				"Magic Weapons"
+			],
+			"senseTags": [
+				"SD"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"S"
+			],
+			"miscTags": [
+				"MLW",
+				"MW"
 			]
 		},
 		{

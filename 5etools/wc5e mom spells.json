@@ -19,8 +19,8 @@
 				"targetSchema": "1.0.0"
 			}
 		],
-		"dateAdded": 1710602003,
-		"dateLastModified": 1710602003
+		"dateAdded": 1710698895,
+		"dateLastModified": 1710698895
 	},
 	"spell": [
 		{
@@ -616,6 +616,52 @@
 			],
 			"miscTags": [
 				"SGT"
+			]
+		},
+		{
+			"name": "Demon Skin",
+			"source": "WC5E Spells",
+			"page": 0,
+			"level": 1,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "dried skin of a demon or fiend"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 8
+					}
+				}
+			],
+			"entries": [
+				"Your skin becomes covered in a layer of fel energy, infusing you with fiendish vigor. Your base Armor Class becomes 8 + your spellcasting ability modifier (minimum AC 10).",
+				"Additionally, your current hit points and hit point maximum each increase by 2. If ending the spell would cause your current hit point total to drop to 0 or lower, it drops to 1 instead."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels:",
+					"entries": [
+						"When you cast this spell using a spell slot of 2nd level or higher, the Armor Class granted by the spell increases by 1 and your current hit point total and hit point maximum each increase by 2 for each slot level above 1st."
+					]
+				}
 			]
 		},
 		{
