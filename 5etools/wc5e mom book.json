@@ -77,6 +77,14 @@
 						"F",
 						"G",
 						"H",
+						{
+							"header": "Two-legged Hydra",
+							"depth": 1
+						},
+						{
+							"header": "Four-legged Hydra",
+							"depth": 1
+						},
 						"I",
 						"J",
 						"K",
@@ -114,6 +122,9 @@
 						"W",
 						{
 							"header": "Wind Serpents",
+							"depth": 1
+						},						{
+							"header": "Wyvern",
 							"depth": 1
 						},
 						"X",
@@ -197,14 +208,64 @@
 					}
 				},
 				{
-					"name": "Elementals & Primordials",
+					"name": "[PH] The Emerald Dream",
 					"headers": [
-						"Elementals",
-						"Primordials"
+						"[PH]",
+						{
+							"header": "[PH] Dryads",
+							"depth": 1
+						},
+						{
+							"header": "[PH] Faerie Dragon",
+							"depth": 1
+						},		
+							{
+							"header": "[PH] Keeper of the Grove",
+							"depth": 1
+						}
 					],
 					"ordinal": {
 						"type": "chapter",
 						"identifier": 5
+					}
+				},
+				{
+					"name": "Elementals & Primordials",
+					"headers": [
+						"Elementals",
+						{
+							"header": "Air Elementals",
+							"depth": 1
+						},
+						{
+							"header": "Earth Elementals",
+							"depth": 1
+						},		
+							{
+							"header": "Fire Elementals",
+							"depth": 1
+						},
+						{
+							"header": "Water Elementals",
+							"depth": 1
+						},
+						{
+							"header": "Elemental Revenants",
+							"depth": 1
+						},
+						"Primordials",
+						{
+							"header": "Arcane Elemental",
+							"depth": 1
+						},
+						{
+							"header": "Fel Elemental",
+							"depth": 1
+						}
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 6
 					}
 				},
 				{
@@ -215,7 +276,7 @@
 					],
 					"ordinal": {
 						"type": "chapter",
-						"identifier": 6
+						"identifier": 7
 					}
 				},
 				{
@@ -228,7 +289,7 @@
 					],
 					"ordinal": {
 						"type": "chapter",
-						"identifier": 7
+						"identifier": 8
 					}
 				},
 				{
@@ -244,6 +305,10 @@
 							"depth": 1
 						},
 						{
+							"header": "Dreadlords",
+							"depth": 1
+						},
+						{
 							"header": "Felguard",
 							"depth": 1
 						},
@@ -252,7 +317,7 @@
 							"depth": 1
 						},
 						{
-							"header": "Fel Reavers",
+							"header": "Fel Reaver",
 							"depth": 1
 						},
 						{
@@ -285,18 +350,6 @@
 						},
 						{
 							"header": "Pit Lords",
-							"depth": 1
-						},
-						{
-							"header": "Dreadlord",
-							"depth": 1
-						},
-						{
-							"header": "Observer",
-							"depth": 1
-						},
-						{
-							"header": "Pit Lord",
 							"depth": 1
 						},
 						{
@@ -339,7 +392,7 @@
 					],
 					"ordinal": {
 						"type": "chapter",
-						"identifier": 8
+						"identifier": 9
 					}
 				},
 				{
@@ -347,11 +400,11 @@
 					"headers": [
 						"Aqir",
 						{
-							"header": "PH Nerubians of Azjol-Nerub",
+							"header": "[PH] Nerubians of Azjol-Nerub",
 							"depth": 1
 						},
 						{
-							"header": "PH Qiraji of Ahn'Qiraj",
+							"header": "[PH] Qiraji of Ahn'Qiraj",
 							"depth": 1
 						},
 						{
@@ -359,14 +412,14 @@
 							"depth": 1
 						},
 						{
-							"header": "PH Mantid of Manti'vess",
+							"header": "[PH] Mantid of Manti'vess",
 							"depth": 1
 						},
 						"N'raqi - Faceless Ones"
 					],
 					"ordinal": {
 						"type": "chapter",
-						"identifier": 9
+						"identifier": 10
 					}
 				},
 				{
@@ -376,7 +429,7 @@
 					],
 					"ordinal": {
 						"type": "chapter",
-						"identifier": 9
+						"identifier": 11
 					}
 				}
 			]
@@ -391,14 +444,14 @@
 					"type": "section",
 					"name": "Contents",
 					"entries": [					
-						"Waking up to a goblin ambush, a human reaches for the pistol she always keeps at her side. She leaps to her feet and begins to fire, blasting the nearest goblin away before he can strike."
+						"[PH] Waking up to a goblin ambush, a human reaches for the pistol she always keeps at her side. She leaps to her feet and begins to fire, blasting the nearest goblin away before he can strike."
 					]
 				},
 				{
 					"type": "section",
 					"name": "Assorted Beasts",
 					"entries": [					
-						"This sections contains the more exotic beasts from around Azeroth and beyond.",
+						"[PH] This sections contains the more exotic beasts from around Azeroth and beyond.",
 						{
 							"type": "entries",
 							"name": "A",
@@ -434,11 +487,6 @@
 									"style": "list-no-bullets",
 									"columns": 3,
 									"items": [					
-										"{@creature Baboon|WC5E MoM}",
-										"{@creature Badger|WC5E MoM}",
-										"{@creature Bat|WC5E MoM}",
-										"{@creature Basilisk|WC5E MoM}",
-										"{@creature Black Bear|WC5E MoM}",
 										"{@creature Boar|WC5E MoM}",
 										"{@creature Brown Bear|WC5E MoM}",
 										""
@@ -490,17 +538,15 @@
 									"style": "list-no-bullets",
 									"columns": 3,
 									"items": [					
-										"{@creature Camel|WC5E MoM}",
 										"{@creature Carrion Bird Moth|WC5E MoM}",
-										"{@creature Cat|WC5E MoM}",
 										"{@creature Cheetah|WC5E MoM}",
 										"{@creature Clefthoof|WC5E MoM}",
 										"{@creature Cobra|WC5E MoM}",
-										"{@creature Constrictor Snake|WC5E MoM}",
 										"{@creature Cougar|WC5E MoM}",
 										"{@creature Coyote|WC5E MoM}",
-										"{@creature Crab|WC5E MoM}",
 										"{@creature Crane|WC5E MoM}",
+										"{@creature Crocolisk|WC5E MoM}",
+										"{@creature Chimaera|WC5E MoM}",
 										"{@creature Crocolisk|WC5E MoM}",
 										""
 									]
@@ -514,16 +560,9 @@
 								},
 								{
 									"type": "entries",
-									"name": "Carrion Bird",
+									"name": "Chimaera",
 									"entries": [
-										"A carrion bird is a large, carnivorous scavenger bird found across Azeroth. Their wings are broad and their heads often featherless. They stalk their prey from the skies, lurking from a distance, as they wait for it to fall -- whether from exhaustion, or from another hunter."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Carrion Bird",
-									"entries": [
-										"A cobra is not a mere venomous snake, but an immense serpent with a wide hood or rays capable of spitting deadly venomous acid at their foes. They are typically found deep in the jungle where they can hide in the undergrowth and ambush prey."
+										"[PH]"
 									]
 								}
 							]
@@ -553,20 +592,6 @@
 									"name": "Darkhound",
 									"entries": [
 										"A darkhound is a cursed doglike creature found stalking the forests of the world, either by themselves or in small packs. Most consider them to be little more than a nuisance to be rid of, though the dark iron dwarves have found good use in them as patrol animals."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Variant: Frost Wolf",
-									"entries": [
-										"Frost wolves are an arctic version of wolves native to Draenor. A number of them followed the orcish Frostwolf clan during the invasions of Azeroth, to whom they have a special bond. It has the same statistics as a dire wolf, except that it gains resistance to cold damage and gains the following trait:",
-										{
-											"type": "entries",
-											"name": "Snow Camouflage",
-											"entries": [
-												"The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain."
-											]
-										}		
 									]
 								},
 								{
@@ -704,18 +729,11 @@
 									"entries": [
 										"The raptor is a large, aggressive dinosaur, known far and wide for its strength and immense speed. Out in the open, it is near impossible to outrun its leaping stride, and once it has caught up to its prey it pounces; driving its hooked talons in deep.",
 										"Even among dinosaurs, raptors are exceptionally intelligent. Their packs act closer to colonies, with established hierarchies and and breeding grounds that could be mistaken for settlements when viewed from afar. They are very visually striking creatures, decked in scales and feathers ranging from bright blue and white, to striking red and orange, to deep black, purple, and green.",
+										"The most ferocious in a pack of raptors are often referred to as {@i ravagers}.",
 										{
 											"type": "variant",
-											"name": "Ravager & Falcosaurs",
+											"name": "Falcosaurs",
 											"entries": [
-												"The most ferocious in a pack of raptors are often referred to as {@i ravagers}. A raptor ravager has a challenge rating of 2 (450 XP). It has the same statistics as a raptor, and gains the following trait:",
-												{													
-													"type": "entries",
-													"name": "Rampage",
-													"entries": [
-														"When the raptor reduces a creature to 0 hit points with a melee attack on its turn, the raptor can take a bonus action to move up to half its speed and make a bite attack."
-													]
-												},
 												"Falcosaurs are an invasive and predatory dinosaur species that can be found on the coastlines of the Broken Isles. They look like feathered raptors with a huge beak and have a primal need to hunt that develops at a young age. While falcosaurs are predatory, they are actually omnivores and eat fruits as well as berries in large quantities.",
 												{
 													"type": "list",
@@ -724,7 +742,6 @@
 															"type": "entries",
 															"name": "Bloodgazer",
 															"entries": [
-																"",
 																"While the colors they sport make them look fierce and intimidating, the bloodgazer falcosaurs are predisposed to eating fruit and berries."
 															]
 														},
@@ -858,30 +875,24 @@
 									"columns": 3,
 									"items": [
 										"{@creature Giant Ape|WC5E MoM}",
-										"{@creature Giant Badger|WC5E MoM}",
 										"{@creature Giant Bat|WC5E MoM}",
 										"{@creature Giant Bear|WC5E MoM}",
 										"{@creature Giant Beetle|WC5E MoM}",
 										"{@creature Giant Boar|WC5E MoM}",
 										"{@creature Giant Constrictor Snake|WC5E MoM}",
-										"{@creature Giant Crab|WC5E MoM}",
 										"{@creature Giant Crocolisk|WC5E MoM}",
 										"{@creature Giant Eagle|WC5E MoM}",
 										"{@creature Giant Firefly|WC5E MoM}",
-										"{@creature Giant Frog|WC5E MoM}",
 										"{@creature Giant Goat|WC5E MoM}",
 										"{@creature Giant Owl|WC5E MoM}",
 										"{@creature Giant Scorpid|WC5E MoM}",
-										"{@creature Giant Shark|WC5E MoM}",
-										"{@creature Giant Spider|WC5E MoM}",
 										"{@creature Giant Deathweb Spider|WC5E MoM}",
 										"{@creature Giant Stag|WC5E MoM}",
-										"{@creature Giant Wasp|WC5E MoM}",
 										"{@creature Giraffe|WC5E MoM}",
 										"{@creature Goat|WC5E MoM}",
 										"{@creature Gorilla|WC5E MoM}",
 										"{@creature Grizzly Bear|WC5E MoM}",
-										"{@creature Hawk|WC5E MoM}",
+										"{@creature Gryphon|WC5E MoM}",
 										"{@creature Hawkstrider|WC5E MoM}",
 										""
 									]
@@ -897,21 +908,7 @@
 									"type": "entries",
 									"name": "Variant: Giant Deathweb Spider",
 									"entries": [
-										"A giant deathweb spider has a challenge rating of 2 (450 XP). It has the same statistics as a giant spider except that it replaces the giant spider's bite with the following actions. Additionally, the spider's web deals 9 (2d8) acid damage to a creature restrained by it at the beginning of the creatures turn.",
-										{
-											"type": "entries",
-											"name": "Infected Bite",
-											"entries": [
-												"{@i Melee Weapon Attack:} +5 to hit, reach 5 ft., one creature. {@i Hit:} 12 (2d8 + 3) piercing damage plus 3 (1d6) acid damage."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Burning Acid (Recharge after a Short or Long rest)",
-											"entries": [
-												"The spider spews forth a burning hot acid. Each creature in a 10-foot cone must make a DC 12 Dexterity saving throw, taking 13 (3d8) fire damage on a failed save, or half as much on a success."
-											]
-										}
+										"[PH] A giant deathweb spider is a mutation of a {@creature giant spider}"
 									]
 								},
 								{
@@ -919,6 +916,13 @@
 									"name": "Grizzly bears",
 									"entries": [
 										"Grizzly bears from the eponymous Grizzly Hills in Northrend are particularly large and dangerous, perhaps owing to their sharing a home with the Twin Bear gods Ursoc and Ursol."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Gryphon ",
+									"entries": [
+										"[PH]"
 									]
 								}
 							]
@@ -933,10 +937,42 @@
 									"style": "list-no-bullets",
 									"columns": 3,
 									"items": [					
-										"{@creature Hunter Shark|WC5E MoM}",
+										"{@creature Hippogryph|WC5E MoM}",
+										"{@creature Two-legged Hydra|WC5E MoM}",
+										"{@creature Gahz'rilla Spawn|WC5E MoM}",
+										"{@creature Four-legged Hydra|WC5E MoM}",
 										"{@creature Hyena|WC5E MoM}",
 										"{@creature Hyena Matriarch|WC5E MoM}",
+
 										""
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Hippogryph",
+									"entries": [
+										"[PH]"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Two-legged Hydra",
+									"entries": [
+										"[PH]"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Variant: Gahz'rilla Spawn",
+									"entries": [
+										"The children of the mighty Gahz'rilla inherit its power over ice and use it against their foes, instead of venom."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Four-legged Hydra",
+									"entries": [
+										"[PH]"
 									]
 								},
 								{
@@ -1006,7 +1042,6 @@
 									"style": "list-no-bullets",
 									"columns": 3,
 									"items": [					
-										"{@creature Lion|WC5E MoM}",
 										"{@creature Lion Pridemane|WC5E MoM}",
 										"{@creature Mountain Lion|WC5E MoM}",
 										""
@@ -1035,9 +1070,7 @@
 										"{@creature Mammoth|WC5E MoM}",
 										"{@creature Mana Wyrms|WC5E MoM}",
 										"{@creature Arcane Wyrm|WC5E MoM}",
-										"{@creature Mastiff|WC5E MoM}",
 										"{@creature Moose|WC5E MoM}",
-										"{@creature Mule|WC5E MoM}",
 										""
 									]
 								},
@@ -1083,7 +1116,7 @@
 									"style": "list-no-bullets",
 									"columns": 3,
 									"items": [					
-										"{@creature Owl|WC5E MoM}",
+										"",
 										""
 									]
 								}
@@ -1102,7 +1135,6 @@
 										"{@creature Panther|WC5E MoM}",
 										"{@creature Poisonous Snake|WC5E MoM}",
 										"{@creature Polar Bear|WC5E MoM}",
-										"{@creature Pony|WC5E MoM}",
 										""
 									]
 								}
@@ -1118,12 +1150,9 @@
 									"style": "list-no-bullets",
 									"columns": 3,
 									"items": [					
-										"{@creature Rat|WC5E MoM}",
-										"{@creature Raven|WC5E MoM}",
 										"{@creature Ravager|WC5E MoM}",
 										"{@creature Ravager Broodmother|WC5E MoM}",
 										"{@creature Ravager Wasp|WC5E MoM}",
-										"{@creature Reef Shark|WC5E MoM}",
 										"{@creature Rhino|WC5E MoM}",
 										"{@creature Riding Horse|WC5E MoM}",
 										"{@creature Riverbeast|WC5E MoM}",
@@ -1217,14 +1246,8 @@
 										"{@creature Shoveltusk|WC5E MoM}",
 										"{@creature Silverback Gorilla|WC5E MoM}",
 										"{@creature Skywisp Moth|WC5E MoM}",
-										"{@creature Spider|WC5E MoM}",
 										"{@creature Stag|WC5E MoM}",
 										"{@creature Stormcrow|WC5E MoM}",
-										"{@creature Swarm of Bats|WC5E MoM}",
-										"{@creature Swarm of Insects|WC5E MoM}",
-										"{@creature Swarm of Poisonous Snakes|WC5E MoM}",
-										"{@creature Swarm of Rats|WC5E MoM}",
-										"{@creature Swarm of Ravens|WC5E MoM}",
 										"{@creature Swarm of Frenzyfish|WC5E MoM}",
 										""
 									]
@@ -1428,6 +1451,7 @@
 										"{@creature Wind Serpent|WC5E MoM}",
 										"{@creature Wind Serpent Stinglash|WC5E MoM}",
 										"{@creature Wind Serpent Dreadfang|WC5E MoM}",
+										"{@creature Wyvern|WC5E MoM}",
 										""
 									]
 								},
@@ -1515,9 +1539,15 @@
 												"The spit attack requires a Constitution saving throw to resist."
 											]
 										}
-									
 									]							
-								}		
+								},
+								{
+									"type": "entries",
+									"name": "Wyvern",
+									"entries": [
+										"[PH]"
+									]	
+								}
 							]
 						},
 						{
@@ -1565,7 +1595,7 @@
 					"type": "section",
 					"name": "Primitive Societies",
 					"entries": [					
-						"This sections contains Primitive Societies that aren't part of major factions from around Azeroth and beyond.",
+						"[PH] This sections contains Primitive Societies that aren't part of major factions from around Azeroth and beyond.",
 						{
 							"type": "entries",
 							"name": "Centaurs",
@@ -2719,7 +2749,7 @@
 					"type": "section",
 					"name": "Friends & Foes",
 					"entries": [					
-						"This sections contains living creatures that can be attributed to races of major factions but also those that are generally hostile to the Alliance and Horde.",
+						"[PH] This sections contains living creatures that can be attributed to races of major factions but also those that are generally hostile to the Alliance and Horde.",
 						{
 							"type": "section",
 							"name": "Dwarves",
@@ -2875,16 +2905,7 @@
 											"type": "variant",
 											"name": "Magic Absorption",
 											"entries": [
-												"Wretched have an insatiable craving for magic and will go to extreme lengths to obtain and consume it. Some wretched are able to devour the essence of a magic item and be empowered by it.",
-												"A wretched devourer has a challenge rating of 1/2 (100 XP) and gains the following action option.",
-												{													
-													"type": "entries",
-													"name": "Devour Magic (Recharge 6)",
-													"entries": [
-														"The wretched chooses one creature within 60 feet of it, the target must succeed on a DC 11 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the wretched's next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.",
-														"If the wretched successfully devours the magic of an item, it regains the use of one of its {@i once per day} innate spellcasting spells."
-													]
-												}
+												"Wretched have an insatiable craving for magic and will go to extreme lengths to obtain and consume it. Some wretched are able to devour the essence of a magic item and be empowered by it."
 											]
 										},
 										{
@@ -3081,22 +3102,7 @@
 									"type": "variant",
 									"name": "Naga Sorceress",
 									"entries": [
-										"Female naga are primarily spellcasters, and considerably powerful ones at that for how they wield the turbulent powers of the sea. Naga sorceresses are novice spellcasters, as apprentices of a sea witches and sirens.",
-										"A naga sorceress has the same statistics as a naga, save for Intelligence 14, Charisma 12, and the following additional trait:",
-										{													
-											"type": "entries",
-											"name": "Innate Spellcasting",
-											"entries": [
-												"The furbolg is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following shaman spells prepared:",
-												{
-													"type": "list",
-													"items": [
-														"Cantrips (at will): {@i {@spell blade ward}, {@spell ray of frost}}",
-														"1/day each: {@i {@spell armor of agathys}, {@spell ice knife|xge}}"
-													]
-												}
-											]
-										}
+										"Female naga are primarily spellcasters, and considerably powerful ones at that for how they wield the turbulent powers of the sea. Naga sorceresses are novice spellcasters, as apprentices of a sea witches and sirens."
 									]
 								},
 								{
@@ -3239,26 +3245,7 @@
 									"type": "variant",
 									"name": "Ogre Priest",
 									"entries": [
-										"A few ogre magi supplement their dark powers with healing spells to aid their allies. They are regarded as spiritual leaders and record-keepers for their tribe. An ogre priest has Intelligence 11 and Wisdom 14, as well as the following trait:",
-										{													
-											"type": "entries",
-											"name": "Spellcasting",
-											"entries": [
-												"The ogre is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The ogre has the following priest spells prepared:",
-												{
-													"type": "list",
-													"items": [
-														"Cantrips (at will): {@i {@spell mind blast|WC5E Spells}, {@spell blade ward}, {@spell shadow bolt|WC5E Spells}, {@spell spare the dying}}",
-														"1st level (4 slots): {@i {@spell cause fear}, {@spell dark void|WC5E Spells}, {@spell healing word}, {@spell shield of faith}},",
-														"2nd level (3 slots): {@i {@spell lesser restoration}, {@spell mind flay|WC5E Spells}, {@spell silence}},",
-														"3rd level (3 slots): {@i {@spell dispel magic}, {@spell hunger of hadar}, {@spell speak with dead}},",
-														"4th level (3 slots): {@i {@spell death ward}, {@spell void shift|WC5E Spells}},",
-														"5th level (1 slot): {@i {@spell shadow crash|WC5E Spells}}"
-													]
-												},
-												"{@i The orgre casts shield of faith on itself before combat.}"
-											]
-										}
+										"A few ogre magi supplement their dark powers with healing spells to aid their allies. They are regarded as spiritual leaders and record-keepers for their tribe."
 									]
 								}
 							]
@@ -3499,21 +3486,7 @@
 									"type": "variant",
 									"name": "Dire Troll Caster",
 									"entries": [
-										"Some dire trolls possess innate magical powers in their blood. These trolls are known as {@i Warcasters}, or {@i Warmothers} if the troll in question is female. They have a Wisdom of 17 (+3), and gain the Innate Spellcasting trait as follows.",
-										{													
-											"type": "entries",
-											"name": "Innate Spellcasting",
-											"entries": [
-												"The troll's spellcasting ability is Wisdom (spell save DC 15). The troll can innately cast the following spells, requiring no material components:",
-												{
-													"type": "list",
-													"items": [
-														"2/day each: {@i {@spell bestow curse}, {@spell confusion}, {@spell command}, {@spell slow}}",
-														"1/day each: {@i {@spell stoneskin}, {@spell synaptic static|xge}}"
-													]
-												}
-											]
-										}
+										"Some dire trolls possess innate magical powers in their blood. These trolls are known as {@i Warcasters}, or {@i Warmothers} if the troll in question is female."
 									]
 								}
 							]
@@ -4022,6 +3995,98 @@
 				},
 				{
 					"type": "section",
+					"name": "[PH] The Emerald Dream",
+					"entries": [					
+						"[PH]",
+						{
+							"type": "entries",
+							"name": "[PH]",
+							"entries": [
+								"[PH]",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [
+												"",
+												""
+											]
+										},
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [
+												"",
+												""
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note Denizens of the Dream}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Dryad|WC5E MoM}",
+												"{@creature Daughter of Cenarius|WC5E MoM}",
+												"{@creature Faerie Dragon|WC5E MoM}",
+												"{@creature Tiny Fearie Dragon|WC5E MoM}",
+												"{@creature Keeper of the Grove|WC5E MoM}",
+												""
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "[PH] Dryads",
+									"entries": [
+										"[PH]",
+										{
+											"type": "variant",
+											"name": "Daughter of Cenarius",
+											"entries": [
+												"[PH] Some dryads inherit druidic powers from their father, Cenarius, allowing them to protect and heal their allies."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "[PH] Faerie Dragon",
+									"entries": [
+										"Some ancients grow to become enlightened beings of the forest, wise beyond belief and capable of establishing meaningful contact with the free-spirited dryads. These ancient have a close connection to night elven druids and priests, taking on a role as instructors in the ways of magic and the secrets of nature.",
+										{
+											"type": "variant",
+											"name": "Tiny Fearie Dragons",
+											"entries": [
+												"Many faerie dragons are naturally very small in size and usually harmless if encountered alone, while quite dangerous if someone face them in groups."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "[PH] Keeper of the Grove",
+									"entries": [
+										"The toughest of ancients grow into ancients of war; mighty plants often found defending night elven settlements or supporting Alliance forces in battle. Embodied in these ancient guardians are the spirits of courage and determination, which they wield to call upon the forest itself to rise in order to turn the tide of battle in favour of them and their allies."
+									]
+								}	
+							]
+						}	
+					]
+				},
+				{
+					"type": "section",
 					"name": "Elemetals & Primordials",
 					"entries": [					
 						"This sections contains cratures who are the manifestation of primal forces such as the elements air, each, fire, and water but also those represent the cosmisc forces such as death and deacay, discorder and fel, light and holy, life and nature, order and arcane, shadow and void.",
@@ -4097,40 +4162,61 @@
 											"style": "list-no-bullets",
 											"columns": 3,
 											"items": [					
-												"{@creature Air Elemental|WC5E MoM}",
-												"{@creature Earth Elemental|WC5E MoM}",
-												"{@creature Fire Elemental|WC5E MoM}",
-												"{@creature Ice Elemental|WC5E MoM}",
-												"{@creature Water Elemental|WC5E MoM}",
-												"{@creature Core Hound|WC5E MoM}",
+												"{@creature Lesser Air Elemental|WC5E MoM}",
+												"{@creature Bound Air Elemental|WC5E MoM}",
+												"{@creature Unbound Air Elemental|WC5E MoM}",
+												"{@creature Lesser Earth Elemental|WC5E MoM}",
+												"{@creature Bound Earth Elemental|WC5E MoM}",
+												"{@creature Unbound Earth Elemental|WC5E MoM}",
 												"{@creature Dust Devil|WC5E MoM}",
 												"{@creature Shale Spider|WC5E MoM}",
 												"{@creature Lava Spider|WC5E MoM}",
+												"{@creature Lesser Fire Elemental|WC5E MoM}",
+												"{@creature Bound Fire Elemental|WC5E MoM}",
+												"{@creature Unbound Fire Elemental|WC5E MoM}",
+												"{@creature Lesser Ice Elemental|WC5E MoM}",
+												"{@creature Bound Ice Elemental|WC5E MoM}",
+												"{@creature Unbound Ice Elemental|WC5E MoM}",
+												"{@creature Lesser Water Elemental|WC5E MoM}",
+												"{@creature Bound Water Elemental|WC5E MoM}",
+												"{@creature Unbound Water Elemental|WC5E MoM}",
+												"{@creature Lesser Arcane Elemental|WC5E MoM}",
+												"{@creature Bound Arcane Elemental|WC5E MoM}",
+												"{@creature Unbound Arcane Elemental|WC5E MoM}",
+												"{@creature Lesser Fel Elemental|WC5E MoM}",
+												"{@creature Bound Fel Elemental|WC5E MoM}",
+												"{@creature Unbound Fel Elemental|WC5E MoM}",
 												""
 											]
 										}
 									]	
 								},
 								{
-									"type": "entries",
+									"type": "section",
 									"name": "Air Elementals",
 									"entries": [
 										"Taking the form of a swirling vortex of air, a collection of clouds and static, or even an almost humanoid amalgam of storm, frost, or dust, the elementals of air command the realm of the sky. Turbulent gales and gentle breezes tell locals the mood of the element of air, while fierce lightning lashes at whomever may have angered them.",
 										{
 											"type": "entries",
-											"name": "Thunderbolts and Lightning",
+											"name": "",
 											"entries": [
-												"",
-												"The wrath of storms is among the most catastrophic and impressive shows of pure power within nature. Shamans wielding lightning grasp extraordinary amounts of energy, perhaps more than any other force at their call, and these shamans are careful to wield it with caution."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "The Four Winds",
-											"entries": [
-												"",
-												"The world's winds are categorized among the four cardinal directions: North, East, South, and West. Each wind carries with it a different aspect of the weather.",
-												"The frigid North Wind carries blizzards, sleet storms and cold snaps; while the swelling East Wind brings with it storm force winds, gales, cyclones and hurricanes. The South Wind carries brutal thunderstorms from the sea, crashing lightning, rain, and clinging static; while  with the West Wind comes gentle breezes, carrying the changing of winter to spring, scented with pollen."
+												{
+													"type": "entries",
+													"name": "Thunderbolts and Lightning",
+													"entries": [
+														"",
+														"The wrath of storms is among the most catastrophic and impressive shows of pure power within nature. Shamans wielding lightning grasp extraordinary amounts of energy, perhaps more than any other force at their call, and these shamans are careful to wield it with caution."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "The Four Winds",
+													"entries": [
+														"",
+														"The world's winds are categorized among the four cardinal directions: North, East, South, and West. Each wind carries with it a different aspect of the weather.",
+														"The frigid North Wind carries blizzards, sleet storms and cold snaps; while the swelling East Wind brings with it storm force winds, gales, cyclones and hurricanes. The South Wind carries brutal thunderstorms from the sea, crashing lightning, rain, and clinging static; while  with the West Wind comes gentle breezes, carrying the changing of winter to spring, scented with pollen."
+													]
+												}
 											]
 										}
 									]
@@ -4167,47 +4253,193 @@
 									]
 								},
 								{
-									"type": "entries",
-									"name": "Earth Elemental",
+									"type": "section",
+									"name": "Earth Elementals",
 									"entries": [
-										"Near indistinguishable from rocks if standing still, an earth elemental is as hardy and steadfast as the element it embodies. It burrows through the ground with utmost ease, and faces its opponents head-on if engaged."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Fire Elemental",
-									"entries": [
-										"A fire elemental manifests as a smoldering pillar of unwavering destruction. While susceptible to water, it is a cunning presence that will often attempt to overwhelm and outright engulf those who try to stand in its way."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Ice Elemental",
-									"entries": [
-										"Manifest from frozen water, ice elementals share domain and allegiance with other water elementals. It moves unhindered through the icy reaches in which it dwells, and is very quick to enrage at the sight of fire wielded in its vicinity."
-									]
-								},
-								{
-									"type": "entries",
-									"name": "Water Elemental",
-									"entries": [
-										"A favoured companion among mages, human mages in particular, a water elemental is near impossible to discern while underwater. If able, it often attempts to deal with threats by luring them along into the water -- dragging them from there into the murky depths."
-									]
-								},
-								{
-									"type": "variant",
-									"name": "Elemental Revenant",
-									"entries": [
-										"An elemental revenant is a furious elemental being that has manifested itself with a crude suit of armor for protection.",
-										"A revenant has the same statistics as its elemental counterpart, except for an Armor Class of 17 (half plate, shield). It loses any ability to move through and stop in the space of other creatures, as well as any ability to move through spaces smaller than 2 feet, its slam or touch action is replaced with the following option, using the same attack modifier and damage type as the original action.",
-										{													
+										"Rumbling boulders, coated in moss or baked red in the sun, pull together as though attracted by gravity. They form the vaguest shape of a torso, misshapen from its rocky components, which begin to gently orbit one another. Tiny pinprick eyes observe the world around it, and do so for hours. What is it thinking as the world goes by?",
+										{
 											"type": "entries",
-											"name": "Maul",
+											"name": "",
 											"entries": [
-												"{@i Melee Weapon Attack:} +8 to hit, reach 10 ft., one target. {@i Hit:} 16 (2d12 + 5) damage of the elemental's type."
+												{
+													"type": "entries",
+													"name": "Strength and Stability",
+													"entries": [
+														"",
+														"The power of the earth is slow yet strong. Despite this quiet strength, no other element is able to cause as much change to the world. Mountains alter weather patterns and deny the movements of living beings merely by their presence, while an earthquake can wipe a city that has lasted a hundred years off the map in mere moments."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "The Everpatient Mountain",
+													"entries": [
+														"",
+														"The element of earth has personalities that can embody aspects of the earth such as the intimidating power of mountains or the potential motion of earthquakes and avalanches. Most commonly however, earth is the element of fortitude, patience and steadfastness. While their strength stems from this, it often comes with a weakness in an unwillingness to act, exercising extreme caution in all decisions."
+													]
+												}
 											]
 										}
-									]							
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Deepholm",
+									"entries": [
+										"Deepholm, Azeroth's plane of earth, is a vast, seemingly endless network of gigantic caverns, winding tunnels and quicksilver lakes. What little that is organic must live without sunlight, for only the dim glow of crystal growths and arcing energy provides illumination. Crystals grow slowly out of ancient structures built for feet that will never walk them, and throughout the realm rocks, islands and tiny articulates drift gently in the air, uninterested in gravity’s distractions.",
+										{
+											"type": "entries",
+											"name": "Elemental Hierarchy",
+											"entries": [
+												"",
+												"The ruler of Deepholme has always been Therazane the Stonemother. Below her are her sons, the immense stone colossi known as the Stone Lords, each embodying a different aspect of the earth in both appearance and personality. While whether or not the Stone Lords are the actual sons of the Stonemother is unknown, their familial bonds result in a very stable system of governance for the earthen plane."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Sanctuary of the Black",
+											"entries": [
+												"",
+												"The black dragonflight, with their connection to the earth and deep places of the world, have been a semi-regular sight in these dark caverns. Deathwing has used the domain of the Stonemother as a sanctuary several times over the last few millenia, recuperating in the powerful energies of the Stonecore after failed clashes with the forces of Azeroth."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Holding Up the World",
+											"entries": [
+												"",
+												"In the center of Deepholm, in the immense Temple of Earth, resides the World Pillar. This artifact of the Titans is the keystone that bears the weight of all the elemental and magnetic forces in the Elemental Plane. Without it, Deepholm and by extension the rest of the plane would collapse into Azeroth, causing untold destruction to both the elementals and the planet. Deathwing's shattering of the stone when he escaped the plane during the Cataclysm has earned the entire black dragonflight the eternal emnity of the earth elementals."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Denizens of Deepholm",
+											"entries": [
+												"",
+												"Earthen spirits come in many forms, in various combinations of rock, crystal, or metal. When the earth is threatened, it will spawn worms of crushing crystal teeth, geode giants coated in shining opals, furious storms of dust, metal-skinned animals, earthen warriors and even stone in the shape of dragons."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dust Devil",
+									"entries": [
+										"A dust devil is an elemental of air and earth. Roaring out across the land, these violent vortexes can spell a real problem for any  nearby settlements, as their chaotic nature makes them prone to cause great upheaval.",
+										{
+											"type": "entries",
+											"name": "Eternal Nuisance",
+											"entries": [
+												"",
+												"Dust devils find an unusual enjoyment in their uncanny roaming, destroying whatever they come across in their path by sending forth incredible gusts of wind or by tearing it asunder with their hands."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Conjured by Magic",
+											"entries": [
+												"",
+												"Certain spells and magic items can conjure forth elementals from the Elemental Plane to the Material Plane. Elementals, and dust devils in particular, resent this treatment and the shackles of servitude that comes with it. A creature that summons an elemental must assert the force of will to control it."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Shale Spider",
+									"entries": [
+										"Shale spiders are durable diggers, native to the elemental plane of Deepholm. They possess a tenacity and ferocity not shown in many other elementals; as one will often fight until it is utterly and entirely torn asunder.",
+										{
+											"type": "entries",
+											"name": "Stone Nuisance",
+											"entries": [
+												"",
+												"The spiders sometimes find their way out of Deepholm, emerging onto the surface. A newly emerged shale spider is fairly harmless, keeping reclusive while it tries to adapt to its new environment. Once it has, however, it sets out to hunt -- often with a voracious hunger."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Swarmers",
+											"entries": [
+												"",
+												"Above all, the shale spiders are notorious swarmers. They'll often work together to take down their prey. Sometimes, a single shale spider will pretend to be alone, while its kin lays in wait for an opportunity to strike."
+											]
+										},
+										{
+											"type": "variant",
+											"name": "Lava Spider",
+											"entries": [
+												"[PH] The lava spider is much like the shale spider but they usually dwel in areas with pools of lava."
+											]
+										}
+									]
+								},
+								{
+									"type": "section",
+									"name": "Fire Elementals",
+									"entries": [
+										"A cruel-eyed face staring out of a body like the smoldering of a furnace freed of its constraints. Overwhelming heat crisps the ground around it, and shimmers the air, even as a fire elemental reaches out, eager to spread the flames of its never-ending rage.",
+										{
+											"type": "entries",
+											"name": "",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "Burning Passion",
+													"entries": [
+														"",
+														"Fire is, in a word, the element of passion. This is a two-sided coin, as spirits of fire are as vulnerable to extreme fits of blinding rage as they are to good humour, though the former is far more common. They are creatures of immediate need, representing both the burning heat that forged the world and the joy and anger of consciousness."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Fiery Gifts",
+													"entries": [
+														"",
+														"More than any other element, the realm of fire has involved itself in the affairs of mortals. This ranges from simple matters such as fire elementals taking part in Summer festivals, to things as complex as whole mountain ranges being ruled by powerful fire lords, or mutations of mortal races into fire elementals."
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Firelands",
+									"entries": [
+										"A simple name to elucidate the core of a place; the plane of fire is an endless sky of burning, blazing smog, filled with small islands of volcanic rock. The intense heat is enough to set ablaze anything not of the realm, and water is a thing of fantasy. Rivers of molten lava split the dry rock, while irregular igneous rock grows and cools into grand shapes, ever changing the landscape.",
+										{
+											"type": "entries",
+											"name": "Elemental Hierarchy",
+											"entries": [
+												"",
+												"Ruling from the Sulfuron Keep is Ragnaros the Firelord, with the second in command being his Majordomo. Below them are the various Lords and Barons of the Firelands. A lord's rank is determined by his martial prowess, as to gain and hold your position you must be capable of defeating all who would contest your power."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Lords of Cinder",
+											"entries": [
+												"",
+												"The Firelands are a militant place, kept under a strict hierarchy of command with ascension in rank coming exclusively through rite of succession; the fiery lieutenants of the Firelord have for eons remained in charge by holding off competitors at every turn. There is no subtlety in the Firelands, and combat is determined quickly, and to the bitter end, inevitably resulting in a group of lords that is both ancient, and unrelenting."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Ruler of Blackrock",
+											"entries": [
+												"",
+												"Long ago, Ragnaros was summoned by the Dark Iron dwarves as part of their war against their Bronzebeard and Wildhammer kinsmen. His arrival shattered the Redridge Mountains, created the Burning Steppes and Searing Gorge, and turned Blackrock Mountain into an active volcano. The surviving Dark Iron dwarves were enslaved by the Firelord and his lieutenants, acting as his tools for hundreds of years while he gathered his strength in the Molten Core, awaiting the time he could burn all of Azeroth to ash."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Forces of the Firelands",
+											"entries": [
+												"",
+												"Empty fields of cracked ground are patrolled by its denizens, including by far the largest amount of fleshy creatures of any elemental plane; molten magma giants, two-headed core hounds, serpentine flamewakers and their skeletal hound pets. Huge worms swim and hunt in the magma rivers, while beautiful giant fire hawks blaze across the sky."
+											]
+										}
+									]
 								},
 								{
 									"type": "entries",
@@ -4244,119 +4476,210 @@
 									]
 								},
 								{
-									"type": "entries",
-									"name": "Dust Devil",
+									"type": "section",
+									"name": "Water Elementals",
 									"entries": [
-										"A dust devil is an elemental of air and earth. Roaring out across the land, these violent vortexes can spell a real problem for any  nearby settlements, as their chaotic nature makes them prone to cause great upheaval.",
+										"Amorphous masses of pure spring water, bound in bracers. Floating shards of ice the size of a man, glaring with cold stares. It is said that water elementals take on the fewest known types of all elementals, but this is untrue; the nature of water is shapelessness. Formless and versatile, water is the free-flowing element of change, and its elementals may take whatever form suits them.",
 										{
 											"type": "entries",
-											"name": "Eternal Nuisance",
+											"name": "",
 											"entries": [
-												"",
-												"Dust devils find an unusual enjoyment in their uncanny roaming, destroying whatever they come across in their path by sending forth incredible gusts of wind or by tearing it asunder with their hands."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Conjured by Magic",
-											"entries": [
-												"",
-												"Certain spells and magic items can conjure forth elementals from the Elemental Plane to the Material Plane. Elementals, and dust devils in particular, resent this treatment and the shackles of servitude that comes with it. A creature that summons an elemental must assert the force of will to control it."
-											]
-										},
-										{
-											"type": "entries",
-											"name": "Elemental Nature",
-											"entries": [
-												"",
-												"A dust devil doesn't require air, food, drink, or sleep."
+												{
+													"type": "entries",
+													"name": "Ebb and Flow",
+													"entries": [
+														"",
+														"Water is the element of change, calm, and healing, but also of crushing depths, biting cold, and secrets hidden so far down that light may never reach them. Water's servants, therefore, channel not only the restorative powers of fresh springs, but also the freezing, lashing, pressing force of deep oceans and frigid ice."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "A Spring of Calm",
+													"entries": [
+														"",
+														"Water is seen as the most tranquil of elements, or at least the least volatile. Places significant to it are well known for their healing properties, particularly among shamanistic races. Spirits may similarly manifest in clean rivers, gushing waterfalls, or at the hearts of glaciers, wherever the water is purest. The many seas are the place of water's greatest raw strength, and spirits of the sea are often far more robust. In places of corruption or filth, the elementals will become sickly and aggressive."
+													]
+												}
 											]
 										}
 									]
 								},
 								{
 									"type": "entries",
-									"name": "Shale Spider",
+									"name": "Abyssal Maw",
 									"entries": [
-										"Shale spiders are durable diggers, native to the elemental plane of Deepholm. They possess a tenacity and ferocity not shown in many other elementals; as one will often fight until it is utterly and entirely torn asunder.",
+										"Unsurprisingly, this plane is almost entirely underwater. It displays examples of all areas of sea life, from the well-lit shallow coral reefs to the lightless abyssal trenches that crisscross the ocean floor. Buildings are half made of carved stone and shells, and half of bubbles and froth, with windows made simply by supporting water vertically.",
 										{
 											"type": "entries",
-											"name": "Stone Nuisance",
+											"name": "Elemental Hierarchy",
 											"entries": [
 												"",
-												"The spiders sometimes find their way out of Deepholm, emerging onto the surface. A newly emerged shale spider is fairly harmless, keeping reclusive while it tries to adapt to its new environment. Once it has, however, it sets out to hunt -- often with a voracious hunger.."
+												"The Maw is ruled by Neptulon the Tidehunter, who reigns from the Throne of the Tides. Much like the Firelands, there are a number of lords below him that assist the rule of the Elemental Lord. Unlike the armies of fire, the titles of nobility rarely change hands due to the adaptive nature of the aquatic masters."
 											]
 										},
 										{
 											"type": "entries",
-											"name": "Swarmers",
+											"name": "Elemental Hierarchy",
 											"entries": [
 												"",
-												"Above all, the shale spiders are notorious swarmers. They'll often work together to take down their prey. Sometimes, a single shale spider will pretend to be alone, while its kin lays in wait for an opportunity to strike."
+												"Ruling from the Sulfuron Keep is Ragnaros the Firelord, with the second in command being his Majordomo. Below them are the various Lords and Barons of the Firelands. A lord's rank is determined by his martial prowess, as to gain and hold your position you must be capable of defeating all who would contest your power."
 											]
 										},
 										{
 											"type": "entries",
-											"name": "Elemental Nature",
+											"name": "Hydraxian Waterlords",
 											"entries": [
 												"",
-												"The shale spider doesn't require air, food, drink, or sleep."
+												"While the other elements are content to help only those that appeal to themselves, water flows more freely, and its elementals are historically the most cooperative with mortals, even high-ranking lieutenants of the Tidehunter. On Azeroth, water's servants have actively taken part in the defense of the world on multiple occasions, even as the others remained silent."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Masses of the Abyssal Maw",
+											"entries": [
+												"",
+												"The denizens of the plane of water are far less rigidly categorised than the other planes, owing to water's very nature. Those few who take solid shape at all will still only be vaguely humanoid, though some mortal races are closely associated with the plane, such as the sea giants, murlocs and, of course, millions of species of fish. In many ways, these mortal species show far more than the elements the heart of the element of water, as they are the most versatile sorts across the entire multiverse. The Elemental Lord of Water, Neptulon, represents this by seldom taking a solid form, preferring to exist among his element as raging tides, gentle currents and fatherly flows."
 											]
 										}
 									]
 								},
 								{
-									"type": "variant",
-									"name": "Lava Spider",
+									"type": "entries",
+									"name": "Ice Elemental",
 									"entries": [
-										"A lava spider has adapted to burning climate around it, it drips molten magma as it skitters across the surface and illuminates its surroundings.",
-										"A lava spider has immunity to fire damage, and gain the following additional trait:",
-										{													
+										"Manifest from frozen water, ice elementals share domain and allegiance with other water elementals. It moves unhindered through the icy reaches in which it dwells, and is very quick to enrage at the sight of fire wielded in its vicinity.",
+										{
 											"type": "entries",
-											"name": "Illumination",
+											"name": "Unclear Origins",
 											"entries": [
-												"The spider sheds bright light in a 10-foot radius and dim light for an additional 10 feet."
+												"",
+												"Ice elementals are one of the anomalous mysteries of the elemental world. Some shamans say they are simply a rare type of water elemental, frozen in form and associated with water in its solid state. Others claim that some ice elementals are unnatural conglomerate elementals of ice and earth, formed in unknown circumstances, who represent and govern the changing of summer to winter. The truth is unknown, as the only ones with that knowledge - the elementals themselves - are notorious for keeping their secrets close."
 											]
 										},
-										"The lava spider replaces the shale's action options has the following action options:",
-										{													
+										{
 											"type": "entries",
-											"name": "Multiattack",
+											"name": "Scattered Peoples",
 											"entries": [
-												"The spider makes one bite attack and uses its Spit Fire."
+												"",
+												"Unlike other elementals, there are no real homes for these creatures of ice. They tend to be found on their own or in small groups located around mountaintop glaciers or large ice floes. Only in Northrend are there large numbers of ice elementals, due to the eternal winter that grips most of the continent."
 											]
 										},
-										{													
+										{
 											"type": "entries",
-											"name": "Bite",
+											"name": "The Ice Stone has Melted",
 											"entries": [
-												"{@i Melee Weapon Attack:} +8 to hit, reach 5 ft., one target. {@i Hit:} 6 (1d8 + 2) piercing damage, plus 4 (1d8) fire damage."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Spit Fire",
-											"entries": [
-												"{@i Ranged Weapon Attack:} +4 to hit, range 15/30 ft., one target. {@i Hit:} 11 (2d8 + 2) fire damage."
+												"The master elemental of frost is undoubtedly Ahune, the Frost Lord, a poorly-tempered elemental of immense power. Ahune, easily manipulated, seeks yearly to bring an end to the hated heat of high Summer, and at this time frost elementals will manifest across the globe, seeking to cool it through the creation of vast obelisks of ice. It is a plan doomed to fail, of course, and Ahune's persistence is held at bay on each summer solstice through shamanic ritual. "
 											]
 										}
-										
+									]
+								},
+								{
+									"type": "section",
+									"name": "Elemental Revenant",
+									"entries": [
+										"The elemental revenants are yet another long-unsolved mystery among many others out in the frozen land of Northrend. Far up at the cap of the world, these elemental spirits appear to be bound within enormous, ancient sets of rough-hewn armor, drifting along above the ground as though caught in gentle breeze. They are rare and, when seen, often appear to be following some kind of distant, obscure desire to stand guard, following no apparent patterns or goals beyond protecting a single area for centuries at a time.",
+										{
+											"type": "entries",
+											"name": "",
+											"page": 0,
+											"entries": [
+												{
+													"type": "entries",
+													"name": "",
+													"page": 0,
+													"entries": [
+														{
+															"type": "entries",
+															"name": "Mysterious Origins",
+															"entries": [
+																"",
+																"Though they are elemental in nature, these entities are vanishingly rare outside of Northrend, and are not seen in their respective elemental planes. It is yet unknown why they act and appear the way they do, or even if they originated as elementals."
+															]
+														},
+														{
+															"type": "entries",
+															"name": "Complex Loyalties",
+															"entries": [
+																"",
+																"Some of the revenants of Northrend have been seen serving a mysterious master in the mountains, though for what purpose, to what end, and how deep this loyalty lies is unknown."
+															]
+														},
+														{
+															"type": "entries",
+															"name": "Tundra Ghosts",
+															"entries": [
+																"The revenants that drift across the snow, barely visible through blizzards and mist, have a ghostly, ethereal quality to them, and are believed by some local cultures to be the spirits of dead warriors bound eternally to their armor."
+															]
+														}
+													]
+												}
+											]
+										}
 									]							
-								}		
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [					
+										{},
+										"{@note List of Revenants}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"{@creature Air Revenant|WC5E MoM}",
+												"{@creature Earth Revenant|WC5E MoM}",
+												"{@creature Fire Revenant|WC5E MoM}",
+												"{@creature Water Revenant|WC5E MoM}",
+												"{@creature Death Revenant|WC5E MoM}",
+												""
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Air Revenant",
+									"entries": [
+										"Arcing electricity and static clinging to armour or weapons herald the arrival of an air or lightning revenant, twisted ribbons of rough metal wrapped around a powerful vortex. Lightning comes to their aid, wielded like a club, while the currents of air around them whip and tug at their foes. Their voices, shrill shrieks, are that of the most violent of icy gales."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Earth Revenant",
+									"entries": [
+										"Plumes of stones and dry earth support stout, sturdy plates roughly riveted together. A massive club, thick enough to topple walls, drifts nearby. An earth revenant wields pure, raw power, roaming their territories slowly, with the assurance that any opposition will be completely flattened. "
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Fire Revenant",
+									"entries": [
+										"Jagged, scaled armor kept red-hot by the blazing flames within, a fire revenant resembles a floating foundry, spewing molten slag and burning coals in its wake. Unlike most revenants, their weapons are well-crafted and often beautiful, albeit hot enough to brand their foes with artful scars. When rarely seen outdoors in Northrend, the extreme heat flowing out of their bodies clashes with the cold and blankets them in steam."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Water Revenant",
+									"entries": [
+										"Smooth pots or jugs - connected to a water revenant's armoured body by thick chains - constantly spill out with the clear, freezing water that comprises the vague appearance of a body. Frigid temperatures accompany these revenants, who may well be the most at home in the icy land of Northrend. Water ebbs and flows at their command, frostbite awaits anyone at the receiving end of their jagged, cruel scimitars. "
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Death Revenant",
+									"entries": [
+										"A mystery even greater than the cause of elemental revenants is the death revenants, so seldom seen as to border on mythical. Spoken of in hushed tones, and only when the sun is high, these fell spirits are said to be spirits of death itself. Great black scythes are wielded empty metal husks, who move eerily silent and speak only to the mind. It is unknown if these dread reapers are even of the same ilk as other revenants, and their desires are, once again, a mystery."
+									]
+								}
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Primordials",
 							"entries": [
-								"Insert Intro to elemtals created by cosmic forces",
-								{
-									"type": "entries",
-									"name": "Arcane Elemental",
-									"entries": [
-										"Appearing in areas suffused with arcane energy, these elementals manifest from its energy and are often found in the service of mages, feeding of the fluctuation of magic from their spells."
-									]	
-								},
+								"[PH] Some entities much like elementals form out of other primordial forces.",
 								{
 									"type": "entries",
 									"name": "",
@@ -4368,12 +4691,96 @@
 											"style": "list-no-bullets",
 											"columns": 3,
 											"items": [					
-												"{@creature Arcane Elemental|WC5E MoM}",
+												"{@creature Lesser Arcane Elemental|WC5E MoM}",
+												"{@creature Bound Arcane Elemental|WC5E MoM}",
+												"{@creature Unbound Arcane Elemental|WC5E MoM}",
+												"{@creature Lesser Fel Elemental|WC5E MoM}",
+												"{@creature Bound Fel Elemental|WC5E MoM}",
+												"{@creature Unbound Fel Elemental|WC5E MoM}",
 												""
 											]
 										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Arcane Elemental",
+									"entries": [
+										"In the case of places overflowing with arcane power, the energy will manifest arcane elementals, similarly bound by bracers and similarly populated by inscrutable minds that seem to act on the seemingly random nature of the arcane itself.",
+										{
+											"type": "entries",
+											"name": "A Mage's Best Servant",
+											"entries": [
+												"",
+												"As accumulations of arcane energy, arcane elementals can be crafted and bound into service by powerful mages. It is not uncommon to find numerous lesser elementals being used as simple servants in magical academies and cities such as Silvermoon or Dalaran."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Arcane Anomalies",
+											"entries": [
+												"",
+												"Arcane elementals are rare anomalies, and are most commonly seen in places suffused with arcane power. This makes them relatively common at the sites of exposed ley lines, the magical channels that flow under the surface of planets like blood vessels."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Ley Lines",
+											"entries": [
+												"",
+												"Ley lines are channels of immense arcane power that runs all along the surface of a planet in an interconnected web. They are usually buried deep in the earth, visible only to the eyes of those deeply attuned to magic such as the blue dragonflight. Those that are exposed to the surface usually begin to crystallize in the form of glowing purple mana crystals. They have been used for many things, such as creation of moonwells to powering portal spells.",
+												"Ley lines form and change based on the locations of their nexuses--areas where multiple ley lines cross or spring forth from, usually in areas of magical significance and intense use of magic such as cities with large mage academies, blue dragon nesting grounds, or ancient Titan installations."
+											]
+										},
+										{
+											"type": "variant",
+											"name": "Arcane Elemental Familiar",
+											"entries": [
+												"Lesser arcane elementals can sometimes be found in the service of powerful mages, acting as servants and carrying out menial tasks.",
+												{
+													"type": "entries",
+													"name": "Familiar",
+													"entries": [
+														"",
+														"A {@creature lesser arcane elemental|WC5E MoM} can be bound into serving another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the elemental senses as long as they are within 1 mile of each other. While the elemental is within 10 feet if its master, the master shares the elemental's Magic Resistance trait. If its master causes it physical harm, the elemental will end its service as a familiar, breaking the telepathic bond."
+													]
+												}
+											]
+										}	
 									]	
-								}		
+								},
+								{
+									"type": "entries",
+									"name": "Fel Elemental",
+									"entries": [
+										"On planets devastated by the invasion of demons, the very elements will invariably be poisoned by the cancerous magic of demonkind known as the Fel. Manifesting as a sick green flame that fuels itself with the life force of others, the Fel is the very definition of unnatural. In places where the Fel is exceptionally soaked into the elements, it may take form as a mindless elemental of green flame and extreme aggression, a sinful combination of creation and unmaking given shape.",
+										{
+											"type": "entries",
+											"name": "Fel Cores",
+											"entries": [
+												"",
+												"The infernal core of a Fel elemental is a disgusting thing, something like a pulsing heart of pure corruption. These cores are a vital part of demonic magic, as they are used to power many of their mechanical or magical constructs. Fel forges are fueled by malformed elemental coals, and demon weapons are crafted from ores deeply infused with the Fel."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Terror Forming",
+											"entries": [
+												"",
+												"The corruption of worlds that spawns these parodies of elemental life is a major step in any large-scale invasion by the Burning Legion. Their corruption of the land and poisoning of the air serves many purposes; it helps the demons acclimate, making the place more to their liking, while harming and demoralizing their enemies.",
+												"It also benefits the Burning Legion by warping natural resources to suit their needs, creating fel iron ores and brutish, corrupted wildlife that feeds their armies. The end result is a burnt-out, black wasteland colored only by neon green embers and lava, covered by layers of smog so thick that no life may remain."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beasts of Rage",
+											"entries": [
+												"",
+												"The fel energies that make up these elementals burns away any shred of sapience they might have once possessed, leaving them nearly rabid. This anger fuels their flames, allowing their fires to burn hot enough to singe even true flame elementals. Only the greatest of their number regain any sense of true intellect and even then only in the form of a bestial cunning."
+											]
+										}
+									]	
+								}
 							]
 						}
 					]
@@ -4382,7 +4789,7 @@
 					"type": "section",
 					"name": "Constructs",
 					"entries": [					
-						"This sections contains constructs animated by gears or magic.",
+						"[PH] This sections contains constructs animated by gears or magic.",
 						{
 							"type": "entries",
 							"name": "Enchanted",
@@ -4621,45 +5028,8 @@
 									"type": "variant",
 									"name": "Arcane Nullifier",
 									"entries": [
-										"An arcane nullifier has a challenge rating of 4 (1,100 XP). It has the same statistics as a crowd pummeler except that it replaces the pummeler's action options with the following action options.",
-										{													
-											"type": "entries",
-											"name": "Multiattack",
-											"entries": [
-												"The nullifier makes two claw attacks."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Claw",
-											"entries": [
-												"{@i Melee Weapon Attack:} +6 to hit, reach 5 ft., one target. {@i Hit:} 13 (2d8 + 4) slashing damage."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Slow (Recharge 5-6)",
-											"entries": [
-												"The nullifier targets one creature it can see within 10 feet of it. The creature must make a DC 13 Wisdom saving throw against this magic. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can take either an action or a bonus action on its turn, not both. The effect lasts for 1 minute. The creature can repeat the saving throw at the end of each of its turns."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Nullify (Recharge after a Long Rest)",
-											"entries": [
-												"The nullifier attempts to dispel all magical effects within 30 feet of it, as if it had cast the {@i dispel magic} as a 3rd-level spell on everything within range."
-											]
-										},
-										"The nullifier also gains the following reaction:",
-										"",
-										{													
-											"type": "entries",
-											"name": "Reflection Field",
-											"entries": [
-												"When a creature hits the nullifier with a ranged spell attack, the nullifier can reflect the spell onto a target within 15 feet of it."
-											]
-										}
-									]							
+										"[PH] An arcane nullifier is a modified crowd pummeler to combat magical enimies of gnomeregan."
+									]
 								},
 								{
 									"type": "entries",
@@ -4851,15 +5221,7 @@
 											"type": "variant",
 											"name": "Will of the Forest",
 											"entries": [
-												"Five wisps within 30 feet of each other are able to cast powerful spells. Each of the five must use its action and movement on three consecutive turns to call upon the powers of Elune and must maintain concentration while doing so (as if concentrating on a spell). When all five have finished their third turn of the ritual, the wisps gain the Spellcasting trait and can cast one spell in total at a target or point within 120 feet, no matter the spells normal range.",
-												{													
-													"type": "entries",
-													"name": "Innate Spellcasting",
-													"entries": [
-														"The wisps spellcasting ability is Wisdom (spell save DC 12). They can innately cast one of the following spells as a 4th-level spell, requiring no material components. If a spell requires concentration, all five wisps concentration must be broken to remove the spell:",
-														"1/ritual: {@i {@spell banishment}, {@spell charm monster}, {@spell confusion}, {@spell dispel magic}, {@spell spike growth}, {@spell wind wall}}"
-													]
-												}
+												"Five wisps within 30 feet of each other are able to cast powerful spells. Each of the five must use its action and movement on three consecutive turns to call upon the powers of Elune and must maintain concentration while doing so (as if concentrating on a spell). When all five have finished their third turn of the ritual, the wisps gain the Spellcasting trait and can cast one spell in total at a target or point within 120 feet, no matter the spells normal range."
 											]
 										}
 									]
@@ -5193,22 +5555,8 @@
 									"type": "variant",
 									"name": "Greater Abomination",
 									"entries": [
-										"A greater abomination has a challenge rating of 9 (5,000 XP). It has the statistics of an abomination except that it has 161 (17d10 + 68) hit points, Armor Class (AC 17), +8 to hit with its weapon attacks, and gains the following action options.",
-										{													
-											"type": "entries",
-											"name": "Engorge.",
-											"entries": [
-												"The abomination makes one cleaver attack and places a grappled target in its ribcage. The target becomes restrained, and can use its action to break free by succeeding on a DC 17 Strength (Athletics) or Dexterity (Acrobatics) check. While restrained in this way, a creature takes 14 (4d6) bludgeoning damage at the start of each of the abominations turns. An abomination can have only one creature restrained within its ribcage."
-											]
-										},
-										{													
-											"type": "entries",
-											"name": "Cannibalize.",
-											"entries": [
-												"The abomination cannibalize the corpse of creature that has been dead for less than 24 hours. Each creature of the abomination's choice that is within 120 feet and can see it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the abomination's Cannibalize for the next 24 hours."
-											]
-										}
-									]							
+										"[PH] A greater abomination has a challenge rating of 9 (5,000 XP). It has the statistics of an abomination except that it has 161 (17d10 + 68) hit points, Armor Class (AC 17), +8 to hit with its weapon attacks, and gains the following action options."
+									]
 								},
 								{
 									"type": "entries",
@@ -5726,7 +6074,8 @@
 					"type": "section",
 					"name": "The Bruning Legion",
 					"entries": [
-						"PH",
+						"[PH] Burning Legion description",
+						"Eredar descriptions are missing",
 						{
 							"type": "entries",
 							"name": "Demons",
@@ -5860,14 +6209,7 @@
 											"type": "variant",
 											"name": "Terrorguard",
 											"entries": [
-												"Some doomguards have a gigantic mouth in their stomach, which can belch flames. They gain the following attack.",
-												{													
-													"type": "entries",
-													"name": "Belching Gutmouth.",
-													"entries": [
-														"The doomguard belches fire from the giant mouth in its stomach. All creatures in a 20-foot cone must make a DC 16 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much on a successful one."
-													]
-												}
+												"Some doomguards have a gigantic mouth in their stomach, which can belch flames. They gain the following attack."
 											]							
 										}
 									]	
@@ -6295,6 +6637,328 @@
 									"name": "Vilefiend",
 									"entries": [
 										"Smart and aggressive, vilefiends are animalistic demons known to roam freely in groups, actively hunting mortals. Spiny and protected by a natural armour, their long limbs and rows of teeth are only their secondary weapons; first and foremost they are corrosive, spewing their acidic blood and bile at their prey in the hopes of dissolving them into sludge. Their bite can be crippling, and can corrode away even the toughest of metal. When damaged enough their blood vessels will burst, with high-pressure acid blood spewing generously."
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Minions of the Old Gods",
+					"entries": [					
+						"This sections contains minions of the Old Gods.",
+						{
+							"type": "entries",
+							"name": "Aqir",
+							"entries": [
+								"PH",
+								{
+									"type": "entries",
+									"name": "[PH] Nerubians of Azjol-Nerub",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "[PH]",
+											"entries": [
+												"",
+												"[PH]"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "[PH]",
+											"entries": [
+												"",
+												"[PH]"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "[PH] Qiraji of Ahn'Qiraj",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "PH",
+											"entries": [
+												"",
+												"[PH]"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "[PH]",
+											"entries": [
+												"",
+												"[PH]"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Silithids",
+									"entries": [
+										"Silithids are frightful insectoids, living in large colonies excavated beneath scorching sands. Although their individual strength is questionable at best, a colony's collective hive-mind can send signals and pain surging through the hive to alert its members of intruders.",
+										"They range dramatically in size. Beginning their life as small insignificant larva, they grow into the swarms of monstrosities that make up their flock. Whatever their size may be, they all resemble massive insects -- if those insects were grotesquely mutated and thirsting for flesh.",
+										{
+											"type": "entries",
+											"name": "Spawns of Qiraji",
+											"entries": [
+												"",
+												"As the kingdom of the aqir was left in ruins, those who remained split in two and ventured in opposite directions. One grouped traveled far south, where they found and ransacked a titan research station near Uldum. Turning the facility into a hive, they renamed themselves the qiraji -- and their new home, Ahn'Qiraj.",
+												"But their new hive held a dark secret: it was the prison of C'Thun, one of the Old Gods who had ruled primordial Azeroth. Just as the aqir before them had served him, the qiraji quickly bowed down to his will.",
+												"The facility was transformed from a prison into a seat of power, one from which the qiraji grew over milennia into an army; one capable of exacting the Old God's revenge. The key to Cthun's plan was the creation of the silithid: a race of insectoid creatures born from the qiraji, one with which Ahn'Qiraj would be poised to as a new empire."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Bestial Drones",
+											"entries": [
+												"",
+												"Unlike the qiraji, silithids aren't sentient beings. They are slavering beasts at most, linked together in a hive-mind that spans the entirety of southern Kalimdor.",
+												"C'Thun created them to be mindless servants of the qiraji; minions that would be eternally loyal to their masters -- and in turn to C'Thun himself."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Collective Hive-Mind",
+											"entries": [
+												"",
+												"Although silithids might seem to be acting on their own accord, their actions are all the exertion of their hive collective. This, however, does not make them any less dangerous.",
+												"A hive of silithids are controlled by one or more colossi, whose masive -- sometimes exposed -- brain keeps a tidy order of all other members of its hive, directing them.",
+												"The colossi in turn are controlled by the qiraji, whose dominance over the race is absolute. Hives typically possess a strange crystalline prism, hidden deep within its core, through which the qiraji communicate with them."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Adaptable Hive",
+											"entries": [
+												"",
+												"No other creature can adapt to changes in their environment as quickly as the silithid.",
+												"Adventurers daring enough to delve into the heart of a silithid hive, hoping to kill its colossi and hamper the colony as a whole, will soon find it replaced. Before long, another colossi will have taken over before long; acting as a surrogate until a new one can rise from the hive's young."
+											]
+										},
+										{
+											"type": "variant",
+											"name": "Hive Controller",
+											"entries": [
+												"The strongest of a hive's colossi exerts direct command over other silithids in the hive. Usually this is either the hive lord, closest of the queen's consorts, or the hive queen herself.",
+												"The Hive Controller can be distinguished by its see-through cranium, leaving its brain visible. It has the following additional trait.",
+												{													
+													"type": "entries",
+													"name": "Leadership (Recharges after a Short or Long Rest)",
+													"entries": [
+														"For 1 minute, the silithid can send a telepathic command whenever a nonhostile creature that it can see within 60 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can receive the command. A creature can benefit from only one Leadership die at a time. This effect ends if the silithid is incapacitated."
+													]
+												}
+											]							
+										},
+										{				
+											"type": "entries",
+											"name": "",
+											"entries": [
+												"{@note List of Silithids}",
+												{	
+													"type": "list",
+													"style": "list-no-bullets",
+													"columns": 3,
+													"items": [					
+														"{@creature Silithid Larva|WC5E MoM}",
+														"{@creature Silithid Worker|WC5E MoM}",
+														"{@creature Silithid Wasp|WC5E MoM}",
+														"{@creature Silithid Reaver|WC5E MoM}",
+														"{@creature Silithid Colossus|WC5E MoM}",
+														"{@creature Hive Controller|WC5E MoM}",
+														""
+													]
+												}					 
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "[PH] Mantid of Manti'vess",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "[PH]",
+											"entries": [
+												"",
+												"[PH]"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "[PH]",
+											"entries": [
+												"",
+												"[PH]"
+											]
+										}
+									]
+								},
+								{		
+									"type": "entries",
+									"name": "",
+									"entries": [
+										"{@note List of Mantid}",
+										{	
+											"type": "list",
+											"style": "list-no-bullets",
+											"columns": 3,
+											"items": [					
+												"PH",
+												""
+											]
+										}					 
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "N'raqi - Faceless Ones",
+							"entries": [
+								"The n'raqi -- or more commonly known -- the faceless ones are a monstrous kin, brought forth from the organic matter that seeped away from the Old Gods in primordial times, before the Titans brought about the ordering of Azeroth. Cunning and intelligent, they serve their eldritch masters with fanatical devotion. Tales of their unspeakable deeds paint them as unstoppable juggernauts.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Spawn of the Old Gods",
+											"entries": [
+												"",
+												"The faceless ones are the creation of the Old Gods, in the most literal sense of the word. They are shaped from the Old Gods' own flesh and blood; trickled from their eternal prisons through the core of the planet, like bile through the gutters.",
+												"Some of these aberrations are unique, while others are so uniform as to be virtually identical. They are all loyal to the gods that spawned them forth, unwavering in their devotion to the will of their creators."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Unexpected Allies",
+											"entries": [
+												"",
+												"These eldritch horrors are powerful, but not innumerable. What they lack in either is quickly recouped by corrupting other beings that happen in their path. Even a faceless one on its own is almost guaranteed to never truly be alone.",
+												"The faceless ones keep a few valuable allies, such as the Naga, while simultaneously seeding hatred and distrust even among the most loyal of factions."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Corrupting Presence",
+											"entries": [
+												"",
+												"Faceless ones carry the stain of the Old Gods with the, wherever they go, and their presence alone can change things for the worse. Life is tainted in their wake, slowly twisted around as friends become foes and alliances dissolve into bitter hatred.",
+												"Whether by instilling paranoia or asserting dominance directly, the faceless ones will always seek to divide and conquer."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Return of the Black Empire",
+											"entries": [
+												"",
+												"The Old Gods once ruled over Azeroth, in a time long before mortal races saw the light of day. Locked away by the Titans, they have long ever since to return to power -- an end to which their faceless servants are the means by which they act.",
+												"Long have they sown the seeds of corruption, turning the denizens of the world against one another, so that they can break free and seize control once more."
+											]
+										}
+									]	
+								},
+								{
+									"type": "entries",
+									"name": "Zoatroid",
+									"entries": [
+										"Many would see the small, squid-like zoatroid as utterly inconsequential. Nowhere near as dangerous as the towering n'raqi. Fools are those who underestimate them, as these merciless critters hunt to gain complete of their victims -- which they do by latching onto the face of a suitable target in order to bore into its mind.",
+										"Zoatroids have found a second home among the Naga, saiding their serpentine allies by infiltrating and corrupting their enemies. Some zoatroids are only able to seize control of a creature's body, while others are able to claim both body and mind as their own."
+									]	
+								},
+								{
+									"type": "variant",
+									"name": "Royal Zoatroid",
+									"entries": [
+										"A royal zoatroid has a challenge rating of 6 (2,300 XP). It has the same statistics as a zoatroid except that it adds its Wisdom modifier to its Armor Class (AC 17) and gains the following additional trait:",
+										{													
+											"type": "entries",
+											"name": "Magic Resistance",
+											"entries": [
+												"The zoatroid has advantage on saves against spells and other magical effects."
+											]
+										},
+										"The royal zoatroid has the following action option in place of the zoatroid's Enslave:",
+										{													
+											"type": "entries",
+											"name": "Dominate (Recharge 6)",
+											"entries": [
+												"One humanoid grappled by the zoatroid must succeed on a DC 13 Wisdom saving throw or be dominated by the zoatroid: the dominated target goes on the zoatroids initiative, it controls the target using its action. The {@i Dominate} deprives the target of its vision but not its awareness. The royal zoatroid can be targeted by attacks, spells, and other effects but any attack roll that misses the zoatroid automatically hits its dominated target.", 
+												"The domination lasts until the target drops to 0 hit points, the zoatroid ends it as a bonus action, or a creature uses their action to attempt a grapple check contested by the zoatroid."
+											]
+										}
+									]							
+								},
+								"{@note List of Faceless Ones}",
+								{	
+									"type": "list",
+									"style": "list-no-bullets",
+									"columns": 3,
+									"items": [					
+										"{@creature Zoatroid|WC5E MoM}",
+										"{@creature Royal Zoatroid|WC5E MoM}",
+										""
+									]	
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Aberrations",
+					"entries": [					
+						"This sections contains creatures of unknown origins",
+						{				
+							"type": "entries",
+							"name": "",
+							"entries": [
+							"{@note List of Abberrations}",
+								{	
+									"type": "list",
+									"style": "list-no-bullets",
+									"columns": 3,
+									"items": [					
+										"{@creature Fleshbeast}",
+										""
+									]
+								}					 
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Fleshbeast",
+							"entries": [
+								"Though the exact origin of these monstrous aberrations is unknown, the theories are many. Some even go so far as to claim them a product of the Twisting Nether itself, pulled from there onto other worlds.",
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Nightmare Made Flesh",
+											"entries": [
+												"",
+												"Slavering, hungering monstrosities, the best way to describe the terrifying fleshbeasts are plainly as creatures of nightmare. Their presence has been witnessed both on Azeroth and beyond, as they appear to tail along on magical experiments that try to exploit the powers of the Twisting Nether, using them as rifts through which they can travel between worlds."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Parasitic Brood",
+											"entries": [
+												"",
+												"Fleshbeasts are decidedly mindless, acting entirely on instinct. They hunt by flocking together in large swarms, overpowering their prey and consuming it, sometimes while it is still alive. Even after the fleshbeast has had its fill, most of the victim will still be left behind intact -- a perfect nesting ground for their wormlike spawn, who will later devour the remains as they hatch.",
+												"Other predators attempting to scavenge remains left behind by a fleshbeast will most likely be infected as well, and later devoured by the hatchlings."
+											]
+										}
 									]
 								}
 							]

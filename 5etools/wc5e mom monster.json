@@ -1,5 +1,5 @@
 {
-	"siteVersion": "1.201.1",
+	"siteVersion": "1.202.0",
 	"_meta": {
 		"sources": [
 			{
@@ -19,8 +19,8 @@
 				"targetSchema": "1.0.0"
 			}
 		],
-		"dateAdded": 1710698884,
-		"dateLastModified": 1710698884
+		"dateAdded": 1711376719,
+		"dateLastModified": 1711376719
 	},
 	"monster": [
 		{
@@ -434,37 +434,43 @@
 			]
 		},
 		{
-			"name": "Air Elemental",
+			"name": "Air Revenant",
 			"source": "WC5E MoM",
 			"page": 0,
 			"size": [
-				"L"
+				"M"
 			],
 			"type": "elemental",
 			"alignment": [
 				"N"
 			],
 			"ac": [
-				15
+				{
+					"ac": 18,
+					"from": [
+						"{@item breastplate|PHB}",
+						"{@item shield|PHB}"
+					]
+				}
 			],
 			"hp": {
-				"average": 90,
-				"formula": "12d10 + 24"
+				"average": 117,
+				"formula": "18d8 + 36"
 			},
 			"speed": {
-				"walk": 0,
+				"walk": 30,
 				"fly": {
-					"number": 90,
+					"number": 30,
 					"condition": "(hover)"
 				},
 				"canHover": true
 			},
 			"str": 14,
-			"dex": 20,
+			"dex": 18,
 			"con": 14,
-			"int": 6,
+			"int": 9,
 			"wis": 10,
-			"cha": 6,
+			"cha": 14,
 			"senses": [
 				"darkvision 60 ft."
 			],
@@ -486,24 +492,45 @@
 				"poison"
 			],
 			"conditionImmune": [
-				"exhaustion",
-				"grappled",
 				"paralyzed",
 				"petrified",
 				"poisoned",
-				"prone",
-				"restrained",
-				"unconscious"
+				"prone"
 			],
 			"languages": [
-				"Auran"
+				"Kalimag"
 			],
-			"cr": "5",
+			"cr": "7",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The revenant's spellcating ability is Charisma (spell save {@dc 13}) and casts as a 17th level spellcaster. It can innately cast the following spells, requiring no material components:"
+					],
+					"will": [
+						"{@spell gust|XGE}",
+						"{@spell lightning lure|TCE}"
+					],
+					"daily": {
+						"1": [
+							"{@spell gust of wind}"
+						]
+					},
+					"ability": "cha"
+				}
+			],
 			"trait": [
 				{
-					"name": "Air Form",
+					"name": "Buffeting Winds",
 					"entries": [
-						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
+						"Ranged attacks against the revenant have disadvantage on the attack rolls."
+					]
+				},
+				{
+					"name": "Magic Weapons",
+					"entries": [
+						"The revenant's weapon attacks are magical."
 					]
 				}
 			],
@@ -511,22 +538,27 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The elemental makes two slam attacks."
+						"The revenant makes four mace attacks."
 					]
 				},
 				{
-					"name": "Slam",
+					"name": "Mace",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d8 + 5}) bludgeoning damage."
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage plus 3 ({@damage 1d6}) lightning damage."
 					]
 				},
 				{
-					"name": "Whirlwind {@recharge 4}",
+					"name": "Lightning Strike {@recharge 5}",
 					"entries": [
-						"Each creature in the elemental's space must make a {@dc 13} Strength saving throw. On a failure, a target takes 15 ({@damage 3d8 + 2}) bludgeoning damage and is flung up to 20 feet away from the elemental in a random direction and knocked {@condition prone}. If a thrown target strikes an object, such as a wall or floor, the target takes 3 ({@dice 1d6}) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a {@dc 13} Dexterity saving throw or take the same damage and be knocked {@condition prone}.",
-						"If the save is successful, the target takes half the damage and isn't flung away or knocked {@condition prone}."
+						"The revenant makes one mace attack. If the attack hits, it deals an extra 21 ({@damage 6d6}) lightning damage plus 21 ({@damage 6d6}) thunder damage, and the target must succeed on a {@dc 13} Constitution saving throw or be {@condition stunned} until the end of the revenant's next turn."
 					]
 				}
+			],
+			"attachedItems": [
+				"mace|phb"
+			],
+			"traitTags": [
+				"Magic Weapons"
 			],
 			"senseTags": [
 				"D"
@@ -534,19 +566,28 @@
 			"actionTags": [
 				"Multiattack"
 			],
-			"languageTags": [
-				"AU"
-			],
 			"damageTags": [
-				"B"
+				"B",
+				"L",
+				"T"
+			],
+			"damageTagsSpell": [
+				"L"
+			],
+			"spellcastingTags": [
+				"I"
 			],
 			"miscTags": [
+				"MLW",
 				"MW"
 			],
 			"conditionInflict": [
-				"prone"
+				"stunned"
 			],
 			"savingThrowForced": [
+				"constitution"
+			],
+			"savingThrowForcedSpell": [
 				"strength"
 			]
 		},
@@ -2200,122 +2241,6 @@
 			]
 		},
 		{
-			"name": "Arcane Elemental",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"L"
-			],
-			"type": "elemental",
-			"alignment": [
-				"N"
-			],
-			"ac": [
-				14
-			],
-			"hp": {
-				"average": 76,
-				"formula": "9d10 + 27"
-			},
-			"speed": {
-				"walk": 30
-			},
-			"str": 12,
-			"dex": 18,
-			"con": 16,
-			"int": 7,
-			"wis": 10,
-			"cha": 6,
-			"senses": [
-				"darkvision 60 ft."
-			],
-			"passive": 10,
-			"resist": [
-				"acid",
-				{
-					"resist": [
-						"bludgeoning",
-						"piercing",
-						"slashing"
-					],
-					"note": "from nonmagical attacks",
-					"cond": true
-				}
-			],
-			"immune": [
-				"force",
-				"poison"
-			],
-			"conditionImmune": [
-				"exhaustion",
-				"grappled",
-				"paralyzed",
-				"petrified",
-				"poisoned",
-				"prone",
-				"restrained",
-				"unconscious"
-			],
-			"cr": "5",
-			"trait": [
-				{
-					"name": "Arcane Form",
-					"entries": [
-						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. When the elemental enters the area of an {@spell antimagic field} spell for the first time on a turn or starts its turn there, it must succeed on a Constitution saving throw against the spell save DC of its spellcaster, or be {@condition stunned} until the start of its next turn."
-					]
-				},
-				{
-					"name": "Illumination",
-					"entries": [
-						"The elemental sheds bright light in a 15-foot radius and dim light in an additional 15 feet."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Multiattack",
-					"entries": [
-						"The elemental makes two touch attacks."
-					]
-				},
-				{
-					"name": "Touch",
-					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) force damage. If the target is a creature, it must succeed on a {@dc 14} Strength saving throw or be knocked {@condition prone}."
-					]
-				},
-				{
-					"name": "Arcane Blast {@recharge 5}",
-					"entries": [
-						"The elemental erupts arcane energy at a point it can see within 60 feet of it. Each creature within 10 feet of that point must make a {@dc 14} Dexterity saving throw, taking 10 ({@damage 4d4}) force damage on a failed save, or half as much damage on a successful one."
-					]
-				}
-			],
-			"traitTags": [
-				"Illumination"
-			],
-			"senseTags": [
-				"D"
-			],
-			"actionTags": [
-				"Multiattack"
-			],
-			"damageTags": [
-				"O"
-			],
-			"miscTags": [
-				"AOE",
-				"MW"
-			],
-			"conditionInflict": [
-				"prone"
-			],
-			"savingThrowForced": [
-				"dexterity",
-				"strength"
-			]
-		},
-		{
 			"name": "Arcane Golem",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -2830,124 +2755,6 @@
 			}
 		},
 		{
-			"name": "Baboon",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"S"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				12
-			],
-			"hp": {
-				"average": 3,
-				"formula": "1d6"
-			},
-			"speed": {
-				"walk": 30,
-				"climb": 30
-			},
-			"str": 8,
-			"dex": 14,
-			"con": 11,
-			"int": 4,
-			"wis": 12,
-			"cha": 6,
-			"passive": 11,
-			"cr": "0",
-			"trait": [
-				{
-					"name": "Pack Tactics",
-					"entries": [
-						"The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't {@condition incapacitated}."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 1} to hit, reach 5 ft., one target. {@h}1 ({@damage 1d4 - 1}) piercing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Pack Tactics"
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
-			"name": "Badger",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"T"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				10
-			],
-			"hp": {
-				"average": 3,
-				"formula": "1d4 + 1"
-			},
-			"speed": {
-				"walk": 20,
-				"burrow": 5
-			},
-			"str": 4,
-			"dex": 11,
-			"con": 12,
-			"int": 2,
-			"wis": 12,
-			"cha": 5,
-			"senses": [
-				"darkvision 30 ft."
-			],
-			"passive": 11,
-			"cr": "0",
-			"trait": [
-				{
-					"name": "Keen Smell",
-					"entries": [
-						"The badger has advantage on Wisdom ({@skill Perception}) checks that rely on smell."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}1 piercing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Keen Senses"
-			],
-			"senseTags": [
-				"D"
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
 			"name": "Banshee",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -3207,227 +3014,6 @@
 			"miscTags": [
 				"MW",
 				"RW"
-			]
-		},
-		{
-			"name": "Basilisk",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": "monstrosity",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				{
-					"ac": 15,
-					"from": [
-						"natural armor"
-					]
-				}
-			],
-			"hp": {
-				"average": 52,
-				"formula": "8d8 + 16"
-			},
-			"speed": {
-				"walk": 20
-			},
-			"str": 16,
-			"dex": 8,
-			"con": 15,
-			"int": 2,
-			"wis": 8,
-			"cha": 7,
-			"senses": [
-				"darkvision 60 ft."
-			],
-			"passive": 9,
-			"cr": "3",
-			"trait": [
-				{
-					"name": "Petrifying Gaze",
-					"entries": [
-						"If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a {@dc 12} Constitution saving throw if the basilisk isn't {@condition incapacitated}. On a failed save, the creature magically begins to turn to stone and is {@condition restrained}. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is {@condition petrified} until freed by the {@spell greater restoration} spell or other magic.",
-						"A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again.  If it looks at the basilisk in the meantime, it must immediately make the save.",
-						"If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@i Hit} 10 ({@damage 2d6 + 3}) piercing damage plus 7 ({@damage 2d6}) poison damage."
-					]
-				}
-			],
-			"senseTags": [
-				"D"
-			],
-			"damageTags": [
-				"I",
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			],
-			"conditionInflict": [
-				"petrified",
-				"restrained"
-			],
-			"savingThrowForced": [
-				"constitution"
-			]
-		},
-		{
-			"name": "Bat",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"T"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				12
-			],
-			"hp": {
-				"average": 1,
-				"formula": "1d4 - 1"
-			},
-			"speed": {
-				"walk": 5,
-				"fly": 30
-			},
-			"str": 2,
-			"dex": 15,
-			"con": 8,
-			"int": 2,
-			"wis": 12,
-			"cha": 4,
-			"senses": [
-				"blindsight 60 ft."
-			],
-			"passive": 11,
-			"cr": "0",
-			"trait": [
-				{
-					"name": "Echolocation",
-					"entries": [
-						"The bat can't use its blindsight while {@condition deafened}."
-					]
-				},
-				{
-					"name": "Keen Hearing",
-					"entries": [
-						"The bat has advantage on Wisdom ({@skill Perception}) checks that rely on hearing."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 0} to hit, reach 5 ft., one creature. {@h}1 piercing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Keen Senses"
-			],
-			"senseTags": [
-				"B"
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
-			"name": "Black Bear",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				{
-					"ac": 11,
-					"from": [
-						"natural armor"
-					]
-				}
-			],
-			"hp": {
-				"average": 19,
-				"formula": "3d8 + 6"
-			},
-			"speed": {
-				"walk": 40,
-				"climb": 30
-			},
-			"str": 15,
-			"dex": 10,
-			"con": 14,
-			"int": 2,
-			"wis": 12,
-			"cha": 7,
-			"skill": {
-				"perception": "+3"
-			},
-			"passive": 13,
-			"cr": "1/2",
-			"trait": [
-				{
-					"name": "Keen Smell",
-					"entries": [
-						"The bear has advantage on Wisdom ({@skill Perception}) checks that rely on smell."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Multiattack",
-					"entries": [
-						"The bear makes two attacks: one with its bite and one with its claws."
-					]
-				},
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
-					]
-				},
-				{
-					"name": "Claws",
-					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d4 + 2}) slashing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Keen Senses"
-			],
-			"actionTags": [
-				"Multiattack"
-			],
-			"damageTags": [
-				"P",
-				"S"
-			],
-			"miscTags": [
-				"MW"
 			]
 		},
 		{
@@ -3989,6 +3575,701 @@
 			]
 		},
 		{
+			"name": "Bound Air Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				15
+			],
+			"hp": {
+				"average": 90,
+				"formula": "12d10 + 24"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 90,
+					"condition": "(hover)"
+				},
+				"canHover": true
+			},
+			"str": 14,
+			"dex": 20,
+			"con": 14,
+			"int": 6,
+			"wis": 10,
+			"cha": 6,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				"lightning",
+				"thunder",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "5",
+			"trait": [
+				{
+					"name": "Air Form",
+					"entries": [
+						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two slam attacks."
+					]
+				},
+				{
+					"name": "Slam",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d8 + 5}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Whirlwind {@recharge 4}",
+					"entries": [
+						"Each creature in the elemental's space must make a {@dc 13} Strength saving throw. On a failure, a target takes 11 ({@damage 2d8 + 2}) bludgeoning damage and is flung up to 20 feet away from the elemental in a random direction and knocked {@condition prone}. If a thrown target strikes an object, such as a wall or floor, the target takes 3 ({@damage 1d6}) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a {@dc 13} Dexterity saving throw or take the same damage and be knocked {@condition prone}.",
+						"If the save is successful, the target takes half the damage and isn't flung away or knocked {@condition prone}."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"B"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"conditionInflict": [
+				"prone"
+			],
+			"savingThrowForced": [
+				"strength"
+			]
+		},
+		{
+			"name": "Bound Earth Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 17,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 84,
+				"formula": "8d10 + 40"
+			},
+			"speed": {
+				"walk": 30,
+				"burrow": 30
+			},
+			"str": 20,
+			"dex": 8,
+			"con": 20,
+			"int": 5,
+			"wis": 10,
+			"cha": 5,
+			"senses": [
+				"darkvision 60 ft.",
+				"tremorsense 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"vulnerable": [
+				"thunder"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "5",
+			"trait": [
+				{
+					"name": "Earth Glide",
+					"entries": [
+						"The elemental can burrow through nonmagical unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through."
+					]
+				},
+				{
+					"name": "Siege Monster",
+					"entries": [
+						"The elemental deals double damage to objects and structures."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two slam attacks."
+					]
+				},
+				{
+					"name": "Slam",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) bludgeoning damage."
+					]
+				}
+			],
+			"traitTags": [
+				"Siege Monster"
+			],
+			"senseTags": [
+				"D",
+				"T"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"B"
+			],
+			"miscTags": [
+				"MW"
+			]
+		},
+		{
+			"name": "Bound Fel Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "elemental",
+				"tags": [
+					"demon"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"average": 126,
+				"formula": "12d10 + 60"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 17,
+			"dex": 15,
+			"con": 20,
+			"int": 3,
+			"wis": 10,
+			"cha": 18,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"fire",
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"cr": "5",
+			"trait": [
+				{
+					"name": "Reckless",
+					"entries": [
+						"At the start of its turn, the elemental can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+					]
+				},
+				{
+					"name": "Fel Flames",
+					"entries": [
+						"Fire damage that the elemental deals ignores other creatures' fire resistance and treats fire immunity as resistance instead."
+					]
+				},
+				{
+					"name": "Heat Aura",
+					"entries": [
+						"A creature that hits the elemental with a melee attack while within 5 feet of the elemental or ends their turn there takes 3 ({@damage 1d6}) fire damage."
+					]
+				},
+				{
+					"name": "Illumination",
+					"entries": [
+						"The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two claw attacks."
+					]
+				},
+				{
+					"name": "Claw",
+					"entries": [
+						"Melee Weapon Attack. {@hit 6} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) fire damage."
+					]
+				}
+			],
+			"traitTags": [
+				"Illumination",
+				"Reckless"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"F"
+			],
+			"miscTags": [
+				"AOE"
+			]
+		},
+		{
+			"name": "Bound Fire Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 102,
+				"formula": "12d10 + 36"
+			},
+			"speed": {
+				"walk": 50
+			},
+			"str": 10,
+			"dex": 17,
+			"con": 16,
+			"int": 6,
+			"wis": 10,
+			"cha": 7,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"fire",
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "5",
+			"trait": [
+				{
+					"name": "Fire Form",
+					"entries": [
+						"The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 ({@damage 1d10}) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 ({@damage 1d10}) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 ({@damage 1d10}) fire damage at the start of each of its turns."
+					]
+				},
+				{
+					"name": "Illumination",
+					"entries": [
+						"The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet."
+					]
+				},
+				{
+					"name": "Water Susceptibility",
+					"entries": [
+						"For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two touch attacks"
+					]
+				},
+				{
+					"name": "Touch",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 ({@damage 1d10}) fire damage at the start of its turn."
+					]
+				}
+			],
+			"traitTags": [
+				"Illumination"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"C",
+				"F"
+			],
+			"miscTags": [
+				"AOE",
+				"MW"
+			]
+		},
+		{
+			"name": "Bound Ice Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 95,
+				"formula": "10d10 + 40"
+			},
+			"speed": {
+				"walk": 40,
+				"burrow": 40
+			},
+			"str": 18,
+			"dex": 14,
+			"con": 18,
+			"int": 5,
+			"wis": 10,
+			"cha": 8,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"cold",
+				"poison"
+			],
+			"vulnerable": [
+				"fire"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "5",
+			"trait": [
+				{
+					"name": "Frost Form",
+					"entries": [
+						"The elemental can burrow through nonmagical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 ({@damage 1d10}) cold damage. Additionally, the elemental freezes non-creature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is {@condition grappled} (escape {@dc 14})."
+					]
+				},
+				{
+					"name": "Ice Walk",
+					"entries": [
+						"The elemental can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost extra movement."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two slam or icicle attacks."
+					]
+				},
+				{
+					"name": "Slam",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Icicle",
+					"entries": [
+						"{@atk rw} {@hit 7} to hit, range 30/60 ft., one target. {@h}11 ({@damage 2d12}) piercing damage."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"B",
+				"C",
+				"P"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RW"
+			]
+		},
+		{
+			"name": "Bound Water Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 14,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 85,
+				"formula": "9d10 + 44"
+			},
+			"speed": {
+				"walk": 30,
+				"swim": 90
+			},
+			"str": 18,
+			"dex": 14,
+			"con": 18,
+			"int": 5,
+			"wis": 10,
+			"cha": 8,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				"acid",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "5",
+			"trait": [
+				{
+					"name": "Water Form",
+					"entries": [
+						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
+					]
+				},
+				{
+					"name": "Freeze",
+					"entries": [
+						"If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two slam attacks."
+					]
+				},
+				{
+					"name": "Slam",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Whelm {@recharge 4}",
+					"entries": [
+						"Each creature in the elemental's space must make a {@dc 15} Strength saving throw. On a failure, a target takes 13 ({@damage 2d8 + 4}) bludgeoning damage. If it is Large or smaller, it is also {@condition grappled} (escape {@dc 14}). Until this grapple ends, the target is {@condition restrained} and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.",
+						"The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target {@condition grappled} by it takes 13 ({@damage 2d8 + 4}) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a {@dc 14} Strength and succeeding."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"B"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"conditionInflict": [
+				"grappled",
+				"restrained"
+			],
+			"savingThrowForced": [
+				"strength"
+			]
+		},
+		{
 			"name": "Brown Bear",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -4134,50 +4415,6 @@
 			]
 		},
 		{
-			"name": "Camel",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"L"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				9
-			],
-			"hp": {
-				"average": 15,
-				"formula": "2d10 + 4"
-			},
-			"speed": {
-				"walk": 50
-			},
-			"str": 16,
-			"dex": 8,
-			"con": 14,
-			"int": 2,
-			"wis": 8,
-			"cha": 5,
-			"passive": 9,
-			"cr": "1/8",
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning damage."
-					]
-				}
-			],
-			"damageTags": [
-				"B"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
 			"name": "Carrion Bird",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -4247,66 +4484,6 @@
 					"A {@b carrion bird} is a large, carnivorous scavenger bird found across Azeroth. Their wings are broad and their heads often featherless. They stalk their prey from the skies, lurking from a distance, as they wait for it to fall -- whether from exhaustion, or from another hunter."
 				]
 			}
-		},
-		{
-			"name": "Cat",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"T"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				12
-			],
-			"hp": {
-				"average": 2,
-				"formula": "1d4"
-			},
-			"speed": {
-				"walk": 40,
-				"climb": 30
-			},
-			"str": 3,
-			"dex": 15,
-			"con": 10,
-			"int": 3,
-			"wis": 12,
-			"cha": 7,
-			"skill": {
-				"perception": "+3",
-				"stealth": "+4"
-			},
-			"passive": 13,
-			"cr": "0",
-			"trait": [
-				{
-					"name": "Keen Smell",
-					"entries": [
-						"The cat has advantage on Wisdom ({@skill Perception}) checks that rely on smell."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Claws",
-					"entries": [
-						"{@atk mw} {@hit 0} to hit, reach 5 ft., one target. {@h}1 slashing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Keen Senses"
-			],
-			"damageTags": [
-				"S"
-			],
-			"miscTags": [
-				"MW"
-			]
 		},
 		{
 			"name": "Centaur",
@@ -4799,6 +4976,153 @@
 			]
 		},
 		{
+			"name": "Chimaera",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "dragon",
+			"alignment": [
+				"C",
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 152,
+				"formula": "16d10 + 64"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": 60
+			},
+			"str": 19,
+			"dex": 12,
+			"con": 18,
+			"int": 7,
+			"wis": 12,
+			"cha": 11,
+			"senses": [
+				"darkvision 60ft."
+			],
+			"passive": 11,
+			"cr": "7",
+			"trait": [
+				{
+					"name": "Two Heads",
+					"entries": [
+						"The chimaera has advantage on Wisdom ({@skill Perception}) checks and on saving throws against being {@condition blinded}, {@condition charmed}, {@condition deafened}, {@condition frightened}, {@condition stunned}, and knocked {@condition unconscious}."
+					]
+				},
+				{
+					"name": "Wakeful",
+					"entries": [
+						"While the chimaera sleeps, one of its heads is awake."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The chimaera makes two bite attacks, one of which can be replaced with one breath weapon attack."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target.",
+						"{@h}13 ({@damage 2d8 + 4}) piercing damage plus  3 ({@damage 1d6}) damage of same type as one of the chosen breath weapons."
+					]
+				},
+				{
+					"name": "Breath Weapons",
+					"entries": [
+						"Choose two breath weapons from the \"Chimaera Breath Weapon\" list.",
+						{
+							"type": "inset",
+							"name": "Chimaera Breath Weapon",
+							"entries": [
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"name": "Poison Spit {@recharge}",
+											"entries": [
+												"{@atk rw} {@hit 7} to hit, reach 30/45 ft., one creature. {@h}22 ({@damage 5d8}) poison damage. Hit or miss, the poison then splashes around. The target and each creature within 5 feet of it must succeed on a {@dc 15} Dexterity saving throw or take 18 ({@damage 4d8}) poison damage.",
+												"In addition, each creature hit by the poison must succeed on a {@dc 15} Constitution saving throw, or be {@condition poisoned} until the end of the chimera's next turn."
+											]
+										},
+										{
+											"name": "Lightning Breath {@recharge}",
+											"entries": [
+												"The chimaera exhales a bolt of lighting at a creature within 30 feet of it. That creature must make a {@dc 15} Dexterity saving throw, taking 22 ({@damage 5d8}) lightning damage on a failed save, or half as much damage on a success. Afterwards, the bolt jumps to a second creature within 30 feet of the first target and then to a third creature within 30 feet of the second one."
+											]
+										},
+										{
+											"name": "Acid Breath {@recharge}",
+											"entries": [
+												"The chimaera ejects acid in a 20-foot cone. Each creature in that area must make a DC l5 Dexterity saving throw, taking 18 ({@damage 4d8}) acid damage on a failed save, or half as much damage on a successful one.",
+												"Further more, any nonmagical armor made of metal that is hit by the acid corrodes. After receiving damage, the armor takes a permanent and cumulative -1 penalty to armor class. If its penalty drops to -5, the armor is destroyed."
+											]
+										},
+										{
+											"name": "Ice Jet {@recharge}",
+											"entries": [
+												"The chimaera exhales a frigid beam of blue-white light forming a line 80 feet long and 5 feet wide in any direction it wants.  Each creature in the line must make a {@dc 15} Dexterity saving throw. A creature takes 13 ({@damage 3d8}) cold damage on a failed save, or half as much damage on a successful one and it becomes {@condition incapacitated} until the start of the chimaera's next turn."
+											]
+										},
+										{
+											"name": "Fire Breath {@recharge}",
+											"entries": [
+												"The chimaera exhales fire in a 45-foot cone. Each creature in that area must succeed against a {@dc 15} Dexterity saving throw or take 11 ({@damage 2d10}) fire damage and catch fire; until someone takes an action to douse the fire, the creature takes 5 ({@damage 1d10}) fire damage at the start of each of its turns."
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Breath Weapon",
+				"Multiattack"
+			],
+			"damageTags": [
+				"A",
+				"C",
+				"F",
+				"I",
+				"L",
+				"P"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RW"
+			],
+			"conditionInflict": [
+				"incapacitated",
+				"poisoned"
+			],
+			"savingThrowForced": [
+				"constitution",
+				"dexterity"
+			]
+		},
+		{
 			"name": "Clefthoof",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -4944,68 +5268,6 @@
 			],
 			"savingThrowForced": [
 				"constitution"
-			]
-		},
-		{
-			"name": "Constrictor Snake",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"L"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				12
-			],
-			"hp": {
-				"average": 13,
-				"formula": "2d10 + 2"
-			},
-			"speed": {
-				"walk": 30,
-				"swim": 30
-			},
-			"str": 15,
-			"dex": 14,
-			"con": 12,
-			"int": 1,
-			"wis": 10,
-			"cha": 3,
-			"senses": [
-				"blindsight 10 ft."
-			],
-			"passive": 10,
-			"cr": "1/4",
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
-					]
-				},
-				{
-					"name": "Constrict",
-					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning damage, and the target is {@condition grappled} (escape {@dc 14}). Until this grapple ends, the creature is {@condition restrained}, and the snake can't constrict another target."
-					]
-				}
-			],
-			"senseTags": [
-				"B"
-			],
-			"damageTags": [
-				"B",
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			],
-			"conditionInflict": [
-				"grappled",
-				"restrained"
 			]
 		},
 		{
@@ -5278,76 +5540,6 @@
 			],
 			"damageTags": [
 				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
-			"name": "Crab",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"T"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				{
-					"ac": 11,
-					"from": [
-						"natural armor"
-					]
-				}
-			],
-			"hp": {
-				"average": 2,
-				"formula": "1d4"
-			},
-			"speed": {
-				"walk": 20,
-				"swim": 20
-			},
-			"str": 2,
-			"dex": 11,
-			"con": 10,
-			"int": 1,
-			"wis": 8,
-			"cha": 2,
-			"skill": {
-				"stealth": "+2"
-			},
-			"senses": [
-				"blindsight 30 ft."
-			],
-			"passive": 9,
-			"cr": "0",
-			"trait": [
-				{
-					"name": "Amphibious",
-					"entries": [
-						"The crab can breathe air and water."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Claw",
-					"entries": [
-						"{@atk mw} {@hit 0} to hit, reach 5 ft., one target. {@h}1 bludgeoning damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Amphibious"
-			],
-			"senseTags": [
-				"B"
-			],
-			"damageTags": [
-				"B"
 			],
 			"miscTags": [
 				"MW"
@@ -6436,6 +6628,135 @@
 			}
 		},
 		{
+			"name": "Daughter of Cenarius",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": "fey",
+			"alignment": [
+				"L",
+				"G"
+			],
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 104,
+				"formula": "16d8 + 32"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 11,
+			"dex": 16,
+			"con": 14,
+			"int": 11,
+			"wis": 15,
+			"cha": 15,
+			"skill": {
+				"nature": "+2",
+				"perception": "+3",
+				"survival": "+3"
+			},
+			"senses": [
+				"darkvision 60ft."
+			],
+			"passive": 13,
+			"languages": [
+				"Common",
+				"Darnassian"
+			],
+			"cr": "3",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The dryad's innate spellcasting ability is Wisdom (spell save {@dc 12}). It can innately cast the following spells, requiring no material components:"
+					],
+					"will": [
+						"{@spell guidance}",
+						"{@spell resistance}"
+					],
+					"daily": {
+						"1": [
+							"{@spell dispel magic}"
+						],
+						"3": [
+							"{@spell healing word}"
+						]
+					},
+					"ability": "wis",
+					"displayAs": "action"
+				}
+			],
+			"trait": [
+				{
+					"name": "Forest Walk",
+					"entries": [
+						"The dryad ignores difficult terrain in forests."
+					]
+				},
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The dryad has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Speak with Beasts and Plants",
+					"entries": [
+						"The dryad can communicate with Beasts and Plants as if they shared a language."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Poison Javelin",
+					"entries": [
+						"{@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 30/120 ft., one target. {@h}10 ({@damage 2d6 + 3}) piercing damage, plus 7 ({@damage 2d6}) poison damage. The target must succeed against a {@dc 13} Constitution saving throw or be {@condition poisoned} for one minute."
+					]
+				},
+				{
+					"name": "Hooves",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d6}) bludgeoning damage."
+					]
+				}
+			],
+			"traitTags": [
+				"Magic Resistance"
+			],
+			"senseTags": [
+				"D"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"B",
+				"I",
+				"P"
+			],
+			"spellcastingTags": [
+				"I"
+			],
+			"miscTags": [
+				"MLW",
+				"MW",
+				"RW",
+				"THW"
+			],
+			"conditionInflict": [
+				"poisoned"
+			],
+			"savingThrowForced": [
+				"constitution"
+			]
+		},
+		{
 			"name": "Death Knight",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -6580,6 +6901,163 @@
 				"MW"
 			],
 			"savingThrowForced": [
+				"constitution",
+				"wisdom"
+			]
+		},
+		{
+			"name": "Death Revenant",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "elemental",
+				"tags": [
+					"undead"
+				]
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 20,
+					"from": [
+						"{@item plate armor|PHB|plate}",
+						"{@item shield|PHB}"
+					]
+				}
+			],
+			"hp": {
+				"average": 105,
+				"formula": "14d8 + 56"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 16,
+			"dex": 10,
+			"con": 17,
+			"int": 8,
+			"wis": 10,
+			"cha": 18,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"necrotic",
+				"poison"
+			],
+			"conditionImmune": [
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone"
+			],
+			"languages": [
+				"telepathy 60 ft."
+			],
+			"cr": "8",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The revenant's spellcating ability is Charisma (spell save {@dc 15}) and casts as a 17th level spellcaster. It can innately cast the following spells, requiring no material components:"
+					],
+					"will": [
+						"{@spell frostbite|XGE}",
+						"{@spell toll the dead|XGE}"
+					],
+					"daily": {
+						"1": [
+							"{@spell death and decay|WC5E Spells}"
+						]
+					},
+					"ability": "cha"
+				}
+			],
+			"trait": [
+				{
+					"name": "Undead Fortitude",
+					"entries": [
+						"If damage reduces the revenant to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the revenant drops to 1 hit point instead."
+					]
+				},
+				{
+					"name": "Magic Weapons",
+					"entries": [
+						"The revenant's weapon attacks are magical."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The revenant makes three scythe attacks."
+					]
+				},
+				{
+					"name": "Scythe",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 2d4 + 3}) slashing damage plus 7 ({@damage 2d6}) necrotic damage."
+					]
+				},
+				{
+					"name": "Death Strike {@recharge 5}",
+					"entries": [
+						"The revenant makes one scythe attack. If the attack hits, it deals an extra 42 ({@damage 12d6}) necrotic damage. The target must succeed on a {@dc 15} Constitution saving throw or its hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
+						"A humanoid slain by this attack rises 24 hours later as a zombie under the revenant's control, unless the humanoid is restored to life or its body is destroyed. The revenant can have no more than twenty zombies under its control at one time."
+					]
+				}
+			],
+			"traitTags": [
+				"Magic Weapons",
+				"Undead Fortitude"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"TP"
+			],
+			"damageTags": [
+				"N",
+				"S"
+			],
+			"damageTagsSpell": [
+				"C",
+				"N"
+			],
+			"spellcastingTags": [
+				"I"
+			],
+			"miscTags": [
+				"HPR",
+				"MW"
+			],
+			"savingThrowForced": [
+				"constitution"
+			],
+			"savingThrowForcedSpell": [
 				"constitution",
 				"wisdom"
 			]
@@ -8304,6 +8782,109 @@
 			]
 		},
 		{
+			"name": "Dryad",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": "fey",
+			"alignment": [
+				"L",
+				"G"
+			],
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 104,
+				"formula": "16d8 + 32"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 11,
+			"dex": 16,
+			"con": 14,
+			"int": 11,
+			"wis": 12,
+			"cha": 15,
+			"skill": {
+				"nature": "+2",
+				"perception": "+3",
+				"survival": "+3"
+			},
+			"senses": [
+				"darkvision 60ft."
+			],
+			"passive": 13,
+			"languages": [
+				"Common",
+				"Darnassian"
+			],
+			"cr": "3",
+			"trait": [
+				{
+					"name": "Forest Walk",
+					"entries": [
+						"The dryad ignores difficult terrain in forests."
+					]
+				},
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The dryad has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Speak with Beasts and Plants",
+					"entries": [
+						"The dryad can communicate with Beasts and Plants as if they shared a language."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Poison Javelin",
+					"entries": [
+						"{@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 30/120 ft., one target. {@h}10 ({@damage 2d6 + 3}) piercing damage, plus 7 ({@damage 2d6}) poison damage. The target must succeed against a {@dc 13} Constitution saving throw or be {@condition poisoned} for one minute."
+					]
+				},
+				{
+					"name": "Hooves",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d6}) bludgeoning damage."
+					]
+				}
+			],
+			"traitTags": [
+				"Magic Resistance"
+			],
+			"senseTags": [
+				"D"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"B",
+				"I",
+				"P"
+			],
+			"miscTags": [
+				"MLW",
+				"MW",
+				"RW",
+				"THW"
+			],
+			"conditionInflict": [
+				"poisoned"
+			],
+			"savingThrowForced": [
+				"constitution"
+			]
+		},
+		{
 			"name": "Dust Devil",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -8483,11 +9064,11 @@
 			]
 		},
 		{
-			"name": "Earth Elemental",
+			"name": "Earth Revenant",
 			"source": "WC5E MoM",
 			"page": 0,
 			"size": [
-				"L"
+				"M"
 			],
 			"type": "elemental",
 			"alignment": [
@@ -8495,29 +9076,28 @@
 			],
 			"ac": [
 				{
-					"ac": 17,
+					"ac": 19,
 					"from": [
-						"natural armor"
+						"{@item splint armor|PHB|splint}",
+						"{@item shield|PHB}"
 					]
 				}
 			],
 			"hp": {
-				"average": 126,
-				"formula": "12d10 + 60"
+				"average": 127,
+				"formula": "17d8 + 51"
 			},
 			"speed": {
-				"walk": 30,
-				"burrow": 30
+				"walk": 30
 			},
-			"str": 20,
-			"dex": 8,
-			"con": 20,
-			"int": 5,
+			"str": 18,
+			"dex": 10,
+			"con": 17,
+			"int": 8,
 			"wis": 10,
-			"cha": 5,
+			"cha": 15,
 			"senses": [
-				"darkvision 60 ft.",
-				"tremorsense 60 ft."
+				"darkvision 60 ft."
 			],
 			"passive": 10,
 			"resist": [
@@ -8534,31 +9114,52 @@
 			"immune": [
 				"poison"
 			],
-			"vulnerable": [
-				"thunder"
-			],
 			"conditionImmune": [
-				"exhaustion",
 				"paralyzed",
 				"petrified",
 				"poisoned",
-				"unconscious"
+				"prone"
 			],
 			"languages": [
-				"Terran"
+				"Kalimag"
 			],
-			"cr": "5",
+			"cr": "7",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The revenant's spellcating ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
+					],
+					"will": [
+						"{@spell magic stone|XGE} ({@damage 4d6 + 2} bludgeoning damage)",
+						"{@spell mold earth|XGE}"
+					],
+					"daily": {
+						"3": [
+							"{@spell earth tremor|XGE} (3rd level)"
+						]
+					},
+					"ability": "cha"
+				}
+			],
 			"trait": [
 				{
-					"name": "Earth Glide",
+					"name": "Brute",
 					"entries": [
-						"The elemental can burrow through nonmagical unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through."
+						"A melee weapon deals two extra dice of damage when the revenant hits with it (included in the attack)."
+					]
+				},
+				{
+					"name": "Magic Weapons",
+					"entries": [
+						"The revenant's weapon attacks are magical."
 					]
 				},
 				{
 					"name": "Siege Monster",
 					"entries": [
-						"The elemental deals double damage to objects and structures."
+						"The revenant deals double damage to objects and structures."
 					]
 				}
 			],
@@ -8566,34 +9167,60 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The elemental makes two slam attacks."
+						"The revenant makes two club attacks."
 					]
 				},
 				{
-					"name": "Slam",
+					"name": "Club",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d8 + 5}) bludgeoning damage."
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 3d4 + 4}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Heavy Strike {@recharge 5}",
+					"entries": [
+						"The revenant makes one club attack. On a hit, the target takes an extra 22 ({@damage 4d10}) bludgeoning damage, and the target must succeed on a {@dc 15} Strength saving throw or be knocked back up to 20 feet and fall {@condition prone}."
 					]
 				}
 			],
+			"attachedItems": [
+				"club|phb"
+			],
 			"traitTags": [
+				"Brute",
+				"Magic Weapons",
 				"Siege Monster"
 			],
 			"senseTags": [
-				"D",
-				"T"
+				"D"
 			],
 			"actionTags": [
 				"Multiattack"
 			],
-			"languageTags": [
-				"T"
-			],
 			"damageTags": [
 				"B"
 			],
+			"damageTagsSpell": [
+				"B"
+			],
+			"spellcastingTags": [
+				"I"
+			],
 			"miscTags": [
+				"MLW",
 				"MW"
+			],
+			"conditionInflict": [
+				"prone"
+			],
+			"conditionInflictSpell": [
+				"prone"
+			],
+			"savingThrowForced": [
+				"strength"
+			],
+			"savingThrowForcedSpell": [
+				"dexterity"
 			]
 		},
 		{
@@ -9527,6 +10154,93 @@
 			],
 			"savingThrowForcedSpell": [
 				"constitution"
+			]
+		},
+		{
+			"name": "Faerie Dragon",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": "fey",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 130,
+				"formula": "20d8 + 40"
+			},
+			"speed": {
+				"walk": 10,
+				"fly": 40
+			},
+			"str": 11,
+			"dex": 16,
+			"con": 14,
+			"int": 7,
+			"wis": 12,
+			"cha": 10,
+			"skill": {
+				"perception": "+4",
+				"stealth": "+6"
+			},
+			"passive": 14,
+			"cr": "5",
+			"trait": [
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The faerie dragon has advantage on saving throws against spells and other magical effects."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The faerie dragon makes two bite attacks."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}16 ({@damage 3d8 + 3}) piercing damage."
+					]
+				},
+				{
+					"name": "Mana Flare (1/Day)",
+					"entries": [
+						"The faerie dragon channels magical energies that damage foes when they cast spells near it. Until the end of it's next turn, whenever an enemy within 30 ft from the faerie dragon casts a spell, that creature needs to succeed a {@dc 15} Wisdom saving throw or take 3 ({@dice 1d6}) points of damage per level of the spell it cast.",
+						"In addition, if the dragon succeeds on a saving throw against an enemies spell, mana flare automatically recharges."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Phase Shift {@recharge 5}",
+					"entries": [
+						"Whenever the fairie dragon takes damage, it can use its reaction to immediately become incorporeal until its next turn. While incorporeal, it cannot attack, move or take any actions and it remains visible as a ghostly outline."
+					]
+				}
+			],
+			"traitTags": [
+				"Magic Resistance"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"P"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"savingThrowForced": [
+				"wisdom"
 			]
 		},
 		{
@@ -10551,32 +11265,38 @@
 			]
 		},
 		{
-			"name": "Fire Elemental",
+			"name": "Fire Revenant",
 			"source": "WC5E MoM",
 			"page": 0,
 			"size": [
-				"L"
+				"M"
 			],
 			"type": "elemental",
 			"alignment": [
 				"N"
 			],
 			"ac": [
-				13
+				{
+					"ac": 19,
+					"from": [
+						"{@item half plate armor|phb}",
+						"{@item shield|PHB}"
+					]
+				}
 			],
 			"hp": {
-				"average": 102,
-				"formula": "12d10 + 36"
+				"average": 123,
+				"formula": "19d8 + 38"
 			},
 			"speed": {
 				"walk": 50
 			},
-			"str": 10,
-			"dex": 17,
-			"con": 16,
-			"int": 6,
+			"str": 15,
+			"dex": 18,
+			"con": 15,
+			"int": 9,
 			"wis": 10,
-			"cha": 7,
+			"cha": 16,
 			"senses": [
 				"darkvision 60 ft."
 			],
@@ -10597,36 +11317,45 @@
 				"poison"
 			],
 			"conditionImmune": [
-				"exhaustion",
-				"grappled",
 				"paralyzed",
 				"petrified",
 				"poisoned",
-				"prone",
-				"restrained",
-				"unconscious"
+				"prone"
 			],
 			"languages": [
-				"Ignan"
+				"Kalimag"
 			],
-			"cr": "5",
+			"cr": "7",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The revenant's spellcating ability is Charisma (spell save {@dc 14}, {@hit 6} to hit with spell attacks) and casts as a 17th level spellcaster. It can innately cast the following spells, requiring no material components:"
+					],
+					"will": [
+						"{@spell control flames|XGE}",
+						"{@spell fire bolt}"
+					],
+					"daily": {
+						"1": [
+							"{@spell scorching ray} (3rd level)"
+						]
+					},
+					"ability": "cha"
+				}
+			],
 			"trait": [
 				{
-					"name": "Fire Form",
+					"name": "Heated Body",
 					"entries": [
-						"The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 ({@damage 1d10}) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 ({@damage 1d10}) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 ({@damage 1d10}) fire damage at the start of each of its turns."
+						"A creature that touches the revenant or hits it with a melee attack while within 5 feet of it takes 7 ({@damage 2d6}) fire damage."
 					]
 				},
 				{
-					"name": "Illumination",
+					"name": "Magic Weapons",
 					"entries": [
-						"The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet."
-					]
-				},
-				{
-					"name": "Water Susceptibility",
-					"entries": [
-						"For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage."
+						"The revenant's weapon attacks are magical."
 					]
 				}
 			],
@@ -10634,18 +11363,27 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The elemental makes two touch attacks"
+						"The revenant makes three longsword attacks."
 					]
 				},
 				{
-					"name": "Touch",
+					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 ({@damage 1d10}) fire damage at the start of its turn."
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) slashing damage plus 3 ({@damage 1d6}) fire damage."
+					]
+				},
+				{
+					"name": "Molten Strike {@recharge 5}",
+					"entries": [
+						"The revenant makes one longsword attack. On a hit, the target takes an additional 28 ({@damage 8d6}) fire damage. If the target wears non magical armor or a shield, it takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed."
 					]
 				}
 			],
+			"attachedItems": [
+				"longsword|phb"
+			],
 			"traitTags": [
-				"Illumination"
+				"Magic Weapons"
 			],
 			"senseTags": [
 				"D"
@@ -10653,15 +11391,18 @@
 			"actionTags": [
 				"Multiattack"
 			],
-			"languageTags": [
-				"IG"
-			],
 			"damageTags": [
-				"C",
+				"F",
+				"S"
+			],
+			"damageTagsSpell": [
 				"F"
 			],
+			"spellcastingTags": [
+				"I"
+			],
 			"miscTags": [
-				"AOE",
+				"MLW",
 				"MW"
 			]
 		},
@@ -10986,6 +11727,145 @@
 			],
 			"savingThrowForced": [
 				"constitution"
+			]
+		},
+		{
+			"name": "Four-legged Hydra",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 147,
+				"formula": "14d12 + 56"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 19,
+			"dex": 12,
+			"con": 18,
+			"int": 4,
+			"wis": 10,
+			"cha": 7,
+			"skill": {
+				"perception": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"cr": "6",
+			"trait": [
+				{
+					"name": "Multiple Heads",
+					"entries": [
+						"The hydra has three heads. While it has more than one head, the hydra has advantage on saving throws against being {@condition blinded}, {@condition charmed}, {@condition deafened}, {@condition frightened}, {@condition stunned}, and knocked {@condition unconscious}."
+					]
+				},
+				{
+					"name": "Reactive Heads",
+					"entries": [
+						"For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks."
+					]
+				},
+				{
+					"name": "Vile Blood",
+					"entries": [
+						"Whenever the hydra takes piercing or slashing damage, its blood sprays the attacker, dealing 7 ({@damage 2d6}) poison damage."
+					]
+				},
+				{
+					"name": "Wakeful",
+					"entries": [
+						"While the hydra sleeps, at least one of its heads is awake."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The hydra makes as many bite attacks as it has heads."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target.",
+						"{@h}13 ({@damage 2d8 + 4}) piercing damage."
+					]
+				},
+				{
+					"name": "Breath Weapon",
+					"entries": [
+						"Choose the breath weapon from the \"Hydra Breath Weapon\" list.",
+						{
+							"type": "inset",
+							"name": "Hydra Breath Weapon",
+							"page": 0,
+							"entries": [
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"name": "Rolling Bile {@recharge 5}",
+											"entries": [
+												"The hydra spews a ball of putrid bile at a point within 20 feet from it. Each creature in a 10-foot-radius sphere centered on that point must make a {@dc 14} Dexterity saving throw taking 21 ({@damage 6d6}) poison damage on a failed save, or half as much damage on a successful one."
+											]
+										},
+										{
+											"name": "Crackling Thunder {@recharge 5}",
+											"entries": [
+												"The hydra spews bolts of lighting in a 15-foot cone. Every creature must succeed against a {@dc 14} Dexterity saving throw or take 18 ({@damage 4d8}) lightning damage and it cannot use its reactions until the start of hydra's next turn."
+											]
+										},
+										{
+											"name": "Ball of Fire {@recharge 5}",
+											"entries": [
+												"The hydra spews a large ball of fire at a point within 15 feet from it. Each creature in a 10-foot-radius sphere centered on that point must make a {@dc 14} Dexterity saving throw taking 14 ({@damage 4d6}) fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It lasts for 10 minute. When a creature enters the burning area for the first time on a turn or starts its turn there, takes 3 ({@damage 1d6}) fire damage."
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Breath Weapon",
+				"Multiattack"
+			],
+			"damageTags": [
+				"F",
+				"I",
+				"L",
+				"P"
+			],
+			"miscTags": [
+				"AOE",
+				"MW"
+			],
+			"savingThrowForced": [
+				"dexterity"
 			]
 		},
 		{
@@ -12402,6 +13282,110 @@
 			]
 		},
 		{
+			"name": "Gahz'rilla Spawn",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 180,
+				"formula": "19d10 + 76"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 20,
+			"dex": 12,
+			"con": 18,
+			"int": 4,
+			"wis": 10,
+			"cha": 7,
+			"skill": {
+				"perception": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Multiple Heads",
+					"entries": [
+						"The hydra has three heads. While it has more than one head, the hydra has advantage on saving throws against being {@condition blinded}, {@condition charmed}, {@condition deafened}, {@condition frightened}, {@condition stunned}, and knocked {@condition unconscious}."
+					]
+				},
+				{
+					"name": "Reactive Heads",
+					"entries": [
+						"For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks."
+					]
+				},
+				{
+					"name": "Wakeful",
+					"entries": [
+						"While the hydra sleeps, at least one of its heads is awake."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The hydra makes as many bite attacks as it has heads."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target.",
+						"{@h}12 ({@damage 2d6 + 5}) piercing damage plus 5 ({@damage 2d4}) cold damage."
+					]
+				},
+				{
+					"name": "Arctic Beam {@recharge 5}",
+					"entries": [
+						"{@atk rw} {@hit 8} to hit, reach 30/45 ft., one creature. {@h}44 ({@damage 8d10}) cold damage. In addition, the target must succeed on a {@dc 15} Dexterity saving throw, or become {@condition restrained}.",
+						"At the beginning of their turn, they can attempt a {@dc 15} Strength saving throw to end the effect on a success."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"C",
+				"P"
+			],
+			"miscTags": [
+				"MW",
+				"RW"
+			],
+			"conditionInflict": [
+				"restrained"
+			],
+			"savingThrowForced": [
+				"dexterity",
+				"strength"
+			]
+		},
+		{
 			"name": "Gan'arg",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -13418,84 +14402,6 @@
 			]
 		},
 		{
-			"name": "Giant Badger",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				10
-			],
-			"hp": {
-				"average": 13,
-				"formula": "2d8 + 4"
-			},
-			"speed": {
-				"walk": 30,
-				"burrow": 10
-			},
-			"str": 13,
-			"dex": 10,
-			"con": 15,
-			"int": 2,
-			"wis": 12,
-			"cha": 5,
-			"senses": [
-				"darkvision 30 ft."
-			],
-			"passive": 11,
-			"cr": "1/2",
-			"trait": [
-				{
-					"name": "Keen Smell",
-					"entries": [
-						"The badger has advantage on Wisdom ({@skill Perception}) checks that rely on smell."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Multiattack",
-					"entries": [
-						"The badger makes two attacks: one with its bite and one with its claws."
-					]
-				},
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) piercing damage."
-					]
-				},
-				{
-					"name": "Claws",
-					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}6 ({@damage 2d4 + 1}) slashing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Keen Senses"
-			],
-			"senseTags": [
-				"D"
-			],
-			"actionTags": [
-				"Multiattack"
-			],
-			"damageTags": [
-				"P",
-				"S"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
 			"name": "Giant Bat",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -13889,79 +14795,6 @@
 			]
 		},
 		{
-			"name": "Giant Crab",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				{
-					"ac": 15,
-					"from": [
-						"natural armor"
-					]
-				}
-			],
-			"hp": {
-				"average": 13,
-				"formula": "3d8"
-			},
-			"speed": {
-				"walk": 30,
-				"swim": 30
-			},
-			"str": 13,
-			"dex": 15,
-			"con": 11,
-			"int": 1,
-			"wis": 9,
-			"cha": 3,
-			"skill": {
-				"stealth": "+4"
-			},
-			"senses": [
-				"blindsight 30 ft."
-			],
-			"passive": 9,
-			"cr": "1/4",
-			"trait": [
-				{
-					"name": "Amphibious",
-					"entries": [
-						"The crab can breathe air and water."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Claw",
-					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) bludgeoning damage, and the target is {@condition grappled} (escape {@dc 11}). The crab has two claws, each of which can grapple only one target."
-					]
-				}
-			],
-			"traitTags": [
-				"Amphibious"
-			],
-			"senseTags": [
-				"B"
-			],
-			"damageTags": [
-				"B"
-			],
-			"miscTags": [
-				"MW"
-			],
-			"conditionInflict": [
-				"grappled"
-			]
-		},
-		{
 			"name": "Giant Crocolisk",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -14300,87 +15133,6 @@
 			]
 		},
 		{
-			"name": "Giant Frog",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				11
-			],
-			"hp": {
-				"average": 18,
-				"formula": "4d8"
-			},
-			"speed": {
-				"walk": 30,
-				"swim": 30
-			},
-			"str": 12,
-			"dex": 13,
-			"con": 11,
-			"int": 2,
-			"wis": 10,
-			"cha": 3,
-			"skill": {
-				"perception": "+2",
-				"stealth": "+3"
-			},
-			"passive": 12,
-			"cr": "1/4",
-			"trait": [
-				{
-					"name": "Amphibious",
-					"entries": [
-						"The frog can breathe air and water."
-					]
-				},
-				{
-					"name": "Standing Leap",
-					"entries": [
-						"The frog's long jump is up to 20 feet and its hight jump is up to 10 feet, with or without a running start."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) piercing damage, and the target is {@condition grappled} (escape {@dc 11}). Until this grapple ends, the target is {@condition restrained}, and the frog can't bite another target."
-					]
-				},
-				{
-					"name": "Swallow",
-					"entries": [
-						"The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is {@condition blinded} and {@condition restrained}, it has total cover against attacks and other effects outside the frog, and it takes 5 ({@damage 2d4}) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer {@condition restrained} by it and can escape from the corpse using 5 feet of movement exiting {@condition prone}."
-					]
-				}
-			],
-			"traitTags": [
-				"Amphibious"
-			],
-			"actionTags": [
-				"Swallow"
-			],
-			"damageTags": [
-				"A",
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			],
-			"conditionInflict": [
-				"blinded",
-				"grappled",
-				"restrained"
-			]
-		},
-		{
 			"name": "Giant Goat",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -14680,82 +15432,6 @@
 			]
 		},
 		{
-			"name": "Giant Shark",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"H"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				{
-					"ac": 13,
-					"from": [
-						"natural armor"
-					]
-				}
-			],
-			"hp": {
-				"average": 126,
-				"formula": "11d12 + 55"
-			},
-			"speed": {
-				"walk": 0,
-				"swim": 50
-			},
-			"str": 23,
-			"dex": 11,
-			"con": 21,
-			"int": 1,
-			"wis": 10,
-			"cha": 5,
-			"skill": {
-				"perception": "+3"
-			},
-			"senses": [
-				"blindsight 60 ft."
-			],
-			"passive": 13,
-			"cr": "6",
-			"trait": [
-				{
-					"name": "Blood Frenzy",
-					"entries": [
-						"The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points."
-					]
-				},
-				{
-					"name": "Water Breathing",
-					"entries": [
-						"The shark can breathe only underwater."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}22 ({@damage 3d10 + 6}) piercing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Water Breathing"
-			],
-			"senseTags": [
-				"B"
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
 			"name": "Giant Skeleton",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -14850,108 +15526,6 @@
 			]
 		},
 		{
-			"name": "Giant Spider",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"L"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				{
-					"ac": 14,
-					"from": [
-						"natural armor"
-					]
-				}
-			],
-			"hp": {
-				"average": 26,
-				"formula": "4d10 + 4"
-			},
-			"speed": {
-				"walk": 30,
-				"climb": 30
-			},
-			"str": 14,
-			"dex": 16,
-			"con": 12,
-			"int": 2,
-			"wis": 11,
-			"cha": 4,
-			"skill": {
-				"stealth": "+7"
-			},
-			"senses": [
-				"blindsight 10 ft.",
-				"darkvision 60 ft."
-			],
-			"passive": 10,
-			"cr": "1",
-			"trait": [
-				{
-					"name": "Spider Climb",
-					"entries": [
-						"The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
-					]
-				},
-				{
-					"name": "Web Sense",
-					"entries": [
-						"While in contact with a web, the spider knows the exact location of any other creature in contact with the same web."
-					]
-				},
-				{
-					"name": "Web Walker",
-					"entries": [
-						"The spider ignores movement restrictions caused by webbing."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}7 ({@damage 1d8 + 3}) piercing damage, and the target must make a {@dc 11} Constitution saving throw, taking 7 ({@damage 2d6}) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but {@condition poisoned} for 1 hour, even after regaining hit points, and is {@condition paralyzed} while {@condition poisoned} in this way."
-					]
-				},
-				{
-					"name": "Web {@recharge 5}",
-					"entries": [
-						"{@atk rw} {@hit 5} to hit, range 30/60 ft., one creature. {@h}The target is then {@condition restrained} by webbing. As an action, the {@condition restrained} target can make a {@dc 12} Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage)."
-					]
-				}
-			],
-			"traitTags": [
-				"Spider Climb",
-				"Web Sense",
-				"Web Walker"
-			],
-			"senseTags": [
-				"B",
-				"D"
-			],
-			"damageTags": [
-				"I",
-				"P"
-			],
-			"miscTags": [
-				"MW",
-				"RW"
-			],
-			"conditionInflict": [
-				"paralyzed",
-				"poisoned",
-				"restrained"
-			],
-			"savingThrowForced": [
-				"constitution"
-			]
-		},
-		{
 			"name": "Giant Stag",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -15025,59 +15599,6 @@
 			],
 			"savingThrowForced": [
 				"strength"
-			]
-		},
-		{
-			"name": "Giant Wasp",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				12
-			],
-			"hp": {
-				"average": 13,
-				"formula": "3d8"
-			},
-			"speed": {
-				"walk": 5,
-				"fly": 40
-			},
-			"str": 10,
-			"dex": 14,
-			"con": 10,
-			"int": 1,
-			"wis": 10,
-			"cha": 3,
-			"passive": 10,
-			"cr": "1",
-			"action": [
-				{
-					"name": "Sting",
-					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage, and the target must make a {@dc 11} Constitution saving throw, taking 10 ({@damage 3d6}) poison damage on a failed save, or half as much on a successful one. If the poison damage reduce the target to 0 hit points, the target is stable but {@condition poisoned} for 1 hour, even after regaining hit points, and is {@condition paralyzed} while {@condition poisoned} in this way."
-					]
-				}
-			],
-			"damageTags": [
-				"I",
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			],
-			"conditionInflict": [
-				"paralyzed",
-				"poisoned"
-			],
-			"savingThrowForced": [
-				"constitution"
 			]
 		},
 		{
@@ -16407,6 +16928,93 @@
 			}
 		},
 		{
+			"name": "Gryphon",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"average": 68,
+				"formula": "8d10 + 24"
+			},
+			"speed": {
+				"walk": 40,
+				"fly": 60
+			},
+			"str": 18,
+			"dex": 15,
+			"con": 16,
+			"int": 9,
+			"wis": 12,
+			"cha": 8,
+			"passive": 11,
+			"cr": "2",
+			"trait": [
+				{
+					"name": "Keen Sight",
+					"entries": [
+						"The gryphon has advantage on Wisdom ({@skill Perception}) checks that rely on sight."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The gryphon makes two attacks: one with its beak and one with its claws."
+					]
+				},
+				{
+					"name": "Beak",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target.",
+						"{@h}7 ({@damage 1d6 + 4}) piercing damage."
+					]
+				},
+				{
+					"name": "Claws",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target.",
+						"{@h}9 ({@damage 2d4 + 4}) slashing damage."
+					]
+				},
+				{
+					"name": "Screech (1/Day)",
+					"entries": [
+						"The gryphon emits a feral screech. Each creature within 20 feet of it that can hear it must succeed on a {@dc 13} Constitution saving throw or be {@condition frightened} until the end of the gryphon's next turn."
+					]
+				}
+			],
+			"traitTags": [
+				"Keen Senses"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"P",
+				"S"
+			],
+			"miscTags": [
+				"AOE",
+				"MW"
+			],
+			"conditionInflict": [
+				"frightened"
+			],
+			"savingThrowForced": [
+				"constitution"
+			]
+		},
+		{
 			"name": "Harpy",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -16835,65 +17443,6 @@
 			]
 		},
 		{
-			"name": "Hawk",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"T"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				13
-			],
-			"hp": {
-				"average": 1,
-				"formula": "1d4 - 1"
-			},
-			"speed": {
-				"walk": 10,
-				"fly": 60
-			},
-			"str": 5,
-			"dex": 16,
-			"con": 8,
-			"int": 2,
-			"wis": 14,
-			"cha": 6,
-			"skill": {
-				"perception": "+4"
-			},
-			"passive": 14,
-			"cr": "1/8",
-			"trait": [
-				{
-					"name": "Keen Sight",
-					"entries": [
-						"The hawk has advantage on Wisdom ({@skill Perception}) checks that rely on sight."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Talons",
-					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}1 slashing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Keen Senses"
-			],
-			"damageTags": [
-				"S"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
 			"name": "Hawkstrider",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -17050,6 +17599,86 @@
 			}
 		},
 		{
+			"name": "Hippogryph",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"average": 26,
+				"formula": "4d10 + 4"
+			},
+			"speed": {
+				"walk": 40,
+				"fly": 60
+			},
+			"str": 17,
+			"dex": 15,
+			"con": 12,
+			"int": 9,
+			"wis": 12,
+			"cha": 8,
+			"passive": 11,
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Keen Sight",
+					"entries": [
+						"The hippogriff has advantage on Wisdom ({@skill Perception}) checks that rely on sight."
+					]
+				},
+				{
+					"name": "Swoop",
+					"entries": [
+						"If the hippogryph flies at least 20 feet straight toward a target and then hits it with a claw attack on the same turn, the target takes an extra 7 ({@damage 2d6}) piercing damage."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The hippogryph makes two attacks: one with its beak and one with its claws."
+					]
+				},
+				{
+					"name": "Beak",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target.",
+						"{@h}5 ({@damage 1d4 + 3}) piercing damage."
+					]
+				},
+				{
+					"name": "Claws",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target.",
+						"{@h}6 ({@damage 1d6 + 3}) slashing damage."
+					]
+				}
+			],
+			"traitTags": [
+				"Keen Senses"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"P",
+				"S"
+			],
+			"miscTags": [
+				"MW"
+			]
+		},
+		{
 			"name": "Hive Controller",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -17191,82 +17820,6 @@
 			"savingThrowForced": [
 				"constitution",
 				"strength"
-			]
-		},
-		{
-			"name": "Hunter Shark",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"L"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				{
-					"ac": 12,
-					"from": [
-						"natural armor"
-					]
-				}
-			],
-			"hp": {
-				"average": 45,
-				"formula": "6d10 + 12"
-			},
-			"speed": {
-				"walk": 0,
-				"swim": 40
-			},
-			"str": 18,
-			"dex": 13,
-			"con": 15,
-			"int": 1,
-			"wis": 10,
-			"cha": 4,
-			"skill": {
-				"perception": "+2"
-			},
-			"senses": [
-				"blindsight 30 ft."
-			],
-			"passive": 12,
-			"cr": "2",
-			"trait": [
-				{
-					"name": "Blood Frenzy",
-					"entries": [
-						"The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points."
-					]
-				},
-				{
-					"name": "Water Breathing",
-					"entries": [
-						"The shark can breathe only underwater."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) piercing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Water Breathing"
-			],
-			"senseTags": [
-				"B"
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
 			]
 		},
 		{
@@ -17439,126 +17992,6 @@
 					"{@b Hyenas} are a regular menace in the barren areas of Kalimdor. Centaurs are known to keep them as pets, vulpera and pygmies use them as mounts, and they are seen skulking around the desolate locations of the world, searching for rotting corpses to scavenge."
 				]
 			}
-		},
-		{
-			"name": "Ice Elemental",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"L"
-			],
-			"type": "elemental",
-			"alignment": [
-				"N"
-			],
-			"ac": [
-				{
-					"ac": 15,
-					"from": [
-						"natural armor"
-					]
-				}
-			],
-			"hp": {
-				"average": 95,
-				"formula": "10d10 + 40"
-			},
-			"speed": {
-				"walk": 40,
-				"burrow": 40
-			},
-			"str": 18,
-			"dex": 14,
-			"con": 18,
-			"int": 5,
-			"wis": 10,
-			"cha": 8,
-			"senses": [
-				"darkvision 60 ft."
-			],
-			"passive": 10,
-			"resist": [
-				{
-					"resist": [
-						"bludgeoning",
-						"piercing",
-						"slashing"
-					],
-					"note": "from nonmagical attacks",
-					"cond": true
-				}
-			],
-			"immune": [
-				"cold",
-				"poison"
-			],
-			"vulnerable": [
-				"fire"
-			],
-			"conditionImmune": [
-				"exhaustion",
-				"paralyzed",
-				"petrified",
-				"poisoned",
-				"unconscious"
-			],
-			"languages": [
-				"Aquan"
-			],
-			"cr": "5",
-			"trait": [
-				{
-					"name": "Frost Form",
-					"entries": [
-						"The elemental can burrow through nonmagical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 ({@damage 1d10}) cold damage. Additionally, the elemental freezes non-creature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is {@condition grappled} (escape {@dc 14})."
-					]
-				},
-				{
-					"name": "Ice Walk",
-					"entries": [
-						"The elemental can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost extra movement."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Multiattack",
-					"entries": [
-						"The elemental makes two attacks."
-					]
-				},
-				{
-					"name": "Slam",
-					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) bludgeoning damage."
-					]
-				},
-				{
-					"name": "Icicle",
-					"entries": [
-						"{@atk rw} {@hit 7} to hit, range 30/60 ft., one target. {@h}11 ({@damage 2d12}) piercing damage."
-					]
-				}
-			],
-			"senseTags": [
-				"D"
-			],
-			"actionTags": [
-				"Multiattack"
-			],
-			"languageTags": [
-				"AQ"
-			],
-			"damageTags": [
-				"B",
-				"C",
-				"P"
-			],
-			"miscTags": [
-				"AOE",
-				"MW",
-				"RW"
-			]
 		},
 		{
 			"name": "Imp",
@@ -18065,6 +18498,200 @@
 				"dexterity",
 				"intelligence",
 				"wisdom"
+			]
+		},
+		{
+			"name": "Keeper of the Grove",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "fey",
+			"alignment": [
+				"L",
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 17,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 221,
+				"formula": "26d10 + 78"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 14,
+			"dex": 16,
+			"con": 16,
+			"int": 12,
+			"wis": 18,
+			"cha": 14,
+			"skill": {
+				"nature": "+5",
+				"perception": "+8",
+				"survival": "+8"
+			},
+			"senses": [
+				"darkvision 60ft."
+			],
+			"passive": 18,
+			"resist": [
+				"lightning",
+				"poison"
+			],
+			"languages": [
+				"Common",
+				"Darnassian"
+			],
+			"cr": "10",
+			"spellcasting": [
+				{
+					"name": "Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The keeper of the grove is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 16}, {@hit 8} to hit with spell attacks). It has the following druid spells prepared:"
+					],
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell druidcraft}",
+								"{@spell resistance}",
+								"{@spell solar wrath|WC5E Spells}"
+							]
+						},
+						"1": {
+							"slots": 4,
+							"spells": [
+								"{@spell beast bond|XGE}",
+								"{@spell detect poison and disease}",
+								"{@spell entangle}",
+								"{@spell cure wounds}"
+							]
+						},
+						"2": {
+							"slots": 3,
+							"spells": [
+								"{@spell beast sense}",
+								"{@spell locate animals or plants}",
+								"{@spell spike growth}"
+							]
+						},
+						"3": {
+							"slots": 3,
+							"spells": [
+								"{@spell mass healing word}",
+								"{@spell revivify}",
+								"{@spell plant growth}"
+							]
+						},
+						"4": {
+							"slots": 3,
+							"spells": [
+								"{@spell conjure woodland beings}",
+								"{@spell grasping vine}",
+								"{@spell guardian of nature|XGE}"
+							]
+						},
+						"5": {
+							"slots": 2,
+							"spells": [
+								"{@spell tree stride}",
+								"{@spell wrath of nature|XGE}"
+							]
+						},
+						"6": {
+							"slots": 1,
+							"spells": [
+								"{@spell wall of thorns}"
+							]
+						}
+					},
+					"ability": "wis"
+				}
+			],
+			"trait": [
+				{
+					"name": "Forest Walk",
+					"entries": [
+						"The keeper ignores difficult terrain in forests."
+					]
+				},
+				{
+					"name": "Speak with Beasts and Plants",
+					"entries": [
+						"The keeper of the grove can communicate with beasts and plants as if they shared a language."
+					]
+				},
+				{
+					"name": "Unearthly Grace",
+					"entries": [
+						"The keeper of the grove adds its Charisma modifier on all saving throws and its AC."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Barbed Whip",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 20 ft., one target. {@h}13 ({@damage 3d6 + 3}) piercing damage, and if the creature is large or smaller, it is pulled or pushed up to 10 feet at any direction."
+					]
+				},
+				{
+					"name": "Hooves",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d6}) bludgeoning damage."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Thorns Aura",
+					"entries": [
+						"When a creature within 5 feet of the keeper of the grove hits it with a melee attack, the keeper can use its reaction to deal 9 ({@damage 2d8}) force damage to them."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"B",
+				"O",
+				"P"
+			],
+			"damageTagsSpell": [
+				"B",
+				"O",
+				"P",
+				"R",
+				"S"
+			],
+			"spellcastingTags": [
+				"CD"
+			],
+			"miscTags": [
+				"MLW",
+				"MW",
+				"RCH"
+			],
+			"conditionInflictSpell": [
+				"charmed",
+				"prone",
+				"restrained"
+			],
+			"savingThrowForcedSpell": [
+				"dexterity",
+				"strength"
 			]
 		},
 		{
@@ -18854,6 +19481,755 @@
 			]
 		},
 		{
+			"name": "Lesser Air Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 36,
+				"formula": "8d8"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 90,
+					"condition": "(hover)"
+				},
+				"canHover": true
+			},
+			"str": 10,
+			"dex": 16,
+			"con": 10,
+			"int": 4,
+			"wis": 8,
+			"cha": 4,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				"lightning",
+				"thunder",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Air Form",
+					"entries": [
+						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Slam",
+					"entries": [
+						"Melee Weapon Attack. {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Whirlwind {@recharge 4}",
+					"entries": [
+						"Each creature in the elemental's space must make a {@dc 10} Strength saving throw. On a failure, a target takes 4 ({@damage 1d8}) bludgeoning damage and is flung up to 10 feet away from the elemental in a random direction and knocked {@condition prone}. If a thrown target strikes an object, such as a wall or floor, the target takes 3 ({@damage 1d6}) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a {@dc 10} Dexterity saving throw or take the same damage and be knocked {@condition prone}.",
+						"If the save is successful, the target takes half the damage and isn't flung away or knocked {@condition prone}."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"B"
+			],
+			"conditionInflict": [
+				"prone"
+			],
+			"savingThrowForced": [
+				"strength"
+			]
+		},
+		{
+			"name": "Lesser Arcane Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"average": 33,
+				"formula": "6d8 + 6"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 8,
+			"dex": 14,
+			"con": 12,
+			"int": 5,
+			"wis": 8,
+			"cha": 4,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				"acid",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"force",
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"telepathy 60 ft."
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Arcane Form",
+					"entries": [
+						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. When the elemental enters the area of an {@spell antimagic field} spell for the first time on a turn or starts its turn there, it must succeed on a Constitution saving throw against the spell save DC of its spellcaster, or be {@condition stunned} until the start of its next turn."
+					]
+				},
+				{
+					"name": "Illumination",
+					"entries": [
+						"The elemental sheds bright light in a 5-foot radius and dim light in an additional 5 feet."
+					]
+				},
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The elemental has advantage on saving throws versus spells and other magical effects."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Touch",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) force damage. If the target is a creature, it must succeed on a {@dc 11} Strength saving throw or be knocked {@condition prone}."
+					]
+				},
+				{
+					"name": "Arcane Blast {@recharge 5}",
+					"entries": [
+						"The elemental erupts arcane energy at a point it can see within 60 feet of it. Each creature within 5 feet of that point must make a {@dc 11} Dexterity saving throw, taking 12 ({@damage 5d4}) force damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			],
+			"traitTags": [
+				"Illumination",
+				"Magic Resistance"
+			],
+			"senseTags": [
+				"D"
+			],
+			"languageTags": [
+				"TP"
+			],
+			"damageTags": [
+				"O"
+			],
+			"miscTags": [
+				"AOE",
+				"MW"
+			],
+			"conditionInflict": [
+				"prone"
+			],
+			"savingThrowForced": [
+				"dexterity",
+				"strength"
+			]
+		},
+		{
+			"name": "Lesser Earth Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 14,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 37,
+				"formula": "5d8 + 15"
+			},
+			"speed": {
+				"walk": 30,
+				"burrow": 30
+			},
+			"str": 16,
+			"dex": 4,
+			"con": 16,
+			"int": 5,
+			"wis": 10,
+			"cha": 5,
+			"senses": [
+				"darkvision 60 ft.",
+				"tremorsense 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"vulnerable": [
+				"thunder"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Earth Glide",
+					"entries": [
+						"The elemental can burrow through non-magical unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through."
+					]
+				},
+				{
+					"name": "Siege Monster",
+					"entries": [
+						"The elemental deals double damage to objects and structures."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Slam",
+					"entries": [
+						"Melee Weapon Attack. {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 3}) bludgeoning damage."
+					]
+				}
+			],
+			"traitTags": [
+				"Siege Monster"
+			],
+			"senseTags": [
+				"D",
+				"T"
+			],
+			"damageTags": [
+				"B"
+			]
+		},
+		{
+			"name": "Lesser Fel Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "elemental",
+				"tags": [
+					"demon"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				10
+			],
+			"hp": {
+				"average": 60,
+				"formula": "8d8 + 24"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 13,
+			"dex": 11,
+			"con": 16,
+			"int": 1,
+			"wis": 8,
+			"cha": 16,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 9,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"fire",
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Reckless",
+					"entries": [
+						"At the start of its turn, the elemental can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+					]
+				},
+				{
+					"name": "Fel Flames",
+					"entries": [
+						"Fire damage that the elemental deals ignores other creatures' fire resistance and treats fire immunity as resistance instead."
+					]
+				},
+				{
+					"name": "Heat Aura",
+					"entries": [
+						"A creature that hits the elemental with a melee attack while within 5 feet of the elemental or ends their turn there takes 2 ({@damage 1d4}) fire damage."
+					]
+				},
+				{
+					"name": "Illumination",
+					"entries": [
+						"The elemental sheds bright light in a 20-foot radius and dim light in an additional 20 feet."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Claw",
+					"entries": [
+						"Melee Weapon Attack. {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) fire damage."
+					]
+				}
+			],
+			"traitTags": [
+				"Illumination",
+				"Reckless"
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"F"
+			],
+			"miscTags": [
+				"AOE"
+			]
+		},
+		{
+			"name": "Lesser Fire Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				11
+			],
+			"hp": {
+				"average": 44,
+				"formula": "8d8 + 8"
+			},
+			"speed": {
+				"walk": 50
+			},
+			"str": 6,
+			"dex": 13,
+			"con": 12,
+			"int": 4,
+			"wis": 8,
+			"cha": 5,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"fire",
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Fire Form",
+					"entries": [
+						"The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 3 ({@damage 1d6}) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 3 ({@damage 1d6}) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 3 ({@damage 1d6}) fire damage at the start of each of its turns."
+					]
+				},
+				{
+					"name": "Illumination",
+					"entries": [
+						"The elemental sheds bright light in a 20-foot radius and dim light in an additional 20 feet."
+					]
+				},
+				{
+					"name": "Water Susceptibility",
+					"entries": [
+						"For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Touch",
+					"entries": [
+						"Melee Weapon Attack. {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 ({@damage 1d6}) fire damage at the start of its turn."
+					]
+				}
+			],
+			"traitTags": [
+				"Illumination"
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"C",
+				"F"
+			],
+			"miscTags": [
+				"AOE"
+			]
+		},
+		{
+			"name": "Lesser Ice Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 13,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 39,
+				"formula": "6d8 + 12"
+			},
+			"speed": {
+				"walk": 40,
+				"burrow": 40
+			},
+			"str": 14,
+			"dex": 10,
+			"con": 14,
+			"int": 3,
+			"wis": 8,
+			"cha": 6,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"cold",
+				"poison"
+			],
+			"vulnerable": [
+				"fire"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Frost Form",
+					"entries": [
+						"The elemental can burrow through nonmagical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 3 ({@damage 1d6}) cold damage. Additionally, the elemental freezes non-creature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is {@condition grappled} (escape {@dc 13})."
+					]
+				},
+				{
+					"name": "Ice Walk",
+					"entries": [
+						"The elemental can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost extra movement."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Slam",
+					"entries": [
+						"Melee Weapon Attack. {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Icicle",
+					"entries": [
+						"Ranged Weapon Attack. {@hit 4} to hit, range 30/60 ft., one target. {@h}6 ({@damage 1d12}) piercing damage."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"B",
+				"C",
+				"P"
+			],
+			"miscTags": [
+				"AOE"
+			]
+		},
+		{
+			"name": "Lesser Water Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"M"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 12,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 39,
+				"formula": "6d8 + 12"
+			},
+			"speed": {
+				"walk": 30,
+				"swim": 90
+			},
+			"str": 14,
+			"dex": 10,
+			"con": 14,
+			"int": 3,
+			"wis": 8,
+			"cha": 6,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				"acid",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Water Form",
+					"entries": [
+						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
+					]
+				},
+				{
+					"name": "Freeze",
+					"entries": [
+						"If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Slam",
+					"entries": [
+						"Melee Weapon Attack. {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Whelm {@recharge 4}",
+					"entries": [
+						"Each creature in the elemental's space must make a {@dc 12} Strength saving throw. On a failure, a target takes 6 ({@damage 1d8 + 2}) bludgeoning damage. If it is Medium or smaller, it is also {@condition grappled} (escape {@dc 12}). Until this grapple ends, the target is {@condition restrained} and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.",
+						"The elemental can grapple one Medium or smaller creature at a time. At the start of each of the elemental's turns, each target {@condition grappled} by it takes 6 ({@damage 1d8 + 2}) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a {@dc 12} Strength and succeeding."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"B"
+			],
+			"conditionInflict": [
+				"grappled",
+				"restrained"
+			],
+			"savingThrowForced": [
+				"strength"
+			]
+		},
+		{
 			"name": "Lich",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -19147,104 +20523,6 @@
 				"dexterity",
 				"wisdom"
 			]
-		},
-		{
-			"name": "Lion",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"L"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				12
-			],
-			"hp": {
-				"average": 26,
-				"formula": "4d10 + 4"
-			},
-			"speed": {
-				"walk": 50
-			},
-			"str": 17,
-			"dex": 15,
-			"con": 13,
-			"int": 3,
-			"wis": 12,
-			"cha": 8,
-			"skill": {
-				"perception": "+3",
-				"stealth": "+6"
-			},
-			"passive": 13,
-			"cr": "1",
-			"trait": [
-				{
-					"name": "Keen Smell",
-					"entries": [
-						"The lion has advantage on Wisdom ({@skill Perception}) checks that rely on smell."
-					]
-				},
-				{
-					"name": "Pack Tactics",
-					"entries": [
-						"The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally isn't {@condition incapacitated}."
-					]
-				},
-				{
-					"name": "Pounce",
-					"entries": [
-						"If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a {@dc 13} Strength saving throw or be knocked {@condition prone}. If the target is {@condition prone}, the lion can make one bite attack against it as a bonus action."
-					]
-				},
-				{
-					"name": "Running Leap",
-					"entries": [
-						"With a 10-foot running start, the lion can jump up to 25 feet."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage."
-					]
-				},
-				{
-					"name": "Claw",
-					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Keen Senses",
-				"Pack Tactics",
-				"Pounce"
-			],
-			"damageTags": [
-				"P",
-				"S"
-			],
-			"miscTags": [
-				"MW"
-			],
-			"conditionInflict": [
-				"prone"
-			],
-			"savingThrowForced": [
-				"strength"
-			],
-			"fluff": {
-				"entries": [
-					"A {@b lion} is a common sight across central Kalimdor. These fierce predators stalk the tall grass in small packs -- their prides -- and have been known to even hunt travellers.",
-					"More commonplace across Azeroth is the {@b mountain lion}, found both along the lush plains of Mulgore and up the grassy foothills of Hillsbrad."
-				]
-			}
 		},
 		{
 			"name": "Lion Pridemane",
@@ -19871,70 +21149,6 @@
 			],
 			"conditionInflictSpell": [
 				"invisible"
-			],
-			"savingThrowForced": [
-				"strength"
-			]
-		},
-		{
-			"name": "Mastiff",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				12
-			],
-			"hp": {
-				"average": 5,
-				"formula": "1d8 + 1"
-			},
-			"speed": {
-				"walk": 40
-			},
-			"str": 13,
-			"dex": 14,
-			"con": 12,
-			"int": 3,
-			"wis": 12,
-			"cha": 7,
-			"skill": {
-				"perception": "+3"
-			},
-			"passive": 13,
-			"cr": "1/8",
-			"trait": [
-				{
-					"name": "Keen Hearing and Smell",
-					"entries": [
-						"The mastiff has advantage on Wisdom ({@skill Perception}) checks that rely on hearing or smell."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) piercing damage. If the target is a creature, it must succeed on a {@dc 11} Strength saving throw or be knocked {@condition prone}."
-					]
-				}
-			],
-			"traitTags": [
-				"Keen Senses"
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			],
-			"conditionInflict": [
-				"prone"
 			],
 			"savingThrowForced": [
 				"strength"
@@ -20738,64 +21952,6 @@
 					"{@b Mountain Lions} are found both along the lush plains of Mulgore and up the grassy foothills of Hillsbrad."
 				]
 			}
-		},
-		{
-			"name": "Mule",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				10
-			],
-			"hp": {
-				"average": 11,
-				"formula": "2d8 + 2"
-			},
-			"speed": {
-				"walk": 40
-			},
-			"str": 14,
-			"dex": 10,
-			"con": 13,
-			"int": 2,
-			"wis": 10,
-			"cha": 5,
-			"passive": 10,
-			"cr": "1/8",
-			"trait": [
-				{
-					"name": "Beast of Burden",
-					"entries": [
-						"The mule is considered to be a Large animal for the purpose of determining its carrying capacity."
-					]
-				},
-				{
-					"name": "Sure-Footed",
-					"entries": [
-						"The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it {@condition prone}."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Hooves",
-					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4 + 2}) bludgeoning damage."
-					]
-				}
-			],
-			"damageTags": [
-				"B"
-			],
-			"miscTags": [
-				"MW"
-			]
 		},
 		{
 			"name": "Murloc",
@@ -22784,79 +23940,6 @@
 			]
 		},
 		{
-			"name": "Owl",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"T"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				11
-			],
-			"hp": {
-				"average": 1,
-				"formula": "1d4 - 1"
-			},
-			"speed": {
-				"walk": 5,
-				"fly": 60
-			},
-			"str": 3,
-			"dex": 13,
-			"con": 8,
-			"int": 2,
-			"wis": 12,
-			"cha": 7,
-			"skill": {
-				"perception": "+3",
-				"stealth": "+3"
-			},
-			"senses": [
-				"darkvision 120 ft."
-			],
-			"passive": 13,
-			"cr": "0",
-			"trait": [
-				{
-					"name": "Flyby",
-					"entries": [
-						"The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach."
-					]
-				},
-				{
-					"name": "Keen Hearing and Sight",
-					"entries": [
-						"The owl has advantage on Wisdom ({@skill Perception}) checks that rely on hearing or sight."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Talons",
-					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}1 slashing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Flyby",
-				"Keen Senses"
-			],
-			"senseTags": [
-				"SD"
-			],
-			"damageTags": [
-				"S"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
 			"name": "Owlbeast",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -24595,50 +25678,6 @@
 			]
 		},
 		{
-			"name": "Pony",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				10
-			],
-			"hp": {
-				"average": 11,
-				"formula": "2d8 + 2"
-			},
-			"speed": {
-				"walk": 40
-			},
-			"str": 15,
-			"dex": 10,
-			"con": 13,
-			"int": 2,
-			"wis": 11,
-			"cha": 7,
-			"passive": 10,
-			"cr": "1/8",
-			"action": [
-				{
-					"name": "Hooves",
-					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 2d4 + 2}) bludgeoning damage."
-					]
-				}
-			],
-			"damageTags": [
-				"B"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
 			"name": "Pterrordax",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -25990,67 +27029,6 @@
 			]
 		},
 		{
-			"name": "Rat",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"T"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				10
-			],
-			"hp": {
-				"average": 1,
-				"formula": "1d4 - 1"
-			},
-			"speed": {
-				"walk": 20
-			},
-			"str": 2,
-			"dex": 11,
-			"con": 9,
-			"int": 2,
-			"wis": 10,
-			"cha": 4,
-			"senses": [
-				"darkvision 30 ft."
-			],
-			"passive": 10,
-			"cr": "0",
-			"trait": [
-				{
-					"name": "Keen Smell",
-					"entries": [
-						"The rat has advantage on Wisdom ({@skill Perception}) checks that rely on smell."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 0} to hit, reach 5 ft., one target. {@h}1 piercing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Keen Senses"
-			],
-			"senseTags": [
-				"D"
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
 			"name": "Ravager",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -26313,139 +27291,6 @@
 			],
 			"damageTags": [
 				"I",
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
-			"name": "Raven",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"T"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				12
-			],
-			"hp": {
-				"average": 1,
-				"formula": "1d4 - 1"
-			},
-			"speed": {
-				"walk": 10,
-				"fly": 50
-			},
-			"str": 2,
-			"dex": 14,
-			"con": 8,
-			"int": 2,
-			"wis": 12,
-			"cha": 6,
-			"skill": {
-				"perception": "+3"
-			},
-			"passive": 13,
-			"cr": "0",
-			"trait": [
-				{
-					"name": "Mimicry",
-					"entries": [
-						"The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful {@dc 10} Wisdom ({@skill Insight}) check."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Beak",
-					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}1 piercing damage."
-					]
-				}
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
-			"name": "Reef Shark",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				{
-					"ac": 12,
-					"from": [
-						"natural armor"
-					]
-				}
-			],
-			"hp": {
-				"average": 22,
-				"formula": "4d8 + 4"
-			},
-			"speed": {
-				"walk": 0,
-				"swim": 40
-			},
-			"str": 14,
-			"dex": 13,
-			"con": 13,
-			"int": 1,
-			"wis": 10,
-			"cha": 4,
-			"skill": {
-				"perception": "+2"
-			},
-			"senses": [
-				"blindsight 30 ft."
-			],
-			"passive": 12,
-			"cr": "1/2",
-			"trait": [
-				{
-					"name": "Pack Tactics",
-					"entries": [
-						"The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't {@condition incapacitated}."
-					]
-				},
-				{
-					"name": "Water Breathing",
-					"entries": [
-						"The shark can breathe only underwater."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Pack Tactics",
-				"Water Breathing"
-			],
-			"senseTags": [
-				"B"
-			],
-			"damageTags": [
 				"P"
 			],
 			"miscTags": [
@@ -29297,89 +30142,6 @@
 			]
 		},
 		{
-			"name": "Spider",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"T"
-			],
-			"type": "beast",
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				12
-			],
-			"hp": {
-				"average": 1,
-				"formula": "1d4 - 1"
-			},
-			"speed": {
-				"walk": 20,
-				"climb": 20
-			},
-			"str": 2,
-			"dex": 14,
-			"con": 8,
-			"int": 1,
-			"wis": 10,
-			"cha": 2,
-			"skill": {
-				"stealth": "+4"
-			},
-			"senses": [
-				"darkvision 30 ft."
-			],
-			"passive": 10,
-			"cr": "0",
-			"trait": [
-				{
-					"name": "Spider Climb",
-					"entries": [
-						"The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
-					]
-				},
-				{
-					"name": "Web Sense",
-					"entries": [
-						"While in contact with a web, the spider knows the exact location of any other creature in contact with the same web."
-					]
-				},
-				{
-					"name": "Web Walker",
-					"entries": [
-						"The spider ignores movement restrictions caused by webbing."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}1 piercing damage, and the target must succeed on a {@dc 9} Constitution saving throw or take 2 ({@damage 1d4}) poison damage."
-					]
-				}
-			],
-			"traitTags": [
-				"Spider Climb",
-				"Web Sense",
-				"Web Walker"
-			],
-			"senseTags": [
-				"D"
-			],
-			"damageTags": [
-				"I",
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			],
-			"savingThrowForced": [
-				"constitution"
-			]
-		},
-		{
 			"name": "Stag",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -29705,98 +30467,6 @@
 			]
 		},
 		{
-			"name": "Swarm of Bats",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": {
-				"type": "beast",
-				"swarmSize": "T"
-			},
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				12
-			],
-			"hp": {
-				"average": 22,
-				"formula": "5d8"
-			},
-			"speed": {
-				"walk": 0,
-				"fly": 30
-			},
-			"str": 5,
-			"dex": 15,
-			"con": 10,
-			"int": 2,
-			"wis": 12,
-			"cha": 4,
-			"senses": [
-				"blindsight 60 ft."
-			],
-			"passive": 11,
-			"resist": [
-				"bludgeoning",
-				"piercing",
-				"slashing"
-			],
-			"conditionImmune": [
-				"charmed",
-				"frightened",
-				"grappled",
-				"paralyzed",
-				"pretrified",
-				"prone",
-				"restrained",
-				"stunned"
-			],
-			"cr": "1/2",
-			"trait": [
-				{
-					"name": "Echolocation",
-					"entries": [
-						"The swarm can't use its blindsight while {@condition deafened}."
-					]
-				},
-				{
-					"name": "Keen Hearing",
-					"entries": [
-						"The swarm has advantage on Wisdom ({@skill Perception}) checks that rely on hearing."
-					]
-				},
-				{
-					"name": "Swarm",
-					"entries": [
-						"The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bite",
-					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 0 ft., one creature in the swarm's space. {@h}5 ({@damage 2d4}) piercing damage, or 2 ({@damage 1d4}) piercing damage if the swarm has half of its hit points or fewer."
-					]
-				}
-			],
-			"traitTags": [
-				"Keen Senses"
-			],
-			"senseTags": [
-				"B"
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
 			"name": "Swarm of Frenzyfish",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -29877,331 +30547,6 @@
 			],
 			"senseTags": [
 				"D"
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
-			"name": "Swarm of Insects",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": {
-				"type": "beast",
-				"swarmSize": "T"
-			},
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				{
-					"ac": 12,
-					"from": [
-						"natural armor"
-					]
-				}
-			],
-			"hp": {
-				"average": 22,
-				"formula": "5d8"
-			},
-			"speed": {
-				"walk": 20,
-				"climb": 20
-			},
-			"str": 3,
-			"dex": 13,
-			"con": 10,
-			"int": 1,
-			"wis": 7,
-			"cha": 1,
-			"senses": [
-				"blindsight 10 ft."
-			],
-			"passive": 8,
-			"resist": [
-				"bludgeoning",
-				"piercing",
-				"slashing"
-			],
-			"conditionImmune": [
-				"charmed",
-				"frightened",
-				"grappled",
-				"paralyzed",
-				"pretrified",
-				"prone",
-				"restrained",
-				"stunned"
-			],
-			"cr": {
-				"cr": "1",
-				"xp": 100
-			},
-			"trait": [
-				{
-					"name": "Swarm",
-					"entries": [
-						"The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insects. The swarm can't regain hit points or gain temporary hit points."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bites",
-					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 0 ft., one creature in the swarm's space. {@h}10 ({@damage 4d4}) piercing damage, or 5 ({@damage 2d4}) piercing damage if the swarm has half of its hit points or fewer."
-					]
-				}
-			],
-			"senseTags": [
-				"B"
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
-			"name": "Swarm of Poisonous Snakes",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": {
-				"type": "beast",
-				"swarmSize": "T"
-			},
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				14
-			],
-			"hp": {
-				"average": 36,
-				"formula": "8d8"
-			},
-			"speed": {
-				"walk": 30,
-				"swim": 20
-			},
-			"str": 8,
-			"dex": 18,
-			"con": 11,
-			"int": 1,
-			"wis": 10,
-			"cha": 3,
-			"senses": [
-				"blindsight 10 ft."
-			],
-			"passive": 10,
-			"resist": [
-				"bludgeoning",
-				"piercing",
-				"slashing"
-			],
-			"conditionImmune": [
-				"charmed",
-				"frightened",
-				"grappled",
-				"paralyzed",
-				"pretrified",
-				"prone",
-				"restrained",
-				"stunned"
-			],
-			"cr": "3",
-			"trait": [
-				{
-					"name": "Swarm",
-					"entries": [
-						"The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bites",
-					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 0 ft., one creature in the swarm's space. {@h}7 ({@damage 2d6}) piercing damage, or 3 ({@damage 1d6}) piercing damage if the swarm has half of its hit points or fewer. The target must make a {@dc 10} Constitution saving throw, taking 14 ({@damage 4d6}) poison damage on a failed save, or half as much damage on a successful one."
-					]
-				}
-			],
-			"senseTags": [
-				"B"
-			],
-			"damageTags": [
-				"I",
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			],
-			"savingThrowForced": [
-				"constitution"
-			]
-		},
-		{
-			"name": "Swarm of Rats",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": {
-				"type": "beast",
-				"swarmSize": "T"
-			},
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				10
-			],
-			"hp": {
-				"average": 24,
-				"formula": "7d8 - 7"
-			},
-			"speed": {
-				"walk": 30
-			},
-			"str": 9,
-			"dex": 11,
-			"con": 9,
-			"int": 2,
-			"wis": 10,
-			"cha": 3,
-			"senses": [
-				"darkvision 30 ft."
-			],
-			"passive": 10,
-			"resist": [
-				"bludgeoning",
-				"piercing",
-				"slashing"
-			],
-			"conditionImmune": [
-				"charmed",
-				"frightened",
-				"grappled",
-				"paralyzed",
-				"pretrified",
-				"prone",
-				"restrained",
-				"stunned"
-			],
-			"cr": "1/2",
-			"trait": [
-				{
-					"name": "Keen Smell",
-					"entries": [
-						"The swarm has advantage on Wisdom ({@skill Perception}) checks that rely on smell."
-					]
-				},
-				{
-					"name": "Swarm",
-					"entries": [
-						"The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Bites",
-					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 0 ft., one creature in the swarm's space. {@h}7 ({@damage 2d6}) piercing damage, or 3 ({@damage 1d6}) piercing damage if the swarm has half of its hit points or fewer."
-					]
-				}
-			],
-			"traitTags": [
-				"Keen Senses"
-			],
-			"senseTags": [
-				"D"
-			],
-			"damageTags": [
-				"P"
-			],
-			"miscTags": [
-				"MW"
-			]
-		},
-		{
-			"name": "Swarm of Ravens",
-			"source": "WC5E MoM",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": {
-				"type": "beast",
-				"swarmSize": "T"
-			},
-			"alignment": [
-				"U"
-			],
-			"ac": [
-				12
-			],
-			"hp": {
-				"average": 24,
-				"formula": "7d8 - 7"
-			},
-			"speed": {
-				"walk": 10,
-				"fly": 50
-			},
-			"str": 6,
-			"dex": 14,
-			"con": 8,
-			"int": 3,
-			"wis": 12,
-			"cha": 6,
-			"skill": {
-				"perception": "+5"
-			},
-			"passive": 15,
-			"resist": [
-				"bludgeoning",
-				"piercing",
-				"slashing"
-			],
-			"conditionImmune": [
-				"charmed",
-				"frightened",
-				"grappled",
-				"paralyzed",
-				"pretrified",
-				"prone",
-				"restrained",
-				"stunned"
-			],
-			"cr": "1/2",
-			"trait": [
-				{
-					"name": "Swarm",
-					"entries": [
-						"The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points."
-					]
-				}
-			],
-			"action": [
-				{
-					"name": "Beaks",
-					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature in the swarm's space. {@h}7 ({@damage 2d6}) piercing damage, or 3 ({@damage 1d6}) piercing damage if the swarm has half of its hit points or fewer."
-					]
-				}
 			],
 			"damageTags": [
 				"P"
@@ -31064,6 +31409,74 @@
 			],
 			"conditionInflict": [
 				"restrained"
+			]
+		},
+		{
+			"name": "Tiny Faerie Dragon",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"T"
+			],
+			"type": "fey",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 22,
+				"formula": "5d4 + 10"
+			},
+			"speed": {
+				"walk": 10,
+				"fly": 40
+			},
+			"str": 11,
+			"dex": 16,
+			"con": 14,
+			"int": 7,
+			"wis": 12,
+			"cha": 10,
+			"skill": {
+				"perception": "+3",
+				"stealth": "+5"
+			},
+			"passive": 14,
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The faerie dragon has advantage on saving throws against spells and other magical effects."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}8 ({@damage 2d4 + 3}) piercing damage."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Phase Shift {@recharge 5}",
+					"entries": [
+						"Whenever the fairie dragon takes damage, it can use its reaction to immediately become incorporeal until its next turn. While incorporeal, it cannot attack, move or take any actions and it remains visible as a ghostly outline."
+					]
+				}
+			],
+			"traitTags": [
+				"Magic Resistance"
+			],
+			"damageTags": [
+				"P"
+			],
+			"miscTags": [
+				"MW"
 			]
 		},
 		{
@@ -32327,6 +32740,1002 @@
 			]
 		},
 		{
+			"name": "Two-legged Hydra",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 180,
+				"formula": "19d10 + 76"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 20,
+			"dex": 12,
+			"con": 18,
+			"int": 4,
+			"wis": 10,
+			"cha": 7,
+			"skill": {
+				"perception": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Multiple Heads",
+					"entries": [
+						"The hydra has three heads. While it has more than one head, the hydra has advantage on saving throws against being {@condition blinded}, {@condition charmed}, {@condition deafened}, {@condition frightened}, {@condition stunned}, and knocked {@condition unconscious}."
+					]
+				},
+				{
+					"name": "Reactive Heads",
+					"entries": [
+						"For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks."
+					]
+				},
+				{
+					"name": "Wakeful",
+					"entries": [
+						"While the hydra sleeps, at least one of its heads is awake."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The hydra makes as many bite attacks as it has heads."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target.",
+						"{@h}12 ({@damage 2d6 + 5}) piercing damage plus 5 ({@damage 2d4}) poison damage."
+					]
+				},
+				{
+					"name": "Venom Spit {@recharge 5}",
+					"entries": [
+						"{@atk rw} {@hit 8} to hit, reach 30/45 ft., one creature. {@h}54 ({@damage 12d8}) poison damage. In addition, the target must succeed on a {@dc 15} Constitution  saving throw, or be {@condition poisoned} until the end of the hydra's next turn."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"I",
+				"P"
+			],
+			"miscTags": [
+				"MW",
+				"RW"
+			],
+			"conditionInflict": [
+				"poisoned"
+			]
+		},
+		{
+			"name": "Unbound Air Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				17
+			],
+			"hp": {
+				"average": 126,
+				"formula": "12d12 + 48"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 90,
+					"condition": "(hover)"
+				},
+				"canHover": true
+			},
+			"str": 18,
+			"dex": 24,
+			"con": 18,
+			"int": 8,
+			"wis": 12,
+			"cha": 8,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				"lightning",
+				"thunder",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Air Form",
+					"entries": [
+						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
+					]
+				},
+				{
+					"name": "Buffeting Winds",
+					"entries": [
+						"Ranged attacks against the elemental have disadvantage on the attack rolls."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two slam attacks."
+					]
+				},
+				{
+					"name": "Slam",
+					"entries": [
+						"{@atk mw} {@hit 10} to hit, reach 10 ft., one target. {@h}16 ({@damage 2d8 + 7}) bludgeoning damage plus 4 ({@damage 1d8}) lightning damage."
+					]
+				},
+				{
+					"name": "Cyclone",
+					"entries": [
+						"The elemental creates a 15-foot cube of swirling wind centered on a point within 60 feet. Each creature in that area must make a {@dc 15} Constitution saving throw. A creature takes 18 ({@damage 4d8}) bludgeoning damage on a failed save, or half as much damage on a successful one. If a Huge or smaller creature fails the save, that creature is also pushed up to 15 feet away from the center of the cube."
+					]
+				},
+				{
+					"name": "Whirlwind {@recharge 4}",
+					"entries": [
+						"Each creature in the elemental's space must make a {@dc 15} Strength saving throw. On a failure, a target takes 13 ({@damage 2d8 + 4}) bludgeoning damage plus 4 ({@damage 1d8}) lightning damage and is flung up to 20 feet away from the elemental in a random direction and knocked {@condition prone}. If a thrown target strikes an object, such as a wall or floor, the target takes 3 ({@damage 1d6}) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a {@dc 15} Dexterity saving throw or take the same damage and be knocked {@condition prone}.",
+						"If the save is successful, the target takes half the damage and isn't flung away or knocked {@condition prone}."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"B",
+				"L"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH"
+			],
+			"conditionInflict": [
+				"prone"
+			],
+			"savingThrowForced": [
+				"constitution",
+				"strength"
+			]
+		},
+		{
+			"name": "Unbound Arcane Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				16
+			],
+			"hp": {
+				"average": 115,
+				"formula": "10d12 + 50"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 16,
+			"dex": 22,
+			"con": 20,
+			"int": 9,
+			"wis": 12,
+			"cha": 8,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				"acid",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"force",
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"telepathy 60 ft."
+			],
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Arcane Form",
+					"entries": [
+						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. When the elemental enters the area of an {@spell antimagic field} spell for the first time on a turn or starts its turn there, it must succeed on a Constitution saving throw against the spell save DC of its spellcaster, or be {@condition stunned} until the start of its next turn."
+					]
+				},
+				{
+					"name": "Illumination",
+					"entries": [
+						"The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet."
+					]
+				},
+				{
+					"name": "Magic Absorption",
+					"entries": [
+						"The elemental has advantage on saving throws versus spells and other magical effects. When it successfully saves versus a spell, it regains hit points equal to twice the spell's level.",
+						"Additionally, whenever it is subjected to force damage, it takes no damage and regains a number of hit points equal to the force damage dealt."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two touch attacks."
+					]
+				},
+				{
+					"name": "Touch",
+					"entries": [
+						"{@atk mw} {@hit 9} to hit, reach 10 ft., one target. {@h}19 ({@damage 3d8 + 6}) force damage. If the target is a creature, it must succeed on a {@dc 17} Strength saving throw or be knocked {@condition prone}. Creatures hit by this attack have disadvantage on checks to maintain {@status concentration} until the beginning of their next turn."
+					]
+				},
+				{
+					"name": "Arcane Blast {@recharge 5}",
+					"entries": [
+						"The elemental erupts arcane energy at a point it can see within 60 feet of it. Each creature within 20 feet of that point must make a {@dc 16} Dexterity saving throw, taking 37 ({@damage 15d4}) force damage on a failed save, or half as much damage on a successful one."
+					]
+				},
+				{
+					"name": "Consume Magic {@recharge 5}",
+					"entries": [
+						"The elemental absorbs all magic in the area. It casts *{@spell dispel magic}*, affecting each creature within 20 feet. For each spell level of spells ended this way, the elemental regains 2 hit points."
+					]
+				}
+			],
+			"traitTags": [
+				"Damage Absorption",
+				"Illumination"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"TP"
+			],
+			"damageTags": [
+				"O"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH"
+			],
+			"conditionInflict": [
+				"prone"
+			],
+			"savingThrowForced": [
+				"dexterity",
+				"strength"
+			]
+		},
+		{
+			"name": "Unbound Earth Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 19,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 108,
+				"formula": "8d12 + 56"
+			},
+			"speed": {
+				"walk": 30,
+				"burrow": 30
+			},
+			"str": 24,
+			"dex": 12,
+			"con": 24,
+			"int": 7,
+			"wis": 12,
+			"cha": 7,
+			"senses": [
+				"darkvision 60 ft.",
+				"tremorsense 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"vulnerable": [
+				"thunder"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Earth Glide",
+					"entries": [
+						"The elemental can burrow through nonmagical unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through."
+					]
+				},
+				{
+					"name": "Siege Monster",
+					"entries": [
+						"The elemental deals double damage to objects and structures."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two slam attacks."
+					]
+				},
+				{
+					"name": "Slam",
+					"entries": [
+						"{@atk mw} {@hit 10} to hit, reach 10 ft., one target. {@h}17 ({@damage 3d6 + 7}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Shockwave {@recharge 4}",
+					"entries": [
+						"The elemental causes the ground to shake and crack in a 30-foot-radius circle, turning it into difficult terrain. Each creature in the area must make a {@dc 18} Dexterity save or take 18 ({@damage 4d8}) bludgeoning damage and be knocked {@condition prone}. A successful save results in half damage and no other effect."
+					]
+				}
+			],
+			"traitTags": [
+				"Siege Monster"
+			],
+			"senseTags": [
+				"D",
+				"T"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"B"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH"
+			],
+			"conditionInflict": [
+				"prone"
+			]
+		},
+		{
+			"name": "Unbound Fel Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "elemental",
+				"tags": [
+					"demon"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				14
+			],
+			"hp": {
+				"average": 162,
+				"formula": "12d12 + 84"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 21,
+			"dex": 19,
+			"con": 24,
+			"int": 5,
+			"wis": 12,
+			"cha": 20,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"fire",
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"understands Eredun but does not speak"
+			],
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Reckless",
+					"entries": [
+						"At the start of its turn, the elemental can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+					]
+				},
+				{
+					"name": "Fel Flames",
+					"entries": [
+						"Fire damage that the elemental deals ignores other creatures' fire resistance and immunity."
+					]
+				},
+				{
+					"name": "Heat Aura",
+					"entries": [
+						"A creature that hits the elemental with a melee attack while within 10 feet of the elemental or ends their turn there takes 3 ({@damage 1d6}) fire damage."
+					]
+				},
+				{
+					"name": "Illumination",
+					"entries": [
+						"The elemental sheds bright light in a 60-foot radius and dim light in an additional 60 feet."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two claw attacks."
+					]
+				},
+				{
+					"name": "Claw",
+					"entries": [
+						"Melee Weapon Attack. {@hit 8} to hit, reach 10 ft., one target. {@h}11 ({@damage 2d6 + 5}) fire damage."
+					]
+				},
+				{
+					"name": "Fel Fireball {@recharge 5}",
+					"entries": [
+						"The elemental creates a blast of green flame at a point it can see within 60 feet of it. Each creature within 20 feet of that point must make a {@dc 16} Dexterity saving throw, taking 17 ({@damage 5d6}) fire damage on a failed save, or half as much on a success. The elemental is immune to its own attack.",
+						"Creatures who fail their save have their protections against flame stripped away, gaining vulnerability to fire damage until the beginning of the elemental's next turn."
+					]
+				}
+			],
+			"traitTags": [
+				"Illumination",
+				"Reckless"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"F"
+			],
+			"miscTags": [
+				"AOE",
+				"RCH"
+			],
+			"savingThrowForced": [
+				"dexterity"
+			]
+		},
+		{
+			"name": "Unbound Fire Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				15
+			],
+			"hp": {
+				"average": 138,
+				"formula": "12d12 + 60"
+			},
+			"speed": {
+				"walk": 50
+			},
+			"str": 14,
+			"dex": 21,
+			"con": 20,
+			"int": 8,
+			"wis": 12,
+			"cha": 9,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"fire",
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Fire Form",
+					"entries": [
+						"The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 10 feet of it takes 5 ({@damage 1d10}) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 ({@damage 1d10}) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 ({@damage 1d10}) fire damage at the start of each of its turns."
+					]
+				},
+				{
+					"name": "Illumination",
+					"entries": [
+						"The elemental sheds bright light in a 60-foot radius and dim light in an additional 60 feet."
+					]
+				},
+				{
+					"name": "Water Susceptibility",
+					"entries": [
+						"For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two touch attacks."
+					]
+				},
+				{
+					"name": "Touch",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 10 ft., one target. {@h}14 ({@damage 2d8 + 5}) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 ({@damage 1d10}) fire damage at the start of its turn."
+					]
+				},
+				{
+					"name": "Fire Storm {@recharge 5}",
+					"entries": [
+						"The elemental creates a whirlwind of flame from its body, dealing 16 ({@damage 3d10}) fire damage to all creatures within 30 feet, or half damage on a successful {@dc 16} Dexterity save. This ability sets fire to flammable objects, and creatures that take any damage are ignited, taking 5 ({@damage 1d10}) fire damage at the start of their turns until they take an action to put out the flame."
+					]
+				}
+			],
+			"traitTags": [
+				"Illumination"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"C",
+				"F"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH"
+			]
+		},
+		{
+			"name": "Unbound Ice Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 125,
+				"formula": "10d12 + 60"
+			},
+			"speed": {
+				"walk": 40,
+				"burrow": 40
+			},
+			"str": 22,
+			"dex": 18,
+			"con": 22,
+			"int": 7,
+			"wis": 12,
+			"cha": 10,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"cold",
+				"poison"
+			],
+			"vulnerable": [
+				"fire"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Frost Aura",
+					"entries": [
+						"The ground in a 10-foot radius around the elemental is icy and is difficult terrain. The radius moves with the elemental."
+					]
+				},
+				{
+					"name": "Frost Form",
+					"entries": [
+						"The elemental can burrow through nonmagical unworked ice and snow. While doing so, the elemental doesn't disturb the material it moves through. A creature that touches the elemental or hits it with a melee attack while within 10 feet of it takes 5 ({@damage 1d10}) cold damage. Additionally, the elemental freezes non-creature liquids within a 10-foot radius of it. A creature caught in the liquid when the elemental freezes it is {@condition grappled} (escape {@dc 17})."
+					]
+				},
+				{
+					"name": "Ice Walk",
+					"entries": [
+						"The elemental can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost extra movement."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two slam or icicle attacks."
+					]
+				},
+				{
+					"name": "Slam",
+					"entries": [
+						"{@atk mw} {@hit 9} to hit, reach 10 ft., one target. {@h}19 ({@damage 3d8 + 6}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Icicle",
+					"entries": [
+						"{@atk rw} {@hit 9} to hit, range 30/60 ft., one target. {@h}19 ({@damage 3d12}) piercing damage."
+					]
+				},
+				{
+					"name": "Freezing Nova {@recharge 5}",
+					"entries": [
+						"A 30-foot radius of icy air blasts from the ice elemental. Each creature in the area must make a {@dc 17} Constitution saving throw, taking 22 ({@damage 4d10}) cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of the elemental's next turn."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"B",
+				"C",
+				"P"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH",
+				"RW"
+			],
+			"savingThrowForced": [
+				"constitution"
+			]
+		},
+		{
+			"name": "Unbound Water Elemental",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 112,
+				"formula": "9d12 + 54"
+			},
+			"speed": {
+				"walk": 30,
+				"swim": 90
+			},
+			"str": 22,
+			"dex": 18,
+			"con": 22,
+			"int": 7,
+			"wis": 12,
+			"cha": 10,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				"acid",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"Kalimag"
+			],
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Water Form",
+					"entries": [
+						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
+					]
+				},
+				{
+					"name": "Freeze",
+					"entries": [
+						"If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The elemental makes two slam attacks."
+					]
+				},
+				{
+					"name": "Slam",
+					"entries": [
+						"{@atk mw} {@hit 9} to hit, reach 10 ft., one target. {@h}16 ({@damage 3d8 + 6}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Whirlpool {@recharge 4}",
+					"entries": [
+						"Each creature within 15 feet of the elemental must make a {@dc 17} Strength saving throw. On a failure, they are pulled into the elemental's space, or as close as possible. Each creature that is in the elemental's space takes 15 ({@damage 2d8 + 6}) bludgeoning damage. If it is Huge or smaller, it is also {@condition grappled} (escape {@dc 17}). Until this grapple ends, the target is {@condition restrained} and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.",
+						"The elemental can grapple one Huge creature or up to two Large or 4 Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target {@condition grappled} by it takes 15 ({@damage 2d8 + 6}) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a {@dc 17} Strength and succeeding."
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"B"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH"
+			],
+			"conditionInflict": [
+				"restrained"
+			],
+			"savingThrowForced": [
+				"strength"
+			]
+		},
+		{
 			"name": "Unforgiven",
 			"source": "WC5E MoM",
 			"page": 0,
@@ -32807,11 +34216,11 @@
 			]
 		},
 		{
-			"name": "Water Elemental",
+			"name": "Water Revenant",
 			"source": "WC5E MoM",
 			"page": 0,
 			"size": [
-				"L"
+				"M"
 			],
 			"type": "elemental",
 			"alignment": [
@@ -32819,26 +34228,27 @@
 			],
 			"ac": [
 				{
-					"ac": 14,
+					"ac": 19,
 					"from": [
-						"natural armor"
+						"{@item half plate armor|phb}",
+						"{@item shield|PHB}"
 					]
 				}
 			],
 			"hp": {
-				"average": 114,
-				"formula": "12d10 + 48"
+				"average": 127,
+				"formula": "17d8 + 51"
 			},
 			"speed": {
 				"walk": 30,
-				"swim": 90
+				"swim": 30
 			},
-			"str": 18,
+			"str": 17,
 			"dex": 14,
-			"con": 18,
-			"int": 5,
+			"con": 15,
+			"int": 8,
 			"wis": 10,
-			"cha": 8,
+			"cha": 14,
 			"senses": [
 				"darkvision 60 ft."
 			],
@@ -32856,33 +34266,43 @@
 				}
 			],
 			"immune": [
+				"cold",
 				"poison"
 			],
 			"conditionImmune": [
-				"exhaustion",
-				"grappled",
 				"paralyzed",
 				"petrified",
 				"poisoned",
-				"prone",
-				"restrained",
-				"unconscious"
+				"prone"
 			],
 			"languages": [
-				"Aquan"
+				"Kalimag"
 			],
-			"cr": "5",
+			"cr": "7",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The revenant's spellcating ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks) and casts as a 17th level spellcaster. It can innately cast the following spells, requiring no material components:"
+					],
+					"will": [
+						"{@spell ray of frost}",
+						"{@spell shape water|XGE}"
+					],
+					"daily": {
+						"1": [
+							"{@spell tidal wave|XGE}"
+						]
+					},
+					"ability": "cha"
+				}
+			],
 			"trait": [
 				{
-					"name": "Water Form",
+					"name": "Magic Weapons",
 					"entries": [
-						"The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
-					]
-				},
-				{
-					"name": "Freeze",
-					"entries": [
-						"If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn."
+						"The revenant's weapon attacks are magical."
 					]
 				}
 			],
@@ -32890,22 +34310,35 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The elemental makes two slam attacks."
+						"The revenant makes three scimitar attacks."
 					]
 				},
 				{
-					"name": "Slam",
+					"name": "Scimitar",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) bludgeoning damage."
+						"{@atk mw,rw} {@hit 6} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing damage plus 3 ({@damage 1d6}) cold damage."
 					]
 				},
 				{
-					"name": "Whelm {@recharge 4}",
+					"name": "Tidal Strike {@recharge 5}",
 					"entries": [
-						"Each creature in the elemental's space must make a {@dc 15} Strength saving throw. On a failure, a target takes 13 ({@damage 2d8 + 4}) bludgeoning damage. If it is Large or smaller, it is also {@condition grappled} (escape {@dc 14}). Until this grapple ends, the target is {@condition restrained} and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.",
-						"The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target {@condition grappled} by it takes 13 ({@damage 2d8 + 4}) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a {@dc 14} Strength and succeeding."
+						"The makes one scimitar attack. On a hit, the target takes an additional 10 ({@damage 3d6}) bludgeoning damage plus 10 ({@damage 3d6}) cold damage and has its speed reduced by 10 feet until the end of the revenant's next turn. It must also make a {@dc 13} Strength saving throw or be knocked {@condition prone} by the rush of freezing water."
 					]
 				}
+			],
+			"reaction": [
+				{
+					"name": "Protective Bubble {@recharge}",
+					"entries": [
+						"When it would take damage, the revenant can use its reaction to prevent all damage it would take for the turn."
+					]
+				}
+			],
+			"attachedItems": [
+				"scimitar|phb"
+			],
+			"traitTags": [
+				"Magic Weapons"
 			],
 			"senseTags": [
 				"D"
@@ -32913,21 +34346,34 @@
 			"actionTags": [
 				"Multiattack"
 			],
-			"languageTags": [
-				"AQ"
-			],
 			"damageTags": [
-				"B"
+				"B",
+				"C",
+				"S"
+			],
+			"damageTagsSpell": [
+				"B",
+				"C"
+			],
+			"spellcastingTags": [
+				"I"
 			],
 			"miscTags": [
-				"MW"
+				"MLW",
+				"MW",
+				"RW"
 			],
 			"conditionInflict": [
-				"grappled",
-				"restrained"
+				"prone"
+			],
+			"conditionInflictSpell": [
+				"prone"
 			],
 			"savingThrowForced": [
 				"strength"
+			],
+			"savingThrowForcedSpell": [
+				"dexterity"
 			]
 		},
 		{
@@ -34055,6 +35501,75 @@
 				"MLW",
 				"MW",
 				"RW"
+			]
+		},
+		{
+			"name": "Wyvern",
+			"source": "WC5E MoM",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				{
+					"ac": 13,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 42,
+				"formula": "5d10 + 15"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": 60
+			},
+			"str": 16,
+			"dex": 15,
+			"con": 16,
+			"int": 9,
+			"wis": 12,
+			"cha": 8,
+			"passive": 11,
+			"cr": "2",
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The wyvern makes two attacks: one bite attack and one sting attack."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target.",
+						"{@h}6 ({@damage 1d6 + 3}) piercing damage."
+					]
+				},
+				{
+					"name": "Sting",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 10 ft., one target.",
+						"{@h}6 ({@damage 1d6 + 3}) piercing damage plus 3 ({@damage 1d6}) poison damage."
+					]
+				}
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"I",
+				"P"
+			],
+			"miscTags": [
+				"MW",
+				"RCH"
 			]
 		},
 		{
