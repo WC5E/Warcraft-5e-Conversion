@@ -14,8 +14,7 @@
 					"Ace"
 				],
 				"version": "3.1",
-				"url": "https://github.com/WC5E/Warcraft-5e-Conversion",
-				"targetSchema": "1.0.0"
+				"url": "https://github.com/WC5E/Warcraft-5e-Conversion"
 			},
 			{
 				"json": "WC5E Spells",
@@ -30,8 +29,7 @@
 						"Ace"
 					],
 					"version": "3.1",
-					"url": "https://github.com/WC5E/Warcraft-5e-Conversion",
-					"targetSchema": "1.0.0"
+					"url": "https://github.com/WC5E/Warcraft-5e-Conversion"
 			}
 		],
 		"dateAdded": "1709047527",
@@ -12068,6 +12066,7 @@
 									"style": "list-hang-notitle",
 									"items": [
 										{
+											"type": "item",
 											"name": "Poison Spit {@recharge}",
 											"entries": [
 												"{@atk rw} {@hit 7} to hit, reach 30/45 ft., one creature. {@h}22 ({@damage 5d8}) poison damage. Hit or miss, the poison then splashes around. The target and each creature within 5 feet of it must succeed on a {@dc 15} Dexterity saving throw or take 18 ({@damage 4d8}) poison damage.",
@@ -12075,12 +12074,14 @@
 											]
 										},
 										{
+											"type": "item",
 											"name": "Lightning Breath {@recharge}",
 											"entries": [
 												"The chimaera exhales a bolt of lighting at a creature within 30 feet of it. That creature must make a {@dc 15} Dexterity saving throw, taking 22 ({@damage 5d8}) lightning damage on a failed save, or half as much damage on a success. Afterwards, the bolt jumps to a second creature within 30 feet of the first target and then to a third creature within 30 feet of the second one."
 											]
 										},
 										{
+											"type": "item",
 											"name": "Acid Breath {@recharge}",
 											"entries": [
 												"The chimaera ejects acid in a 20-foot cone. Each creature in that area must make a DC l5 Dexterity saving throw, taking 18 ({@damage 4d8}) acid damage on a failed save, or half as much damage on a successful one.",
@@ -12088,12 +12089,14 @@
 											]
 										},
 										{
+											"type": "item",
 											"name": "Ice Jet {@recharge}",
 											"entries": [
 												"The chimaera exhales a frigid beam of blue-white light forming a line 80 feet long and 5 feet wide in any direction it wants.  Each creature in the line must make a {@dc 15} Dexterity saving throw. A creature takes 13 ({@damage 3d8}) cold damage on a failed save, or half as much damage on a successful one and it becomes {@condition incapacitated} until the start of the chimaera's next turn."
 											]
 										},
 										{
+											"type": "item",
 											"name": "Fire Breath {@recharge}",
 											"entries": [
 												"The chimaera exhales fire in a 45-foot cone. Each creature in that area must succeed against a {@dc 15} Dexterity saving throw or take 11 ({@damage 2d10}) fire damage and catch fire; until someone takes an action to douse the fire, the creature takes 5 ({@damage 1d10}) fire damage at the start of each of its turns."
@@ -18836,18 +18839,21 @@
 									"style": "list-hang-notitle",
 									"items": [
 										{
+											"type": "item",
 											"name": "Rolling Bile {@recharge 5}",
 											"entries": [
 												"The hydra spews a ball of putrid bile at a point within 20 feet from it. Each creature in a 10-foot-radius sphere centered on that point must make a {@dc 14} Dexterity saving throw taking 21 ({@damage 6d6}) poison damage on a failed save, or half as much damage on a successful one."
 											]
 										},
 										{
+											"type": "item",
 											"name": "Crackling Thunder {@recharge 5}",
 											"entries": [
 												"The hydra spews bolts of lighting in a 15-foot cone. Every creature must succeed against a {@dc 14} Dexterity saving throw or take 18 ({@damage 4d8}) lightning damage and it cannot use its reactions until the start of hydra's next turn."
 											]
 										},
 										{
+											"type": "item",
 											"name": "Ball of Fire {@recharge 5}",
 											"entries": [
 												"The hydra spews a large ball of fire at a point within 15 feet from it. Each creature in a 10-foot-radius sphere centered on that point must make a {@dc 14} Dexterity saving throw taking 14 ({@damage 4d6}) fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It lasts for 10 minute. When a creature enters the burning area for the first time on a turn or starts its turn there, takes 3 ({@damage 1d6}) fire damage."
@@ -31276,10 +31282,25 @@
 				{
 					"name": "Demonic Command",
 					"entries": [
-						"The pit lord uses its Demonic Command action",
-						"br> **Halberd (Cost 2 Actions).** The pit lord makes a halberd attack",
-						"br> **Tail Sweep (Cost 3 Actions).** The pit lord sweeps its tail out. Each creature within 10 feet of the pit lord must succeed on a {@dc 25} Strength saving throw. On a fail, a creature takes 13 ({@damage 1d8 + 9}) bludgeoning damage and is knocked {@condition prone}. On a success, a creature only takes half damage and does not fall {@condition prone}.",
-						"br> **Cleave (Cost 3 Actions).** The pit lord uses its Cleave action"
+						"The pit lord uses its Demonic Command action"
+					]
+				},
+				{
+					"name": "Halberd (Cost 2 Actions)",
+					"entries": [
+						"The pit lord makes a halberd attack"
+					]
+				},
+				{
+					"name": "Tail Sweep (Cost 3 Actions)",
+					"entries": [
+						"The pit lord sweeps its tail out. Each creature within 10 feet of the pit lord must succeed on a {@dc 25} Strength saving throw. On a fail, a creature takes 13 ({@damage 1d8 + 9}) bludgeoning damage and is knocked {@condition prone}. On a success, a creature only takes half damage and does not fall {@condition prone}."
+					]
+				},
+				{
+					"name": "Cleave (Cost 3 Actions)",
+					"entries": [
+						"The pit lord uses its Cleave action"
 					]
 				}
 			],

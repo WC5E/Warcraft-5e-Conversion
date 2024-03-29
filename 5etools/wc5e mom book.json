@@ -14,8 +14,7 @@
 					"Ace"
 				],
 				"version": "3.1",
-				"url": "https://github.com/WC5E/Warcraft-5e-Conversion",
-				"targetSchema": "1.0.0"
+				"url": "https://github.com/WC5E/Warcraft-5e-Conversion"
 			},
 			{
 				"json": "WC5E Spells",
@@ -30,8 +29,7 @@
 						"Ace"
 					],
 					"version": "3.1",
-					"url": "https://github.com/WC5E/Warcraft-5e-Conversion",
-					"targetSchema": "1.0.0"
+					"url": "https://github.com/WC5E/Warcraft-5e-Conversion"
 			}
 		],
 		"dateAdded": "1709047527",
