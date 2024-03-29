@@ -24263,10 +24263,25 @@
 				{
 					"name": "Demonic Command",
 					"entries": [
-						"The pit lord uses its Demonic Command action",
-						"br> **Halberd (Cost 2 Actions).** The pit lord makes a halberd attack",
-						"br> **Tail Sweep (Cost 3 Actions).** The pit lord sweeps its tail out. Each creature within 10 feet of the pit lord must succeed on a {@dc 25} Strength saving throw. On a fail, a creature takes 13 ({@damage 1d8 + 9}) bludgeoning damage and is knocked {@condition prone}. On a success, a creature only takes half damage and does not fall {@condition prone}.",
-						"br> **Cleave (Cost 3 Actions).** The pit lord uses its Cleave action"
+						"The pit lord uses its Demonic Command action"
+					]
+				},
+				{
+					"name": "Halberd (Cost 2 Actions)",
+					"entries": [
+						"The pit lord makes a halberd attack"
+					]
+				},
+				{
+					"name": "Tail Sweep (Cost 3 Actions)",
+					"entries": [
+						"The pit lord sweeps its tail out. Each creature within 10 feet of the pit lord must succeed on a {@dc 25} Strength saving throw. On a fail, a creature takes 13 ({@damage 1d8 + 9}) bludgeoning damage and is knocked {@condition prone}. On a success, a creature only takes half damage and does not fall {@condition prone}."
+					]
+				},
+				{
+					"name": "Cleave (Cost 3 Actions)",
+					"entries": [
+						"The pit lord uses its Cleave action"
 					]
 				}
 			],
