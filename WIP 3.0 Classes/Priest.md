@@ -384,7 +384,7 @@ The words are presented in alphabetical order.
 
 ***Barrier.*** When a creature within 60 feet that you can see is targeted for an attack, you may expend one use of Devotion as a reaction to impose disadvantage on the triggering attack, and on all attack rolls against that creature till the start of their next turn. <!-- Also called Deflect -->
 
-***Beckon.*** When a creature you can see within 60 feet would fail a saving throw against an effect that deals half damage on a successful save, you can spend a use of Devotion to beckon to them as a reaction. They are pulled to an unoccupied space within 5 feet of you and they succeed on the saving throw instead.
+***Beckon.*** When a creature you can see within 60 feet of you fails a saving throw against an effect that deals half damage on a successful save, you can spend one use of Devotion to beckon them to you as a reaction. They are pulled to an unoccupied space within 5 feet of you and add your Charisma modifier to their saving throw, potentially turning it into a success.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/873nzvm.png' style='position:absolute; top:0px; right:65px; width:300px; z-index:1000' />
@@ -413,7 +413,7 @@ The words are presented in alphabetical order.
 
 <div style='margin-top:56px;'></div>
 
-> ### Light vs Shadow
+> ### The Light and the Void
 > The two sources of power that a priest can draw upon--the Light and the Void--are diametrically opposed. In fact, it is believed by some that it was the mixing of the two energy sources which led to a series of cosmic-level explosions that gave birth to the physical universe. A devout Holy priest would not dare draw upon the power of the Void, nor could a powerful acolyte of Shadow draw deep upon the Light without being burned.
 >
 > As such, while mechanically there are few restrict&shy;ions in the priest's spells and abilities enforcing this divide, players are encouraged to pick either the Light or the Void as their source of power and stick to abilities that match as much as possible--with certain notable exceptions such as discipline priests. 
@@ -442,7 +442,7 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 You gain one of the following features of your choice.
 
 #### Divine Strike
-You gain the ability to infuse your weapon strikes with divine energy. Choose either radiant or necrotic damage. Once per turn when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the chosen type.
+You gain the ability to infuse your weapon strikes with divine energy. Choose either necrotic, psychic, or radiant damage. Once per turn when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the chosen type.
 
 When you reach 14th level, the extra damage increases to 2d8.
 
@@ -494,7 +494,7 @@ Priest Level| Spells
 Whenever you cast a spell of 1st level or higher that deals damage, you can choose one creature you can see within 30 feet. That creature regains hit points equal to twice the spell's level.
 
 
-In addition, whenever you cast a spell of 1st level or higher that restores hit points, you can choose one creature you can see within 30 feet. That creature takes an amount of radiant or necrotic damage (your choice) equal to twice the spell's level.
+In addition, whenever you cast a spell of 1st level or higher that restores hit points, you can choose one creature you can see within 30 feet. That creature takes an amount of necrotic, psychic, or radiant damage (your choice) equal to twice the spell's level.
 
 You can use either effect of Atonement only once per casting of a spell. 
 
@@ -556,7 +556,7 @@ Priest Level| Spells
 *1st-level Holy feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-Whenever you use a spell slot of 1st level or higher to restore hit points or to cast a beneficial spell onto a creature, that creature regains a number of hit points at the start of your next turn equal to your proficiency bonus. 
+Whenever you use a spell slot of 1st level or higher to restore hit points or give another beneficial effect to one or more creatures, a creature of your choice among them regains a number of hit points at the start of your next turn equal to your proficiency bonus. 
 
 #### Renew Faith 
 *1st-level Holy feature*<br/>
@@ -580,9 +580,9 @@ Once you cast *calm emotions* in this way, you cannot do so again until you fini
 
 As an action, you can expend a use of Devotion to place a ward of mending onto a creature you can see within 30 feet of you for 1 minute. When that creature takes damage, they regain a number of hit points equal to 2d10 + your priest level, and gain resistance to damage for the rest of that turn, including the triggering damage. 
 
-In addition, The ward then immediately jumps to a friendly creature of your choice you can see within 30 feet of the first creature. If the second creature takes damage, they regain hit points equal 1d10 plus half your priest level. After the ward has restored hit points a second time, it disappears.
+In addition, The ward then immediately moves to another friendly creature of your choice you can see within 30 feet of the first creature. If this creature takes damage, they only regain hit points equal to 1d10 plus half your priest level. After the ward has restored hit points this way, it disappears.
 
-If the ward last for its full duration without restoring hit points, it restores hit points to the current creature by the amount it would as if it jumped (2d10 plus your priest level the first time, 1d10 plus half your priest level the second time)
+If the ward last for its full duration without restoring hit points, it restores hit points to the current creature by the amount it would as if it moved (2d10 plus your priest level the first time, 1d10 plus half your priest level the second time).
 
 At any time while the ward is up, you can use your bonus action to move the ward to another creature you can see within 30 feet of the warded creature. This does not trigger the healing or count as it jumping.
 
@@ -679,7 +679,7 @@ You learn how to invoke creature's deepest, darkest fears. When a creature start
 
 Your body becomes one with shadowy magic. While you have Shadowform active, you can move through creatures and objects as though they were difficult terrain. If you end your turn inside an object, you take 1d10 force damage. 
 
-In addition, you can manipulate even the strongest of minds. If you would try to inflict the frightened or charmed conditions on a creature who would be immune, the creature is treated as if it is frightened or charmed for the purpose of your priest abilities, and gains disadvantage on ability checks while you are in their line of sight. 
+In addition, you can manipulate even the strongest of minds. After trying to inflict the frightened or charmed conditions on a creature that is immune to them, until the end of your next turn the creature is treated as if it is frightened or charmed for the purpose of your priest abilities, and gains disadvantage on ability checks while you are in their line of sight for this duration. 
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/AqgsnIF.jpg' style='position:absolute; top:700px; left:80px; width:800px; ' />
