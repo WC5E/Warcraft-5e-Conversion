@@ -196,7 +196,7 @@
 *It is faith in ourselves that separates us from others, and with our powers, we will cause great change in all of Azeroth. The weak will come to lean on you. The lepers will call you Lord. And the ignorant will look to you for guidance.*
 <div style="text-align:Right"> 
 
-*— Dark Cleric Duesten*    </div>
+*— Dark Cleric Duesten*    </div>
 
 Bent over her fallen ally, a dwarf clutches her holy symbol and begins to sing a slow melodic tune. Holy light shines from her hand, causing the limp body to breathe once more.
 
@@ -355,7 +355,7 @@ Choose a divine calling, a path of priesthood that you have devoted yourself to:
 
 \columnbreak
 
-<div style='margin-top:240px;'></div>
+<div style='margin-top:220px;'></div>
 
 #### Calling Spells
 Each calling has a list of associated spells. You gain access to these spells at the levels specified in the calling description. Once you gain a calling spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
@@ -387,7 +387,7 @@ The words are presented in alphabetical order.
 ***Beckon.*** When a creature you can see within 60 feet of you fails a saving throw against an effect that deals half damage on a successful save, you can spend one use of Devotion to beckon them to you as a reaction. They are pulled to an unoccupied space within 5 feet of you and add your Charisma modifier to their saving throw, potentially turning it into a success.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/873nzvm.png' style='position:absolute; top:0px; right:65px; width:300px; z-index:1000' />
+<img src='https://www.gmbinder.com/images/873nzvm.png' style='position:absolute; top:0px; right:75px; width:285px; z-index:1000' />
 
 \pagebreakNum
 
@@ -623,7 +623,7 @@ Priest Level| Spells
 1st |*cause fear* ^XGE^, *✦ dark void*
 3rd |*✦ mind flay*, *phantasmal force*
 5th |*✦ void shift*, *vampiric touch*
-7th |*evard's black tentacles* *✦ schism*
+7th |*evard's black tentacles*, *✦ schism*
 9th |*contagion*, *enervation* ^XGE^
 
 #### Psychic Voice 
