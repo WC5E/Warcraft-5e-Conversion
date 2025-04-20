@@ -123,7 +123,7 @@
   .phb .footnote {color: rgba(0, 0, 0, 0.5)}
   
   /* Bottom metalwork art */
-  .phb:nth-child(odd):after{ 
+  .phb:nth-child(odd):not(:last-child):after { 
     content          : '';
     position         : absolute;
     bottom           : -7px;
@@ -135,7 +135,7 @@
     background-size  : cover;
   }
   /* Bottom metalwork art */
-  .phb:nth-child(even):after{ 
+  .phb:nth-child(even):not(:last-child):after { 
     content          : '';
     position         : absolute;
     bottom           : -7px;
@@ -190,13 +190,15 @@
 
 </style>
 
-<div style='margin-top:344px;'></div>
+<div style='margin-top:330px;'></div>
 
 ## Priest
 *It is faith in ourselves that separates us from others, and with our powers, we will cause great change in all of Azeroth. The weak will come to lean on you. The lepers will call you Lord. And the ignorant will look to you for guidance.*
 <div style="text-align:Right"> 
 
-*— Dark Cleric Duesten*    </div>
+*— Dark Cleric Duesten* &nbsp;</div>
+
+<div></div>
 
 Bent over her fallen ally, a dwarf clutches her holy symbol and begins to sing a slow melodic tune. Holy light shines from her hand, causing the limp body to breathe once more.
 
@@ -217,7 +219,7 @@ The Void, like the Light, is not necessarily "evil." Yet its very nature is host
 
 \columnbreak
 
-<div style='margin-top:514px;'></div>
+<div style='margin-top:510px;'></div>
 
 ### Devoted Acolytes
 Priests channel their power through their conviction, not a direct connection to a religious patron. While priests sometimes worship a particular powerful being or deity, their power instead comes from their belief, from following a particular religious or moral philosophy; from this belief, power flows. A doubtful priest is a powerless priest.
@@ -233,8 +235,8 @@ The most important decision for a priest is which religion to follow. Becoming a
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/ydhgeyS.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
-<img src='https://www.gmbinder.com/images/vn90cy3.png' style='position:absolute; top:0px; right:-100px; width:900px' />
-<img src='https://www.gmbinder.com/images/lyv4YVJ.png' style='position:absolute; top:-130px; right:-100px; width:600px' />
+<img src='https://www.gmbinder.com/images/vn90cy3.png' style='position:absolute; top:-40px; right:-100px; width:900px' />
+<img src='https://www.gmbinder.com/images/lyv4YVJ.png' style='position:absolute; top:-125px; right:-100px; width:580px' />
 
 \pagebreakNum
 
@@ -687,110 +689,118 @@ In addition, you can manipulate even the strongest of minds. After trying to inf
 
 \pagebreakNum
 
-## Changelog
 
-### 7/1/2022 - Priest v3.1.3
-- Added Art!
-- Devotions: Added this "When you use your Devotion, *you brandish your holy symbol and choose which effect*" 
-- Devotion Dispel: renamed to Purify, moved to appropriate spot
-- Unwavering Faith: may replaced to can
-- Subclass Devotions: final sentence changed to "After you use this Devotion option, you cannot use it again until you finish a short or long rest, or unless you expend two uses of Devotion to use it again."
-- Discipline Subclass:
-    - Calling spells: 4th level spells changed to Mordekainen's Private Sanctum and Otiluke's Resilient Sphere
-    - Twist of Fate: Changed the first "after" to "when"
-    - Pain Suppression: Added "until your incapacitated *or die* "
-    - Rapture: Last sentence changed to "any Atonement damage or healing increases by an amount equal to half your priest level. "
-- Holy Subclass:
-    - Clarified wording on Prayer of Mending, changed the ability to move it from a reaction to a bonus action.
-- Shadow Subclass:
-    - Mind Sear: Changed to work on even non-frightened and charmed targets, but now does bonus damage to these creatures.   
-- Spell List:
-    - Added Alternative Spell Name Table  
-    - 5e Spells Added:
-        - Charm Person, Enemies Abound, Fast Friends, Gift of Gab, Tasha's Mind Whip, Intellect Fortress, Rary's Telepathic Bond, Tether Essence 
-    - New Priest Spells Made:
-        - Apotheosis, Archangel, Devouring Plague, Halo, Holy Nova, Luminous Barrier, Mass Dispel, Salvation, Schism, Shadowy Apparitions, Summon Void Being     
-    - Priest Spell Changes:
-        - Dark Void: Fixed scaling damage from 1d4 to 1d6 
-        -Divine Star: Healing boosted from 1d8 to 2d8 
-        - Exorcism: base damage lowered from 4d8 to 3d8 
-        - Fade: Added "from an attack" to its trigger        
-        - Inner Will: Changed spell from "The target creature can use your spellcasting modifier in place of its Wisdom for Wisdom saving throws made to resist or end early effects from aberrations, fiends, and undead," to " The target adds your Wisdom modifier to its own while making Wisdom saving throws. This effect lasts for duration or until the target passes a Wisdom Saving throw it would have otherwise failed."
-        - Luminous Barrier: Added "Until the spell ends, the aura moves with you, centered on you." to spell.  
-        
-\columnbreak
-- Priest Spell Changes (continued): 
-    - Mind Blast: Fixed scaling damage from 1d10 to 1d8, replaced last sentence with "If this damage would prompt a concentration check, that check is made with disadvantage." 
-    - Psychic Horror: Added this line to the end- "If the creature was already frightened and failed the save, they are also stunned while they remained frightened, or until the take damage.
-    - Shadowy Apparitions: Added this line "A creature who fails this saving throw also has their movement speed reduced to 0 till the start of their next turn, " and changed the beginning on how the apparitions are made. Also, damage per apparitions is decreased from 8d6 to 3d6. 
-    - Summon Void Being: Added following line to Mindbender Tentalce attack: "However, the target's speed is not reduced to 0." 
-    - Void Shift: Moved from 4th level to 3rd level. 
 
-### 6/6/2022 - Priest v3.1.2
+<style>
 
-- Shadow Subclass Reworked from the ground up 
-- Typos fixed all around
+/* BACK PAGE STYLES */
 
-### 2/17/2022 - Priest v3.1.1
-- Core Class Changes:
-    - Fixed some typos all around
-    - Devotion Beckon: changed effect to give a success on a save in addition to the movement
-    - Removed Inner Fire, and Inner Will in the core class
-    - Inner Focus changed name to Unwavering Faith, cost a reaction, and moved to 8th level
-    - Moved Prodigy of Faith to 17th level
-    - Added 10th level subclass levels, moved capstone from 17th to 18th level
-- Discipline Subclass:
-    - Disc Calling spells: Darkness is replaced with Zone of Truth 
-    - Atonement: Changed scaling to two times spell level, and specified can only happen once per casting of a spell
-    - Twist of Fate: Added “when you or a creature you can see within 60 feet” to the beginning of the text.
-    - Spirit Shield: Removed resistance to physical damage, temp HP dropped to PB.
-    - Added Rapture
-- Holy Subclass:  
-    - Calling Spells: Divination changed to Aura of Life   
-    - Prayer of Mending: Added some clarification text all around
-    - Holy Fire: Changed “the next weapon attack” to “The next attack the creature lands”
-    - Added Symbol of Hope
-- Shadow Subclass: 
-    - Shadow Calling spells: Shadow Crash is replaced with Contagion
-    - Fortress of the Mind: Changed prof of Intimidation to adv on Char checks for 24 hrs, and removed the 1 creature limitation, moved to 10th level.
-    - Shadowform: Added "and becomes frightened of you until the start of your next turn" to the reaction
-    
-\pagebreakNum
-- Shadow Subclass (continued):
-    - Shadow Orbs: Now are created on inflicting a condition, not from damage rolls. Also, added and removed some effects
-- Spells:
-    - Added: Levitate, Invisibility, Greater Invisibility, Heroism, Detect Poison And Disease,  Aura of Vitality, Motivational Speech, Raulothim’s Psychic Lance, Skill Empowerment
-    - Angelic Feather: Moved to 2nd level, removed Dodge and changed to either resistance to fall damage 
-    - Dark Void: Upped damage from 2d4 to 2d6, added “a creature who fails the saving throw can’t regain hit points until the start of your next turn”.
-    - Divine Star: Upped dice to d8s, and damage is 3d8
-    - Mind Blast: Lowered damage from 1d10 to 1d8, and added a disadvantage effect on concentration effects.
-    - Mind Flay: Clarified some language
-    - Shadow Crash: Changed damage from 8d8 necrotic to 4d8 necrotic and 4d8 psychic
-    - Void Shift: Added “ This spell has no effect on a creature who is incapacitated or at 0 hit points.”
-    - Exorcism: Fixed scaling damage, and specified that attacking a charmed or possessed creature only does damage to its charmer or possesser in range.
-    - Fade: Changed it to 2nd level instead of 3rd.
-    - Inner Fire: Added Self only, Duration 8 hrs, Replaced the last sentence with “gains advantage on saving throws against and to end early the frightened condition”
+  /* Remove footer from back page, replace pX with last page number */
+  .phb#pX:after { display:none; }
 
-### 2/13/2022 - Priest v3.1 released
+  .phb .back-cover-content {
+    padding-left: 4px;
+    padding-right: 16px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
+  }
+  .phb .back-cover-right {
+      padding-left: 40px;
+  }
+  .phb .back-cover-image {
+    height: 1136px;
+    left: -20px;
+    top: -10px;
+    width: 475px;
+    background-size: 475px 1136px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
+  }
+  .phb .back-cover-diamond {
+    display: block;
+    position: initial;
+    left: initial;
+    top: initial;
+    margin: auto;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+  }
+ .phb .back-cover-logo-container {
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 314px;
+ }
+ .phb .back-cover-logo,
+ .phb .back-cover-logo-link {
+     position: initial;
+     margin: auto;
+     margin-bottom: 8px;
+     left: initial;
+     bottom: initial;
+     right: initial;
+     background-repeat: no-repeat;
+ }
+ 
+ </style>
+ 
+ <img src='https://www.gmbinder.com/images/4UrFsXk.jpg' style="position:absolute; right:-194px; bottom:0px; height:1160px;" />
+ 
+ <div class='back-cover-image'></div>
+ 
+ <div style='margin-top:20px;'></div>
+ 
+ <div class='back-cover-header'>
+ 
+ Warcraft
+ 
+ 5th Edition
+ 
+ </div>
+ 
+<div class='back-cover-text'>
+ 
+  *WC5E Heroes Handbook v3*
+ 
+  This document is part of the third major revision of our *Warcraft 5th Edition* project; a collection of player classes, races, backgrou&shy;nds, creature statblocks, and more to put a Warcraft spin on core Dungeons & Dragons material.
 
-### 7/25/2023 - Tyloris Edit
-- Overall formatting fixes.
-- Many small grammar and spelling checks.
-- Completely revised the introduction.
-- Added footnote to each page.
-- Rearranged the priest class table, removing the Devotion column.
-- Added suggested background to quick build section.
-- Removed herbalism kit from starting proficiencies. Priests are not known for their skills with herbs.
-- Replaced mace with club for starting equipmen, as priests are less martial than clerics. Removed one of the two daggers and herbalism kit from starting equipment and replaced with healer's kit. Added crossbow or simple weapon option, for consistency.
-- Switched order of Spellcasting and Divine Calling, following the cleric's example.
-- Reverted example spell in Spellcasting from Flash Heal (which is no longer a spell) to Cure Wounds.
-- Added an equivalent ability to Harness Divine Power from Tasha's Cauldron of Everything to Devotion.
-- Added missing Ability Score Improvement feature, as well as Divine Versatility.
-- Added a range to the Divine Word: Beckon.
-- Language clarification of Divine Word: Fortitude.
-- Changed Divine Word: Pain to a reaction.
-- Added Light vs Shadow sidebar.
-- Rearranged Unwavering Faith's features into alphabetical order.
-- Clarified that Divine Strike's damage type is chosen at selection.
-- Restricted Power Infusion to priest cantrips.
-- Added "(with a minimum bonus of +1)" to the Power Infusion and Unwavering Faith abilities.
+  We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
+  
+  [Our project on Github](https://github.com/WC5E/Warcraft-5e-Conversion/) <br />
+  [Our community on Reddit](https://www.reddit.com/r/wc5e/) <br />
+  [Our community on Discord](https://discord.com/invite/dKMJmmD)
+  
+</div>
+ 
+<div class='back-cover-diamond' style='top: 679px;'></div>
+ 
+<div style='margin-top:35px;'></div>
+ 
+<div class='back-cover-close'>
+
+  Big love from the team. ❤
+
+   
+</div>
+
+<div class='back-cover-logo-container'>
+ 
+  <div class='back-cover-logo'></div>
+ 
+  <div class='back-cover-logo-link'>
+ 
+  [WWW.GMBINDER.COM](https://www.gmbinder.com)
+ 
+  </div>
+
+</div>
+ 
+ \columnbreak
+ 
+
+<div class='back-cover-right'>
+
+</div>
