@@ -564,17 +564,11 @@ Whenever you use a spell slot of 1st level or higher to restore hit points or gi
 *1st-level Holy feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-You learn the *calm emotions* spell and always have it prepared. In addition, you can cast this spell without expending a spell slot. When you do so, you can only target one creature with it, and in addition to the other effects of the spell, when a creature fails the saving throw, you can choose to learn one of the following things about the creature:
-* One bond
-* One value
-* One hope
-* One flaw
-
-\columnbreak
-
-&nbsp;&nbsp;&nbsp; The creature does not become aware that you learn this information from them.
+You learn the *calm emotions* spell and always have it prepared. In addition, you can cast this spell without expending a spell slot. When you do so, you can only target one creature with it, and in addition to the other effects of the spell, when a creature fails the saving throw, you can choose to learn your choice of one bond, value, hope, or flaw that creature possesses. The creature does not become aware that you learn this information from them.
 
 Once you cast *calm emotions* in this way, you cannot do so again until you finish a short or long rest. 
+
+\columnbreak
 
 #### Devotion: Prayer of Mending
 *2nd-level Holy feature*<br/>
