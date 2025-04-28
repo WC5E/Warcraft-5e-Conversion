@@ -17,7 +17,6 @@
     .phb h5{ line-height: 17px; } 
     th, td { line-height: 14px; }
 
-
 /* TABLE OF CONTENTS  */
 
   /* toc specifically wants black text. This resets the headers*/
@@ -302,7 +301,7 @@ ___
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
- - *(a)* quarterstaff or *(b)* a dagger
+ - *(a)* a quarterstaff or *(b)* a dagger
  - *(a)* a component pouch or *(b)* an arcane focus
  - *(a)* a scholar's pack or *(b)* an explorer's pack
  - A spellbook
@@ -662,11 +661,11 @@ At the end of a long rest, you can conjure a new water elemental. If you already
 *6th-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
 
-Whenever a creature would take cold damage from one of your mage spells, its movement speed is reduced by 10 feet until the end of your next turn.
+Whenever a creature takes cold damage from one of your mage spells, its movement speed is reduced by 10 feet until the end of your next turn.
 
-When a creature has its speed reduced in this way, you can spend one sorcery point: that creature must succeed on a Strength saving throw against your spell save DC or be restrained for 1 minute. If a creature lands a successful hit against the creature the conditions caused by Brain Freeze are removed.
+When a creature has its speed reduced in this way, you can spend one sorcery point to force that creature to make a Strength saving throw against your spell save DC. On a failure, that creature is restrained for 1 minute or until a creature lands a hit against it. 
 
-Beginning at 14th level the creature becomes paralyzed instead of restrained.
+Beginning at 14th level, a creature who fails the saving throw is paralyzed instead of restrained.
 
 #### Hands of Frost
 *10th-level Study of Frost feature* 
@@ -681,14 +680,14 @@ In addition, you can now spend sorcery points to cause the effect of Brain Freez
 ***Water Elemental.*** Your water elemental changes into an ice elemental and gains the following additional benefits:
 
 - It gains immunity to cold damage.
-- Brain Freeze now applies to cold damage caused by the elemental.
-- It can cast the *sleet storm* spell once per long rest, using your spell save DC (requires your bonus action).
+- Any cold damage caused by your Water elemental gains the benefits of your Brain Freeze feature.
+- It can cast the *sleet storm* spell once per long rest, using your spell save DC. You still concentrate on this casting of the spell. 
 
 #### Ring of Frost
 *14th-level Study of Frost feature* 
 <div style='margin-top:-4px'></div>
 
-You can use your action to conjure up a ring of magical runes to invoke the deepest cold around a point you can choose within 60 feet. The ring has a 30-foot-radius and fills a 10-foot tall cylinder with frigid cold. 
+You can use your action to conjure up a ring of magical runes to invoke the deepest cold around a point you can see within 60 feet. The ring has a 15-foot-radius and fills a 10-foot tall cylinder with frigid cold. 
 
 \columnbreak
 
@@ -728,9 +727,9 @@ ___
 > ### Reactions
 > ***Freeze.*** When a creature within reach hits the water elemental with a melee attack, the water elemental can attempt to grapple it.
 
-Creatures inside the area must succeed on a strength saving throw against your spell save DC or become paralyzed for up to 1 minute or until they take damage. If a creature’s body is fully inside the area the save is made with disadvantage. On a successful save a creature isn't restrained.
+This area counts as difficult terrain for any creature other than you, and any ranged attacks made in or through it are made with disadvantage.  
 
-Additionally creatures passing through the area with non-magical means have their movement speed halved until the end of their next turn after leaving the area. Additionally ranged attacks made through the area are made with disadvantage.
+Creatures who start their turn, or enters the area for the first time on a turn must succeed on a Strength saving throw against your spell save DC or become restrained for 1 minute or until they take damage. A creature fully inside this area makes the save with disadvantage. On a success, a creature still feels the effect of the cold, having their movement speed halved upon leaving the area until the end of their next turn. 
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
@@ -741,89 +740,19 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 \pagebreakNum
 
-# Update 3.0-preview-2
-
-<br/>
-
-These are the changes made to the class since the last update released for the class (3.0.0).
-
-### General
-- Initial page has been rewritten a bit, "Creating a Mage" has been moved up there.
-- Quick creation pointers have been fleshed out.
-- Added full functionality of Sorcery Points and Metamagic.
-- Removed Arcane Recovery, due to the change above.
-- Additional ribbon feature for first level.
-- 18th and 20th level unchanged (Spell Mastery, Signature Spell)
-
-### Arcane
-- Completely reworked!
-- Arcane focuses more on combat and off combat utility with a combination of time manipulation, general mastery over spell usage.
-- Arcane Charges got reworked into a buff mechanic.
-- Rune of Power was replaced with Time Warp. Provides a action surge like reaction ... for a price.
-
-### Fire
-- Empowered Evocation has been replaced. 
-The intention is to capitalize more on crits instead of guaranteed damage and to provide some synergy with Hot Streak of the subclass.
-
-### Frost
-- Reworked Brain Freeze feature. The movement speed reduction now happens automatically. The restrain is coupled to sorcery points and a single saving throw.
-This should make the feature more reliable and less time consuming.
-- Replaced Spell Sculptor with Ring of Frost. 
-A big AoE to slow down a big area and potentially freezing creatures within.
-
-### Errata
-- Some spelling issues that had to be fixed, small errata, and a change to how Time Warp was worded.
-- Replaced Tasha's Cauldron reprint with sidebar.
-- Added missing ability to turn spell slots to sorcery points.
-- Added Cantrip Formulas feature to 3rd level.
-- Added Sorcerous Versatility as a sub-feature of Ability Score Improvement.
-- Artwork and formatting changes.
-
-\columnbreak
-
-<br/>
-
-## Credits
-
-**Provide feedback for this document:** We'd really love your opinion on this material. You can do so by: 
-- Joining the conversation on [Discord](https://discord.com/invite/dKMJmmD). <br /> (Or just messaging an active Contributor there.)
-- Sharing your thoughts with us on [Reddit](https://www.reddit.com/r/wc5e/).
-- Writing to us via this [Google Form](https://forms.gle/FSbyK7nBbquPNVf36).
-
-<br />**Current core team:** Ace Azzermeen, Auvreannia, Geamros, Lorestalker Nemzal, MythMaker, Nagash, OmNomDom33887, Tangerine, Tyloris
-<br />
-
-<br />**Inactive & former team members:** 123jrf, ApolloLumina, Artipo, Christinekn, ClockWorkTank, Elenus, Jih, Prometheus, Reiga, Silverblade, Tseims, Wyken
-<br />
-
-<br />**Big thanks to:** Everyone at our community Discord. Link to join our communities are on the book's back page!
-<br />
-
-<br />**Projects we like and want to give thanks to:**
-- [The WoW 5E Project](https://www.thepiazza.org.uk/bb/viewtopic.php?t=13979) by Arrius Nideal
-- [This Warcraft project](https://drive.google.com/drive/folders/1f07sWuQJ_MBJxKbToalevudGQ8hjnma7) by Silverblade#9212
-- [These WoW Dungeon modules](https://www.gmbinder.com/profile/wyken) by Wyken
-- All of the awesome homebrew that has been shared within the community, it's super cool to see it all! You can see a lot of it on our Discord, and in this [Theme of the Month](https://drive.google.com/drive/folders/1_inQbI4jjd6WF3ghzhr_9RYBFygAkVK1) collection.
-
-<br />**Page 1 Art:** "Human Mage" by [Glenn Rane](https://wow.gamepedia.com/File:ArtHumanMage.jpg)
-<br /> **Page 1 Art:** [Hall of the Guardian loading screen](https://wow.gamepedia.com/File:Hall_of_the_Guardian_loading_screen.jpg)
-<br /> **Page 5 Art:** [Mage Crest](https://wowpedia.fandom.com/wiki/Mage?file=Mage_Crest.png) from World of Warcraft
-<br /> **Page 5 Art:** "The High Elf Kingdom of Quel'Thalas" by Peter C. Lee (World of Warcraft: Chronicle Volume 1)
-<br /> **Page 7 Art:** Jaina Proudmoore by James Ryman, from [Hearthstone](https://blizzard.gamespress.com/Hearthstone-Mercenaries---Launch-Press-Kit)
-<br /> **Backpage Art:** "Wardens of Nordrassil" by [Kan Liu](https://666kart.artstation.com/projects/6qo6)
-
-\pagebreakNum
-
 <style>
 
 /* BACK PAGE STYLES */
 
   /* Remove footer from back page, replace pX with last page number */
-  .phb#p21:after { display:none; }
+  .phb#pX:after { display:none; }
 
   .phb .back-cover-content {
     padding-left: 4px;
     padding-right: 16px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
   }
   .phb .back-cover-right {
       padding-left: 40px;
@@ -834,6 +763,9 @@ A big AoE to slow down a big area and potentially freezing creatures within.
     top: -10px;
     width: 475px;
     background-size: 475px 1136px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
   }
   .phb .back-cover-diamond {
     display: block;
@@ -874,24 +806,15 @@ A big AoE to slow down a big area and potentially freezing creatures within.
  
  Warcraft
  
- </div>
-
- <div style='margin-top:30px;'></div>
-
- <div class='back-cover-header'>
- 
  5th Edition
  
  </div>
-
- <div style='margin-top:30px;'></div>
-
  
 <div class='back-cover-text'>
  
-  *Part of the WC5E Heroes Handbook v3*
+  *WC5E Heroes Handbook v3*
  
-  This document is a part of an upcoming update (as of writing this) to our *Warcraft 5th Edition Heroes Handbook*; a massive tome of player classes, races, and backgrounds to put a Warcraft spin on core Dungeons & Dragons material.
+  This document is part of the third major revision of our *Warcraft 5th Edition* project; a collection of player classes, races, backgrou&shy;nds, creature statblocks, and more to put a Warcraft spin on core Dungeons & Dragons material.
 
   We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
   
@@ -925,7 +848,6 @@ A big AoE to slow down a big area and potentially freezing creatures within.
 </div>
  
  \columnbreak
- 
 
 <div class='back-cover-right'>
 
