@@ -453,6 +453,18 @@ When you make a concentration check, you can use your reaction to add your Chari
 
 \pagebreakNum
 
+### Unwavering Faith
+*14th-level priest feature*<br/>
+<div style='margin-top:-4px;'></div> 
+
+The option you chose for Empowering Faith grows more powerful.
+
+***Divine Strike.*** The extra damage of your Divine Strike increases to 2d8.
+
+***Power Infusion.*** When you cast a priest cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of Temporary Hit Points equal to twice your Charisma modifier.
+
+***Unwavering Will.*** While concentrating on a spell, you gain a +2 bonus to your AC. 
+
 ### Prodigy of Faith
 *17th-level priest feature*<br/>
 <div style='margin-top:-4px;'></div>
@@ -510,8 +522,8 @@ As an action, you can expend a use of Devotion to grant a barrier to a creature 
 Once you use this feature, you can't do so again until you finish a long rest, unless you spend two uses of Devotion to use it again.
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/WrVZQmR.png' style='position:absolute; bottom:-30px; right:-100px; width:900px; transform:scaleX(-1)' />
-<img src='https://www.gmbinder.com/images/vn90cy3.png' style='position:absolute; top:-60px; right:-250px; width:1100px; transform:scale(-1)' />
+<img src='https://www.gmbinder.com/images/WrVZQmR.png' style='position:absolute; bottom:-40px; right:-100px; width:900px; transform:scaleX(-1)' />
+<img src='https://www.gmbinder.com/images/vn90cy3.png' style='position:absolute; top:-10px; right:-240px; width:1100px; transform:scale(-1)' />
 
 \pagebreakNum
 
