@@ -243,28 +243,28 @@ The most important decision for a priest is which religion to follow. Becoming a
 <div class='classTable wide'>
 
 ##### The Priest 
-|Level|Proficiency<br>Bonus|Features|Cantrips<br>Known||1st||2nd||3rd||4th||5th||6th||7th||8th||9th <div style="position: absolute; top:100px; right:81px; width:200px; height:25px">—Spell Slots per Spell Level—</div>|
-|:---:|:--:|:----------|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|
-| 1st | +2 | Spellcasting, Divine Calling                       |3||2||—||—||—||—||—||—||—||—|
-| 2nd | +2 | Devotion (x2), Divine Calling feature              |3||3||—||—||—||—||—||—||—||—|
-| 3rd | +2 | —                                                  |3||4||2||—||—||—||—||—||—||—|
-| 4th | +2 | Ability Score Improvement                          |4||4||3||—||—||—||—||—||—||—|
-| 5th | +3 | Devotion (x3), Divine Word (2)                     |4||4||3||2||—||—||—||—||—||—|
-| 6th | +3 | Divine Calling feature                             |4||4||3||3||—||—||—||—||—||—|
-| 7th | +3 | —                                                  |4||4||3||3||1||—||—||—||—||—|
-| 8th | +3 | Ability Score Improvement, Empowered Faith         |4||4||3||3||2||—||—||—||—||—|
-| 9th | +4 | Devotion (x4)                                      |4||4||3||3||3||1||—||—||—||—|
-| 10th| +4 | Divine Calling feature, Divine Word (3)            |5||4||3||3||3||2||—||—||—||—|
-| 11th| +4 | —                                                  |5||4||3||3||3||2||1||—||—||—|
-| 12th| +4 | Ability Score Improvement                          |5||4||3||3||3||2||1||—||—||—|
-| 13th| +5 | Devotion (x5)                                      |5||4||3||3||3||2||1||1||—||—|
-| 14th| +5 | Divine Word (4)                                    |5||4||3||3||3||2||1||1||—||—|
-| 15th| +5 | —                                                  |5||4||3||3||3||2||1||1||1||—|
-| 16th| +5 | Ability Score Improvement                          |5||4||3||3||3||2||1||1||1||—|
-| 17th| +6 | Prodigy of Faith, Devotion (x6)                    |5||4||3||3||3||2||1||1||1||1|
-| 18th| +6 | Divine Calling feature                             |5||4||3||3||3||3||1||1||1||1|
-| 19th| +6 | Ability Score Improvement                          |5||4||3||3||3||3||2||1||1||1|
-| 20th| +6 | Embrace Calling                                    |5||4||3||3||3||3||2||2||1||1|
+|Level|Proficiency<br>Bonus|Features|Devotion||Cantrips<br>Known||1st||2nd||3rd||4th||5th||6th||7th||8th||9th <div style="position: absolute; top:100px; right:81px; width:200px; height:25px">—Spell Slots per Spell Level—</div>|
+|:---:|:--:|:----------|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|-|:-:|
+| 1st | +2 | Spellcasting, Divine Calling                       |—||3||2||—||—||—||—||—||—||—||—|
+| 2nd | +2 | Devotion, Divine Calling feature                   |2||3||3||—||—||—||—||—||—||—||—|
+| 3rd | +2 | —                                                  |2||3||4||2||—||—||—||—||—||—||—|
+| 4th | +2 | Ability Score Improvement                          |2||4||4||3||—||—||—||—||—||—||—|
+| 5th | +3 | Divine Word (2)                                    |3||4||4||3||2||—||—||—||—||—||—|
+| 6th | +3 | Divine Calling feature                             |3||4||4||3||3||—||—||—||—||—||—|
+| 7th | +3 | Empowering Faith                                   |3||4||4||3||3||1||—||—||—||—||—|
+| 8th | +3 | Ability Score Improvement                          |3||4||4||3||3||2||—||—||—||—||—|
+| 9th | +4 | Divine Word (3)                                    |4||4||4||3||3||3||1||—||—||—||—|
+| 10th| +4 | Divine Calling feature                             |4||5||4||3||3||3||2||—||—||—||—|
+| 11th| +4 | —                                                  |4||5||4||3||3||3||2||1||—||—||—|
+| 12th| +4 | Ability Score Improvement                          |4||5||4||3||3||3||2||1||—||—||—|
+| 13th| +5 | Divine Word (4)                                    |5||5||4||3||3||3||2||1||1||—||—|
+| 14th| +5 | Unwavering Faith                                   |5||5||4||3||3||3||2||1||1||—||—|
+| 15th| +5 | —                                                  |5||5||4||3||3||3||2||1||1||1||—|
+| 16th| +5 | Ability Score Improvement                          |5||5||4||3||3||3||2||1||1||1||—|
+| 17th| +6 | Divine Word (5), Prodigy of Faith                  |6||5||4||3||3||3||2||1||1||1||1|
+| 18th| +6 | Divine Calling feature                             |6||5||4||3||3||3||3||1||1||1||1|
+| 19th| +6 | Ability Score Improvement                          |6||5||4||3||3||3||3||2||1||1||1|
+| 20th| +6 | Embrace Calling                                    |6||5||4||3||3||3||3||2||2||1||1|
 
 </div>
 
