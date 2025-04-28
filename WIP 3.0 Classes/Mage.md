@@ -478,9 +478,6 @@ You have scribed a set of arcane formulas in your spellbook that you can use to 
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2. or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-#### Sorcerous Versatility (Optional)
-When you reach a level in this class that grants the Ability Score Improvement feature, you can do replace one of the options you chose for the Metamagic feature with a different Metamagic option available to you, representing the magic within you flowing in new ways.
-
 <div class='footnote'>PART 1 | CLASSES</div>
 
 ### Spell Mastery
@@ -501,10 +498,10 @@ You gain mastery over two powerful spells and can cast them with little effort. 
 
 When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
-\columnbreak
-
 ## Magical Studies
 Mages are spellcasters who favor magics involving the cardinal elements of the universe. Students gifted with a keen intellect and unwavering discipline may walk the path of the mage. The magic available to mages is both great and dangerous, and thus is revealed only to the most devoted practitioners.
+
+\columnbreak
 
 ### Study of Arcane
 Mages of the arcane are diviners of secrets, balancing the ebb and flow of incredible mystic energies. These practi-tioners push their magical knowledge to its very limits. Those who master this craft are capable to manipulate spells on a much more primal level.
@@ -532,6 +529,14 @@ You may expend an arcane charge to grant yourself one of the following effects. 
 
 After rolling initiative, but before the first creature takes its turn, you can switch your result with the result of another creature that you can see. Once you've done so you can't use this feature again until you finish a long rest.
 
+#### Arcane Brilliance
+*6th-level Study of Arcane feature* 
+<div style='margin-top:-4px'></div>
+
+You gain proficiency in the Arcana skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make with it.
+
+Additionally, you are always under the effects of a *comprehend languages* spell.
+
 <img src='https://www.gmbinder.com/images/8W9yFbL.jpg' style='position:absolute; bottom:-250px; right:-173px; width:1000px' />
 
 <img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:105px; left:0px; width:100%; height:100%' />
@@ -543,14 +548,6 @@ After rolling initiative, but before the first creature takes its turn, you can 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
 \pagebreakNum
-
-#### Arcane Brilliance
-*6th-level Study of Arcane feature* 
-<div style='margin-top:-4px'></div>
-
-You gain proficiency in the Arcana skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make with it.
-
-Additionally, you are always under the effects of a *comprehend languages* spell.
 
 #### Presence of Mind
 *10th-level Study of Arcane feature* 
