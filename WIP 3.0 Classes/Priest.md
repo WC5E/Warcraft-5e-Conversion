@@ -432,33 +432,26 @@ The words are presented in alphabetical order.
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-#### Divine Versatility (Optional)
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus:
-- Replace an option you chose for the Divine Words feature with one of that feature's other options.
-- Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the warlock spell list.
-
 ### Empowering Faith
 *8th-level priest feature*<br/>
 <div style='margin-top:-4px;'></div> 
 
-You gain one of the following features of your choice.
+Your faith infuses you with power. You gain one of the following options of your choice.
 
-#### Divine Strike
-You gain the ability to infuse your weapon strikes with divine energy. Choose either necrotic, psychic, or radiant damage. Once per turn when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the chosen type.
+#### Divine Strike  
+You infuse your weapon strikes with divine energy. Choose either necrotic, psychic, or radiant damage. Once per turn when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the chosen type.
 
-When you reach 14th level, the extra damage increases to 2d8.
+#### Power Infusion 
+You add your Charisma modifier (with a minimum bonus of +1) to the damage you deal with any priest cantrip.
+
+#### Unwavering Will 
+When you make a concentration check, you can use your reaction to add your Charisma modifier to it (with a minimum bonus of +1).
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/J5lW3Tw.png' style='position:absolute; top:0px; right:170px; width:110%; ' />
 <img src='https://www.gmbinder.com/images/E2VAlT7.png' style='position:absolute; bottom:-195px; right:-250px; height:100%px;' />
 
 \pagebreakNum
-
-#### Power Infusion
-You add your Charisma modifier (with a minimum bonus of +1) to the damage you deal with any priest cantrip.
-
-#### Unwavering Faith
-When you make a concentration check, you can use your reaction to add your Charisma modifier to it (with a minimum bonus of +1).
 
 ### Prodigy of Faith
 *17th-level priest feature*<br/>
