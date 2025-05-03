@@ -123,7 +123,7 @@
   .phb .footnote {color: rgba(0, 0, 0, 0.5)}
   
   /* Bottom metalwork art */
-  .phb:nth-child(odd):after{ 
+  .phb:nth-child(odd):not(:last-child):after {
     content          : '';
     position         : absolute;
     bottom           : -7px;
@@ -135,7 +135,7 @@
     background-size  : cover;
   }
   /* Bottom metalwork art */
-  .phb:nth-child(even):after{ 
+  .phb:nth-child(even):not(:last-child):after {
     content          : '';
     position         : absolute;
     bottom           : -7px;
