@@ -160,7 +160,7 @@
        left      : 12px;
    }
    .phb:nth-child(odd) .pageNumber.auto{
-       right      : 10px;
+       right      : 12px;
    }
 
 /* FRONT PAGE STYLES */
@@ -661,7 +661,7 @@ It's hard to make generalizations about humans, no matter where you were born yo
 ***Alignment.*** Humans tend toward no particular alignment. The best and the worst are found among them.
 
 ***Size.*** Humans range from barely 5 to well over 6 feet tall and weigh an average of 175 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 4 feet + 8 inches + your size modifier in inches
@@ -759,7 +759,7 @@ Your dwarf character has the following racial traits.
 ***Alignment.*** Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that all deserve to share in the benefits of a just order.
 
 ***Size.*** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 3 feet + 8 inches + your size modifier in inches
@@ -879,7 +879,7 @@ Your night elf character has the following racial traits.
 ***Alignment.*** Night elves live in close ties with the natural world, they have an unprecedented connection to nature and protect it fiercely, pulling many night elves towards good. They love freedom and variety, making most lean toward the gentler aspects of chaos as well.
 
 ***Size.*** Night elves are between 7 and 8 feet tall and weigh between 200 and 240 pounds. Your size is medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d8
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 7 inches + your size modifier in inches
@@ -978,7 +978,7 @@ Your gnome character has the following racial traits.
 ***Alignment.*** Gnomes are good-hearted, and even the tricksters amongst them are more playful than vicious. Those of evil alignment are often the result of madness. An innovative idea that consumed them.
 
 ***Size.*** Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 2 feet + 11 inches + your size modifier in inches
@@ -1095,7 +1095,7 @@ Draenei are members of the Alliance, having encountered the noble night elves sh
 
 ***Lightforged Draenei.*** These draenei emerged from the twisting nether to aid in the far against the Burning Legion during the Third Invasion of Azeroth. These draenei were welcomed into the Alliance as they re-joined their exodar kin found on Azeroth.
 
-***Broken Draenei.*** These draenei are outcasts that have never pledged allegiance to any faction on Azeroth. They inhabit the broken planet of
+***Broken Draenei.*** These draenei are outcasts that have never pledged allegiance to any faction on Azeroth. They inhabit the broken planet of Draenor and are as likely to work together with members of the Alliance as they are members of the Horde.
 
 <div style='margin-top:-5px;'></div>
 
@@ -1121,18 +1121,18 @@ Your draenei character has the following racial traits.
 ***Alignment.*** Draenei are mostly good. Those who strive towards law are sages, priests, paladins, vindicators, or scholars. Those who tend toward chaos are warriors, rangers, or in other ways people more fond of pure fighting.
  
 ***Size.*** Draenei are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d6
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 5 inches + your size modifier in inches
 <br>&nbsp;&nbsp;&nbsp; ***Weight in Pounds:*** 150 + (2d8 x your size modifier)
 </div>
 
+<div style='margin-top:-3x;'></div>
+
 &nbsp;&nbsp;&nbsp; ***Speed.*** Your base walking speed is 30 feet.
  
 ***Shadow Resistance.*** You have resistance against <br>necrotic damage.
-
-\columnbreak
 
 &nbsp;&nbsp;&nbsp; ***Languages.*** You can speak, read, and write Common and Draenei. The Draenei language, is a strange and compli-cated language for other races to learn. Seemingly having no resemblance with any Azerothian languages.
 
@@ -1244,14 +1244,14 @@ Your worgen character has the following racial traits.
 ***Alignment.*** Worgen tend to become chaotic, while originating from humans, the infection of their blood with the wolves has made them more unpredictable.
 
 ***Size.*** Like humans, they vary widely in height and build, most standing well over 6 feet tall, and weigh around 250 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 2 inches + your size modifier in inches
 <br>&nbsp;&nbsp;&nbsp; ***Weight in Pounds:*** 155 + (2d8 x your size modifier)
 </div>
 
-<div style='margin-top:-5px;'></div>
+<div style='margin-top:-3px;'></div>
 
 &nbsp;&nbsp;&nbsp; ***Speed.*** Your base walking speed is 30 feet. Your worgen claws gives you a climbing speed of 20 feet.
 
@@ -1345,7 +1345,7 @@ Your orc character has the following racial traits.
 ***Alignment.*** Orcs might not have an innate tendency toward evil, but many end up there. Evil or not, many orcs lean toward a chaotic alignment.
 
 ***Size.*** Orcs are between 6 and 7 feet tall and muscularly built, averaging around 300 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d8
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 5 feet + 10 inches + your size modifier in inches
@@ -1570,7 +1570,7 @@ Your tauren character has the following racial traits.
 ***Alignment.*** Most tauren are lawful, keeping to their tribal code. Those who are evil are shunned upon, most either outlaws or corrupted in some form.
 
 ***Size.*** Tauren are between 8 and 10 feet tall and weigh between 400 and 600 pounds. Your size is Medium, yet you tower over most other humanoids. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d12
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 7 feet + 11 inches + your size modifier in inches
@@ -1694,7 +1694,7 @@ Your troll character has the following racial traits.
 ***Alignment.*** Trolls are a neutral race and their alignment can vary drastically between subraces. Most trolls tend to be lawful, with each tribe often having particular customs and rules for tribesmen to abide by.
 
 ***Size.*** Trolls are between 7 and 8 feet tall and weigh between 200 and 300 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 5 feet + 8 inches + your size modifier in inches
@@ -1832,7 +1832,7 @@ Your blood elf character has the following racial traits.
 ***Alignment.*** Blood elves live in a society where ranks and titles carry tremendous weight and where strict laws have been put in place for them to follow, pushing them towards lawful alignments. Personal desires varies drastically, and both those of good and evil alignment exist.
 
 ***Size.*** Blood elves are between 5 and 6 feet tall and weigh between 125 and 175 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 4 feet + 9 inches + your size modifier in inches
@@ -1942,7 +1942,7 @@ Your goblin character has the following racial traits.
 ***Alignment.*** Most goblins lean towards chaotic neutral. They rarely show a sense of moral or consideration for the consequences of their actions, preferring to live in the moment and leave the troubles to tomorrow.
 
 ***Size.*** Goblins are between 3 and 4 feet and weigh between 40 and 80 pounds. Your size is Small. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 2 feet + 12 inches + your size modifier in inches
@@ -2042,7 +2042,7 @@ Your nightborne character has the following racial traits.
 ***Alignment.*** Order and structure are key to nightborne societies, they believe that reputation and status are of the utmost concern and that mortality and principles of right and wrong are viewed too often in that light. Most night&shy;borne are lawful.
 
 ***Size.*** Nightborne are between 7 and 8 feet tall and weigh between 180 and 220 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d8
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 8 inches + your size modifier in inches
@@ -2142,7 +2142,7 @@ Your pandaren character has the following racial traits.
 ***Alignment.*** Pandaren are a peaceful and sociable race that for the most parts tend to their own, making most pandarens neutral or good aligned. Pandarens are rare of an evil alignment and finding an evil pandaren is often the product of foul magic influencing its mind.
 
 ***Size.*** Pandaren are between 5 and 7 feet tall and weigh between 250 and 400 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 5 feet + 2 inches + your size modifier in inches
@@ -2233,14 +2233,14 @@ Your void elf character has the following racial traits.
 ***Alignment.*** Although chaos and unpredictability is pro&shy;minent in many void elves, they have maintained a lawful alignment similar to blood elves. Those that succumb to the void often turn chaotic in their alignment.
 
 ***Size.*** Void elves are between 5 and 6 feet tall and weigh between 125 and 175 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -15px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 4 feet + 9 inches + your size modifier in inches
 <br>&nbsp;&nbsp;&nbsp; ***Weight in Pounds:*** 100 + (2d4 x your size modifier)
 </div>
 
-<div style='margin-top:-5px;'></div>
+<div style='margin-top:-3px;'></div>
 
 &nbsp;&nbsp;&nbsp; ***Speed.*** Your base walking speed is 30 feet.
 
@@ -2305,7 +2305,7 @@ Your vulpera character has the following racial traits.
 &nbsp;&nbsp;&nbsp; ***Alignment.*** Most vulpera lean towards true neutral, they keep to themselves and care for the wellbeing of their own. However, their affection for other beings can often be inter&shy;preted as acts of kindness, even if it is not done out of the kindness of their hearts. 
 
 ***Size.*** Vulpera are between 3 and 4 feet and average about 50 pounds. Your size is Small. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 2 feet + 8 inches + your size modifier in inches
