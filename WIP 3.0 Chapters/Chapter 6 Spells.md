@@ -271,9 +271,14 @@
   
   <div style='margin-top:25px;'></div>
   
-  <div style='column-count:2'>
+  > ##### Variant Rule: On a Pale Horse
+  > GMs might consider making the creatures summoned by a death knight with *find steed* and *find greater steed* undead, rather than one of the creature types listed in those spells.
   
-  ### Death Kt. Spells
+  \columnbreak
+  
+  ### Death Knight Spells
+  
+  <div style='column-count:2'>
   
   ##### 1st Level
   Absorb Elements ^XGE^
@@ -297,8 +302,6 @@
   <br> Thunderous Smite
   <br> Wrathful Smite
   
-  <br/><div style='margin-top:20px;'></div>
-  
   ##### 2nd Level
   ✦ Anti-Magic Shell
   <br> Augury
@@ -317,15 +320,6 @@
   <br> Snilloc's Snowball <br>&nbsp;&nbsp;&nbsp; Swarm ^XGE^
   <br> Zone of Truth
   
-  </div>
-  
-  > ##### Variant Rule: On a Pale Horse
-  > GMs might consider making the creatures summoned by a death knight with *find steed* and *find greater steed* undead, rather than one of the creature types listed in those spells.
-  
-  \columnbreak
-  
-  <div style='column-count:2'>
-  
   ##### 3rd Level
   Animate Dead
   <br> ✦ Asphyxiate
@@ -343,6 +337,8 @@
   <br> Speak with Dead
   <br> Vampiric Touch
   <br> Water Walk
+  
+  \columnbreak
   
   ##### 4th Level
   Arcane Eye
@@ -376,9 +372,16 @@
   <br> Negative Energy Flood ^XGE^
   <br> ✦ Unholy Weapon
   
-  \columnbreak
+  </div>
+  
+  <div class='footnote'>PART 2 | SPELLS </div>
+  
+  \pagebreakNum
   
   ### Druid Spells
+   
+  <div style='column-count:2'>
+  
   ##### Cantrips (0 Level)
   Dancing Lights
   <br> Druidcraft
@@ -430,14 +433,8 @@
   <br> Skywrite ^XGE^
   <br> Spike Growth
   <br> Warding Wind ^XGE^
-  
-  </div>
-  
-  <div class='footnote'>PART 2 | SPELLS </div>
-  
-  \pagebreakNum
-  
-  <div style='column-count:2'>
+ 
+  \columnbreak
   
   ##### 3rd Level
   Catnap ^XGE^
@@ -495,14 +492,20 @@
   <br> Wall of Thorns
   <br> Wind walk
   
+  </div>
+  
+  \columnbreak
+  
+  <div style="height:27px"></div>
+  
+  <div style='column-count:2'>
+  
   ##### 7th Level
   Crown of Stars ^XGE^
   <br> Mirage Arcane
   <br> Regenerate
   <br> Reverse Gravity
   <br> Whirlwind ^XGE^
-  
-  \columnbreak
   
   ##### 8th Level
   Animal Shapes
@@ -517,7 +520,18 @@
   <br> Storm of Vengeance
   <br> True Resurrection
   
+  \columnbreak
+  
+  </div>
+  
+  <div class='footnote'>PART 2 | SPELLS </div>
+  
+  \pagebreakNum
+  
   ### Mage Spells
+  
+  <div style='column-count:2'>
+  
   ##### Cantrips (0 Level)
   ✦ Arcane Blast
   <br/> Blade Ward
@@ -566,8 +580,6 @@
   <br/> Tenser's Floating Disk
   <br/> Unseen Servant
   
-  \columnbreak
-  
   ##### 2nd Level
   Aganazzar's Scorcher ^XGE^
   <br/> Alter Self
@@ -583,6 +595,9 @@
   <br/> Enlarge/Reduce
   <br/> Flame Arrows
   <br/> Flame Blade
+  
+  \columnbreak
+  
   <br/> Flaming Sphere
   <br/> Flock of Familiars ^LLK^
   <br/> Fortune's Favor ^EGW^
@@ -614,7 +629,7 @@
   <br/> Spider Climb
   <br/> Suggestion
   <br/> Wristpocket ^EGW^
-  
+ 
   ##### 3rd Level
   ✦ Arcane Explosion
   <br/> Blink
@@ -629,9 +644,6 @@
   <br/> Fly
   <br/> Galder's Tower ^LLK^
   <br/> Glyph of Warding
-  
-  <br/><div style='margin-top:-15px;'></div>
-  
   <br/> Haste
   <br/> Hypnotic Pattern
   <br/> Intellect Fortress ^TCE^
@@ -648,6 +660,14 @@
   <br/> Tidal Wave ^XGE^
   <br/> Tiny Servant ^XGE^
   <br/> Tongues
+  
+  </div>
+  
+  \columnbreak
+  
+  <div style="height:27px"></div>
+  
+  <div style='column-count:2'>
   
   ##### 4th Level
   Arcane Eye
@@ -694,14 +714,80 @@
   <br/> Teleportation Circle
   <br/> Wall of Force
   
-  </div>
+  ##### 6th Level
+  Arcane Gate
+  <br/> Contingency
+  <br/> Disintegrate
+  <br/> Globe of Invulnerability
+  <br/> Gravity Fissure ^EGW^
+  <br/> Guards and Wards
+  <br/> Heroes' Feast
+  <br/> Investiture of Flame ^XGE^
+  <br/> Investiture of Ice ^XGE^
+  <br/> Mass Suggestion
+
+  \columnbreak
+
+  <br/> Mental Prison ^XGE^
+  <br/> Otiluke's Freezing Sphere
+  <br/> Programmed Illusion
+  <br/> Scatter ^XGE^
+  <br/> True Seeing
+  <br/> Wall of Ice
+  <br/> Word of Recall
   
+  ##### 7th Level
+  Delayed Blast Fireball
+  <br/> Etherealness
+  <br/> Fire Storm
+  <br/> Forcecage
+  <br/> Mirage Arcane
+  <br/> ✦ Glacial Spike
+  <br/> Mordenkainen's <br/>&nbsp;&nbsp;&nbsp; Magnificent Mansion
+  <br/> Reverse Gravity
+  <br/> Project Image
+  <br/> ✦ Pyroblast
+  <br/> Sequester
+  <br/> Teleport
+  
+  ##### 8th Level
+  ✦ Alextrasza’s Fury
+  <br/> Antimagic Field
+  <br/> Clone
+  <br/> Demiplane
+  <br/> ✦ Ice Nova
+  <br/> Illusory Dragon ^XGE^
+  <br/> Incendiary Cloud
+  <br/> Mind Blank
+  <br/> Reality Break ^EGW^
+  <br/> Tsunami
+  
+  
+  ##### 9th Level
+  Blade of Disaster ^TCE^
+  <br/> Foresight
+  <br/> Gate
+  <br/> Imprisonment
+  <br/> Invulnerability ^XGE^
+  <br/> ✦ Jaina's Flying Ship
+  <br/> Mass Polymorph ^XGE^
+  <br/> Prismatic Wall
+  <br/> Meteor Swarm
+  <br/> Ravenous Void ^EGW^
+  <br/> Time Ravage ^EGW^
+  <br/> Time Stop
+  <br/> True Polymorph
+  
+  </div>
+
   <div class='footnote'>PART 2 | SPELLS </div>
   
   \pagebreakNum
   
   > ##### Variant Rule: Wizardry
-  > This list holds spells that are not in line with the Warcraft fantasy for mages, but a Dungeon Master could still allow a mage to learn. Many of these spells deal with necromancy or demonology, both of which are forbidden by most conclaves of magi. Others are powerful Wizard spells with no real equivalent in the Warcraft universe. 
+  > This list holds spells that are not in line with the Warcraft fantasy for mages, but a Dungeon Master could still allow a mage to learn.
+  >
+  > Some deal in necromancy or demonology, magic forbidden by most conclaves of magi, while others are powerful Wizard spells with no real equivalent in the Warcraft universe. 
   > <br/> 
   > <br/> 
   >##### Cantrips (0 Level) 
@@ -757,71 +843,10 @@
   
   \columnbreak
   
+  ### Paladin Spells
+  
   <div style='column-count:2'>
   
-  ##### 6th Level
-  Arcane Gate
-  <br/> Contingency
-  <br/> Disintegrate
-  <br/> Globe of Invulnerability
-  <br/> Gravity Fissure ^EGW^
-  <br/> Guards and Wards
-  <br/> Heroes' Feast
-  <br/> Investiture of Flame ^XGE^
-  <br/> Investiture of Ice ^XGE^
-  <br/> Mass Suggestion
-  <br/> Mental Prison ^XGE^
-  <br/> Otiluke's Freezing Sphere
-  <br/> Programmed Illusion
-  <br/> Scatter ^XGE^
-  <br/> True Seeing
-  <br/> Wall of Ice
-  <br/> Word of Recall
-  
-  ##### 7th Level
-  Delayed Blast Fireball
-  <br/> Etherealness
-  <br/> Fire Storm
-  <br/> Forcecage
-  <br/> Mirage Arcane
-  <br/> ✦ Glacial Spike
-  <br/> Mordenkainen's <br/>&nbsp;&nbsp;&nbsp; Magnificent Mansion
-  <br/> Reverse Gravity
-  <br/> Project Image
-  <br/> ✦ Pyroblast
-  <br/> Sequester
-  <br/> Teleport
-  
-  ##### 8th Level
-  ✦ Alextrasza’s Fury
-  <br/> Antimagic Field
-  <br/> Clone
-  <br/> Demiplane
-  <br/> ✦ Ice Nova
-  <br/> Illusory Dragon ^XGE^
-  <br/> Incendiary Cloud
-  <br/> Mind Blank
-  <br/> Reality Break ^EGW^
-  <br/> Tsunami
-  
-  ##### 9th Level
-  Blade of Disaster ^TCE^
-  <br/> Foresight
-  <br/> Gate
-  <br/> Imprisonment
-  <br/> Invulnerability ^XGE^
-  <br/> ✦ Jaina's Flying Ship
-  <br/> Mass Polymorph ^XGE^
-  <br/> Prismatic Wall
-  <br/> Meteor Swarm
-  <br/> Ravenous Void ^EGW^
-  <br/> Time Ravage ^EGW^
-  <br/> Time Stop
-  <br/> True Polymorph
-  
-  \columnbreak
-  
-  ### Paladin Spells
   ##### 1st Level
   Bane
   <br> Bless
@@ -875,6 +900,8 @@
   <br> Remove Curse
   <br> Revivify
   
+  \columnbreak
+  
   ##### 4th Level
   Aura of Life
   <br> Aura of Purity
@@ -884,14 +911,6 @@
   <br> Guardian of Faith
   <br> Locate Creature
   <br> Staggering Smite
-  
-  </div>
-  
-  <div class='footnote'>PART 2 | SPELLS </div>
-  
-  \pagebreakNum
-  
-  <div style='column-count:2'>
   
   ##### 5th Level
   Banishing Smite
@@ -906,7 +925,16 @@
   <br> Scrying
   <br> Wall of Light ^XGE^
   
+  </div>
+  
+  <div class='footnote'>PART 2 | SPELLS </div>
+  
+  \pagebreakNum
+  
   ### Priest Spells
+  
+  <div style='column-count:2'>
+  
   ##### Cantrips (0 Level)
   Guidance 
   <br> Light 
@@ -956,9 +984,6 @@
   <br> Hold Person 
   <br> Invisibility 
   <br> ✦ Inner Focus 
-  
-  \columnbreak
-  
   <br> ✦ Inner Will 
   <br> Lesser Restoration 
   <br> Levitate
@@ -971,6 +996,8 @@
   <br> Silence 
   <br> Suggestion 
   <br> Tasha's Mind Whip ^TCE^
+  
+  \columnbreak
   
   ##### 3rd Level
   Animate Dead 
@@ -1022,7 +1049,13 @@
   <br> ✦ Shadowy Apparitions 
   <br> ✦ Summon Void Being 
   
+  </div>
+  
   \columnbreak
+  
+  <div style="height:27px"></div>
+  
+  <div style='column-count:2'>
   
   ##### 5th Level
   Dawn ^XGE^
@@ -1089,7 +1122,16 @@
   
   \columnbreak
   
+  </div>
+  
+  <div class='footnote'>PART 2 | SPELLS </div>
+  
+  \pagebreakNum
+  
   ### Shaman Spells
+  
+  <div style='column-count:2'>
+  
   ##### Cantrips (0 Level)
   Booming Blade ^SCAG^
   <br> Control Flames ^XGE^
@@ -1135,7 +1177,7 @@
   <br> Shatter
   <br> Skywrite ^XGE^
   <br> Warding Wind ^XGE^
-  
+
   ##### 3rd Level
   Call Lightning
   <br> ✦ Chain Heal
@@ -1150,16 +1192,10 @@
   <br> Revivify
   <br> Spirit Guardians
   <br> Thunder Step ^XGE
-  
-  </div>
-  
-  <div class='footnote'>PART 2 | SPELLS </div>
-  
-  \pagebreakNum
-  
-  <div style='column-count:2'>
-  
   <br> Tidal Wave ^XGE^
+  
+  \columnbreak
+  
   <br> Wall of Water ^XGE^
   <br> Water Breathing
   <br> Water Walk
@@ -1223,9 +1259,14 @@
   <br> Storm of Vengeance
   <br> True Resurrection
   
+  </div>
+  
   \columnbreak
   
   ### Warlock Spells
+  
+  <div style='column-count:2'>
+  
   ##### Cantrips (0 Level)
   Acid Splash
   <br/> Blade Ward
@@ -1287,12 +1328,12 @@
   <br/> Flame Blade
   <br/> Heat Metal
   <br/> Hold Person
-  <br/> Invisibility
-  <br/> Knock
-  <br/> Levitate
   
   \columnbreak
   
+  <br/> Invisibility
+  <br/> Knock
+  <br/> Levitate
   <br/> Locate Object
   <br/> Melf's Acid Arrow 
   <br/> Mind Spike ^XGE^
@@ -1337,6 +1378,14 @@
   <br/> Water Breathing
   <br/> Water Walk
   
+  </div>
+  
+  <div class='footnote'>PART 2 | SPELLS </div>
+  
+  \pagebreakNum
+  
+  <div style='column-count:2'>
+  
   ##### 4th Level
   Arcane Eye
   <br/> Banishment
@@ -1347,9 +1396,6 @@
   <br/> Evard's Black Tentacles
   <br/> Find Greater Steed ^XGE^
   <br/> ✦ Fire and Brimstone
-  
-  \columnbreak
-  
   <br/> Greater Invisibility
   <br/> Hallucinatory Terrain
   <br/> Leomund's Secret Chest
@@ -1398,23 +1444,14 @@
   <br/> Harm
   <br/> Investiture of Flame ^XGE^
   <br/> Magic Jar
+  
+  \columnbreak
+  
   <br/> Mass Suggestion
   <br/> Mental Prison ^XGE^
   <br/> Otto's Irresistible Dance
   <br/> Planar Ally
   <br/> Scatter ^XGE^
-  
-  </div>
-  
-  > ##### Variant Rule: Xorothian Steed
-  > Dungeon Masters might prefer making the creatures summoned by a warlock with the *find steed* and *find greater steed* fiends instead of the other creature types listed in those spells. Additionally, the *find greater steed* spell can summon a felsteed in addition to the other creatures listed.
-  
-  <div class='footnote'>PART 2 | SPELLS </div>
-  
-  \pagebreakNum
-  
-  <div style='column-count:2'>
-  
   <br/> ✦ Shadowfury
   <br/> Soul Cage ^XGE^
   <br/> Summon Fiend ^TCE^
@@ -1431,8 +1468,6 @@
   <br/> Mordenkainen's Sword
   <br/> Sequester
   <br/> Teleport
-  
-  \columnbreak
   
   ##### 8th Level
   Abi-Dalzim's Horrid <br/>&nbsp;&nbsp;Wilting ^XGE^
@@ -1458,11 +1493,19 @@
   
   </div>
   
+  \columnbreak
+    
+  > ##### Variant Rule: Xorothian Steed
+  > Dungeon Masters might prefer making the creatures summoned by a warlock with the *find steed* and *find greater steed* fiends instead of the other creature types listed in those spells. Additionally, the *find greater steed* spell can summon a felsteed in addition to the other creatures listed.
+  
   <div class='footnote'>PART 2 | SPELLS </div>
   
   \pagebreakNum
   
   > #### New Spells By Level
+  >
+  > These are all the new spells whose descriptions are found in the next section, across all classes in this book.
+  >
   > <div style='column-count:2'>
   > 
   > ##### Cantrips (0 Level)
