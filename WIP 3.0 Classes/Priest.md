@@ -399,7 +399,7 @@ The words are presented in alphabetical order.
 
 ***Control.*** As an action, you can spend one use of Devotion to target a creature you can see within 60 feet. The creature must succeed on a Wisdom saving throw or be charmed by you for 1 minute. If you or your companions do anything harmful to it, the effect ends. Once the effect ends, the creature doesn't knows it was charmed by you.
 
-***Fortitude.*** WWhen a creature, or a number of creatures up to your Charisma modifier (minimum of one) make a saving throw, you can spend one use of Devotion as a reaction to give them advantage. The saving throws must be against the same effect. <!-- Also called Protect -->
+***Fortitude.*** When a creature, or a number of creatures up to your Charisma modifier (minimum of one) make a saving throw, you can spend one use of Devotion as a reaction to give them advantage. The saving throws must be against the same effect. <!-- Also called Protect -->
 
 ***Pain.*** When a creature takes damage from or fails a saving throw against one of your priest spells, you may spend one use of Devotion as a reaction to impose disadvantage on all the creature's attack rolls until the beginning of your next turn.
 
