@@ -413,7 +413,7 @@ The words are presented in alphabetical order.
 
 \columnbreak
 
-<div style='margin-top:56px;'></div>
+<div style='margin-top:50px;'></div>
 
 > ### The Light and the Void
 > The two sources of power that a priest can draw upon--the Light and the Void--are diametrically opposed. In fact, it is believed by some that it was the mixing of the two energy sources which led to a series of cosmic-level explosions that gave birth to the physical universe. A devout Holy priest would not dare draw upon the power of the Void, nor could a powerful acolyte of Shadow draw deep upon the Light without being burned.
