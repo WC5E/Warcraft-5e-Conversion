@@ -792,7 +792,6 @@
   > <br/> 
   >##### Cantrips (0 Level) 
   > Chill Touch
-  > <br/> ✦ Decompose
   > <br/> Sapping Sting ^EGW^
   > <br/> <br/>
   >##### 1st Level
@@ -1272,7 +1271,6 @@
   <br/> Blade Ward
   <br/> Chill Touch
   <br/> Create Bonfire ^XGE^
-  <br/> ✦ Decompose
   <br/> ✦ Diabolism
   <br/> ✦ Fel Flame
   <br/> Friends
@@ -1510,7 +1508,6 @@
   > 
   > ##### Cantrips (0 Level)
   > Arcane Blast
-  > <br/> Decompose
   > <br/> Diabolism
   > <br/> Fel Flame
   > <br/> Flurry
@@ -2092,16 +2089,6 @@
   ***Frostwyrm.*** The dragon exhales an icy blast at a point within 120 feet. Each creature within 20 feet of that point must make a Dexterity saving throw, taking 5d8 cold damage and 5d8 necrotic damage on a failed save, or half as much damage on a successful one.
   
   ***Vilewyrm*** The dragon exhales acid in a 120-foot line <br>that is 10 feet wide. Each creature in that line must make a Dexterity saving throw, taking 5d8 acid damage and 5d8 necrotic damage on a failed save, or half as much damage on a successful one.
-  
-  #### Decompose
-  *Necromancy cantrip*
-  ___
-  - **Casting Time:** 1 action
-  - **Range:** Touch
-  - **Components:** V, S
-  - **Duration:** 1 minute
-  ___
-  You reach out and touch the corpse of a creature. Over the next minute, the corpse begins to rapidly decompose, sprouting fungus and moss as it begins to degrade into compost and mulch. An odd-colored flower or two may also spring from the corpse in this time. Applicable requirements for resurrection are unaffected by this decomposition.
   
   #### Demon Skin
   *1st-level transmutation*
