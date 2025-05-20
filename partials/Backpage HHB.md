@@ -1,4 +1,3 @@
-
 <style>
 
 /* BACK PAGE STYLES */
@@ -107,7 +106,6 @@
 </div>
  
  \columnbreak
- 
 
 <div class='back-cover-right'>
 
