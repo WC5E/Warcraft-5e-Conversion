@@ -4,7 +4,7 @@
   /* Resize page to international A4 */
   .phb {
     width: 210mm;
-    height: 296.8mm;
+    height: 297mm;
   }
   .phb:after { content: ""; }
 
@@ -230,17 +230,10 @@
     font-size: 20px;
     line-height: 20px;
   }
+</style>
 
-/* STAT BLOCKS */
-  /* For creature statblocks within range (start and end must be specified),
-     don't show a background. Used for the appendix creatures */
-  .phb:nth-of-type(n+140):nth-of-type(-n+200) hr+section blockquote {
-    background: none;
-    border: none;
-    box-shadow: none;
 <style> .phb#p1:after { display:none; } </style>
 <img src='https://www.gmbinder.com/images/0PdNsAt.jpg' style='position:absolute; top:-80px; right:-500px; width:2000px' />
-<img src='https://www.gmbinder.com/images/3d9m32D.png' style='position:absolute; top:1000px; right:675px; width:100px' />
 
 \pagebreak
 
@@ -285,7 +278,7 @@
 <br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons. Without
 <br><span style="margin-left:12px"></span> it, this project would've likely never been considered.
 
-<div style='margin-top:24px'></div>
+<div style='margin-top:14px'></div>
 <div style="text-align:Center">
 
 <img src='https://www.gmbinder.com/images/yiRpC5m.png' style='width:150px' />
@@ -335,11 +328,12 @@ With each coming update, all changes will be noted in the Changelog — Link is 
 #### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:48px"></span> [Subreddit](https://old.reddit.com/r/wc5e/)
 </div>
 
-<div style='margin-top:70px'></div>
 <div class='wide'> 
+<div style='margin-top:-140px;'></div>
 
 #### Legal Stuff
 DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
+
 <br> This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.
 <br> All other original material in this work is copyright 2019 by [your legal name or company name] and published under the Community Content Agreement for Dungeon Masters Guild.
 </div>
@@ -515,8 +509,6 @@ Your speed determines how far you can move when traveling and fighting.
 #### Languages
 By virtue of your race, your character can speak, read, and write certain languages. Each race has their own language, with multiple dialects. as well as a 'common' language, that the majority of their faction speaks and understands. Chapter 4 lists languages commonly spoken on Azeroth.
 
-\columnbreak
-
 #### Subraces
 Many races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among the subraces vary significantly from race to race.
 
@@ -636,8 +628,6 @@ Native to the Kul Tiran isles, Kul Tirans are generally tall and muscular, with 
 #### Lordaeron
 Widespread along the Eastern Kingdoms northern realm, Lordaeronians are of medium height and slender built, with pale skin. Their hair and eye color varies widely, but silver or light colored hair and blue eyes are common.
 
-\columnbreak
-
 <div style='margin-top:-18px;'></div>
 
 <br>**Lordaeronian Names:** (Male) Alexi, Aurius, Gannon, <br>&nbsp;&nbsp;&nbsp; Menard, Norwyn, Othmar, Urias, Wallace; (female) <br>&nbsp;&nbsp;&nbsp; Arenya, Diahann, Ellaine, Illucia, Jandice, Lydie, Malina, <br>&nbsp;&nbsp;&nbsp; Merla; (surnames) Barton, Camden, Godwin, Hayden
@@ -664,7 +654,7 @@ It's hard to make generalizations about humans, no matter where you were born yo
 ***Alignment.*** Humans tend toward no particular alignment. The best and the worst are found among them.
 
 ***Size.*** Humans range from barely 5 to well over 6 feet tall and weigh an average of 175 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 4 feet + 8 inches + your size modifier in inches
@@ -762,7 +752,7 @@ Your dwarf character has the following racial traits.
 ***Alignment.*** Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that all deserve to share in the benefits of a just order.
 
 ***Size.*** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 3 feet + 8 inches + your size modifier in inches
@@ -882,7 +872,7 @@ Your night elf character has the following racial traits.
 ***Alignment.*** Night elves live in close ties with the natural world, they have an unprecedented connection to nature and protect it fiercely, pulling many night elves towards good. They love freedom and variety, making most lean toward the gentler aspects of chaos as well.
 
 ***Size.*** Night elves are between 7 and 8 feet tall and weigh between 200 and 240 pounds. Your size is medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d8
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 7 inches + your size modifier in inches
@@ -981,7 +971,7 @@ Your gnome character has the following racial traits.
 ***Alignment.*** Gnomes are good-hearted, and even the tricksters amongst them are more playful than vicious. Those of evil alignment are often the result of madness. An innovative idea that consumed them.
 
 ***Size.*** Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 2 feet + 11 inches + your size modifier in inches
@@ -1100,8 +1090,12 @@ Draenei are members of the Alliance, having encountered the noble night elves sh
 
 ***Broken Draenei.*** These draenei are outcasts that have never pledged allegiance to any faction on Azeroth. They inhabit the broken planet of Draenor and are as likely to work together with members of the Alliance as they are members of the Horde.
 
+<div style='margin-top:-5px;'></div>
+
 #### Distrust of the Orcs
 Although draenei are friendly and honorable towards other races, that attitude is quickly dissolved when confonrted by an orc. They remember the atrocities done to their race by the hands of orcs on Draenor and won't leave bygones of the past to be forgotten. Draenei carry a deep distrust and in some cases hate for the orcs.
+
+<div style='margin-top:-5px;'></div>
 
 ### Names
 Draenei have two names, a birthname and an name taken upon reaching adulthood. There is no direct separate with&shy;in draenei culture that separate birthnames from a name taken later in a draenei's life. Draenei have lost too much <br> too much to still keep family names.
@@ -1120,7 +1114,7 @@ Your draenei character has the following racial traits.
 ***Alignment.*** Draenei are mostly good. Those who strive towards law are sages, priests, paladins, vindicators, or scholars. Those who tend toward chaos are warriors, rangers, or in other ways people more fond of pure fighting.
  
 ***Size.*** Draenei are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d6
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 5 inches + your size modifier in inches
@@ -1133,11 +1127,11 @@ Your draenei character has the following racial traits.
  
 ***Shadow Resistance.*** You have resistance against <br>necrotic damage.
 
-\columnbreak
-
 &nbsp;&nbsp;&nbsp; ***Languages.*** You can speak, read, and write Common and Draenei. The Draenei language, is a strange and compli-cated language for other races to learn. Seemingly having no resemblance with any Azerothian languages.
 
 ***Subrace.*** Three subraces of draenei exist: exodar draenei, lightforged draenei, and broken draenei. Choose one of these subraces.
+
+<div style='margin-top:-5px;'></div>
 
 #### Exodar Draenei
 As an exodar draenei, you have a natural connection with the Naaru, strengthening your bond to the light. You have fled your home planet of Argus from the Burning Legion's crusade, forced into exile for centuries before crash land&shy;ing on Azeroth's Azuremyst Isles.
@@ -1150,6 +1144,8 @@ As an exodar draenei, you have a natural connection with the Naaru, strengthenin
  
 ***Heroic Presence.*** You can cast *heroism* and *divine favor* with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can’t cast it again with this trait until you finish a long rest.
 
+<div style='margin-top:-5px;'></div>
+
 #### Lightforged Draenei
 As a lightforged draenei, you have committed yourself to a crusade against the burning legion, infusing your body with the holy light. You are part of the Army of the Light, a force of draenei that took the fight with the Burning Legion into the Twisting Nether and more recently, Azeroth.
 
@@ -1160,6 +1156,8 @@ As a lightforged draenei, you have committed yourself to a crusade against the b
 ***Holy Resistance.*** You have resistance to radiant damage.
  
 ***Light's Judgement.*** You know the *light* cantrip. When you reach 3rd level, you can cast the *guiding bolt* spell once per long rest. When you reach 5th level, you can cast the *branding smite* spell once per long rest. Wisdom is your spellcasting ability for these spells.
+
+<div style='margin-top:-5px;'></div>
 
 #### Broken Draenei
 As a broken draenei, you were left on Draenor as the legion invaded, your connection to the Naaru have been severed, leaving you an empty shell of your kin. The severance has disfigured your form, making you a outcast amongst the exodar and lightforged draenei.
@@ -1227,6 +1225,8 @@ Most worgens were gilnean humans and follow the naming conventions of humans. Ho
 <br> **Gilnean Surnames:** Broderick, Cleese, Crowly, Godfrey, <br>&nbsp;&nbsp;&nbsp;  Walden, Whitewall, Hammond, Hayward
 <br> **Worgen Surnames:** Greymane, Moonfang, Mistmantle, <br>&nbsp;&nbsp;&nbsp; Bloodfang, Darkwalker
 
+<div style='margin-top:-5x;'></div>
+
 ### Worgen Traits
 Your worgen character has the following racial traits.
 
@@ -1237,7 +1237,7 @@ Your worgen character has the following racial traits.
 ***Alignment.*** Worgen tend to become chaotic, while originating from humans, the infection of their blood with the wolves has made them more unpredictable.
 
 ***Size.*** Like humans, they vary widely in height and build, most standing well over 6 feet tall, and weigh around 250 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 2 inches + your size modifier in inches
@@ -1338,7 +1338,7 @@ Your orc character has the following racial traits.
 ***Alignment.*** Orcs might not have an innate tendency toward evil, but many end up there. Evil or not, many orcs lean toward a chaotic alignment.
 
 ***Size.*** Orcs are between 6 and 7 feet tall and muscularly built, averaging around 300 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d8
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 5 feet + 10 inches + your size modifier in inches
@@ -1408,9 +1408,11 @@ The Forsaken originally became allies of the Horde out of necessity and convenie
 
 Though initially the Forsaken alliance with the Horde was one of pure convenience, in recent times it appears that their position in the faction has begun to solidify and many, though not all, of the Forsaken appear to be more or less loyal to the Horde now. 
 
+<div style='margin-top:-5px;'></div>
+
 \columnbreak
 
-<div style='margin-top:690px'></div>
+<div style='margin-top:690px;'></div>
 
 ### Strange Behaviors
 Forsaken culture is strange, a perverse combination of the lives they once knew as mortals and the mindless slavery they experienced in the Scourge, colored by white-hot rage toward the Lich King and an almost equally intense devotion to their queen. 
@@ -1561,7 +1563,7 @@ Your tauren character has the following racial traits.
 ***Alignment.*** Most tauren are lawful, keeping to their tribal code. Those who are evil are shunned upon, most either outlaws or corrupted in some form.
 
 ***Size.*** Tauren are between 8 and 10 feet tall and weigh between 400 and 600 pounds. Your size is Medium, yet you tower over most other humanoids. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d12
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 7 feet + 11 inches + your size modifier in inches
@@ -1573,8 +1575,6 @@ Your tauren character has the following racial traits.
 &nbsp;&nbsp;&nbsp; ***Speed.*** Your base walking speed is 30 feet.
 
 ***Horns.*** Your horns are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-
-\columnbreak
 
 &nbsp;&nbsp;&nbsp; ***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
@@ -1614,7 +1614,7 @@ As a taunka, you are considered a relative to the tauren race and a branch of th
 ***Tundra Walker.*** You can move across difficult terrain made of ice or snow without expending extra movement.
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/WxaNruu.png' style='position:absolute; top:940px; right:40px; width:350px' />
+<img src='https://www.gmbinder.com/images/WxaNruu.png' style='position:absolute; top:945px; right:40px; width:350px' />
 
 \pagebreakNum
 
@@ -1638,6 +1638,8 @@ Ice trolls are generally evil and like most trolls, they are fierce protectors o
 Cannibalism was a relatively common practice amongst trolls, although through the decades, and with their integration into the horde, their cannibalism had been frowned upon by most, and has since been made a forbidding practice by the horde, some still practice it, but non do so openly.
 
 Not all trolls practice voodoo, but it is widespread. It was given to the trolls by their worshiped gods the Loa, and the exact emergence of voodoo among the trolls is unknown, for most tribes that possess such knowledge are unwilling to share it with outsiders.
+
+<div style='margin-top:-5px;'></div>
 
 \columnbreak
 
@@ -1685,7 +1687,7 @@ Your troll character has the following racial traits.
 ***Alignment.*** Trolls are a neutral race and their alignment can vary drastically between subraces. Most trolls tend to be lawful, with each tribe often having particular customs and rules for tribesmen to abide by.
 
 ***Size.*** Trolls are between 7 and 8 feet tall and weigh between 200 and 300 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 5 feet + 8 inches + your size modifier in inches
@@ -1823,7 +1825,7 @@ Your blood elf character has the following racial traits.
 ***Alignment.*** Blood elves live in a society where ranks and titles carry tremendous weight and where strict laws have been put in place for them to follow, pushing them towards lawful alignments. Personal desires varies drastically, and both those of good and evil alignment exist.
 
 ***Size.*** Blood elves are between 5 and 6 feet tall and weigh between 125 and 175 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 4 feet + 9 inches + your size modifier in inches
@@ -1896,12 +1898,9 @@ Though many shops remain independent, a growing number of them have signs declar
 The goblins are also legendary for the sheer variety of trade in which they are willing to indulge and for their tenacity in bargaining. 
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://images.gamewatcherstatic.com/image/file/3/61/81233/Hearth.jpg' style='position:absolute; top:0px; right:0px; width:1195px' />
-<img src='https://www.gmbinder.com/images/grtcWyc.jpg' style='position:absolute; top:0px; right:300px; width:1195px' />
-<img src='https://i.pinimg.com/originals/50/9f/07/509f072bb05dacf7b667394d688c1f7f.jpg' style='position:absolute; top:0px; right:-500px; width:1340px' />
-<img src='https://i.redd.it/gbiq2nyzkoo31.png' style='position:absolute; top:0px; right:0px; width:1190px' />
-<img src='https://www.gmbinder.com/images/Npi5n8k.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/tdgTze8.png' style='position:absolute; top:340px; right:325px; width:500px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/grtcWyc.jpg' style='position:absolute; top:00px; right:100px; width:1995px' />
+<img src='https://www.gmbinder.com/images/Npi5n8k.png' style='position:absolute; top:0px; right:-20px; width:900px' />
+<img src='https://www.gmbinder.com/images/tdgTze8.png' style='position:absolute; top:440px; right:352px; width:450px; transform:scalex(-1)' />
 
 \pagebreakNum
 
@@ -1936,14 +1935,12 @@ Your goblin character has the following racial traits.
 ***Alignment.*** Most goblins lean towards chaotic neutral. They rarely show a sense of moral or consideration for the consequences of their actions, preferring to live in the moment and leave the troubles to tomorrow.
 
 ***Size.*** Goblins are between 3 and 4 feet and weigh between 40 and 80 pounds. Your size is Small. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 2 feet + 12 inches + your size modifier in inches
 <br>&nbsp;&nbsp;&nbsp; ***Weight in Pounds:*** 40 + (1 x your size modifier)
 </div>
-
-\columnbreak
 
 &nbsp;&nbsp;&nbsp; ***Speed.*** Your base walking speed is 25 feet.
 
@@ -1999,6 +1996,8 @@ The Shal'dorei have an air of superiority that often comes across as pompous. Th
 
 These were the less admirable qualities of night elven civilization back then, and the shal'dorei continue in them as if nothing has changed and as if they still remain the center of the world.
 
+<div style='margin-top:-5px;'></div>
+
 \columnbreak
 
 <div style='margin-top:650px;'></div>
@@ -2036,7 +2035,7 @@ Your nightborne character has the following racial traits.
 ***Alignment.*** Order and structure are key to nightborne societies, they believe that reputation and status are of the utmost concern and that mortality and principles of right and wrong are viewed too often in that light. Most night&shy;borne are lawful.
 
 ***Size.*** Nightborne are between 7 and 8 feet tall and weigh between 180 and 220 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d8
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 8 inches + your size modifier in inches
@@ -2136,7 +2135,7 @@ Your pandaren character has the following racial traits.
 ***Alignment.*** Pandaren are a peaceful and sociable race that for the most parts tend to their own, making most pandarens neutral or good aligned. Pandarens are rare of an evil alignment and finding an evil pandaren is often the product of foul magic influencing its mind.
 
 ***Size.*** Pandaren are between 5 and 7 feet tall and weigh between 250 and 400 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 5 feet + 2 inches + your size modifier in inches
@@ -2164,7 +2163,7 @@ After you use your quaking palm, you can't use it again until you finish a short
 
 \pagebreak
 
-<div style='margin-top:131px;'></div>
+<div style='margin-top:121px;'></div>
 
 ## Void Elf
 Infused by the void itself, the Ren'dorei--children of the void--are a group of blood elves exiled from their homeland of Quel'Thalas. Cast out for their teachings at the hand of the elven magister Umbric, the elves have embraced their newfound powers, though the inner turmoil it has caused may well follow them through their lives as they fight to maintain control over it.
@@ -2186,9 +2185,11 @@ Beings of energy, Ethereals are extradimensional creatures that have travelled g
 
 It was only thanks to the machinations of void ethereals hoping to turn Magister Umbric and his followers into true creatures of void along with the timely intervention of Alleria Windrunner that has turned these former denizens of Quel'thalas into something more. Now Locus-Walker along with other ethereals who's goals aligned with the Ren'dorei roam their base of Telogrus Rift, teaching and guiding all Children of Quel'thalas in the ways of the Void.
 
+<div style='margin-top:-5px;'></div>
+
 \columnbreak
 
-<div style='margin-top:790px;'></div>
+<div style='margin-top:650px;'></div>
 
 ### Affiliation
 Void elves are an independent subrace of blood elves that have been exiled from Quel'Thalas for their meddling with the void. The elves choose to embrace or try to forget their status as outcasts, for they will forever be unwelcome in the land they've left behind.
@@ -2197,16 +2198,17 @@ Void elves are an independent subrace of blood elves that have been exiled from 
 
 ***Horde.*** No void elves exist within the Horde, as those that learned to control the void swore to follow the ranger-general Alleria Windrunner and have joined the Alliance.
 
+> ##### Emergence of the Void Elves
+> The Ren'dorei are specific group of void elves that followed the teachings of magister Umbric, though he is not the first elf to have dabbled with the void. Talk with your DM if you want to play as a void elf before the Burning Legion's defeat on Argus.
+
+
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/JLhq6RD.jpg' style='position:absolute; top:-100px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/H47MOpD.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/kDzvP48.png' style='position:absolute; top:0px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/hTLvvHS.png' style='position:absolute; top:100px; right:-200px; width:800px' />
+<img src='https://www.gmbinder.com/images/kDzvP48.png' style='position:absolute; top:-80px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/hTLvvHS.png' style='position:absolute; top:-20px; right:-200px; width:800px' />
 
 \pagebreakNum
-
-> ##### Emergence of the Void Elves
-> The Ren'dorei are specific group of void elves that followed the teachings of magister Umbric, though he is not the first elf to have dabbled with the void. Talk with your DM if you want to play as a void elf before the Burning Legion's defeat on Argus.
 
 ### Names
 Void elves continue to follow the naming conventions of blood elves and little discrepancy exists between the two. However, with their exile from Quel'Thalas, some void elves have chosen to change their family name for one that embraces their new powers.
@@ -2224,7 +2226,7 @@ Your void elf character has the following racial traits.
 ***Alignment.*** Although chaos and unpredictability is pro&shy;minent in many void elves, they have maintained a lawful alignment similar to blood elves. Those that succumb to the void often turn chaotic in their alignment.
 
 ***Size.*** Void elves are between 5 and 6 feet tall and weigh between 125 and 175 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 4 feet + 9 inches + your size modifier in inches
@@ -2296,7 +2298,7 @@ Your vulpera character has the following racial traits.
 &nbsp;&nbsp;&nbsp; ***Alignment.*** Most vulpera lean towards true neutral, they keep to themselves and care for the wellbeing of their own. However, their affection for other beings can often be inter&shy;preted as acts of kindness, even if it is not done out of the kindness of their hearts. 
 
 ***Size.*** Vulpera are between 3 and 4 feet and average about 50 pounds. Your size is Small. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 2 feet + 8 inches + your size modifier in inches
@@ -2325,8 +2327,8 @@ Once you use this trait, you can't use it again until you finish a short or long
 <br> and two other languages of your choice. Vulpera are a nomadic race that picks up the languages of those
 <br> they travel among.
 
-<img src='https://www.gmbinder.com/images/ji0HTvu.jpg' style='position:absolute; top:620px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/wvTUmvu.png' style='position:absolute; top:0px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/ji0HTvu.jpg' style='position:absolute; top:660px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/wvTUmvu.png' style='position:absolute; top:35px; right:0px; width:1000px' />
 
 \pagebreak
 
