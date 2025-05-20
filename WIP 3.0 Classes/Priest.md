@@ -146,6 +146,9 @@
     background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
     background-size  : cover;
   }
+  .phb:last-child:after {
+    display: none;
+  }
 
   /* Footer with white text against dark backgrounds */
   .phb .footnote.footnote-white,
