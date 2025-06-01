@@ -191,7 +191,23 @@
 
 </style>
 
+<!-- SPLASH IMAGE -->
 <img src='https://www.gmbinder.com/images/0PdNsAt.jpg' style='position:absolute; top:-80px; right:-500px; width:2000px' />
+
+<!-- LOGO IMAGE -->
+<img src='https://www.gmbinder.com/images/0fKd9bC.png' style='position:absolute; top:80px; right:40px; width:700px' />
+
+<!-- RED DIVIDER LINE -->
+<img src='https://www.gmbinder.com/images/SGYtcP2.png' style='position:absolute; top:190px; right:90px; width:580px' />
+
+<!-- HEADER TEXT -->
+<div class='cover-header'> <div style='margin-top:115px;'></div> Heroes Handbook </div>
+
+<!-- HOMEBREW FLAG -->
+<div class='cover-splotch'></div>
+
+<!-- FOOTER TEXT -->
+<img src='https://www.gmbinder.com/images/KXbAfyN.png' style='position:absolute; top:980px; right:56px; width:700px' />
 
 \pagebreak
 
@@ -199,12 +215,17 @@
 *Contributors listed by community usernames.*
 <div style='margin-top:-20px;'></div>
 
-<br> **Lead Designer:** Jih
-<br> **Writing & Editing:** Jih, Tangerine
+<br> **Original Creators:** Jih, TangerineThunder
 
-<br> **Contributors:** Ace Azzermeen, Auvreannia, Nagash, 
-<br><span style="margin-left:12px"></span> Silverblade, Tseims
-<br> **Additional Contributors:** Our Discord Community
+<br> **Current Contributors:** Ace Azzermeen, Geamros, 
+<br><span style="margin-left:12px"></span> Lorestalker Nemzal, MagusRogue, MythMaker, Nagash, 
+<br><span style="margin-left:12px"></span> Llamadom, Tangerine, Tyloris
+
+<br> **Former Contributors:** 123jrf, ApolloLumina, Artipo, 
+<br><span style="margin-left:12px"></span> Auvreannia, Christinekn, ClockWorkTank, Elenus, Jih,
+<br><span style="margin-left:12px"></span> Prometheus, Reiga, Silverblade, Tseims, Wyken
+
+<br> **WIth Big Thanks To:** Our Discord community ♥
 
 <br> **Cover Illustrator:** Kan Liu
 <br> **Interior Illustrators:** Aaron Lovett, Adel Khanov, Alex 
