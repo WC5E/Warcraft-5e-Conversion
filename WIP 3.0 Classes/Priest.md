@@ -104,9 +104,6 @@
     filter: hue-rotate(120deg)
   }
 
-</style>
-
-<style>
 /* Background */
   .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
   .phb{ background-size: cover }
@@ -188,8 +185,6 @@
 .phb blockquote {
   box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
 }
-
-</style>
 
 </style>
 
