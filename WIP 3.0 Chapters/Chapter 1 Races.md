@@ -143,6 +143,9 @@
     background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
     background-size  : cover;
   }
+  .phb:first-child:after {
+    display: none;
+  }
   .phb:last-child:after {
     display: none;
   }
@@ -187,188 +190,6 @@
 }
 
 </style>
-
-<img src='https://www.gmbinder.com/images/0PdNsAt.jpg' style='position:absolute; top:-80px; right:-500px; width:2000px' />
-
-\pagebreak
-
-## Credits
-*Contributors listed by community usernames.*
-<div style='margin-top:-20px;'></div>
-
-<br> **Lead Designer:** Jih
-<br> **Writing & Editing:** Jih, Tangerine
-
-<br> **Contributors:** Ace Azzermeen, Auvreannia, Nagash, 
-<br><span style="margin-left:12px"></span> Silverblade, Tseims
-<br> **Additional Contributors:** Our Discord Community
-
-<br> **Cover Illustrator:** Kan Liu
-<br> **Interior Illustrators:** Aaron Lovett, Adel Khanov, Alex 
-<br><span style="margin-left:12px"></span> Garner, Anastasiya Gafron, Anna Pazyniuk, Anthony 
-<br><span style="margin-left:12px"></span> Avon, Artlon, Astri Lohne, Bren Rodri, Brian Huang,
-<br><span style="margin-left:12px"></span> Conner Sheehan, Dan Scott, Dariia Kasimova, Dmitry 
-<br><span style="margin-left:12px"></span> Vernygor, Frenone, Glenn Rane, Grace Liu, Howard Pak,
-<br><span style="margin-left:12px"></span> Ina Wong, James Ryman, Jason Wang, Jerry Mascho, 
-<br><span style="margin-left:12px"></span> Jimmy Lo, Jojo So, Jorge Jacinto, Juhani Jokinen, 
-<br><span style="margin-left:12px"></span> LieSetiawanKatrina Toxicpanda, Krysdecker, Liuhao, 
-<br><span style="margin-left:12px"></span> Lowly Owly, Matthew Mckeown, Nagli, Nina Ikävalko, 
-<br><span style="margin-left:12px"></span> Nosfer, PersonalAmi, Peet Cooper, Peter Lee, Phillip
-<br><span style="margin-left:12px"></span> Zhang, Richard Suwono, Robin Olausson, Rogier van de 
-<br><span style="margin-left:12px"></span> Beek, Ryan Metcalf, Tim Gou, Tyler Justice Shamanguli, 
-<br><span style="margin-left:12px"></span> Shanton Feng,Shuzong, Syncmax, Tyson Murphy, 
-<br><span style="margin-left:12px"></span> Unidcolor, Wei Wang
-
-<br> **Based on the original D&D game created by**
-<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as Brian
-<br><span style="margin-left:12px"></span> Blume, Rob Kuntz, James Ward and Don Kaye.
-
-<br> **Based on the Warcraft franchise by**
-<br><span style="margin-left:12px"></span> © Blizzard Entertainment
-
-<br> **Playtesting provided by**
-<br> **Special thanks to** 
-<br><span style="margin-left:12px"></span> This entire book was made using GM Binder. It is an
-<br><span style="margin-left:12px"></span> amazing tool for creating authentic-looking homebrew
-<br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons. Without
-<br><span style="margin-left:12px"></span> it, this project would've likely never been considered.
-
-<div style='margin-top:14px'></div>
-<div style="text-align:Center">
-
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='width:150px' />
-
-##### [www.GmBinder.com](https://www.gmbinder.com/)
-</div>
-
-<div style='margin-top:1000px'></div>
-<div style="text-align:Right"> 
-
-## Foreword </div>
-We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of D&D. It is a task that has taken us months to do, and it'll likely take many more still. Everyone involved are working this in their spare time, aiming to bring a genuine recreation of *Warcraft* as a D&D 5th Edition tabletop RPG.
-
-This book is made to compliment official D&D 5th edition books, including the **Player's Handbook, Dungeon Master's Guide**, and **Monster Manual**. It has been built on the framework set by those books, and designed to be brought in as any supplement book would. Without any more work than to just use the material presented.
-
-It has been written with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe under D&D 5th Edition rules. Not for any monetary gain.
-
-With each coming update, all changes will be noted in the Changelog — Link is provided below.
-<div style='margin-top:-5px;'></div>
-<div style="text-align:Center"> 
-
-#### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A)
-</div>
-
-<br> **Our Other Projects**
-<br><span style="margin-left:12px"></span> Did you know that we have a Manual of Monsters as well
-<br><span style="margin-left:12px"></span> to go alongside the Heroes Handbook? A fully fleshed-out
-<br><span style="margin-left:12px"></span> Dungeon Master's book, bringing many of monsters with
-<br><span style="margin-left:12px"></span> it from the World of Warcraft! 
-<div style='margin-top:-5px;'></div>
-<div style="text-align:Center"> 
-
-#### [Project Folder](https://drive.google.com/open?id=1kVoAMR8TiO3CXFYcigFN2B6zk62xcnv9)
-</div>
-
-<br> **Want to help grow a community?**
-<br><span style="margin-left:12px"></span> We're a relatively small group working together on this, 
-<br><span style="margin-left:12px"></span> and as such our ability to playtest all of it is limited. 
-<br><span style="margin-left:12px"></span> If you want to help the project out and give feedback,
-<br><span style="margin-left:12px"></span> suggest changes and new features for the books, or 
-<br><span style="margin-left:12px"></span> simply just join our growing Warcraft RPG community, 
-<br><span style="margin-left:12px"></span> we have both an active discord server and a subreddit 
-<br><span style="margin-left:12px"></span> dedicated to this project! — Links below!
-<div style='margin-top:-5px;'></div>
-<div style="text-align:Center"> 
-
-#### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:48px"></span> [Subreddit](https://old.reddit.com/r/wc5e/)
-</div>
-
-<div class='wide'> 
-<div style='margin-top:-140px;'></div>
-
-#### Legal Stuff
-DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
-
-<br> This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.
-<br> All other original material in this work is copyright 2019 by [your legal name or company name] and published under the Community Content Agreement for Dungeon Masters Guild.
-</div>
-
-\pagebreakNum
-
-<div style="text-align: Center">
-
-# Table of Contents
-</div>
-
-<div class='toc'>
-
-- ### [<span>4</span><span>Part I: Heroes                                    </span>](#p4)
-  - #### [<span>5</span><span>Chapter 1: Races                               </span>](#p5)
-     - [<span>5</span><span>Choosing a Side                                  </span>](#p5)
-     - [<span>6</span><span>Choosing a Race                                  </span>](#p6)
-     - [<span>6</span><span>Languages                                        </span>](#p6)
-     - [<span>7</span><span>*Races of the Alliance*                          </span>](#p7)
-       - [<span>8</span><span>Human                                          </span>](#p8)
-       - [<span>10</span><span>Dwarf                                         </span>](#p10)
-       - [<span>12</span><span>Night Elf                                     </span>](#p12)
-       - [<span>15</span><span>Gnome                                         </span>](#p14)
-       - [<span>16</span><span>Draenei                                       </span>](#p16)
-       - [<span>18</span><span>Worgen                                        </span>](#p18)
-     - [<span>20</span><span>*Races of the Horde*                            </span>](#p20)
-       - [<span>21</span><span>Orc                                           </span>](#p21)
-       - [<span>23</span><span>Forsaken                                      </span>](#p23)
-       - [<span>25</span><span>Tauren                                        </span>](#p25)
-       - [<span>37</span><span>Troll                                         </span>](#p27)
-       - [<span>39</span><span>Blood Elf                                     </span>](#p29)
-       - [<span>31</span><span>Goblin                                        </span>](#p31)
-     - [<span>33</span><span>*Allied Races*                                  </span>](#p33)
-       - [<span>34</span><span>Nightborne                                    </span>](#p34)
-       - [<span>36</span><span>Pandaren                                      </span>](#p36)
-       - [<span>38</span><span>Void Elf                                      </span>](#p38)
-       - [<span>39</span><span>Vulpera                                       </span>](#p39)
-  - #### [<span>##</span><span>Chapter 2: Classes                            </span>](#p##)
-     - [<span>##</span><span>Death Knight                                    </span>](#p##)
-     - [<span>##</span><span>Demon Hunter                                    </span>](#p##)
-     - [<span>##</span><span>Druid                                           </span>](#p##)
-     - [<span>##</span><span>Hunter                                          </span>](#p##)
-     - [<span>##</span><span>Mage                                            </span>](#p##)
-     - [<span>##</span><span>Monk                                            </span>](#p##)
-     - [<span>##</span><span>Paladin                                         </span>](#p##)
-     - [<span>##</span><span>Priest                                          </span>](#p##)
-     - [<span>##</span><span>Rogue                                           </span>](#p##)
-     - [<span>##</span><span>Shaman                                          </span>](#p##)
-     - [<span>##</span><span>Warlock                                         </span>](#p##)
-     - [<span>##</span><span>Warrior                                         </span>](#p##)
-  - #### [<span>##</span><span>Chapter 3: New Backgrounds                    </span>](#p##)
-     - [<span>##</span><span>Dark Apothecary                                 </span>](#p##)
-     - [<span>##</span><span>Double Agent                                    </span>](#p##)
-     - [<span>##</span><span>Faction Fostered                                </span>](#p##)
-     - [<span>##</span><span>Kirin Tor Apprentice                            </span>](#p##)
-  - #### [<span>##</span><span>Chapter 4: New Equipment                      </span>](#p##)
-     - [<span>##</span><span>Starting Equipment                              </span>](#p##)
-     - [<span>##</span><span>Exotic Weapons                                  </span>](#p##)
-     - [<span>##</span><span>New Adventuring Gear and Tools                  </span>](#p##)
-  - #### [<span>##</span><span>Chapter 5: Customization Options              </span>](#p##)
-     - [<span>##</span><span>New Feats                                       </span>](#p##)
-     - [<span>##</span><span>Racial Feats                                    </span>](#p##)
-
-\columnbreak
-
-- ### [<span>##</span><span>Part II: Magic                                  </span>](#p##)
-  - #### [<span>##</span><span>Chapter 6: Spells                            </span>](#p##)
-     - [<span>##</span><span>Spell Lists                                    </span>](#p##)
-     - [<span>##</span><span>Spell Descriptions                             </span>](#p##)
-- ### [<span>##</span><span>Part III: Variant Rules                         </span>](#p##)
- - [<span>##</span><span>Hero Points                                        </span>](#p##)
- - [<span>##</span><span>Mana                                               </span>](#p##)
-- ### [<span>##</span><span>Appendix A: Shapeshifts                         </span>](#p##)
-- ### [<span>##</span><span>Appendix B: Demon Companions                    </span>](#p##)
-- ### [<span>##</span><span>Appendix C: World Map                           </span>](#p##)
-</div>
-
-<style> .phb#p3:after { display:none; } </style>
-
-\pagebreak
 
 <div class='partpage'>
 
@@ -2056,10 +1877,10 @@ Covered in colorful fur from head to toe, pandaren appear like massive humanoid 
 
 Pandaren colorations varies widely, from a dark brown to a golden yellow, one thing that is consistent throughout all pandarens are their white markings, all pandarens have these upon their face, and many also have patches of white on their paws of torso. Pandarens don't have hair, but many stylize their fur on top of their head, letting it grow longer to resemble hair.
 
-<div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/6XAsG6F.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/kDzvP48.png' style='position:absolute; top:-170px; right:0px; width:1000px' />
 <img src='https://www.gmbinder.com/images/6aiPMLT.png' style='position:absolute; top:75px; right:-180px; width:750px; transform:scalex(-1); z-index:10' />
+<div class='footnote'>PART 1 | RACES</div>
 
 \pagebreakNum
 
@@ -2117,8 +1938,9 @@ After you use your quaking palm, you can't use it again until you finish a short
 
 <img src='https://www.gmbinder.com/images/SvYw20C.jpg' style='position:absolute; top:700px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:0px; right:0px; width:850px; transform:scalex(-1)' />
+<div class='footnote footnote-white'>PART 1 | RACES</div>
 
-\pagebreak
+\pagebreakNum
 
 <div style='margin-top:121px;'></div>
 
@@ -2289,4 +2111,115 @@ Once you use this trait, you can't use it again until you finish a short or long
 
 \pagebreak
 
-<img src='https://www.gmbinder.com/images/N3q1qJX.jpg' style='position:absolute; top:0px; right:-25px; width:850px' />
+<style>
+
+/* BACK PAGE STYLES */
+
+  /* Remove footer from back page, replace pX with last page number */
+  .phb#pX:after { display:none; }
+
+  .phb .back-cover-content {
+    padding-left: 4px;
+    padding-right: 16px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
+  }
+  .phb .back-cover-right {
+      padding-left: 40px;
+  }
+  .phb .back-cover-image {
+    height: 1136px;
+    left: -20px;
+    top: -10px;
+    width: 475px;
+    background-size: 475px 1136px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
+  }
+  .phb .back-cover-diamond {
+    display: block;
+    position: initial;
+    left: initial;
+    top: initial;
+    margin: auto;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+  }
+ .phb .back-cover-logo-container {
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 314px;
+ }
+ .phb .back-cover-logo,
+ .phb .back-cover-logo-link {
+     position: initial;
+     margin: auto;
+     margin-bottom: 8px;
+     left: initial;
+     bottom: initial;
+     right: initial;
+     background-repeat: no-repeat;
+ }
+ 
+ </style>
+ 
+ <img src='https://www.gmbinder.com/images/4UrFsXk.jpg' style="position:absolute; right:-194px; bottom:0px; height:1160px;" />
+ 
+ <div class='back-cover-image'></div>
+ 
+ <div style='margin-top:20px;'></div>
+ 
+ <div class='back-cover-header'>
+ 
+ Warcraft
+ 
+ 5th Edition
+ 
+ </div>
+ 
+<div class='back-cover-text'>
+ 
+  *WC5E Heroes Handbook v3*
+ 
+  This document is part of the third major revision of our *Warcraft 5th Edition* project; a collection of player classes, races, backgrou&shy;nds, creature statblocks, and more to put a Warcraft spin on core Dungeons & Dragons material.
+
+  We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
+  
+  [Our project on Github](https://github.com/WC5E/Warcraft-5e-Conversion/) <br />
+  [Our community on Reddit](https://www.reddit.com/r/wc5e/) <br />
+  [Our community on Discord](https://discord.com/invite/dKMJmmD)
+  
+</div>
+ 
+<div class='back-cover-diamond' style='top: 679px;'></div>
+ 
+<div style='margin-top:35px;'></div>
+ 
+<div class='back-cover-close'>
+
+  Big love from the team. ❤
+
+   
+</div>
+
+<div class='back-cover-logo-container'>
+ 
+  <div class='back-cover-logo'></div>
+ 
+  <div class='back-cover-logo-link'>
+ 
+  [WWW.GMBINDER.COM](https://www.gmbinder.com)
+ 
+  </div>
+
+</div>
+ 
+ \columnbreak
+
+<div class='back-cover-right'>
+
+</div>
