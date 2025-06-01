@@ -103,10 +103,7 @@
   .inkblot-green {
     filter: hue-rotate(120deg)
   }
-
-</style>
-
-<style>
+  
 /* Background */
   .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
   .phb{ background-size: cover }
