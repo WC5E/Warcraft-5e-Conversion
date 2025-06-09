@@ -262,10 +262,6 @@
   Symbol|Spell Location
   ------|--------------------------
   ✦ |In this chapter, under Spell Descriptions
-  ^EGW^ | Explorer's Guide to Wildemount
-  ^ID:RotF^ | Icewind Dale: Rime of the Frostmaiden
-  ^LLK^ | Lost Laboratory of Kwalish
-  ^SCAG^ |Sword Coast Adventurer's Guide
   ^TCE^ | Tasha's Cauldron of Everything
   ^XGE^ |Xanathar's Guide to Everything
   
@@ -562,9 +558,7 @@
   <br/> Expeditious Retreat
   <br/> Feather Fall
   <br/> Find Familiar
-  <br/> Frost Fingers ^IDRotF^
   <br/> ✦ Frostfire Bolt
-  <br/> Gift of Alacrity ^EGW^
   <br/> Hellish Rebuke
   <br/> Ice Knife ^XGE^
   <br/> Identify
@@ -573,7 +567,6 @@
   <br/> Longstrider
   <br/> Mage Armor
   <br/> Magic Missile
-  <br/> Magnify Gravity ^EGW^
   <br/> Shield
   <br/> Silent Image
   <br/> Snare ^XGE^
@@ -599,13 +592,10 @@
   \columnbreak
   
   <br/> Flaming Sphere
-  <br/> Flock of Familiars ^LLK^
-  <br/> Fortune's Favor ^EGW^
   <br/> Gentle Repose
   <br/> ✦ Freezing Touch
   <br/> Heat Metal
   <br/> Hold Person
-  <br/> Immovable Object ^EGW^
   <br/> Invisibility
   <br/> Knock
   <br/> Levitate
@@ -628,7 +618,7 @@
   <br/> Snilloc's Snowball <br/>&nbsp;&nbsp;&nbsp; Swarm ^XGE^
   <br/> Spider Climb
   <br/> Suggestion
-  <br/> Wristpocket ^EGW^
+  
  
   ##### 3rd Level
   ✦ Arcane Explosion
@@ -642,7 +632,6 @@
   <br/> Feign Death
   <br/> Fireball
   <br/> Fly
-  <br/> Galder's Tower ^LLK^
   <br/> Glyph of Warding
   <br/> Haste
   <br/> Hypnotic Pattern
@@ -651,7 +640,6 @@
   <br/> Major Image
   <br/> Nondetection
   <br/> Protection from Energy
-  <br/> Pulse Wave ^EGW^
   <br/> Remove Curse
   <br/> Sending
   <br/> Sleet Storm
@@ -679,8 +667,6 @@
   <br/> Conjure Minor Elementals
   <br/> Dimension Door
   <br/> Fire Shield
-  <br/> Galder's <br/>&nbsp;&nbsp;&nbsp; Speedy Courier ^LLK^
-  <br/> Gravity Sinkhole ^EGW^
   <br/> Greater Invisibility
   <br/> Hallucinatory Terrain
   <br/> ✦ Ice Block
@@ -719,7 +705,6 @@
   <br/> Contingency
   <br/> Disintegrate
   <br/> Globe of Invulnerability
-  <br/> Gravity Fissure ^EGW^
   <br/> Guards and Wards
   <br/> Heroes' Feast
   <br/> Investiture of Flame ^XGE^
@@ -759,7 +744,6 @@
   <br/> Illusory Dragon ^XGE^
   <br/> Incendiary Cloud
   <br/> Mind Blank
-  <br/> Reality Break ^EGW^
   <br/> Tsunami
   
   
@@ -773,8 +757,6 @@
   <br/> Mass Polymorph ^XGE^
   <br/> Prismatic Wall
   <br/> Meteor Swarm
-  <br/> Ravenous Void ^EGW^
-  <br/> Time Ravage ^EGW^
   <br/> Time Stop
   <br/> True Polymorph
   
@@ -792,7 +774,6 @@
   > <br/> 
   >##### Cantrips (0 Level) 
   > Chill Touch
-  > <br/> Sapping Sting ^EGW^
   > <br/> <br/>
   >##### 1st Level
   > Cause Fear ^XGE^
@@ -828,8 +809,7 @@
   > <br/> Forbiddance
   > <br/> <br/>
   >##### 7th Level
-  > Create Magen ^IDRotF^
-  > <br/> Finger of Death
+  > Finger of Death
   > <br/> Plane Shift
   > <br/> <br/>
   >##### 8th Level
@@ -1096,12 +1076,10 @@
   <br> Resurrection 
   <br> Symbol 
   <br> Temple of the Gods ^XGE^
-  <br> Tether Essence ^EGW^
   
   ##### 8th Level
   Abi-Dalzim's <br>&nbsp;&nbsp;&nbsp; Horrid Wilting ^XGE^
   <br> Antimagic Field 
-  <br> Dark Star ^EGW^
   <br> Dominate Monster 
   <br> Feeblemind 
   <br> Holy Aura 
@@ -1132,7 +1110,7 @@
   <div style='column-count:2'>
   
   ##### Cantrips (0 Level)
-  Booming Blade ^SCAG^
+  Booming Blade ^TCE^
   <br> Control Flames ^XGE^
   <br> Create Bonfire ^XGE^
   <br> Fire Bolt
@@ -1140,7 +1118,7 @@
   <br> Gust ^XGE^
   <br> ✦ Invoke Elements
   <br> ✦ Lightning Blast
-  <br> Lightning Lure ^SCAG^
+  <br> Lightning Lure ^TCE^
   <br> Mending
   <br> Mold Earth ^XGE^
   <br> Produce Flame
@@ -1278,7 +1256,6 @@
   <br/> Green-Flame Blade ^TCE^
   <br/> Mage Hand
   <br/> Produce Flame
-  <br/> Sapping Sting ^EGW^
   <br/> ✦ Shadow Bolt
   <br/> ✦ Shadow Glide
   <br/> Toll the Dead ^XGE^
@@ -1477,7 +1454,6 @@
   <br/> Feeblemind
   <br/> Glibness
   <br/> Maddening Darkness ^XGE^
-  <br/> Reality Break ^EGW^
   <br/> Telepathy
   
   ##### 9th Level
@@ -1486,7 +1462,6 @@
   <br/> Imprisonment
   <br/> Meteor Swarm
   <br/> Psychic Scream ^XGE^
-  <br/> Ravenous Void ^EGW^
   <br/> Weird
   
   </div>
