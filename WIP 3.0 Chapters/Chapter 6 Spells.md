@@ -264,9 +264,17 @@
   ✦ |In this chapter, under Spell Descriptions
   ^TCE^ | Tasha's Cauldron of Everything
   ^XGE^ |Xanathar's Guide to Everything
+ 
+
+  ### Variant Rules
+  
+  For many of the class spell lists in this chapter, you may find one or more variant rules listed. 
+  
+  These variant rules are suggestions for ways in which the Game Master can handle certain spells and concepts for that class, beyond the mechanical structure of the spells themselves. 
+  
   
   <div style='margin-top:25px;'></div>
-  
+   
   > ##### Variant Rule: On a Pale Horse
   > GMs might consider making the creatures summoned by a death knight with *find steed* and *find greater steed* undead, rather than one of the creature types listed in those spells.
   
