@@ -2070,14 +2070,14 @@
   - **Components:** S
   - **Duration:** Up to 1 hour
   ___
-  This spell channels a small amount of dark energy. You create one of the following magical effects within range:
-  - Choose a point within 30 feet. In a 5-foot radius of that point, bright light becomes dim light, and dim light becomes darkness for 1 hour. Any light sources within the area have the light they produce suppressed for the duration.
-  - An object up to 1 cubic foot in size or an area up to 1 square foot that you touch lightly decays. Wood rots, glass cracks, flowers wilt. Casting the spell and then continuing to touch the target advances the decay; after 1 minute, the target is destroyed. This spell cannot affect creatures, magical objects, or sturdy materials like metal and stone.
-  - You can reanimate a Tiny 0 CR beast for 1 hour. It is undead and obeys all of your commands to the best of it's abilities, though it cannot attack. You cannot use this effect again until the reanimated creature dies, or the effect ends.
+  You perform a minor invocation of fel magic, creating one of the following magical effects within range:
+  - Choose a point within 30 feet. In a 5-foot radius of that point, bright light becomes dim light, and dim light becomes darkness for 1 hour. Any light sources within the area are suppressed for the duration.
+  - An object up to 1 cubic foot in size or an area up to 1 square foot that you touch starts to decay. Wood rots, glass cracks, flowers wilt. Casting the spell and then continuing to touch the target advances the decay; after 1 minute, the target is destroyed. This spell cannot affect creatures, magical objects, or sturdy materials like metal and stone.
+  - You can reanimate a Tiny 0 CR beast for 1 hour. It is undead and obeys all of your commands to the best of its abilities, though it cannot attack. You cannot use this effect again until the reanimated creature dies, or the effect ends.
   - You instantaneously light a candle, torch, or small campfire. The fire glows your choice of a smoldering red, bright green, or shadowy purple until extinguished.
-  - Your fingertip glows green or purple for up to 1 minute. While it glows, you can use your finger to draw glowing lines of the same color on a solid surface that last for 1 hour.
+  - Your fingertip glows green or purple for up to 1 minute. While it glows, you can use your finger to draw glowing lines of the same color on a solid surface. Once drawn, these lines last for 1 hour.
   
-  If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+  If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss one of these effects as an action.
   
   <div class='footnote'>PART 2 | SPELLS </div>
   
