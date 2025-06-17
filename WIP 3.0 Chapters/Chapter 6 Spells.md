@@ -82,8 +82,7 @@
     }
     .phb blockquote { margin-top: 1em;
     }
-  
-  
+    
   /* INK BLOT STYLES */
   
     /* Root style for inkblots. Use alone, or together with
@@ -1884,11 +1883,11 @@
   *3rd-level evocation*
   ___
   - **Casting Time:** 1 action
-  - **Range:** 30 feet (15-feet between targets)
+  - **Range:** 30 feet
   - **Components:** V, S
   - **Duration:** Instantaneous
   ___
-  A beam of restorative energies surges through a friendly creatures. Choose a target you can see within range, then choose a target you can see within range of it, and another within range of the second target. You can't choose the same target more than once. Each target chosen by this spell regains a number of hit points equal to 2d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+  A beam of restorative energies surges through a friendly creatures. Choose a target you can see within range, then choose a second target you can see within 15 feet of the first one, and a third within 15 feet range of the second target. You can't choose the same target more than once. Each target chosen by this spell regains a number of hit points equal to 2d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
   
   ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the chain heal surges through one additional target for each slot level above 3rd.
   
