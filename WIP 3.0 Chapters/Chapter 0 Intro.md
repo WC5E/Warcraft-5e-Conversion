@@ -240,7 +240,7 @@
 <br><span style="margin-left:12px"></span> Nosfer, PersonalAmi, Peet Cooper, Peter Lee, Phillip
 <br><span style="margin-left:12px"></span> Zhang, Richard Suwono, Robin Olausson, Rogier van de 
 <br><span style="margin-left:12px"></span> Beek, Ryan Metcalf, Tim Gou, Tyler Justice Shamanguli, 
-<br><span style="margin-left:12px"></span> Shanton Feng,Shuzong, Syncmax, Tyson Murphy, 
+<br><span style="margin-left:12px"></span> Shanton Feng, Shuzong, Syncmax, Tyson Murphy, 
 <br><span style="margin-left:12px"></span> Unidcolor, Wei Wang
 
 <br> **Based on the original D&D game created by**
@@ -308,13 +308,13 @@ With each coming update, all changes will be noted in the Changelog — Link is 
 </div>
 
 <div class='wide'> 
-<div style='margin-top:-140px;'></div>
+<div style='margin-top:-90px;'></div>
 
 #### Legal Stuff
 DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
 
-<br> This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.
-<br> All other original material in this work is copyright 2019 by [your legal name or company name] and published under the Community Content Agreement for Dungeon Masters Guild.
+<br> 
+
 </div>
 
 \pagebreakNum
