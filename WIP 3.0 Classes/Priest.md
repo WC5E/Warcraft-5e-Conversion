@@ -368,7 +368,7 @@ If you gain a calling spell that doesn't appear on the priest spell list, the sp
 
 You can channel pure energy from your source of power, using that energy to fuel magical effects. You start with three such effects: Desperate Prayer, a Divine Word of your choice, and an effect determined by your calling. 
 
-You learn an additional Divine Word at 5th, 10th, and 14th levels. Some callings may grant you additional effects as you advance in level, as noted in the domain description.
+You learn an additional Divine Word at 5th, 9th, and 13th and 17th levels. Some callings may grant you additional effects as you advance in level, as noted in the domain description.
 
 When you use your Devotion, you brandish your holy symbol and choose an effect, and can only use one Devotion option per turn. Some Devotion effects require saving throws. When you use such an effect from this class, the DC equals your priest spell save DC.
 
@@ -443,7 +443,7 @@ You infuse your weapon strikes with divine energy. Choose either necrotic, psych
 You add your Charisma modifier (with a minimum bonus of +1) to the damage you deal with any priest cantrip.
 
 #### Unwavering Will 
-When you make a concentration check, you can use your reaction to add your Charisma modifier to it (with a minimum bonus of +1).
+When you make a Concentration check, you can use your reaction to add your Charisma modifier to it (with a minimum bonus of +1).
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/J5lW3Tw.png' style='position:absolute; top:0px; right:170px; width:110%; ' />
