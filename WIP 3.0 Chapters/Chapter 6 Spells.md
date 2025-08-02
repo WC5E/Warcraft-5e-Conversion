@@ -593,7 +593,6 @@
   <br/> Detect Thoughts
   <br/> Dragon's Breath ^XGE^
   <br/> Enlarge/Reduce
-  <br/> Flame Arrows
   <br/> Flame Blade
   
   \columnbreak
