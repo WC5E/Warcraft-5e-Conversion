@@ -2964,7 +2964,7 @@
   >*Medium Aberration*
   > ___
   > - **Armor Class** 11 + the spell's level
-  > - **Hit Points** 40 + 10 for each spell level above 3rd
+  > - **Hit Points** 40 + 10 for each spell level above 4th
   > - **Speed** 30 ft.. fly 40 ft.(Mindbender only; hover)
   >___
   >|STR|DEX|CON|INT|WIS|CHA|
