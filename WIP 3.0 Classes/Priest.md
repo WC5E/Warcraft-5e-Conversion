@@ -368,7 +368,7 @@ If you gain a calling spell that doesn't appear on the priest spell list, the sp
 
 You can channel pure energy from your source of power, using that energy to fuel magical effects. You start with three such effects: Desperate Prayer, a Divine Word of your choice, and an effect determined by your calling. 
 
-You learn an additional Divine Word at 5th, 9th, 13th, and 17th levels. Some callings may grant you additional effects as you advance in level, as noted in the domain description.
+You learn an additional Divine Word at 5th, 9th, 13th and 17th levels. Some callings may grant you additional effects as you advance in level, as noted in the domain description.
 
 When you use your Devotion, you brandish your holy symbol and choose an effect, and can only use one Devotion option per turn. Some Devotion effects require saving throws. When you use such an effect from this class, the DC equals your priest spell save DC.
 
@@ -498,10 +498,9 @@ Priest Level| Spells
 
 Whenever you cast a spell of 1st level or higher that deals damage, you can choose one creature you can see within 30 feet. That creature regains hit points equal to twice the spell's level.
 
-
 In addition, whenever you cast a spell of 1st level or higher that restores hit points, you can choose one creature you can see within 30 feet. That creature takes an amount of necrotic, psychic, or radiant damage (your choice) equal to twice the spell's level.
 
-You can use either effect of Atonement only once per casting of a spell. 
+You can only use one of the effects of Atonement, not both,  per casting of a spell.
 
 #### Twist of Fate
 *1st-level Discipline feature*<br/>
@@ -622,8 +621,8 @@ Priest Level| Spells
 1st |*cause fear* ^XGE^, *✦ dark void*
 3rd |*✦ mind flay*, *phantasmal force*
 5th |*✦ void shift*, *vampiric touch*
-7th |*evard's black tentacles*, *✦ schism*
-9th |*contagion*, *enervation* ^XGE^
+7th |*evard's black tentacles*, *phantasmal killer*
+9th |*enervation* ^XGE^, *✦ shadow crash*
 
 #### Psychic Voice 
 *1st-level Shadow feature*<br/>
@@ -637,9 +636,10 @@ The telepathic connection last for a number of minutes equal to your priest leve
 *1st-level Shadow feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-As a bonus action, you can choose one creature affected by one of your priest spells or abilities. That creature, and all creatures of your choice within 5 feet of them, must succeed on a Intelligence saving throw or take psychic damage equal to half your priest level. Any charmed or frightened creatures who take this damage takes an additional 1d6 psychic damage.
+As a bonus action, you can choose one creature that failed a saving throw from one of your priest spells or abilities this turn. That creature, and all creatures of your choice within 5 feet of them take 1d6 psychic damage. Any charmed or frightened creatures who take this damage takes an additional 1d6 psychic damage.
 
 You can use this bonus action a number of times equal to your proficiency bonus, and regain all expended uses when you finish a long rest. 
+
 
 #### Devotion: Shadowform 
 *2nd-level Shadow feature*<br/>
@@ -670,15 +670,16 @@ Additionally, if a creature attempts to charm or frighten you and you succeed on
 *10th-level Shadow feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-You learn how to invoke creature's deepest, darkest fears. When a creature starts their turn frightened or charmed by you, or while under the effect of one of your Shadow Calling spells, you can choose to have their movement halved and on its turn, it can use either an action or a bonus action, not both.
+You learn how to invoke creature's deepest, darkest fears. When a creature starts their turn frightened or charmed by you, or while under the effect of one of your Shadow Calling spells, their movement speed is halved and they can't take reactions until the start of their next turn. 
+
 
 #### Dark Absolution 
 *18th-level Shadow feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-Your body becomes one with shadowy magic. While you have Shadowform active, you can move through creatures and objects as though they were difficult terrain. If you end your turn inside an object, you take 1d10 force damage. 
-
-In addition, you can manipulate even the strongest of minds. After trying to inflict the frightened or charmed conditions on a creature that is immune to them, until the end of your next turn the creature is treated as if it is frightened or charmed for the purpose of your priest abilities, and gains disadvantage on ability checks while you are in their line of sight for this duration. 
+Your body becomes one with shadowy magic. While you have Shadowform active, you gain the following benefits: 
+* You can move through creatures and objects as though they were difficult terrain. If you end your turn inside an object, you take 1d10 force damage. 
+* You can manipulate even the strongest of minds. Your Priest spells and abilities ignore immunities to the charmed and frightened conditions, but creatures immune to these conditions make saving throws against them with advantage, and these effects only last until the start of your next turn. 
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/AqgsnIF.jpg' style='position:absolute; top:700px; left:80px; width:800px; ' />
