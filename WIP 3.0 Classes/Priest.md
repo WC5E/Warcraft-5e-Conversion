@@ -636,9 +636,10 @@ The telepathic connection last for a number of minutes equal to your priest leve
 *1st-level Shadow feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-As a bonus action, you can choose one creature affected by one of your priest spells or abilities. That creature, and all creatures of your choice within 5 feet of them, must succeed on a Intelligence saving throw or take psychic damage equal to half your priest level. Any charmed or frightened creatures who take this damage takes an additional 1d6 psychic damage.
+As a bonus action, you can choose one creature that failed a saving throw from one of your priest spells or abilities this turn. That creature, and all creatures of your choice within 5 feet of them take 1d6 psychic damage. Any charmed or frightened creatures who take this damage takes an additional 1d6 psychic damage.
 
 You can use this bonus action a number of times equal to your proficiency bonus, and regain all expended uses when you finish a long rest. 
+
 
 #### Devotion: Shadowform 
 *2nd-level Shadow feature*<br/>
