@@ -677,9 +677,9 @@ You learn how to invoke creature's deepest, darkest fears. When a creature start
 *18th-level Shadow feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-Your body becomes one with shadowy magic. While you have Shadowform active, you can move through creatures and objects as though they were difficult terrain. If you end your turn inside an object, you take 1d10 force damage. 
-
-In addition, you can manipulate even the strongest of minds. After trying to inflict the frightened or charmed conditions on a creature that is immune to them, until the end of your next turn the creature is treated as if it is frightened or charmed for the purpose of your priest abilities, and gains disadvantage on ability checks while you are in their line of sight for this duration. 
+Your body becomes one with shadowy magic. While you have Shadowform active, you gain the following benefits: 
+* You can move through creatures and objects as though they were difficult terrain. If you end your turn inside an object, you take 1d10 force damage. 
+* You can manipulate even the strongest of minds. Your Priest spells and abilities ignore immunities to the charmed and frightened conditions, but creatures immune to these conditions make saving throws against them with advantage, and these effects only last until the start of your next turn. 
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/AqgsnIF.jpg' style='position:absolute; top:700px; left:80px; width:800px; ' />
