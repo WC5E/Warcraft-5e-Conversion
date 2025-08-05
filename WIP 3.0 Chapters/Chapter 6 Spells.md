@@ -593,7 +593,6 @@
   <br/> Detect Thoughts
   <br/> Dragon's Breath ^XGE^
   <br/> Enlarge/Reduce
-  <br/> Flame Arrows
   <br/> Flame Blade
   
   \columnbreak
@@ -3054,4 +3053,4 @@
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the maximum hit points you can exchange increases by 10 for each slot level above 3rd.
 
-  
+ 
