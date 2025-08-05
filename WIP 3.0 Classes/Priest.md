@@ -621,8 +621,8 @@ Priest Level| Spells
 1st |*cause fear* ^XGE^, *✦ dark void*
 3rd |*✦ mind flay*, *phantasmal force*
 5th |*✦ void shift*, *vampiric touch*
-7th |*evard's black tentacles*, *✦ schism*
-9th |*contagion*, *enervation* ^XGE^
+7th |*evard's black tentacles*, *phantasmal killer*
+9th |*enervation* ^XGE^, *✦ shadow crash*
 
 #### Psychic Voice 
 *1st-level Shadow feature*<br/>
