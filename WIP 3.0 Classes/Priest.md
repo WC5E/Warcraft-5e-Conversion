@@ -498,10 +498,9 @@ Priest Level| Spells
 
 Whenever you cast a spell of 1st level or higher that deals damage, you can choose one creature you can see within 30 feet. That creature regains hit points equal to twice the spell's level.
 
-
 In addition, whenever you cast a spell of 1st level or higher that restores hit points, you can choose one creature you can see within 30 feet. That creature takes an amount of necrotic, psychic, or radiant damage (your choice) equal to twice the spell's level.
 
-You can use either effect of Atonement only once per casting of a spell. 
+You can only use one of the effects of Atonement, not both,  per casting of a spell.
 
 #### Twist of Fate
 *1st-level Discipline feature*<br/>
