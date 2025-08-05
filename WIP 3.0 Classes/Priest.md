@@ -670,7 +670,8 @@ Additionally, if a creature attempts to charm or frighten you and you succeed on
 *10th-level Shadow feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-You learn how to invoke creature's deepest, darkest fears. When a creature starts their turn frightened or charmed by you, or while under the effect of one of your Shadow Calling spells, you can choose to have their movement halved and on its turn, it can use either an action or a bonus action, not both.
+You learn how to invoke creature's deepest, darkest fears. When a creature starts their turn frightened or charmed by you, or while under the effect of one of your Shadow Calling spells, their movement speed is halved and they can't take reactions until the start of their next turn. 
+
 
 #### Dark Absolution 
 *18th-level Shadow feature*<br/>
