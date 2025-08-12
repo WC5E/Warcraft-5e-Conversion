@@ -4,7 +4,7 @@
   /* Resize page to international A4 */
   .phb {
     width: 210mm;
-    height: 296.8mm;
+    height: 297mm;
   }
   .phb:after { content: ""; }
 
@@ -103,7 +103,7 @@
   .inkblot-green {
     filter: hue-rotate(120deg)
   }
-  
+
 /* Background */
   .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
   .phb{ background-size: cover }
@@ -120,7 +120,7 @@
   .phb .footnote {color: rgba(0, 0, 0, 0.5)}
   
   /* Bottom metalwork art */
-  .phb:nth-child(odd):not(:last-child):after {
+  .phb:nth-child(odd):not(:last-child):after { 
     content          : '';
     position         : absolute;
     bottom           : -7px;
@@ -132,7 +132,7 @@
     background-size  : cover;
   }
   /* Bottom metalwork art */
-  .phb:nth-child(even):not(:last-child):after {
+  .phb:nth-child(even):not(:last-child):after { 
     content          : '';
     position         : absolute;
     bottom           : -7px;
@@ -142,6 +142,9 @@
     width            : 100%;
     background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
     background-size  : cover;
+  }
+  .phb:last-child:after {
+    display: none;
   }
 
   /* Footer with white text against dark backgrounds */
