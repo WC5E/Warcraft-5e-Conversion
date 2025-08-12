@@ -4,10 +4,18 @@
   /* Resize page to international A4 */
   .phb {
     width: 210mm;
-    height: 296.8mm;
+    height: 297mm;
   }
   .phb:after { content: ""; }
 
+/* Temporary Fix for heading issues */
+    .phb p{ line-height: 15px; } 
+    .phb blockquote p{ line-height: 14px; } 
+    .phb h2{ line-height: 26px; } 
+    .phb h3{ line-height: 19px; } 
+    .phb h4{ line-height: 15px; padding-bottom: 3px; } 
+    .phb h5{ line-height: 17px; } 
+    th, td { line-height: 14px; }
 
 /* TABLE OF CONTENTS  */
 
@@ -79,7 +87,7 @@
 /* INK BLOT STYLES */
 
   /* Root style for inkblots. Use alone, or together with
-  one of the inkb lotstyle classes below. Essentially:
+  one of the ink blotstyle classes below. Essentially:
   <img url='{url}' class='inkblot inkblot-blue' />
   */
   .inkblot {
@@ -96,330 +104,92 @@
     filter: hue-rotate(120deg)
   }
 
-/* PAGE STYLE */
+/* Background */
+  .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
+  .phb{ background-size: cover }
 
-   /* Background */
-     .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
-     .phb{ background-size: cover }
+/* Notes */
+  .phb section blockquote {background-color: #f6e5d4}
+  .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
 
-   /* Notes */
-     .phb section blockquote {background-color: #f6e5d4}
-     .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
+/* Tables */
+  table tr:nth-child(odd) td {background-color: #cccccc}
 
-   /* Tables */
-     table tr:nth-child(odd) td {background-color: #cccccc}
-
-   /* Footer */
-     .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
-     .phb .footnote {color: rgba(0, 0, 0, 0.5)}
-     .phb:nth-child(odd):after{ 
-       content          : '';
-       position         : absolute;
-       bottom           : -7px;
-       left             : 10px;
-       z-index          : -1;
-       height           : 336px;
-       width            : 100%;
-       background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
-       background-size  : cover;
-   }
-
-   .phb:nth-child(even):after{ 
-       content          : '';
-       position         : absolute;
-       bottom           : -7px;
-       left             : -10px;
-       z-index          : -1;
-       height           : 336px;
-       width            : 100%;
-       background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
-       background-size  : cover;
-   }
-
-   /* Page Number */
-   .phb .pageNumber{
-       position   : absolute;
-       bottom     : 30px;
-       width      : 50px;
-       text-align : center;
-   }
-   .phb:nth-child(even) .pageNumber{
-       left      : 12px;
-   }
-   .phb:nth-child(odd) .pageNumber{
-       right      : 12px;
-   }
-
-   .phb .pageNumber.auto{
-       position   : absolute;
-       bottom     : 41px;
-       width      : 50px;
-       text-align : center;
-   }
-   .phb:nth-child(even) .pageNumber.auto{
-       left      : 12px;
-   }
-   .phb:nth-child(odd) .pageNumber.auto{
-       right      : 12px;
-   }
-
-/* FRONT PAGE STYLES */
-
-  .cover-header-container {
-    display: block;
-    position: absolute;
-    width: 100%;
-    top: 80px;
-    left: 0;
-    right: 0;
-    clear: both;
+/* Footer */
+  .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
+  .phb .footnote {color: rgba(0, 0, 0, 0.5)}
+  
+  /* Bottom metalwork art */
+  .phb:nth-child(odd):not(:last-child):after { 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : 10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
+    background-size  : cover;
+  }
+  /* Bottom metalwork art */
+  .phb:nth-child(even):not(:last-child):after { 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : -10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
+    background-size  : cover;
+  }
+  .phb:first-child:after {
+    display: none;
+  }
+  .phb:last-child:after {
+    display: none;
   }
 
-  .cover-header-logo {
-    display: block;
-    width: 700px;
-    margin: auto;
+  /* Footer with white text against dark backgrounds */
+  .phb .footnote.footnote-white,
+  .phb .footnote.footnote-white + .pageNumber,
+  .phb .footnote.footnote-white + section .pageNumber {
+    color: rgba(255,255,255,0.8);
   }
 
-  .cover-header-divider {
-    display: block;
-    width: 580px;
-    margin: -12px auto -6px;
-  }
+/* Page Number */
+.phb .pageNumber{
+    position   : absolute;
+    bottom     : 30px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber{
+    right      : 12px;
+}
 
-  .cover-header-title {
-    display: block;
-    width: 700px;
-    margin: auto;
-    color: white;
-    font-family: NodestoCaps,nodesto,sans-serif;
-    font-weight: normal;
-    font-size: 72px;
-    line-height: 72px;
-    text-align: center;
-    text-shadow: 2px 2px 4px #000, -2px 2px 4px #000, 2px -2px 4px #000, -2px -2px 4px #000;
-  }
+.phb .pageNumber.auto{
+    position   : absolute;
+    bottom     : 41px;
+    width      : 50px;
+    text-align : center;
+}
+.phb:nth-child(even) .pageNumber.auto{
+    left      : 12px;
+}
+.phb:nth-child(odd) .pageNumber.auto{
+    right      : 12px;
+}
 
-  .cover-footer-container {
-    display: block;
-    position: absolute;
-    width: 100%;
-    bottom: 28px;
-    left: 0;
-    right: 0;
-    clear: both;
-  }
+/* Use black tones for statblock backgrounds */
+.phb blockquote {
+  box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
+}
 
-  .cover-footer-subtitle,
-  .cover-footer-version {
-    display: block;
-    width: 500px;
-    margin: auto;
-    color: white;
-    font-family: NodestoCaps,nodesto,sans-serif;
-    font-weight: normal;
-    text-align: center;
-    text-shadow: 1px 1px 2px #000, -1px 1px 2px #000, 0px 0px 2px #000;
-  }
-  .cover-footer-subtitle {
-    font-size: 28px;
-    line-height: 28px;
-  }
-  .cover-footer-version {
-    margin-top: 16px;
-    font-size: 20px;
-    line-height: 20px;
-  }
-
-/* STAT BLOCKS */
-  /* For creature statblocks within range (start and end must be specified),
-     don't show a background. Used for the appendix creatures */
-  .phb:nth-of-type(n+140):nth-of-type(-n+200) hr+section blockquote {
-    background: none;
-    border: none;
-    box-shadow: none;
-<style> .phb#p1:after { display:none; } </style>
-<img src='https://www.gmbinder.com/images/0PdNsAt.jpg' style='position:absolute; top:-80px; right:-500px; width:2000px' />
-<img src='https://www.gmbinder.com/images/3d9m32D.png' style='position:absolute; top:1000px; right:675px; width:100px' />
-
-\pagebreak
-
-## Credits
-*Contributors listed by community usernames.*
-<div style='margin-top:-20px;'></div>
-
-<br> **Lead Designer:** Jih
-<br> **Writing & Editing:** Jih, Tangerine
-
-<br> **Contributors:** Ace Azzermeen, Auvreannia, Nagash, 
-<br><span style="margin-left:12px"></span> Silverblade, Tseims
-<br> **Additional Contributors:** Our Discord Community
-
-<br> **Cover Illustrator:** Kan Liu
-<br> **Interior Illustrators:** Aaron Lovett, Adel Khanov, Alex 
-<br><span style="margin-left:12px"></span> Garner, Anastasiya Gafron, Anna Pazyniuk, Anthony 
-<br><span style="margin-left:12px"></span> Avon, Artlon, Astri Lohne, Bren Rodri, Brian Huang,
-<br><span style="margin-left:12px"></span> Conner Sheehan, Dan Scott, Dariia Kasimova, Dmitry 
-<br><span style="margin-left:12px"></span> Vernygor, Frenone, Glenn Rane, Grace Liu, Howard Pak,
-<br><span style="margin-left:12px"></span> Ina Wong, James Ryman, Jason Wang, Jerry Mascho, 
-<br><span style="margin-left:12px"></span> Jimmy Lo, Jojo So, Jorge Jacinto, Juhani Jokinen, 
-<br><span style="margin-left:12px"></span> LieSetiawanKatrina Toxicpanda, Krysdecker, Liuhao, 
-<br><span style="margin-left:12px"></span> Lowly Owly, Matthew Mckeown, Nagli, Nina Ikävalko, 
-<br><span style="margin-left:12px"></span> Nosfer, PersonalAmi, Peet Cooper, Peter Lee, Phillip
-<br><span style="margin-left:12px"></span> Zhang, Richard Suwono, Robin Olausson, Rogier van de 
-<br><span style="margin-left:12px"></span> Beek, Ryan Metcalf, Tim Gou, Tyler Justice Shamanguli, 
-<br><span style="margin-left:12px"></span> Shanton Feng,Shuzong, Syncmax, Tyson Murphy, 
-<br><span style="margin-left:12px"></span> Unidcolor, Wei Wang
-
-<br> **Based on the original D&D game created by**
-<br><span style="margin-left:12px"></span> E. Gary Gygax and Dave Arneson, as well as Brian
-<br><span style="margin-left:12px"></span> Blume, Rob Kuntz, James Ward and Don Kaye.
-
-<br> **Based on the Warcraft franchise by**
-<br><span style="margin-left:12px"></span> © Blizzard Entertainment
-
-<br> **Playtesting provided by**
-<br> **Special thanks to** 
-<br><span style="margin-left:12px"></span> This entire book was made using GM Binder. It is an
-<br><span style="margin-left:12px"></span> amazing tool for creating authentic-looking homebrew
-<br><span style="margin-left:12px"></span> material for 5th Edition Dungeons and Dragons. Without
-<br><span style="margin-left:12px"></span> it, this project would've likely never been considered.
-
-<div style='margin-top:24px'></div>
-<div style="text-align:Center">
-
-<img src='https://www.gmbinder.com/images/yiRpC5m.png' style='width:150px' />
-
-##### [www.GmBinder.com](https://www.gmbinder.com/)
-</div>
-
-<div style='margin-top:1000px'></div>
-<div style="text-align:Right"> 
-
-## Foreword </div>
-We've made this book in an attempt to bring the beloved Warcraft franchise into the 5th edition of D&D. It is a task that has taken us months to do, and it'll likely take many more still. Everyone involved are working this in their spare time, aiming to bring a genuine recreation of *Warcraft* as a D&D 5th Edition tabletop RPG.
-
-This book is made to compliment official D&D 5th edition books, including the **Player's Handbook, Dungeon Master's Guide**, and **Monster Manual**. It has been built on the framework set by those books, and designed to be brought in as any supplement book would. Without any more work than to just use the material presented.
-
-It has been written with the intention of always being a free resource for everyone to use. Never to be bought or paid for. We've made this because we want others to enjoy the Warcraft universe under D&D 5th Edition rules. Not for any monetary gain.
-
-With each coming update, all changes will be noted in the Changelog — Link is provided below.
-<div style='margin-top:-5px;'></div>
-<div style="text-align:Center"> 
-
-#### [ChangeLog](https://drive.google.com/open?id=1AtTF7o6sAZZLxA75oa-96ENNNBMAJ-z7m9Y93uk4b8A)
-</div>
-
-<br> **Our Other Projects**
-<br><span style="margin-left:12px"></span> Did you know that we have a Manual of Monsters as well
-<br><span style="margin-left:12px"></span> to go alongside the Heroes Handbook? A fully fleshed-out
-<br><span style="margin-left:12px"></span> Dungeon Master's book, bringing many of monsters with
-<br><span style="margin-left:12px"></span> it from the World of Warcraft! 
-<div style='margin-top:-5px;'></div>
-<div style="text-align:Center"> 
-
-#### [Project Folder](https://drive.google.com/open?id=1kVoAMR8TiO3CXFYcigFN2B6zk62xcnv9)
-</div>
-
-<br> **Want to help grow a community?**
-<br><span style="margin-left:12px"></span> We're a relatively small group working together on this, 
-<br><span style="margin-left:12px"></span> and as such our ability to playtest all of it is limited. 
-<br><span style="margin-left:12px"></span> If you want to help the project out and give feedback,
-<br><span style="margin-left:12px"></span> suggest changes and new features for the books, or 
-<br><span style="margin-left:12px"></span> simply just join our growing Warcraft RPG community, 
-<br><span style="margin-left:12px"></span> we have both an active discord server and a subreddit 
-<br><span style="margin-left:12px"></span> dedicated to this project! — Links below!
-<div style='margin-top:-5px;'></div>
-<div style="text-align:Center"> 
-
-#### [Discord Server](https://discord.gg/dKMJmmD) <span style="margin-left:48px"></span> [Subreddit](https://old.reddit.com/r/wc5e/)
-</div>
-
-<div style='margin-top:70px'></div>
-<div class='wide'> 
-
-#### Legal Stuff
-DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
-<br> This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.
-<br> All other original material in this work is copyright 2019 by [your legal name or company name] and published under the Community Content Agreement for Dungeon Masters Guild.
-</div>
-
-\pagebreakNum
-
-<div style="text-align: Center">
-
-# Table of Contents
-</div>
-
-<div class='toc'>
-
-- ### [<span>4</span><span>Part I: Heroes                                    </span>](#p4)
-  - #### [<span>5</span><span>Chapter 1: Races                               </span>](#p5)
-     - [<span>5</span><span>Choosing a Side                                  </span>](#p5)
-     - [<span>6</span><span>Choosing a Race                                  </span>](#p6)
-     - [<span>6</span><span>Languages                                        </span>](#p6)
-     - [<span>7</span><span>*Races of the Alliance*                          </span>](#p7)
-       - [<span>8</span><span>Human                                          </span>](#p8)
-       - [<span>10</span><span>Dwarf                                         </span>](#p10)
-       - [<span>12</span><span>Night Elf                                     </span>](#p12)
-       - [<span>15</span><span>Gnome                                         </span>](#p14)
-       - [<span>16</span><span>Draenei                                       </span>](#p16)
-       - [<span>18</span><span>Worgen                                        </span>](#p18)
-     - [<span>20</span><span>*Races of the Horde*                            </span>](#p20)
-       - [<span>21</span><span>Orc                                           </span>](#p21)
-       - [<span>23</span><span>Forsaken                                      </span>](#p23)
-       - [<span>25</span><span>Tauren                                        </span>](#p25)
-       - [<span>37</span><span>Troll                                         </span>](#p27)
-       - [<span>39</span><span>Blood Elf                                     </span>](#p29)
-       - [<span>31</span><span>Goblin                                        </span>](#p31)
-     - [<span>33</span><span>*Allied Races*                                  </span>](#p33)
-       - [<span>34</span><span>Nightborne                                    </span>](#p34)
-       - [<span>36</span><span>Pandaren                                      </span>](#p36)
-       - [<span>38</span><span>Void Elf                                      </span>](#p38)
-       - [<span>39</span><span>Vulpera                                       </span>](#p39)
-  - #### [<span>##</span><span>Chapter 2: Classes                            </span>](#p##)
-     - [<span>##</span><span>Death Knight                                    </span>](#p##)
-     - [<span>##</span><span>Demon Hunter                                    </span>](#p##)
-     - [<span>##</span><span>Druid                                           </span>](#p##)
-     - [<span>##</span><span>Hunter                                          </span>](#p##)
-     - [<span>##</span><span>Mage                                            </span>](#p##)
-     - [<span>##</span><span>Monk                                            </span>](#p##)
-     - [<span>##</span><span>Paladin                                         </span>](#p##)
-     - [<span>##</span><span>Priest                                          </span>](#p##)
-     - [<span>##</span><span>Rogue                                           </span>](#p##)
-     - [<span>##</span><span>Shaman                                          </span>](#p##)
-     - [<span>##</span><span>Warlock                                         </span>](#p##)
-     - [<span>##</span><span>Warrior                                         </span>](#p##)
-  - #### [<span>##</span><span>Chapter 3: New Backgrounds                    </span>](#p##)
-     - [<span>##</span><span>Dark Apothecary                                 </span>](#p##)
-     - [<span>##</span><span>Double Agent                                    </span>](#p##)
-     - [<span>##</span><span>Faction Fostered                                </span>](#p##)
-     - [<span>##</span><span>Kirin Tor Apprentice                            </span>](#p##)
-  - #### [<span>##</span><span>Chapter 4: New Equipment                      </span>](#p##)
-     - [<span>##</span><span>Starting Equipment                              </span>](#p##)
-     - [<span>##</span><span>Exotic Weapons                                  </span>](#p##)
-     - [<span>##</span><span>New Adventuring Gear and Tools                  </span>](#p##)
-  - #### [<span>##</span><span>Chapter 5: Customization Options              </span>](#p##)
-     - [<span>##</span><span>New Feats                                       </span>](#p##)
-     - [<span>##</span><span>Racial Feats                                    </span>](#p##)
-
-\columnbreak
-
-- ### [<span>##</span><span>Part II: Magic                                  </span>](#p##)
-  - #### [<span>##</span><span>Chapter 6: Spells                            </span>](#p##)
-     - [<span>##</span><span>Spell Lists                                    </span>](#p##)
-     - [<span>##</span><span>Spell Descriptions                             </span>](#p##)
-- ### [<span>##</span><span>Part III: Variant Rules                         </span>](#p##)
- - [<span>##</span><span>Hero Points                                        </span>](#p##)
- - [<span>##</span><span>Mana                                               </span>](#p##)
-- ### [<span>##</span><span>Appendix A: Shapeshifts                         </span>](#p##)
-- ### [<span>##</span><span>Appendix B: Demon Companions                    </span>](#p##)
-- ### [<span>##</span><span>Appendix C: World Map                           </span>](#p##)
-</div>
-
-<style> .phb#p3:after { display:none; } </style>
-
-\pagebreak
+</style>
 
 <div class='partpage'>
 
@@ -528,27 +298,28 @@ Dozens of languages can be heard across Azeroth, and every tongue has dialects a
 |:------------------|:------------|:-----------|
 |&nbsp; Common      | Humans      | Common     |
 |&nbsp; Darnassian  | Night Elves | Darnassian |
-|&nbsp; Draenei     | Draenei     | Eredic     |
+|&nbsp; Draenei     | Draenei     | Eredun     |
 |&nbsp; Dwarven     | Dwarves     | Dwarvish   |
 |&nbsp; Goblin      | Goblins     | Common     |
 |&nbsp; Gnomish     | Gnomes      | Common     |
 |&nbsp; Gutterspeak | Forsaken    | —          |
-|&nbsp; Mogu        | Pandaren    | Mogu       |
-|&nbsp; Orcish      | Orcs        | Common     |
+|&nbsp; Orcish      | Orcs        | Orcish     |
+|&nbsp; Pandaren    | Pandaren    | Mogu       |
 |&nbsp; Shalassian  | Nightborne  | Darnassian |
-|&nbsp; Taur-ahe    | Taurens     | Taur-ahe   |
+|&nbsp; Taur-ahe    | Tauren      | Taur-ahe   |
 |&nbsp; Thalassian  | High Elves  | Darnassian |
 |&nbsp; Zandali     | Trolls      | Zandali    |
 
 ##### Exotic Languages
 |&nbsp; Language    | Typical Speakers | Script        |
 |:------------------|:-----------------|:--------------|
-|&nbsp; Celestial   | Celestials       | Celestial     |
 |&nbsp; Draconic    | Dragons          | Draconic      |
-|&nbsp; Eredun      | Demons           | Eredic        |
-|&nbsp; Giant       | Ogres            | —             |
+|&nbsp; Eredun      | Demons           | Eredun        |
 |&nbsp; Kalimag     | Elementals       | Kalimag       |
-|&nbsp; Low Common  | Lesser Races     | Common        |
+|&nbsp; Low Common  | Monstrous Races  | Common        |
+|&nbsp; Ogre        | Ogres            | Ogre          |
+|&nbsp; Shath'Yar   | Old Gods         | Shath'Yar     |
+|&nbsp; Titan       | Titan-forged     | Titan         |
 
 <img src='https://www.gmbinder.com/images/1Hhc7zP.jpg' style='position:absolute; top:700px; right:-80px; width:500px' />
 <img src='https://www.gmbinder.com/images/huxbNse.png' style='position:absolute; top:200px; right:0px; width:900px; transform:scaley(-1)' />
@@ -579,10 +350,10 @@ With their penchant for migration and conquest, humans are more physically diver
 \columnbreak
 
 <br>
-<div style='margin-top:542px'></div>
+<div style='margin-top:448px'></div>
 
 ### Variety in All Things
-Humans are the most adaptable and ambitious people among Azeroth's races. They have widely varying tastes, morals, and customs in the many different kingdoms where they have settled. When they settle though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human's memory. They live fully in the present but also plan for the future, striving to leave a lasting legacy.
+Humans are the most adaptable and ambitious people among Azeroth's races. They have widely varying tastes, morals, and customs in the many different kingdoms where they have settled. When they settle though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. They live fully in the present but also plan for the future, striving to leave a lasting legacy.
 
 ### Proudly Standing
 Despite what atrocities have happened to them, humans remain hardy and brave, thoroughly committed to building strong societies, reinforcing their kingdoms, and reclaiming lost nations. Years of war have tempered their resolve, and they are more determined than ever before. Their value of virtue, honor and courage shine their ranks.
@@ -590,17 +361,17 @@ Despite what atrocities have happened to them, humans remain hardy and brave, th
 ### Faithful
 Among all human nations, the holy light is a central part of civilized society. By most it is considered the only religion and a staple of worship, respect, and honor. The religion is widely worshiped throughout Azeroth, yet humans were the first to utilize its powers in an offensive manner with the creation of paladins. Throughout their kingdoms, churches of the holy light can be found, an organization dedicated to creating a world of honor, and justice.
 
+### Affiliation
+Humans began the Alliance and it could not exist without them. Humans and orcs joined forces to face the Burning Legion years ago, but old habits returned once they dispatched the demon threat. Although the Alliance and Horde leaders bear a healthy respect for each another, old racial hatreds still stir within the hearts of their troops. 
+
+They respect the races of their alliance, and carries no ill wish against any of them. They know they are the center stone of the alliance, and that a good relationship is key.
+
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/Ke9OOwE.png' style='position:absolute; top:0px; right:-30px; width:1000px' />
 <img src='https://www.gmbinder.com/images/pbSeYXZ.png' style='position:absolute; top:50px; right:0px; width:800px; transform:scalex(-1)' />
 <img src='https://www.gmbinder.com/images/x6YvTEU.png' style='position:absolute; top:20px; right:240px; width:650px;transform:scalex(-1)' />
 
 \pagebreakNum
-
-### Affiliation
-Humans began the Alliance and it could not exist without them. Humans and orcs joined forces to face the Burning Legion years ago, but old habits returned once they dispatched the demon threat. Although the Alliance and Horde leaders bear a healthy respect for each another, old racial hatreds still stir within the hearts of their troops. 
-
-They respect the races of their alliance, and carries no ill wish against any of them. They know they are the center stone of the alliance, and that a good relationship is key.
 
 ### Human Names and Ethnicities
 Having so much more variety than other cultures, humans as a whole have no typical names. Some human parents give their children names from other languages, such as Dwarven or Darnassian, but most parents give names that are linked to their region's culture or to the naming traditions of their ancestors.
@@ -628,14 +399,13 @@ Gilneans are tall, fair to amber-skinned folk with blue or steely gray eyes. Mos
 <br>**Gilnean Names:** (Male) Blake, Chris, Fenegan, Gerard, <br>&nbsp;&nbsp;&nbsp; James, Sean, Sebastian, Vincent; (female) Amelia, <br>&nbsp;&nbsp;&nbsp; Ashley, Celestine, Loren, Mary, Melinda, Mia, Tess; <br>&nbsp;&nbsp;&nbsp; (surnames) Broderick, Cleese, Crowly, Godfrey, Walden
 
 #### Kul Tiras
-Native to the Kul Tiran isles, tirasians are generally tall and muscular, with fair to amber skin similar to that of gilneans, brown to black hair, and light colored eyes.
+Native to the Kul Tiran isles, Kul Tirans are generally tall and muscular, with fair to amber skin similar to that of gilneans, brown to black hair, and light colored eyes.<div style='margin-top:-18px;'></div>
 
-\columnbreak
-
-**Tirasian Names:** (Male) Cyrus, Denzel, Elijah, Herold, <br>&nbsp;&nbsp;&nbsp; Patrick, Ron, Wesley, Will; (female) Fray, Helena, Jess, <br>&nbsp;&nbsp;&nbsp; Joan, Kate, Leila, Louisa, Taylor; (surnames) Clark, <br>&nbsp;&nbsp;&nbsp; Ledger, Mueller, Page, Wellard
+<br>**Kul Tiran Names:** (Male) Cyrus, Denzel, Elijah, Herold, <br>&nbsp;&nbsp;&nbsp; Patrick, Ron, Wesley, Will; (female) Fray, Helena, Jess, <br>&nbsp;&nbsp;&nbsp; Joan, Kate, Leila, Louisa, Taylor; (surnames) Clark, <br>&nbsp;&nbsp;&nbsp; Ledger, Mueller, Page, Wellard
 
 #### Lordaeron
 Widespread along the Eastern Kingdoms northern realm, Lordaeronians are of medium height and slender built, with pale skin. Their hair and eye color varies widely, but silver or light colored hair and blue eyes are common.
+
 <div style='margin-top:-18px;'></div>
 
 <br>**Lordaeronian Names:** (Male) Alexi, Aurius, Gannon, <br>&nbsp;&nbsp;&nbsp; Menard, Norwyn, Othmar, Urias, Wallace; (female) <br>&nbsp;&nbsp;&nbsp; Arenya, Diahann, Ellaine, Illucia, Jandice, Lydie, Malina, <br>&nbsp;&nbsp;&nbsp; Merla; (surnames) Barton, Camden, Godwin, Hayden
@@ -662,7 +432,7 @@ It's hard to make generalizations about humans, no matter where you were born yo
 ***Alignment.*** Humans tend toward no particular alignment. The best and the worst are found among them.
 
 ***Size.*** Humans range from barely 5 to well over 6 feet tall and weigh an average of 175 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 4 feet + 8 inches + your size modifier in inches
@@ -674,6 +444,8 @@ It's hard to make generalizations about humans, no matter where you were born yo
 &nbsp;&nbsp;&nbsp; ***Speed.*** Your base walking speed is 30 feet. 
 
 ***Determination.*** When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. You can't do so again until you finish a short or long rest.
+
+***Human Spirit.*** When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.
 
 ***Skill Versatility.*** You gain proficiency in two skills or tools of your choice.
 
@@ -758,7 +530,7 @@ Your dwarf character has the following racial traits.
 ***Alignment.*** Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that all deserve to share in the benefits of a just order.
 
 ***Size.*** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 3 feet + 8 inches + your size modifier in inches
@@ -878,7 +650,7 @@ Your night elf character has the following racial traits.
 ***Alignment.*** Night elves live in close ties with the natural world, they have an unprecedented connection to nature and protect it fiercely, pulling many night elves towards good. They love freedom and variety, making most lean toward the gentler aspects of chaos as well.
 
 ***Size.*** Night elves are between 7 and 8 feet tall and weigh between 200 and 240 pounds. Your size is medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d8
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 7 inches + your size modifier in inches
@@ -977,7 +749,7 @@ Your gnome character has the following racial traits.
 ***Alignment.*** Gnomes are good-hearted, and even the tricksters amongst them are more playful than vicious. Those of evil alignment are often the result of madness. An innovative idea that consumed them.
 
 ***Size.*** Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 2 feet + 11 inches + your size modifier in inches
@@ -990,7 +762,7 @@ Your gnome character has the following racial traits.
 
 ***Artificer's Lore.*** Whenever you make an Intelligence (History) check related to magic items, alchemical <br> objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
 
-***Escape Artist.*** You can take the Disengage or Dodge action as a bonus action on each of your turns.
+***Escape Artist.*** You can take the Disengage action as a bonus action on each of your turns. In addition, you gain advantage on ability checks and saving throws to end early and avoid the grappled condition. 
 
 ***Languages.*** You can speak, read, and write Common and Gnomish. Gnomish in many ways look like dwarven, it uses the same script, and is renowned for its technical treatises and its catalogs of knowledge about the natural world.
 
@@ -1096,8 +868,12 @@ Draenei are members of the Alliance, having encountered the noble night elves sh
 
 ***Broken Draenei.*** These draenei are outcasts that have never pledged allegiance to any faction on Azeroth. They inhabit the broken planet of Draenor and are as likely to work together with members of the Alliance as they are members of the Horde.
 
+<div style='margin-top:-5px;'></div>
+
 #### Distrust of the Orcs
 Although draenei are friendly and honorable towards other races, that attitude is quickly dissolved when confonrted by an orc. They remember the atrocities done to their race by the hands of orcs on Draenor and won't leave bygones of the past to be forgotten. Draenei carry a deep distrust and in some cases hate for the orcs.
+
+<div style='margin-top:-5px;'></div>
 
 ### Names
 Draenei have two names, a birthname and an name taken upon reaching adulthood. There is no direct separate with&shy;in draenei culture that separate birthnames from a name taken later in a draenei's life. Draenei have lost too much <br> too much to still keep family names.
@@ -1116,7 +892,7 @@ Your draenei character has the following racial traits.
 ***Alignment.*** Draenei are mostly good. Those who strive towards law are sages, priests, paladins, vindicators, or scholars. Those who tend toward chaos are warriors, rangers, or in other ways people more fond of pure fighting.
  
 ***Size.*** Draenei are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d6
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 5 inches + your size modifier in inches
@@ -1129,22 +905,24 @@ Your draenei character has the following racial traits.
  
 ***Shadow Resistance.*** You have resistance against <br>necrotic damage.
 
-\columnbreak
-
 &nbsp;&nbsp;&nbsp; ***Languages.*** You can speak, read, and write Common and Draenei. The Draenei language, is a strange and compli-cated language for other races to learn. Seemingly having no resemblance with any Azerothian languages.
 
 ***Subrace.*** Three subraces of draenei exist: exodar draenei, lightforged draenei, and broken draenei. Choose one of these subraces.
 
+<div style='margin-top:-5px;'></div>
+
 #### Exodar Draenei
-As an exodar draenei, you have a natural connection with the Naaru, strengthening your bond to the light. You have fled your home planet of Arugs from the Burning Legion's crusade, forced into exile for centuries before crash land&shy;ing on Azeroth's Azuremyst Isles.
+As an exodar draenei, you have a natural connection with the Naaru, strengthening your bond to the light. You have fled your home planet of Argus from the Burning Legion's crusade, forced into exile for centuries before crash land&shy;ing on Azeroth's Azuremyst Isles.
 
 ***Ability Score Increase.*** Your Strength score <br> increases by 1.
  
 ***Gemcutting.*** You are proficient with the jeweler's tools.
  
-***Gift of the Naaru.*** As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can’t use it again until you finish a long rest.
+***Gift of the Naaru.*** As an action, you can touch a creature and cause it to regain a number of hit points equal to your character level. Once you use this trait, you can’t use it again until you finish a long rest.
  
 ***Heroic Presence.*** You can cast *heroism* and *divine favor* with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can’t cast it again with this trait until you finish a long rest.
+
+<div style='margin-top:-5px;'></div>
 
 #### Lightforged Draenei
 As a lightforged draenei, you have committed yourself to a crusade against the burning legion, infusing your body with the holy light. You are part of the Army of the Light, a force of draenei that took the fight with the Burning Legion into the Twisting Nether and more recently, Azeroth.
@@ -1156,6 +934,8 @@ As a lightforged draenei, you have committed yourself to a crusade against the b
 ***Holy Resistance.*** You have resistance to radiant damage.
  
 ***Light's Judgement.*** You know the *light* cantrip. When you reach 3rd level, you can cast the *guiding bolt* spell once per long rest. When you reach 5th level, you can cast the *branding smite* spell once per long rest. Wisdom is your spellcasting ability for these spells.
+
+<div style='margin-top:-5px;'></div>
 
 #### Broken Draenei
 As a broken draenei, you were left on Draenor as the legion invaded, your connection to the Naaru have been severed, leaving you an empty shell of your kin. The severance has disfigured your form, making you a outcast amongst the exodar and lightforged draenei.
@@ -1223,6 +1003,8 @@ Most worgens were gilnean humans and follow the naming conventions of humans. Ho
 <br> **Gilnean Surnames:** Broderick, Cleese, Crowly, Godfrey, <br>&nbsp;&nbsp;&nbsp;  Walden, Whitewall, Hammond, Hayward
 <br> **Worgen Surnames:** Greymane, Moonfang, Mistmantle, <br>&nbsp;&nbsp;&nbsp; Bloodfang, Darkwalker
 
+<div style='margin-top:-5x;'></div>
+
 ### Worgen Traits
 Your worgen character has the following racial traits.
 
@@ -1233,7 +1015,7 @@ Your worgen character has the following racial traits.
 ***Alignment.*** Worgen tend to become chaotic, while originating from humans, the infection of their blood with the wolves has made them more unpredictable.
 
 ***Size.*** Like humans, they vary widely in height and build, most standing well over 6 feet tall, and weigh around 250 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 2 inches + your size modifier in inches
@@ -1247,6 +1029,8 @@ Your worgen character has the following racial traits.
 ***Darkvision.*** Accustomed to the black nights, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
 ***Bite.*** Your ranged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier.
+
+***Keen Hearing and Smell:*** You have advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 ***Hunter's Lore.*** You gain proficiency with one of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, or Survival.
 
@@ -1332,7 +1116,7 @@ Your orc character has the following racial traits.
 ***Alignment.*** Orcs might not have an innate tendency toward evil, but many end up there. Evil or not, many orcs lean toward a chaotic alignment.
 
 ***Size.*** Orcs are between 6 and 7 feet tall and muscularly built, averaging around 300 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d8
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 5 feet + 10 inches + your size modifier in inches
@@ -1356,7 +1140,7 @@ Your orc character has the following racial traits.
 ***Subrace.*** Orcs are taught different skills depending on their clan. Orcish clans are categorized into three: hunter clans, mystic clans, and warrior clans. Choose one of these clans and work with your DM to determine the significance of your chosen clan.
 
 #### Hunter Clans
-Some orc clans prefer a more stealth approach to things, hiding and waiting for the perfect time to ambush, such clans include The Shattered Hand, and Bleeding Hollow. Two large orc clans, that go in for a much more stealthy approach to things.
+Some orc clans prefer a more stealth approach to things, hiding and waiting for the perfect time to ambush, such as the Shattered Hand clan, and the Bleeding Hollow clan. 
 
 ***Ability Score Increase.*** Your Dexterity score <br> increases by 1.
 
@@ -1367,7 +1151,7 @@ Some orc clans prefer a more stealth approach to things, hiding and waiting for 
 #### Mystic Clans
 Not many orc clans go in for the use of magic, and those that do are usually more secretive than the rest. Generally less keen on working with other clans are spend their time as a nomadic folk rather than settling in a certain area. Such clans include The Shadowmoon, and Stormreaver. 
 
-***Ability Score Increase.*** Your choice of your Intelligence or Wiscom score increases by 1.
+***Ability Score Increase.*** Your choice of your Intelligence or Wisdom score increases by 1.
 
 ***Ancestral Call.*** You can cast the *augury* spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Wisdom is your spellcasting ability for this spell.
 
@@ -1402,9 +1186,11 @@ The Forsaken originally became allies of the Horde out of necessity and convenie
 
 Though initially the Forsaken alliance with the Horde was one of pure convenience, in recent times it appears that their position in the faction has begun to solidify and many, though not all, of the Forsaken appear to be more or less loyal to the Horde now. 
 
+<div style='margin-top:-5px;'></div>
+
 \columnbreak
 
-<div style='margin-top:690px'></div>
+<div style='margin-top:690px;'></div>
 
 ### Strange Behaviors
 Forsaken culture is strange, a perverse combination of the lives they once knew as mortals and the mindless slavery they experienced in the Scourge, colored by white-hot rage toward the Lich King and an almost equally intense devotion to their queen. 
@@ -1555,7 +1341,7 @@ Your tauren character has the following racial traits.
 ***Alignment.*** Most tauren are lawful, keeping to their tribal code. Those who are evil are shunned upon, most either outlaws or corrupted in some form.
 
 ***Size.*** Tauren are between 8 and 10 feet tall and weigh between 400 and 600 pounds. Your size is Medium, yet you tower over most other humanoids. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d12
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 7 feet + 11 inches + your size modifier in inches
@@ -1567,8 +1353,6 @@ Your tauren character has the following racial traits.
 &nbsp;&nbsp;&nbsp; ***Speed.*** Your base walking speed is 30 feet.
 
 ***Horns.*** Your horns are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-
-\columnbreak
 
 &nbsp;&nbsp;&nbsp; ***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
@@ -1608,7 +1392,7 @@ As a taunka, you are considered a relative to the tauren race and a branch of th
 ***Tundra Walker.*** You can move across difficult terrain made of ice or snow without expending extra movement.
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://www.gmbinder.com/images/WxaNruu.png' style='position:absolute; top:940px; right:40px; width:350px' />
+<img src='https://www.gmbinder.com/images/WxaNruu.png' style='position:absolute; top:945px; right:40px; width:350px' />
 
 \pagebreakNum
 
@@ -1632,6 +1416,8 @@ Ice trolls are generally evil and like most trolls, they are fierce protectors o
 Cannibalism was a relatively common practice amongst trolls, although through the decades, and with their integration into the horde, their cannibalism had been frowned upon by most, and has since been made a forbidding practice by the horde, some still practice it, but non do so openly.
 
 Not all trolls practice voodoo, but it is widespread. It was given to the trolls by their worshiped gods the Loa, and the exact emergence of voodoo among the trolls is unknown, for most tribes that possess such knowledge are unwilling to share it with outsiders.
+
+<div style='margin-top:-5px;'></div>
 
 \columnbreak
 
@@ -1679,7 +1465,7 @@ Your troll character has the following racial traits.
 ***Alignment.*** Trolls are a neutral race and their alignment can vary drastically between subraces. Most trolls tend to be lawful, with each tribe often having particular customs and rules for tribesmen to abide by.
 
 ***Size.*** Trolls are between 7 and 8 feet tall and weigh between 200 and 300 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 5 feet + 8 inches + your size modifier in inches
@@ -1817,7 +1603,7 @@ Your blood elf character has the following racial traits.
 ***Alignment.*** Blood elves live in a society where ranks and titles carry tremendous weight and where strict laws have been put in place for them to follow, pushing them towards lawful alignments. Personal desires varies drastically, and both those of good and evil alignment exist.
 
 ***Size.*** Blood elves are between 5 and 6 feet tall and weigh between 125 and 175 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 4 feet + 9 inches + your size modifier in inches
@@ -1890,12 +1676,9 @@ Though many shops remain independent, a growing number of them have signs declar
 The goblins are also legendary for the sheer variety of trade in which they are willing to indulge and for their tenacity in bargaining. 
 
 <div class='footnote'>PART 1 | RACES</div>
-<img src='https://images.gamewatcherstatic.com/image/file/3/61/81233/Hearth.jpg' style='position:absolute; top:0px; right:0px; width:1195px' />
-<img src='https://www.gmbinder.com/images/grtcWyc.jpg' style='position:absolute; top:0px; right:300px; width:1195px' />
-<img src='https://i.pinimg.com/originals/50/9f/07/509f072bb05dacf7b667394d688c1f7f.jpg' style='position:absolute; top:0px; right:-500px; width:1340px' />
-<img src='https://i.redd.it/gbiq2nyzkoo31.png' style='position:absolute; top:0px; right:0px; width:1190px' />
-<img src='https://www.gmbinder.com/images/Npi5n8k.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/tdgTze8.png' style='position:absolute; top:340px; right:325px; width:500px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/grtcWyc.jpg' style='position:absolute; top:00px; right:100px; width:1995px' />
+<img src='https://www.gmbinder.com/images/Npi5n8k.png' style='position:absolute; top:0px; right:-20px; width:900px' />
+<img src='https://www.gmbinder.com/images/tdgTze8.png' style='position:absolute; top:440px; right:352px; width:450px; transform:scalex(-1)' />
 
 \pagebreakNum
 
@@ -1930,14 +1713,12 @@ Your goblin character has the following racial traits.
 ***Alignment.*** Most goblins lean towards chaotic neutral. They rarely show a sense of moral or consideration for the consequences of their actions, preferring to live in the moment and leave the troubles to tomorrow.
 
 ***Size.*** Goblins are between 3 and 4 feet and weigh between 40 and 80 pounds. Your size is Small. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 2 feet + 12 inches + your size modifier in inches
 <br>&nbsp;&nbsp;&nbsp; ***Weight in Pounds:*** 40 + (1 x your size modifier)
 </div>
-
-\columnbreak
 
 &nbsp;&nbsp;&nbsp; ***Speed.*** Your base walking speed is 25 feet.
 
@@ -1993,6 +1774,8 @@ The Shal'dorei have an air of superiority that often comes across as pompous. Th
 
 These were the less admirable qualities of night elven civilization back then, and the shal'dorei continue in them as if nothing has changed and as if they still remain the center of the world.
 
+<div style='margin-top:-5px;'></div>
+
 \columnbreak
 
 <div style='margin-top:650px;'></div>
@@ -2030,7 +1813,7 @@ Your nightborne character has the following racial traits.
 ***Alignment.*** Order and structure are key to nightborne societies, they believe that reputation and status are of the utmost concern and that mortality and principles of right and wrong are viewed too often in that light. Most night&shy;borne are lawful.
 
 ***Size.*** Nightborne are between 7 and 8 feet tall and weigh between 180 and 220 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d8
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 6 feet + 8 inches + your size modifier in inches
@@ -2094,10 +1877,10 @@ Covered in colorful fur from head to toe, pandaren appear like massive humanoid 
 
 Pandaren colorations varies widely, from a dark brown to a golden yellow, one thing that is consistent throughout all pandarens are their white markings, all pandarens have these upon their face, and many also have patches of white on their paws of torso. Pandarens don't have hair, but many stylize their fur on top of their head, letting it grow longer to resemble hair.
 
-<div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/6XAsG6F.jpg' style='position:absolute; top:0px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/kDzvP48.png' style='position:absolute; top:-170px; right:0px; width:1000px' />
 <img src='https://www.gmbinder.com/images/6aiPMLT.png' style='position:absolute; top:75px; right:-180px; width:750px; transform:scalex(-1); z-index:10' />
+<div class='footnote'>PART 1 | RACES</div>
 
 \pagebreakNum
 
@@ -2130,7 +1913,7 @@ Your pandaren character has the following racial traits.
 ***Alignment.*** Pandaren are a peaceful and sociable race that for the most parts tend to their own, making most pandarens neutral or good aligned. Pandarens are rare of an evil alignment and finding an evil pandaren is often the product of foul magic influencing its mind.
 
 ***Size.*** Pandaren are between 5 and 7 feet tall and weigh between 250 and 400 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 5 feet + 2 inches + your size modifier in inches
@@ -2151,14 +1934,15 @@ Your pandaren character has the following racial traits.
 
 After you use your quaking palm, you can't use it again until you finish a short or long rest.
 
-***Languages.*** You can speak, read, and write, Common and Mogu. Mogu is the language of Pandaria, forced upon the inhabitants of Pandaria by the mogu empire. It is a strange and unfamiliar language to the rest of Azeroth, with a multitude of words meaning one common thing.
+***Languages.*** You can speak, read, and write Common and Pandaren. Pandaren is the language of Pandaria, a descendant of the Mogu language forced upon the inhabitants of Pandaria by the mogu empire. It is a strange and unfamiliar language to the rest of Azeroth, with a multitude of words meaning one common thing.
 
 <img src='https://www.gmbinder.com/images/SvYw20C.jpg' style='position:absolute; top:700px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:0px; right:0px; width:850px; transform:scalex(-1)' />
+<div class='footnote footnote-white'>PART 1 | RACES</div>
 
-\pagebreak
+\pagebreakNum
 
-<div style='margin-top:131px;'></div>
+<div style='margin-top:121px;'></div>
 
 ## Void Elf
 Infused by the void itself, the Ren'dorei--children of the void--are a group of blood elves exiled from their homeland of Quel'Thalas. Cast out for their teachings at the hand of the elven magister Umbric, the elves have embraced their newfound powers, though the inner turmoil it has caused may well follow them through their lives as they fight to maintain control over it.
@@ -2176,13 +1960,15 @@ However, the other magisters did not agree. Least of all the Grand Magister, who
 Now, emboldened by their newfound powers, the void elves have sworn to make their claim on the world, under the joint leadership of magister Umbric and Alleria Windrunner. 
 
 ### Ethereals, Friend and Foe
-Beings of energy, Ethereals are extradimensional creatures that have travelled great distances across the Great Dark. Normally composed of arcane energies, it is a group of void-touched Ethereals that have turned the Ren'dorei into what they are today. Alleria Windrunner, co-leader to Magister Umbric, owed much of her power to the teachings of an Ethereal named Locust-Walker.
+Beings of energy, Ethereals are extradimensional creatures that have travelled great distances across the Great Dark. Normally composed of arcane energies, it is a group of void-touched Ethereals that have turned the Ren'dorei into what they are today. Alleria Windrunner, co-leader to Magister Umbric, owed much of her power to the teachings of an Ethereal named Locus-Walker.
 
-It was only thanks to the machinations of void ethereals hoping to turn Magister Umbric and his followers into true creatures of void along with the timely intervention of Alleria Windrunner that has turned these former denizens of Quel'thalas into something more. Now Locust-Walker along with other ethereals who's goals aligned with the Ren'dorei roam their base of Telogrus Rift, teaching and guiding all Children of Quel'thalas in the ways of the Void.
+It was only thanks to the machinations of void ethereals hoping to turn Magister Umbric and his followers into true creatures of void along with the timely intervention of Alleria Windrunner that has turned these former denizens of Quel'thalas into something more. Now Locus-Walker along with other ethereals who's goals aligned with the Ren'dorei roam their base of Telogrus Rift, teaching and guiding all Children of Quel'thalas in the ways of the Void.
+
+<div style='margin-top:-5px;'></div>
 
 \columnbreak
 
-<div style='margin-top:790px;'></div>
+<div style='margin-top:650px;'></div>
 
 ### Affiliation
 Void elves are an independent subrace of blood elves that have been exiled from Quel'Thalas for their meddling with the void. The elves choose to embrace or try to forget their status as outcasts, for they will forever be unwelcome in the land they've left behind.
@@ -2191,16 +1977,17 @@ Void elves are an independent subrace of blood elves that have been exiled from 
 
 ***Horde.*** No void elves exist within the Horde, as those that learned to control the void swore to follow the ranger-general Alleria Windrunner and have joined the Alliance.
 
+> ##### Emergence of the Void Elves
+> The Ren'dorei are specific group of void elves that followed the teachings of magister Umbric, though he is not the first elf to have dabbled with the void. Talk with your DM if you want to play as a void elf before the Burning Legion's defeat on Argus.
+
+
 <div class='footnote'>PART 1 | RACES</div>
 <img src='https://www.gmbinder.com/images/JLhq6RD.jpg' style='position:absolute; top:-100px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/H47MOpD.png' style='position:absolute; top:0px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/kDzvP48.png' style='position:absolute; top:0px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/hTLvvHS.png' style='position:absolute; top:100px; right:-200px; width:800px' />
+<img src='https://www.gmbinder.com/images/kDzvP48.png' style='position:absolute; top:-80px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/hTLvvHS.png' style='position:absolute; top:-20px; right:-200px; width:800px' />
 
 \pagebreakNum
-
-> ##### Emergence of the Void Elves
-> The Ren'dorei are specific group of void elves that followed the teachings of magister Umbric, though he is not the first elf to have dabbled with the void. Talk with your DM if you want to play as a void elf before the Burning Legion's defeat on Argus.
 
 ### Names
 Void elves continue to follow the naming conventions of blood elves and little discrepancy exists between the two. However, with their exile from Quel'Thalas, some void elves have chosen to change their family name for one that embraces their new powers.
@@ -2217,8 +2004,8 @@ Your void elf character has the following racial traits.
 
 ***Alignment.*** Although chaos and unpredictability is pro&shy;minent in many void elves, they have maintained a lawful alignment similar to blood elves. Those that succumb to the void often turn chaotic in their alignment.
 
-***Size.*** Blood elves are between 5 and 6 feet tall and weigh between 125 and 175 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+***Size.*** Void elves are between 5 and 6 feet tall and weigh between 125 and 175 pounds. Your size is Medium. To set your height and weight randomly, start with rolling the size modifier:
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d10
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 4 feet + 9 inches + your size modifier in inches
@@ -2290,7 +2077,7 @@ Your vulpera character has the following racial traits.
 &nbsp;&nbsp;&nbsp; ***Alignment.*** Most vulpera lean towards true neutral, they keep to themselves and care for the wellbeing of their own. However, their affection for other beings can often be inter&shy;preted as acts of kindness, even if it is not done out of the kindness of their hearts. 
 
 ***Size.*** Vulpera are between 3 and 4 feet and average about 50 pounds. Your size is Small. To set your height and weight randomly, start with rolling the size modifier:
-<div style="margin-top: -18px; font-family: ScalySans, sans-serif">
+<div style="margin-top: -20px; font-family: ScalySans, sans-serif">
 
 <br>&nbsp;&nbsp;&nbsp; ***Size Modifier:*** 2d4
 <br>&nbsp;&nbsp;&nbsp; ***Height:*** 2 feet + 8 inches + your size modifier in inches
@@ -2319,10 +2106,120 @@ Once you use this trait, you can't use it again until you finish a short or long
 <br> and two other languages of your choice. Vulpera are a nomadic race that picks up the languages of those
 <br> they travel among.
 
-<img src='https://www.gmbinder.com/images/ji0HTvu.jpg' style='position:absolute; top:620px; right:0px; width:1000px' />
-<img src='https://www.gmbinder.com/images/wvTUmvu.png' style='position:absolute; top:0px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/ji0HTvu.jpg' style='position:absolute; top:660px; right:0px; width:1000px' />
+<img src='https://www.gmbinder.com/images/wvTUmvu.png' style='position:absolute; top:35px; right:0px; width:1000px' />
 
 \pagebreak
 
-<style> .phb#p41:after { display:none; } </style>
-<img src='https://www.gmbinder.com/images/N3q1qJX.jpg' style='position:absolute; top:0px; right:-25px; width:850px' />
+<style>
+
+/* BACK PAGE STYLES */
+
+  /* Remove footer from back page, replace pX with last page number */
+  .phb#pX:after { display:none; }
+
+  .phb .back-cover-content {
+    padding-left: 4px;
+    padding-right: 16px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
+  }
+  .phb .back-cover-right {
+      padding-left: 40px;
+  }
+  .phb .back-cover-image {
+    height: 1136px;
+    left: -20px;
+    top: -10px;
+    width: 475px;
+    background-size: 475px 1136px;
+  }
+  .phb .back-cover-header p {
+    line-height: 76px;
+  }
+  .phb .back-cover-diamond {
+    display: block;
+    position: initial;
+    left: initial;
+    top: initial;
+    margin: auto;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+  }
+ .phb .back-cover-logo-container {
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 314px;
+ }
+ .phb .back-cover-logo,
+ .phb .back-cover-logo-link {
+     position: initial;
+     margin: auto;
+     margin-bottom: 8px;
+     left: initial;
+     bottom: initial;
+     right: initial;
+     background-repeat: no-repeat;
+ }
+ 
+ </style>
+ 
+ <img src='https://www.gmbinder.com/images/4UrFsXk.jpg' style="position:absolute; right:-194px; bottom:0px; height:1160px;" />
+ 
+ <div class='back-cover-image'></div>
+ 
+ <div style='margin-top:20px;'></div>
+ 
+ <div class='back-cover-header'>
+ 
+ Warcraft
+ 
+ 5th Edition
+ 
+ </div>
+ 
+<div class='back-cover-text'>
+ 
+  *WC5E Heroes Handbook v3*
+ 
+  This document is part of the third major revision of our *Warcraft 5th Edition* project; a collection of player classes, races, backgrou&shy;nds, creature statblocks, and more to put a Warcraft spin on core Dungeons & Dragons material.
+
+  We're a cozy little gang of people having fun writing this material in our spare time, and are always looking for people to join us, chat with us, and tell us what they think. If you'd like to do just that, this is where you can find us:
+  
+  [Our project on Github](https://github.com/WC5E/Warcraft-5e-Conversion/) <br />
+  [Our community on Reddit](https://www.reddit.com/r/wc5e/) <br />
+  [Our community on Discord](https://discord.com/invite/dKMJmmD)
+  
+</div>
+ 
+<div class='back-cover-diamond' style='top: 679px;'></div>
+ 
+<div style='margin-top:35px;'></div>
+ 
+<div class='back-cover-close'>
+
+  Big love from the team. ❤
+
+   
+</div>
+
+<div class='back-cover-logo-container'>
+ 
+  <div class='back-cover-logo'></div>
+ 
+  <div class='back-cover-logo-link'>
+ 
+  [WWW.GMBINDER.COM](https://www.gmbinder.com)
+ 
+  </div>
+
+</div>
+ 
+ \columnbreak
+
+<div class='back-cover-right'>
+
+</div>

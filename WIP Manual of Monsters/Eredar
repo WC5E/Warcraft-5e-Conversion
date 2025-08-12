@@ -1,0 +1,229 @@
+___
+> ## Eredar Brute
+>*Large fiend(demon), chaotic neutral*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 85 (10d10 + 30)
+> - **Speed** 40 ft. 
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|11 (+0)|17 (+3)|14 (+2)|13 (+1)|17 (+3)|
+>___
+> - **Saving Throws** Str +7 , Wis +4 
+> - **Skills** Athletics +7
+> - **Damage Resistances** bludgeoning, piercing, and slashing damage from nonmagical weapons; fire 
+> - **Damage Immunities** poison
+> - **Condition Immunities** charmed, frightened
+> - **Senses** Senses
+> - **Languages** Common, Eredun
+> - **Challenge** 6 (2,300 XP)&nbsp;&nbsp;&nbsp;&nbsp; **Proficiency Bonus** +3 
+> ___
+>
+> ***Dread Crush.*** If the eredar brute moves at least 20 feet in a straight line toward a creature, it can use its bonus action to leap up to 10 feet toward a direction and make a burning claws attack against a creature in range. If it hits, the creature must succeed against a DC 17 Constitution saving throw or that creature is stunned until the start of the eredar brute's next turn. 
+>
+> ***Innate Spellcasting.*** The eredar's innate spellcasting ability is Charisma (spell save DC 14, +6 to spell attacks). It can innately cast the following spells, requiring no components:
+> </br> At will: *detect magic* 
+> </br> 1/day: *cause fear*, *hold person.* 
+>
+> ***Magic Resistance.*** The eredar brute has advantage on saving throws against spells and other magical effects.  
+>
+> ### Actions
+> ***Multiattack.*** The eredar brute makes two Burning Claw attacks. 
+>
+> ***Burning Claws.*** *Melee Weapon Attack:* +X to hit, 10 feet, one target: 13 (2d8 + 4) slashing damage plus 4 (1d8) fire damage.
+>
+> ***Overpowering Flurries (Recharge 5-6).*** The Eredar Brute uses its Multiattack, but on a hit, it deals the fire damage of its Burning Claw to all creatures within 5 feet of the creature it hit. 
+>
+> ### Reaction
+> ***Enrage.*** When the eredar brute suffers from a critical hit, or falls below half its hit point maximum, it can enrage as a reaction, gaining 20 temporary hit points. While it possesses these temporary hit points, its movement speed increases by 10 feet and it deals additional fire damage with weapon attacks equal to its Charisma modifier.  
+>
+>
+
+___
+> ## Eredar Warlock
+>*Large fiend (demon), chaotic evil*
+> ___
+> - **Armor Class** 12 (16 with *demon skin*)
+> - **Hit Points** 113 (151d10 + 30)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|14 (+2)|15 (+2)|19 (+4)|14 (+2)|18 (+4)|
+>___
+> - **Saving Throws** Int +8 , Wis +6 
+> - **Skills** Arcana +8 , History +8 
+> - **Damage Resistances** fire, necrotic, poison
+> - **Condition Immunities** charmed, frightened
+> - **Senses** darkvision 60 ft., 
+> - **Languages** Common, Eredun 
+> - **Challenge** 9 (5,000 XP)  &nbsp;&nbsp;&nbsp;&nbsp; **Proficiency Bonus** +4 
+> ___
+>
+> ***Innate Spellcasting.*** The eredar's innate spellcasting ability is Charisma (spell save DC 16, +8 to spell attacks). It can innately cast the following spells, requiring no components:
+>
+> </br> At will: *demon skin* (at 4th level), *detect magic*, *disguise self*
+> </br> 1/day: *summon greater demon*, *contagion*
+>
+> ***Magic Resistance.*** The eredar warlock has advantage on saving throws against spells and other magical effects
+>
+> ***Spellcasting.*** The eredar is a 14th-level spellcaster. Its spellcasting modifier is Intelligence (spell save DC 16 , +8 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It has the following warlock spells prepared. 
+>
+> <br> Cantrips (at will): *chill touch, diabolism, fel flame, mage hand, shadow bolt* 
+> <br> 1st-5th level (three 5th level slots): *bane, cause fear, drain life, hex, ray of sickness, hold person, bestow curse, hunger of hadar, blight, compulsion, dominate person* 
+> ### Actions
+> ***Dagger.*** *Melee Weapon Attack:* +5 to hit, 10 feet, one target: 6 (2d4 + 1) piercing damage. 
+>
+>
+> ### Reaction 
+> ***Power Drain (Recharge 5-6).*** When the eredar warlock succeeds on a saving throw against a spell, it can use its reaction to force the caster of the spell to make a Charisma saving throw against its spell DC. On a failed save, the eredar warlock regains one expended spell slot, and the caster can't cast spells other than cantrips for 1 minute. 
+>
+>
+
+
+\pagebreak
+
+___
+> ## Eredar Doommaiden
+>*Large fiend (demon), chaotic evil*
+> ___
+> - **Armor Class** 14 
+> - **Hit Points** 119 (14d10 + 42)
+> - **Speed** 30 ft., fly 60 ft. 
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|18 (+4)|16 (+3)|14 (+2)|15 (+2)|16 (+3)|
+>___
+> - **Saving Throws** Dex +7 , Int +5
+> - **Skills** Acrobatics +7  
+> - **Damage Resistances** fire, necrotic, poison
+> - **Condition Immunities** charmed, frightened 
+> - **Senses** darkvision 60 ft., 
+> - **Languages** Common, Eredun
+> - **Challenge** 8 (3,900 XP)  &nbsp;&nbsp;&nbsp;&nbsp; **Proficiency Bonus** +3
+> ___
+>
+> ***Dive Attack.*** If the doommaiden is flying and dives at least 30 feet straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 3 (1d6) damage to the target
+>
+> ***Innate Spellcasting.*** The eredar's innate spellcasting ability is Charisma (spell save DC 16, +8 to spell attacks). It can innately cast the following spells, requiring no components:
+>
+> </br> At will: *detect magic*, *disguise self*,  *false life* 
+> </br> 3/day: *hex*, *shield*, *misty step* 
+>
+> ### Actions
+> ***Multiattack.*** The Doommaiden makes two melee attacks. It can replace one of these attacks with her Fel Bulwark action. 
+>
+> ***Fel Bulwark.*** One fiend within 30 feet of the doommaiden is bolsters. That creature gains 20 temporary hit points, and while it has these hit points, the creature gains a bonus to saving throws equal to the doommaiden's Charisma modifier. 
+> 
+> ***Felclaws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 13 (2d8 + 4) slashing damage, and 4 (1d8) necrotic damage. The doomaiden can alternatively choose not do the slashing damage to instead grapple the creature (escape DC XX). 
+> 
+> ***Shadow Rend.*** *Melee Spell Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on all ability checks, and whenever that creature takes damage, they take an additional 1d8 necrotic damage.
+>
+> ### Reactions 
+>
+> ***Fel Backdraft (Recharge 5-6).*** When the eredar doommaiden is hit, it can use it reaction to force all creatures within 10 feet of it to make a DC 15 Dexterity saving throw, or be knocked back 5 feet and knocked prone. It can then move up to half its fly speed. 
+>
+
+\pagebreak
+
+___
+> ## Wrathguard
+>*Large fiend (demon), lawful evil*
+> ___
+> - **Armor Class** 18 (plate)
+> - **Hit Points** 98 (14d10 + 28)
+> - **Speed** 35 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|15 (+2)|14 (+2)|15 (+2)|12 (+1)|13 (+1)|
+>___
+> - **Saving Throws** Str +8 Cha +5 
+> - **Skills** Athletics +8 , Intimidation +5 , Perception +5 
+> - **Damage Resistances** fire, poison
+> - **Condition Immunities** charmed, frightened 
+> - **Senses** darkvision 120 ft., passive Perception 15
+> - **Languages** Common, Eredun
+> - **Challenge** 8 (3,900 XP) &nbsp;&nbsp;&nbsp;&nbsp; **Proficiency Bonus**+ 3 
+> ___
+> ***Indomitable (2/day).*** The wrathguard rerolls a failed saving throw. 
+> 
+> ***Legion Strike.*** Once on each of its turns when the wrathguard makes a longsword attack, it can make another attack against a different creature that is within 5 feet of both the first creature and the wrathguard.
+> 
+> ***Magic Weapons.*** The wrathguard's weapon attacks are magical.  
+> 
+> ### Actions
+> ***Multiattack.*** The wrathguard makes three longsword attacks. 
+>
+> ***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+
+
+
+
+
+
+\pagebreak
+
+___
+___
+> ## Eredar Lord 
+>*Huge fiend (demon), lawful evil*
+> ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 263 (25d12 + 100) 
+> - **Speed** 40 feet 
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|21 (+5)|12 (+1)|19 (+4)|20 (+5)| 17 (+3)|19 (+4)|
+>___
+> - **Saving Throws** Str +10, Wis +8, Int +10, Cha +9 
+> - **Skills** Arcana +10 , Deception +9, Perception +8,  Intimidation +9 
+> - **Damage Resistances** bludgeoning, piercing, and slashing damage from nonmagical weapons; necrotic
+> - **Damage Immunities** fire, poison
+> - **Condition Immunities** charmed, exhausted, frightened, poisoned 
+> - **Senses** darkvision 120 feet, passive Perception 18
+> - **Languages** Common, Eredun 
+> - **Challenge** 15 (13,000 XP)  &nbsp;&nbsp;&nbsp;&nbsp; **Proficiency Bonus** +5 
+> ___
+>
+>  ***Dread Presence.*** Demon's within 30 feet of the eredar lord gain a bonus to their Intelligence, Wisdom, and Charisma saving throws equal to the eredar lord's Charisma modifier. In addition, non-fiend creatures within 30 feet of the eredar lord gain a penalty to saving throws against being charmed or frightened equal to the eredar lord's Charisma modifier. 
+>
+> ***Innate Spellcasting.*** The eredar's innate spellcasting ability is Charisma (spell save DC 16, +8 to spell attacks). It can innately cast the following spells, requiring no components:
+>
+> </br> At will: *detect magic*, *disguise self*
+> </br> 3/day: *hellish rebuke* (as a 3rd level spell) 
+> </br> 1/day: *feeblemind*, *finger of death*, *fire storm* 
+>
+> ***Legendary Resistance.*** If the eredar lord would fail a saving throw, they can choose to succeed instead. 
+>
+> ***Magic Resistance.*** The eredar lord has advantage on saving throws against spells and other magical effects. 
+> 
+> \columnbreak
+>
+> ***Spellcasting.*** The eredar is a 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+> 
+> </br> Cantrips (at will): *diabolism, fel flame, fire bolt, mage hand, sapping sting, shadow bolt* 
+> </br> 1st-5th level (four 5th-level slots): *bane, banishment, counterspell, crown of madness, darkness, dimension door, dispel magic, enervation,  fly, rain of fire, sleep*
+>
+>
+> ### Actions
+> ***Multiattack.*** The Creature Name makes Number and type of attacks
+>
+> ***Felclaw.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 15 (3d6 + 5) slashing damage and 9 (2d8) fire damage, If the target is a Medium or smaller creature, the creature is grappled (escape DC 18). Until the grapple ends, the eredar can't use this claw on another target. The eredar has two claws. 
+>
+> ***Summon Infernal (Recharge on a Long Rest).*** The eredar lord calls down an meteor from the sky to a space it can see within 60 feet. All creatures within 15 feet of this space must succeed on a DC 19 Dexterity saving throw, taking 45 (10d8) fire damage on a failed save, or half as much on a success. 
+>
+> In addition, an *infernal* appears in the same space. It rolls its own initiative, is friendly to the eredar lord and its allies. This infernal last for 1 minute or until the eredar lord is dropped to 0 hit points. 
+>
+> ### Legendary Actions 
+> The eredar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The eredar regains spent legendary actions at the start of its turns.
+>
+> **Felclaw.** The eredar lord makes one felclaw attack
+>
+> **Command Demons (Cost 2 Actions).** The eredar lord commands all demons within 15 feet of it to attack using their reaction. 
+>
+> **Cantrip (Cost 2 Actions).** The eredar cast one of its cantrips. 
+
