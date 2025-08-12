@@ -2963,7 +2963,7 @@
   >*Medium Aberration*
   > ___
   > - **Armor Class** 11 + the spell's level
-  > - **Hit Points** 40 + 10 for each spell level above 3rd
+  > - **Hit Points** 40 + 10 for each spell level above 4th
   > - **Speed** 30 ft.. fly 40 ft.(Mindbender only; hover)
   >___
   >|STR|DEX|CON|INT|WIS|CHA|
@@ -3049,7 +3049,8 @@
   - **Components:** V, S
   - **Duration:** Instantaneous
   ___
-  You call upon the void to shift the health of you and another creature. Choose a willing creature within range, you and the chosen creature exchange your current hit points, to a maximum of 40 hit points from each creature. This spell has no effect on a creature who is incapacitated or at 0 hit points.
-  
-  ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the maximum hit points you can exchange increases by 10 for each slot level above 4th.
-  
+  You redistribute up to 40 hit points between yourself and a willing creature within range. You may transfer any amount of hit points from yourself to the target, from the target to yourself, or any combination, as long as the total exchanged doesn't exceed 40 and neither creature would be reduced to 0 hit points.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the maximum hit points you can exchange increases by 10 for each slot level above 3rd.
+
+ 
