@@ -4,10 +4,18 @@
   /* Resize page to international A4 */
   .phb {
     width: 210mm;
-    height: 296.8mm;
+    height: 297mm;
   }
   .phb:after { content: ""; }
 
+/* Temporary Fix for heading issues */
+    .phb p{ line-height: 15px; } 
+    .phb blockquote p{ line-height: 14px; } 
+    .phb h2{ line-height: 26px; } 
+    .phb h3{ line-height: 19px; } 
+    .phb h4{ line-height: 15px; padding-bottom: 3px; } 
+    .phb h5{ line-height: 17px; } 
+    th, td { line-height: 14px; }
 
 /* TABLE OF CONTENTS  */
 
@@ -96,9 +104,6 @@
     filter: hue-rotate(120deg)
   }
 
-</style>
-
-<style>
 /* Background */
   .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
   .phb{ background-size: cover }
@@ -115,7 +120,7 @@
   .phb .footnote {color: rgba(0, 0, 0, 0.5)}
   
   /* Bottom metalwork art */
-  .phb:nth-child(odd):after{ 
+  .phb:nth-child(odd):not(:last-child):after { 
     content          : '';
     position         : absolute;
     bottom           : -7px;
@@ -127,7 +132,7 @@
     background-size  : cover;
   }
   /* Bottom metalwork art */
-  .phb:nth-child(even):after{ 
+  .phb:nth-child(even):not(:last-child):after { 
     content          : '';
     position         : absolute;
     bottom           : -7px;
@@ -137,6 +142,9 @@
     width            : 100%;
     background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
     background-size  : cover;
+  }
+  .phb:last-child:after {
+    display: none;
   }
 
   /* Footer with white text against dark backgrounds */
@@ -179,8 +187,6 @@
 }
 
 </style>
-
-<div style='margin-top:500px'></div>
 
 <div style='margin-top:500px'></div>
 
@@ -228,8 +234,8 @@ Perhaps you are part of a sect to whom fel and shadow are but the means to an en
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/dvMcsXD.jpg' style='position:absolute; top:-0px; right:-100px; width:1100px;transform:scalex(-1)' />
-<img src='https://i.imgur.com/vn90cy3.png' style='position:absolute; top:-10px; right:0px; width:800px; transform:scaleX(-1);' />
-<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; bottom:0px; right:0px; width:800px;' />
+<img src='https://www.gmbinder.com/images/vn90cy3.png' style='position:absolute; top:-10px; right:0px; width:800px; transform:scaleX(-1);' />
+<img src='https://www.gmbinder.com/images/nZZkz5p.png' style='position:absolute; bottom:0px; right:0px; width:800px;' />
 <img src='https://www.gmbinder.com/images/kWRapfL.png' style='position:absolute; top:24px; right:260px; width:550px;transform:scalex(-1)' />
 
 \pagebreakNum
@@ -552,7 +558,7 @@ You learn the *bestow curse* and *remove curse* spells. These do not count again
 
 Additionally, when you cast either of these spells you can target two creatures instead of one.
 
-<img src='https://i.imgur.com/p23X3P4.png' style='position:absolute; width:800px; bottom:-4px; right:0px;' />
+<img src='https://www.gmbinder.com/images/p23X3P4.png' style='position:absolute; width:800px; bottom:-4px; right:0px;' />
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 
@@ -816,425 +822,6 @@ Once you have used this ability, you cannot do so again until you finish a long 
 <img src='https://www.gmbinder.com/images/i9dzMuI.png' style='position:absolute; top:0px; right:-30px; width:900px;' />
 
 \pagebreakNum
-# Chapter 6: Spells
-While most spell descriptions are located in the Player's Handbook, some spells are described in other locations, as indicated by the table below.
-
-Symbol|Spell Location
-------|--------------------------
-✦ |In this chapter, under Spell Descriptions
-^EGW^ | Explorer's Guide to Wildemount
-^TCE^ | Tasha's Cauldron of Everything
-^XGE^ |Xanathar's Guide to Everything
-
-> ##### Variant Rule: Xorothian Steed
-> Dungeon Masters might prefer making the creatures summoned by a warlock with the *find steed* and *find greater steed* fiends instead of the other creature types listed in those spells. Additionally, the *find greater steed* spell can summon a felsteed in addition to the other creatures listed.
-
-## Warlock Spell List
-<div style='column-count:2'>
-
-##### Cantrips (0 Level)
-Acid Splash
-<br /> Blade Ward
-<br /> Chill Touch
-<br /> Create Bonfire ^XGE^
-<br /> ✦ Diabolism
-<br /> ✦ Fel Flame
-<br /> Fire Bolt
-<br /> Green-Flame Blade ^TCE^
-<br /> Mage Hand
-<br /> Produce Flame
-<br /> Sapping Sting ^EGW^
-<br /> ✦ Shadow Bolt
-<br /> Toll the Dead ^XGE^
-
-##### 1st Level
-Alarm
-<br /> Arms of Hadar
-<br /> Bane
-<br /> Cause Fear ^XGE^
-<br /> Chromatic Orb
-<br /> Comprehend Languages
-<br /> ✦ Demon Skin
-<br /> Detect Magic
-<br /> ✦ Drain Life
-<br /> Expeditious Retreat
-<br /> False Life
-<br /> Find Familiar
-<br /> Hellish Rebuke
-<br /> Hex
-<br /> Identify
-<br /> Illusory Script
-<br /> Jump
-<br /> Ray of Sickness
-<br /> Shield
-<br /> Sleep
-
-<br /> Tasha's Caustic Brew ^TCE^
-<br /> Tasha's Hideous Laughter
-<br /> Unseen Servant
-<br /> Witch Bolt
-
-##### 2nd Level
-Aganazzar's Scorcher ^XGE^
-<br /> Alter Self
-<br /> Arcane Lock
-<br /> Cloud of Daggers
-<br /> Continual Flame
-<br /> Crown of Madness
-<br /> Darkness
-<br /> Darkvision
-<br /> Dragon's Breath
-<br /> Enthrall
-<br /> Find Steed
-<br /> Flame Blade
-<br /> Heat Metal
-<br /> Hold Person
-<br /> Invisibility
-<br /> Knock
-<br /> Levitate
-<br /> Locate Object
-<br /> Melf's Acid Arrow 
-<br /> Mind Spike ^XGE^
-<br /> Misty Step
-<br /> Phantasmal Force
-<br /> Pyrotechnics ^XGE^
-<br /> Ray of Enfeeblement
-<br /> Scorching Ray
-<br /> Shadow Blade ^XGE^
-<br /> Spider Climb
-<br /> Suggestion
-<br /> Tasha's Mind Whip ^TCE^
-<br /> Web
-
-##### 3rd Level
-Bestow Curse
-<br /> Clairvoyance
-<br /> Counterspell
-<br /> Dispel Magic
-<br /> Elemental Weapon
-<br /> Enemies Abound ^XGE^
-<br /> Fear
-<br /> Fly
-<br /> Gaseous Form
-<br /> Haste
-<br /> Hunger of Hadar
-<br /> Hypnotic Pattern
-<br /> Life Transference ^XGE^
-<br /> Major Image
-<br /> Melf's Minute Meteors
-<br /> Phantom Steed
-<br /> Protection From Energy
-<br /> Remove Curse
-<br /> Sending
-<br /> Speak With Dead
-<br /> Summon Lesser <br />&nbsp;&nbsp;Demons ^XGE^
-<br /> Summon Shadow-<br />&nbsp;&nbsp;spawn ^TCE^
-<br /> Summon Undead ^TCE^
-<br /> Tiny Servant ^XGE^
-<br /> Tongues
-<br /> Vampiric Touch
-<br /> Water Breathing
-<br /> Water Walk
-
-##### 4th Level
-Arcane Eye
-<br /> Banishment
-<br /> Blight
-<br /> Charm Monster ^XGE^
-<br /> Compulsion
-<br /> Death Ward
-<br /> Evard's Black Tentacles
-<br /> Find Greater Steed ^XGE^
-<br /> ✦ Fire and Brimstone
-<br /> Greater Invisibility
-<br /> Hallucinatory Terrain
-<br /> Leomund's Secret Chest
-<br /> Locate Creature
-<br /> Mordenkainen's Faithful <br />&nbsp;&nbsp; Hound
-<br /> Otiluke's Resilient Sphere
-<br /> Phantasmal Killer
-<br /> Shadow of Moil ^XGE^
-<br /> Sickening Radiance ^XGE^
-<br /> Summon Aberration ^TCE^
-<br /> Summon Greater <br />&nbsp;&nbsp;Demon ^XGE^
-<br /> Vitriolic Sphere ^XGE^
-
-\columnbreak 
-
-<div style='margin-top:-10px;'></div>
-
-##### 5th Level
-Antilife Shell
-<br /> Danse Macabre ^XGE^
-<br /> Dispel Evil and Good
-<br /> Dominate Person
-<br /> Enervation ^XGE^
-<br /> Far Step ^XGE^
-<br /> Geas
-<br /> Hold Monster
-<br /> Immolation ^XGE^
-<br /> Insect Plague
-<br /> Modify Memory
-<br /> Negative Energy Flood ^XGE^
-<br /> ✦ Rain of Fire
-<br /> Rary's Telepathic Bond
-<br /> ✦ Ritual of Summoning
-<br /> Scrying
-<br /> Synaptic Static ^XGE^
-<br /> Teleportation Circle
-<br /> Wall of Force
-
-##### 6th Level
-Arcane Gate
-<br /> Circle of Death
-<br /> Contingency
-<br /> Create Undead
-<br /> Disintegrate
-<br /> Drawmij's Instant &nbsp;&nbsp;Summons
-<br /> Eyebite
-<br /> Globe of Invulnerability
-<br /> Harm
-<br /> Investiture of Flame ^XGE^
-<br /> Magic Jar
-<br /> Mass Suggestion
-<br /> Mental Prison ^XGE^
-<br /> Otto's Irresistible Dance
-<br /> Planar Ally
-<br /> Scatter ^XGE^
-<br /> ✦ Shadowfury
-<br /> Soul Cage ^XGE^
-<br /> Summon Fiend ^TCE^
-<br /> True Seeing
-<br /> Word of Recall
-
-##### 7th Level
-Delayed Blast Fireball
-<br /> Etherealness
-<br /> Finger of Death
-<br /> Fire Storm
-<br /> Forcecage
-<br /> Mordenkainen's Sword
-<br /> Sequester
-<br /> Teleport
-
-</div>
-
-<div class='footnote'>PART 2 | MAGIC</div>
-
-\pagebreakNum
-<div style='column-count:2'>
-
-<div style='margin-top:-10px;'></div>
-
-##### 8th Level
-Abi-Dalzim's Horrid <br />&nbsp;&nbsp;Wilting ^XGE^
-<br /> Antimagic Field
-<br /> ✦ Cataclysm
-<br /> Clone
-<br /> Demiplane
-<br /> Dominate Monster
-<br /> Feeblemind
-<br /> Glibness
-<br /> Maddening Darkness ^XGE^
-<br /> Reality Break ^EGW^
-<br /> Telepathy
-
-##### 9th Level
-Blade of Disaster ^TCE^
-<br /> Gate
-<br /> Imprisonment
-<br /> Meteor Swarm
-<br /> Psychic Scream ^XGE^
-<br /> Ravenous Void ^EGW^
-<br /> Weird
-
-</div>
-
-## Spell Descriptions
-
-#### Cataclysm
-*8th-level conjuration*
-___
-- **Casting Time:** 1 action
-- **Range:** 150 feet
-- **Components:** V, S, M (a piece of charcoal)
-- **Duration:** Instantaneous
-___
-You cause the ground to crack and split, with molten magma and fire spitting up out in a 60-foot radius centered on a point within range. Each creature in the area must make a Dexterity saving throw or take 10d6 fire damage, taking half damage on a success.
-
-A creature who takes fire damage from this spell is set aflame, taking an additional 2d6 fire damage at the beginning of each of their turns. They or another adjacent creature can use their action to put out the flames, taking 1d4 fire damage in the process.
-
-The ground in the area of this spell remains damaged, turning into difficult terrain. It remains hot for 1 minute, and any creature who enters the area for the first time on their turn or starts their turn there takes 1d4 fire damage.
-
-#### Dark Void
-*1st-level evocation*
-___
-- **Casting Time:** 1 action
-- **Range:** 30 feet
-- **Components:** V, S, M (a holy symbol)
-- **Duration:** Instantaneous
-___
-You grasp the fabric around a target within range, pulling necromantic energies from it and creatures of your choice within 5 feet of it. A target must make a Constitution saving throw, taking 2d4 necrotic damage on a failed save, or half as much damage on a successful one.
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st
-
-\columnbreak
-#### Demon Skin
-*1st-level transmutation*
-___
-- **Casting Time:** 1 action
-- **Range:** Self
-- **Components:** V, S, M (dried skin of a demon or fiend)
-- **Duration:** 8 hours
-___
-Your skin becomes covered in a layer of fel energy, infusing you with fiendish vigor. Your minimum Armor Class becomes 8 + your spellcasting modifier. Your Armor Class cannot drop below 10 this way. Additionally, your current and maximum hit point totals increase by 1.
-
-***At Higher Levels:*** When you cast this spell using a spell slot of 2nd level or higher, your minimum Armor Class and your current and maximum hit point totals increase by 1 for each slot level above 1st. 
-
-#### Diabolism
-*Necromancy cantrip*
-___
-- **Casting Time:** 1 action
-- **Range:** Self
-- **Components:** S
-- **Duration:** Up to 1 hour
-___
-This spell channels a small amount of dark energy. You create one of the following magical effects within range:
-- Choose a point within 30 feet. In a 5-foot radius of that point, bright light becomes dim light, and dim light becomes darkness for 1 hour. Any light sources within the area have the light they produce suppressed for the duration.
-- An object up to 1 cubic foot in size or an area up to 1 square foot that you touch lightly decays. Wood rots, glass cracks, flowers wilt. Casting the spell and then continuing to touch the target advances the decay; after 1 minute, the target is destroyed. This spell cannot affect creatures, magical objects, or sturdy materials like metal and stone.
-- You can reanimate a Tiny 0 CR beast for 1 hour. It is undead and obeys all of your commands to the best of it's abilities, though it cannot attack. You cannot use this effect again until the reanimated creature dies, or the effect ends.
-- You instantaneously light a candle, torch, or small campfire. The fire glows your choice of a smoldering red, bright green, or shadowy purple until extinguished.
-- Your fingertip glows green or purple for up to 1 minute. While it glows, you can use your finger to draw glowing lines of the same color on a solid surface that last for 1 hour.
-
-If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
-
-<div class='footnote'>PART 2 | MAGIC</div>
-
-\pagebreakNum
-
-#### Drain Life
-*1st-level necromancy*
-___
-- **Casting Time:** 1 Action
-- **Range:** 30 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
-___
-You cause a green stream of energy to trail from the target creature's eyes and mouth and into your hand, forming a continuous stream of energy to bind you two together.
-
-Make a ranged spell attack against that creature. On a hit, the target takes 1d8 necrotic damage, and on each of your turns for the duration, you can use your action to deal 1d8 necrotic damage to the target automatically. Each time the target takes damage from this spell, you gain a number of hit points equal to half the damage dealt and their maximum hit point total is reduced by the same amount. This reduction lasts until they finish a long rest.
-
-The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell’s range or if it has total cover from you. This spell has no effect on the creature if they are a construct or undead.
-
-***At Higher Levels:*** When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d8 for each slot level above 1st.
-
-#### Fel Flame
-*Evocation cantrip*
-___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
-___
-A green flame skitters across the ground towards a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 fire damage. Fel flame ignores fire resistance, and creatures immune to fire damage are considered to be resistant.
-
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). 
-
-#### Fire and Brimstone
-*4th-level evocation*
-___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
-___
-You form six orbs of fire above your head, which you launch at targets within 20 feet of a point you choose within range. You can direct the orbs to hit one target or several. A target takes 1d10 fire damage for each orb that strikes it, and can attempt a Dexterity saving throw to take half as much damage. Each target only makes one saving throw, regardless of how many orbs it is struck by.
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the spell creates one more orb for each spell level above 4th.
-
-
-\columnbreak
-
-
-#### Mind Flay
-*2nd-level enchantment*
-___
-- **Casting Time:** 1 action
-- **Range:** 120 feet
-- **Components:** V
-- **Duration:** Concentration, up to 1 minute
-___
-You wreathe the mind of a creature you can see within range. The target must make a Wisdom saving throw. On a failed save, the creature takes 2d6 psychic damage and has disadvantage on all attack rolls and ability checks for the spells duration, and on as successful save, the creature takes half damage but suffers no other effects of the spell.
-
-At the end of each of its turns, the creature can make a Wisdom saving throw, ending the spell on a success.
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
-
-#### Rain of Fire
-*5th-level evocation*
-___
-- **Casting Time:** 1 action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
-___
-You summon a cloud at a point within range, causing flaming raindrops to blanket a 15-foot radius area around it. Each creature entering the area for the first time on their turn, or who starts their turn there, must make a Dexterity saving throw, taking 3d12 fire damage on a failed save, or half as much on a success.
-
-As a bonus action you can move the cloud up to 15 feet to a point you can see. Unattended flammable objects in the area are ignited. 
-
-***At Higher Levels:*** When you cast this spell using a spell slot of 6th level or higher, it deals an additional 1d12 points of fire damage for each spell level above 5th.
-
-#### Ritual of Summoning
-*5th-level conjuration (ritual)*
-___
-- **Casting Time:** 10 minutes
-- **Range:** 10 feet
-- **Components:** V, S, M (a blood sapphire worth 100 gp)
-- **Duration:** 1 hour
-___
-You call forth a summoning portal in an empty space within range. Appearing as a shadowy statue of a cloaked figure, holding open the cloak to reveal a gapping swirl into the twisting nether.
-
-Using 1 minute, you can channel energy into the statue, and call forth the true name of a creature. If the creature is on your plane of existence, a shimmering mirror appears in front of it that only it can see, through the mirror the creature is able to perceive you and your surroundings, but you can not see it. 
-
-A creature can choose to ignore the mirror, in which case it vanishes after 1 minute and a new mirror can't appear in front of that creature again for another 24 hours, or pass through it, in which case it is teleported to the space in front of the summoning stone. 
-
-The ritual of summoning is only able to call creatures to it, a creature can't use the summoning stone to traverse back to their previous location.
-
-
-<div class='footnote'>PART 2 | MAGIC</div>
-
-\pagebreakNum
-
-
-#### Shadow Bolt
-*Necromancy cantrip*
-___
-- **Casting Time:** 1 action
-- **Range:** 120 feet
-- **Components:** V, S
-- **Duration:** Instantaneous
-___
-You fire a blast of necrotic energy at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 necrotic damage. 
-
-When the spell hits, you can choose to take 1 point of psychic damage to increase the damage dealt to 1d12 necrotic damage.
-
-The spell’s damage dealt increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12). The optional damage taken increases by 2 when you reach 5th level (3), 11th level (5), and 17th level (7).
-
-#### Shadowfury
-*6th-level enchantment*
-___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
-___
-You extend your arm and draw shadow energy down upon creatures within a 10-foot radius of a point within range. Each creature takes 5d8 psychic damage and must succeed on a Wisdom saving throw or be stunned for the duration of the spell. 
-
-A stunned creature must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
-
-<div class='footnote'>PART 2 | MAGIC</div>
-
-\pagebreakNum
 
 # Appendix C: Demonic Companions
 ## Part I: Minions
@@ -1288,7 +875,7 @@ ___
 
 <img src='https://www.gmbinder.com/images/DCctq70.jpg' style='position:absolute; bottom:-200px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-220px; right:0px; width:900px' />
-<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
+<img src='https://www.gmbinder.com/images/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
 
 <div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
@@ -1345,7 +932,7 @@ ___
 
 <img src='https://www.gmbinder.com/images/moaDsD1.jpg' style='position:absolute; bottom:-80px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/bNHsRrG.png' style='position:absolute; bottom:0px; left:0px; width:900px;' />
-<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
+<img src='https://www.gmbinder.com/images/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
 
 <div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
@@ -1399,7 +986,7 @@ ___
 
 <img src='https://www.gmbinder.com/images/z08oeTn.jpg' style='position:absolute; bottom:-100px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/wvTUmvu.png' style='position:absolute; bottom:-20px; left:0px; width:800px' />
-<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
+<img src='https://www.gmbinder.com/images/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
 
 <div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
@@ -1454,7 +1041,7 @@ ___
 
 <img src='https://www.gmbinder.com/images/lc9zJNs.jpg' style='position:absolute; bottom:-250px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-130px; left:0px; width:800px' />
-<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
+<img src='https://www.gmbinder.com/images/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
 
 <div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
@@ -1512,7 +1099,7 @@ ___
 
 <img src='https://www.gmbinder.com/images/dPcFWbx.jpg' style='position:absolute; bottom:-150px; left:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/L60ii4e.png' style='position:absolute; top:-0px; left:0px; width:800px' />
-<img src='https://i.imgur.com/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
+<img src='https://www.gmbinder.com/images/nZZkz5p.png' style='position:absolute; top:0px; right: -60px; width: 900px; transform:scaleY(-1);' />
 
 <div class='footnote footnote-white'>APPENDIX C | DEMON COMPANIONS</div>
 
