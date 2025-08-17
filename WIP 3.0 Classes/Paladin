@@ -4,10 +4,18 @@
   /* Resize page to international A4 */
   .phb {
     width: 210mm;
-    height: 296.8mm;
+    height: 297mm;
   }
   .phb:after { content: ""; }
 
+/* Temporary Fix for heading issues */
+    .phb p{ line-height: 15px; } 
+    .phb blockquote p{ line-height: 14px; } 
+    .phb h2{ line-height: 26px; } 
+    .phb h3{ line-height: 19px; } 
+    .phb h4{ line-height: 15px; padding-bottom: 3px; } 
+    .phb h5{ line-height: 17px; } 
+    th, td { line-height: 14px; }
 
 /* TABLE OF CONTENTS  */
 
@@ -79,7 +87,7 @@
 /* INK BLOT STYLES */
 
   /* Root style for inkblots. Use alone, or together with
-  one of the inkb lotstyle classes below. Essentially:
+  one of the ink blotstyle classes below. Essentially:
   <img url='{url}' class='inkblot inkblot-blue' />
   */
   .inkblot {
@@ -96,9 +104,6 @@
     filter: hue-rotate(120deg)
   }
 
-</style>
-
-<style>
 /* Background */
   .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
   .phb{ background-size: cover }
@@ -113,7 +118,9 @@
 /* Footer */
   .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
   .phb .footnote {color: rgba(0, 0, 0, 0.5)}
-  .phb:nth-child(odd):after{ 
+  
+  /* Bottom metalwork art */
+  .phb:nth-child(odd):not(:last-child):after { 
     content          : '';
     position         : absolute;
     bottom           : -7px;
@@ -123,9 +130,9 @@
     width            : 100%;
     background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
     background-size  : cover;
-}
-
-.phb:nth-child(even):after{ 
+  }
+  /* Bottom metalwork art */
+  .phb:nth-child(even):not(:last-child):after { 
     content          : '';
     position         : absolute;
     bottom           : -7px;
@@ -135,7 +142,17 @@
     width            : 100%;
     background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
     background-size  : cover;
-}
+  }
+  .phb:last-child:after {
+    display: none;
+  }
+
+  /* Footer with white text against dark backgrounds */
+  .phb .footnote.footnote-white,
+  .phb .footnote.footnote-white + .pageNumber,
+  .phb .footnote.footnote-white + section .pageNumber {
+    color: rgba(255,255,255,0.8);
+  }
 
 /* Page Number */
 .phb .pageNumber{
@@ -164,25 +181,10 @@
     right      : 12px;
 }
 
-/* INK BLOT STYLES */
-
-  /* Root style for inkblots. Use alone, or together with
-  one of the inkb lotstyle classes below. Essentially:
-  <img url='{url}' class='inkblot inkblot-blue' />
-  */
-  .inkblot {
-    position: absolute;
-    mix-blend-mode: multiply;
-    opacity: 0.6;
-  }
-
-  .inkblot-blue {
-    filter: hue-rotate(190deg) saturate(120%)
-  }
-
-  .inkblot-green {
-    filter: hue-rotate(120deg)
-  }
+/* Use black tones for statblock backgrounds */
+.phb blockquote {
+  box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
+}
 
 </style>
 
@@ -273,9 +275,9 @@ If your group uses the optional rule on multiclassing in the *Player's Handbook*
 
 ***Proficiencies Gained.*** If paladin isn't your initial class, here are the proficiencies you gain when you take your first level as a paladin: light armor, medium armor, shields, simple weapons, martial weapons.
 
-***Spell Slots.*** Add half your levels (rounded up) in the paladin class to the appropriate levels from other class to determine your available spell slots.
-
 \columnbreak
+
+***Spell Slots.*** Add half your levels (rounded up) in the paladin class to the appropriate levels from other class to determine your available spell slots.
 
 #### Quick Build
 You can make a paladin quickly by following these sugges-tions. First, Strength should be your highest ability score, followed by Charisma. (Paladins who strive to please the holy light and heal their allies make Constitution higher than Strength.)
