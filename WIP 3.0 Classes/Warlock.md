@@ -327,29 +327,29 @@ You have spent long hours researching and practicing forbidden knowledge, gainin
 - You apply your proficiency bonus when you make a Charisma check while interacting with fiends, or twice your proficiency bonus if you are proficient in the skill.
 
 ### Fel Sorcery
-*1st-level warlock feature*
+*1st-level Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
-Your research into forbidden knowledge has given you facility with dark magic. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 for the warlock spell list.
+Your research into forbidden knowledge has given you facility with dark magic. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 for the Warlock spell list.
 
 #### Cantrips
-You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+You know two cantrips of your choice from the Warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
 
 #### Spell Slots
-The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended Fel Sorcery spell slots when you finish a short or long rest.
+The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your Warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended Fel Sorcery spell slots when you finish a short or long rest.
 
 For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell *Witch Bolt*, you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 #### Spells Known of 1st Level and Higher
-At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
+You know two 1st-level spells of your choice from the Warlock spell list.
 
-The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level or higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
+The Spells Known column of the Warlock table shows when you learn more Warlock spells of your choice of 1st level or higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new Warlock spell, which can be 1st, 2nd, or 3rd level.
 
-Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+Additionally, when you gain a level in this class, you can choose one of the Warlock spells you know and replace it with another spell from the Warlock spell list, which also must be of a level for which you have spell slots.
 
 #### Spellcasting Ability
-Intelligence is your spellcasting ability for your warlock spells, so you use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+Intelligence is your spellcasting ability for your Warlock spells, so you use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a Warlock spell you cast and when making an attack roll with one.
 
 <div style="text-align: center">
 
@@ -363,13 +363,13 @@ Intelligence is your spellcasting ability for your warlock spells, so you use yo
 <br />
 
 #### Ritual Casting
-You can cast a warlock spell as a ritual if that spell has the ritual tag and you know the spell.
+You can cast a Warlock spell as a ritual if that spell has the ritual tag and you know the spell.
 
 #### Spellcasting Focus
-You can use an arcane focus as a spellcasting focus for your warlock spells.
+You can use an arcane focus as a spellcasting focus for your Warlock spells.
 
 ### Life Tap
-*1st-level warlock feature*
+*1st-level Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -378,14 +378,14 @@ When you do not have any Fel Sorcery spell slots remaining, you can still cast a
 This damage cannot be resisted, and you cannot use this feature if doing so would reduce you to 0 hit points. You can use this ability once at 1st level, twice at 7th level, three times at 14th level, and any number of times at 20th level. You regain all expended uses when you finish a long rest.
 
 ### Fel Study
-*2nd-level warlock feature*
+*2nd-level Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
 Choose your field of study: Study of Affliction, Study of Demonology, or Study of Destruction, each of which is detailed after the class's description. Your choice grants you features at 6th, 10th, 14th, and 18th level.
 
 ### Demonic Knowledge
-*2nd-level warlock feature*
+*2nd-level Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -409,7 +409,7 @@ As you increase in level, you are able to draw deeper upon the core to cast more
 
 \pagebreakNum
 
-At level 13 you can consume the core as an action to recharge your own powers, regaining all expended soul shards.
+At 13th level you can consume the core as an action to recharge your own powers, regaining all expended soul shards.
 
 Which skills are affected and spells provided varies based on the demon the core came from. See the Demonic Core section of each demon in Part I of Appendix C for more details.
 
@@ -423,13 +423,13 @@ When the minion drops to 0 hit points, it disappears, leaving behind no physical
 In combat, it shares your initiative and takes its turn immediately after yours. It can move and use its reaction on it's own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide or Search action.
 
 ### Soul Shards
-*3rd-level warlock feature*
+*3rd-level Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
-You can create soul shards: small crystals formed from fragments of souls and spirits. You can expend a soul shard to empower your warlock spells and abilities. You start knowing the abilities listed below and learn more as you gain more levels in the warlock class. 
+You can create soul shards: small crystals formed from fragments of souls and spirits. You can expend a soul shard to empower your Warlock spells and abilities. You start knowing the abilities listed below and learn more as you gain more levels in the Warlock class. 
 
-You can have up to three soul shards at any given time; attempting to create an additional soul shard results in a useless dull gemstone. Soul shards last until used, at which point they disappear. If a soul shard leaves your possession for at least 8 hours, it disappears. Soul shards you create can only be used by you; soul shards created by other warlocks are useless.
+You can have up to three soul shards at any given time; attempting to create an additional soul shard results in a useless dull gemstone. Soul shards last until used, at which point they disappear. If a soul shard leaves your possession for at least 8 hours, it disappears. Soul shards you create can only be used by you; soul shards created by other Warlocks are useless.
 
 Over the course of a rest, you can gather fragments of wandering souls to create soul shards. You can create a single soul shard over the span of a short rest, or any number over a long rest.
 
@@ -451,7 +451,7 @@ What constitutes an appropriate creature is up to a DM's discretion, but a guide
 
 You can expend a soul shard within 5 feet of you to create one of the following effects:
 
-***Casting Circle.*** You can expend a soul shard as a bonus action to create a 5-foot radius circle of demonic runes to appear on the ground. As long as you remain in this circle, you have advantage on concentration checks. The circle fades after 1 minute.
+***Casting Circle.*** You can expend a soul shard as a bonus action to create a 5-foot radius circle of demonic runes to appear on the ground. As long as you remain in this circle, you have advantage on Concentration checks. The circle fades after 1 minute.
 
 ***Soulburn: Extend.*** When you cast a spell that has a duration of 1 hour or more, you can expend a soul shard to extend the duration by a number of hours equal to your warlock level.
 
@@ -462,11 +462,11 @@ You can expend a soul shard within 5 feet of you to create one of the following 
 ***Soul Rites.*** You can expend a soul shard to cast any warlock spell with a ritual tag as a ritual as long as you have Fel Sorcery or Nethermancy spell slots of the spell's given level. You do not have to know the spell to cast it as a ritual as long as it is on the warlock spell list.
 
 ### Ability Score Improvement
-*4th-level warlock feature*
+*4th-level Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+At this level and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 <img src='https://www.gmbinder.com/images/8GHYm5P.jpg' style='position:absolute; top:770px; right:0px; width:800px' />
 <img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:0px; right:-15px; width:825px' />
@@ -477,7 +477,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 \pagebreakNum
 
 ### Soulforging
-*5th-level warlock feature*
+*5th-level Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -489,20 +489,20 @@ You can forge powerful, magical stones from your soul shards. You create a stone
 
 ***Soulstone.*** You can expend this stone to cast the *revivify* spell without expending a spell slot or providing material components. If you are reduced to 0 hit points and are carrying a soulstone, it is automatically expended and you are reduced to 1 hit point instead.
 
-***Spellstone.*** You can expend this stone when casting a warlock spell, causing one creature to have disadvantage on its first saving throw made against that spell.
+***Spellstone.*** You can expend this stone when casting a Warlock spell, causing one creature to have disadvantage on its first saving throw made against that spell.
 
 ### Nethermancy
-*11th-level warlock feature*
+*11th-level Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
-You can push yourself to cast more powerful spells a certain number of times per day. You gain a single spell slot of 6th level. This spell slot can be expended to cast any warlock spell you know. You regain any expended Nethermancy spell slots when you finish a long rest.
+You can push yourself to cast more powerful spells a certain number of times per day. You gain a single spell slot of 6th level. This spell slot can be expended to cast any Warlock spell you know. You regain any expended Nethermancy spell slots when you finish a long rest.
 
-Whenever you gain a spell slot through Nethermancy, you also learn a single warlock spell of a level that you can cast. These are counted separately from your normal spells, as shown on the Spells Known column of the Warlock table.
+Whenever you gain a spell slot through Nethermancy, you also learn a single Warlock spell of a level that you can cast. These are counted separately from your normal spells, as shown on the Spells Known column of the Warlock table.
 
 At higher levels you earn more spell slots: one 7th level spell slot at 13th level, one 8th level slot at 15th level, and one 9th level slot at 17th level.
 
-When you gain a level in this class, you can choose one of the warlock spells gained through Nethermancy and replace it with another spell from the warlock spell list.  
+When you gain a level in this class, you can choose one of the Warlock spells gained through Nethermancy and replace it with another spell from the warlock spell list.  
 
 ## Fel Studies
 Warlocks have come into contact with the powerful fel, studying its uncontrollable energy. Three such studies exist, each delving into a different aspect of the powers wielded by warlocks.
@@ -512,7 +512,7 @@ Warlocks that study affliction become masters of shadow-touched powers, unlike p
 
 \columnbreak
 #### Expanded Spell List
-*2nd-level Study of Affliction feature*
+*2nd-level Study of Affliction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -528,7 +528,7 @@ Spell<br />Level|Spells
 5th|*cloudkill*, *contagion*
 
 #### Corruption
-*2nd-level Study of Affliction feature*
+*2nd-level Study of Affliction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -539,7 +539,7 @@ When you use your Corruption, you choose which Bane to invoke. While invoking a 
 You can use this feature once. Beginning at 6th level, you can use your Corruption feature twice, at 14th level you can use it three times between rests, and at 18th level, you can use it four times between rests. You regain all expended uses when you finish a short or long rest.
 
 #### Haunt
-*2nd-level Study of Affliction feature*
+*2nd-level Study of Affliction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -550,7 +550,7 @@ The target must make a Wisdom saving throw against your warlock spell save DC. O
 On a successful save, the haunt ends and the skill check is made as normal. Once you use this ability, you can't do so again until you finish a short rest.
 
 #### Curse Master
-*6th-level Study of Affliction feature*
+*6th-level Study of Affliction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -565,21 +565,21 @@ Additionally, when you cast either of these spells you can target two creatures 
 \pagebreakNum
 
 #### Drain Soul
-*10th-level Study of Affliction feature*
+*10th-level Study of Affliction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
 When you deal psychic or necrotic damage to a creature, you can generate one soul shard. You can use this ability three times and regain any expended uses when you finish a long rest.
 
 #### Unstable Afflictions
-*14th-level Study of Affliction feature*
+*14th-level Study of Affliction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
 When a creature successfully makes a saving throw against one of your warlock spells or abilities, they take an amount of psychic damage equal to half your warlock level.
 
 #### Potent Afflictions
-*18th-level Study of Affliction feature*
+*18th-level Study of Affliction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -651,7 +651,7 @@ As a bonus action, you curse a creature you can see within 30 feet until the beg
 Warlocks that study demonology harness the powers of the malefic demon beings of the twisting nether. Uncovering secrets unknown by residents of Azeroth, and twisting their magic with the aid of demonic powers from the great dark.
 
 #### Expanded Spell List
-*2nd-level Study of Demonology feature*
+*2nd-level Study of Demonology Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -667,7 +667,7 @@ Spell<br />Level|Spells
 5th|*infernal calling ^XGE^*, *planar binding*
 
 #### Soul Conduit
-*2nd-level Study of Demonology feature*
+*2nd-level Study of Demonology Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -680,7 +680,7 @@ While perceiving through your minion's senses, you can also speak through your f
 Finally, when you cast a spell with a range of touch, your demon companion can deliver the spell as if it had cast the spell. Your companion must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
 
 #### Sense Demons
-*2nd-level Study of Demonology feature*
+*2nd-level Study of Demonology Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -691,7 +691,7 @@ You gain the ability to sense the presence of demons due to your sensitivity to 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
 #### Soul Link
-*6th-level Study of Demonology feature*
+*6th-level Study of Demonology Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -700,7 +700,7 @@ While the demon is within 60 feet of you, half<br /> of any damage you take (rou
 Additionally, your demon companion can use its reaction in place of yours to generate a soul shard.
 
 #### Demonic Fury
-*10th-level Study of Demonology feature*
+*10th-level Study of Demonology Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -709,14 +709,14 @@ You gain a pool of energy you can use to empower your demon. You have six points
 - When your demon is forced to make a saving throw, you can spend a point as a reaction to give them advantage on the roll.
 
 #### Grimoire of Supremacy
-*14th-level Study of Demonology feature*
+*14th-level Study of Demonology Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
 You call upon the knowledge of the Grimoire of Supremacy to permanently evolve your demonic minion into a more powerful form. It gains a number of benefits as mentioned in its entry in Part I of Appendix C.
 
 #### We Are Legion
-*18th-level Study of Demonology feature*
+*18th-level Study of Demonology Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -747,7 +747,7 @@ d8|Quirk
 Warlocks that study destruction meddle with the metaphysical concept of destruction, willing to suffer backlash if they are better able to wreak havoc upon their enemies. They are happy to revel in the destruction they cause, thrilled at any opportunity to watch the world erupt in discord.
 
 #### Expanded Spell List
-*2nd-level Study of Destruction feature*
+*2nd-level Study of Destruction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -763,7 +763,7 @@ Spell<br />Level|Spells
 5th|*destructive wave*, *flame strike*
 
 #### Pyrophile
-*2nd-level Study of Destruction feature*
+*2nd-level Study of Destruction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -772,28 +772,28 @@ You learn the *produce flame* cantrip, which you treat as a warlock cantrip and 
 Additionally, you can magically ignite a flammable object you touch with your hand as an action.
 
 #### Channel Demonfire
-*2nd-level Study of Destruction feature*
+*2nd-level Study of Destruction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
 You can channel the double-edged power of hellfire into your spells. When you deal damage with a warlock spell, you can choose to take an amount of fire damage up to your warlock level. One target takes twice as much fire damage as you took. 
 
 #### Havoc
-*6th-level Study of Destruction feature*
+*6th-level Study of Destruction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
 When you cast a warlock spell using a Fel Sorcery spell slot that targets only one creature and doesn't have a range of self, you can expend a soul shard to target a second creature in range with the same spell.
 
 #### Unending Resolve
-*10th-level Study of Destruction feature*
+*10th-level Study of Destruction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
 When you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Intelligence modifier + your warlock level (minimum of 1).
 
 #### Flames of Xerrath
-*14th-level Study of Destruction feature*
+*14th-level Study of Destruction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
@@ -804,7 +804,7 @@ You can overcharge the power of your spells with the power of fel flames. When y
 The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 5d12 fire damage at the end of the current turn. Each time you use this feature again before finishing a long rest, the fire damage increases by 1d12. This damage ignores resistance and immunity. 
 
 #### Inferno
-*18th-level Study of Destruction feature*
+*18th-level Study of Destruction Warlock feature*
 
 <div style='margin-top:-4px'></div>
 
