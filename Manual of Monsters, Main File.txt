@@ -2353,6 +2353,131 @@ ___
 
 \pagebreakNum
 
+<div style='margin-top:485px'></div>
+
+## Drakeadon
+In the shadowy peak of Blackrock Mountain, the black dragon Nefarian executed many sick and twisted experiments using the blood and bodies of dragons. This resulted in the creation of his chromatic dragons; but never content to let progress lie still, Nefarian saw fit to further experiment. The exact methods are thankfully lost to time, but the result was a hideous amalgamation of draconic and elemental features, a breed of two-headed monsters of opalescent scales, immense power, and uncontrollable aggression.
+ 
+***Chromatic Instability.***  Drakeadons possess the same physical properties as Nefarian's other chromatic experiments, with the combined strengths and weaknesses of many breeds of dragon; however, their bodies are unstable and shift form and function constantly, ever changing their colour and power.
+ 
+***Blackwing's Pride.*** As perhaps Nefarian's greatest creations, the few living Drakeadons were seen exclusively guarding his lair in Blackrock Mountain. Held in chains and cages, they were barely able to be  controlled, and lashed out at any intruders that dared encroach their master's sanctum.
+ 
+***Elemental Anomalies.*** The nature of the experiments that spawned these abominations is unknown - however it is believed by some explorers that the dragon spawned them using the essence of the elemental core hounds, the favored pets of Nefarian's hated enemy, Ragnaros the Firelord. Were this true, it would demonstrate yet further the depths of the black dragon's depraved approach to science.
+
+\columnbreak
+
+<div style='margin-top:350px'></div>
+
+___
+> ## Drakeadon
+> *Huge dragon, alignment varies*
+> ___
+> - **Armor Class** 17 (natural armor)
+> - **Hit Points** 121 (9d12 + 63)
+> - **Speed** 40 ft.
+> ___
+> |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+> |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+> |21 (+5)| 9 (-1)|24 (+7)| 8 (-1)|10 (+0)| 6 (-2)|
+> ___
+> - **Damage Resistances** bludgeoning, piercing, and slashing from non magical attacks
+> - **Senses** darkvision 60 ft., passive Perception 10
+> - **Languages** understands Draconic but can't speak
+> - **Challenge** 8 (3,900 XP)
+> ___
+> ***Brood Powers.*** A drakeadon is infused with the power of all five dragonflights. Each time its breath weapon recharges, a different dragonflight randomly manifests itself. See the Brood Powers sidebar for details.
+>
+> ***Magically Aged.*** The drakeadon has disadvantage to all Intelligence and Wisdom checks.
+>
+> ***Two Heads.*** The drakeadon has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+> 
+> ***Wakeful.*** When one of the drakeadon's heads is asleep, its other head is awake.
+>
+> ### Actions
+> ***Multiattack.*** The drakeadon makes two bite attacks. 
+> 
+> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 5) piercing damage plus 9 (2d8) acid, cold, or fire damage (chosen randomly).
+>
+> ***Breath Weapons (Recharge 4-6).*** The drakeadon has a breath weapon determined by its Brood Power. The breath weapon affects a 60-foot cone. <!-- https://wc5e-cr-calculator.frogvall.com/?1;17;121;8;13;56;5;50;0;56;0;0;0;0;0;0;0;1;;;;2;;;;;;;;;;1;;;;;;;;10;;;;;; -->
+
+\columnbreak
+
+<div class="pageLetter">D</div>
+<div class='footnote'>DRAKEADONS </div>
+<img src='https://www.gmbinder.com/images/ehvr4Xh.jpg' style='position:absolute; left:0px; top:0px; width:850px' />
+<img src='https://www.gmbinder.com/images/epoShfv.png' style='position:absolute; bottom:-800px; left:0px; transform:scaleY(-1)' />
+
+\pagebreakNum
+
+<br />
+
+<div style='margin-top:1100px'></div>
+
+<div class="note wide">
+
+> ##### Brood Powers
+> When a drakeadon manifests a particular dragonflight, it gains unique abilities. Each has the special features described below.
+>
+> <br>
+>
+> <div style='margin-top:-30px'></div>
+>
+> ***Black Drakeadon.*** A black drakeadon is resistant to fire damage and vulnerable to radiant damage.
+>
+> **Lava Breath.** Each creature in the breath's area must make a DC 18 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one.
+>
+> In addition, any creature who failed the saving throw is covered in molten slag. The creature takes 5 (1d10) fire damage at the beginning of each of its turns until it or another creature uses an action to remove the slag.
+>
+> <br />
+>
+> <div style='margin-top:-30px'></div>
+>
+> ***Blue Drakeadon.*** A blue drakeadon is resistant to cold damage and vulnerable to fire damage. 
+>
+> **Frost Breath.** Each creature in the breath's area must make a DC 18 Dexterity saving throw, taking 28 (8d6) cold damage on a failed save, or half as much damage on a successful one.
+>
+> In addition, any creature who failed the saving throw has their speed reduced by half for 1 minute.
+>
+> <br>
+>
+> <div style='margin-top:-30px'></div>
+>
+> ***Bronze Drakeadon.*** A bronze drakeadon is resistant to lightning damage and vulnerable to poison damage.
+>
+> **Sand Breath.** Each creature in the breath's area must make a DC 18 Constitution saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one. Their maximum hit point total is reduced by the same amount for 1 hour. A creature whose maximum hit point total is reduced to 0 hit points is killed.
+>
+> In addition, any creature who failed the saving throw is stunned until the beginning of the drakeadon's next turn.
+>
+> <br>
+>
+> <div style='margin-top:-30px'></div>
+>
+> ***Green Drakeadon.*** A green drakeadon is resistant to acid damage and vulnerable to force damage.
+>
+> **Acid Breath.** Each creature in the breath's area must make a DC 18 Dexterity saving throw, taking 28 (8d6) acid damage on a failed save, or half as much damage on a successful one.
+>
+> In addition, any creature who failed the saving throw who wears nonmagical armor or a shield take a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.
+>
+> <br>
+>
+> <div style='margin-top:-30px'></div>
+>
+> ***Red Drakeadon.*** A red drakeadon is resistant to fire damage and vulnerable to cold damage.
+>
+> **Fire Breath.** Each creature in the breath's area must make a DC 18 Dexterity save, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one.
+>
+> In addition, the drakeadon regains a number of hit points equal to the damage dealt by this breath attack.
+
+</div>
+
+<img src='https://www.gmbinder.com/images/LSquXba.jpg' style='position:absolute; top:0px; left:-140px' />
+<img src='https://www.gmbinder.com/images/NO1EQoX.png' style='position:absolute; bottom:230px; left:0px; width:435px' />
+<img src='https://www.gmbinder.com/images/NO1EQoX.png' style='position:absolute; bottom:230px; right:0px; width:435px; transform:scaleX(-1)' />
+<div class="pageLetter">D</div>
+<div class='footnote'>DRAKEADONS </div>
+
+\pagebreakNum
+
 ## Dust Devil
 A dust devil is an elemental of air and earth. Roaring out across the land, these violent vortexes can spell a real problem for any  nearby settlements, as their chaotic nature makes them prone to cause great upheaval.
 
