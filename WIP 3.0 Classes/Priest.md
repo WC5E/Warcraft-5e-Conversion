@@ -313,25 +313,25 @@ You start with the following equipment, in addition to the equipment granted by 
 \pagebreakNum
 
 ### Spellcasting
-*1st-level priest feature*<br/>
+*1st-level Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-As a conduit for divine or shadowy power, you can cast priest spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the priest spell list.
+As a conduit for divine or shadowy power, you can cast Priest spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the Priest spell list.
 
 #### Cantrips
-At 1st level, you know three cantrips of your choice from the priest spell list. You learn additional priest cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Priest table.
+You know three cantrips of your choice from the Priest spell list. You learn additional Priest cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Priest table.
 
 #### Preparing and Casting Spells
 The Priest table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain expended all spell slots when you finish a long rest.
 
-You prepare the list of priest spells that are available for you to cast, choosing from the priest spell list. When you do so, choose a number of priest spells equal to your Charisma modifier + your priest level (minimum of one spell). The spells must be of a level for which you have spell slots.
+You prepare the list of Priest spells that are available for you to cast, choosing from the Priest spell list. When you do so, choose a number of Priest spells equal to your Charisma modifier + your Priest level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level priest, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level Priest, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of priest spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of Priest spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 #### Spellcasting Ability
-Charisma is your spellcasting ability for your priest spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a priest spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a priest spell you cast and when making an attack roll with one.
+Charisma is your spellcasting ability for your Priest spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a Priest spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a Priest spell you cast and when making an attack roll with one.
 
 <div style="text-align: Center">
 
@@ -342,13 +342,13 @@ Charisma is your spellcasting ability for your priest spells, since the power of
 </div>
 
 #### Ritual Casting
-You can cast a priest spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+You can cast a Priest spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
 #### Spellcasting Focus
-You can use a holy symbol as a spellcasting focus for your priest spells.
+You can use a holy symbol as a spellcasting focus for your Priest spells.
 
 ### Divine Calling
-*1st-level priest feature*<br/>
+*1st-level Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 Choose a divine calling, a path of priesthood that you have devoted yourself to: Discipline, Holy, or Shadow. Each calling is detailed at the end of the class description. Your choice grants you features when you choose it at 1st level and again at 2nd, 6th, 10th, and 18th level.
@@ -360,19 +360,19 @@ Choose a divine calling, a path of priesthood that you have devoted yourself to:
 #### Calling Spells
 Each calling has a list of associated spells. You gain access to these spells at the levels specified in the calling description. Once you gain a calling spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
-If you gain a calling spell that doesn't appear on the priest spell list, the spell is nonetheless a priest spell.
+If you gain a calling spell that doesn't appear on the Priest spell list, the spell is nonetheless a Priest spell.
 
 ### Devotion
-*2nd-level priest feature*<br/>
+*2nd-level Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 You can channel pure energy from your source of power, using that energy to fuel magical effects. You start with three such effects: Desperate Prayer, a Divine Word of your choice, and an effect determined by your calling. 
 
 You learn an additional Divine Word at 5th, 9th, 13th and 17th levels. Some callings may grant you additional effects as you advance in level, as noted in the domain description.
 
-When you use your Devotion, you brandish your holy symbol and choose an effect, and can only use one Devotion option per turn. Some Devotion effects require saving throws. When you use such an effect from this class, the DC equals your priest spell save DC.
+When you use your Devotion, you brandish your holy symbol and choose an effect, and can only use one Devotion option per turn. Some Devotion effects require saving throws. When you use such an effect from this class, the DC equals your Priest spell save DC.
 
-You have two uses of Devotion, and regain all expended uses upon finishing a short or long rest. You gain additional uses of Devotion as you gain priest levels, as shown in the Devotions column of the Priest table.
+You have two uses of Devotion, and regain all expended uses upon finishing a short or long rest. You gain additional uses of Devotion as you gain Priest levels, as shown in the Devotions column of the Priest table.
 
 #### Desperate Prayer
 As a bonus action, you can expend a use of your Devotion to fuel your spells. You regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). 
@@ -425,13 +425,13 @@ The words are presented in alphabetical order.
 ***Shield.*** As an action, you can spend one use of Devotion to give one creature within 60 feet of you a number of temporary hit points equal to your priest level + your Charisma modifier. These temporary hit points last for <br/> 1 minute.
 
 ### Ability Score Improvement
-*4th-level priest feature*
+*4th-level Priest feature*
 <div style='margin-top:-4px'></div>
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+At this level and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Empowering Faith
-*7th-level priest feature*<br/>
+*7th-level Priest feature*<br/>
 <div style='margin-top:-4px;'></div> 
 
 Your faith infuses you with power. You gain one of the following options of your choice.
@@ -440,10 +440,10 @@ Your faith infuses you with power. You gain one of the following options of your
 You infuse your weapon strikes with divine energy. Choose either necrotic, psychic, or radiant damage. Once per turn when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the chosen type.
 
 #### Power Infusion 
-You add your Charisma modifier (with a minimum bonus of +1) to the damage you deal with any priest cantrip.
+You add your Charisma modifier (with a minimum bonus of +1) to the damage you deal with any Priest cantrip.
 
 #### Unwavering Will 
-When you make a concentration check, you can use your reaction to add your Charisma modifier to it (with a minimum bonus of +1).
+When you make a Concentration check, you can use your reaction to add your Charisma modifier to it (with a minimum bonus of +1).
 
 <div class='footnote'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/J5lW3Tw.png' style='position:absolute; top:0px; right:170px; width:110%; ' />
@@ -452,7 +452,7 @@ When you make a concentration check, you can use your reaction to add your Chari
 \pagebreakNum
 
 ### Unwavering Faith
-*14th-level priest feature*<br/>
+*14th-level Priest feature*<br/>
 <div style='margin-top:-4px;'></div> 
 
 The option you chose for Empowering Faith grows more powerful.
@@ -464,16 +464,16 @@ The option you chose for Empowering Faith grows more powerful.
 ***Unwavering Will.*** While concentrating on a spell, you gain a +2 bonus to your AC. 
 
 ### Prodigy of Faith
-*17th-level priest feature*<br/>
+*17th-level Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 When you roll initiative and have no uses of Devotion remaining, you regain one use. 
 
 ### Embrace Calling
-*20th-level priest feature*<br/>
+*20th-level Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-You can channel the power of your faith, allowing you to achieve incredible feats through sheer conviction alone. As an action, you attempt to bring forth a manifestation of power. The GM chooses the nature of the manifestation; the effect of any priest spell or priest calling spell would be appropriate. Once you use this feature, you can't do so again for 7 days.
+You can channel the power of your faith, allowing you to achieve incredible feats through sheer conviction alone. As an action, you attempt to bring forth a manifestation of power. The GM chooses the nature of the manifestation; the effect of any Priest spell or Priest calling spell would be appropriate. Once you use this feature, you can't do so again for 7 days.
 
 ## Divine Callings
 Priests choose a divine calling, a path of priesthood that they follow. This calling could be the Church of the Holy Light, the goddess Elune, or a sect dedicated to the dark shadows and void. Your choice might correspond to a particular branch of the divine callings, it could simply be a matter of personal preference, following the purpose that appeals to you the most.
@@ -493,17 +493,19 @@ Priest Level| Spells
 9th |*dispel evil and good*, *wall of force*
 
 #### Atonement
-*1st-level Discipline feature*<br/>
+*1st-level Discipline Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 Whenever you cast a spell of 1st level or higher that deals damage, you can choose one creature you can see within 30 feet. That creature regains hit points equal to twice the spell's level.
 
+
 In addition, whenever you cast a spell of 1st level or higher that restores hit points, you can choose one creature you can see within 30 feet. That creature takes an amount of necrotic, psychic, or radiant damage (your choice) equal to twice the spell's level.
 
-You can only use one of the effects of Atonement, not both,  per casting of a spell.
+You can only use one of the effects of Atonement, not both, per casting of a spell.
+
 
 #### Twist of Fate
-*1st-level Discipline feature*<br/>
+*1st-level Discipline Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 As a reaction, when you or another creature you can see within 60 feet makes an ability check, attack roll, or saving throw, you can change the value rolled to a 10. This can be declared after the roll, but before failure or success is determined.
@@ -511,7 +513,7 @@ As a reaction, when you or another creature you can see within 60 feet makes an 
 You can use this reaction a number of times equal to your proficiency bonus, and regain all expended uses upon finishing a long rest.
 
 #### Devotion: Pain Suppression
-*2nd-level Discipline feature*<br/>
+*2nd-level Discipline Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 As an action, you can expend a use of Devotion to grant a barrier to a creature you can see within 60 feet of you. The barrier is invisible, and any bludgeoning, piercing, and slashing damage the target takes is reduced by 2 + your proficiency bonus, to a minimum of 0. This effect lasts for 1 minute or until you are incapacitated or die. 
@@ -525,24 +527,24 @@ Once you use this feature, you can't do so again until you finish a long rest, u
 \pagebreakNum
 
 #### Spirit Shield
-*6th-level Discipline feature*<br/>
+*6th-level Discipline Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-Whenever a creature regains hit points from one of your priest spells or Atonement, they also gain a number of temporary hit points equal to your proficiency bonus. 
+Whenever a creature regains hit points from one of your Priest spells or Atonement, they also gain a number of temporary hit points equal to your proficiency bonus. 
 
 #### Rapture
-*10th-level Discipline feature*<br/>
+*10th-level Discipline Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-When you use a Devotion as an action, you can cast one of your Discipline Calling spells with a casting time of action as a bonus action that turn. Any Atonement damage or healing done by this spell increases by an amount equal to half your priest level. 
+When you use a Devotion as an action, you can cast one of your Discipline Calling spells with a casting time of action as a bonus action that turn. Any Atonement damage or healing done by this spell increases by an amount equal to half your Priest level. 
 
 #### Clarity of Will 
-*18th-level Discipline feature*<br/>
+*18th-level Discipline Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 When a creature gains the benefit of your Devotion: Pain Suppression, the creature now takes reduced damage from all sources. 
 
-In addition, whenever a creature has temporary hit points granted from your priest class abilities, that creature gains advantage on saving throws against the charmed and frightened conditions and on Wisdom saving throws. 
+In addition, whenever a creature has temporary hit points granted from your Priest class abilities, that creature gains advantage on saving throws against the charmed and frightened conditions and on Wisdom saving throws. 
 
 ### Holy
 The most adept priests leave their houses of worship to serve on the battlefield as shepherds to flock. There, they use their holy powers to bless allies and mend wounds. And while most stay behind the frontlines to aid their comrades, these holy champions are also capable of smiting foes and carrying out sacred justice. 
@@ -557,13 +559,13 @@ Priest Level| Spells
 9th |*mass cure wounds*, *raise dead*
 
 #### Echo of Light 
-*1st-level Holy feature*<br/>
+*1st-level Holy Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 Whenever you use a spell slot of 1st level or higher to restore hit points or give another beneficial effect to one or more creatures, a creature of your choice among them regains a number of hit points at the start of your next turn equal to your proficiency bonus. 
 
 #### Renew Faith 
-*1st-level Holy feature*<br/>
+*1st-level Holy Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 You learn the *calm emotions* spell and always have it prepared. In addition, you can cast this spell without expending a spell slot. When you do so, you can only target one creature with it, and in addition to the other effects of the spell, when a creature fails the saving throw, you can choose to learn your choice of one bond, value, hope, or flaw that creature possesses. The creature does not become aware that you learn this information from them.
@@ -573,7 +575,7 @@ Once you cast *calm emotions* in this way, you cannot do so again until you fini
 \columnbreak
 
 #### Devotion: Prayer of Mending
-*2nd-level Holy feature*<br/>
+*2nd-level Holy Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 As an action, you can expend a use of Devotion to place a ward of mending onto a creature you can see within 30 feet of you for 1 minute. When that creature takes damage, they regain a number of hit points equal to 2d10 + your priest level, and gain resistance to damage for the rest of that turn, including the triggering damage. 
@@ -587,13 +589,13 @@ At any time while the ward is up, you can use your bonus action to move the ward
 Once you use this feature, you can't do so again until you finish a short of long rest, unless you spend two uses of Devotion to use it again.
 
 #### Holy Fire
-*6th-level Holy feature*<br/>
+*6th-level Holy Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 Whenever you restore hit points or cast a beneficial spell on a creature, they are imbued with radiant power for 1 minute. The next attack that creature lands deals additional radiant damage equal to your Charisma modifier plus your proficiency bonus. 
 
 #### Symbol of Hope
-*10th-level Holy feature*<br/>
+*10th-level Holy Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 When you cast a Holy Calling spell that requires concentration, you can choose to cast another spell that also requires concentration, as long as that second spell is also a Holy Calling spell, concentrating on both spells as normal. When you make a concentration check while doing so, you do so with disadvantage, and if you lose concentration, you lose it for both spells. 
@@ -601,7 +603,7 @@ When you cast a Holy Calling spell that requires concentration, you can choose t
 Once you use this feature, you cannot do so again until you finish a long rest. 
 
 #### Guardian Spirit 
-*18th-level Holy feature*<br/>
+*18th-level Holy Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 A guardian spirit watches over your allies. When a creature within 60 feet of you and is friendly to you drops to 0 hit points or is subjected to an effect that would make them die outright, such as the *power word kill* spell, you can use your reaction to summon this guardian spirit to them. The target is immediately returned to life and healed for half its hit point maximum. The target then gains immunity to all damage until the start of its next turn.
@@ -625,41 +627,40 @@ Priest Level| Spells
 9th |*enervation* ^XGE^, *✦ shadow crash*
 
 #### Psychic Voice 
-*1st-level Shadow feature*<br/>
+*1st-level Shadow Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 You can form a telepathic connection between creatures of your choice you can see within 30 feet of you. Choose a number of creature you can see (including yourself), up to your proficiency bonus. The chosen creatures can speak telepathically with each other as long as they are on the same plane. To understand each other, the creatures must speak mentally in a language the other creature knows. 
 
-The telepathic connection last for a number of minutes equal to your priest level, and once used, cannot be used again until you finish a short or long rest, unless you expend a spell slot of 1st level or higher to use it again. 
+The telepathic connection last for a number of minutes equal to your Priest level, and once used, cannot be used again until you finish a short or long rest, unless you expend a spell slot of 1st level or higher to use it again. 
 
 #### Mind Sear 
-*1st-level Shadow feature*<br/>
+*1st-level Shadow Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
-As a bonus action, you can choose one creature that failed a saving throw from one of your priest spells or abilities this turn. That creature, and all creatures of your choice within 5 feet of them take 1d6 psychic damage. Any charmed or frightened creatures who take this damage takes an additional 1d6 psychic damage.
+As a bonus action, you can choose one creature that failed a saving throw from one of your Priest spells or abilities this turn. That creature, and all creatures of your choice within 5 feet of them take 1d6 psychic damage. Any charmed or frightened creatures who take this damage takes an additional 1d6 psychic damage.
 
 You can use this bonus action a number of times equal to your proficiency bonus, and regain all expended uses when you finish a long rest. 
 
-
 #### Devotion: Shadowform 
-*2nd-level Shadow feature*<br/>
+*2nd-level Shadow Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 You can expend one use of Devotion and enshroud your body in shadow energy as a bonus action. For one minute, you gain the following effects:
 * You can't cast spells that restore hit points, unless it is one of your Shadow Calling spells. 
 * You have advantage on Charisma (Intimidation) and Dexterity (Stealth) checks, but disadvantage on all other Charisma checks. 
-* Once per turn, when you hit a creature with an attack, or when a creature fails a saving throw from one of your priest spells, you can invoke primal fear in them. The target must succeed on a Charisma saving throw or become frightened of you for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+* Once per turn, when you hit a creature with an attack, or when a creature fails a saving throw from one of your Priest spells, you can invoke primal fear in them. The target must succeed on a Charisma saving throw or become frightened of you for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 Once you use this feature, you can't do so again until you finish a short of long rest, unless you spend two uses of Devotion to use it again.
 
 #### Dark Thoughts
-*6th-level Shadow feature*<br/>
+*6th-level Shadow Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 Your mind is more riddled with shadowy thoughts. You gain resistance to psychic damage, and if you have your Shadowform active, you have advantage on saving throws you make to avoid or end early the charmed or frightened condition on yourself.
 
 #### Fortress of the Mind
-*6th-level Shadow feature*<br/>
+*6th-level Shadow Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 Your mind is more guarded to outside forces. You are immune to any magical effect that would read your thoughts or intentions, such as the *detect thoughts* spell, and Wisdom (Insight) check against you are made with disadvantage.  
@@ -667,14 +668,13 @@ Your mind is more guarded to outside forces. You are immune to any magical effec
 Additionally, if a creature attempts to charm or frighten you and you succeed on the saving throw, you can use your reaction to force the creature to make the same saving throw against your priest spell save DC, becoming charmed or frightened of you until the end of your next turn if they fail instead.
 
 #### Horrific Visions
-*10th-level Shadow feature*<br/>
+*10th-level Shadow Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 You learn how to invoke creature's deepest, darkest fears. When a creature starts their turn frightened or charmed by you, or while under the effect of one of your Shadow Calling spells, their movement speed is halved and they can't take reactions until the start of their next turn. 
 
-
 #### Dark Absolution 
-*18th-level Shadow feature*<br/>
+*18th-level Shadow Priest feature*<br/>
 <div style='margin-top:-4px;'></div>
 
 Your body becomes one with shadowy magic. While you have Shadowform active, you gain the following benefits: 
@@ -683,7 +683,7 @@ Your body becomes one with shadowy magic. While you have Shadowform active, you 
 
 <div class='footnote footnote-white'>PART 1 | CLASSES</div>
 <img src='https://www.gmbinder.com/images/AqgsnIF.jpg' style='position:absolute; top:700px; left:80px; width:800px; ' />
-<img src='https://www.gmbinder.com/images/VxBG78d.png' style='position:absolute; top:-50px; left:-100px; width:131%; transform:scaleX(-1)' />
+<img src='https://www.gmbinder.com/images/VxBG78d.png' style='position:absolute; top:-40px; left:-100px; width:131%; transform:scaleX(-1)' />
 
 \pagebreakNum
 
