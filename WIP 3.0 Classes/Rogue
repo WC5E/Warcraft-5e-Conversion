@@ -4,10 +4,18 @@
   /* Resize page to international A4 */
   .phb {
     width: 210mm;
-    height: 296.8mm;
+    height: 297mm;
   }
   .phb:after { content: ""; }
 
+/* Temporary Fix for heading issues */
+    .phb p{ line-height: 15px; } 
+    .phb blockquote p{ line-height: 14px; } 
+    .phb h2{ line-height: 26px; } 
+    .phb h3{ line-height: 19px; } 
+    .phb h4{ line-height: 15px; padding-bottom: 3px; } 
+    .phb h5{ line-height: 17px; } 
+    th, td { line-height: 14px; }
 
 /* TABLE OF CONTENTS  */
 
@@ -79,7 +87,7 @@
 /* INK BLOT STYLES */
 
   /* Root style for inkblots. Use alone, or together with
-  one of the inkb lotstyle classes below. Essentially:
+  one of the ink blotstyle classes below. Essentially:
   <img url='{url}' class='inkblot inkblot-blue' />
   */
   .inkblot {
@@ -96,45 +104,55 @@
     filter: hue-rotate(120deg)
   }
 
-/* PAGE STYLE */
+/* Background */
+  .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
+  .phb{ background-size: cover }
 
-   /* Background */
-     .phb{ background-image: url('https://gmbinder.com/images/KN1O92T.png') }
-     .phb{ background-size: cover }
+/* Notes */
+  .phb section blockquote {background-color: #f6e5d4}
+  .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
 
-   /* Notes */
-     .phb section blockquote {background-color: #f6e5d4}
-     .phb hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
+/* Tables */
+  table tr:nth-child(odd) td {background-color: #cccccc}
 
-   /* Tables */
-     table tr:nth-child(odd) td {background-color: #cccccc}
-
-   /* Footer */
-     .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
-     .phb .footnote {color: rgba(0, 0, 0, 0.5)}
-     .phb:nth-child(odd):after{ 
-       content          : '';
-       position         : absolute;
-       bottom           : -7px;
-       left             : 10px;
-       z-index          : -1;
-       height           : 336px;
-       width            : 100%;
-       background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
-       background-size  : cover;
-   }
-
-   .phb:nth-child(even):after{ 
-       content          : '';
-       position         : absolute;
-       bottom           : -7px;
-       left             : -10px;
-     z-index          : -1;
-       height           : 336px;
+/* Footer */
+  .phb .pageNumber {color: rgba(0, 0, 0, 0.5)}
+  .phb .footnote {color: rgba(0, 0, 0, 0.5)}
+  
+  /* Bottom metalwork art */
+  .phb:nth-child(odd):not(:last-child):after { 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : 10px;
+    z-index          : -1;
+    height           : 336px;
+    width            : 100%;
+    background-image : url('https://www.gmbinder.com/images/bNTz1nk.png');
+    background-size  : cover;
+  }
+  /* Bottom metalwork art */
+  .phb:nth-child(even):not(:last-child):after { 
+    content          : '';
+    position         : absolute;
+    bottom           : -7px;
+    left             : -10px;
+    z-index          : -1;
+    height           : 336px;
     width            : 100%;
     background-image : url('https://www.gmbinder.com/images/6NCzAN0.png');
     background-size  : cover;
-}
+  }
+  .phb:last-child:after {
+    display: none;
+  }
+
+  /* Footer with white text against dark backgrounds */
+  .phb .footnote.footnote-white,
+  .phb .footnote.footnote-white + .pageNumber,
+  .phb .footnote.footnote-white + section .pageNumber {
+    color: rgba(255,255,255,0.8);
+  }
 
 /* Page Number */
 .phb .pageNumber{
@@ -161,6 +179,11 @@
 }
 .phb:nth-child(odd) .pageNumber.auto{
     right      : 12px;
+}
+
+/* Use black tones for statblock backgrounds */
+.phb blockquote {
+  box-shadow: 1px 4px 14px rgba(0,0,0,0.42);
 }
 
 </style>
@@ -282,27 +305,36 @@ You start with the following equipment, in addition to the equipment granted by 
 <div style='margin-top:-2px;'></div>
 
 ### Expertise
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for ability checks you make that uses either of the chosen proficiencies.
+*1st-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+Choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for ability checks you make that uses either of the chosen proficiencies.
 
 At 6th level, you can choose two more of your proficien&shy;cies (in skills or with thieves' tools) to gain this benefit.
-<div style='margin-top:-2px;'></div>
 
 ### Sneak Attack
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a light, finesse, or ranged weapon.
+*1st-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a light, finesse, or ranged weapon.
 
 You don't need advantage on the attack if another enemy of the target is within 5 feet of it, that enemy isn't incapa&shy;citated, and you don't have disadvantage on the attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
-<div style='margin-top:-2px;'></div>
 
 ### Secret Missives
+*1st-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
 During your rogue training you learned how to conceal messages, instructions, and simple ideas in plain sight. You do so by weaving subtle jargon and motions in seemingly normal dialogue, sharing statements with hidden meanings or even by writing cryptic code.
 
 You can use 4 hours to share a set of such rules with another creature, allowing you to weave secret messages and commands in your conversations and letters. More elaborate rules may require an Intelligence check at your DM's discretion.
-<div style='margin-top:-2px;'></div>
 
 ### Energy
-At 2nd level, you learn how to weaken a creature further through the use of energy. Your rogue level determines the number of energy points you have, as shown in the Energy Points column of the Rogue table.
+*2nd-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You learn how to weaken a creature further through the use of energy. Your Rogue level determines the number of energy points you have, as shown in the Energy Points column of the Rogue table.
 
 You can spend these points to fuel various energy moves. You start by knowing three such moves: Cripple, Expose Armor, and Garrote. You learn more energy moves as you gain levels in this class.
 
@@ -314,7 +346,6 @@ Your energy features require your target to make a saving throw to resist the fe
 
 **Energy save DC** = 8 + your proficiency bonus + <br> your Dexterity modifier
 </div>
-<div style='margin-top:-5px;'></div>
 
 #### Cripple
 Immediately after you hit a creature with the Attack action, you can spend 1 energy point to cripple it. The target must succeed on a Strength saving throw or be knocked prone.
@@ -322,48 +353,78 @@ Immediately after you hit a creature with the Attack action, you can spend 1 ene
 #### Expose Armor
 You can use your action and spend 1 energy point to make a special weapon attack. If you hit, you deal normal weapon damage and expose flaws in its defenses. Each other creature has advantage on the first weapon attack roll they make against the target before the end of your next turn.
 
-\columnbreak
-
 #### Garrote
 When you hit a creature with a melee weapon attack, you can spend 1 energy point to garrote it. The target must succeed on a Constitution saving throw or be unable to speak until the end of your next turn.
 
 ### Cunning Action
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
+*2nd-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+Your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
 
 ### Roguish Archetype
-At 3rd level, you choose an area to specialize yourself within, that shapes your rogue abilities: Assassin, Outlaw, or Subtlety, all detailed at the end of the class description. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
+*3rd-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You choose an area to specialize yourself within, that shapes your rogue abilities: Assassin, Outlaw, or Subtlety, all detailed at the end of the class description. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
 ### Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+*4th-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+At this level and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Uncanny Dodge
-Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+*5th-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
 ### Evasion
-At 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+*7th-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Fleet Footed
-Starting at 10th level, your speed increases by 10 feet while you aren't wearing medium or heavy armor.
+*10th-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+Your speed increases by 10 feet while you aren't wearing medium or heavy armor.
 
 ### Reliable Talent
-By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+*11th-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
 
-### Blindsense
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creatures within 10 feet of you.
-
-### Anticipation
-At 15th level, you are always surveying your enemies and looking for openings. In combat, you get a second reaction that you can take once per turn. You can use this second reaction only to make an opportunity attack, and you can't use it on the same turn that you take your normal reaction.
+You have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
 \pagebreakNum
 
-### Elusive
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
+### Blindsense
+*14th-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
 
+If you are able to hear, you are aware of the location of any hidden or invisible creatures within 10 feet of you.
+
+### Anticipation
+*15th-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You are always surveying your enemies and looking for openings. In combat, you get a second reaction that you can take once per turn. You can use this second reaction only to make an opportunity attack, and you can't use it on the same turn that you take your normal reaction.
+
+### Elusive
+*18th-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
 
 ### Stroke of Luck
-At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively. if you fail an ability check, you can treat the d20 roll as a 20.
+*20th-level Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively. if you fail an ability check, you can treat the d20 roll as a 20.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -374,61 +435,92 @@ Rogues have many features in common, including <br> their emphasis on perfecting
 You focus your training on the grim art of death. Favoring stealth and vicious poisons over direct approaches. Those who adhere to this specialization are diverse: hired killers, spies, and bounty hunters. Stealth, and poison help you eliminate your foes with deadly efficiency.
 
 #### Bonus Proficiency
-When you choose this archetype at 3rd level, you gain proficiency with the poisoner's kit.
+*3rd-level Assassination Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You gain proficiency with the poisoner's kit.
 
 #### Assassin's Intuition
-Starting at 3rd level, you are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first round of each combat deals additional weapon damage equal to your Rogue level.
+*3rd-level Assassination Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You are at your deadliest when you get the drop on your enemy. You have advantage on attack rolls against any creature that hasn't taken an action in the combat yet. In addition, your first hit against a creature on the first round of each combat deals additional weapon damage equal to your Rogue level.
 
 #### Poisoned Knife
-Upon reaching 9th level, when you hit a creature with a weapon attack, you can spend 1 energy point as part of the attack to poison the creature. The target must succeed on a Constitution saving throw or be poisoned until the end of your next turn.
+*9th-level Assassination Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+hen you hit a creature with a weapon attack, you can spend 1 energy point as part of the attack to poison the creature. The target must succeed on a Constitution saving throw or be poisoned until the end of your next turn.
 
 #### Vendetta
-Beginning at 13th level, you are able to make the most of an opportune moment. When you take the Attack action on your turn and score a critical hit with a weapon attack, you may make another weapon attack as part of the same Attack action.
+*13th-level Assassination Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+ou are able to make the most of an opportune moment. When you take the Attack action on your turn and score a critical hit with a weapon attack, you may make another weapon attack as part of the same Attack action.
 
 In addition, whenever a creature within 5 feet of you is hit by a critical attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
 
 #### Seal Fate
-At 17th level, you have become a master of instant death. When you hit a creature with a weapon attack, you can force it to make a Constitution saving throw against a DC of 8 + your Dexterity modifier + your proficiency bonus. On a failed save, the damage of your attack is doubled.
+*17th-level Assassination Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You have become a master of instant death. When you hit a creature with a weapon attack, you can force it to make a Constitution saving throw against a DC of 8 + your Dexterity modifier + your proficiency bonus. On a failed save, the damage of your attack is doubled.
 
 Once you use this feature, you can't use it again until you finish a long rest.
-
-\columnbreak
 
 ### Outlaw
 Outlaw rogues are the unscrupulous scoundrels of Azeroth. They bend the rules and distort the truth to get what they need. These outlaws have little use for tact or discretion, happy to engage in a tavern brawl or spontaneous duel, rarely patient enough to wait in stealth for the opportune time to engage. To survive in such a world, outlaws must become master swordsmen in toe-to-toe combat — and they can’t shy away from fighting dirty.
 
 #### Bonus Proficiency
-When you choose this archetype at 3rd level, you gain proficiency with pistols and rifles.
+*3rd-level Outlaw Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You gain proficiency with pistols and rifles.
 
 #### Alacrity
-When you choose this archetype at 3rd level, your confi&shy;dence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your Charisma modifier.
+*3rd-level Outlaw Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+our confi&shy;dence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your Charisma modifier.
 
 In addition, you learn how to land a strike and slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make oppor&shy;tunity attacks against you for the rest of your turn.
 
 #### Point Blank
-At 9th level, immediately after you take the Attack action on your turn, you can spend 1 energy point to make a ranged attack roll with a loaded pistol as a bonus action, dealing normal weapon damage on a hit. If you hit a target within 5 feet of you, it is also stunned until the end of your next turn.
+*9th-level Outlaw Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+Immediately after you take the Attack action on your turn, you can spend 1 energy point to make a ranged attack roll with a loaded pistol as a bonus action, dealing normal weapon damage on a hit. If you hit a target within 5 feet of you, it is also stunned until the end of your next turn.
 
 You must be wielding a pistol or have an empty hand that can draw one (no action required) to use this energy move.
 
 #### Tricks of the Trade
-Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while within 5 feet of a creature other than the attacker, you can use your reaction to have the attack target that creature instead of you.
+*13th-level Outlaw Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while within 5 feet of a creature other than the attacker, you can use your reaction to have the attack target that creature instead of you.
 
 You can use this feature twice. You regain all spent uses when you finish a short or long rest.
 
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
 #### Adrenaline Rush
-At 17th level, the thrill of battle invigorates you. When you roll for initiative and have no energy points remaining, you regain 2 energy points.
+*17th-level Outlaw Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+The thrill of battle invigorates you. When you roll for initiative and have no energy points remaining, you regain 2 energy points.
 
 ### Subtlety
 Subtlety rogues are the masters of the shadows, and they strike unseen. Some claim the art of subtlety looks like malevolent shadow magic — these rogues are capable of performing devastating assaults on their enemies, slipping away unharmed to strike again without detection. Most rogues train their entire lives to learn how to walk in the shadows — subtlety rogues were born there.
 
 #### Spellcasting
-When you choose this archetype at 3rd level, you learn to harness magic from the shadows. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the subtlety spell list.
+*3rd-level Subtlety Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You learn to harness magic from the shadows. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 6 of this book for the subtlety spell list.
 
 ***Cantrips.*** You learn two cantrips of your choice from the subtlety spell list. You learn another subtlety cantrip of your choice at 10th level.
-
-<div class='footnote'>PART 1 | CLASSES</div>
-
-\pagebreakNum
 
 &nbsp;&nbsp;&nbsp; ***Spell Slots.*** The Subtlety Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
@@ -450,22 +542,34 @@ Whenever you gain a level in this class, you can replace one of the subtlety spe
 </div>
 
 #### Gloom Sight
-Also at 3rd level, you gain darkvision out to a range of <br> 60 feet. If you already have darkvision from your race, its range increases by 30 feet.
+*3rd-level Subtlety Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You gain darkvision out to a range of <br> 60 feet. If you already have darkvision from your race, its range increases by 30 feet.
+
+\columnbreak
 
 #### Shadowstep
-At 9th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an empty space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of your turn.
+*9th-level Subtlety Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an empty space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of your turn.
 
 #### Cloak of Shadows
-Beginning at 13th level, you can use your reaction when you take damage from an attack or spell to step into the shadows, giving you immunity to all damage until the end of the next turn, including the triggering attack.
+*13th-level Subtlety Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You can use your reaction when you take damage from an attack or spell to step into the shadows, giving you immunity to all damage until the end of the next turn, including the triggering attack.
 
 You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
 #### Shadowy Duel
-At 17th level, you can use your action and spend 2 energy points to shroud the vision of a creature within 30 feet of you. The creature must succeed on a Wisdom saving throw or have everything, except you, become heavily obscured for 1 minute.
+*17th-level Subtlety Rogue feature*<br/>
+<div style='margin-top:-4px;'></div>
+
+You can use your action and spend 2 energy points to shroud the vision of a creature within 30 feet of you. The creature must succeed on a Wisdom saving throw or have everything, except you, become heavily obscured for 1 minute.
 
 At the end of each of its turns, the target can make another Wisdom saving throw, ending the shadowy duel on a successful saving throw.
-
-\columnbreak
 
 <div class='classTable'>
 
@@ -491,6 +595,10 @@ At the end of each of its turns, the target can make another Wisdom saving throw
 | 19th| 4 | 12 |4||3||3||1|
 | 20th| 4 | 13 |4||3||3||1|
 </div>
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
 
 <div style='column-count:2'>
 
