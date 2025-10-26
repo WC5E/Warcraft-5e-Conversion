@@ -1625,7 +1625,7 @@ A core hound's body is covered in thick, sweltering metal plates, with streaks o
 The dark iron hounds, considered misshapen by true core hounds, cease to grow once they reach maturity.
 
 ### Core Hound
-The core hound is a monstrous, vicious, two-headed bulldog with a faithful bond to the Firelord Ragnaros and his minions. Waves of scorching heat emanate from the core hound's body, and those who engage it with head-on quickly find their weapons rendered useless as each slash and stab melts it all away.
+The core hound is a monstrous, vicious, two-headed bulldog with a faithful bond to the Firelord Ragnaros and his minions. Waves of scorching heat emanate from the core hound's body, and those who engage it head-on quickly find their weapons rendered useless as each slash and stab melts it all away.
 
 They are are ferocious, unforgivable beings. Hostility toward intruders is always a given, as they are impossible to reason with. They take orders solely from the Firelord's rank and file, or from the Firelord himself.
 
@@ -4698,7 +4698,7 @@ Still sharing the city with their trogg invaders, leper gnomes are known to be e
 
 <div style='margin-top:27px;'></div>
 
-> ##### Radiation Disease
+> ##### Radiation Sickness
 > When an uninfected creature comes into contact with a source of radiation — such as contaminated water, being bitten by an infected creature, or for every hour spent in a high-radiation area — the creature must succeed on a DC 11 a Constitution saving throw or contract the radiation disease.
 >
 > It takes 1d4 days for the disease to manifest. As it does, the creature's skin takes on a sickly green tint and abscesses start to spread across its surface. At the end of that period, the creature gains advantage on saving throws against poison and resistance against poison damage. However, the creature also has disadvantage on all Strength and Dexterity ability checks, as well as weapon attack rolls.
@@ -5652,7 +5652,7 @@ ___
 > <br>    ***Spellcasting.*** The ogre is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The ogre has the following priest spells prepared:
 > <div style='margin-top:-15px;'></div>
 >
-> <br> Cantrips (at will): *✦ mind blast, resistance,<br>&nbsp;&nbsp;&nbsp; ✦ shadow bolt, virtue*
+> <br> Cantrips (at will): *✦ mind blast, resistance,<br>&nbsp;&nbsp;&nbsp; ✦ shadow bolt, spare the dying*
 > <br> 1st level (4 slots): *cause fear, ✦ dark void,<br>&nbsp;&nbsp;&nbsp; healing word, shield of faith*
 > <br> 2nd level (3 slots): *lesser restoration, ✦ mind flay, <br>&nbsp;&nbsp;&nbsp; silence*
 > <br> 3rd level (3 slots): *dispel magic, hunger of hadar,<br>&nbsp;&nbsp;&nbsp; speak with dead*
@@ -6280,7 +6280,7 @@ ___
 > ___
 > ***Keen Smell.*** The sabercat has advantage on Wisdom (Perception) checks that rely on smell.
 >
-> ***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
+> ***Pounce.*** If the sabercat moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
@@ -7652,7 +7652,7 @@ Great chunks of the remaining Amani and Gurubashi empires were lost, but plenty 
 
 ***Tribal Devotion.*** Trolls have always been a tribal race, isolating themselves and starting anew. A troll’s tribe is its family, and many will go to extreme lengths to protect it as such. They owe loyalty to no-one but their own.
 
-***Outside Hostility.*** Trolls settle in remote and isolated areas, places where they can stake their claim and turn the land into their own. The ferocity with which they defend their borders is legendar,y to say the least, as they will retaliate swiftly and with force if threatened.
+***Outside Hostility.*** Trolls settle in remote and isolated areas, places where they can stake their claim and turn the land into their own. The ferocity with which they defend their borders is legendary, to say the least, as they will retaliate swiftly and with force if threatened.
 
 ***Loa's Guidance.*** Loa is the name trolls have given their animalistic spirit gods. Countless Loa exist, many of them weak and shapeless beings that only trolls can sense, while others take the form of majestic animals. Most troll tribes and empires have their own Loas, manifested as though given shape by the trolls in their worship.
 
@@ -7695,7 +7695,7 @@ There is no definitive way to say what stands behind a dire troll's immense stat
 > ***Innate Spellcasting.*** The troll's spellcasting ability is Wisdom (spell save DC 15). The troll can innately cast the following spells, requiring no material components:
 > <div style='margin-top:0px;'></div>
 >
-> 2/day each: *bestow curse, confusion, puppet, slow*
+> 2/day each: *bestow curse, command, confusion, slow*
 > <br> 1/day each: *stoneskin, synaptic static*
 
 ---
@@ -8145,7 +8145,7 @@ ___
 > ***Innate Spellcasting.*** The wretched's spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material component
 >
 > At will: *blade ward, minor illusion*
-> <br> 1/day each: *detect magic, magic missiles, shield*
+> <br> 1/day each: *detect magic, magic missile, shield*
 >
 > ***Magic Resistance.*** The wretched has advantage on saving throws against spells and other magical effects
 >
@@ -9349,8 +9349,8 @@ ___
 > |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 > |25 (+7)|10 (+0)|22 (+6)| 5 (-3)|15 (+2)| 8 (-1)|
 > ___
-> - **Skills** darkvision 30 ft., Perception +5
-> - **Senses** passive Perception 15
+> - **Skills** Perception +5
+> - **Senses** darkvision 30 ft., passive Perception 15
 > - **Languages** —
 > - **Challenge** 7 (2,900 XP)
 > ___
