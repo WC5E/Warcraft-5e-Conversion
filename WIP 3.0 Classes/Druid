@@ -301,25 +301,33 @@ You start with the following equipment, in addition to the equipment granted by 
 \pagebreakNum
 
 ### Druidic
+*1st-level Druid feature*
+
+<div style='margin-top:-4px'></div>
+
 You know Druidic, the secret language of druids. You can speak, read and write Druidic, a language sacred to druids that is not taught to outsides without severe consequences for the teacher and teached.
 
 ### Spellcasting
-Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See chapter 10 of the *Player's Handbook* for the general rules of spellcasting and chapter 6 of this book for the druid spell list.
+*1st-level Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See chapter 10 of the *Player's Handbook* for the general rules of spellcasting and chapter 6 of this book for the Druid spell list.
 
 #### Cantrips
-At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
+You know two cantrips of your choice from the Druid spell list. You learn additional Druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
 
 #### Preparing and Casting Spells
-The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast a druid spell, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast a Druid spell, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
+You prepare the list of Druid spells that are available for you to cast, choosing from the Druid spell list. When you do so, choose a number of Druid spells equal to your Wisdom modifier + your Druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells. 
+For example, if you are a 3rd-level Druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells. 
 
-You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+You can also change your list of prepared spells when you finish a long rest. Preparing a new list of Druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 #### Spellcasting Ability
-Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attune-ment to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack with one.
+Wisdom is your spellcasting ability for your Druid spells, since your magic draws upon your devotion and attune-ment to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a Druid spell you cast and when making an attack with one.
 
 <div style="text-align: Center">
 
@@ -329,17 +337,21 @@ Wisdom is your spellcasting ability for your druid spells, since your magic draw
 </div>
 
 #### Ritual Casting
-You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+You can cast a Druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
 #### Spellcasting Focus
-You can use a druidic focus as a spellcasting focus for your druid spells.
-
-### Shapeshifting
-Starting at 2nd level, you can use your action to magically assume a druidic shape. There is no limitation to how often you can shapeshift into a shape that you know.
+You can use a druidic focus as a spellcasting focus for your Druid spells.
 
 \columnbreak
 
-&nbsp;&nbsp;&nbsp; Your druid level determines the shapes you can transform into, as shown in the Shapeshifts table. At 2nd level, for example, you can shapeshift into a cat or bear, among other shapeshifts.
+### Shapeshifting
+*2nd-level Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You can use your action to magically assume a druidic shape. There is no limitation to how often you can shapeshift into a shape that you know.
+
+Your Druid level determines the shapes you can transform into, as shown in the Shapeshifts table. At 2nd level, for example, you can shapeshift into a cat or bear, among other shapeshifts.
 
 ##### Shapeshifts
 |&nbsp; Level |&nbsp;&nbsp;| Available Shapeshifts |
@@ -359,18 +371,27 @@ While you are transformed, the following rules apply:
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment merged with your form has no effect and cannot be activated until you leave the form, but any passive magical properties will still affect you.
 
 ### Druid Paths
-At 2nd level, you choose a druidic path: Balance, Feral, or Restoration, each of which are detailed at the end of the class description. Your choice grants you features at 2nd level and again at 6th, 10th, 14th, and 20th level.
+*2nd-level Druid feature*
 
-### Wild Affinities
-Having accustomed yourself with the druidic forces, you have learnt how to harness the true potential of its powers and the potential of certain shapes.
+<div style='margin-top:-4px'></div>
 
-At 3rd level, you gain two wild affinities of your choice. Your affinity options are detailed at the end of the class description. When you gain certain druid levels, you gain additional affinities of your choice, as shown in the Affinities Known column of the Druid table.
-
-Additionally, when you gain a level in this class, you can choose one of the affinities you know and replace it with another affinities that you could learn at that level.
+You choose a druidic path: Balance, Feral, or Restoration, each of which are detailed at the end of the class description. Your choice grants you features at 2nd level and again at 6th, 10th, 14th, and 20th level.
 
 <div class='footnote'>PART 1 | CLASSES</div>
 
+
 \pagebreakNum
+
+### Wild Affinities
+*3rd-level Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+Having accustomed yourself with the druidic forces, you have learnt how to harness the true potential of its powers and the potential of certain shapes.
+
+You gain two wild affinities of your choice. Your affinity options are detailed at the end of the class description. When you gain certain Druid levels, you gain additional affinities of your choice, as shown in the Affinities Known column of the Druid table.
+
+Additionally, when you gain a level in this class, you can choose one of the affinities you know and replace it with another affinities that you could learn at that level.
 
 > ##### Druidic Forms
 > Shapeshifts are an extension of the druid. Both as a person but also as a race, a taurens shapeshifts might have horns similar to their own, an orc or troll might grant theirs tusks, a night elf might decorate theirs with signs of Elune, and so on. Similarly their beasts might be different, a night elf might choose a slim panther while a tauren chooses a stout lion.
@@ -380,39 +401,45 @@ Additionally, when you gain a level in this class, you can choose one of the aff
 > The shapeshifts are yours to personalize, although each is tied to certain type of animal or creature, you can modify its appearance to better fit your race, or talk with your DM about making it something completely different.
 
 ### Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+*4th-level Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+At this level and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Timeless Body
-Starting at 18th level, the primal magic that you wield has caused you to age more slowly. For every 10 years that pass, your body ages only 1 year.
+*18th-level Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+The primal magic that you wield has caused you to age more slowly. For every 10 years that pass, your body ages only 1 year.
 
 ### Soul of the Forest
-Beginning at 18th level, your connection with nature grows to new lengths, deepening your bond with nature and enabling you to conjure a gateway into the Emerald Dream.
+*18th-level Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+Your connection with nature grows to new lengths, deepening your bond with nature and enabling you to conjure a gateway into the Emerald Dream.
+
+\columnbreak
 
 Spending 10 minutes in an area of unspoiled nature, you can conjure a gateway to the Emerald Dream, the entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when conjuring the gateway can enter into the Emerald Dream for as long as the gate-way remains open. You can open and close the gateway if you are within 30 feet of it. While closed, the gateway on Azeroth crumbles and is effectively invisible. The gateway remains conjured for 24 hours, at which point it crumbles entire and cannot be conjured again for 7 days.
 
 Additionally, beasts and plants of the wilds can sense your connection to nature, giving you advantage on all skill and ability checks made to communicate with them.
 
-## <span style="margin-left:25px"></span> Druid Paths
-<span style="margin-left:25px"></span> Although all druids have a deep love for nature and 
-<span style="margin-left:30px"></span> wilderness, some carry a deep love for the beasts of 
-<span style="margin-left:35px"></span> the world and imitate their shapes. Some have a 
-<span style="margin-left:40px"></span> deep love for the goddess Elune and others wish to 
-<span style="margin-left:45px"></span> preserving life. All druids can be placed into one of 
-<span style="margin-left:50px"></span> following paths: Balance, Feral, or Restoration.
-
-\columnbreak
+## Druid Paths
+Although all druids have a deep love for nature and wilderness, some carry a deep love for the beasts of the world and imitate their shapes. Some have a deep love for the goddess Elune and others wish to preserving life. All druids can be placed into one of following paths: Balance, Feral, or Restoration.
 
 ### Path of Balance
 Druids on the Path of Balance become fierce combatants capable of calling upon the forces of nature and the beloved goddess Elune to guide their hand. Many of these druids have a deep connection with the natural world and work to protect it from the many outside threats.
 
-
 ##### Path of Balance Spells
 |&nbsp; Druid Level |&nbsp;&nbsp;| Spells           |
 |:---------:|:-|:-----------------------------------|
-|&nbsp; 3rd || enhance ability, moonbeam            |
-|&nbsp; 5th || daylight, ✦ starsurge                  |
-|&nbsp; 7th || confusion, grasping vine             |
-|&nbsp; 9th || commune with nature, wrath of nature |
+|&nbsp; 3rd || *enhance ability, moonbeam*            |
+|&nbsp; 5th || *daylight, ✦ starsurge*                  |
+|&nbsp; 7th || *confusion, grasping vine*             |
+|&nbsp; 9th || *commune with nature, wrath of nature* |
 <div style='margin-top:-5px;'></div>
 
 *✦ New spells can be found in chapter 6 later in this book* 
@@ -423,19 +450,38 @@ Your mystical connection to Elune infuses you with the ability to cast certain s
 Once you gain access to a path spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
 #### Innervate
-Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with the nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
+*2nd-level Balance Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You can regain some of your magical energy by sitting in meditation and communing with the nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
 
 For example, when you are a 4th-level druid, you can re-cover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
 
+<div class='footnote'>PART 1 | CLASSES</div>
+<img src='https://www.gmbinder.com/images/QGRe8vc.png' style='position:absolute; top:1085px; right:330px; width:750px;transform:rotate(-105deg)' />
+
+\pagebreakNum
+
+<div style='margin-top:580px;'></div>
+
 #### Force of Nature
-Beginning at 6th level, you can tap into the forces around you and use them to bolster your spellwork.
+*6th-level Balance Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You can tap into the forces around you and use them to bolster your spellwork.
 
 When you cast a spell that targets only one creature, you can choose to deal extra damage to it equal to your druid level, or restore hit points to it equal to your druid level. You can choose to use this feature before or after an attack roll, but before any effects of the roll are applied.
 
 You can use this feature twice. You regain expended uses when you finish a long rest.
 
 #### Astral Influence,
-Upon reaching 10th level, you find solace and empower&shy;ment in the goddess Elune, you gain the following features.
+*10th-level Balance Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You find solace and empowerment in the goddess Elune, you gain the following features.
 
 - You gain resistance to radiant damage.
 - You can choose to deal radiant damage with your Force of Nature feature, rather than the spell's damage type.
@@ -443,16 +489,62 @@ Upon reaching 10th level, you find solace and empower&shy;ment in the goddess El
 <div style='margin-top:-4px;'></div>
 
 #### Blessing of the Ancients
-Starting at 14th level, you balance between the two forces of the world. Whenever you finish a short or long rest, you can choose either *an'she* or *elune* and gain the benefits of the chosen balance until you finish your next rest.
+*14th-level Balance Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You balance between the two forces of the world. Whenever you finish a short or long rest, you can choose either *an'she* or *elune* and gain the benefits of the chosen balance until you finish your next rest.
 
 ***An'she.*** You are always under the effects of a *see invisi&shy;bility* spell. Additionally, you are immune to being blinded and when a melee attack is made against you, you can use your reaction to impose disadvantage on the attack roll.
 
+***Elune.*** You gain darkvision out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet. Additionally, while you are in dim light or darkness, you can use your reaction to gain advantage on your spell attacks made until the end of your turn.
+
+#### Incarnation: Chosen of Elune
+*20th-level Balance Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You have been chosen by Elune and can let her powers flow through you, taking on an appearance as you choose. For examples, the colors and stars of elune might move across your skin, your moonkin shape might shine with a dim blue glow, or you might have a crescent moon floating above your head
+
+You can use your action to assume your moonkin shape and let the powers of the goddess flow through you. For 1 minute, you gain the following benefits.
+
+- You can use a spell slot to cast the *moonbeam* spell, even if you don't have it prepared, and you can move the beam as a bonus action.
+- The range of any druid spell you cast is doubled, and any druid spell with a range of touch has a range of 30 feet.
+- You have advantage on Wisdom saving throws, as do your allies within 30 feet of you.
+
+The incarnation persists beyond the shapeshift, but has no effect outside of your moonkin shape. Once you use this feature, you can't use it again until you finish a long rest.
+
+
+### Path of Feral
+Druids on the Path of Feral feels a deeper connection the wilderness and its creatures than other druids, preferring the shape of a ferocious animal above their humanoid self. Feral druids excel at melee combat and uses the full capa&shy;bilities of their shapeshifts to attack their enemies head on.
+
+
+#### Savage Adaptation
+*2nd-level Feral Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You become proficient in your choice of Dexterity or Constitution saving throws, in addition to those of the druid class.
+
+Additionally, you refer to the Feral Spellcasting table in the Feral class description to determine your cantrips, spell slots, and known affinities whenever you gain a level in this class. You also count as a *half-caster* for determining available spell slots when multiclassing with other classes.
+
+#### Mark of Ursol
+*2nd-level Feral Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You are able to draw from the wisdom of the ancient Ursol to allow you to subtly cast spells, even when shapeshifted.
+
+You can choose to use this feature, allowing you to cast spells while shapeshifted until the end of your turn. While  active, you ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by the spell.
+
+You can use this feature twice. You regain expended uses when you finish a short or long rest.
+
+
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/QGRe8vc.png' style='position:absolute; top:1125px; right:330px; width:750px;transform:rotate(-105deg)' />
+<img src='https://www.gmbinder.com/images/cTUhYzO.jpg' style='position:absolute; top:0px; right:370px; width:450px' />
+<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:0px; right:-100px; width:900px; transform:scaley(-1)' />
 
 \pagebreakNum
-
-<div style='margin-top:480px;'></div>
 
 <div class='classTable'>
 
@@ -480,80 +572,75 @@ Starting at 14th level, you balance between the two forces of the world. Wheneve
 | 20th| 3 |4||3||3||3||2||10|
 </div>
 
-&nbsp;&nbsp;&nbsp; ***Elune.*** You gain darkvision out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet. Additionally, while you are in dim light or darkness, you can use your reaction to gain advantage on your spell attacks made until the end of your turn.
-
-#### Incarnation: Chosen of Elune
-At 20th level, you have been chosen by Elune and can let her powers flow through you, taking on an appearance as you choose. For examples, the colors and stars of elune might move across your skin, your moonkin shape might shine with a dim blue glow, or you might have a crescent moon floating above your head
-
-You can use your action to assume your moonkin shape and let the powers of the goddess flow through you. For 1 minute, you gain the following benefits.
-
-- You can use a spell slot to cast the *moonbeam* spell, even if you don't have it prepared, and you can move the beam as a bonus action.
-- The range of any druid spell you cast is doubled, and any druid spell with a range of touch has a range of 30 feet.
-- You have advantage on Wisdom saving throws, as do your allies within 30 feet of you.
-
-The incarnation persists beyond the shapeshift, but has no effect outside of your moonkin shape. Once you use this feature, you can't use it again until you finish a long rest.
-
-### Path of Feral
-Druids on the Path of Feral feels a deeper connection the wilderness and its creatures than other druids, preferring the shape of a ferocious animal above their humanoid self. Feral druids excel at melee combat and uses the full capa&shy;bilities of their shapeshifts to attack their enemies head on.
-
-#### Savage Adaptation
-When you choose this path at 2nd level, you become proficient in your choice of Dexterity or Constitution saving throws, in addition to those of the druid class.
-
-Additionally, you refer to the Feral Spellcasting table in the Feral class description to determine your cantrips, spell slots, and known affinities whenever you gain a level in this class. You also count as a *half-caster* for determining available spell slots when multiclassing with other classes.
-
-#### Mark of Ursol
-Starting at 2nd level, you are able to draw from the wisdom of the ancient Ursol to allow you to subtly cast spells, even when shapeshifted.
-
-You can choose to use this feature, allowing you to cast spells while shapeshifted until the end of your turn. While  active, you ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by the spell.
-
-You can use this feature twice. You regain expended uses when you finish a short or long rest.
-
 #### Feral or Guardian Affinity
-Also at 2nd level, you gain one of the following features of your choice, your choice will also determine your 14th level Feral feature.
+*2nd-level Feral Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You gain one of the following features of your choice, your choice will also determine your 14th level Feral feature.
 
 ***Ravage.*** When you hit a creature with a melee attack while shapeshifted, you can expend a spell slot to deal extra weapon damage to the target. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 6d8.
 
-<div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/cTUhYzO.jpg' style='position:absolute; top:0px; right:370px; width:450px' />
-<img src='https://www.gmbinder.com/images/fnPL7gX.png' style='position:absolute; top:0px; right:-100px; width:900px; transform:scaley(-1)' />
-
-\pagebreakNum
-
-&nbsp;&nbsp;&nbsp; ***Frenzy.*** You can use a bonus action to enter a frenzy while shapeshifted, giving you resistance to bludgeoning, piercing, and slashing damage.
+***Frenzy.*** You can use a bonus action to enter a frenzy while shapeshifted, giving you resistance to bludgeoning, piercing, and slashing damage.
 
 Your frenzy lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end the frenzy on your turn as a bonus action.
 
 You can use this feature twice. Beginning at 7th level, you can use frenzy three times between rests, and at 15th level, you can enter a frenzy four times between rests. When you finish a long rest, you regain all expended uses.
 
 #### Primal Instincts
-Upon reaching 6th level, you act instinctively to danger and add your Wisdom modifier to your initiative rolls.
+*6th-level Feral Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You act instinctively to danger and add your Wisdom modifier to your initiative rolls.
 
 Your time spent shapeshifted has made you adept at scouring your surroundings. You can't be surprised while you're awake.
 
 #### Extra Attack
-Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn while shapeshifted.
+*6th-level Feral Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You can attack twice, instead of once, whenever you take the Attack action on your turn while shapeshifted.
 
 In addition, your shapeshifted weapon attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damages.
 
 #### Feral Tactics
-Also at 6th level, you choose one of the following features. You can use this feature when shapeshifted.
+*6th-level Feral Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You choose one of the following features. You can use this feature when shapeshifted.
 
 ***Pack Defender.*** When a friendly creature you can see within 5 feet of you is being targeted by an attack roll, you can use your reaction to swap places with the creature and have the attack target you instead.
 
 ***Pulverizing Mauler.*** When you hit a creature with a weapon attack, the creature must make a Strength saving throw (DC 8 + your Strength or Dexterity modifier + your proficiency bonus). On a failed save, the creature is knocked prone. You can pulverize only once per turn.
 
 #### Brutal Maim
-At 10th level, when you hit a creature with a weapon attack while shapeshifted, the creature hit has disadvantage on the next saving throw it makes against a druid spell you cast before the end of your next turn.
+*10th-level Feral Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+
+When you hit a creature with a weapon attack while shapeshifted, the creature hit has disadvantage on the next saving throw it makes against a druid spell you cast before the end of your next turn.
 
 #### Superior Feral or Guardian Affinity
-Beginning at 14th level, you gain one of the following features, depending on your choice at 2nd level.
+*14th-level Feral Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You gain one of the following features, depending on your choice at 2nd level.
 
 ***Ravage.*** When a hostile creature that you can see within reach is hit by an attack made by another creature, you can use your reaction to make an opportunity attack against that hostile creature.
 
 ***Frenzy.*** While you are in a frenzy, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against target other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be frightened.
 
 #### Incarnation: Guardian of the Wilds
-At 20th level, you can assume the form of a guardian of the wilds, bolstering the appearance of your shapeshift and empowering yourself through the forces of nature. Bark manifests as armor around you and your appearance grows feral and terrifying as the wilds grant you its power.
+*20th-level Feral Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You can assume the form of a guardian of the wilds, bolstering the appearance of your shapeshift and empowering yourself through the forces of nature. Bark manifests as armor around you and your appearance grows feral and terrifying as the wilds grant you its power.
 
 While shapeshifted, you can use your action to incarnate the wilds. For 1 minute, you gain the following benefits.
 
@@ -562,6 +649,11 @@ While shapeshifted, you can use your action to incarnate the wilds. For 1 minute
 - Your base movement speed increases by 10 feet, and you ignore difficult terrain.
 
 The incarnation persists beyond your shapeshifts, but has no effect outside of them. Once you use this feature, you can't use it again until you finish a long rest.
+
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
 
 ### Path of Restoration
 Druids on the Path of Restoration seeks to undo the many injuries that are dealt to the world and its people. They are strong hearted and loving individuals, less prone to fits of anger and more willing to seek common ground.
@@ -580,17 +672,29 @@ Your restorative powers have granted you the ability to cast certain spells to y
 Once you gain access to a path spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
 #### Rejuvenation
-When you choose this path at 2nd level, you gain the blessings of Elune, making you a font of energy that offers respite from injuries. You have a pool of energy represented by a number of d6s equal to your druid level.
+*2nd-level Restoration Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You gain the blessings of Elune, making you a font of energy that offers respite from injuries. You have a pool of energy represented by a number of d6s equal to your druid level.
 
 As a bonus action, you can choose one creature that you can see within 120 feet of you and spend a number of those dice equal to half your druid level or less. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 tempor-ary hit point per die.
 
 You regain all expended dice when you finish a long rest.
 
 #### Ironbark
-Beginning at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.
+*6th-level Restoration Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+When you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.
 
 #### Tranquility
-Starting at 10th level, you are able to draw on the tranquil nature around you to sooth your allies. As an action, you evoke the tranquility and gain a pool of healing energy that can restore hit points equal to five times your druid level.
+*10th-level Restoration Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You are able to draw on the tranquil nature around you to sooth your allies. As an action, you evoke the tranquility and gain a pool of healing energy that can restore hit points equal to five times your druid level.
 
 Maintaining tranquility requires your concentration, lasts up to 1 minute, and while you are concentrating on it your movement speed is halved.
 
@@ -598,17 +702,23 @@ While active, you can use a bonus action to choose <br> any number of creatures 
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-<div class='footnote'>PART 1 | CLASSES</div>
-
-\pagebreakNum
+\columnbreak
 
 #### Cenarion Ward
-When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
+*14th-level Restoration Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+Creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
 
 The creature is aware of this effect before it makes its attack against you.
 
 #### Incarnation: Tree of Life
-At 20th level, you can draw strength from the world trees of Azeroth, enlarging your treant shape to equal an ancient as you take on the tranquil shape of a tree of life.
+*20th-level Restoration Druid feature*
+
+<div style='margin-top:-4px'></div>
+
+You can draw strength from the world trees of Azeroth, enlarging your treant shape to equal an ancient as you take on the tranquil shape of a tree of life.
 
 You can use your action to assume your treant shape and incarnate to a tree of life. For 1 minute, you gain the following benefits.
 
@@ -617,6 +727,10 @@ You can use your action to assume your treant shape and incarnate to a tree of l
 - When you cast a spell that restores hit points to a target, another creature of your choice within 30 feet of it is regains hit points equal to half the amount restored.
 
 The incarnation persists beyond the shapeshift, but has no effect outside of your treant shape. Once you use this feature, you can't use it again until you finish a long rest.
+
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
 
 ## Wild Affinities
 If a wild affinity has prerequisites, you must meet them to learn it. You can learn the affinity at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
@@ -643,8 +757,6 @@ While shapeshifted as a treant, whenever you restore hit points to a creature, t
 You can expend a spell slot of 2nd-level or higher to cast <br> the *misty step* spell. When you do so, you reappear in the unoccupied space as an available shapeshift of your choice.
 
 ***Feral.*** You can use this affinity once, without expending a spell slot. You can't do so again until you finish a short rest.
-
-\columnbreak
 
 #### Feline Momentum
 *Prerequisite: 9th level*
@@ -678,6 +790,8 @@ Whenever you use Rejuvenation, you can expend a spell slot of 1st-level or highe
 
 While shapeshifted, you can expend a spell slot to cast the *compelled duel* spell.
 <div style='margin-top:-1px;'></div>
+
+\columnbreak
 
 #### Leader of the Pack
 *Prerequisite: 4th level*
@@ -717,10 +831,6 @@ While shapeshifted as cat or moonkin, you can use your reaction to give yourself
 
 While shapeshifted as a moonkin or treant, you add your Wisdom modifier to any Constitution saving throws you make to maintain your concentration.
 
-<div class='footnote'>PART 1 | CLASSES</div>
-
-\pagebreakNum
-
 #### Primal Fury
 *Prerequisite: 5th level*
 <div style='margin-top:-6px;'></div>
@@ -746,6 +856,10 @@ While shapeshifted, you can expend a spell slot of 1st-level or higher to cast t
 
 While shapeshifted, you can cast *counterspell* once using a spell slot, but only as a touch spell. You can't do so again until you finish a long rest.
 
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\pagebreakNum
+
 #### Solar Drift
 *Prerequisite: Path of Balance, solar wrath* cantrip 
 <div style='margin-top:-6px;'></div>
@@ -756,9 +870,6 @@ When you cast *solar wrath* while shapeshifted as a moonkin, the range of the sp
 While shapeshifted, you can expend a spell slot of 1st-level or higher and choose any number of creatures within 60 feet of you, each creature have its base movement speed increased by 10 feet until the end of your next turn.
 
 ***At Higher Levels.*** The movement speed increases by 10 feet for each slot level above 2nd.
-
-\columnbreak
-
 #### Sunfire
 *Prerequisite: Path of Balance, solar wrath* cantrip 
 <div style='margin-top:-6px;'></div>
@@ -770,6 +881,8 @@ When you hit a target with *solar wrath* while shapeshifted as a moonkin, the ta
 <div style='margin-top:-6px;'></div>
 
 While shapeshifted as a bear, when you are reduced to 0 hit points by an attack or spell but not outright killed, you can drop to 1 hit point instead. You can't do so again until you finish a long rest.
+
+\columnbreak
 
 #### Thick Hide
 *Prerequisite: 5th level*
@@ -796,8 +909,8 @@ When you cast *lunar strike* while shapeshifted as a moonkin, you can choose two
 You can use Mark of Ursol a number of times equal to your Wisdom modifier, instead of twice. You regain all spent uses after finishing a short or long rest.
 
 <div class='footnote'>PART 1 | CLASSES</div>
-<img src='https://www.gmbinder.com/images/958mFBu.jpg' style='position:absolute; top:630px; right:0px; width:900px' />
-<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-350px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/958mFBu.jpg' style='position:absolute; top:600px; right:0px; width:900px' />
+<img src='https://www.gmbinder.com/images/3e9S91s.png' style='position:absolute; top:-410px; right:0px; width:900px' />
 
 \pagebreakNum
 
