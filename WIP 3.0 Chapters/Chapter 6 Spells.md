@@ -2036,11 +2036,11 @@
   - **Components:** V, S, M (dried skin of a demon or fiend)
   - **Duration:** 8 hours
   ___
-  Your skin becomes covered in a layer of fel energy, infusing you with fiendish vigor. Your base Armor Class becomes 8 + your spellcasting ability modifier (minimum AC 10). 
+  Your skin becomes covered in a layer of fel energy, infusing you with fiendish vigor.
+
+  While unarmored, your base AC becomes 11 + your spellcasting modifier. Additionally, your current hit points and hit point maximum each increase by 3. If ending the spell would cause your current hit point total to drop to 0 or lower, it drops to 1 instead.
   
-  Additionally, your current hit points and hit point maximum each increase by 2. If ending the spell would cause your current hit point total to drop to 0 or lower, it drops to 1 instead.
-  
-  ***At Higher Levels:*** When you cast this spell using a spell slot of 2nd level or higher, the Armor Class granted by the spell increases by 1 and your current hit point total and hit point maximum each increase by 2 for each slot level above 1st.
+  ***At Higher Levels:*** When you cast this spell using a spell slot of 2nd level or higher, your current hit point total and hit point maximum each further increase by 3 for each slot level above 1st.
 
 \columnbreak
   
