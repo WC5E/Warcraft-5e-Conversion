@@ -1320,7 +1320,7 @@ Tauren bear no personal ill will towards the Alliance and view night elves with 
 
 ***Highmountain Tauren.*** These tauren lived isolated from the rest of their kin upon the Broken Isles until the Burning Legion's Third Invasion of Azeroth. Once the legion and its forces had been pushed back into the Twisting Nether, they received an invitation into the Horde by Baine Bloodhoof.
 
-***Taunka.*** These tauren pledged their allegiance to the Horde as they were forced to migrate across North&shy;red as the Scourge encroached on their homes. Although they are members of the Horde, few taunka leave the comforts and cold of Northrend and ventures beyond.
+***Taunka.*** These tauren pledged their allegiance to the Horde as they were forced to migrate across North&shy;rend as the Scourge encroached on their homes. Although they are members of the Horde, few taunka leave the comforts and cold of Northrend and ventures beyond.
 
 ### Names 
 The language of the tauren is often harsh and low sounding, which is reflected in the names of their children. The last name of a tauren is usually a family name, handed down through the generations. If the tauren has performed some act that has made an impression on the elders of his tribe, however, he may choose to take on his own last name to commemorate that act.
