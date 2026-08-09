@@ -631,15 +631,3 @@ You are able to interfere with and absorb magic. As an action, you can spend 2 f
 <div style='margin-top:-4px;'></div>
 
 You can release a torrent of chaos flames at targets near you. You can use your action and expend 1 to 5 fel points, releasing a barrage of chaos flames at creatures of your choice within 30 feet of you. Each creature must make a Dexterity saving throw. On a failed save, a creature takes 1d8 fire damage and 1d8 force damage for each fel point spend, or half as much damage on a successful one.
-
-<div style='margin-top:100px;'></div>
-
-# New Equipment
-
-<div class='classTable wide'>
-
-##### Exotic Weapons
-|&nbsp; Name | Cost |&nbsp;&nbsp;&nbsp;&nbsp;| Damage | Weight |&nbsp;&nbsp;&nbsp;&nbsp;| Properties       &nbsp;|
-|:--------------------------------------|---:|:-|:---------------|---:|:-:|:-------------------------------------|
-|&nbsp; Warglaive           | 25 gp|| 1d8 slashing   |  3 lb.|| Thrown (range 20/60), Versatile (1d10)  |
-</div>
