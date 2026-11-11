@@ -536,7 +536,8 @@
 									"style": "list-no-bullets",
 									"columns": 3,
 									"items": [					
-										"{@creature Carrion Bird Moth|WC5E MoM}",
+										"{@creature Carrion Bird|WC5E MoM}", 
+										"{@creature Moth|WC5E MoM}",
 										"{@creature Cheetah|WC5E MoM}",
 										"{@creature Clefthoof|WC5E MoM}",
 										"{@creature Cobra|WC5E MoM}",
